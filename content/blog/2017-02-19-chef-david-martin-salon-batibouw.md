@@ -1,0 +1,27 @@
+---
+layout: post
+title: Le Chef David Martin au salon Batibouw
+thumbnail: /assets/images/upload/2017/02/chef-david-martin-la-paix-batibouw-Bauknecht-2017-2.jpg
+date: 2017-02-19 19:36:42
+categories: 
+- Lifestyle
+tags: 
+- découverte
+disqusId: '5566416732'
+---
+
+Hier j'ai eu l'occasion d'être invitée au [salon Batibouw](https://www.batibouw.com/fr) afin d'assister le chef [David Martin du Restaurant La Paix*](http://www.lapaix1892.com/) lors de sa démonstration au stand [Bauknecht](http://www.bauknecht.be/). Au menu ? **Un tiramisu aux speculoos, une recette simple mais délicieuse**, concoctée avec une des nouveautés de la marque Bauknecht.
+
+Avant de vous parler de la recette, j'aimerai vous parler un peu des produits découverts là bas. _Je suis tombée amoureuse d'un des fours de la gamme_ : un four combiné au top du top, petit mais efficace et qui comporte _un mode vapeur (le tooooop pour réaliser des pains maison)_. Pour certains cela peut paraitre étrange de me voir en extase sur un four mais ne pouvant changer le miens je n'ai jamais fait attention à ce qu'il pouvait se faire de nouveau. J'ai donc été agréablement surprise de toutes les possibilités qui s'offraient à nous maintenant.
+
+C'est vrai qu'une cuisine bien rangée, ergonomique et jolie, c'est toujours plus agréable pour cuisiner. J'y ai également vu une hotte encastrée à mes les plaques, un chouette frigo/congelo encastrable et un micro-ondes avec une fonction "Crisp" bien pratique. C'est d'ailleurs cette fonction qui a été mise en avant par le Chef pour réaliser sa recette.
+
+![]({{ site.baseurl }}/assets/chef-david-martin-la-paix-batibouw-Bauknecht-2017-2.jpg) ![]({{ site.baseurl }}/assets/chef-david-martin-la-paix-batibouw-Bauknecht-2017-3.jpg) ![]({{ site.baseurl }}/assets/chef-david-martin-la-paix-batibouw-Bauknecht-2017-6.jpg) ![]({{ site.baseurl }}/assets/chef-david-martin-la-paix-batibouw-Bauknecht-2017-4.jpg)
+
+En effet, **la fonction "Crisp"** permet de cuire des aliments de manière homogène et rapide ! En effet, les biscuits speculoos sont cuits en quelques minutes seulement avec cette fonction, ce qui est plutôt magique quand on voit le temps que cela prendrait dans un four traditionnel.
+
+N'ayant vraiment que peu de temps pour moi en ce moment, je ne vais malheureusement pas vous donner **la recette de ce dessert** tout de suite. Mais n'ayez crainte, Myriam, une amie bloggeuse va tenter la recette chez elle et va très probablement la publier très vite sur [son blog "La cuisine c'est simple"](http://www.lacuisinecestsimple.com/). Sachez néanmoins que c'est un _dessert très léger_, l'utilisation du siphon se révèle très chouette et permet de réaliser un tiramisu minute. Le top non ?
+
+![]({{ site.baseurl }}/assets/chef-david-martin-la-paix-batibouw-Bauknecht-2017-5.jpg) ![]({{ site.baseurl }}/assets/chef-david-martin-la-paix-batibouw-Bauknecht-2017-7.jpg) ![]({{ site.baseurl }}/assets/chef-david-martin-la-paix-batibouw-Bauknecht-2017-8.jpg) ![]({{ site.baseurl }}/assets/chef-david-martin-la-paix-batibouw-Bauknecht-2017-9.jpg) ![]({{ site.baseurl }}/assets/chef-david-martin-la-paix-batibouw-Bauknecht-2017.jpg)
+
+Ce salon m'a donné l'envie de m'intéresser un peu plus aux nouveautés sur le marché, qui c'est, peut être qu'un jour j'aurais une belle cuisine rien qu'à moi !

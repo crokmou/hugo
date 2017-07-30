@@ -1,0 +1,56 @@
+// Init
+@import "variables";
+@import "reset";
+@import "grid";
+
+* {
+  box-sizing: border-box;
+  margin: 0; padding: 0;
+  border-radius: inherit;
+  color: inherit;
+  &:not(script) + *:not(body):not(.flex-*) { margin-top: $global-margin; }
+  &:focus {
+    outline: 1px dashed $brand-primary-darker;
+    background-color: lighten($brand-primary-darker, 50%);
+  }
+}
+svg, svg * { box-sizing: content-box; }
+
+body, html { height: 100%; }
+html { font-size: 62.5%; }
+body {
+  > div,
+  > header {
+    font-size: rem(16);
+  }
+}
+
+.container { max-width: rem(1200); margin: 0 auto; width: 100%; }
+
+// Utils
+@import "utils";
+
+// Atoms
+@import "atom/list";
+@import "atom/input";
+@import "atom/typo";
+
+// Molecules
+@import "molecule/card";
+@import "molecule/icon";
+@import "molecule/picture";
+@import "molecule/selectric";
+
+// Blocks
+@import "markdown";
+
+// Includes
+@import "organism/header";
+@import "organism/footer";
+@import "organism/sidebar";
+
+// Pages
+@import "pages/page";
+@import "pages/home";
+@import "pages/decouverte";
+@import "pages/404";

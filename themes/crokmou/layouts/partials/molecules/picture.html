@@ -1,0 +1,9 @@
+{{$class := index . "class"}}
+{{$src := index . "src"}}
+{{$alt := index . "alt"}}
+{{$pb := index . "pb"}}
+
+<picture class='picture{{ with $class }} {{ . }}{{ end }}'
+         style='padding-bottom: {{ $pb }}'>
+  <img class='picture__item' src='{{ $src }}' alt='{{ $alt }}'>
+</picture>

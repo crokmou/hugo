@@ -1,0 +1,22 @@
+baseURL: "https://crokmou.com/"
+languageCode: "fr-FR"
+title: "Crokmou"
+metaDataFormat: "yaml"
+theme: "crokmou"
+
+sectionPagesMenu: "main"
+
+params:
+  socials:
+    - id: "facebook"
+      href: "/facebook/"
+    - id: "gplus"
+      href: "/gplus/"
+    - id: "instagram"
+      href: "/instagram/"
+    - id: "pinterest"
+      href: "/pinterest/"
+    - id: "twitter"
+      href: "/twitter/"
+    - id: "youtube"
+      href: "/youtube/"

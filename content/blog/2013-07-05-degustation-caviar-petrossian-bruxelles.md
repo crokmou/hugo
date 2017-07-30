@@ -1,0 +1,41 @@
+---
+layout: post
+title: Dégustation caviar Petrossian à Bruxelles
+date: 2013-07-05 18:39:00
+categories: 
+- Lifestyle
+tags: 
+- restaurant
+disqusId: '3587683295'
+---
+
+**Petrossian - Epicerie fine**  
+Rue Vanderkindere, 418  
+1180 Bruxelles  
+Tel: +32 (0)2 344 39 90
+
+La semaine dernière nous avons eu la chance (d'autres blogueurs et moi même) d'être invités par Salima ([Parts de plaisir](http://partsdeplaisir.blogspot.be/)) pour une petite dégustation de caviar dans la boutique [Petrossian](http://www.petrossian.fr/). Autant vous l'avouer, au départ j'étais sceptique : les produits de la mer c'est pas mon truc, je n'avais jamais goûté de caviar et visuellement cela ne me plaisait pas du tout (quoi ? j'suis difficile vous trouvez ?!).  
+Après quelques minutes de reflexion je me suis dit qu'assister à une telle dégustation et surtout dans un si bel endroit, cela ne se représenterai peut être jamais, je me suis donc lancée !
+
+Petrossian est une boutique d'épicerie fine de grande renommée spécialisée dans le caviar depuis 1920\. Les plus anciennes boutiques se trouvent sur Paris mais actuellement l'enseigne ouvre d'autres magasins un peu partout dans le monde notamment aux Etats Unis, à Dubaï, au Brésil et plus récemment en Belgique ! C'est donc là, à Bruxelles que je me suis rendue au rendez vous !
+
+![petrossian à bruxelles]({{ site.baseurl }}/assets/20130625_petrossian_caviar_degustation_bruxelles_0005.jpg) ![petrossian à bruxelles]({{ site.baseurl }}/assets/20130625_petrossian_caviar_degustation_bruxelles_0019.jpg)
+
+Nous avons été accueillis par Dimitri Bourrigault, gérant de la boutique à Bruxelles, c'est sous ses conseils avisés et récits passionnants que nous avons alors entamés la dégustation des produits phares de l'enseigne.  
+Il faut savoir que le caviar se décline selon la provenance, l'espèce et la qualité, c'est ce qui fait que chaque caviar à un goût et un aspect différent. Pour commencer, nous avons goûté un [Ossetra Tradition](http://www.petrossian.fr/index.php?file=product/product_detail&iprod_id=414&cid=2) , grains fins et noirs, ça fond en bouche, c'est iodé mais pas trop, pour une première fois, j'aime beaucoup ! Nous avons ensuite dégusté un [Alverta Imperial](http://www.petrossian.fr/index.php?file=product/product_detail&iprod_id=124&cid=2), des grains un peu plus gros et plus fermes, une couleur un peu plus ambré et un goût marin un peu trop prononcé à mon goût ! Je suis contente d'avoir réussi à surmonter mon dégoût pour les trucs marins et visqueux, parce qu'en fin de compte c'était une bonne expérience (et puis c'est pas mauvais du tout !).
+
+![http://www.petrossian.fr/index.php?file=product/product_detail&iprod_id=124&cid=2]({{ site.baseurl }}/assets/20130625_petrossian_caviar_degustation_bruxelles_0028.jpg) ![http://www.petrossian.fr/index.php?file=product/product_detail&iprod_id=124&cid=2]({{ site.baseurl }}/assets/20130625_petrossian_caviar_degustation_bruxelles_0032.jpg)
+
+Par chance, la dégustation ne s'est pas arrêtée là : du [coeur de saumon fumé](http://www.petrossian.fr/index.php?file=product/product_detail&iprod_id=20&cid=4) Petrossian saupoudré de [fleur de caviar](http://www.petrossian.fr/index.php?file=product/product_detail&iprod_id=900&cid=2), du coeur de saumon fumé à l'aneth... autant vous le dire je n'ai jamais (mais jamais jamais jamais) mangé de saumon fumé aussi délicieux ! Le produit était tendre, fondant, savoureux... bref l'extase ! Nous avons ensuite savouré un excellent [tarama](http://www.petrossian.fr/index.php?file=product/product_detail&iprod_id=24&cid=4) sur de [croustillants biscuits au seigle](http://www.petrossian.fr/index.php?file=product/product_detail&iprod_id=943&cid=4) ainsi que des [cubes de caviars pressés](http://www.petrossian.fr/index.php?file=product/product_detail&iprod_id=830&cid=2).  
+Monsieur Bourrigault nous a fait part de ses conseils pour l'association du caviar, les choses simples sont les meilleures, dans des pâtes fraiches (notre ami Greg du blog Cook'n'Roll a d'ailleurs fait [la recette](http://cookandroll.canalblog.com/archives/2013/07/05/27549574.html)) ou sur une pomme de terre au four avec un peu de crème fraîche... Mais je vous rassure à la cuillère cela fonctionne tout aussi bien, mais attention à utiliser une cuillère en nacre pour ne pas altérer le goût du produit !
+
+Une petite dégustation chez vous pour un budget raisonnable ? Je vous conseillerai le caviar eggxiting, ce sont de petites billes qui contiennent 12g de caviar, pour une fête à déposer sur la table ou tout simplement pour un petit dîner en amoureux, je trouve cette présentation irrésistible !
+
+Petrossian ce n'est pas uniquement des produits salés mais aussi sucrés : du [jus de grenade](http://www.petrossian.fr/index.php?file=product/product_detail&iprod_id=68&cid=1) (plus brut y'a pas, c'est ... surprenant !), des thés mais aussi des perles de chocolat (au cognac, à la vodka, au citron). Une belle petite boutique qui sera ravir les plus fins gourmets !
+
+Pour conclure cette petite soirée, ce fût vraiment sympa et très instructif ! Je suis ravie de m'être lancée, j'ai découvert des saveurs que je ne connaissais pas, ça change et c'est pas plus mal ainsi !  
+Merci aux paparazzis du soir et à Dimitri Bourrigault pour cette agréable dégustation !
+
+![http://www.petrossian.fr/index.php?file=product/product_detail&iprod_id=68&cid=1]({{ site.baseurl }}/assets/20130625_petrossian_caviar_degustation_bruxelles_0010-e1428418267776.jpg)
+
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

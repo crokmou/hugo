@@ -1,0 +1,56 @@
+---
+layout: post
+title: Ravioles aux endives caramélisées
+date: 2011-04-13 16:15:00
+categories: 
+- Plats
+tags: 
+- caramel
+- endive
+- lait
+- legume
+- pate
+- plat
+- raviole
+- raviolis
+disqusId: '3637317050'
+---
+
+_Les endives, pas toujours facile de faire manger cela aux enfants. Je n'aimais pas beaucoup cela non plus jusqu'au jour où mon papounet me les as faites caramélisées, et depuis ce jour j'ai appris à aimer les endives sous tous les angles ! Magique non ?_
+
+_Pour la petite recette du jour, pas de simples endives, mais des ravioles fourrées. J'utilise pour fabriquer les ravioles, une petite plaque prévue à cet effet en forme de fleurs (oui oui c'est mignon et tout !)_
+
+![pate_a_raviole]({{ site.baseurl }}/assets/62864810_p.jpg)
+
+(Recette de la pâte venant d' [Alice47](http://www.lesfoodies.com/ecila/recette/pate-a-raviolis-maison) sur Les Foodies)
+
+*   200g de farine
+*   2 oeufs
+*   1 càs d'huile d'olive
+*   1 càs de lait
+*   2 pincées de sel
+
+![preparation]({{ site.baseurl }}/assets/62864933_p.jpg)
+
+1.  Mélangez tous les ingrédients ensemble.
+2.  Sur un plan de travail fariné, malaxez et pétrissez bien la pâte pour ensuite former une boule. Laissez reposer une heure
+3.  Farinez de nouveau votre boule de pâte et étalez là du mieux que possible (quand vous avez un rouleau à pâtisserie) ou utilisez votre machine à pâte, afin que votre pâte à ravioles devienne très fine.
+4.  Si comme moi vous avez une plaque à ravioles, utilisez là comme marqué sur la notice et fourrez vos ravioles, ou si vous ne voyez pas l'utilité de ce genre de matériel : faites des ronds dans la pâte avec un emporte pièces ou un verre, fourrez votre raviole, super positionnez un deuxième rond de pâte, pressez et collez les bords à l'aide d'un peu de lait ou d'eau.
+5.  Farinez de nouveau vos ravioles fourrées afin que celles-ci soient plus solides.
+6.  Faites chauffer une casserole d'eau salée, quand l'eau est à ébullition, plongez les ravioles par 6/8 et faites cuire environ 6 min.
+7.  A déguster avec un peu de parmesan pour ma part, pour vous cela reste selon vos envies !
+
+![farce_endives]({{ site.baseurl }}/assets/62865159_p.jpg)
+
+*   4 belles endives
+*   sucre
+
+![preparation]({{ site.baseurl }}/assets/62865177_p.jpg)
+
+1.  Coupez vos endives en petits morceaux
+2.  Dans un fait-tout faites fondre une noisette de beurre et incorporez les endives
+3.  Faites fondre les endives à feu moyen tout en remuant bien pour ne pas que celles-ci brûlent !
+4.  Une fois les endives fondantes à souhait, ajoutez une bonne dose de sucre et laissez caraméliser.
+5.  Retirez votre farce du feu, attendez un peu que cela refroidisse et fourrez vos ravioles !
+
+_Je vous souhaite un très bon appétit !_

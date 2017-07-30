@@ -1,0 +1,50 @@
+.card {
+  @include tile-shadow();
+  &__thumbnail { display: block; }
+  &__content {
+    padding: $global-padding;
+  }
+  &__tag { text-transform: uppercase; font-size: .9em; color: $gray-45; }
+  &__title {
+    a { color: $brand-secondary; text-transform: uppercase; }
+  }
+  &__footer {
+    position: relative;
+    padding: 10px;
+    background-color: $brand-primary;
+    a { display: inherit; }
+    &, a { color: $brand-primary-darker; line-height: 1; }
+    &__comment {
+      padding-left: 10px;
+      .s-icon {
+        margin-right: 10px;
+        font-size: 1.1em;
+      }
+    }
+    &__share {
+      position: absolute; top: 0; right: 0; left: 90%; bottom: 0;
+      padding: 5px 10px;
+      font-size: 1.1em;
+      .content { height: 100%; }
+      a {
+        display: none;
+        margin-left: 10px;
+      }
+      .toggle {
+        display: inherit;
+        margin-left: auto; margin-right: 10px;
+        &__close { display: none; }
+      }
+      &.visible {
+        left: 0;
+        background-color: $brand-primary;
+        a { display: inherit; }
+        .toggle {
+          &__close { display: inherit; }
+          &__open { display: none; }
+        }
+
+      }
+    }
+  }
+}

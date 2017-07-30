@@ -1,0 +1,14 @@
+{{ partial "head.html" . }}
+
+{{ partial "organism/header.html" . }}
+
+<div class="page">
+	<div class="page__container container">
+		<div class="{{.Params.id}}">
+			{{ .Content }}
+		</div>
+	</div>
+</div>
+
+{{ partial "organism/footer.html" . }}
+

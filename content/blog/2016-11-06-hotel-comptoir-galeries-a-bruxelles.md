@@ -1,0 +1,62 @@
+---
+layout: post
+title: Hôtel & Comptoir des galeries à Bruxelles
+thumbnail: /assets/images/upload/2016/10/comptoir-hotel-des-galeries-bruxelles-crokmou-blog-culinaire-02.jpg
+date: 2016-11-06 15:36:55
+categories: 
+- Lifestyle
+tags: 
+- hôtel
+- restaurant
+disqusId: '5283345332'
+---
+
+**Hôtel des galeries******  
+rue des Bouchers, 38  
+1000 Bruxelles  
+_[Site Internet](http://hoteldesgaleries.be)_
+
+Les galeries du Roi & de la Reine à Bruxelles sont pour moi un des plus beaux endroit à visiter, alors inutile de vous dire que quand on m'a proposé de passer la nuit dans un Hôtel se trouvant dans celles-ci, il m'était difficile de refuser !
+
+L' Hôtel des galeries se situe à l'angle de la rue des bouchers et de la Galerie du Roi, on y accède par une petite porte vitrée où l'on peut distinguer un bureau d'accueil épuré et singulier.  
+Le ton est tout de suite donné, dans l'hôtel on mêle modernisme et antiquités à la perfection. Deux architectes d'intérieur, Fleur Delesalle & Camille Flammarion, se sont partagé l'aménagement des 23 chambres qui constituent l'établissement. Réparties sur 3 étages et un entresol, certaines de ces chambres ont une vue sur les galeries, d'autres sur les toits du centre ville et la Cathédrale.
+
+## La chambre
+
+L'amoureux et moi même avons séjourné dans _une des chambres "Double Queen"_ donnant sous la magnifique verrière des Galeries. La chambre est cosy, on se croirait chez soi, enfin presque : la décoration est atypique, tout s'assemble et pourtant ne se ressemble pas : on y retrouve **des pièces modernes, des objets dessinés par de nouveaux noms du design Belge mais aussi du mobilier chiné chez les antiquaires du quartier du Sablon**. En fait, ce mélange c'est un peu ce qui fait tout Bruxelles : la mixité.  
+Ce qui est assez chouette également dans ce petit cocon, c'est que les deux autres pièces de la chambre semblent être invisibles, en effet la salle de bain et les toilettes se retrouvent imbriqués dans les murs, on peut passer devant sans même s'en rendre compte.
+
+D'ailleurs la salle de bain, parlons en, cette **déco années 70** est top. Une baignoire au _design épuré_ ainsi qu'une douche à l'Italienne, il y'en a pour tous les goûts !  
+Nous avons bien dormi, le lit était confortable et la chambre était bien insonorisée (seul petit hic peut être, lorsque les dames marchent en talons sur le parquet dans le couloir voisin). Une agréable nuit pour se ressourcer avant la semaine qui s'annonçait.
+
+![hôtel des galeries bruxelles]({{ site.baseurl }}/assets/comptoir-hotel-des-galeries-bruxelles-crokmou-blog-culinaire-02.jpg) ![hôtel des galeries bruxelles]({{ site.baseurl }}/assets/comptoir-hotel-des-galeries-bruxelles-crokmou-blog-culinaire-04.jpg) ![comptoir-hotel-des-galeries-bruxelles-crokmou-blog-culinaire-03]({{ site.baseurl }}/assets/comptoir-hotel-des-galeries-bruxelles-crokmou-blog-culinaire-03.jpg)
+
+**Comptoir des galeries** Galerie du Roi, 6  
+1000 Bruxelles  
+_[Site Internet](http://www.comptoirdesgaleries.be/)_
+
+## Le dîner
+
+Oubliez donc les établissements attrape-touristes se situant plus loin dans la rue des Bouchers. A l'Hôtel des Galeries vous avez tout ce qu'il faut puisqu'il vous suffit de descendre quelques étages pour accéder au **Comptoir des galeries : un restaurant gastronomique** à part entière.  
+A la tête du restaurant, le **Chef Benjamin Lagarde** (qui est passé par le Chalet de la Forêt, la brasserie des Bozar ou encore le Bowery), nous fait redécouvrir la cuisine de la région au travers de plats élaborés à partir d'ingrédients frais et de saison.
+
+La salle à manger est assez impressionnante : cuisine ouverte, salles épurées, un patio moderne érigé au centre de la pièce, le tout de nouveau décoré de manière assez retro. **C'est vivant, lumineux, et de voir les cuisines comme ça, cela nous donne tout de suite l'eau à la bouche !**
+
+La carte contient juste ce qu'il faut, ni trop peu, ni pas assez, de quoi régaler tout le monde et pour toutes les envies ! Ce soir là nous avons opté pour des croquettes au fromage en entrée, _un classique mais néanmoins cuisiné à la perfection_, c'est gourmand, généreux. S'en est suivi un plat à base de viande, de purée de légumes oubliés, une cuisson juste, un assaisonnement alléchant. On peut dire que ce soir là, nous avons bien mangé.
+
+![comptoir-hotel-des-galeries-bruxelles-crokmou-blog-culinaire-05]({{ site.baseurl }}/assets/comptoir-hotel-des-galeries-bruxelles-crokmou-blog-culinaire-05-1.jpg)![comptoir-hotel-des-galeries-bruxelles-crokmou-blog-culinaire-08]({{ site.baseurl }}/assets/comptoir-hotel-des-galeries-bruxelles-crokmou-blog-culinaire-08-1.jpg) ![comptoir-hotel-des-galeries-bruxelles-crokmou-blog-culinaire-09]({{ site.baseurl }}/assets/comptoir-hotel-des-galeries-bruxelles-crokmou-blog-culinaire-09.jpg)
+
+## Le petit déjeuner
+
+Le Comptoir des galeries sert également le **petit déjeuner**, celle-ci est servi au même endroit que le dîner. Un buffet nous attends près du bar : des viennoiseries, du pain frais, des œufs, du bacon, des yaourts, des confitures maison, du fromage... **Un assortiment gourmand qui nous est proposé à volonté**. L'énorme balancier et le matériel de presse des anciens ateliers se trouvant dans la pièce ne vous laisserons pas indifférents, restés intacts ils s’intègrent parfaitement à la décoration actuelle du lieu.
+
+Vous souhaitez prendre le petit déjeuner au lit avec l'amoureux ? Rien de plus simple, appelez les cuisines et commandez ce qui vous ferez plaisir.
+
+Le Comptoir des Galeries dispose également d'une pièce nommée le petit Comptoir, cet endroit dont l'entrée se situe dans les Galeries du Roi, est parfait pour un lunch le midi. Des buns à manger sur place ou à emporter, des tapas ou encore un verre de vin nature. De quoi ravir vos papilles à prix doux.
+
+![comptoir-hotel-des-galeries-bruxelles-crokmou-blog-culinaire-10]({{ site.baseurl }}/assets/comptoir-hotel-des-galeries-bruxelles-crokmou-blog-culinaire-10.jpg)![comptoir-hotel-des-galeries-bruxelles-crokmou-blog-culinaire-14]({{ site.baseurl }}/assets/comptoir-hotel-des-galeries-bruxelles-crokmou-blog-culinaire-14.jpg) ![comptoir-hotel-des-galeries-bruxelles-crokmou-blog-culinaire-15]({{ site.baseurl }}/assets/comptoir-hotel-des-galeries-bruxelles-crokmou-blog-culinaire-15.jpg) ![comptoir-hotel-des-galeries-bruxelles-crokmou-blog-culinaire-11]({{ site.baseurl }}/assets/comptoir-hotel-des-galeries-bruxelles-crokmou-blog-culinaire-11.jpg) ![comptoir-hotel-des-galeries-bruxelles-crokmou-blog-culinaire-12]({{ site.baseurl }}/assets/comptoir-hotel-des-galeries-bruxelles-crokmou-blog-culinaire-12.jpg) ![comptoir-hotel-des-galeries-bruxelles-crokmou-blog-culinaire-13]({{ site.baseurl }}/assets/comptoir-hotel-des-galeries-bruxelles-crokmou-blog-culinaire-13.jpg)  
+Cette adresse qui rassemble l'Hôtel et le Comptoir est vraiment splendide pour qui aimerait passer un week-end parfait dans la Capitale. Situé vraiment en plein cœur de Bruxelles, impossible de ne pas tomber sous le charme du lieu ! Tout est à portée : les galeries qui regorgent de belles adresses, la grand place, les commerces, les cinémas, les musées...
+
+Il faut compter environ 130€ pour une chambre et 160€ petit déjeuner inclus, une petite somme à débourser pour se sentir comme chez soi mais le côté "princesse" en plus ;)
+
+// Article rédigé suite à une invitation de la part de l'hôtel & du restaurant //

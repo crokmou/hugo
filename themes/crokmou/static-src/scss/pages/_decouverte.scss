@@ -1,0 +1,7 @@
+.decouverte {
+  padding-top: 40px;
+  &__content {
+    width: 100%; padding: 0 $global-padding $global-padding;
+    background-color: $white;
+  }
+}

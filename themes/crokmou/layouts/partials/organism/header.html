@@ -1,0 +1,39 @@
+<header class="header">
+  <div class="container flex flex-wrap flex-med-nowrap align-items-center">
+    <section class="flex-12 flex-med-3 text--center">
+      <a class="header__logo" href="/">
+        {{ partial "molecules/picture.html" (dict "class" "picture--no-background" "src" "/images/jpg/logo.png" "alt" "Crokmou" "pb" "42.53%") }}
+      </a>
+    </section>
+    <section class="header__ss-nav flex-12 flex-med-9 flex-lg-auto">
+      <section class="header__ss flex flex-12 align-items-center">
+        <form class="header__ss__search flex-2 flex-med-12 flex-shrink flex-med-shrink">
+          <div class="input input--search">
+            <input type="search" placeholder="Rechercher">
+            {{ partial "molecules/icon.html" (dict "id" "magnifier" "href" "#" "attrs" "type=submit") }}
+          </div>
+        </form>
+        <nav class="header__ss__social">
+          <ul class="flex align-items-center list--inline">
+            {{ range .Site.Params.socials }}
+            <li class="flex justify-center align-items-center">
+              {{$id := index . "id"}}
+              {{$href := index . "href"}}
+              {{ partial "molecules/icon.html" (dict "id" $id "href" $href) }}
+            </li>
+            {{ end }}
+          </ul>
+        </nav>
+      </section>
+      <nav class="header__nav flex-12">
+        <ul class="list list--inline flex align-items-center">
+          {{ $currentPage := . }}
+          {{ range .Site.Menus.main }}
+          <li class="sep"></li>
+          <li class='{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}"}}'><a href="{{ .URL }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      </nav>
+    </section>
+  </div>
+</header>

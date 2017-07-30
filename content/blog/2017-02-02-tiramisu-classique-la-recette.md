@@ -1,0 +1,50 @@
+---
+layout: post
+title: Tiramisu classique, la recette
+date: 2017-02-02 16:08:05
+categories: 
+- Desserts
+tags: 
+- alcool
+- blanc d'oeuf
+- cafe
+- dessert
+- jaune d’œuf
+- marsala
+- mascarpone
+- oeuf
+- vegetarien
+ingredient_qty: Pour 4 personnes
+ingredient_temps: 'Préparation : 15 minutes | Attente : 60 minutes'
+ingredient_textarea: |
+  
+  > * 200 g de biscuit cuiller
+  > * 10 cl de marsala
+  > * 3 oeufs
+  > * 250 g de mascarpone
+  > * 60 g de sucre en poudre
+  > * cacao en poudre (par ex : Van Houten)
+  > * 20 grammes de chocolat noir
+  > * du café fort
+  > * 1 pincée de sel
+  
+  
+disqusId: '5515592914'
+---
+
+**Le Tiramisu**, je crois bien que c'est **mon dessert préféré** ! J'avais déjà écrit cette petite recette en 2011, mais je pense qu'il était temps de mettre à jour les illustrations.  
+Voici donc la formule "magique" de ma maman, _un subtil mélange entre le café, le marsala et la crème_. Sur Internet on trouve des tas de recettes de tiramisu, mais celle là fonctionne tellement bien que je n'ai jamais pris le temps d'en tester une autre. Pourquoi changer les bonnes habitudes n'est-ce pas ?
+
+Même si je n'ai pas changé de recette, j'ai tout de même _procédé à plusieurs tests dans la manière de faire_ : fouetter les jaunes et le sucre à la main puis incorporer la mascarpone / fouetter les jaunes et le sucre au batteur puis incorporer la mascarpone à la main / fouetter les jaunes et le sucre au batteur et incorporer la mascarpone à petite vitesse. La troisième option s'est révélée la meilleure d'entre toutes pour un résultat ultra gourmand.
+
+Il est vrai qu'aujourd'hui c'est la Chandeleur, j'aurais pu vous écrire une recette de crêpes, mais comme il y a déjà beaucoup d'idées par [-ici-](http://www.crokmou.com/tag/chandeleur), je me suis dit qu'un autre dessert pouvait être bien !
+
+![Tiramisu classique - Mascarpone, café et marsala]({{ site.baseurl }}/assets/recette-tiramisu-mascarpone-cafe-crokmou-blog-cuisine-voyage-belgique-1.jpg) ![Tiramisu classique - Mascarpone, café et marsala]({{ site.baseurl }}/assets/recette-tiramisu-mascarpone-cafe-crokmou-blog-cuisine-voyage-belgique-3.jpg)
+
+## **Recette du Tiramisu**
+
+1.  Dans un saladier ou au batteur mélanger le sucre et les jaunes d’œufs jusqu’à ce que le mélange blanchisse et soit plus volumineux. Incorporez la mascarpone à votre mélange (par cuillères à soupe), et mélangez à l’aide d’une spatule (ou au batteur en vitesse 1) sans écraser la mascarpone.
+2.  Montez les blancs en neige, et ajoutez les délicatement à la préparation précédente.
+3.  Dans un bol, mélangez le café chaud et le marsala. Trempez vos biscuits dans ce mélange et placez les dans le fond d’un plat.
+4.  Mettez votre crème préparée en 1) au dessus des biscuits imbibés de café/marsala et faites ainsi des superpositions jusqu’à ce qu’il n’y ai plus de crème.
+5.  Placez votre plat au frigo au moins 1h. Avant la dégustation, saupoudrez votre dessert de cacao en poudre...

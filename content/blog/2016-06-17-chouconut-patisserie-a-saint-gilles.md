@@ -1,0 +1,35 @@
+---
+layout: post
+title: Chouconut, pâtisserie à Saint-Gilles
+date: 2016-06-17 18:10:18
+categories: 
+- Lifestyle
+tags: 
+- restaurant
+disqusId: '4918401105'
+---
+
+**Chouconut**  
+Avenue Jean Volders, 46  
+1060 Saint-Gilles  
+[Site Internet](http://www.chouconut.com/) / [Facebook ](https://www.facebook.com/Chouconut)
+
+Il est enfin là, l'article en l'honneur de mon chouchou de Bruxelles, j'ai nommé : **Chouconut** ! Depuis le temps que je vous en parle et que je vous partage mes différents achats gourmands, une petite note sur cette adorable adresse de Saint-Gilles était à faire ! _Chouconut c'est une pâtisserie dédiée aux choux, aux cookies et aux donuts._ J'avoue que lors de son ouverture je me suis dit "Ah encore un truc de bobo ridicule et hors de prix", et comme quoi il n'y a que les c**s qui ne changent pas d'avis puisque c'est devenue mon adresse favorite ! Une fois que tu mets le nez dans ces petits choux, tu n'en sors plus.
+
+![chouconut-bruxelles-crokmou-blog-culinaire]({{ site.baseurl }}/assets/chouconut-bruxelles-crokmou-blog-culinaire.jpg) ![chouconut-bruxelles-crokmou-blog-culinaire (9)]({{ site.baseurl }}/assets/chouconut-bruxelles-crokmou-blog-culinaire-9.jpg)
+
+Chouconut est tenue par **Giovanni et Baptiste**, deux pâtissiers Bretons ayant fait de nombreuses maisons aux quatre coins du monde afin d'acquérir de l'expérience. Après 10 ans de services auprès de divers établissements, ils se décident à ouvrir le leur et c'est à Bruxelles qu'ils s'installent. Ce que j'aime dans cette boutique c'est les couleurs et le côté un peu magique du lieu ! On est toujours accueillis avec le sourire et vu le temps que nous réserve la météo ces derniers mois, autant vous dire que cela fait un bien fou.
+
+A la vente de pâtisserie s'ajoute également un petit coin salon de thé, de quoi déguster quelques produits à la carte autour d'un petit thé, les fesses bien calées dans un fauteuil bien douillet. C'est cosy, on se croirait dans une maison de maître (sans la hauteur des plafonds), c'est chic et en même temps très relax.
+
+![chouconut-bruxelles-crokmou-blog-culinaire (2)]({{ site.baseurl }}/assets/chouconut-bruxelles-crokmou-blog-culinaire-2.jpg) ![chouconut-bruxelles-crokmou-blog-culinaire (7)]({{ site.baseurl }}/assets/chouconut-bruxelles-crokmou-blog-culinaire-7.jpg) ![chouconut-bruxelles-crokmou-blog-culinaire (8)]({{ site.baseurl }}/assets/chouconut-bruxelles-crokmou-blog-culinaire-8.jpg)
+
+Au comptoir, les si précieux petits choux nous appellent avec insistance, leurs couleurs et leurs décorations attirent l’œil, à tel point que l'on aimerait tout goûter. _C'est d'ailleurs pour ça qu'au départ tu te décides à repartir avec 2 choux pour finalement en prendre un de chaque (c'est du vécu)_. **Compter 1€50/2€ le petit chou**, cela peut paraitre cher mais ils sont tellement bons que finalement on oublie vite notre dépense pour faire place au plaisir gustatif !  
+Les cookies et les donuts ne déméritent pas, généreux et bien moins gras que ce que l'on peut retrouver dans diverses enseignes. Vous retrouverez également en boutique quelques confiseries comme des caramels, des biscuits, des confitures, des pâtes à tartiner... Que du bon !
+
+Chouconut tient à travailler avec de bons produits, locaux dès qu'ils le peuvent et si ce n'est pas possible avec la meilleure qualité qui soit ! Et c'est ce qui fait que cela fonctionne, c'est beau, bon, de qualité et quelque part cela nous ramène en enfance.  
+Une belle petite adresse en somme, qui vous l'aurez bien compris, me tient beaucoup à cœur. Pourquoi ? Car j’aime la simplicité. Ici, c'est simple et bon. Et quoi de plus réjouissant que de petites choses comme ça qui illuminent ta journée ?
+
+![chouconut-bruxelles-crokmou-blog-culinaire (1)]({{ site.baseurl }}/assets/chouconut-bruxelles-crokmou-blog-culinaire-1.jpg) ![chouconut-bruxelles-crokmou-blog-culinaire (4)]({{ site.baseurl }}/assets/chouconut-bruxelles-crokmou-blog-culinaire-4.jpg) ![chouconut-bruxelles-crokmou-blog-culinaire (6)]({{ site.baseurl }}/assets/chouconut-bruxelles-crokmou-blog-culinaire-6.jpg) ![chouconut-bruxelles-crokmou-blog-culinaire (5)]({{ site.baseurl }}/assets/chouconut-bruxelles-crokmou-blog-culinaire-5.jpg)
+
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
