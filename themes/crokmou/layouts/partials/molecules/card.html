@@ -23,7 +23,7 @@
     {{ range $breadcrumb }}
     <a class="card__tag" href="/tag/{{.}}">{{.}}</a>
     {{ end }}
-    {{ else }}
+    {{ else if $categories }}
     <a class="card__tag" href="/category/{{index $categories 0}}">{{index $categories 0}}</a>
     {{ end }}
     <h2 class="card__title"><a href="{{$card.Permalink}}">{{$card.Title}}</a></h2>

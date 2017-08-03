@@ -1,18 +1,9 @@
 $(document).ready(function () {
   'use strict';
 
-  /**
-   * Constant declaration
-   */
-
-  let REGEX = {
-    email: /[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?/
-  };
-
   let SPRITE_URL = '/images/svg/sprite.svg';
-  console.log(SPRITE_URL);
-  let $body = $('body'),
-      $pageContainer = $('#page-container');
+
+  let $pageContainer = $('#page-container');
 
   let App = function App() {
     /**

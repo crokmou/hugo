@@ -1,30 +1,15 @@
 ---
-layout: post
-title: Les sauces naturelles Natura {Concours}
-thumbnail: /assets/images/upload/2015/06/concours-natura-crokmou-blog-1.jpg
-date: 2015-06-18 16:21:16
+type: post
+title: 'Les sauces naturelles Natura {Concours}'
+date: 2015-06-18T16:21:16+00:00
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605755/concours-natura-crokmou-blog-73x110_jgwcum.jpg
 categories: 
-- Lifestyle
-tags: 
-- shopping
-disqusId: '3859185927'
+  - Lifestyle
+disqusId: 3859185927
 ---
 
-En Belgique, les sauces naturelles [Natura](http://www.natura.be), 100% Belges,  commencent à faire sensation ! Jusqu'à il y a quelques semaines, j'en avais toujours entendu parlé mais n'avait jamais vraiment pris le temps de goûter leurs produits. Heureusement pour moi (et pour vous), la charmante agence de presse Sparkies est venue me trouver pour me proposer de tester les produits et si ceux-ci me plaisaient, de vous proposer un petit concours !
+  En Belgique, les sauces naturelles [Natura](http://www.natura.be), 100% Belges,  commencent à faire sensation ! Jusqu’à il y a quelques semaines, j’en avais toujours entendu parlé mais n’avait jamais vraiment pris le temps de goûter leurs produits. Heureusement pour moi (et pour vous), la charmante agence de presse Sparkies est venue me trouver pour me proposer de tester les produits et si ceux-ci me plaisaient, de vous proposer un petit concours ! Pour vous situer un peu : Natura est une entreprise qui a fait son apparition il y a environ 75 ans grâce à Mr Philippe Vryghem, alors poissonnier, qui décide un jour de fabriquer sa propre mayonnaise. De fil en aiguille et de bouche à oreilles, la mayonnaise rencontre un vrai succès et se retrouve depuis ce jour dans nos étals, toujours avec cette même recette authentique et de bons produits. Pour avoir goûté les produits que l’on m’a envoyé, je peux vous dire que c’est du bon, un bail que je n’avais pas mangé une mayonnaise aussi délicieuse ! C’est simple, on dirait presque du fait maison (d’où le pot terminé en moins de 2 jours… hey ouai). Je n’ai pas encore goûté le reste : sauce curry, tartare et piquante, j’avoue que je les réserve pour mon futur barbecue, faut bien faire durer le plaisir n’est ce pas ? Vous retrouverez aussi dans leur gamme quelques vinaigrettes, qui ont l’air pour le moins originales (wasabi, sirop de Liège, miel) bien qu’il y ai aussi du plus classique comme la César !
 
-Pour vous situer un peu : Natura est une entreprise qui a fait son apparition il y a environ 75 ans grâce à Mr Philippe Vryghem, alors poissonnier, qui décide un jour de fabriquer sa propre mayonnaise. De fil en aiguille et de bouche à oreilles, la mayonnaise rencontre un vrai succès et se retrouve depuis ce jour dans nos étals, toujours avec cette même recette authentique et de bons produits.
+![sauces naturelles natura](https://res.cloudinary.com/crokmou/image/upload/v1501605755/concours-natura-crokmou-blog-2_qqqsdb.jpg)
 
-Pour avoir goûté les produits que l'on m'a envoyé, je peux vous dire que c'est du bon, un bail que je n'avais pas mangé une mayonnaise aussi délicieuse ! C'est simple, on dirait presque du fait maison (d'où le pot terminé en moins de 2 jours... hey ouai). Je n'ai pas encore goûté le reste : sauce curry, tartare et piquante, j'avoue que je les réserve pour mon futur barbecue, faut bien faire durer le plaisir n'est ce pas ? Vous retrouverez aussi dans leur gamme quelques vinaigrettes, qui ont l'air pour le moins originales (wasabi, sirop de Liège, miel) bien qu'il y ai aussi du plus classique comme la César !
-
-![sauces naturelles natura]({{ site.baseurl }}/assets/concours-natura-crokmou-blog-2.jpg)
-
-Et peut être que vous aussi vous avez prévu un barbecue dans les semaines à venir, je vous propose alors de gagner 4 Kit Découverte pour tester les sauces Natura sur votre bon morceau de viande (ou poisson)! Ça vous tente ?
-
-[![http://www.natura.be/uploads/produit/32/packsiteok-jpg]({{ site.baseurl }}/assets/packsiteok-jpg-e1434640308701.jpg)](http://www.crokmou.com/wp-content/uploads/2015/06/packsiteok-jpg-e1434640308701.jpg)**Laissez moi un petit commentaire sous cet article et répondez à cette question : qu'est ce qui fait selon vous une bonne mayonnaise ?**
-
-*   Une seule participation par personne. Toute personne susceptible de tricher sera automatiquement exclue du concours.
-*   Concours réservé aux personnes ayant **une adresse postale en Belgique**
-*   Si je n’ai pas de réponse de la part des gagnants sous 3 jours, d’autres gagnants seront tirés au sort.
-
-Vous avez jusqu'à **Dimanche 21 Juin 2015, 00h**, pour participer !  
-Bonne chance à vous mes loulous !
+Et peut être que vous aussi vous avez prévu un barbecue dans les semaines à venir, je vous propose alors de gagner 4 Kit Découverte pour tester les sauces Natura sur votre bon morceau de viande (ou poisson)! Ça vous tente ? [![http://www.natura.be/uploads/produit/32/packsiteok-jpg](https://res.cloudinary.com/crokmou/image/upload/v1501605992/packsiteok-jpg-e1434640308701_un3hai.jpg)](https://res.cloudinary.com/crokmou/image/upload/v1501605992/packsiteok-jpg-e1434640308701_un3hai.jpg)**Laissez moi un petit commentaire sous cet article et répondez à cette question : qu’est ce qui fait selon vous une bonne mayonnaise ?** * Une seule participation par personne. Toute personne susceptible de tricher sera automatiquement exclue du concours. * Concours réservé aux personnes ayant **une adresse postale en Belgique** * Si je n’ai pas de réponse de la part des gagnants sous 3 jours, d’autres gagnants seront tirés au sort.   Vous avez jusqu’à **Dimanche 21 Juin 2015, 00h**, pour participer ! Bonne chance à vous mes loulous !

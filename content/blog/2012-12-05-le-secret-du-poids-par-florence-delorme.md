@@ -1,28 +1,17 @@
 ---
-layout: post
+type: post
 title: Le secret du poids par Florence Delorme
-date: 2012-12-05 17:52:00
+date: 2012-12-05T17:52:00+00:00
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605853/le_secret_du_poids_florence_delorme_gif_crokmou-160x90_qaftnw.gif
 categories: 
-- Lifestyle
-tags: 
-- découverte
-disqusId: '3659742979'
+  - Lifestyle
+disqusId: 3659742979
 ---
 
-Je déteste les régimes ! Je n'aime que l'on me dise "mange-ci", "mange-ça", ou "fait attention ça fait grossir" ! Je suis une grande gourmande, j'aime le goût et les couleurs, je suis addict aux fromages et au chocolat en bref rien qui ne puisse m'aider à perdre mes quelques kilos (parce qu'il faut savoir que quand on tient un blog de cuisine, on prend forcément du poids). La seul fois où j'ai essayé de perdre mon petit bidou, avec si possible des effets rapides et immédiats... j'ai mangé de la soupe pendant une semaine. Et croyez moi la soupe maison c'est bon, cela peut être varié mais je détestais lutter avec ma petite voix intérieure qui me répétait : "Aller, mets un petit bout de fromage sur ta tartine" ou encore "Un carré de chocolat c'est trois fois rien sur ta journée" ! J'étais tout simplement obsédée par la nourriture, obsédée de ne pas pouvoir manger.
+  Je déteste les régimes ! Je n’aime que l’on me dise « mange-ci », « mange-ça », ou « fait attention ça fait grossir » ! Je suis une grande gourmande, j’aime le goût et les couleurs, je suis addict aux fromages et au chocolat en bref rien qui ne puisse m’aider à perdre mes quelques kilos (parce qu’il faut savoir que quand on tient un blog de cuisine, on prend forcément du poids). La seul fois où j’ai essayé de perdre mon petit bidou, avec si possible des effets rapides et immédiats… j’ai mangé de la soupe pendant une semaine. Et croyez moi la soupe maison c’est bon, cela peut être varié mais je détestais lutter avec ma petite voix intérieure qui me répétait : « Aller, mets un petit bout de fromage sur ta tartine » ou encore « Un carré de chocolat c’est trois fois rien sur ta journée » ! J’étais tout simplement obsédée par la nourriture, obsédée de ne pas pouvoir manger. Il y a quelques temps j’ai découvert une petite methode bien utile pour perdre en mangeant ce qu’on veut : oui oui vous m’avez bien entendu ! Je ne vais pas vous reveler ce que c’est (beh non) parce que sinon vous présenter ce livre ne servirait plus à grand chose ! « [Le secret du Poids](http://www.lesecretdupoids.com/) » est écrit par Florence Delorme, une femme comme vous et moi. Elle n’est ni médecin, ni nutritionniste, dans son livre elle nous explique avec sa propre expérience et ses propres recherches, ce qui fait que l’on gagne ou qu’on perd du poids, comment gérer tout ça, comment manger ce que vous souhaitez sans grossir. Ce livre m’a appris a comprendre concrètement certaines choses, sur mon poids, sur la manière dont je dois percevoir la nourriture et le reste.  
 
-Il y a quelques temps j'ai découvert une petite methode bien utile pour perdre en mangeant ce qu'on veut : oui oui vous m'avez bien entendu ! Je ne vais pas vous reveler ce que c'est (beh non) parce que sinon vous présenter ce livre ne servirait plus à grand chose ! "[Le secret du Poids](http://www.lesecretdupoids.com/)" est écrit par Florence Delorme, une femme comme vous et moi. Elle n'est ni médecin, ni nutritionniste, dans son livre elle nous explique avec sa propre expérience et ses propres recherches, ce qui fait que l'on gagne ou qu'on perd du poids, comment gérer tout ça, comment manger ce que vous souhaitez sans grossir. Ce livre m'a appris a comprendre concrètement certaines choses, sur mon poids, sur la manière dont je dois percevoir la nourriture et le reste.
+**« La nourriture c’est psychologique »**
 
-**"La nourriture c'est psychologique"**
-
-Je connaissais la technique avant de lire ce livre, car comme l'explique l'auteur : "Je n'ai rien inventé" ! Il est vrai qu'on parle très peu de ce secret du poids, parce qu'il est tout simplement plus facile de gagner de l'argent en vendant des produits miracles pour tel ou tel regime en 3 mois top chrono. Mais croyez moi (ou non) pour avoir testé cette technique depuis quelques semaines déjà, cela fonctionne !  
-J'ai perdu précisément 1kg en a peu près 5 semaines et tout ça en mangeant : de la raclette, du camembert chaud, des cookies et du chocolat. Certaines d'entre vous me diront "1kg en 5 semaines c'est peu"... mais vous savez quoi ? Le but est de perdre et de garder son poids sur du long terme ;) Eh oui tout vient à point à qui sait attendre !
-
-Je sais que pour beaucoup mon article fait peut être trop "Je vends du rêve" un peu comme téléshopping mais par expérience personnelle je peux vous assurer que cela fonctionne. Je pense que cette méthode peut être adaptée sur presque n'importe qui, du moins aussi bien les hommes que les femmes.
-
-Si vous souhaitez en savoir plus sur "Le secret du poids" de Florence Delorme, je vous invite à vous rendre sur son site internet : [Le secret du poids](http://www.lesecretdupoids.com/)
-
-En attendant je vous dit à très bientôt pour un petit article qui parlera d'un petit restaurant sur Bruxelles !  
-Des bisous mes gourmands !
+  Je connaissais la technique avant de lire ce livre, car comme l’explique l’auteur : « Je n’ai rien inventé » ! Il est vrai qu’on parle très peu de ce secret du poids, parce qu’il est tout simplement plus facile de gagner de l’argent en vendant des produits miracles pour tel ou tel regime en 3 mois top chrono. Mais croyez moi (ou non) pour avoir testé cette technique depuis quelques semaines déjà, cela fonctionne ! J’ai perdu précisément 1kg en a peu près 5 semaines et tout ça en mangeant : de la raclette, du camembert chaud, des cookies et du chocolat. Certaines d’entre vous me diront « 1kg en 5 semaines c’est peu »… mais vous savez quoi ? Le but est de perdre et de garder son poids sur du long terme 😉 Eh oui tout vient à point à qui sait attendre ! Je sais que pour beaucoup mon article fait peut être trop « Je vends du rêve » un peu comme téléshopping mais par expérience personnelle je peux vous assurer que cela fonctionne. Je pense que cette méthode peut être adaptée sur presque n’importe qui, du moins aussi bien les hommes que les femmes. Si vous souhaitez en savoir plus sur « Le secret du poids » de Florence Delorme, je vous invite à vous rendre sur son site internet : [Le secret du poids](http://www.lesecretdupoids.com/) En attendant je vous dit à très bientôt pour un petit article qui parlera d’un petit restaurant sur Bruxelles ! Des bisous mes gourmands !  
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

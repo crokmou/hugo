@@ -6,7 +6,7 @@
   const path     = require('path');
 
   const inputFile = process.argv[2];
-  const outputDir = process.argv[3] || '_posts/output/';
+  const outputDir = process.argv[3] || './_scripts/output/';
 
   const divRegex = /(<div[\s\S]*?>)([\s\S]*?)(<\/div>)/g;
   const spanRegex = /(<span[\s\S]*?>)([\s\S]*?)(<\/span>)/g;
@@ -33,33 +33,36 @@
         return console.log(err);
       }
 
-      var regexLayout              = /layout: (.{1,}\n)/g.exec(data);
-      var regexTitle               = /title: (.{1,}\n)/g.exec(data);
-      var regexDate                = /date: (.{1,})\..*?\n/g.exec(data);
-      var regexCategories          = /categories:(\n((- .{0,}\n){0,}))/g.exec(data);
-      var regexTags                = /tags:(\n((- .{0,}\n){0,}))/g.exec(data);
-      var regexIngredient_qty      = /wpcf-ingredient_qty: (.{1,}\n)/g.exec(data);
-      var regexIngredient_temps    = /wpcf-ingredient_temps: (['"][\s\S]*?['"]\n)/g.exec(data);
-      var regexIngredient_textarea = /wpcf-ingredient-textarea: ([\s\S]{1,}"\n)/g.exec(data);
-      var regexDisqusId            = /dsq_thread_id.{0,}: (.{1,})/g.exec(data);
+      var regexThumbnail           = /---[\s\S]{1,}image: {0,}(.*\n)[\s\S]{1,}---/g.exec(data);
+      var regexLayout              = /---[\s\S]{1,}layout: {0,}(.{1,}\n)[\s\S]{1,}---/g.exec(data);
+      var regexTitle               = /---[\s\S]{1,}title: {0,}(.{1,}\n)[\s\S]{1,}---/g.exec(data);
+      var regexDate                = /---[\s\S]{1,}date: {0,}(.*)[\s\S]{1,}---/g.exec(data);
+      var regexCategories          = /---[\s\S]{1,}categories: {0,}(\n( {2,}.*\n){1,})[\s\S]{1,}---/g.exec(data);
+      var regexTags                = /---[\s\S]{1,}tags: {0,}(\n( {2,}.*\n){1,})[\s\S]{1,}---/g.exec(data);
+      var regexIngredient_qty      = /---[\s\S]{1,}wpcf-ingredient_qty: {0,}(\n( {2,}.*\n){1,})[\s\S]{1,}---/g.exec(data);
+      var regexIngredient_temps    = /---[\s\S]{1,}wpcf-ingredient_temps: {0,}(\n( {2,}.*\n){1,})[\s\S]{1,}---/g.exec(data);
+      var regexIngredient_textarea = /---[\s\S]{1,}wpcf-ingredient-textarea: {0,}(\n( {2,}.*\n){1,})[\s\S]{1,}---/g.exec(data);
+      var regexDisqusId            = /---[\s\S]{1,}dsq_thread_id:\n {0,}- "(.{0,})"\n{0,}[\s\S]{1,}---/g.exec(data);
 
       var frontMatter = {
-        layout    : regexLayout && regexLayout[1],
-        title     : regexTitle && regexTitle[1],
-        date      : regexDate && regexDate[1],
-        categories: regexCategories&& regexCategories[1],
-        tags      : regexTags && regexTags[1],
-        ingredient_qty: regexIngredient_qty && regexIngredient_qty[1],
-        ingredient_temps: regexIngredient_temps && regexIngredient_temps[1],
-        ingredient_textarea: regexIngredient_textarea && regexIngredient_textarea[1],
-        disqusId  : regexDisqusId  && regexDisqusId[1]
+        type               : regexLayout && regexLayout[1],
+        title              : regexTitle && regexTitle[1],
+        date               : regexDate && regexDate[1],
+        thumbnail          : regexThumbnail && regexThumbnail[1],
+        categories         : regexCategories && regexCategories[1],
+        tags               : regexTags && regexTags[1],
+        ingredient_qty     : regexIngredient_qty && regexIngredient_qty[1],
+        ingredient_temps   : regexIngredient_temps && regexIngredient_temps[1],
+        ingredient_textarea: regexIngredient_textarea &&
+        regexIngredient_textarea[1],
+        disqusId           : regexDisqusId && regexDisqusId[1],
       };
 
       var newFrontMatter = frontMatterStr(frontMatter);
       var html = toMarkdown(/(---)[\s\S]*?(---\n)([\s\S]{0,})/g.exec(data)[3]).replace(divRegex, '$2').replace(divRegex, '$2').replace(spanRegex, '$2').replace(spanRegex, '$2');
 
       if (fs.existsSync(outputDir) || fs.mkdirSync(outputDir)) {
-        fs.writeFile(path.join(outputDir, (filename.replace('.html', '.md'))), (newFrontMatter + '' + html));
+        fs.writeFileSync(path.join(outputDir, (filename.replace('.html', '.md'))), (newFrontMatter + '' + html));
       }
     });
   }
@@ -76,6 +79,7 @@
               .replace(/\\r\\n \\r\\n\n/g, '')
               .replace(/\\r\\n\\r\\n/g, '\n')
               .replace(/\n\*/g, '*')
+              .replace(/\n\s*\n/g, '\n')
               .replace(/\*   /g,'* ')
               .replace(/\* /g, '> * ')
               .replace(/(> \* \*\*)(.{0,})\*\*/g, '> ## $2\n> ')
@@ -85,9 +89,6 @@
               .replace(/(^\s*\n){2,}/gm, '$1');
             return front + ": |\n  " + replaced + "\n";
            break;
-          case 'ingredient_temps':
-            return front + ": " + obj[front].replace(/\n/g, '').replace(/ {2,}/g, '') + '\n';
-            break;
           case 'date':
             return front + ": " + obj[front] + '\n';
             break;

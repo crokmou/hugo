@@ -19,7 +19,7 @@
     "img:build": "cp -R ./themes/crokmou/static-src/images ./themes/crokmou/static/images",
     "build:assets": "npm run clean && npm run sass:build && npm run babel:build && npm run img:build",
     "build": "npm run build:assets",
-    "postbuild": "npm run jsVendor",
+    "postbuild": "npm run jsVendor && hugo",
     "serve": "npm run build:assets && npm run jsVendor && parallelshell 'npm run sass:watch' 'npm run babel:watch' 'hugo serve'"
   },
   "eslintConfig": {
@@ -72,6 +72,7 @@
     "image-size": "^0.6.1",
     "node-sass": "^4.5.3",
     "onchange": "^3.2.1",
-    "parallelshell": "^3.0.1"
+    "parallelshell": "^3.0.1",
+    "to-markdown": "^3.1.0"
   }
 }

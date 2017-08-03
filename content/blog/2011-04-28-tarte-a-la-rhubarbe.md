@@ -1,28 +1,28 @@
 ---
-layout: post
+type: post
 title: Tarte à la rhubarbe
-date: 2011-04-28 17:15:00
+date: 2011-04-28T17:15:00+00:00
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501606158/Tarte-rhubarbe-77x110_emflrr.jpg
 categories: 
-- Desserts
+  - Desserts
 tags: 
-- dessert
-- fruit
-- oeuf
-- pate brisee
-- rhubarbe
-- yaourt
-disqusId: '3587684864'
+  - dessert
+  - fruit
+  - oeuf
+  - pate brisee
+  - rhubarbe
+disqusId: 3587684864
 ---
 
-_Plop pom pidou cher amis, ce soir présentation de la célèbre tarte à la rhubarbe (petite anecdote d'ailleurs, durant mes dernières vacances à Toulouse, je rêvais de faire cette tarte pour my family et là on m'apprend que l'on ne trouve que peu de rhubarbe dans le sud... et bah... j'étais pas au courant =o ! Le saviez-vous ?)._
+_Plop pom pidou cher amis, ce soir présentation de la célèbre tarte à la rhubarbe (petite anecdote d’ailleurs, durant mes dernières vacances à Toulouse, je rêvais de faire cette tarte pour my family et là on m’apprend que l’on ne trouve que peu de rhubarbe dans le sud… et bah… j’étais pas au courant =o ! Le saviez-vous ?)._
 
 _ _
 
-_Recette très rapide, et très simple à réaliser :)_
+_Recette très rapide, et très simple à réaliser 🙂_
 
  
 
-[![]({{ site.baseurl }}/assets/6+%25C3%25A0+8+personnes.jpg)](http://3.bp.blogspot.com/-ui2XYIFexSo/TabbfqjXf3I/AAAAAAAAAEg/Bv0dl1RQBuY/s1600/6+%25C3%25A0+8+personnes.jpg)
+[![](http://3.bp.blogspot.com/-ui2XYIFexSo/TabbfqjXf3I/AAAAAAAAAEg/Bv0dl1RQBuY/s320/6+%25C3%25A0+8+personnes.jpg)](http://3.bp.blogspot.com/-ui2XYIFexSo/TabbfqjXf3I/AAAAAAAAAEg/Bv0dl1RQBuY/s1600/6+%25C3%25A0+8+personnes.jpg)
 
  
 
@@ -33,19 +33,19 @@ _Recette très rapide, et très simple à réaliser :)_
  
 
 *   1 pâte brisée
-*   4/5 bonnes tiges de rhubarbe (je n'ai pas envie de compter en grammes :p)
+*   4/5 bonnes tiges de rhubarbe (je n’ai pas envie de compter en grammes :p)
 *   150 grammes de sucre
 *   2 oeufs
 *   1 càc de maïzena
 *   1 yaourt nature
 
-[![]({{ site.baseurl }}/assets/preparation.jpg)](http://4.bp.blogspot.com/-jD2raKy-t_w/Tabb3lV3eGI/AAAAAAAAAEk/G2RYajmhinM/s1600/preparation.jpg)
+[![](http://4.bp.blogspot.com/-jD2raKy-t_w/Tabb3lV3eGI/AAAAAAAAAEk/G2RYajmhinM/s320/preparation.jpg)](http://4.bp.blogspot.com/-jD2raKy-t_w/Tabb3lV3eGI/AAAAAAAAAEk/G2RYajmhinM/s1600/preparation.jpg)
 
 1.  Préchauffez votre four à 180°C
-2.  Dans un moule à tarte, étalez le pâte brisée et piquez la à l'aide d'une fourchette (pour éviter le sur-gonflement de la pâte dans le four =D)
+2.  Dans un moule à tarte, étalez le pâte brisée et piquez la à l’aide d’une fourchette (pour éviter le sur-gonflement de la pâte dans le four =D)
 3.  Épluchez vos tiges de rhubarbe et coupez les en petits morceaux (du moins la taille des morceaux cela reste selon vous), disposez les cubes sur la pâte brisée
 4.  Dans un saladier, mélangez dans cet ordre : les oeufs, le sucre (un coup de mélange), la maïzena puis pour finir le yaourt nature.
 5.  Ajouter ce mélange par dessus la rhubarbe
 6.  Votre tarte est prête pour aller au four 30 à 40 min (la tarte est cuite quand la préparation ne coule plus) 
 
-_Une fois la tarte cuite, il vous sera peut être difficile de démouler de suite (au risque de tout casser ^^"). A déguster lors d'un dessert ou d'un goûter (avec pourquoi pas une boule de glace :p)_
+_Une fois la tarte cuite, il vous sera peut être difficile de démouler de suite (au risque de tout casser ^^ »). A déguster lors d’un dessert ou d’un goûter (avec pourquoi pas une boule de glace :p)_

@@ -1,45 +1,15 @@
 ---
-layout: post
+type: post
 title: Thalys fête ses 20 ans avec le Cake Contest
-date: 2016-06-06 10:00:03
+date: 2016-06-06T10:00:03+00:00
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605839/H6A1766-160x107_xnuvxu.jpg
 categories: 
-- Lifestyle
-tags: 
-- découverte
-disqusId: '4896218984'
+  - Lifestyle
+disqusId: 4896218984
 ---
 
-©Photos / Thalys
-
-A l'occasion de ses 20 ans, Thalys* avait organisé au mois de Mars un concours original qui permettait à tous les pâtissiers en herbe désireux de participer, de créer un gâteau aux couleurs de la marque.
-
-Certaines contraintes étaient imposées comme : un gâteau pour une personne, facilement transportable et ne comprenant pas de préparations fragiles (type crème pâtissière ou fruits frais non cuisinés). La préparation devait soit comporter des ingrédients caractéristiques d'un ou des pays traversés par le train soit arborer la couleur rouge, caractéristique de Thalys.
-
-Plus de 100 participants ont fait chauffer les fourneaux et ont ainsi postés leur participation en ligne, seuls [5 finalistes ont été choisis](https://www.thalys.com/be/fr/concours-gateau) et invités afin de venir présenter leur création dans le tout nouveau lounge Thalys à Bruxelles.
-
-C'est là que j'entre en scène ! Le 30 Avril, en compagnie de 3 grands noms de la pâtisserie (Raphaël Giot, Pierre Marcolini et Yann Couvreur) ainsi que 2 autres bloggeurs ([Hot Cuisine de Pierre](http://hcdpierre.com/) et [Plus une miette dans l’assiette](http://www.plusunemiettedanslassiette.fr/)) et quelques voyageurs fidèles à Thalys, nous avons été invités afin de départager les finalistes mais également de désigner LE gâteau parfait.
-
-![cake contest thalys finalistes]({{ site.baseurl }}/assets/H6A1326.jpg)
-
-©Photos / Thalys
-
-Se fût un moment très agréable, au cours de cette après midi nous avons pu goûter les différentes préparations et discuter de celles-ci avec les chefs et les autres blogueurs. C'est très intéressant de voir comment peuvent se dérouler certains concours et le fait d'impliquer ici directement les consommateurs ajoute un plus à cet événement !
-
-C'est le gâteau d'un jeune Français nommé Eliaz Prenveille qui a remporté le prix ! Je dois dire que j'en suis très heureuse car c'est son gâteau que j'avais choisi haut la main. Le Paris-Bruxelles était frais, léger, savoureux et fruité, tout ce que l'on attend d'un dessert lorsqu'on prend le train !
-
-![_H6A1306]({{ site.baseurl }}/assets/H6A1306.jpg) ![_H6A1110]({{ site.baseurl }}/assets/H6A1110.jpg) ![_H6A1777]({{ site.baseurl }}/assets/H6A1777.jpg)
-
-©Photos / Thalys
-
-Ce dessert, le Paris-Bruxelles, sera servi à bord de tous les trains pendant la période festive du 20<sup>ème</sup>anniversaire de Thalys lors des « lunches » et « dîners » en Comfort 1 (du 25 mai au 10 juin 2016).  
-Je trouve cela vraiment très chouette de pouvoir mettre en avant de jeunes talents comme ça, d'autant plus que le concours était très accessible et permettait aux pâtissiers amateurs d'être jugés et conseillés par de grands noms de la pâtisserie dans un cadre simple (ce qui n'est pas toujours le cas à la TV) et bon enfant.
-
-Sachez que Thalys organise durant toute l'année des festivités (notamment des billets de trains pour voyager à petits prix) afin de vous faire partager à vous aussi un peu de leur anniversaire, retrouvez toutes les offres sur [leur site Internet](https://www.thalys.com) !
-
-Je vous laisse avec la petite vidéo réalisée lors de la finale :
-
-<iframe src="https://www.youtube.com/embed/LQFtdr0OEmo?rel=0&amp;controls=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+©Photos / Thalys   A l’occasion de ses 20 ans, Thalys* avait organisé au mois de Mars un concours original qui permettait à tous les pâtissiers en herbe désireux de participer, de créer un gâteau aux couleurs de la marque. Certaines contraintes étaient imposées comme : un gâteau pour une personne, facilement transportable et ne comprenant pas de préparations fragiles (type crème pâtissière ou fruits frais non cuisinés). La préparation devait soit comporter des ingrédients caractéristiques d’un ou des pays traversés par le train soit arborer la couleur rouge, caractéristique de Thalys. Plus de 100 participants ont fait chauffer les fourneaux et ont ainsi postés leur participation en ligne, seuls [5 finalistes ont été choisis](https://www.thalys.com/be/fr/concours-gateau) et invités afin de venir présenter leur création dans le tout nouveau lounge Thalys à Bruxelles. C’est là que j’entre en scène ! Le 30 Avril, en compagnie de 3 grands noms de la pâtisserie (Raphaël Giot, Pierre Marcolini et Yann Couvreur) ainsi que 2 autres bloggeurs ([Hot Cuisine de Pierre](http://hcdpierre.com/) et [Plus une miette dans l’assiette](http://www.plusunemiettedanslassiette.fr/)) et quelques voyageurs fidèles à Thalys, nous avons été invités afin de départager les finalistes mais également de désigner LE gâteau parfait.   ![cake contest thalys finalistes](https://res.cloudinary.com/crokmou/image/upload/v1501605839/H6A1326_t0qtvc.jpg) ©Photos / Thalys   Se fût un moment très agréable, au cours de cette après midi nous avons pu goûter les différentes préparations et discuter de celles-ci avec les chefs et les autres blogueurs. C’est très intéressant de voir comment peuvent se dérouler certains concours et le fait d’impliquer ici directement les consommateurs ajoute un plus à cet événement ! C’est le gâteau d’un jeune Français nommé Eliaz Prenveille qui a remporté le prix ! Je dois dire que j’en suis très heureuse car c’est son gâteau que j’avais choisi haut la main. Le Paris-Bruxelles était frais, léger, savoureux et fruité, tout ce que l’on attend d’un dessert lorsqu’on prend le train !   ![_H6A1306](https://res.cloudinary.com/crokmou/image/upload/v1501605838/H6A1306_lrnjlp.jpg) ![_H6A1110](https://res.cloudinary.com/crokmou/image/upload/v1501605843/H6A1110_oafgb0.jpg)![_H6A1777](https://res.cloudinary.com/crokmou/image/upload/v1501605839/H6A1777_wfwdth.jpg) ©Photos / Thalys   Ce dessert, le Paris-Bruxelles, sera servi à bord de tous les trains pendant la période festive du 20<sup>ème</sup>anniversaire de Thalys lors des « lunches » et « dîners » en Comfort 1 (du 25 mai au 10 juin 2016). Je trouve cela vraiment très chouette de pouvoir mettre en avant de jeunes talents comme ça, d’autant plus que le concours était très accessible et permettait aux pâtissiers amateurs d’être jugés et conseillés par de grands noms de la pâtisserie dans un cadre simple (ce qui n’est pas toujours le cas à la TV) et bon enfant. Sachez que Thalys organise durant toute l’année des festivités (notamment des billets de trains pour voyager à petits prix) afin de vous faire partager à vous aussi un peu de leur anniversaire, retrouvez toutes les offres sur [leur site Internet](https://www.thalys.com) ! Je vous laisse avec la petite vidéo réalisée lors de la finale :  
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 
-*Pour vous situer un petit peu, Thalys est un réseau ferroviaire transportant des passagers entre la France, la Belgique, l'Allemagne et les Pays-Bas autour de l'axe Paris-Bruxelles.  Thalys est membre de Railteam, coopération entre les principaux opérateurs ferroviaires à grande vitesse européens, de la CER (Community of European Railway and Infrastucture Companies) et de l’UIC (Union Internationale des Chemins de Fer).
+  *Pour vous situer un petit peu, Thalys est un réseau ferroviaire transportant des passagers entre la France, la Belgique, l’Allemagne et les Pays-Bas autour de l’axe Paris-Bruxelles.  Thalys est membre de Railteam, coopération entre les principaux opérateurs ferroviaires à grande vitesse européens, de la CER (Community of European Railway and Infrastucture Companies) et de l’UIC (Union Internationale des Chemins de Fer).

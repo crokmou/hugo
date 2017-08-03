@@ -1,10 +1,13 @@
-baseURL: "https://crokmou.com/"
+baseurl: "https://crokmou.com/"
 languageCode: "fr-FR"
 title: "Crokmou"
 metaDataFormat: "yaml"
 theme: "crokmou"
 
 sectionPagesMenu: "main"
+RemovePathAccents: true
+permalinks:
+  blog: /:year/:month/:slug/
 
 params:
   socials:
