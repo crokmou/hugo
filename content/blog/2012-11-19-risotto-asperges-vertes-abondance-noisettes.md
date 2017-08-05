@@ -2,7 +2,7 @@
 type: post
 title: Risotto asperges vertes, abondance, noisettes
 date: 2012-11-19T16:54:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605576/20121119_risotto_asperge_verte_abondance_noisette_0031-73x110_tdhpez.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943821/20121119_risotto_asperge_verte_abondance_noisette_0031.jpg
 categories: 
   - Plats
 tags: 
@@ -19,6 +19,7 @@ tags:
   - riz
   - vin
 disqusId: 3587684523
+slug: risotto-asperges-vertes-abondance-noisettes
 ---
 
 [![](http://4.bp.blogspot.com/-7kZQqFg7CDA/UKvKx6p-W_I/AAAAAAAAFXc/_Knrp2v6-3M/s320/20121119_risotto_asperge_verte_abondance_noisette_0031_bann.jpg)](http://4.bp.blogspot.com/-7kZQqFg7CDA/UKvKx6p-W_I/AAAAAAAAFXc/_Knrp2v6-3M/s1600/20121119_risotto_asperge_verte_abondance_noisette_0031_bann.jpg)
@@ -26,8 +27,6 @@ disqusId: 3587684523
 Je suis de retour les gourmands ! J’espère que malgré le froid vous allez bien ! D’ailleurs quand on parle de températures glaciales, en général l’envie nous prend de manger des choses souvent copieuses comme le risotto, qui, quoi qu’on en dise tient bien au corps ! Pour ce soir justement j’avais envie de réaliser ce plat, mais a base d’asperges vertes cette fois, pour changer un peu des champignons. Oui, oui je sais bien les asperges vertes ne sont pas de saison, mais j’en avais terriblement envie, surtout en voyant [la recette de ma chère Nathalie](http://www.lacuisinedenathalie.com/article-risotto-aux-asperges-vertes-recette-facile-103995541.html) !
 
 Me voilà donc en pleine préparation d’un délicieux risotto : on sort les [casseroles](http://www.rueducommerce.fr/index/casserole%20fonte), la [poêle](http://www.rueducommerce.fr/m/pl/malid:4769951), un [couteau](http://www.rueducommerce.fr/m/pl/malid:12468606) et vos [ustensiles de cuisine](http://www.rueducommerce.fr/m/pl/malid:43774567) tel que planche à découper, cuillère en bois…
-
-
 
 Pour 2 personnes
 
@@ -48,8 +47,6 @@ Pour 2 personnes
 5- Mélangez assez souvent. Une fois que le vin blanc est absorbé par le riz, ajoutez une louche de bouillon. De nouveau, mélangez et attendant que le liquide soit absorbé et recommencez l’opération jusqu’à ce qu’il ne reste plus de bouillon dans votre casserole.  
 6- Dans une poêle, faites chauffer un peu de beurre et faites revenir les tronçons et les têtes d’asperges 3/4 minutes. Ajoutez ensuite le tout a votre risotto.  
 7- Lorsque vous êtes prêts à servir, ajoutez quelques lamelles d’abondances et quelques morceaux de noisettes !Si vous le désirez, vous pouvez ajouter une cuillère à soupe de crème fraîche au mélange, mais personnellement je ne l’ai pas fait.
-
-
 
 Qu’en dites vous ? Pour ma part cela change un peu de la raclette et de la tartiflette (oui parce que malheureusement on peut pas en manger tous les jours au risque de devenir vraiment énorme)
 

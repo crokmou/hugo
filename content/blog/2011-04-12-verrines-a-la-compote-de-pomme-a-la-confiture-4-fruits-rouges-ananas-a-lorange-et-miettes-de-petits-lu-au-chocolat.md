@@ -2,7 +2,7 @@
 type: post
 title: "Verrines à la compote de pomme, à la confiture 4 fruits rouges, ananas à l'orange et miettes de petits Lu au chocolat"
 date: 2011-04-12T10:15:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501606197/Verrine-compote-pomme-76x110_uja3de.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943990/Verrine-compote-pomme.jpg
 categories: 
   - Desserts
 tags: 
@@ -17,13 +17,12 @@ tags:
   - petit lu
   - pomme
 disqusId: 3587684907
+slug: verrines-a-la-compote-de-pomme-a-la-confiture-4-fruits-rouges-ananas-a-lorange-et-miettes-de-petits-lu-au-chocolat
 ---
 
 _Petite envie du jour, faire des verrines… avec comme base les fruits (parce que des fois il faut bien en manger !). Recette très simple._
 
 ![4pers](http://storage.canalblog.com/90/08/825568/62416284_p.jpeg)
-
- 
 
 *   50 grammes de pommes
 *   15 grammes de sucre
@@ -35,8 +34,6 @@ _Petite envie du jour, faire des verrines… avec comme base les fruits (parce q
 *   boite de petits Lu au chocolat
 
 ![Verrine_compote_pomme2](http://storage.canalblog.com/15/82/825568/61648692_p.jpg)
-
-                              
 
 ![preparation](http://storage.canalblog.com/60/95/825568/62416305_p.jpeg)
 

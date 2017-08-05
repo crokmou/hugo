@@ -2,7 +2,7 @@
 type: post
 title: Cassolettes du soleil
 date: 2011-05-14T13:26:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605628/Cassolettes-du-soleil-73x110_vjazfx.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943860/Cassolettes-du-soleil.jpg
 categories: 
   - Plats
 tags: 
@@ -22,17 +22,12 @@ tags:
   - poivron
   - tomate
 disqusId: 3587684764
+slug: cassolettes-du-soleil
 ---
 
 Je n’ai jamais su comprendre pourquoi, les poivrons me font penser au Sud, au soleil, à la méditerranée (d’où le nom du petit plat), hier soir ne sachant trop que faire à diner, j’ai donc fait une ratatouille (un temps soit peu différente de l’ordinaire), avec ce qu’il me restait dans le frigo.
 
 [![](http://3.bp.blogspot.com/-8PERTg6-dvE/TbWSZG7U0CI/AAAAAAAAAE0/LNKUDHmrLHw/s320/4pers.jpg)](http://3.bp.blogspot.com/-8PERTg6-dvE/TbWSZG7U0CI/AAAAAAAAAE0/LNKUDHmrLHw/s1600/4pers.jpg) 
-
- 
-
- 
-
- 
 
 *   2 aubergines
 *   3 poivrons (rouge, jaune, vert)

@@ -2,7 +2,7 @@
 type: post
 title: Alfajores de maïzena, biscuits Argentins
 date: 2016-04-04T14:59:47+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605581/alfajores-recette-crokmou-blog-culinaire-73x110_xndxbv.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943845/alfajores-recette-crokmou-blog-culinaire.jpg
 categories: 
   - Desserts
 tags: 
@@ -21,11 +21,12 @@ ingredient_textarea: |
   - |
   > * 100 g de beurre> * 100 g de sucre glace> * 100 g de farine> * 5 jaunes d'œuf> * 12 g de levure chimique> * 1 zeste de citron> * 200 g de fécule de maïs> * confiture de lait> * noix de coco râpée
 disqusId: 4719176272
+slug: alfajores-de-maizena-biscuits-argentins
 ---
 
 De retour de Savoie, des vacances dont j’ai grandement profité. Je me sentais bien dans les montagnes, ça fait un bien fou de respirer de l’air pur et d’être face à la nature toute la journée. Autant te l’avouer je n’ai rien mangé de bien sain durant une semaine, j’ai eu la chance de déguster toutes les spécialités fromagères possibles : tartiflette, croziflette, fondue au fromage, vacherin, raclette… Je reviens donc le ventre plein, la tête encore dans les nuages et les yeux pleins d’étoiles.
 
-![@sarahblieux](https://res.cloudinary.com/crokmou/image/upload/v1501605568/12592269_1059784767422048_3039977996356596909_n_pprwxw.jpg)
+![@sarahblieux](http://www.crokmou.com/wp-content/uploads/2016/04/12592269_1059784767422048_3039977996356596909_n.jpg)
 
 Je devais vous poster cette recette avant mon départ mais j’avais tellement de petits trucs à régler que j’ai oublié. De nouveau, mon ami Argentin m’a drôlement gâtée avec de délicieuses petites pâtisseries bien de chez lui : des Alfajores de maïzena ! C’est une sorte de petit macaron tout doux fourré à la confiture de lait, c’est vraiment délicieux et très gourmand.
 

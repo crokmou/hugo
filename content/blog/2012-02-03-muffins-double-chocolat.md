@@ -2,7 +2,7 @@
 type: post
 title: Muffins double chocolat
 date: 2012-02-03T21:20:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605572/20120130_muffin_chocolat_coeur_chocolat_blanc_1-73x110_nktgoa.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943813/20120130_muffin_chocolat_coeur_chocolat_blanc_1.jpg
 categories: 
   - Desserts
 tags: 
@@ -15,11 +15,10 @@ tags:
   - mignardise
   - muffin
 disqusId: 3587684118
+slug: muffins-double-chocolat
 ---
 
 Une attente interminable n’est-ce pas ? La surprise, qu’est-ce donc ? Et bien tout simplement un petit carré de chocolat blanc ! (Oui oui rien d’exceptionnel vous étiez prévenus, néanmoins cela reste délicieux et surprenant !). La particularité de ce petit carré de chocolat blanc est qu’il ne fond pas et il ne croque pas… en fait il est « crokmou » (Très fin non ?!). En fait pour tout vous dire (parce que je n’ai aucuns secrets pour vous), c’est une recette ratée ! Je ne me suis jamais ventée d’être hyper douée en cuisine et vous en avez la preuve ce soir, normalement le carré de chocolat blanc et une partie du muffin devrait être fondant (et ce n’est pas le cas, pourquoi je ne sais pas, j’ai pourtant refait la recette et j’arrive toujours au même résultat mais soit, cela me vas tout aussi bien !), malgré ce petit raté je trouve la texture intéréssante, et puis vous vous en doutez bien, c’est très bon aussi ! Je vais donc vous livrer la recette de ce merveilleux petit raté (si vous arrivez à faire fondre ce chocolat blanc, n’hésitez pas à me donner l’astuce !). N’oubliez pas de vous munir de votre fameux [tablier](http://www.rueducommerce.fr/m/pl/malid:261) anti-tâches de choco, votre [matériel à pâtisserie](http://www.rueducommerce.fr/m/pl/malid:12468605), et de votre [sucrier](http://www.rueducommerce.fr/m/pl/malid:4769905).
-
-
 
 Pour 10 muffins
 
@@ -39,8 +38,6 @@ Pour 10 muffins
 4- Ajoutez la préparation choco/beurre au mélange farine, mélangez puis ajoutez le lait, l’oeuf préalablement battu et le chocolat en poudre. Mélangez de nouveau afin d’avoir une préparation homogène  
 5- Remplissez vos moules à muffins au 3/4\. Déposez dans chaque moule un demi carré de chocolat blanc (si vous l’enfoncez un peu la pâte à muffins devrait le recouvrir)  
 6- Enfournez pendant environ 15/20min
-
-
 
 Laissez quelque peu refroidir avant de déguster
 

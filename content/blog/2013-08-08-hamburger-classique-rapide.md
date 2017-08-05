@@ -2,7 +2,7 @@
 type: post
 title: Hamburger classique rapide
 date: 2013-08-08T17:22:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605579/20130629_hamburger_0041-73x110_nmcoex.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943840/20130629_hamburger_0041.jpg
 categories: 
   - Plats
 tags: 
@@ -16,23 +16,18 @@ tags:
   - salade
   - tomate
 disqusId: 3587683249
+slug: hamburger-classique-rapide
 ---
 
 Bonjour les gourmands, j’espère que vos vacances ou votre mois d’Août se passe bien ! Pour ma part, avant de vous parler de la recette du jour je tenais à vous annoncer que ça y est **je me lance enfin** !
 
 Comme certains d’entre vous le savent déjà, j’ai terminé mes 3 ans d’études en photographies il y a quelques mois. J’hésitai à la rentrée à reprendre des études en pâtisserie/boulangerie mais j’ai finalement pris la décision de me lancer dans le monde du travail. C’est donc avec une grande joie que je vous annonce **mes débuts en tant que photographe et styliste culinaire indépendante** ! Je ne sais pas encore comment cela va se passer mais on verra bien, au moins je fais ce que j’aime et c’est le plus important !
 
-
-
 [![](http://www.crokmou.com/wp-content/uploads/2013/08/fb-300x1281-300x128.jpg)](http://www.blogger.com/blogger.g?blogID=8651192907650572976)
 
 Vous pouvez dès à présent me retrouver sur **mon portfolio** en ligne ainsi que sur ma **nouvelle page Facebook pro.** Comme vous le savez certainement, ce n’est pas toujours évident de se faire connaître donc n’hésitez pas si mon travail vous plait, à **aimer et partager** ma pageFacebook ou mon book en ligne, cela me ferait vraiment plaisir !
 
-
-
 Revenons dès à présent à nos moutons, ou du moins nos envies culinaires. Pour ce soir je vous propose un **hamburger maison**, rapide et très simple à réaliser pour un résultat super gourmand ! Une fois que vous aurez réalisé vos hamburgers, à mon avis vous oublierez vite Macdo !
-
-
 
 Pour 4 personnes
 
@@ -47,8 +42,6 @@ Pour 4 personnes
 – mayonnaise  
 – sel & poivre  
 – persil
-
-
 
 **○○○**
 

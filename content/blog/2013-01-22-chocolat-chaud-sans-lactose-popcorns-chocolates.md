@@ -2,7 +2,7 @@
 type: post
 title: Chocolat chaud sans lactose, popcorns chocolatés
 date: 2013-01-22T10:03:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605577/20130120_chocolat_chaud_espagnol_pop_corn_chocolat_0054-73x110_m4svwo.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943831/20130120_chocolat_chaud_espagnol_pop_corn_chocolat_0054.jpg
 categories: 
   - Boissons
 tags: 
@@ -15,6 +15,7 @@ tags:
   - maïs
   - mignardise
 disqusId: 3587683979
+slug: chocolat-chaud-sans-lactose-popcorns-chocolates
 ---
 
 Le froid s’est installé depuis déjà quelques jours, entre les balades hivernales et les bonhommes de neige (et le travail mais ça c’est autre chose…) il est bon aussi de prendre un peu de repos. Quoi de mieux que de s’installer emmitoufler dans une couverture, un choco chaud entre les mains,  le tout devant la fenêtre en regardant la neige tomber ? Personnellement je ne connais pas mieux, sauf peut être un petit plus avec une cheminée au feu de bois !
@@ -22,8 +23,6 @@ Le froid s’est installé depuis déjà quelques jours, entre les balades hiver
 Je cherchais une recette de choco chaud simple et sympa à faire, sans lait (puisque j’ai bien du mal a le digérer), une recette qui réconforte et j’ai eu la chance d’en trouver deux pour le prix d’une sur le blog de [Murmures](http://www.emiliemurmure.com/2012/12/chocolat-chaud-pop-corn-chocolate.html) : **Chocolat chaud Espagnol et popcorns chocolatés **! Merveilleux non ?
 
 Munissez vous d’une [casserole](http://www.rueducommerce.fr/index/casserole%20fonte) et d’un [fouet en inox](http://www.rueducommerce.fr/index/ustensile%20Fouet%20inox) pour le choco chaud, d’une [sauteuse](http://www.rueducommerce.fr/index/sauteuse%20en%20pierre) pour les popcorns. Sortez la cannelle de vos [pots à épices](http://www.rueducommerce.fr/index/pot%20epice) et en avant pour la recette !
-
-
 
 Recette hivernale
 
@@ -35,11 +34,7 @@ Recette hivernale
 – 4 mugs d’eau  
 – chantilly ou crème fouettée sucrée pour mes amis Belges (facultatif)
 
-
-
 **Pour un saladier (moyen) de popcorns** – 80g de maïs à popcorn – 150 à 200g de chocolat noir – huile
-
-
 
 1- Commençons par les popcorns : Versez un peu d’huile de tournesol dans votre sauteuse (prenez là la plus haute possible), lorsque celle ci commence a être bien chaude, ajoutez le maïs et recouvrez le tout d’un couvercle. Lorsque les popcorns commencent à faire « pop », remuez bien votre sauteuse de temps en temps pour qu’ils ne crament pas et laissent le temps aux autres de « poper » (ouiii je parle Français tout bien). Lorsque tous vos popcorns sont « cuits » versez les dans un grand saladier.
 
@@ -48,8 +43,6 @@ Recette hivernale
 3- Passons ensuite au chocolat chaud : Dans une casserole à fond épais, versez le cacao, le sucre, la fécule de maïs et la cannelle. Ajoutez ensuite l’eau tout en mélangeant et faites chauffer le tout. Mélangez de temps en temps et lorsque votre préparation commence a épaissir, retirez du feu et servez aussitôt
 
 4- Dégustez seul, en famille, devant un bon film ou tout simplement en rêvassant !
-
-
 
 [![](http://www.crokmou.com/wp-content/uploads/2013/01/20130120_chocolat_chaud_espagnol_pop_corn_chocolat_00541.jpg)](http://www.crokmou.com/wp-content/uploads/2013/01/20130120_chocolat_chaud_espagnol_pop_corn_chocolat_00541.jpg)
 
@@ -60,8 +53,6 @@ _Mug hibou trouvé chez Monoprix_
 Vous avez des bisous de mon moumou des neiges ! N’est-il pas beau comme ça ? A braver la tempête et tout hihi
 
 [![](http://www.crokmou.com/wp-content/uploads/2013/01/moumou_des_neiges1.jpg)](http://www.crokmou.com/wp-content/uploads/2013/01/moumou_des_neiges1.jpg)
-
-
 
 Je vous souhaite une très bonne semaine les gourmands !
 

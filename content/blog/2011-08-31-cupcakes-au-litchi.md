@@ -2,7 +2,7 @@
 type: post
 title: Cupcakes au litchi
 date: 2011-08-31T20:30:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605785/Cupcake-litchi-72x110_leoq0l.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943889/Cupcake-litchi.jpg
 categories: 
   - Desserts
 tags: 
@@ -10,6 +10,7 @@ tags:
   - fruit
   - litchi
 disqusId: 3587684919
+slug: cupcakes-au-litchi
 ---
 
 Bonsoir bonsoir, entre deux petites révisions me voilà avec une recette que j’avais envie de faire depuis quelques temps : des cupcakes au litchi. Je trouve la saveur du litchi très douce et sucrée, j’aime beaucoup. Bon au départ il devait y avoir une magnifique crème chantilly rose par dessus les cupcakes… maiiiiiiis ayant (je crois) un batteur électrique qui même puissance 1, est un peu rapide, la crème n’a pas prise. N’ayant pas envie de me battre aujourd’hui, j’ai donc fait une petite déco selon mes moyens et les envies du jour ! Oh j’ai oublié de vous poser une question : **Et vous le litchi, vous en pensez quoi ? Vous en mangez souvent ?**

@@ -2,7 +2,7 @@
 type: post
 title: Tarte rhubarbe et crème pâtissière
 date: 2015-05-25T17:04:44+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501606146/tarte-bourgeoise-rhubarbe-recette-crokmou-blog-culinaire1-73x110_zsoqkn.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943979/tarte-bourgeoise-rhubarbe-recette-crokmou-blog-culinaire1.jpg
 ingredient_qty: 
   - Pour 4/6 personnes
 ingredient_temps: 
@@ -15,6 +15,7 @@ ingredient_textarea: |
   > > * 150g de lait> * 18g de sucre> * 15g de beurre> * 18g de sucre> * 14g de maïzena> * 1 jaune d'oeuf> * 1 gousse de vanille
   > * rhubarbe au sirop (voir [Panna Cotta à la rhubarbe](http://www.crokmou.com/panna-cotta-vegan-a-la-vanille-et-sa-gelee-de-rhubarbe-vegan-vanilla-panna-cotta-with-rhubarb-jelly/))
 disqusId: 3792514622
+slug: tarte-rhubarbe-creme-patissiere
 ---
 
 La **tarte rhubarbe et crème pâtissière**, tout le monde connait mais celle-ci est un peu différente : c’est une tarte Bourgeoise. Pourquoi Bourgeoise ? Grande question, c’est ainsi que la nomme les Belges puisque selon eux une tarte est faite de pâte levée sucrée. Pour nous petits Français, une tarte c’est à base de pâte sucrée ou sablée, chez nous petits Belges on appellerait cela une pâte à croûte (hey ouai tellement sex !) La _pâte levée sucrée_ donne un aspect **plus généreux et gourmand**, une texture plus molle à la tarte aussi, comme une brioche mais plus fin et légèrement plus cuit. Pour certaines tartes aux fruits je trouve ça vraiment top, et le must c’est bien entendu avec la rhubarbe : j’adore ce fruit (?) légèrement acide avec un peu de crème pat’ sucrée hum un vrai délice !!!   ## **Recette de la tarte rhubarbe** 1\. Pour la pâte à tarte : Bien mélanger le beurre en pommade. Ajouter le sucre et le sel, mélanger de nouveau. Ajouter l’œuf puis la farine et la levure Bien mélanger jusqu’à l’obtention d’une pâte homogène mais pas trop non plus afin de ne pas développer le réseau de gluten. Filmer et mettre au frais de 2 à 24h 2\. Pour la crème pâtissière : Faire bouillir le lait et le 1<sup>er</sup> sucre. Mélanger le 2<sup>ème</sup> sucre et la maïzena. Ajoutez l’œuf et mélanger de nouveau. Verser un peu de lait bouilli dans le mélange sucre/maïzena/œuf. Mélanger et reverser dans le reste de lait encore sur la casserole Lorsque le mélange commence à faire des bulles, continuer de mélanger et stériliser l’appareil encore 2 minutes Ajouter le beurre, mélanger et verser la crème pâtissière sur une plaque préalablement recouverte de papier film Filmer la crème pâtissière au contact et faire refroidir rapidement 3\. Faire égoutter vos morceaux de rhubarbe au sirop 4\. Sortir la pâte à tarte et l’étaler sur environ 3mm, la placer dans votre moule à tarte préalablement (bien) beurré et foncer (c’est à dire ajuster votre pâte selon le moule, couper les bords tout ça). 5\. Étaler un fond de crème pâtissière, disposer les morceaux de rhubarbe comme il vous semble et laisser « pousser » la tarte pendant environ 30 minutes à l’air libre 6\. Préchauffer votre four à 230°C 7\. Dorer les bords de la tarte et enfourner pour 20/25 minutes 8\. Défourner sur grille et déguster encore tiède (c’est tellement meilleur !!!)  

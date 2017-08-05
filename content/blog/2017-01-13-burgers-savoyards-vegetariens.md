@@ -2,7 +2,7 @@
 type: post
 title: Burgers savoyards végétariens
 date: 2017-01-13T18:30:19+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605609/burger-savoyard-vegetarien-crokmou-blog-culinaire-belge-2-73x110_tusszc.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943853/burger-savoyard-vegetarien-crokmou-blog-culinaire-belge-2.jpg
 categories: 
   - Plats
 tags: 
@@ -29,6 +29,7 @@ ingredient_textarea: |
   > ## Pour les burgers
   > > * champignons blancs> * oignon> * roquette> * reblochon> * mayonnaise> * ketchup
 disqusId: 5460048791
+slug: burgers-savoyards-vegetariens
 ---
 
 Vendredi c’est ? Cochonneriiiiiiies ! – Oui bon cochonneries culinaires évidemment – . J’aime bien me faire une **petite journée off** dans la semaine, une journée où je mange un peu moins light que d’habitude et où les proportions dans l’assiette font la fête à la démesure ! Généralement durant ces jours là c’est _soit pizza, soit burger_. Mais depuis que je ne mange pour ainsi dire plus de viande, je trouve qu’il est suuuuuper compliqué de trouver un burger vg digne de ce nom à Bruxelles ! Lorsque je commande sur _Deliveroo ou Uber Eats_, j’ai souvent le choix entre un « burger végétarien : galette de légumes, salades et tomates » ou « veggie burger : tomate, chèvre, champignon portebello, poivron »… bon beh vous m’excuserez mais cela ne me vend pas du rêve moi ! J’aime le gras, les burgers à 5 étages et le goût, ouai ouai. Alors voilà, j’ai trouvé **l’astuce pour assouvir mes envies de burger pas light : je cuisine**, de bon burgers savoyards végétariens. Et vous savez quoi ? C’est assez rapide en fait. Bon il est vrai qu’avec les indications mentionnées cela semble plutôt long, mais avec une bonne organisation, plusieurs choses se font en même temps. En ce qui concerne la recette de buns, je l’ai trouvé sur le blog [« C’est ma fournée ! »](http://www.cestmafournee.com/2013/09/parce-quil-ny-pas-de-bon-hamburger-sans.html#), déjà testée plus d’une fois et elle est top !    

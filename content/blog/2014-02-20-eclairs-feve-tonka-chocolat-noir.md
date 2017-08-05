@@ -2,7 +2,7 @@
 type: post
 title: Eclairs fève Tonka, chocolat noir
 date: 2014-02-20T23:15:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605566/190214-eclair-creme-feve-tonka-10-73x110_gidtkv.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943792/190214-eclair-creme-feve-tonka-10.jpg
 categories: 
   - Desserts
 tags: 
@@ -17,6 +17,7 @@ tags:
   - mignardise
   - pate a chou
 disqusId: 3587683406
+slug: eclairs-feve-tonka-chocolat-noir
 ---
 
 Salut les gourmands ! J’espère que vous vous portez bien ! Comme je l’ai dit sur [mon Facebook](https://www.facebook.com/pages/CroKMou/148093255259077) il y a quelques temps, j’ai décidé de me mettre aux **bases de la boulangerie/pâtisserie** une fois par semaine. Jeudi dernier c’était la [baguette tradition](http://www.crokmou.com/2014/02/baguette-tradition.html), cette semaine j’avais envie de me mettre à la pâte à choux et plus spécifiquement aux **éclairs**.
@@ -26,8 +27,6 @@ Certains vous dirons qu’il n’y a rien de plus simple que la pâte à choux, 
 Que l’on soit d’accord, mon glaçage c’est pas vraiment le top du top, mais pour une première je trouve ça pas encore trop mal (hein oui dit que c’est pas mal !)
 
 J’ai pris note de la recette sur le blog de [SquisitoO!](http://squisitoo.blogspot.be/), il y a de cela 3 ans elle avait posté [une bien jolie recette](http://squisitoo.blogspot.be/2011/07/rapide-comme-leclair-la-feve-tonka.html) sur des éclairs à la fève Tonka, j’ai donc suivit son article à la lettre !
-
-
 
 Pour 8 éclairs
 
@@ -48,8 +47,6 @@ Pour 8 éclairs
 5) Remplissez votre poche à douille de pâte à chou et à l’aide d’une douille lisse d’environ 2cm, dressez des boudins de 14cm sur une plaque préalablement recouverte de papier sulfurisé. Espacez de 3/4cm vos éclairs afin qu’ils ne se collent pas durant la cuisson. Si ceux-ci ne sont pas très réguliers, vous pouvez lisser la pâte avec un peu d’eau. Dorez les éclairs à l’aide d’un peu d’oeuf battu.
 
 6) Enfournez pendant une bonne heure. 15 minutes avant la fin ouvrez et refermez votre four afin de laisser la vapeur s’échapper. Laissez refroidir sur une grille.
-
-
 
 **Pour la crème à la fève Tonka:**  
   – 420g de lait entier  
@@ -72,8 +69,6 @@ Pour 8 éclairs
 
 2) Transférez la crème pâtissière dans une [poche à douille](http://www.rueducommerce.fr/index/poche%20a%20douille) avec un embout assez fin (5mm environ). Garnissez vos éclairs en les remplissant de crème à l’aide des trous préalablement percés. Raclez l’excédent.
 
-
-
 **Pour le glaçage au chocolat:**– 80g de chocolat noir  
 – 80g de crème fraîche 30% mg
 
@@ -82,10 +77,6 @@ Pour 8 éclairs
 3) Dégustez de suite ou laissez reposer au frais (je trouve ça encore meilleur)
 
 Vos éclairs peuvent se conserver environ 3 jours au réfrigérateur sous un film plastique… à moins qu’ils ne soient mangés avant !
-
-
-
-
 
 La prochaine fois je m’attaque aux éclairs sésame noir, comme [ceux qu’avait fait mon ami Steve](http://www.flickr.com/photos/shgarden/6164466816/in/photostream/) (malheureusement la recette n’est plus d’actualité). Et si jamais la recette de la pâte à chou vous résiste un peu, n’hésitez pas à consulter [cette vidéo d' »Envie de bien manger »](http://www.youtube.com/watch?v=xEnE9Bb04_4&feature=youtu.be), je suis certaine qu’elle pourra vous être utile !
 

@@ -2,7 +2,7 @@
 type: post
 title: Dips de poulet Indiens
 date: 2012-03-19T20:20:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605573/20120318_Dips_Poulet_Indien_0034-73x110_wcdlis.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943786/20120318_Dips_Poulet_Indien_0034.jpg
 categories: 
   - Apéritifs
 tags: 
@@ -19,11 +19,10 @@ tags:
   - poulet
   - volaille
 disqusId: 3597663997
+slug: dips-de-poulet-indiens
 ---
 
 Bien le bonsoir mes gourmands, j’espère que vous avez passé un bon week end. Pour ce début de semaine je continue dans ma lancée : de nouveau je vous propose une petite recette light (mais toujours avec du goût !). Pas toujours facile de trouver des recettes avec des saveurs sans prendre trop de kilos, mais avec mon petit livre [Weight Watchers des Editions Marabout](http://www.mollat.com/livres/mon-cours-cuisine-les-basiques-9782501067881.html) acheté à la Foire du Livre (oui parce qu’il était hors de questions de repartir sans rien, et pour une fois je me suis résignée à acheter des livres de desserts ! Si ça c’est pas de la sagesse à l’état brut !) les recettes sont tout de suite plus faciles à dégoter ! Je vous le conseille vraiment ce petit bouquin, c’est très bien illustré, très bien expliqué et les points Weight Watchers ne sont pas marqués (donc vous n’avez pas l’impression de faire « régime ») et de plus se sont des recettes basiques et tout à fait « normales » ! Même les légumes (qui sont pour moi habituellement un vrai supplice à cuisiner) ont l’air bons ! Si, si je vous assure, les associations sont faites de manière a apprécier ces petits trucs d’habitude si repoussants (après tout dépend pour qui !). Voici donc des amuses bouches (chez moi ce fût un repas, avec de petits pommes de terre, mais après, vous adaptez selon ce que vous voulez faire !) qui épateront vos convives et amis. C’est frais, coloré et ca change du gruyère coupé en dés ! Pour la réalisation de ces dips, vous aurez besoin de [maniques](http://www.rueducommerce.fr/m/pl/malid:4769931) (pour sortir votre plaque du [four](http://www.rueducommerce.fr/m/pl/malid:9404136) ([Whirlpool](http://www.rueducommerce.fr/m/pl/malid:84038)), (oui parce qu’entre nous, j’ai pris la fâcheuse tendance de me brûler les mimines à chaque fois que je sors quelque chose)), de petits [bols](http://www.rueducommerce.fr/m/pl/malid:4769881) pour déposer la sauce et d’un robot ([Moulinex](http://www.rueducommerce.fr/m/pl/malid:88589)) pour vos mélanges savants !
-
-
 
 Pour 4 personnes
 
@@ -44,8 +43,6 @@ Pour 4 personnes
 4- Une fois les 4h passées, faites préchauffer votre four en position grill (faites BIEN préchauffer votre four, car évidemment je l’ai mal fait et mes dips ont trop cuits ^^ »)  
 5- Disposez vos lanières de poulet sur une grille au dessus de votre lèche frite (oui parce que ca va gouliner un peu partout dans votre four si vous ne mettez pas la lèche frite !)) et enfournez pour environ 6 minutes (en prenant soin de retourner les dips à mi-cuisson)  
 6- Avant de passer à l’apéro, disposez votre sauce à la menthe dans de petits récipients et servez les dips encore chauds !
-
-
 
 **Alors qu’en pensez vous ? Le fait de vous proposer des recettes un peu plus « lights », cela vous plait ?** ** ** **Oh et vous savez quoi ? Cro’K’Mou de nouveau à la une sur HelloCoton et en très bonne compagnie avec [Confessions d’une gourmande](http://confessionsdunegourmande.over-blog.com/article-chiffonade-de-jambon-cru-a-l-oeuf-mollet-aux-noisettes-101628975.html) et [La vie se mange](http://www.hellocoton.fr/to/kAZt#http://la-vie-se-mange.blogspot.com/2012/03/tarte-et-tartelettes-aux-fraises.html) !** ** **
 

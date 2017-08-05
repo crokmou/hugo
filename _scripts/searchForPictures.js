@@ -1,3 +1,6 @@
+/**
+ * Search for pictures url inside files.
+ */
 const fs = require('fs');
 const path = require("path");
 

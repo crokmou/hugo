@@ -2,7 +2,7 @@
 type: post
 title: Tarte à la rhubarbe
 date: 2011-04-28T17:15:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501606158/Tarte-rhubarbe-77x110_emflrr.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943983/Tarte-rhubarbe.jpg
 categories: 
   - Desserts
 tags: 
@@ -12,6 +12,7 @@ tags:
   - pate brisee
   - rhubarbe
 disqusId: 3587684864
+slug: tarte-a-la-rhubarbe
 ---
 
 _Plop pom pidou cher amis, ce soir présentation de la célèbre tarte à la rhubarbe (petite anecdote d’ailleurs, durant mes dernières vacances à Toulouse, je rêvais de faire cette tarte pour my family et là on m’apprend que l’on ne trouve que peu de rhubarbe dans le sud… et bah… j’étais pas au courant =o ! Le saviez-vous ?)._
@@ -20,17 +21,7 @@ _ _
 
 _Recette très rapide, et très simple à réaliser 🙂_
 
- 
-
 [![](http://3.bp.blogspot.com/-ui2XYIFexSo/TabbfqjXf3I/AAAAAAAAAEg/Bv0dl1RQBuY/s320/6+%25C3%25A0+8+personnes.jpg)](http://3.bp.blogspot.com/-ui2XYIFexSo/TabbfqjXf3I/AAAAAAAAAEg/Bv0dl1RQBuY/s1600/6+%25C3%25A0+8+personnes.jpg)
-
- 
-
- 
-
- 
-
- 
 
 *   1 pâte brisée
 *   4/5 bonnes tiges de rhubarbe (je n’ai pas envie de compter en grammes :p)

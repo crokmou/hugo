@@ -2,10 +2,11 @@
 type: post
 title: "Blogueur dans un monde d'influenceurs."
 date: 2017-04-03T18:50:22+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605574/20120428_grand_projet_cube_bruxelles_centre_0128-160x107_rgpcsx.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943802/20120428_grand_projet_cube_bruxelles_centre_0128.jpg
 categories: 
   - Lifestyle
 disqusId: 5692785349
+slug: blogueur-monde-dinfluenceurs
 ---
 
 _Photographie réalisée avec deux amis pour un projet photographique : l’isolement._

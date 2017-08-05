@@ -2,7 +2,7 @@
 type: post
 title: "Crème dessert oursante : au miel et copeaux de pain d'épices"
 date: 2011-04-12T14:28:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605756/Cr--me-oursante-au-miel-et-pain-d--pices-81x110_tnxopn.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943875/Cr--me-oursante-au-miel-et-pain-d--pices.jpg
 categories: 
   - Desserts
 tags: 
@@ -12,6 +12,7 @@ tags:
   - miel
   - "pain d'epice"
 disqusId: 3587684643
+slug: creme-dessert-oursante-au-miel-et-copeaux-de-pain-depices
 ---
 
 _J’ai découvert cette recette de crème dessert sur le blog de [Chef Nini](http://www.chefnini.com/categories/sucre/mousses-cremes/page/3/) (Blog simplement parfait d’ailleurs !). En revanche j’ai quelque peu modifier la recette, mon n’hom n’aimant pas beaucoup le goût de la fleur d’oranger, j’ai donc décider d’ajouter simplement des copeaux de pains d’épices au dessus de la crème au miel. Si vous n’êtes pas adeptes du pain d’épices, faites cette recette avec pourquoi pas de l’arôme violette (pour donner un petit goût en plus), ou bien de l’arôme d’amande, des petits lu… etc_
@@ -19,8 +20,6 @@ _J’ai découvert cette recette de crème dessert sur le blog de [Chef Nini](ht
 _Recette particulièrement simple à réaliser !_
 
 ![2pers](http://storage.canalblog.com/55/06/825568/62415759_p.jpeg)
-
- 
 
 *   40 g de miel (on est jamais trop gourmand !)
 *   4 càc de maïzena

@@ -2,7 +2,7 @@
 type: post
 title: Brioche bouclette, nuage de gourmandise !
 date: 2013-10-04T15:41:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605581/20131004_brioche_bouclette_crokmou.com_-73x110_fab9v6.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943943/le_secret_du_poids_florence_delorme_gif_crokmou.gif
 categories: 
   - Boulangerie
 tags: 
@@ -12,6 +12,7 @@ tags:
   - brioche bouclette
   - petit dejeuner
 disqusId: 3587683355
+slug: brioche-bouclette
 ---
 
 Il y a quelques jours, [Manue du blog Melbanane cuisine](http://melbananecuisine.over-blog.com/) a publié une recette de brioche qui m’a tappé dans l’oeil : [Hokkaido, un pain japonais au lait](http://melbananecuisine.over-blog.com/article-hokkaido-pain-japonais-au-lait-120366566.html). Seulement voilà, n’ayant pas tous les ingrédients à la maison et voulant faire les choses bien j’ai donc décidé de faire une autre brioche. En farfouillant (toujours sur le blog de Manue), j’ai déniché cette recette de **brioche bouclette** que je trouvais particulièrement amusante ! Ni une ni deux j’ai donc pris mon courage à deux mains (oui parce qu’après avoir cuisiné 40 recettes, tu as besoin d’un peu de temps pour te remettre de la cuisine) et je me suis lancée !
@@ -19,8 +20,6 @@ Il y a quelques jours, [Manue du blog Melbanane cuisine](http://melbananecuisine
 Le résultat est à la hauteur de mes attentes : c’était simple à réaliser (siiiiiiii je vous jure, finger in the noize), c’est moelleux, pas trop sucré, et la dernière chose et pas des moindres : ca fait son effet sur la table ! Et si vous vous posez la question : est-ce que c’est long à faire, je vous répondrez : presque pas 😀 Le temps de pose habituel pour la levée mais en soit ça va (oui parce que vous me connaissez plutôt bien, l’idée d’attendre 15h que le machin pousse sous un torchon ça m’exaspère !).
 
 Pour bien faire vous n’aurez donc pas besoin de grand chose : des [saladiers](http://www.rueducommerce.fr/m/pl/malid:4769897) ou [culs de poule](http://www.rueducommerce.fr/m/pl/malid:48515370), éventuellement un [robot pâtissier](http://www.rueducommerce.fr/m/pl/malid:229,30023831) ou une [machine à pain](http://www.rueducommerce.fr/m/pl/malid:9404142) (mais avec vos mains ça fonctionne aussi). Pour faire vos cercles de pâtes vous aurez besoin de [cercles de présentation](http://www.rueducommerce.fr/index/cercle%20de%20presentation) ou d’emportes pièces (ou d’un [verre](http://www.rueducommerce.fr/m/pl/malid:4769908)). Afin de faire cuire votre brioche, sortez un [moule à manquer](http://www.rueducommerce.fr/index/moule%20a%20manque) ou un [moule](http://www.rueducommerce.fr/m/pl/malid:5325292) rond assez haut sauf si vous souhaitez des brioches individuelles dans ce cas je vous conseille le [moule à cupcakes/muffins](http://www.rueducommerce.fr/index/moule%20a%20muffins) et… normalement vous êtes prêts !
-
-
 
 Pour 1 brioche d’environ Ø18cm
 
@@ -32,8 +31,6 @@ Pour la brioche :
 – 140ml de lait tiède  
 – 3càs de sucre  
 – 1/2 càc de sel
-
-
 
 Pour la dorure : – 3 càs de beurre – 2 càc de miel – 1 càc de cassonade **○○○**
 

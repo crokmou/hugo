@@ -2,7 +2,7 @@
 type: post
 title: Baguette tradition
 date: 2014-02-13T18:52:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605566/070214-pain-baguette-tradition_04-73x110_fnyw2d.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943789/070214-pain-baguette-tradition_04.jpg
 categories: 
   - Boulangerie
 tags: 
@@ -11,6 +11,7 @@ tags:
   - fait maison
   - home made
 disqusId: 3587683451
+slug: baguette-tradition
 ---
 
 La baguette à la maison, c’est sacré (comme le pain d’ailleurs) ! Si il y a une chose que je déteste et de ce fait que je n’achète JAMAIS, ce sont les baguettes toutes molles du commerce qui n’ont pas goût et où la « croûte » est à peine colorée.
@@ -18,8 +19,6 @@ La baguette à la maison, c’est sacré (comme le pain d’ailleurs) ! Si il y 
 Toujours est-il que ce genre de baguettes c’est pas des plus évident à trouver à Bruxelles (sauf peut être dans les boulangeries Françaises ou boulangerie de traditions), j’ai donc pris l’initiative d’en faire par moi même. Ce jour là, j’avais une demi-journée a tuer, c’était donc parfait pour travailler la pâte.
 
 Le pain, c’est très long à faire, pas trop trop difficile (c’est quand même un sacré tour de mains) en soit mais le repos de la pâte et les rabats sont très importants, il n’est donc pas question de zapper ça ! La patience est de rigueur mais lorsque vos belles baguettes sortent du four, c’est dingue ce qu’on peut être fier ! J’ai trouvé cette fabuleuse recette sur le blog de [Croquez-Craquez](http://croquez-craquez.blogspot.be/2013/02/jai-enfin-trouve-la-recette-pour-faire.html)
-
-
 
 Pour 3 petites baguettes
 
@@ -50,10 +49,6 @@ Pour 3 petites baguettes
 8) Avant d’enfourner vos baguettes, placez au bas de votre four dans le lèche-frite ou dans un plat, de l’eau froide. Faites cuire vos baguettes **10/15 minutes** le temps qu’elles dorent puis baissez votre four à 210°C et laissez cuire à nouveau **10 minutes**. Pendant la cuisson aspergez de temps à autre d’eau.
 
 9) Sortez vos baguettes et laissez refroidir (ou pas) avant de déguster !
-
-
-
-
 
 De quoi épater votre hom (ou votre nana) pour le petit déj de la Saint-Valentin … ou tout simplement les autres jours de la semaine ! Pour ma part je suis un peu tristoune quant aux incisions caractéristiques des baguettes qui ne sont pas apparues sur ma fournée mais malgré tout très contente du résultat ! La mie est moelleuse (le pain devient vite tout mou par contre), aérée et délicieuse ! Une bonne tranche avec un peu de [confiture de lait](http://www.crokmou.com/2012/07/dulce-de-leche-confiture-de-lait.html) ou de [confiture de châtaignes](http://www.crokmou.com/2013/11/confiture-de-chataignes.html)… huuuum une tuerie !
 

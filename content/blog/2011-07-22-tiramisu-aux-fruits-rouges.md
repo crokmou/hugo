@@ -2,7 +2,7 @@
 type: post
 title: Tiramisu aux fruits rouges
 date: 2011-07-22T21:43:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501606166/Tiramisu-fruits-73x110_b1ymba.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943986/Tiramisu-fruits.jpg
 categories: 
   - Desserts
 tags: 
@@ -18,13 +18,12 @@ tags:
   - mascarpone
   - oeuf
 disqusId: 3587684846
+slug: tiramisu-aux-fruits-rouges
 ---
 
 [ ](http://3.bp.blogspot.com/-Ms2I3yeRySQ/TinehVrhTJI/AAAAAAAAAb8/i6Uwc4c4GBg/s1600/IMG_2922.jpg)
 
 Bonsouar bonsouar, voici ma petite recette du jour : **Un tiramisu**. Ce n’est pas une recette des plus compliquées, hormis le choix des fruits bien sûr ! Tout dépend de vos envies après, pour ma part l’été j’adore les fraises et les framboises (j’aime aussi les pêches et les mirabelles mais ce sera peut être pour plus tard ^^). Je vais aussi vous dire que j’ai préféré faire la recette avec de l’amaretto pour son petit goût d’amande et non du marsala (qui pour moi est réservé au tiramisu café/choco) !
-
-
 
 Pour 4 personnes
 
@@ -45,19 +44,11 @@ Pour 4 personnes
 7- Mettez vos tiramisu au frigo durant environ 1 ou 2h, pour que le tout soit bien frais !  
 8- A déguster en dessert, à 4h ou tout simplement quand la gourmandise vous vient !
 
-
-
-
-
 Et vous ?
 
 – [Gourmet et Gourmand avec un Tiramisu très girly à la fraise](http://www.gourmetetgourmand.com/tiramisus-tres-girly-a-la-fraise/)
 
 [![](http://3.bp.blogspot.com/-vRubvqF-LE4/TiwhtTwr0DI/AAAAAAAAAcY/34HYnbzI4Hg/s1600/789107881_1_15_V3bwVZzq.gif)](http://3.bp.blogspot.com/-vRubvqF-LE4/TiwhtTwr0DI/AAAAAAAAAcY/34HYnbzI4Hg/s1600/789107881_1_15_V3bwVZzq.gif)
 
- 
-
 [Le tablier de Christelle](http://letablierdechristelle.com/) : Blog découvert aujourd’hui, j’aime particulièrement les recettes, toutes plus gourmandes les unes que les autres ! 
-
-
 

@@ -2,7 +2,7 @@
 type: post
 title: Truffes des iles
 date: 2011-09-30T18:09:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501606195/Truffes-choco-blanc_fruit-passion-73x110_trlrqt.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943988/Truffes-choco-blanc_fruit-passion.jpg
 categories: 
   - Desserts
 tags: 
@@ -15,6 +15,7 @@ tags:
   - noel
   - noix de coco
 disqusId: 3587683967
+slug: truffes-des-iles
 ---
 
   Il fait chaud ! Même en Belgique, il fait chaud ! Extraordinaire n’es ce pas ? Ce temps radieux m’a donné envie de cuisiner le fruit de la passion. Elle est bien belle cette envie mais que faire ? Des invités demain, donc si possible plusieurs petites choses donc pourquoi pas des truffes ? Me voilà à la recherche d’une recette de truffes, je fouille donc dans mes petits bouquins et Ôdélices va une nouvelle fois m’aider : De petites truffes au chocolat blanc, fruit de la passion et noix de coco ! Si ca c’est pas bon, je ne comprend pas !   
@@ -24,8 +25,6 @@ disqusId: 3587683967
 __________
 
 Ce soir je vous présente une photographe que j’admire, son travail est pour moi une grande source d’inspiration et comporte un talent extraordinaire. Cette femme c’est elle von Unwerth, elle sait mettre la féminité des filles qu’elle prend en photo en avant, rien n’est vulgaire dans ses photographie. Aussi bien en noir et blanc qu’en couleur, je trouve ses images fortes, prenantes (pas dans les sentiments), mais ses photographies me font rêver : la simplicité, la féminité, la lingerie. Ses oeuvres sont un univers que je vous laisse volontier découvrir !
-
- 
 
 [![](http://4.bp.blogspot.com/-ZFi9VWFyH28/ToX1yq9Cb3I/AAAAAAAAA0E/Ee3bkIl8Hh8/s320/2001_EllenVonUnwerth_5_004.jpg)](http://4.bp.blogspot.com/-ZFi9VWFyH28/ToX1yq9Cb3I/AAAAAAAAA0E/Ee3bkIl8Hh8/s1600/2001_EllenVonUnwerth_5_004.jpg)[![](http://3.bp.blogspot.com/-OFBCg6mkfXI/ToX2WDp0c-I/AAAAAAAAA0U/aNWFsr0AQKs/s320/corsets.jpg)](http://3.bp.blogspot.com/-OFBCg6mkfXI/ToX2WDp0c-I/AAAAAAAAA0U/aNWFsr0AQKs/s1600/corsets.jpg)
 

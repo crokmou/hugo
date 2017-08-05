@@ -2,7 +2,7 @@
 type: post
 title: Feuilletés boudin blanc, figue, poire
 date: 2012-12-03T18:31:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605576/20121203_amuse_bouche_noel_boudin_blanc_figue_poire_cannelle_thym_0017-73x110_dtws5t.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943823/20121203_amuse_bouche_noel_boudin_blanc_figue_poire_cannelle_thym_0017.jpg
 categories: 
   - Apéritifs
 tags: 
@@ -18,6 +18,7 @@ tags:
   - pate feuillete
   - poire
 disqusId: 3592393229
+slug: feuilletes-boudin-blanc-figues-poires
 ---
 
 [![](http://www.crokmou.com/wp-content/uploads/2012/12/20121203_amuse_bouche_noel_boudin_blanc_figue_poire_cannelle_thym_0017_bann-300x1791-300x179.jpg)](http://www.crokmou.com/wp-content/uploads/2012/12/20121203_amuse_bouche_noel_boudin_blanc_figue_poire_cannelle_thym_0017_bann-300x1791.jpg)
@@ -28,8 +29,6 @@ Il y a quelques jours j’ai découvert chez [Delhaize](http://fr.delhaize.be/)�
 
 Ces petits feuilletés raviront vos convives à coup sûr ! Et puis ce qui est bien c’est que c’est plutôt simple et rapide à faire, que demander de plus lors des préparations du réveillon ?! Pour la recette, vous aurez besoin d’un [éplucheur](http://www.rueducommerce.fr/m/pl/malid:43774618), d’un [hachoir](http://www.rueducommerce.fr/m/pl/malid:9633606) ou d’un [couteau de cuisine](http://www.rueducommerce.fr/m/pl/malid:12468606) pour les poires, d’[emportes pieces](http://www.rueducommerce.fr/m/pl/malid:43774610) pour la pâte feuilletée, d’une [poêle](http://www.rueducommerce.fr/m/pl/malid:4769951) et d’un four !
 
-
-
 Pour environ 13 feuilletés de 5cm de diamètre
 
 – 1 pâte feuilletée  
@@ -39,8 +38,6 @@ Pour environ 13 feuilletés de 5cm de diamètre
 – cannelle  
 – thym  
 – sel & poivre
-
-
 
 <div style="text-align: justify;">1- Commencez par éplucher et couper votre poire en petits dès. Faites chauffer une poêle avec un peu de beurre et ajoutez vos dès de poire et quelques petites feuilles de thym. Laissez cuire quelques minutes tout en remuant assez souvent, ajoutez un peu de cannelle.
 
@@ -58,14 +55,11 @@ Pour environ 13 feuilletés de 5cm de diamètre
 
 8- A servir chaud ou tiède à vos convives ! Bon apero !
 
-
-
 </div>
 
 Et vous, quels sont vos amuses bouches préférés ? A titre personnel j’aime aussi beaucoup les bouts de saucisses dans de la pâte feuilletée, c’est simple mais tellement bon !
 
 [**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○  
-  
 
 *Produit offert
 

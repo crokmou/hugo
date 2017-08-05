@@ -2,7 +2,7 @@
 type: post
 title: Beignets au four, fève tonka
 date: 2012-11-05T13:12:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605576/20121101_beignet_four_feve_tonka_0027-73x110_wxomdk.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943820/20121101_beignet_four_feve_tonka_0027.jpg
 categories: 
   - Desserts
 tags: 
@@ -13,6 +13,7 @@ tags:
   - food anime
   - four
 disqusId: 3617452471
+slug: beignets-au-four-feve-tonka
 ---
 
 [![](http://2.bp.blogspot.com/-5YQU80jcz8Q/UJKOjptQ6MI/AAAAAAAAFEM/eGgffaftrnc/s640/20121101_beignet_four_feve_tonka_crokmou_3379.gif)](http://2.bp.blogspot.com/-5YQU80jcz8Q/UJKOjptQ6MI/AAAAAAAAFEM/eGgffaftrnc/s1600/20121101_beignet_four_feve_tonka_crokmou_3379.gif)
@@ -28,8 +29,6 @@ La fève Tonka fût une première pour moi ! Personnellement je n’aime pas tro
 Pour réaliser cette recette vous n’aurez pas besoin de grand chose si ce n’est une [casserole](http://www.rueducommerce.fr/index/casserole%20fonte), un grand [cul de poule](http://www.rueducommerce.fr/m/pl/malid:48515370), un [rouleau à pâtisserie](http://www.rueducommerce.fr/index/rouleau%20patisserie) pour étaler la pâte, des [emportes pièces](http://www.rueducommerce.fr/m/pl/malid:43774610) pour faire de beaux beignets et une [feuille de cuisson](http://www.rueducommerce.fr/index/feuille%20de%20cuisson) pour cuire le tout au four !
 
 <a name="more"></a>
-
-
 
 Environ 20 beignets
 
@@ -48,8 +47,6 @@ Environ 20 beignets
 4- Sur un plan de travail bien fariné, abaissez votre pâte et étalez là sur 1 cm d’épaisseur environ (mais pas moins sinon vos beignets ne ressembleront à rien). Faites des beignets à l’aide d’un emporte pièce rond (ou d’un petit verre). Laissez lever encore une bonne heure sur votre plaque préalablement recouverte de papier cuisson (couvrez le tout d’un linge propre)  
 5- Environ 20 min avant la fin du temps de repos, préchauffez votre four à 190°C avec un récipient d’eau à l’intérieur. Badigeonnez vos beignets avec un peu de lait et enfournez le tout pendant 7 à 8 minutes (après tout dépend de votre four, les beignets doivent être légèrement dorés)  
 6- Dès la sortie du four, badigeonnez vos beignets avec un peu de beurre fondu. Saupoudrez le tout de sucre glace et laissez refroidir un peu (ou dégustez encore chauds pour les plus gourmands)
-
-
 
 [![](http://2.bp.blogspot.com/-5YQU80jcz8Q/UJKOjptQ6MI/AAAAAAAAFEM/eGgffaftrnc/s640/20121101_beignet_four_feve_tonka_crokmou_3379.gif)](http://2.bp.blogspot.com/-5YQU80jcz8Q/UJKOjptQ6MI/AAAAAAAAFEM/eGgffaftrnc/s1600/20121101_beignet_four_feve_tonka_crokmou_3379.gif)
 

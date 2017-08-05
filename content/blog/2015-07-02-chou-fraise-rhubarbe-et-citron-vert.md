@@ -2,7 +2,7 @@
 type: post
 title: Chou fraise, rhubarbe et citron vert
 date: 2015-07-02T14:42:38+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605654/chou-diplomate-fraise-rhubarbe-citron-vert-crokmou-blog-160x107_o377bl.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943864/chou-diplomate-fraise-rhubarbe-citron-vert-crokmou-blog.jpg
 categories: 
   - Desserts
 tags: 
@@ -29,9 +29,10 @@ ingredient_textarea: |
   > * 250g de crème pâtissière> * 250g de crème fraîche liquide 30% de MG
   > * rhubarbe> * fraises
 disqusId: 3898090758
+slug: chou-fraise-rhubarbe-et-citron-vert
 ---
 
-Aujourd’hui c’est mon annibirthday et parce que j’aime bien me faire plaisir, j’ai réalisé mon petit gâteau d’anniversaire : un chou fraise, rhubarbe et citron vert. C’est plutôt simple, et ca évite les multiples préparations pour gâteaux multicouches alors que nous ne sommes que deux à la maison. Ces choux (bon d’accord, peut être un poilinou trop gros, mais c’est plus gourmand non ?) sont assez frais et plutôt léger, des fruits frais, une petite compotée sans sucre et une crème légère qui n’est autre qu’une diplomate – un mélange tant pour tant de crème pâtissière et de crème fraiche -. Pour celles et ceux d’entre vous qui se demandaient en voyant [les photos Instagram](https://instagram.com/crokmou.blog/) ce qu’était le truc rouge au dessus des choux, on appelle ça un craquelin, cela permet au chou de pousser de manière plus régulière mais aussi de l’habiller un petit peu si tu ne mets pas de fondant par exemple.   ![chou fraise, rhubarbe et citron vert ](https://res.cloudinary.com/crokmou/image/upload/v1501605654/chou-diplomate-fraise-rhubarbe-citron-vert-crokmou-blog-2_x2awcv.jpg "chou fraise, rhubarbe et citron vert ")![chou fraise rhubarbe et citron vert](https://res.cloudinary.com/crokmou/image/upload/v1501605655/chou-diplomate-fraise-rhubarbe-citron-vert-crokmou-blog-1_oegaew.jpg "chou fraise, rhubarbe et citron vert ")  
+Aujourd’hui c’est mon annibirthday et parce que j’aime bien me faire plaisir, j’ai réalisé mon petit gâteau d’anniversaire : un chou fraise, rhubarbe et citron vert. C’est plutôt simple, et ca évite les multiples préparations pour gâteaux multicouches alors que nous ne sommes que deux à la maison. Ces choux (bon d’accord, peut être un poilinou trop gros, mais c’est plus gourmand non ?) sont assez frais et plutôt léger, des fruits frais, une petite compotée sans sucre et une crème légère qui n’est autre qu’une diplomate – un mélange tant pour tant de crème pâtissière et de crème fraiche -. Pour celles et ceux d’entre vous qui se demandaient en voyant [les photos Instagram](https://instagram.com/crokmou.blog/) ce qu’était le truc rouge au dessus des choux, on appelle ça un craquelin, cela permet au chou de pousser de manière plus régulière mais aussi de l’habiller un petit peu si tu ne mets pas de fondant par exemple.   ![chou fraise, rhubarbe et citron vert ](http://www.crokmou.com/wp-content/uploads/2015/07/chou-diplomate-fraise-rhubarbe-citron-vert-crokmou-blog-2.jpg "chou fraise, rhubarbe et citron vert ")![chou fraise rhubarbe et citron vert](http://www.crokmou.com/wp-content/uploads/2015/07/chou-diplomate-fraise-rhubarbe-citron-vert-crokmou-blog-1.jpg "chou fraise, rhubarbe et citron vert ")  
 
 ## **Recette de chou fraise, rhubarbe et citron vert**
 

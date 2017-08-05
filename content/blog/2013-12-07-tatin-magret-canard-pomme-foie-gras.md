@@ -2,7 +2,7 @@
 type: post
 title: Tatin de magret de canard, pomme, foie gras
 date: 2013-12-07T11:13:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605581/20130928_epicurien.be_tatin_foie_gras_magret_canard-160x107_caislx.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943844/20130928_epicurien.be_tatin_foie_gras_magret_canard.jpg
 categories: 
   - Entrées
 tags: 
@@ -16,6 +16,7 @@ tags:
   - noel
   - pomme
 disqusId: 3587683221
+slug: tatin-magret-canard-pomme-foie-gras
 ---
 
 Noël approche à grands pas ! Comme chaque année on pense avoir le temps : de préparer, d’aller chercher les cadeaux, d’élaborer un menu… mais on se retrouve toujours assez vite au pied du mur. L’idée durant les semaines qui arrivent, sera de vous poster des recettes ou des idées cadeaux se rapportant directement aux fêtes, de quoi peut être, vous éclairer un peu !

@@ -2,7 +2,7 @@
 type: post
 title: Crozets Savoyard
 date: 2011-12-11T14:30:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605572/20111211_crozet_savoyard_1-73x110_iiu3ph.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943806/20111211_crozet_savoyard_1.jpg
 categories: 
   - Plats
 tags: 
@@ -14,13 +14,12 @@ tags:
   - pate
   - plat
 disqusId: 3587684006
+slug: crozets-savoyard
 ---
 
 11/12/11 : De nouveau une recette déjà écrite (au tout début du blog), mais ayant fait ce délicieux petit repas hier soir, j’ai donc refait la photo pour remettre cet article !  
 Pour cette recette n’oubliez pas de vous munir : D’un [plat à gratin](http://www.rueducommerce.fr/m/pl/malid:12468604), d’un beaufort sorti tout droit de votre [plat à fromages](http://www.rueducommerce.fr/m/pl/malid:4820387), d’un grand four ([Brandt](http://www.rueducommerce.fr/m/pl/malid:83961) par exemple), et d’un grand [bol](http://www.rueducommerce.fr/m/pl/malid:4769881) pour mélanger vos ingrédients !  
 Du fromage, du fromage et encore du fromage… en même temps c’est tellement bon ! Les crozets sont de petites pâtes carrées nature ou au sarrasin que l’on trouve un peu partout mais originaire de Savoie. Comme tout bon savoyard qui se respecte, le fromage fait parti intégrante de la région, c’est pourquoi dans ce plat on allie les deux spécialités. »
-
-
 
 Pour 4 personnes
 
@@ -37,10 +36,6 @@ Pour 4 personnes
 4- Une fois les crozets cuits, les mettre dans un plat à gratin, y ajouter les lardons, le fromage coupé en dès et la crème fraiche. Mélangez le tout  
 5- Enfournez pour environ 30min  
 6- Reitrez du four et dégustez !Astuce : N’hésitez pas a passer le plat quelques minutes au grill aussi, cela sera encore meilleur !
-
-
-
-
 
 Régalez vous bien !
 

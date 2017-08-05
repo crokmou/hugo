@@ -2,7 +2,7 @@
 type: post
 title: Brownie marbré
 date: 2011-05-05T14:40:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605571/20110505_brownie_marbre_chocolat_vanille_1-87x110_foq7bm.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943799/20110505_brownie_marbre_chocolat_vanille_1.jpg
 categories: 
   - Desserts
 tags: 
@@ -13,6 +13,7 @@ tags:
   - chocolat noir
   - dessert
 disqusId: 3587684765
+slug: brownie-marbre
 ---
 
 _Il n’est pas toujours simple de se décider sur la recette du jour (que cela soit pour le goûter ou le diner), certains me diront : « Beh pourquoi tu veux cuisiner, puisque tu ne sais pas quoi faire ? » … question pas tout à fait bête mais chez moi il n’y a qu’une réponse : « Parce que j’ai arrêté de fumer et que maintenant le seul moyen de m’occuper c’est de cuisiner ! » … (Ah ? Je ne vous ai rien dit ? Beh euh oui cela fait bientôt deux semaines que j’ai arrêté cette maudite habitude qu’était la cigarette !)_
@@ -23,21 +24,7 @@ _Tout pour dire que (c’est bien beau de raconter ma vie mais vous mourrez d’
 
 _J’ai donc feuilleté mes bouquins de desserts et j’ai trouvé ce merveilleux brownies marbré. Quelques années que je n’ai pas fait de brownies et puis il y a du chocolat dans les placards, bon allez hop, on enfile le tablier et c’est partit !_
 
- 
-
- 
-
- 
-
 [![](http://3.bp.blogspot.com/-ui2XYIFexSo/TabbfqjXf3I/AAAAAAAAAEg/Bv0dl1RQBuY/s320/6+%25C3%25A0+8+personnes.jpg)](http://3.bp.blogspot.com/-ui2XYIFexSo/TabbfqjXf3I/AAAAAAAAAEg/Bv0dl1RQBuY/s1600/6+%25C3%25A0+8+personnes.jpg)
-
- 
-
- 
-
- 
-
- 
 
 *   100 g de chocolat noir
 *   100 g de chocolat blanc

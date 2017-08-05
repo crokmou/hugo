@@ -2,7 +2,7 @@
 type: post
 title: Cupcakes Tiramisu
 date: 2013-04-08T11:49:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605577/20130407_cupcake_tiramisu_0035-73x110_f40xba.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943839/20130407_cupcake_tiramisu_0035.jpg
 categories: 
   - Desserts
 tags: 
@@ -14,6 +14,7 @@ tags:
   - mascarpone
   - mignardise
 disqusId: 3587683916
+slug: cupcakes-tiramisu
 ---
 
 [![](http://www.crokmou.com/wp-content/uploads/2013/04/20130407_cupcake_tiramisu_0025-200x3001-200x300.jpg)](http://www.crokmou.com/wp-content/uploads/2013/04/20130407_cupcake_tiramisu_0025-200x3001.jpg)
@@ -28,15 +29,11 @@ Alors convaincus ? Pour ne pas vous mentir, à la base j’avais prévu une tout
 
 _Then convinced? Not to lie to you, at the base I had planned a different recipe to present to you: a [mascarpone cake, strawberries and lime](http://www.cuisineculinaireamal.com/article-cake-moelleux-au-mascarpone-fraise-et-citron-vert-bio-116754547-comments.html#anchorComment) found on the blog Culinaire Amoula. Only here is I made it on my own way as usual. __For the small anecdote, I found that it’s a pity to do not put strawberries everywhere in the gateau, I thus mixed pieces of strawberries in the dough instead of putting it only on the top. It is after cooking that I realized that strawberries flow into the dough and of this fact my cake never really cooked… That’s so me! Thus finding me with an enormous jar of mascarpone to be ended, I realized these famous recipe of cupcakes!_
 
-
-
 [![](http://www.crokmou.com/wp-content/uploads/2013/04/20130407_cupcake_tiramisu_00251-200x3001-200x300.jpg)](http://www.crokmou.com/wp-content/uploads/2013/04/20130407_cupcake_tiramisu_00251-200x3001.jpg)[![](http://www.crokmou.com/wp-content/uploads/2013/04/20130407_cupcake_tiramisu_0035-200x3001-200x300.jpg)](http://www.crokmou.com/wp-content/uploads/2013/04/20130407_cupcake_tiramisu_0035-200x3001.jpg)
 
 Pour réaliser ces cupcakes, vous aurez besoin d’une [balance](http://www.rueducommerce.fr/m/pl/malid:92,254318) pour peser vos ingrédients, de votre [matériel à pâtisserie](http://www.rueducommerce.fr/m/pl/malid:12468605) dont un [fouet](http://www.rueducommerce.fr/index/ustensile%20Fouet%20inox) (super important), de [moules à muffins](http://www.rueducommerce.fr/index/moule%20a%20muffins) ou des [moules en silicone](http://www.rueducommerce.fr/index/Moule%20silicone), d’une [poche à douille](http://www.rueducommerce.fr/index/poche%20a%20douille) (et d’une [spatule](http://www.rueducommerce.fr/m/pl/malid:48515367) pour racler la pâte parce que c’est super bon)
 
 _To realize these cupcakes, you will need a scales to weigh your ingredients, of your pastry equipment in particular a whip (really important), of muffin tins or silicone molds, a piping bag (and of a spatula to scrape the dough because it is excellent)_
-
-
 
 Pour 6 cupcakes
 
@@ -52,8 +49,6 @@ Pour 6 cupcakes
 – 2 cuillère à soupe de Marsala ou d’Amaretto  
 – 8 cuillère à soupe de sucre glace (topping)  
 – cacao amer en poudre
-
-
 
 **○○○**
 
@@ -96,7 +91,5 @@ _ _
 Passez une bonne semaine !
 
 _Have a good week !_
-
-
 
 [**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○

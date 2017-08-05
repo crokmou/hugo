@@ -2,7 +2,7 @@
 type: post
 title: Moelleux choco/rhubarbe
 date: 2011-05-14T17:48:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605940/Moelleux-choco-rhubarbe-2-82x110_ngqshy.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943935/Moelleux-choco-rhubarbe-2.jpg
 categories: 
   - Desserts
 tags: 
@@ -15,6 +15,7 @@ tags:
   - oeuf
   - rhubarbe
 disqusId: 3587684886
+slug: moelleux-chocorhubarbe
 ---
 
 _ _ _Je dois réviser oui, oui, mais pas avant ma petite recette du samedi ! Saison de la rhubarbe : j’aime, j’adore la rhubarbe… mais un petit goût de : « Marre de toujours faire de la tarte « , et puis en allant lire vos petits messages, je passe sur le blog de [Latifa](http://www.mechouia.be/) et là : la recette qu’il me fallait ! Un gâteau choco tout moelleux avec morceaux de rhubarbe … groumf !_
@@ -23,11 +24,7 @@ _ _
 
 _J’ai testé et c’est délicieux (même si je n’ai pas fait le glaçage et ai quelque peu modifié la recette)_
 
-
-
 **Pour 6/8 personnes :**
-
-
 
 *   3 tiges de rhubarbe (tiges moyennes)
 *   100g de beurre

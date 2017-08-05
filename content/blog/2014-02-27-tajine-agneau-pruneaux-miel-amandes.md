@@ -2,7 +2,7 @@
 type: post
 title: "Tajine d'agneau aux pruneaux, miel et amandes"
 date: 2014-02-27T21:47:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605581/20130928_epicurien.be_tajine_agneau_pruneau_amande-160x107_roo1ub.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943843/20130928_epicurien.be_tajine_agneau_pruneau_amande.jpg
 categories: 
   - Plats
 tags: 
@@ -13,6 +13,7 @@ tags:
   - pruneau
   - sauce
 disqusId: 3587683146
+slug: tajine-agneau-pruneaux-miel-amandes
 ---
 
 Je suis pas une très grande fan d’agneau, voir même pas fan du tout, mais ce tajine croyez moi il en vaut le coup ! Un mélange de sucré/salé comme je les aime, tout est correctement dosé, pas écoeurant, une très bonne odeur de soleil dans l’appart… en bref que du bonheur !
@@ -34,7 +35,5 @@ Je vous laisse à vos fourneaux mes petits gourmands, moi je retourne à mes pin
 Des poutoux et passez un bon week end,
 
 [**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
-
- 
 
  

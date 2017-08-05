@@ -2,7 +2,7 @@
 type: post
 title: Mon beau sapin, roi des sablés
 date: 2012-11-26T16:50:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605576/20121125_sapin_noel_sable--s_the_vert_matcha_cine--magraph_2-160x90_ugmefg.gif
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943833/20121125_sapin_noel_sable--s_the_vert_matcha_cine--magraph_2.gif
 categories: 
   - Desserts
 tags: 
@@ -16,6 +16,7 @@ tags:
   - sable
   - thé
 disqusId: 3592093074
+slug: sapin-sable
 ---
 
 C’est « bientôt » Noël ! Les sapins, les repas, les cadeaux, la famille… et surtout : Les lumièèères ! Je crois que c’est que je préfère durant les fêtes, toutes les guirlandes qui s’illuminent, qui dansent, qui nous émerveillent ! Je trouve ça magique, pas vous ?
@@ -28,8 +29,6 @@ Comme le dit Manue : En décoration de table, ces sapins feront sensation ! Non 
 
 Alors pour la recette, cela vous tente ?
 
-
-
 Pour 3 sapins et quelques étoiles
 
 **Pour les sablés**  
@@ -41,11 +40,7 @@ Pour 3 sapins et quelques étoiles
 – 2 [cuillères à café](http://www.rueducommerce.fr/index/cuillere%20a%20cafe) de thé matche  
 – colorant en poudre vert
 
-
-
 **Pour le glaçage** – 200g de sucre glace – 1 blanc d’oeuf – 1 càs d’eau – des billes argentées en sucre (facultatif)
-
-
 
 1- Commençons par la pâte sablée : Mélangez la farine, le sucre et le sel, le thé matcha et le colorant. Ajoutez ensuite le beurre pommade coupé en petits dés et mélangez avec le [fouet](http://www.rueducommerce.fr/index/ustensile%20Fouet%20inox) (ou les doigts) jusqu’à l’obtention d’un gros sablé. Si vous trouvez que votre pâte n’est pas assez verte, rajoutez du colorant. Ajoutez ensuite les jaunes d’oeufs et pétrissez de manière a obtenir une boule de pâte homogène et non collante. Laissez ensuite reposer une heure au frais dans du film alimentaire.
 
@@ -64,8 +59,6 @@ Pour 3 sapins et quelques étoiles
 8- Montez vos sapins à l’aide du glaçage : Mettez-en une petite couche sur chaque étoile puis empilez-les. Placez ensuite quelques billes argentées en sucre (attention le glaçage sèche vite, dépêchez vous) et laissez séchez le tout!
 
 Vous pouvez conserver vos sapins dans un endroit bien sec, pendant environ 2 semaines
-
-
 
 Alors qu’en pensez vous, sympa non ?
 

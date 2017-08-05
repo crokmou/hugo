@@ -2,7 +2,7 @@
 type: post
 title: Madeleines aux morceaux de pomme et fleurs de lavande
 date: 2011-09-14T15:06:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605916/Madeleine-pomme-lavande-73x110_g5a6gd.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943926/Madeleine-pomme-lavande.jpg
 categories: 
   - Desserts
 tags: 
@@ -15,6 +15,7 @@ tags:
   - mignardise
   - oeuf
 disqusId: 3587684626
+slug: madeleines-aux-morceaux-de-pomme-et-fleurs-de-lavande
 ---
 
 [![](http://1.bp.blogspot.com/-sUauOna7mn0/UCykQ-UnwYI/AAAAAAAADQc/oxb_gS1d1ds/s320/Madeleine+pomme+lavande_bann.jpg)](http://1.bp.blogspot.com/-sUauOna7mn0/UCykQ-UnwYI/AAAAAAAADQc/oxb_gS1d1ds/s1600/Madeleine+pomme+lavande_bann.jpg)

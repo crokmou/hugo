@@ -2,7 +2,7 @@
 type: post
 title: Chou fleur rôti au four
 date: 2015-10-13T17:42:02+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605654/chou-fleu-roti-four-recette-crokmou-blog-culinaire-73x110_mulhe0.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943867/chou-fleu-roti-four-recette-crokmou-blog-culinaire.jpg
 categories: 
   - Plats
 tags: 
@@ -24,6 +24,7 @@ ingredient_textarea: |
   > * chou fleur> * beurre> * ail
   > * 20cl de crème fraiche épaisse> * 200g maroilles> * 1/2 oignon
 disqusId: 4221639818
+slug: chou-fleur-roti-au-four
 ---
 
 Le froid est de retour, et c’est à ce moment là que le chou fleur au four fait son come back (pour changer du chou croquant à l’apéro) ! J’aime beaucoup le chou fleur, avec son pote le romanesco, ils font partis de mes légumes d’hiver chouchou. Généralement [je les cuisine en gratin](http://www.crokmou.com/2014/08/gratin-de-choux-jambon-et-pommes-de-terre), avec une bonne béchamel, quelques lardons et des pommes de terre. La base quoi. Jusqu’à ce que je tombe nez à nez avec le chou fleur rôti au four de « [Sylvain, du blog Un peu gay dans les coings](http://www.un-peu-gay-dans-les-coings.eu/2015/01/chou-fleur-roti-entier-au-four-ail.html)« ! C’est vrai ça, pourquoi ne cuit-on jamais ce chou fleur en entier ? C’est pourtant une idée très simple et après réalisation, vraiment goûteuse ! Pour ma part j’ai fait plutôt simple, un petit mélange de beurre et d’ail pour cuire le tout. Un petit filet mignon sauce Maroilles à côté et le tour est joué, le repas est prêt !  

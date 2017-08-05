@@ -2,7 +2,7 @@
 type: post
 title: Sablés de Noyel
 date: 2011-12-17T21:25:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605572/20111217_sable_noel_chocolat1-73x110_ss7fwh.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943806/20111217_sable_noel_chocolat1.jpg
 categories: 
   - Desserts
 tags: 
@@ -13,11 +13,10 @@ tags:
   - noel
   - sable
 disqusId: 3587684060
+slug: sables-de-noyel
 ---
 
 Bonsoir chers gourmands, je ne vous oublie pas, je fête Noël aussi, et pour cela rien de mieux que des petits sablés. Les sablés ca me rappelle tellement de choses, notamment mon enfance. Beh oui qui n’a jamais eu a faire des sablés de Noel pour les ramener au Marché de l’école. Vous savez tous ces petits stands dans la cours de récré, y’a des gateaux, des biscuits, des ‘oeuvres d’arts’, bref la magie de Noel quoi ! Moi j’adore Noël, parce que le temps parait toujours s’arrêter, avec ces guirlandes, ces sapins, ces marchands de croustillons \*_\* J’aime pas le froid, ni le vent ni la pluie, mais j’aime la neige (parce que ca fait schroutch schroutch sous les pieds) et puis que c’est joli tout plein ! Passons à la recette, j’en ai trouvé une bien sympa sur [Les papotages de Nana](http://www.lespapotagesdenana.com/2011/12/les-sables-de-noel-2011.html), c’est donc celle-ci que j’ai utilisé pour faire ces petits sablés !
-
-
 
 Pour 40 sablés
 
@@ -37,8 +36,6 @@ Pour 40 sablés
 6- Disposez vos sablés sur du papier cuisson et enfournez pendant environ 15min (il faut que vos sablés soient dorés)  
 7- Décorez à votre convenance (ici simplement du chocolat noir) et dégustez !Et ces petits biscuits feront sensations dans des petites pochettes cadeaux !
 
-
-
 __________
 
 [![](http://1.bp.blogspot.com/-VIk-7IEfFRQ/Tuz0hlS1DII/AAAAAAAABVo/xoRC4UHbLR8/s1600/AntoinePoupel7952.jpeg)](http://1.bp.blogspot.com/-VIk-7IEfFRQ/Tuz0hlS1DII/AAAAAAAABVo/xoRC4UHbLR8/s1600/AntoinePoupel7952.jpeg)
@@ -53,8 +50,6 @@ C’est lors de ces séances de portrait qu’il rencontrera le fondateur du Cra
 
 Le photographe a voulu montrer au public ce que lui ne peut pas réellement voir en assistant a une représentation au Crazy Horse. En effet ses photographies témoignent selon lui du travail, de la rigueur, de l’exigence demandée aux danseuses. Nous voyons donc l’envers du décor ! Antoine Poupel a su se fondre dans le décor afin de capter l’intimité de ce monde de paillettes.
 
- 
-
 [![](http://3.bp.blogspot.com/-KBlNrKHLVy4/Tuz07TRMajI/AAAAAAAABV0/BIWalYFefuA/s1600/crazy-8.jpg)](http://3.bp.blogspot.com/-KBlNrKHLVy4/Tuz07TRMajI/AAAAAAAABV0/BIWalYFefuA/s1600/crazy-8.jpg)
 
 J’aime particulièrement le monde du cabaret, la beauté et la sensualité que transmettent les danseuses est pour moi très intéressante. C’est pourquoi cette exposition m’a particulièrement plu, on y voit autre chose que le spectacle en lui même. Je trouve que pour ceux qui ont une vision malsaine de ces danseuses, les photographies permettent de comprendre véritablement qui elles sont, cela change le regard sur le monde du cabaret !
@@ -65,13 +60,7 @@ Les photographies ne sont pas seulement jolies, elles apportent une certaine con
 
 **Et vous, qu’en pensez vous ?**
 
- 
-
 __________
-
- 
-
- 
 
 <span style="line-height: 115%;">N’oubliez pas que si il vous manque quelques cadeaux de Noël, il vous est possible de trouver beaucoup de chose sur Rue du Commerce, notamment de nombreux accessoires: Pour votre [gaufrier](http://www.rueducommerce.fr/m/pl/malid:15123414), votre [robot](http://www.rueducommerce.fr/m/pl/malid:15123245), des accessoires pour votre appareil à [croques monsieur](http://www.rueducommerce.fr/m/pl/malid:15123413), pour vos [plaques de cuisson](http://www.rueducommerce.fr/m/pl/malid:15123339), votre [yaourtière](http://www.rueducommerce.fr/m/pl/malid:15123418)… et j’en passe ! N’hésitez donc surtout pas a aller faire un tour chez eux, ils ont tout ce qu’il vous faut !</span>
 

@@ -2,7 +2,7 @@
 type: post
 title: Cake moelleux à la pistache et vanille
 date: 2014-08-04T07:59:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605610/cake-moelleux-pistache-vanille-73x110_mkzpb9.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943856/cake-moelleux-pistache-vanille.jpg
 categories: 
   - Desserts
 tags: 
@@ -22,11 +22,12 @@ ingredient_textarea: |
   - |
   > * 4 oeufs entiers> * 150 g de sucre> * 120 g de crème liquide entière> * 220 g de farine> * 1 sachet de levure chimique> * 120 g de beurre> * 50 g de pâte de pistache> * 1 gousse de vanille
 disqusId: 3587684416
+slug: cake-moelleux-a-la-pistache-et-vanille
 ---
 
 Hey non ceci n’est pas un cake marbré au thé matcha mais bien un cake moelleux à la pistache et vanille ! Lors de mon partenariat avec Terre Exotique, j’avais en effet commandé de la pâte de pistache naturelle et j’ai eu envie de la tester dans un petit cake tout moelleux ! J’ai beaucoup aimé, c’est typiquement le genre de recette « comfort food » que j’aime ! Le goût de la pistache était peut être un peu trop subtil à mon goût, mais la prochaine fois je n’hésiterai pas à ajouter un peu plus de pâte à la recette, et même pourquoi pas quelques éclats de pistaches !
 
-![cake moelleux à la pistache](https://res.cloudinary.com/crokmou/image/upload/v1501605618/cake-moelleux-pistache-vanille-2_rzw5gm.jpg) ![cake moelleux à la pistache](https://res.cloudinary.com/crokmou/image/upload/v1501605610/cake-moelleux-pistache-vanille-1_czgk2x.jpg)
+![cake moelleux à la pistache](http://www.crokmou.com/wp-content/uploads/2015/03/cake-moelleux-pistache-vanille-2.jpg) ![cake moelleux à la pistache](http://www.crokmou.com/wp-content/uploads/2015/03/cake-moelleux-pistache-vanille-1.jpg)
 
 Et contrairement à ce que l’on peut croire, non non, la pâte de pistache c’est pas vert fluo, ça c’est juste pour faire vendre, si si je t’assure !
 

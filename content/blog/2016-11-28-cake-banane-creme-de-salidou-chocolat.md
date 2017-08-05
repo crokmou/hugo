@@ -2,7 +2,7 @@
 type: post
 title: 'Cake Banane, crème de Salidou & chocolat'
 date: 2016-11-28T18:22:21+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605609/cake-banane-salidou-chocolat-crokmou-blog-culinaire-belge-73x110_k9fj8c.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943863/cake-banane-salidou-chocolat-crokmou-blog-culinaire-belge.jpg
 categories: 
   - Desserts
 tags: 
@@ -25,11 +25,12 @@ ingredient_textarea: |
   - |
   > * 450g de bananes bien mûres> * 80g de sucre cassonade> * 230g de farine> * 1,5 càs d'huile neutre> * 70 ml de lait d'amande> * 60g de chocolat noir> * 50g de salidou> * 2 càc de levure chimique
 disqusId: 5338717020
+slug: cake-banane-creme-de-salidou-chocolat
 ---
 
 Un cake à la banane, si on m’avait dit un jour que j’en mangerai autant, j’aurais été la première surprise ! Ce fruit n’est vraiment pas mon préféré, à moins de me le servir avec une tonne de chocolat ou autre chose afin de ne pas en sentir le goût… Pour vous raconter toute l’histoire : Il y a quelques jours, j’ai récupéré des morceaux de bananes au boulot parce qu’elles étaient bien trop abimées pour être utilisées. Ne voulant pas gâcher, j’ai donc décidé de faire un cake à la banane. A chaque fois que j’ai vu des photos passer sur Internet, ce dessert avait l’air ultra moelleux, et je dois dire qu’il y a du vrai ! Ce mois-ci mon partenaire Alice Délice m’avait envoyé [un pot de crème de Salidou](https://www.alicedelice.com/confiture-coulis/creme-de-salidou-220g-1012577.html), une sorte de caramel au beurre salé, j’ai donc décidé de l’intégrer à ma recette du jour ! Le résultat est assez bluffant, voilà maintenant 4 jours qu’il me reste du banana cake, et il est toujours aussi moelleux/fondant, une tuerie !  Le goût est top, peut être le relever encore un peu avec une épice ou un alcool. En tout cas c’était une bonne première pour moi !  
 
-![Cake à la banane - Banana cake](https://res.cloudinary.com/crokmou/image/upload/v1501605609/cake-banane-salidou-chocolat-crokmou-blog-culinaire-belge-2_nhaldd.jpg)
+![Cake à la banane - Banana cake](http://www.crokmou.com/wp-content/uploads/2016/11/cake-banane-salidou-chocolat-crokmou-blog-culinaire-belge-2.jpg)
 
 ## **Recette du cake à la banane et Salidou**
 

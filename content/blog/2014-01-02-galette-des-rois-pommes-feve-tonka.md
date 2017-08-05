@@ -2,7 +2,7 @@
 type: post
 title: Galette des Rois pommes, fève Tonka
 date: 2014-01-02T17:24:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605561/020114_galette_roi_pomme_feve_tonka_0001-160x107_fcpuwr.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943785/020114_galette_roi_pomme_feve_tonka_0001.jpg
 categories: 
   - Desserts
 tags: 
@@ -14,6 +14,7 @@ tags:
   - sucre
   - tarte
 disqusId: 3587683155
+slug: galette-des-rois-pommes-feve-tonka
 ---
 
 Tout d’abord : BONNE ANNÉE mes loulous ! Que 2014 soit pleine de bonnes choses pour vous et j’espère de jolies surprises ! De mon côté j’espère une année pleine de découverte, de collaborations et de nouveaux contrats. Crokmou ce sera aussi encore plus de recettes, plus de concours et autres festivités. N’hésitez pas si vous avez des idées pour permettre au blog d’avancer, je suis toute ouïe.
@@ -21,8 +22,6 @@ Tout d’abord : BONNE ANNÉE mes loulous ! Que 2014 soit pleine de bonnes chose
 La galette des Rois, elle a failli passer à la trappe cette année ! Pour tout vous dire j’ai passé l’après Noël a être malade et le nouvel an a attraper la crève, de ce fait ma motivation pour la cuisine n’est pas vraiment à son maximum… J’étais partie pour faire ma pâte feuilletée moi même, puis non, puis une pâte feuilletée rapide, puis non et se fût finalement la bonne vieille pâte du commerce qui l’emporta (oui honte à moi !)!
 
 Pour la farce mon Hom n’étant pas friand de la frangipane j’ai donc opté pour un traditionnel aux pommes tout en y ajoutant un peu de fève Tonka pour rehausser le tout !
-
-
 
 Pour 1 grande galette
 
@@ -33,8 +32,6 @@ Pour 1 grande galette
 – 1 jaune d’oeuf  
 – eau  
 – 1 fève
-
-
 
 **○○○**
 

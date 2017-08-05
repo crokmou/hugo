@@ -2,7 +2,7 @@
 type: post
 title: Croquettes au boursin poivre
 date: 2012-05-04T17:56:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605573/20120426_croquette_cheesy_boursin_aperitif_0029-73x110_ivopoi.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943794/20120426_croquette_cheesy_boursin_aperitif_0029.jpg
 categories: 
   - Apéritifs
 tags: 
@@ -11,6 +11,7 @@ tags:
   - croquette
   - fromage
 disqusId: 3597666700
+slug: croquettes-au-boursin-poivre
 ---
 
 [![](http://2.bp.blogspot.com/-7U2Bpcaac-E/UCqTE_iLuvI/AAAAAAAADNY/Qh7BmndJcts/s320/20120426_croquette_cheesy_boursin_aperitif_bann_2.jpg)](http://2.bp.blogspot.com/-7U2Bpcaac-E/UCqTE_iLuvI/AAAAAAAADNY/Qh7BmndJcts/s1600/20120426_croquette_cheesy_boursin_aperitif_bann_2.jpg)
@@ -24,8 +25,6 @@ Depuis ce jour, ce midi, je suis donc devenue une addict du boursin au poivre (d
 Je vous présente donc pour vos apéros, les fameux cheesy (ou croquettes) qui raviront vos convives (ou votre petite famille) à coup sûr !
 
 Pour cela munissez vous d’une [casserole](http://www.rueducommerce.fr/m/pl/malid:115) ou d’une [sauteuse](http://www.rueducommerce.fr/m/pl/malid:15123301), d’un [robot](http://www.rueducommerce.fr/m/pl/malid:229) mixeur ([Moulinex](http://www.rueducommerce.fr/m/pl/malid:88589) par exemple) et de [bols](http://www.rueducommerce.fr/m/pl/malid:4769881) (pour le mélange des ingrédients et pour le service en table)
-
-
 
 Pour 10 cheesy
 
@@ -42,8 +41,6 @@ Pour 10 cheesy
 5- Faites chauffer votre huilde dans une casserole (ou une sauteuse) jusqu’à ce que celle-ci atteigne 180°C  
 6- Faites frire vos boulettes jusqu’à ce qu’elles soient bien dorées  
 7- Egouttez et épongez bien vos cheesy (à l’aide d’essuie tout) et servez chaud !
-
-
 
 **Alors qu’en pensez vous, sympa non ?**
 
@@ -64,7 +61,5 @@ Bonne soirée à tous et bon week end !
 Oh non il me semble que j’ai oublié de vous dire : **Ca fait maintenant un an que j’ai arrêté de fumer**. Et a dire vrai j’ai commencé ce blog le jour où j’ai lâché ma dernière clope ! C’est pas super cool tout ca ? (Bon j’ai pris quelques kilos depuis mais ou moins mes poumons récupèrent =p). Merci à vous tous d’être plus nombreux à me rendre visite et à me laisser des petits mots sympa, on dirait pas mais ces choses là ca aide beaucoup =) See Ya’
 
 [![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)
-
- 
 
 *Produit offert

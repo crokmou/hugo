@@ -2,7 +2,7 @@
 type: post
 title: "Riz au lait végétal à l'orange"
 date: 2015-12-06T17:06:09+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501606099/riz-au-lait-v--g--tal-orange-crokmou-blog-culinaire-73x110_nngccp.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943970/riz-au-lait-v--g--tal-orange-crokmou-blog-culinaire.jpg
 categories: 
   - Desserts
 tags: 
@@ -23,6 +23,7 @@ ingredient_textarea: |
   - |
   > * 50 g de sucre vanillé> * 15 g de beurre> * 100 g de riz rond à dessert> * 700 g de lait d'amande> * 275 g de crème de soja> * Zestes d’oranges
 disqusId: 4380708425
+slug: riz-au-lait-vegetal-a-lorange
 ---
 
 Bonjour mes petites canneberges ! C’est vrai que cela fait longtemps que je n’ai pas écrit par ici, pour tout vous avouer je n’ai pas le courage en ce moment d’écrire et de photographier mes préprations. Mais je vais tenter de faire un effort, ce qui est d’ailleurs le cas aujourd’hui. Il était temps pour moi de vous faire partager ma petite recette de riz au lait végétal à l’orange. Tout à débuté il y a quelques mois au travail, les patrons désiraient une recette de riz au lait pour la boutique, Hélène notre nouvelle collègue a donc fait quelques essais et nous a proposé un riz au lait à l’orange. Tout simplement délicieux ! Depuis ce jour je fais du riz au lait une fois toutes les deux semaines… c’est devenu un besoin gustatif primordial ! L’orange se prête tout à fait bien à la saison du moment, bien qu’il est tout à fait possible de remplacer ce fruit par d’autres tels que la clémentine ou encore du citron, et pourquoi pas de la grenade !    

@@ -2,7 +2,7 @@
 type: post
 title: Confiture de cerises
 date: 2012-08-05T10:32:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605574/20120805_confiture_cerise_0016-73x110_e1noe4.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943810/20120805_confiture_cerise_0016.jpg
 categories: 
   - 'Sauces - Confitures'
 tags: 
@@ -12,6 +12,7 @@ tags:
   - fruit
   - fruit rouge
 disqusId: 3606409869
+slug: confiture-de-cerises
 ---
 
 [![](http://4.bp.blogspot.com/-fSsPhwXLNp4/UCbjj1ot47I/AAAAAAAADDE/i1pr3OUPL3s/s320/20120805_confiture_cerise_bann.jpg)](http://www.crokmou.com/2012/08/confiture-cerise.html)
@@ -44,8 +45,6 @@ Je vais peut être vous présenter les bêtes :
 
 Promis un jour je prendrai le temps de vous expliquer tout ce blabla photographique en détails ! Mais pour l’heure il est temps que je vous donne la recette de cette petite confiture ! C’est simple, gourmand et on peut en mettre partout de la confiture : sur des tartines, dans un yaourt nature, sur des biscuits… etc etc
 
-
-
 Pour 3 pots
 
 -700g de cerises  
@@ -55,8 +54,6 @@ Pour 3 pots
 2- Coupez les en morceaux et versez les dans une grande casserole (ou marmite à confiture). Ajoutez le sucre et laissez macérer une bonne demi journée.  
 3- Une fois le temps écoulé, faites cuire à petits bouillons la confiture jusqu’à ce que celle-ci est une bonne consistance (comptez environ 20/30min)  
 4- Versez ensuite votre confiture dans des pots préalablement stérilisés (plongez le capuchon et le pot dans de l’eau bouillante), puis retournez les (pour la conservation) une fois ceux-ci remplis !
-
-
 
 Simple comme bonjour non ? **Naturellement vous pouvez réaliser cette confiture avec d’autres fruits ! Personnellement je craque sur la confiture de mirabelles ! Et vous ?**
 

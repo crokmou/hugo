@@ -2,7 +2,7 @@
 type: post
 title: 'Légume de saison : le Maïs {+ résultats du concours}'
 date: 2012-10-11T17:29:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605575/20121001_epi_mais_grill--_four_0014-73x110_olbgyi.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943819/20121001_epi_mais_grill--_four_0014.jpg
 categories: 
   - Plats
 tags: 
@@ -10,6 +10,7 @@ tags:
   - epis de maïs
   - legume
 disqusId: 3637264558
+slug: legume-de-saison-le-mais-resultats-du-concours
 ---
 
 [![](http://2.bp.blogspot.com/-yluseSIqQQ4/UHbxT7xoUxI/AAAAAAAAExE/tuRnRrekVyg/s320/20121001_epi_mais_grille%CC%81_four_0014_bann.jpg)](http://2.bp.blogspot.com/-yluseSIqQQ4/UHbxT7xoUxI/AAAAAAAAExE/tuRnRrekVyg/s1600/20121001_epi_mais_grille%CC%81_four_0014_bann.jpg)
@@ -42,8 +43,6 @@ Il existe bien des variétés de maïs, mais le plus consommé par nous les homm
 
 Le maïs est riche en glucide et en fibres, il contient aussi de la vitamine B9 (qui joue un rôle clé dans le renouvellement de toutes les cellules de l’organisme), du magnésium et du phosphore.
 
- 
-
 Le maïs doux est quelque peu calorique, comptez environ 95kcal/100g, mais comporte un indice glycémique assez faible (comprenez donc par là que les glucides fournis seront assimilés peu à peu par l’organisme et ne seront pas stockés sous forme de graisse). Pas mal non ?
 
 Vous pouvez retrouver ce « légume » en conserve, en surgelé ou tout simplement sous forme d’épi. Le maïs peut aussi se trouver sous forme de farine.
@@ -66,9 +65,7 @@ En entrée nous pouvons commencer par des petits [muffins Mexicanos](http://carn
 
 S
 
-
-
-[![](http://3.bp.blogspot.com/-dfC9_dSXFy0/UGHWwi94x5I/AAAAAAAAEmQ/OB6O8MFEt2o/s640/concours_commentaires_2_crokmou.jpg)](http://3.bp.blogspot.com/-dfC9_dSXFy0/UGHWwi94x5I/AAAAAAAAEmQ/OB6O8MFEt2o/s1600/concours_commentaires_2_crokmou.jpg)
+[![](https://res.cloudinary.com/crokmou/image/upload/v1501943943/le_secret_du_poids_florence_delorme_gif_crokmou.gif)](https://res.cloudinary.com/crokmou/image/upload/v1501943943/le_secret_du_poids_florence_delorme_gif_crokmou.gif)
 
 En tout cas les gagnant(e)s de mon concours  en collaboration avec [Cadeaux-perso.com](http://www.cadeaux-perso.com/) auront la chance de cuisiner avec un beau tablier autour du cou !
 

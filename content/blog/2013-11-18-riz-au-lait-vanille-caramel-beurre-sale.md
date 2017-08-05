@@ -2,7 +2,7 @@
 type: post
 title: Riz au lait vanillé, caramel beurre salé
 date: 2013-11-18T12:32:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501606098/riz_lait_vanille_caramel_beurre_sale_0026-73x110_cxqxjb.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943973/riz_lait_vanille_caramel_beurre_sale_0026.jpg
 categories: 
   - Desserts
 tags: 
@@ -16,6 +16,7 @@ tags:
   - riz rond
   - sel
 disqusId: 3587683654
+slug: riz-au-lait-vanille-caramel-beurre-sale
 ---
 
 Il y a quelques temps [Apolina du blog Bombay-Bruxelles](http://bombay-bruxelles.blogspot.be/) est venue me trouver afin que je réalise une recette sucrée pour Bosto (avec qui elle travaille en ce moment). J’ai volontiers accepté l’offre et c’est donc avec grand plaisir que je vous montre le résultat de cette petite recette.
@@ -30,18 +31,12 @@ Mais pour ajouter deux trois petites choses, pour ma part je préfère déguster
 
 Certains d’entre vous l’auront peut être remarqué, pour le caramel j’ai utilisé du sirop de glucose. Celui-ci permet au caramel de ne pas se solidifier. Souvenez vous, je vous avez déjà parlé de cette aide culinaire pour les glaces afin de les rendre moins compactes !
 
-
-
 Vous pouvez retrouver le sirop de glucose sous deux formes: déshydratée et pâteuse.  Pour cette recette j’ai utilisé le sirop de glucose sous sa forme déshydratée, mon [partenaire Kalys Gastronomie](http://fr.gastronomie.kalys.com/sirop-de-glucose.html) m’en ayant envoyé un pot, cela m’a donc permis de l’utiliser ! L’avantage avec le déshydraté c’est que cela se conserve bien plus longtemps qu’en pot pâteux. Mise à part Internet, vous pouvez aussi retrouver cet ingrédient dans vos supermarchés (souvent au rayon cuisine du Monde puisqu’on en utilise beaucoup dans la cuisine Maghrébine) mais aussi à ce que j’ai pu entendre dans certaines pharmacies.
-
-
 
 Et de votre coté, un dessert en particulier qui vous rappelle votre enfance ?
 
 A très bientôt les gourmands ! Poutoux
 
 [**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
-
- 
 
  

@@ -2,15 +2,16 @@
 type: post
 title: 'Moustache cookies {Concours}'
 date: 2014-06-01T20:38:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605971/moustache-cookies-concours-160x107_ewvw1j.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943939/moustache-cookies-concours.jpg
 categories: 
   - Lifestyle
 disqusId: 3587684371
+slug: moustache-cookies-concours
 ---
 
   Je vous en parlais il y a quelques semaines : **Patrick, Moustachu en Chef de [Moustache Cookies](http://www.moustachecookies.fr/)** est venu me parler afin de me faire parvenir une boite de ses fameux cookies pour que je puisse lui donner mon avis. Et quelle bonne surprise ! Cette petite entreprise ne se démarque pas seulement par ses nombreuses saveurs de biscuits proposées mais aussi par sa démarche [qui se veut à long terme sociale et écologique](http://www.moustachecookies.fr/moustache/tout-savoir-sur-notre-combat/). Entre le désir de sauver des baleines grâce à des tee-shirts Stache et à l’avenir faire partie du club des entreprises One Percent (1% du chiffre d’affaire est reversé à une association), Moustache cookies ne fait pas dans la demie mesure ! J’ai donc en quelques jours reçu chez moi une boite de cookies absolument monstrueux de part leur taille et leurs goûts : le « **Moustache** » (le classique), le « **Mars Invasion** » (huum de gros morceaux de Mars), le « **Cookatine** » (de loin mon favoris avec ces bouts de nougatine partout nom nom ❤) mais aussi « **le Une fois** » (mention spécial Belge, chocolat noir et speculoos) et « **L’inception** » (une alliance de chocolat noir, au lait et blanc). J’ai aussi pu goûter aux cookies salés, bon aussi mais je dois avouer que c’est moins ma tasse de thé ! Autant vous dire que la boite n’a pas fait long feux ! En 3h il n’y avait plus rien ! Ce soir _Patrick et moi même vous proposons de gagner une boite de ces délicieux cookies_ afin que vous puissiez vous faire votre propre idée et gloutonner un petit peu par la même occasion !
 
-![moustache cookies concours](https://res.cloudinary.com/crokmou/image/upload/v1501605973/moustache-cookies-concours-1_a9bczt.jpg)
+![moustache cookies concours](http://www.crokmou.com/wp-content/uploads/2015/03/moustache-cookies-concours-1.jpg)
 
 ## Concours Moustache Cookies
 

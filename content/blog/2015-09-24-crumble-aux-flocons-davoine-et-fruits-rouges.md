@@ -2,7 +2,7 @@
 type: post
 title: "Crumble aux flocons d'avoine et fruits rouges"
 date: 2015-09-24T14:05:25+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501606038/recette-crumble-flocon-avoine-fruits-rouge-crokmou-blog-culinaire-1-160x107_arbolo.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943961/recette-crumble-flocon-avoine-fruits-rouge-crokmou-blog-culinaire-1.jpg
 categories: 
   - Desserts
 tags: 
@@ -19,9 +19,10 @@ ingredient_textarea: |
   - |
   > * 500g de fruits rouges (ou autres fruits)> * 40g de beurre> * 30g de farine d'épeautre> * 40g de sucre> * 100g de flocons d'avoine> * 2càs d'huile de coco> * amandes torréfiées
 disqusId: 4161031102
+slug: crumble-aux-flocons-davoine-et-fruits-rouges
 ---
 
-Un crumble, c’est tout simple mais qu’est ce que c’est bon ! Pour cette fois j’ai réalisé un crumble aux flocons d’avoine et fruits rouges, un bon moyen de liquider les fruits congelés et de changer un peu du crumble habituel ! Personnellement j’adore ce genre dessert quand l’automne fait son entrée, c’est gourmand, c’est chaud et c’est bon ! De quoi cocooner tranquillement lorsque le froid arrive. Si vous n’avez pas d’[huile de coco](http://www.crokmou.com/2014/08/keimling-specialiste-du-raw-food-concours) pour la recette pas d’inquiétude vous pouvez tout aussi bien remplacer par de la purée d’amande ou un peu plus de beurre. La farine aussi c’est au choix, l’épeautre rend peut être le tout un peu plus sableux et moins croquant, à vous de tester avec d’autres choses comme la farine de châtaigne, de noisettes, de maïs… Un multitude de choix pour des crumbles toujours différents et savoureux ! Lorsque je n’ai pas de fruits frais sous la mains et que ce n’est plus vraiment la saison j’achète régulièrement mes fruits congelés chez Picard, je trouve qu’ils sont plutôt bons et assez savoureux (un exemple simple, il est ici très difficile de trouver de la mirabelle, je me fournis donc dans cette chaine de surgelés et c’est très bien comme ça).   ![Crumble aux flocons d'avoine et fruits rouges](https://res.cloudinary.com/crokmou/image/upload/v1501606041/recette-crumble-flocon-avoine-fruits-rouge-crokmou-blog-culinaire-2_tt6azr.jpg)![Crumble aux flocons d'avoine et fruits rouges](https://res.cloudinary.com/crokmou/image/upload/v1501606040/recette-crumble-flocon-avoine-fruits-rouge-crokmou-blog-culinaire_n0caui.jpg)  
+Un crumble, c’est tout simple mais qu’est ce que c’est bon ! Pour cette fois j’ai réalisé un crumble aux flocons d’avoine et fruits rouges, un bon moyen de liquider les fruits congelés et de changer un peu du crumble habituel ! Personnellement j’adore ce genre dessert quand l’automne fait son entrée, c’est gourmand, c’est chaud et c’est bon ! De quoi cocooner tranquillement lorsque le froid arrive. Si vous n’avez pas d’[huile de coco](http://www.crokmou.com/2014/08/keimling-specialiste-du-raw-food-concours) pour la recette pas d’inquiétude vous pouvez tout aussi bien remplacer par de la purée d’amande ou un peu plus de beurre. La farine aussi c’est au choix, l’épeautre rend peut être le tout un peu plus sableux et moins croquant, à vous de tester avec d’autres choses comme la farine de châtaigne, de noisettes, de maïs… Un multitude de choix pour des crumbles toujours différents et savoureux ! Lorsque je n’ai pas de fruits frais sous la mains et que ce n’est plus vraiment la saison j’achète régulièrement mes fruits congelés chez Picard, je trouve qu’ils sont plutôt bons et assez savoureux (un exemple simple, il est ici très difficile de trouver de la mirabelle, je me fournis donc dans cette chaine de surgelés et c’est très bien comme ça).   ![Crumble aux flocons d'avoine et fruits rouges](http://www.crokmou.com/wp-content/uploads/2015/09/recette-crumble-flocon-avoine-fruits-rouge-crokmou-blog-culinaire-2.jpg)![Crumble aux flocons d'avoine et fruits rouges](http://www.crokmou.com/wp-content/uploads/2015/09/recette-crumble-flocon-avoine-fruits-rouge-crokmou-blog-culinaire.jpg)  
 
 ## **Recette du crumble aux flocons d’avoine et fruits rouges**
 

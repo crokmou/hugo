@@ -2,7 +2,7 @@
 type: post
 title: Coquilles Saint-Jacques gratinées speculoos
 date: 2013-12-20T18:49:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605566/081213_coquille_saint_jacques_gratin--e_speculoos_0002-73x110_grxsvg.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943787/081213_coquille_saint_jacques_gratin--e_speculoos_0002.jpg
 categories: 
   - Plats
 tags: 
@@ -15,13 +15,12 @@ tags:
   - saint jacques
   - speculoos
 disqusId: 3587683579
+slug: coquilles-saint-jacques-gratinees-speculoos
 ---
 
 Bientôt Noyeeeeeel ! On va pouvoir manger…manger et manger… Certains se feront péter le bidou au foie gras, d’autres avec du magret ou encore des huitres, pour moi c’est les **coquilles Saint-Jacques** qui plus est, **gratinées aux speculoos** ! J’adore ça depuis, tellement longtemps que je suis incapable de m’en souvenir, mais attention des coquilles Saint-Jacques avec UNIQUEMENT de la Saint-Jacques dedans, dites adieu aux crevettes et autres trucs de la mer. Une sauce onctueuse, le petit goût du vin blanc, le moelleux de la Saint-Jacques, le sucré croquant du speculoos, des saveurs qui se marient parfaitement bien !
 
 Le must dans cette recette c’est que c’est hyper simple à réaliser et vraiment rapide, vous pouvez même préparer cela en avance ! Vous aurez besoin, d’une petite [casserole](http://www.rueducommerce.fr/m/pl/malid:115), d’un [faitout](http://www.rueducommerce.fr/m/pl/malid:15123303) ou une [sauteuse](http://www.rueducommerce.fr/m/pl/malid:15123301), de « plats » coquille Saint-Jacques ou à défaut de petits [plats à gratin](http://www.rueducommerce.fr/m/pl/malid:12468604) et d’un [four](http://www.rueducommerce.fr/m/pl/malid:9404136) !
-
-
 
 Pour 2 personnes
 
@@ -36,8 +35,6 @@ Pour 2 personnes
 – Noix de muscade  
 – Speculoos  
 – Poivre & Sel
-
-
 
 **○○○**
 

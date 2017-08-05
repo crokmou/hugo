@@ -2,7 +2,7 @@
 type: post
 title: Udon poulet curry, patates douces, soja
 date: 2012-12-17T12:09:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605576/20121216_soba_poulet_curry_soja_patate_douce_0008-73x110_mcnyax.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943823/20121216_soba_poulet_curry_soja_patate_douce_0008.jpg
 categories: 
   - Plats
 tags: 
@@ -17,6 +17,7 @@ tags:
   - poulet
   - soja
 disqusId: 3597677576
+slug: udon-poulet-curry-patates-douces-soja
 ---
 
 [![](http://www.crokmou.com/wp-content/uploads/2012/12/20121216_soba_poulet_curry_soja_patate_douce_0008_bann-300x1791-300x179.jpg)](http://www.crokmou.com/wp-content/uploads/2012/12/20121216_soba_poulet_curry_soja_patate_douce_0008_bann-300x1791.jpg)
@@ -33,8 +34,6 @@ Pour ma part je trouve ces pates dans des supermarchés asiatiques, souvent je p
 
 J’aime beaucoup ce genre de recette car c’est vraiment facile à réaliser et cela ne prend que très peu de temps, c’est donc parfait pour les jours de « flemme » (parce que les jours de graaaande flemme c’est des pates au gruyère). Pour la réalisation des udon, sortez un [couteau de cuisine](http://www.rueducommerce.fr/m/pl/malid:12468606), une [poêle](http://www.rueducommerce.fr/m/pl/malid:4769951), une [casserole](http://www.rueducommerce.fr/index/casserole%20fonte), du curry et du cumin de votre [boite à épices](http://www.rueducommerce.fr/index/boite%20a%20epice) ainsi qu’une [cuillère à café](http://www.rueducommerce.fr/index/cuillere%20a%20cafe) pour doser.
 
-
-
 Pour environ 3/4 personnes
 
 – 180g d’Udon  
@@ -48,8 +47,6 @@ Pour environ 3/4 personnes
 – huile  
 – sel & poivre
 
-
-
 <div style="text-align: justify;">1- Faites chauffer une casserole d’eau salée. Lorsque l’eau boue, ajoutez les udon et les patates douces (préalablement coupées en cubes), laissez cuire 10 minutes puis égouttez.
 
 2- Coupez votre poulet en morceaux (pas trop petits non plus). Dans une poêle faites fondre un peu de beurre et d’huile. Lorsque la poêle est bien chaude, ajoutez vos morceaux de poulet avec 1 cuillère à café de curry et laissez jusqu’à ce que le poulet soit presque cuit. Retirez le poulet.
@@ -59,8 +56,6 @@ Pour environ 3/4 personnes
 4- Rajoutez ensuite à vos germes, les udon, les patates douces, le poulet et la crème fraiche. Mélangez le tout et ajoutez les épices.
 
 5- Laissez votre plat réchauffer quelques instants, salez, poivrez et servez !
-
-
 
 </div>
 

@@ -2,7 +2,7 @@
 type: post
 title: Chouquettes
 date: 2011-05-01T17:32:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605663/Chouquettes-73x110_zchajq.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943867/Chouquettes.jpg
 categories: 
   - Boulangerie
 tags: 
@@ -11,27 +11,14 @@ tags:
   - mignardise
   - oeuf
 disqusId: 3587684751
+slug: chouquettes
 ---
 
 _ Raam graouw, je raffole des chouquettes, le genre de petits trucs qu’on met tout entier dans la bouche tellement c’est bon ! Je n’en avais jamais réalisées par moi même et aujourd’hui ne sachant trop que faire j’ai pensé aux chouquettes en voyant un article dessus (où je ne sais plus trop :/) en bref : TADAAAM !_
 
 _Personnellement c’était mon péché mignon à la boulangerie quand j’étais petite, il me semble même avoir fait des concours de « qui mettra le plus de chouquette dans sa bouche » avec mon petit cousin… Le bon temps quoi =D_
 
- 
-
- 
-
- 
-
 [![](http://1.bp.blogspot.com/-OliTYXxGSRI/Tb2HYUrDMaI/AAAAAAAAAF8/Zhb_dUpLd30/s320/chouquettes.jpg)](http://1.bp.blogspot.com/-OliTYXxGSRI/Tb2HYUrDMaI/AAAAAAAAAF8/Zhb_dUpLd30/s1600/chouquettes.jpg)
-
- 
-
- 
-
- 
-
- 
 
 *   125 ml de lait
 *   125 ml d’eau

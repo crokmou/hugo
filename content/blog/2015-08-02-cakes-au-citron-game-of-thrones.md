@@ -2,7 +2,7 @@
 type: post
 title: 'Cakes au citron {Game of Thrones}'
 date: 2015-08-02T15:03:48+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605887/lemon-cake-game-of-thrones-crokmou-blog-73x110_ftef9m.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943918/lemon-cake-game-of-thrones-crokmou-blog.jpg
 categories: 
   - Desserts
 tags: 
@@ -20,11 +20,12 @@ ingredient_textarea: |
   > * 2 citrons (non traités c'est mieux)> * 130g de sucre> * 100g de beurre pommade> * 3 oeufs> * 100g de poudre d'amande> * 40g de farine d'epeautre> * 30g de farine T65/T55> * 6g de levure chimique
   > * jus de citron> * sucre glace> * eau
 disqusId: 3995965098
+slug: cakes-au-citron-game-of-thrones
 ---
 
 La plupart d’entre vous connaissent certainement la célèbre série Game of Thrones (génialissime d’ailleurs, presque aussi bien que les livres) ainsi que ses aventures, ses complots et ses festins. Parmi les nombreux mets présents dans le livre j’ai choisi de vous interpréter le plus répandu à Port-Réal, la pâtisserie favorite de la jolie Lady Sansa les «gâteaux au citron tout givrés de glaçure blanche». Il existe déjà une recette pour ces petits cake (cf : [Le livre des Festins](http://www.amazon.fr/Games-thrones-festins-recettes-officiel/dp/2364802679)) mais je ne sais pas, la visuel ne m’a pas convaincu…  
 
-![cakes au citron game of thrones](https://res.cloudinary.com/crokmou/image/upload/v1501605890/lemoncakesgif_vmdqpr.gif)
+![cakes au citron game of thrones](http://www.crokmou.com/wp-content/uploads/2015/08/lemoncakesgif.gif)
 
   En effet à travers le film et les différents écrits de Mr Martin, les cakes ont l’air plutôt faciles à transporter, à manger, et visiblement glaçés, ce qui n’est pas le cas dans la recette proposée qui semble plutôt spongieuse. Et comme j’avais envie de mettre ma petite patoune dans tout ça et bien voilà : une pâtisserie avec de la mâche, du fondant, du glaçage et super facile à manger (un peu trop d’ailleurs). La recette est très simple et cela ne prend pas plus de 10 minutes pour la réaliser, et ça c’est top, suffit simplement d’avoir les ingrédients !    
 

@@ -2,7 +2,7 @@
 type: post
 title: Fondant chocolat, nutella
 date: 2013-01-20T12:00:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605574/20120623_fondant_coeur_coulant_chocolat_noir_nutella_0033-73x110_pprrnz.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943805/20120623_fondant_coeur_coulant_chocolat_noir_nutella_0033.jpg
 categories: 
   - Desserts
 tags: 
@@ -21,6 +21,7 @@ ingredient_textarea: |
   - |
   > * 2 oeufs> * 100g de chocolat noir dessert> * 2 càc de Nutella©> * 70g de beurre> * 30g de crème fraîche> * 30g de sucre> * 55g de farine> * 30ml de lait
 disqusId: 3587683990
+slug: fondant-chocolat-nutella
 ---
 
 Je pense qu’il faut du temps pour trouver la recette parfaite de ce fondant au coeur coulant. En général on se retrouve avec quelque chose d’écoeurant et de trop sucré, et là magie, grâce à 100% Mag (oui parce que je regarde cette émission tous les soirs, bons plans, cuisine, recette, tout ça, tout ça, bref j’adore !) et les recettes de Brice Morvent, j’ai donc découvert le juste dosage pour un délicieux dessert ! Bon je suis d’accord j’ai un tout petit poil changer la chose car j’y ai ajouté un peu de Nutella© (parce que c’est tellement cro bon que je peux pas résister !), mais si vous désirez quelque chose d’un peu plus « frais » (si par hasard vous vous trouvez dans une région où le soleil est présent hihi) vous pouvez faire infuser de la menthe avec le lait (avant de faire la recette) ou tout simplement ajouter un petit coulis de framboises pour la dégustation!  

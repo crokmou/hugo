@@ -1,11 +1,12 @@
 ---
 type: post
-title: 'Croque François à Restaurant à Lille'
+title: 'Croque François – Restaurant à Lille'
 date: 2017-02-06T19:09:51+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605762/croque-francois-restaurant-lille-france-crokmou-blog-cuisine-voyage-belgique-4-160x107_taoefk.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943882/croque-francois-restaurant-lille-france-crokmou-blog-cuisine-voyage-belgique-4.jpg
 categories: 
   - Lifestyle
 disqusId: 5527614639
+slug: croque-francois-restaurant-a-lille
 ---
 
 **Croque-François**  
@@ -20,7 +21,7 @@ Un déco sobre (peut être un peu trop ?) mais un _service charmant_ et des **pl
 
 Ce soir là j’ai eu l’occasion de goûter au petit « Louis » et au « Hercule », rien à redire pour les deux, c’est simple mais bon, ptet’ même plus que bon pour les poireaux fondants. Petit plus pour la mayo : relevée comme il faut avec un peu de moutarde (à l’ancienne?) c’était parfait !
 
-![](https://res.cloudinary.com/crokmou/image/upload/v1501605765/croque-francois-restaurant-lille-france-crokmou-blog-cuisine-voyage-belgique_dvulfw.jpg) ![](https://res.cloudinary.com/crokmou/image/upload/v1501605766/croque-francois-restaurant-lille-france-crokmou-blog-cuisine-voyage-belgique-1_fkqfnn.jpg) ![](https://res.cloudinary.com/crokmou/image/upload/v1501605768/croque-francois-restaurant-lille-france-crokmou-blog-cuisine-voyage-belgique-2_ahsymf.jpg) ![](https://res.cloudinary.com/crokmou/image/upload/v1501605772/croque-francois-restaurant-lille-france-crokmou-blog-cuisine-voyage-belgique-3_pj183n.jpg)
+![](http://www.crokmou.com/wp-content/uploads/2017/02/croque-francois-restaurant-lille-france-crokmou-blog-cuisine-voyage-belgique.jpg) ![](http://www.crokmou.com/wp-content/uploads/2017/02/croque-francois-restaurant-lille-france-crokmou-blog-cuisine-voyage-belgique-1.jpg) ![](http://www.crokmou.com/wp-content/uploads/2017/02/croque-francois-restaurant-lille-france-crokmou-blog-cuisine-voyage-belgique-2.jpg) ![](http://www.crokmou.com/wp-content/uploads/2017/02/croque-francois-restaurant-lille-france-crokmou-blog-cuisine-voyage-belgique-3.jpg)
 
 Une chouette petite adresse, pour les envies de repas bons, simples et rapides, c’est l’endroit parfait ! Et puis si vous n’avez pas trop l’envie de bouger de votre canap’, Deliveroo saura vous apporter ces super croque directement chez vous (pour le peu que vous habitiez au bon endroit) !
 

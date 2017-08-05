@@ -2,7 +2,7 @@
 type: post
 title: Muffins chocolat, avoine, quinoa soufflé
 date: 2012-03-16T11:44:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605573/20120316_Muffins_Chocolat_Avoine_Quinoa_souffl--_0048-73x110_yr4emd.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943787/20120316_Muffins_Chocolat_Avoine_Quinoa_souffl--_0048.jpg
 categories: 
   - Desserts
 tags: 
@@ -12,11 +12,10 @@ tags:
   - mignardise
   - quinoa
 disqusId: 3617493289
+slug: muffins-chocolat-avoine-quinoa-souffle
 ---
 
 Et bien moi, j’aime le chocolat ! Il y a quelques temps j’ai décidé de perdre un peu de poids (beh euh oui ca m’arrive), mais attention, perdre du poids chez moi n’est pas synonyme de régime draconien. Je suis très gourmande, j’aime la bonne « bouffe » il est donc un peu difficile pour moi de perdre un peu de poids sans manger tout ce que j’aime habituellement, j’ai donc simplement réduit les quantités et le taux de sucre élevé ! Et puis quelle plaie d’avoir le ventre qui gargouille toute la journée, d’autant plus quand vos collègues se goinfrent de croissants et autres trucs alléchants ! Ce pourquoi il me fallait vous donner cette recette ! Rassurez vous, je ne vais donc pas vous proposez un gateau sans goûts, sans sucre, bref truc caoutchouteux que l’on retrouve généralement dans les régimes. Ce petit muffin là, il est bon, il sent le chocolat, il est moelleux, et comporte moins de calories que les autres, en bref : ce muffin est une tuerie ! Vous aurez donc besoin de mini [moules à cakes](http://www.rueducommerce.fr/index/moule%20a%20cake), de votre [matériel à pâtisserie](http://www.rueducommerce.fr/m/pl/malid:12468605), d’un [tablier](http://www.rueducommerce.fr/m/pl/malid:261) (histoire d’éviter la farine sur le pull noir, ce qui entre nous m’arrive très souvent), d’une [cuillère](http://www.rueducommerce.fr/m/pl/malid:43774626) à soupe pour les dosages importants et d’une bonne dose de gourmandise !
-
-
 
 Pour 8 muffins
 
@@ -35,8 +34,6 @@ Pour 8 muffins
 4- Ajoutez le chocolat/beurre à la préparation puis ménagez jusqu’à avoir une pâte homogène  
 5- Répartissez dans vos moules à muffins/cakes (si possible en silicone afin de ne pas beurrer) et pour la [cuisson](http://www.rueducommerce.fr/m/pl/malid:24), laissez 12/15 min.  
 6- Retirez du four, et vous voilà avec de délicieux muffins !
-
-
 
 **Et vous, avez vous d’autres recettes dans ce genre là (Peu de calories et gourmand en même temps) ? Si c’est le cas n’hésitez pas à me laisser le lien, je me ferai un plaisir de l’ajouter à cette page !** ** ** **Pour des recettes lights rendez vous dès maintenant ici :** * [Les délices d’Amyssée](http://lesdelicesdamyssee.blogspot.fr/search/label/Recettes%20light) ** ** Je vous souhaite à tous une très bonne journée, et n’oubliez surtout pas de profiter des petits instants de bonheur quotidiens (quand on y réfléchit bien, ils sont très importants !).
 

@@ -2,7 +2,7 @@
 type: post
 title: "Carpaccio d'ananas et melon, sabayon à l'amaretto"
 date: 2011-08-07T11:22:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605841/IMG_2786-73x110_qji0ph.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943909/IMG_2786.jpg
 categories: 
   - Desserts
 tags: 
@@ -13,43 +13,20 @@ tags:
   - fruit
   - melon
 disqusId: 3587684704
+slug: carpaccio-dananas-et-melon-sabayon-a-lamaretto
 ---
-
-
 
 
 
 <div style="text-align: justify;">**Note du 7/08/11 : Je n’ai que très peu de temps en ce moment pour cuisiner (bientôt, bientôt je vous le promet, mais il va falloir encore attendre un peu). Je tenais à vous annoncer que je suis arrivée troisième du défi carpaccio avec cette recette sur Recettes.de, et je tenais à remercier les membres du Jury. J’ai été très contente de participer !**
 
-
-
-
-
 **Passez de bonnes fins de vacances (et du courage pour ceux qui sont au boulot), et je vous dit à très bientôt !**
 
 Bien le bonsoir vous qui venez me rendre visite, en vacances on reçoit beaucoup, et quand on reçoit beaucoup, on cuisine bien (oupas), du moins on essaye ! Truc assez simple du jour pour le dessert, oui parce que près de Marseille on avoisine les 35° et euh bah fait chaud, donc ce sera des fruits 😀
 
-
-
-
-
 Au menu donc, un carpaccio d’ananas caramélisées et de melon (et on ne dit pas en voyant la photo ça s’est pas un carpaccio parce que c’est pas tout plat, si si j’ai mi 30min à couper les fruits en trèèèès fines lamelles, seul un gros bout d’ananas décore ma superposition afin d’avoir du volume).Et pour finir un leger petit goût d’amande avec le sabayon à l’amaretto !
 
-
-
-
-
- 
-
-
-
-
-
 Tout ça sur une présentation au bord la piscine (si ça c’est pas les vacances !)
-
-
-
-
 
 Pour 4 personnes
 
@@ -73,46 +50,16 @@ Pour 4 personnes
 4- En en cessant de fouetter, ajoutez l’eau et l’amaretto, le mélange va s’épaissir  
 5- Une fois le sabayon mousseux et a bonne consistance, versez-en dans des petits verres ou tout simplement sur votre carpaccio
 
-
-
 </div>
-
-
-
- 
 
 (Avec cette recette je participe au concours Carpaccio sur [http://recettes.de/defi-carpaccio](http://recettes.de/defi-carpaccio) )
 
-
-
-
-
- 
-
-
-
-
-
 Et puis en passant comme ça, 3 petits liens à vous faire visiter :
-
-
-
-
 
 – [Jolie Jye](http://joliejye.blogspot.com/) : Un blog que je viens de connaitre et qui est bien sympathique !
 
-
-
-
-
 – [Les tentations de Kiwi](http://kiwi62.canalblog.com/) : Parce que sans cette petite madame et ses bons plats je serais pas allée bien loin, un grand merci pour m’avoir poussée à faire ce blog et ainsi rencontrer pas mal de gens bien sympa !
 
-
-
-
-
 – [La cuisine de Nathalie](http://www.lacuisinedenathalie.com/) : Parce que ses commentaires sont aussi sympathiques que ses recettes et ses photos !
-
-
 
  

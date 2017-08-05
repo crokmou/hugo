@@ -2,7 +2,7 @@
 type: post
 title: "Popcorn d'Halloween avec Holly Party {+ concours}"
 date: 2015-10-26T10:03:16+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501606024/pop-corn-halloween-recette-crokmou-blog-culinaire-73x110_mwlmrn.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943958/pop-corn-halloween-recette-crokmou-blog-culinaire.jpg
 categories: 
   - Desserts
 tags: 
@@ -19,6 +19,7 @@ ingredient_textarea: |
   - |
   > * huile végétale> * maïs à pop corn> * pâte de sésame noir> * sucre> * crème de soja (ou crème fraîche)> * beurre
 disqusId: 4260127904
+slug: popcorn-halloween-avec-holly-party
 ---
 
 Halloween c’est pour bientôt, et comme chaque année <del>_même si je ne le fête pas forcément_</del> cet événement me rend particulièrement heureuse ! Les couleurs chatoyantes, les déguisements, les décorations, les grosses citrouilles et par dessus tout cette chanson : « This is halloween, this is Halloween, Halloween! Halloween! Halloween! Halloween! In this town we call home Everyone hail to the pumpkin song »  
@@ -33,7 +34,7 @@ Alexia, créatrice de la boutique, m’a envoyé quelques [accessoires pour Hall
 
 ## Recette de popcorn d’Halloween au caramel et sésame noir
 
-  1\. Verser un peu d’huile végétale dans une poêle à frire ou comme moi, tu peux utiliser une machine à popcorn qui ne nécessite aucune matière grasse. 2\. Lorsque l’huile est bien chaude, ajouter le maïs, recouvrir le faitout d’un couvercle et laisser le popcorn éclater (attention, tenir le couvercle sait-on jamais). Réserver 3\. Pour le caramel : verser du sucre dans une casserole et faire fondre à sec (c’est à dire avec du sucre uniquement). Une fois que le caramel est bien coloré (marron un peu foncé mais pas trop non plus sinon c’est amer), déglacer avec un peu de crème fraiche et de beurre chaud (personnellement je le fais à l’œil, je n’ai donc aucun dosage à vous communiquer mais pour 100g de sucre j’ai du mettre 2 càs de crème fraiche et 15g de beurre quelque chose comme ça) 4\. Bien mélanger et verser encore chaud sur les popcorn 5\. Mélanger à l’aide d’une spatule en bois pour que tous les popcorns soient caramélisés. 6\. Pour le sésame noir : dans une casserole, verser un peu de sucre et faire caraméliser à sec. Faire chauffer un peu de crème et un peu de pâte de sésame noir. Verser sur le caramel coloré et procéder comme pour le caramel ci-dessus. _Astuce_ : pour récupérer vos casseroles avec le caramel, il suffit de faire bouillir de l’eau dedans et le caramel va se dissoudre de lui même.   ![décoration halloween Holly Party](https://res.cloudinary.com/crokmou/image/upload/v1501605842/halloween-holly-party-decoration_rrkhwt.jpg)![décoration halloween Holly Party](https://res.cloudinary.com/crokmou/image/upload/v1501605842/halloween-holly-party-decoration-1_s18ffn.jpg)  
+  1\. Verser un peu d’huile végétale dans une poêle à frire ou comme moi, tu peux utiliser une machine à popcorn qui ne nécessite aucune matière grasse. 2\. Lorsque l’huile est bien chaude, ajouter le maïs, recouvrir le faitout d’un couvercle et laisser le popcorn éclater (attention, tenir le couvercle sait-on jamais). Réserver 3\. Pour le caramel : verser du sucre dans une casserole et faire fondre à sec (c’est à dire avec du sucre uniquement). Une fois que le caramel est bien coloré (marron un peu foncé mais pas trop non plus sinon c’est amer), déglacer avec un peu de crème fraiche et de beurre chaud (personnellement je le fais à l’œil, je n’ai donc aucun dosage à vous communiquer mais pour 100g de sucre j’ai du mettre 2 càs de crème fraiche et 15g de beurre quelque chose comme ça) 4\. Bien mélanger et verser encore chaud sur les popcorn 5\. Mélanger à l’aide d’une spatule en bois pour que tous les popcorns soient caramélisés. 6\. Pour le sésame noir : dans une casserole, verser un peu de sucre et faire caraméliser à sec. Faire chauffer un peu de crème et un peu de pâte de sésame noir. Verser sur le caramel coloré et procéder comme pour le caramel ci-dessus. _Astuce_ : pour récupérer vos casseroles avec le caramel, il suffit de faire bouillir de l’eau dedans et le caramel va se dissoudre de lui même.   ![décoration halloween Holly Party](http://www.crokmou.com/wp-content/uploads/2015/10/halloween-holly-party-decoration.jpg)![décoration halloween Holly Party](http://www.crokmou.com/wp-content/uploads/2015/10/halloween-holly-party-decoration-1.jpg)  
 
 ## _Concours Holly Party_
 
@@ -42,4 +43,4 @@ Alexia, créatrice de la boutique, m’a envoyé quelques [accessoires pour Hall
 Vous avez jusqu’à **Dimanche 1 Novembre 2015, 00h**, pour participer !  
 Bonne chance mes citrouilles !
 
-![](https://res.cloudinary.com/crokmou/image/upload/v1501605833/giphy_wvgfjl.gif)
+![](https://media2.giphy.com/media/iqJ5CJ759gLLO/200.gif)

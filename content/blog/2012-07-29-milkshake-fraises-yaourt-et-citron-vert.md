@@ -2,7 +2,7 @@
 type: post
 title: Milkshake fraises, yaourt et citron vert
 date: 2012-07-29T11:03:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605574/20120626_milkshake_fraise_yaourt_citron_0008-160x107_zyejsj.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943806/20120626_milkshake_fraise_yaourt_citron_0008.jpg
 categories: 
   - Boissons
 tags: 
@@ -14,6 +14,7 @@ tags:
   - lait
   - milkshake
 disqusId: 3587683331
+slug: milkshake-fraises-yaourt-et-citron-vert
 ---
 
 Le **milkshake** peut se faire de bien des façons, en général moi je fais une mixtouille dans ce genre là : glace vanille, lait, banane, nutella. Mais pour une fois j’avais envie de changer ! Et comme j’ai toujours envie de quelque chose quand il n’y en a pas (y’en a surement beaucoup qui vont se reconnaitre !), ici je parle de la glace vanille, de ce fait j’ai utilisé du yaourt brassé (le goût de vanille en moins). Et bien ça change mais c’est pas mauvais du tout, ça donne un goût très doux !
@@ -23,8 +24,6 @@ Moi j’aime bien les milkshake parce que tu peux mettre n’importe quoi dedans
 **Et vous, votre Milkshake fétiche, il se compose de quoi ?** (n’hésitez pas à me donner le lien de la recette en commentaire, je me ferais un plaisir de la partager !)
 
 Pour ma part pas besoin de mettre votre cuisine à sac pour préparer ce rafraîchissement, un [blender](http://www.rueducommerce.fr/m/pl/malid:9633603) ([Kenwood](http://www.rueducommerce.fr/~kenwood), [Magimix](http://www.rueducommerce.fr/~magimix), [Moulinex](http://www.rueducommerce.fr/~moulinex), [Philips](http://www.rueducommerce.fr/~philips)… vous avez l’embarras du choix), un grand verre et le tour est joué ! Bon bien évidemment si vous souhaitez ajouter des fruits, il vous faut de bons fruits frais (parce qu’en général qu’on on prend des fruits congelés, le goût est pas top top et il y a trop d’eau)
-
-
 
 Pour 1 verre « haut »
 
@@ -36,8 +35,6 @@ Pour 1 verre « haut »
 1- Mettez tous les ingrédients dans votre [blender](http://www.rueducommerce.fr/m/pl/malid:9633603)  
 2- Mixez et versez le tout dans votre verre  
 3- Dégustez bien frais à la paille (si il faut rajoutez des glaçons) avec votre frimousse tournée vers le soleil et vos petites fesses posées sur une chaise !
-
-
 
 Pour ma part les vacances se terminent, je remonte dans le Nord mercredi ! Je n’ai pas à me plaindre j’ai eu du soleil pendant 1 mois ! Même si retrouver la grisaille et la pluie ne m’enchante pas, j’ai hâte de retrouver mon Hom, Mr Chat et mon petit appart !
 

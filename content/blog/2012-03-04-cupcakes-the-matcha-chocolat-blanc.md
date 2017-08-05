@@ -2,7 +2,7 @@
 type: post
 title: Cupcakes thé matcha, chocolat blanc
 date: 2012-03-04T11:00:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605572/20120211_Cupcake_The_Matcha_0001-73x110_fqay0k.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943816/20120211_Cupcake_The_Matcha_0001.jpg
 categories: 
   - Desserts
 tags: 
@@ -14,23 +14,18 @@ tags:
   - thé
   - thé vert
 disqusId: 3636192992
+slug: cupcakes-the-matcha-chocolat-blanc
 ---
 
 Le 4/03/2012 : Hey, les amis, vous savez quoi ?! Grâce à cette recette (ou plutôt cette photographie de cupcake), j’ai gagné le prix Spécial du Jury (Le livre de Recettes « Douceurs Sucrées » de [Chef Nini](http://www.chefnini.com/)) sur le blog [Légitime Gourmandise](http://legitimegourmandise.com/), super non ?
 
-
-
 [![Légitime Gourmandise](http://legitimegourmandise.com/blog/public/Concours_photos_2012/logo_CPG2012_-_Prix_du_jury.jpg)](http://legitimegourmandise.com/)
-
-
 
 Bien le bonsoir mes gourmands ! Pour ce soir une recette de cupcake, qui au départ était une recette de macarons. Pour l’anecdote, je m’étais donc préparée à faire des macarons (avec la recette de Chef nini, aussi bien pour les [coques](http://www.chefnini.com/macaron-video/) que pour la [ganache](http://www.chefnini.com/macarons-the-vert-matcha/)), mais il se trouve que je ne suis point très douée dans l’élaboration de cette petite mignardise. J’ai pourtant fait tout ce qu’il fallait mais mes coques une fois la cuisson faite, étaient pleines de trous et toutes plates… en voyant le résultat je me suis donc dit qu’il m’était impossible de vous présenter ça et qu’il fallait que je trouve une autre recette pour ne pas gâcher la ganache. J’ai donc réfléchis un petit temps et je me suis dit que j’allais me mettre aux cupcakes (bien évidemment c’était la première fois pour moi que je faisais un topping, c’était donc risqué aussi mais j’ai pris le risque !).
 
 [![Cupcake thé vert matcha - Dessert - Patisserie](http://3.bp.blogspot.com/-fQt8gUD_Nxs/Tz6di77oQBI/AAAAAAAABxw/hbIXKBoFjS8/s400/20120211_Cupcake_The_Matcha_0047.jpg)](http://3.bp.blogspot.com/-fQt8gUD_Nxs/Tz6di77oQBI/AAAAAAAABxw/hbIXKBoFjS8/s1600/20120211_Cupcake_The_Matcha_0047.jpg)
 
 Armée d’une grand patience après cet échec cuisant, me revoilà à mes fourneaux dans une seule optique : ne pas rater cette recette là ! Pour le topping, pas de St Moret ni de Philadelphia dans le frigo… bon dernière solution : le bon gros glaçage à l’Américaine (beurre et sucre glace), et pas des moindres ce glaçage, c’est bon mais qu’est ce que c’est lourd (Il me faudra donc essayer autrement la prochaine fois, histoire de faire un peu plus light =D)! Et comme le montre les photographies voici donc le résultat de mon expérience culinaire de ce jour : de beaux petits cupcakes tout vert et délicieux ! Comme quoi quelques fois ca a du bon de rater quelque chose (et puis de toute manière si tout était toujours parfait cela serait ennuyeux !) Oh et j’en profite aussi pour vous dire qu’avec cette photographie de cupcake, je participe au concours photo de [Legitime Gourmandise](http://legitimegourmandise.com/blog/index.php?post/2012/01/19/Concours-photos-gourmandes-2012) Et a présent, la recette peut être ?
-
-
 
 Pour 6 cupcakes au Thé Matcha
 
@@ -50,8 +45,6 @@ Pour 6 cupcakes au Thé Matcha
 – 100g de beurre pommade  
 – 1/2 càc de thé vert Matcha
 
-
-
 _Préparez votre ganache quelques heures à l’avance, pour ce faire :_  
 1- Faites chauffer dans une casserole la crème et le thé vert matcha. 2- Ajoutez le chocolat blanc et une fois le tout bien fondu(faites fondre à feu doux), réservez au réfrigérateur._Deux ou trois heures après, préparez vos muffins :_  
 1- Préchauffez votre four à 180°C  
@@ -67,10 +60,6 @@ _Pour le topping il vous faudra attendre le refroidissement complet de vos cupca
 3- Décorez vos cupcakes (tournez de l’exterieur vers le centre du cupcake pour le topping)
 
 _Dégustez, vous l’avez mérité !_
-
-
-
-
 
 Alors qu’en pensez vous ? Un vrai délice n’est ce pas ?
 

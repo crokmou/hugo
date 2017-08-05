@@ -2,7 +2,7 @@
 type: post
 title: Tartelettes aux pommes aux copeaux de chocolat
 date: 2011-04-13T16:30:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501606146/Tarte-aux-pommes-99x110_p4jjeq.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943981/Tarte-aux-pommes.jpg
 categories: 
   - Desserts
 tags: 
@@ -14,6 +14,7 @@ tags:
   - tarte
   - tartelette
 disqusId: 3628177383
+slug: tartelettes-aux-pommes-aux-copeaux-de-chocolat
 ---
 
 ###

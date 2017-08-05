@@ -2,8 +2,9 @@
 type: post
 title: Perdue ou simplement passionnée ?
 date: 2016-02-12T15:33:45+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501606146/stock-photo-85087405-160x107_cqtlsv.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943976/stock-photo-85087405.jpg
 disqusId: 4573536678
+slug: perdue-ou-passionnee
 ---
 
 _by Izabela i Dariusz Mitręga_

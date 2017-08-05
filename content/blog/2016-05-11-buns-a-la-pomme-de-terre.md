@@ -2,7 +2,7 @@
 type: post
 title: Buns à la pomme de terre
 date: 2016-05-11T15:29:09+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605608/buns-a-la-pomme-de-terre-crokmou-blog-culinaire-73x110_hczqea.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943854/buns-a-la-pomme-de-terre-crokmou-blog-culinaire.jpg
 categories: 
   - Boulangerie
 tags: 
@@ -26,6 +26,7 @@ ingredient_textarea: |
   - |
   > * 160g de purée de pomme de terre> * 150g de farine de froment + un peu si la pâte colle trop> * 5g de sucre> * 10g de levure fraiche> * 2g de sel> * 1 oeuf + 1 peu pour la dorure> * graines de sésame, de tournesol, de lin, de potiron...
 disqusId: 4818035495
+slug: buns-a-la-pomme-de-terre
 ---
 
 La semaine dernière j’ai posté une petite vidéo via [mon compte Instagram](https://www.instagram.com/p/BE1YdulQQ2O/) afin de vous présenter le moelleux de ces **buns à la pomme de terre :** une sacrée découverte ! Étant à l’arrêt question boulot en ce moment, j’essaye de me consacrer un peu plus à la cuisine, au fait maison (oui, il était temps que je reprenne un peu de service sur ce blog, vous ne trouvez pas ?)… après tout j’ai le temps, il vaut mieux en profiter ! Ce soir là j’avais envie d’hamburger, mais pas ceux que je commande habituellement, non, je voulais tout faire moi même, y compris les buns ! A la recherche d’une recette sympa et originale, je suis tombée sur le blog de [Pourquoi je grossis](http://pourquoijegrossis.com/2016/04/potato-burger-buns-ou-pains-brioches-a-la-pomme-de-terre-1-2/) avec sa fameuse recette de potato burger buns… Moi qui adore la boulange et tout ce qui peut se faire de plus dans ce milieu, j’ai tout de suite été conquise par l’idée ! De la pomme de terre dans du pain… ouai ouai ! Bon les miens sont gros, peut être un peu trop, j’ai pesé 125g de pâte cru pour chaque buns et je dirais que 90/100g c’est certainement bien mieux ! En tout cas ils étaient très réussis, très léger, une recette que je ferais certainement souvent en testant peut être 2 ou 3 changements avec la farine (de maïs par exemple).    

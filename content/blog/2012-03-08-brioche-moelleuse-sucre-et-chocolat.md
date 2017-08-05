@@ -2,7 +2,7 @@
 type: post
 title: Brioche moelleuse sucre et chocolat
 date: 2012-03-08T18:39:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605573/20120307_Cramique_Escargot_Chocolat_Sucre_0012-73x110_g6e1nj.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943821/20120307_Cramique_Escargot_Chocolat_Sucre_0012.jpg
 categories: 
   - Boulangerie
 tags: 
@@ -11,11 +11,10 @@ tags:
   - cassonade
   - chocolat
 disqusId: 3599025513
+slug: brioche-moelleuse-sucre-et-chocolat
 ---
 
 Il y a déjà un petit bout de temps que je désire faire de la brioche. Mais je sais pas il y a toujours le temps de pose qui me parait interminable, alors je laisse tomber. Jusqu’au jour où ! … Je suis tombée sur [la recette de Philou](http://www.uncuisinierchezvous.com/article-brioche-cramique-fa-on-escargot-100827899.html), et là ce fût une révélation ! Un belle brioche moelleuse en seulement quelques heures ! (Et puis il faut dire que la photographie de Philou donne très envie de se mettre au boulot pour avoir la même !). Seul hic pour moi : les raisins secs ! Je n’aime vraiment pas les fruits secs (pourtant je fais l’effort d’y gouter à chaque fois, mais non toujours pas !). Mais a tout problèmes, une solution : ici ce sera le chocolat ! (Ceci étant mon petit bonheur du jour dont je vous fais part, faites moi part des vôtres (cf : projets documentaire en bas de [l’article Muffins au reblochon](http://crokmou.blogspot.com/2012/02/muffin-au-reblochon-lardons-et-paprika.html)). Je suis ivre de vos petits bonheurs !) Continuons sur notre route vers la Sainte Brioche : Munissez vous de votre [robot pâtissier](http://www.rueducommerce.fr/index/robot%20patissier) (ou tout simplement un [robot](http://www.rueducommerce.fr/m/pl/malid:229) comprenant des pétrins métalliques, type robot [Seb](http://www.rueducommerce.fr/m/ps/mpid:MP-513AEM6151770#moid:MO-513AEM9577207)), d’un bol et d’un [torchon](http://www.rueducommerce.fr/m/pl/malid:273) propre pour laisser la pâte lever et si vous avez : une [boite à pain](http://www.rueducommerce.fr/index/boite%20a%20pain) pour une meilleure conservation !
-
-
 
 Pour 4/6 personnes (gourmandes)
 
@@ -29,8 +28,6 @@ Pour 4/6 personnes (gourmandes)
 – 50g de sucre semoule  
 – sucre cassonade  
 – 1 noisette de beurre
-
-
 
 **Pour la farce :** – 1 càs de sucre perlé – 1 càs de petits morceaux de chocolat noir – 1 càs de cassonade
 
@@ -48,10 +45,6 @@ Pour 4/6 personnes (gourmandes)
 _N’est-elle pas belle et moelleuse cette brioche ?_Oh et pour les photographies de la foire du livre, cela va venir très bientôt (il faut le temps de faire toutes les retouches), mais comme je suis très généreuse avec vous, cette fois je vous offre le portrait du chef [Sang-Hoon Degeimbre](http://www.airdutemps.be/)
 
 [![](http://3.bp.blogspot.com/-BUcbuF6q8hc/T1s7pXwspuI/AAAAAAAAB2g/OvHVevM5bBk/s640/20120305_FDL_Lundi_Matin_0440.jpg)](http://3.bp.blogspot.com/-BUcbuF6q8hc/T1s7pXwspuI/AAAAAAAAB2g/OvHVevM5bBk/s1600/20120305_FDL_Lundi_Matin_0440.jpg)
-
- 
-
- 
 
 Sur ce mes loulous, je vous dis à bientôt. Peut être nous verrons nous ce dimanche au Salon du Chocolat à Lille (puisque j’ai eu l’occasion de gagner un place grâce à [Sylvain](http://gay-dans-les-coings.blogspot.com/) (encore un grand merci)), sinon et bien nous nous verrons pour de prochaines recettes. Des bisous.
 

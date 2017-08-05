@@ -2,7 +2,7 @@
 type: post
 title: Tarte tatin Pierre Hermé
 date: 2013-01-16T10:25:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605577/20130113_tarte_tatin_pomme_0050-73x110_curjpt.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943828/20130113_tarte_tatin_pomme_0050.jpg
 categories: 
   - Desserts
 tags: 
@@ -13,13 +13,12 @@ tags:
   - pomme
   - tartin
 disqusId: 3587684604
+slug: tarte-tatin-pierre-herme
 ---
 
 Je raffole de la tarte tatin ! Je ne suis pas très desserts (ah bon ? c’est bien de Crokmou qu’on parle ? Oui oui je vous assure je ne mange que peu des recettes réalisées sur le blog hihi), mais la tarte tatin c’est un vrai délice pour moi, un péché scandaleux ! C’est moelleux, fondant, sucré comme il faut, craquant avec la pâte brisée, un bon goût de pommes… un bon goût d’enfance aussi ! Pour cette fois j’ai voulu réaliser la **tarte tatin selon Pierre Hermé**, juste pour voir si la petite madame que je suis est capable de réaliser une recette de grand chef. Et beh figurez vous que sans me vanter, c’était plutôt réussi ! Bon il y a certainement beaucoup de choses à redire, mais les pommes sont confites comme il faut, presque transparentes mais elles ont encore une certaine tenue !
 
 Pour réaliser ce fabuleux dessert vous aurez besoin : D’un [moule à tarte](http://www.rueducommerce.fr/index/moule%20tarte), de votre [matériel à pâtisserie](http://www.rueducommerce.fr/m/pl/malid:12468605), de [maniques](http://www.rueducommerce.fr/m/pl/malid:4769931) (oui parce que c’est chauuud, mes petits doigts ont soufferts), d’un [éplucheur](http://www.rueducommerce.fr/m/pl/malid:43774618) et d’un [cul de poule](http://www.rueducommerce.fr/m/pl/malid:48515370).
-
-
 
 Pour 1 moule de 25cm de diamètre
 
@@ -29,8 +28,6 @@ Pour 1 moule de 25cm de diamètre
 – 1 pincée de sel  
 – 2/3 cuillère à soupe de sucre en poudre  
 – 80 ml d’eau
-
-
 
 **Pour « tatiner » :** (oui je sais cela ne se dit pas) – 7/8 pommes – 200g de sucre – 130g de beurre
 
@@ -68,7 +65,5 @@ _[In english](https://lh3.googleusercontent.com/-9TRn4owwTco/UQ2X0C3ZrDI/AAAAAAA
 </tbody>
 
 </table>
-
-
 
 [**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○

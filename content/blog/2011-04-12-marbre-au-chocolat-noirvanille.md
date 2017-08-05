@@ -2,7 +2,7 @@
 type: post
 title: Marbré au chocolat noir/vanille
 date: 2011-04-12T09:49:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605843/IMG_8083-73x110_drswom.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943914/IMG_8083.jpg
 categories: 
   - Desserts
 tags: 
@@ -15,17 +15,14 @@ tags:
   - lait
   - oeuf
 disqusId: 3593041646
+slug: marbre-au-chocolat-noirvanille
 ---
 
 
 
 _Un petit gâteau assez connu, mais toujours fait de différentes manières, alors je vous propose la mienne. Parfait pour un goûter !_
 
- 
-
 ![6___8_personnes](http://storage.canalblog.com/66/33/825568/62416680_p.jpeg)
-
- 
 
 *   3 oeufs
 *   150 grammes de sucre
@@ -38,13 +35,7 @@ _Un petit gâteau assez connu, mais toujours fait de différentes manières, alo
 *   120 grammes de chocolat noir râpé
 *   Arôme alimentaire à la vanille
 
- 
-
- 
-
 ![preparation](http://storage.canalblog.com/22/70/825568/62416708_p.jpeg)
-
- 
 
 1.  Séparez les blancs des jaunes d’œufs (réservez les blancs dans un saladier à part).
 2.  Battez les jaunes avec 75 grammes de sucre jusqu’à blanchissement du mélange. Ajoutez le lait, mélangez et obtenez un mélange assez fluide.

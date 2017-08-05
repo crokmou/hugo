@@ -2,7 +2,7 @@
 type: post
 title: Cake Vanille/Framboise
 date: 2011-07-10T16:44:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605840/IMG_2718-81x110_oywjul.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943909/IMG_2718.jpg
 categories: 
   - Desserts
 tags: 
@@ -13,6 +13,7 @@ tags:
   - oeuf
   - vanille
 disqusId: 3587684673
+slug: cake-vanilleframboise
 ---
 
 Aloha chers blogueurs, encore et toujours du sucré (oui j’adore ça et c’est plus facile pour moi à réaliser !). Je vous disais donc, du sucré : un petit cake vanille/framboise pour satisfaire les invités du jour !

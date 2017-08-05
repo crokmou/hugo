@@ -2,7 +2,7 @@
 type: post
 title: Moelleux abricots, lavande
 date: 2012-09-03T17:19:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605575/20120822_petit_moelleux_abricot_lavande_0055-73x110_fhaste.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943813/20120822_petit_moelleux_abricot_lavande_0055.jpg
 categories: 
   - Desserts
 tags: 
@@ -13,6 +13,7 @@ tags:
   - lavande
   - mignardise
 disqusId: 3617493579
+slug: moelleux-abricots-lavande
 ---
 
 [![](http://1.bp.blogspot.com/-hFa6BQ64BwE/UETOblmrMrI/AAAAAAAAD9Y/kf6nbd8E4C8/s320/20120822_petit_moelleux_abricot_lavande_0055_bann.jpg)](http://1.bp.blogspot.com/-hFa6BQ64BwE/UETOblmrMrI/AAAAAAAAD9Y/kf6nbd8E4C8/s1600/20120822_petit_moelleux_abricot_lavande_0055_bann.jpg)
@@ -26,8 +27,6 @@ Je vous présente donc des **petits moelleux abricot/lavande** ! J’aime beauco
 Pour réaliser ces petits gouters vous aurez besoin : de votre [tablier](http://www.rueducommerce.fr/m/pl/malid:261) de cuisiner (c’est toujours plus classe !), d’un [moule](http://www.rueducommerce.fr/m/pl/malid:5325292) à financier, vos [ustensiles de cuisine](http://www.rueducommerce.fr/m/pl/malid:43774567) (fouet, [casserole](http://www.rueducommerce.fr/m/pl/malid:115), [couteau](http://www.rueducommerce.fr/m/pl/malid:12468606)…) ainsi qu’un [four](http://www.rueducommerce.fr/m/pl/malid:9404136) !
 
 [![](http://2.bp.blogspot.com/-91lbekA1d78/UETOc0HB6dI/AAAAAAAAD9g/aJ_HYsQZqIY/s400/20120822_petit_moelleux_abricot_lavande_0064_BD.jpg)](http://2.bp.blogspot.com/-91lbekA1d78/UETOc0HB6dI/AAAAAAAAD9g/aJ_HYsQZqIY/s1600/20120822_petit_moelleux_abricot_lavande_0064_BD.jpg)[![](http://4.bp.blogspot.com/-fPZMFHQVcso/UETOeOiQZSI/AAAAAAAAD9k/ftIBqkuSU8w/s400/20120822_petit_moelleux_abricot_lavande_0074_BD.jpg)](http://4.bp.blogspot.com/-fPZMFHQVcso/UETOeOiQZSI/AAAAAAAAD9k/ftIBqkuSU8w/s1600/20120822_petit_moelleux_abricot_lavande_0074_BD.jpg)
-
-
 
 Pour 10 minis moelleux
 
@@ -47,8 +46,6 @@ Pour 10 minis moelleux
 5- Versez de la pâte au 3/4 dans vos moules à financier.  
 6- Lavez vos abricots, coupez les en « barquettes » et posez en un bout sur chaque « financier »  
 7- Enfournez le tout pour environ 20 minutes. Et par la suite dégustez !
-
-
 
 **Et vous quels sont vos gouters préférés ?** ** ** ** ** A bientôt pour de nouvelles recettes ! (Et le résultat des exams huhuhu) Bisous bisous mes gourmands !
 

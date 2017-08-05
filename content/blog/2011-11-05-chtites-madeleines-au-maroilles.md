@@ -2,7 +2,7 @@
 type: post
 title: "Ch'tites madeleines au Maroilles"
 date: 2011-11-05T21:46:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605571/20111103_madeleine_maroille_1-73x110_jqj8ct.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943803/20111103_madeleine_maroille_1.jpg
 categories: 
   - Apéritifs
 tags: 
@@ -12,11 +12,10 @@ tags:
   - madeleine
   - maroilles
 disqusId: 3587684543
+slug: chtites-madeleines-au-maroilles
 ---
 
 De retour de vacances, pas très long mais qu’est ce que cela fait du bien ! Un peu de soleil, de belles couleurs, du temps libre, et du repos : j’aime la simplicité ! Et pour faire simple ce soir, je vous explique le pourquoi de ma recette. Mon père a voulu faire connaitre le maroilles dans son épicerie aux alentours de Toulouse. Petit village donc succès mitigé, je me suis donc proposée durant mon séjour pour faire des petites madeleines (un [moule](http://www.rueducommerce.fr/m/pl/malid:5325292) à petite madeleines est requis pour la recette) au Maroilles afin de faire déguster d’une autre manière ce fromage à l’odeur prononcée. Je me suis inspirée de la recette du blog [La cocotte](http://lacocotte.nordblogs.com/archive/2011/03/02/ch-tites-madeleines.html).Ces madeleines sont très légères, mais le goût de Maroilles pas forcément assez prononcé, donc n’hésitez pas a en rajouter ou même ajouter d’autres ingrédients comme des lardons.
-
-
 
 Pour 30 madeleines
 
@@ -33,8 +32,6 @@ Pour 30 madeleines
 4- Placez votre mélange 30min au réfrigérateur afin que celui-ci soit « frais »  
 5- Préchauffez votre four à 200°C  
 6- Versez votre pâte dans vos moules à madeleines et enfournez pendant 10 à 12 minutes. Vos madeleines doivent être bien dorées
-
-
 
 Dégustez ces petites madeleines tièdes (avec le Maroilles encore fondant)
 

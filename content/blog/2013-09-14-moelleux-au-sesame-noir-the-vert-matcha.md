@@ -2,7 +2,7 @@
 type: post
 title: Moelleux au sésame noir, thé vert matcha
 date: 2013-09-14T18:07:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605938/MG_8117-160x107_adsnmc.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943933/MG_8117.jpg
 categories: 
   - Desserts
 tags: 
@@ -17,6 +17,7 @@ tags:
   - sesame noir
   - thé
 disqusId: 3587683538
+slug: moelleux-au-sesame-noir-the-vert-matcha
 ---
 
 Ceux qui sont passés sur ma page Facebook hier savent d’or et déjà que la recette est basée sur de la pâte de sésame noir. Depuis le temps que j’en cherchais, autant je déteste le tahin (pâte sésame blond) autant j’adooooooore, non que dis-je, je suis totalement amoureuse de la pâte de sésame noir ! Tout à commencé lorsque j’ai pris de la glace au sésame noir un jour dans restaurant Japonais… depuis je suis une grande addicte de cette crème glacée et quoi de mieux que de pouvoir la faire soi-même ?
@@ -29,8 +30,6 @@ Pour ceux que cela intéresse, j’ai trouvé ma pâte de sésame noir ainsi que
 
 Sortez un [cul de poule](http://www.rueducommerce.fr/m/pl/malid:48515370) ou un [saladier](http://www.rueducommerce.fr/m/pl/malid:4769897), des [cercles de présentation](http://www.rueducommerce.fr/index/cercle%20de%20presentation) ou un [moule](http://www.rueducommerce.fr/m/pl/malid:5325292) à gâteaux si vous souhaitez quelque chose de plus familial. Munissez vous aussi d’un [fouet](http://www.rueducommerce.fr/index/ustensile%20Fouet%20inox) et d’une [spatule](http://www.rueducommerce.fr/m/pl/malid:48515367), ainsi que de quoi faire un bain marie, soit une [casserole](http://www.rueducommerce.fr/m/pl/malid:115) et un gros [bol](http://www.rueducommerce.fr/m/pl/malid:4769881). Et voilà vous êtes prêts !
 
-
-
 Pour 4 moelleux (environ 7cm de diamètre)
 
 **Pour les moelleux :**  
@@ -41,11 +40,7 @@ Pour 4 moelleux (environ 7cm de diamètre)
 – 160g de farine de blé  
 – 1 càc de levure chimique
 
-
-
 **Pour le glaçage :** – 140g de chocolat blanc – 50g de beurre – 1,5 càc de thé vert matcha – quelques graines de sésame noir pour décorer **○○○**
-
-
 
 1- **Préparation des moelleux** : Préchauffez votre four à 180°C  
 2- Dans un saladier, mélangez les ingrédients un à un comme énoncés dans la liste ci-dessus. Mélangez bien pour que votre pâte soit sans grumeaux.  
@@ -57,8 +52,6 @@ Pour 4 moelleux (environ 7cm de diamètre)
 7- Dégustez autour d’un petit thé
 
 Astuce : Pour bien appliquer le glaçage, remettez vos moelleux dans les cercles et versez ensuite le chocolat.
-
-
 
 Et vous, avez vous déjà goûté la pâte de sésame noir ? Qu’en avez vous pensé ?Cette année j’ai aussi décidé de m’inscrire aux Golden blogs awards dans la catégorie… \*tadadadam\* : Gastronomiiiie ! Bon y’a beaucoup de blogs très sympathiques donc je ne m’attends pas à grand chose mais néanmoins qui ne tente rien n’a rien n’est ce pas ? N’hésitez donc pas si mon blog vous plait tout ça tout ça, à [voter pour moi par ici](http://www.golden-blog-awards.fr/blogs/crokmou.html) (suffit de cliquer sur le petit pouce hihi) : Merci les gourmands ! Et n’oubliez pas non plus mon [petit concours recettes de vos régions organisé par -ici-](http://www.crokmou.com/2013/09/1000-merci-et-un-concours.html) ! Vous pouvez gagner des lots bien sympathiques et ainsi faire découvrir aux lecteurs vos meilleures recettes ! A bientôt pour de nouvelles aventures, moi je m’en vais faire une partie de ma nouvelle acquisition dont je suis pas peu fière mouahahah : !
 

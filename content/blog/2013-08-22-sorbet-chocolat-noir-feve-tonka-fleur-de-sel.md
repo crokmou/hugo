@@ -2,7 +2,7 @@
 type: post
 title: Sorbet chocolat noir, fève tonka, fleur de sel
 date: 2013-08-22T15:30:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605580/20130717_glace_chocolat_fleur_sel_feve_tonka_0005-73x110_rcgkxn.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943842/20130717_glace_chocolat_fleur_sel_feve_tonka_0005.jpg
 categories: 
   - Desserts
 tags: 
@@ -16,6 +16,7 @@ tags:
   - sel
   - sirop de glucose
 disqusId: 3587683668
+slug: sorbet-chocolat-noir-feve-tonka-fleur-de-sel
 ---
 
 Je sais pas vous mais moi, l’été, j’absorbe une quantité de glaces et de sorbets assez impressionnante. Le reste de l’année je n’en mange pas ou très peu (une petite Ben&Jerry’s Cookie dought de temps en temps mais chuuuuut), si bien que lorsque j’en mange il faut que ce soit de la qualité ! J’ai mes petites adresses par ci par là de bons glaciers mais j’aime aussi réaliser mes petits desserts glacés moi même !
@@ -34,8 +35,6 @@ Pour le sirop de glucose, vous en trouverez sous forme liquide ou déshydraté s
 
 Revenons à la recette, un délicieux **sorbet au chocolat noir, à la fève tonka et à la fleur de sel** !
 
-
-
 Pour 750ml
 
 – 640 ml d’eau  
@@ -44,8 +43,6 @@ Pour 750ml
 – 180g de chocolat noir 70/80%  
 – 1 fève tonka  
 – 3 pincées de fleur de sel
-
-
 
 **○○○**
 

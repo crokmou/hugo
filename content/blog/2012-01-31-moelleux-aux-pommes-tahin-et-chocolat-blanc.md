@@ -2,7 +2,7 @@
 type: post
 title: Moelleux aux pommes, tahin et chocolat blanc
 date: 2012-01-31T19:30:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605572/20120125_gateau_moelleux_tahin_pomme_chocolat_blanc_1-73x110_ssajot.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943813/20120130_muffin_chocolat_coeur_chocolat_blanc_1.jpg
 categories: 
   - Desserts
 tags: 
@@ -17,19 +17,16 @@ tags:
   - tahin
   - tahini
 disqusId: 3587684459
+slug: moelleux-aux-pommes-tahin-et-chocolat-blanc
 ---
 
  
 
 Avec cette recette de Moelleux, j’en profite pour participer au [jeu concours](http://www.chefnini.com/concours-chefnini-douceurs-sucrees/) de Chef Nini ! Celle-ci nous propose de nous faire gagner son premier livre de cuisine « Douceurs Sucrées« . N’hésitez pas vous aussi a participer à l’aventure, cela peut être très sympa !
 
- 
-
 Son blog est très sympa ! Que des recettes accessibles et très bonnes explications ! (Ce n’est pas pour rien que parfois je m’inspire de ses recettes !) Je vous laisse donc découvrir si par hasard vous ne la connaissez pas déjà !
 
 Bonjours les gourmands ! Pour cette innovation (oui oui j’ai innové !), j’ai utilisé du Tahin… bon tout le monde ne sait pas ce que c’est (non ce n’est pas un dialecte perdu), le Tahin est simplement de la pâte de sésame blond, on l’utilise notamment pour le Hoummous. Certains le mange à la petite cuillère, personnellement j’ai essayé et je trouve ça assez… spécial (on va dire ca comme ca) ! En revanche dans les gateaux et autres préparations (qui c’est peut être bientôt une glace au Tahin comme au restaurant Japonais) c’est délicieux, cela donne un bon petit goût ! Une fois la pâte de sésame achetée, il a fallut trouver une recette pas trop compliquée pour un début, mais avec du goût et des saveurs. Tahin, pommes et chocolat blanc, tout ce qu’il faut : Amertume de la pâte de sésame, sucre du chocolat blanc et des pommes ! Si vous cherchez du Tahin vous pouvez trouver ça dans les épiceries Orientales et Chinoises/Japonaises (Il existe aussi de la pâte de sesame noire, mais plus compliquée a trouver à mon goût !). Pour ce faire, munissez vous de votre [matériel à pâtisserie](http://www.rueducommerce.fr/m/pl/malid:12468605) (notamment votre [fouet robot](http://www.rueducommerce.fr/m/pl/malid:15123482)), d’un grand [bol](http://www.rueducommerce.fr/m/pl/malid:4769881) pour la préparation et d’un [moule à cake](http://www.rueducommerce.fr/index/moule%20a%20cake) (quoi qu’il vous ai possible aussi de le faire dans un simple [moule](http://www.rueducommerce.fr/m/pl/malid:5325292) à gâteau)
-
-
 
 Pour 6/8 personnes
 
@@ -49,8 +46,6 @@ Pour 6/8 personnes
 4- Coupez votre pomme en petits morceaux tout comme votre chocolat blanc, ajoutez le tout à votre préparation et mélangez.  
 5- Beurrez et farinez votre moule puis versez-y la pâte  
 6- Enfournez pendant environ 50min (vérifiez la cuisson à l’aide d’un cure-dents ou d’un couteau)
-
-
 
 Dégustez tiède avec pourquoi pas une petite boule de glace
 

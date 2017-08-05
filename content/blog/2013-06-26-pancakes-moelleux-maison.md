@@ -2,7 +2,7 @@
 type: post
 title: Pancakes moelleux maison
 date: 2013-06-26T17:16:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605578/20130626_pancakes_moelleux_0020-73x110_pln37l.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943839/20130626_pancakes_moelleux_0020.jpg
 categories: 
   - Desserts
 tags: 
@@ -17,6 +17,7 @@ ingredient_textarea: |
   - |
   > * 3 oeufs> * 30g de beurre> * 300ml de lait> * 300g de farine> * 1/2 sachet de levure chimique> * 80g de sucre> * 1 sachet de sucre vanillé> * 1 pincée de sel
 disqusId: 3587684581
+slug: pancakes-moelleux-maison
 ---
 
 Les **pancakes Américains**, j’ai toujours rêvé d’en faire ! Vous savez les tout moelleux, les un peu gonflés mais pas trop, les bien dorés ? Et bah je suis heureuse de vous dire que cette fois j’ai trouvé LA recette ! Bon je ne suis pas allée chercher très loin, [750g a pour cette fois été mon bon compagnon](http://www.750g.com/pancakes-r12530.htm) !  Très simple et assez rapide à réaliser, ces pancakes ensoleillerons votre dimanche matin, avec une bonne dose de sirop d’érable huuuuuum !
@@ -25,13 +26,7 @@ Je sais que je suis un peu en retrait en ce moment mais c’est pour mieux reven
 
 Sortez votre [saladier](http://www.rueducommerce.fr/m/pl/malid:4769897), un [fouet en inox](http://www.rueducommerce.fr/index/ustensile%20Fouet%20inox) ou un [robot pâtissier](http://www.rueducommerce.fr/m/pl/malid:229,30023831), une [spatule](http://www.rueducommerce.fr/m/pl/malid:48515367), une [crêpière](http://www.rueducommerce.fr/m/pl/malid:15123296) (j’ai opté pour la familiale qui fait 6 petites crêpes en même temps) ou une simple [poêle](http://www.rueducommerce.fr/m/pl/malid:4769951) et n’oubliez pas votre touche de gourmandise !
 
-
-
 ## **Recette des pancakes moelleux**
-
-
-
-
 
 1.  Dans un saladier mélangez les ingrédients secs (farine, levure, sucres)
 2.  Séparez les blancs des jaunes d’oeufs (que vous garderez à portée de mains) et montez les blancs en neige avec une pincée de sel
@@ -40,9 +35,7 @@ Sortez votre [saladier](http://www.rueducommerce.fr/m/pl/malid:4769897), un [fou
 5.  Faites chauffez une poêle avec un peu de beurre, déposez une louche de pâte. Lorsque des bulles apparaissent sur la surface du pancakes non cuite retournez le. Continuez ainsi avec le restant de pâte.
 6.  Dégustez sans tarder, tiède avec un peu de confiture ou de sirop d’érable c’est tellement bon !
 
-
-
-![pancakes moelleux maison](https://res.cloudinary.com/crokmou/image/upload/v1501605999/pancakes_xclvgh.gif)
+![pancakes moelleux maison](http://www.crokmou.com/wp-content/uploads/2016/05/pancakes.gif)
 
   **Et vous, avez quoi mangez vous vos pancakes habituellement ? Nature ou une petite touche perso ajoutée à la pâte ?** ** ** A bientôt pour de nouvelles aventures, notamment la dernière campagne [Delhaize](http://www.delhaize.be/), un test d’un produit de la gamme [Comtesse du Barry](http://www.comtessedubarry.com/), une petite dégustation de fois gras à la nouvelle boutique [Petrossian](http://www.petrossian.fr/) à Bruxelles et d’autres petites recettes ! Bisous les gourmands !
 

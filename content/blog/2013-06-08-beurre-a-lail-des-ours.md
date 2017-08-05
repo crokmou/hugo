@@ -2,7 +2,7 @@
 type: post
 title: "Beurre à l'ail des ours"
 date: 2013-06-08T16:48:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605578/20130608_beurre_demi_sel_ail_des_ours_0028-73x110_aohxbi.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943838/20130608_beurre_demi_sel_ail_des_ours_0028.jpg
 categories: 
   - Apéritifs
 tags: 
@@ -13,6 +13,7 @@ tags:
   - beurre
   - beurre maison
 disqusId: 3587683259
+slug: beurre-a-lail-des-ours
 ---
 
 L’ail des ours, un grand amour depuis peu ! Pour ceux qui ne connaissent pas, l’ail des ours est une plante appelée aussi ail sauvage. Vous ne trouverez pas cette herbe en grande surface ni même sur les marchés (quoi que peut être les petits), il vous faudra vous déplacer dans les sous bois. L’ail des ours sent l’ail (noooon c’est vrai ?!) et c’est d’ailleurs grâce à l’odeur que vous pourrez différencier la feuille d’ail des ours des feuilles de muguet, oui parce que cela se ressemble fort !
@@ -27,8 +28,6 @@ Les feuilles se fanent rapidement après la cueillette, ne tardez donc pas trop
 
 Passons maintenant à la recette ! Sortez le [blender](http://www.rueducommerce.fr/m/pl/malid:9633603), le [hachoir](http://www.rueducommerce.fr/m/pl/malid:9633606) ou le [pilon et mortier](http://www.rueducommerce.fr/m/pl/malid:43774615), une fourchette, un [cul de poule](http://www.rueducommerce.fr/m/pl/malid:48515370) ou saladier et le tour est joué !
 
-
-
 Pour 250g de beurre
 
 – 250 g de bon beurre demi-sel  
@@ -41,8 +40,6 @@ Pour 250g de beurre
 3- Sortez le beurre du frigo 5/10 minutes avant la préparation. Mixez vos feuilles d’ail de sours finement.  
 4- Dans un cul de poule, écrasez le beurre à l’aide d’une fourchette et mélangez avec l’ail des ours.  
 5- Emballez votre préparation dans du cellophane et formez un boudin. Laissez durcir votre beurre au réfrigérateur. Ensuite dégustez ou congelez selon vos besoins !
-
-
 
 Astuce : Variez les plaisirs en ajoutant tout ce que vous souhaitez dans du beurre ! Troquez l’ail de ours pour du thym ou du basilic, de l’oseille… ** **
 
@@ -70,8 +67,6 @@ _[Recipe in English ](https://lh5.googleusercontent.com/-HPxChO8DNP8/Uc84PqYbXa
 </table>
 
 _ _
-
-
 
 ** ** ** ** ** ** **Avez vous déjà fait du beurre maison en y ajoutant différents produits ? Quelles sont vos recettes préférées ?** ** ** N’oubliez pas que dès Jeudi prochain, je commence [mon exposition sur Bruxelles](https://www.facebook.com/pages/Exposition-photographies-Helb/465477086837367), n’hésitez pas à venir faire un tour si vous n’êtes pas loin ! Dès Lundi vous pourrez aussi participer au [concours So’Bonbon](http://www.crokmou.com/2013/06/concours-photo-sobonbon.html) !
 

@@ -2,7 +2,7 @@
 type: post
 title: Granité pomme-vanille
 date: 2013-07-27T15:12:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605581/20130726_granit--_pomme_vanille_0014-73x110_zulvgs.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943842/20130726_granit--_pomme_vanille_0014.jpg
 categories: 
   - Desserts
 tags: 
@@ -14,13 +14,12 @@ tags:
   - vanille
   - vegetalien
 disqusId: 3587683792
+slug: granite-pomme-vanille
 ---
 
 Me voici de retour avec une recette pleine de fraîcheur parfaite pour les températures actuelles :  un petit **granité pomme-vanille** ou appelé aussi **granita**. Ce que j’aime avec cette recette c’est qu’il ne faut nullement être super équipé, une petite glace pilée, c’est simple, frais. Des fruits, un peu d’imagination et le tour est joué ! Je suis d’accord pour ma part je n’ai pas été chercher très loin mais au moins j’ai liquidé les pommes qui menaçaient de pourrir dans ma cuisine. Et oui cela permet aussi de changer un peu des confitures et des gelées réalisées avec les fruits un peu trop mûrs.
 
 Dans votre salon, sur un transat ou la tête dans le congelo à la recherche d’air frais, cette granita sera vous satisfaire à coups sûrs ! Pêche et thym, ananas, mojito, optez même pour du salé avec un granité poivrons coriandre… Soyez créatifs cela pourra en surprendre plus d’un !
-
-
 
 Pour 4 verres
 
@@ -28,8 +27,6 @@ Pour 4 verres
 – 2 pommes vertes  
 – 1 càs d’arôme vanille  
 – 100g de sucre
-
-
 
 **○○○**
 

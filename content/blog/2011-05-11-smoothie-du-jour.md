@@ -2,7 +2,7 @@
 type: post
 title: Smoothie du jour
 date: 2011-05-11T13:10:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501606129/Smoothie-1-73x110_lfyqwm.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943974/Smoothie-1.jpg
 categories: 
   - Boissons
 tags: 
@@ -15,21 +15,12 @@ tags:
   - orange
   - poire
 disqusId: 3593059531
+slug: smoothie-du-jour
 ---
 
 _Bien le bonjour cher(e)s blogueurs(euses), pour aujourd’hui cela ne sera pas une recette extra compliquée, en revanche il vous faut une centrifugeuse. J’aime cette mini recette parce que c’est facile, cela prend peu de temps, c’est bon pour le gosier et cela rafraichit (par ce beau temps cela est utile)._
 
- 
-
 [![](http://3.bp.blogspot.com/-9FBrPrKGRvU/TbwwFfpy-kI/AAAAAAAAAF4/WL4YEVrGI6o/s320/2pers.jpg)](http://3.bp.blogspot.com/-9FBrPrKGRvU/TbwwFfpy-kI/AAAAAAAAAF4/WL4YEVrGI6o/s1600/2pers.jpg)
-
- 
-
- 
-
- 
-
- 
 
 [![](http://1.bp.blogspot.com/-kNuVk2YnFJc/Tcp8TWGDHoI/AAAAAAAAAHw/3ZnIwRTpRSc/s400/Smoothie+2.jpg)](http://1.bp.blogspot.com/-kNuVk2YnFJc/Tcp8TWGDHoI/AAAAAAAAAHw/3ZnIwRTpRSc/s1600/Smoothie+2.jpg)
 

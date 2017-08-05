@@ -2,7 +2,7 @@
 type: post
 title: "Palets bretons à la fleur d'oranger"
 date: 2011-09-23T17:38:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605996/Palets-bretons-fleur-doranger-73x110_a4zbxj.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943947/Palets-bretons-fleur-doranger.jpg
 categories: 
   - Desserts
 tags: 
@@ -13,6 +13,7 @@ tags:
   - oeuf
   - sable
 disqusId: 3587684467
+slug: palets-bretons-a-la-fleur-doranger
 ---
 
 Aujourd’hui je travaille en flashy ! Je vais vous expliquer l’idée du jour : J’aimerais a chaque article vous faire découvrir un photographe (que ce soit documentaire, noir et blanc, publicitaire, vieux, jeune etc…), je vais essayer de me tenir à ça ! Pourquoi ? Tout simplement pour vous faire découvrir toujours un peu mon univers, mais aussi pour m’aider à retenir et me faire une culture photographique comme il se doit ! Héhé on est tous gagnants n’es ce pas ? Mais avant la recette (trouvé [ici](http://piroulie.canalblog.com/archives/2008/11/10/7840160.html) qui l’a elle même trouvée sur Marmiton) des palets bretons (s’instruire en mangeant c’est mieux !)

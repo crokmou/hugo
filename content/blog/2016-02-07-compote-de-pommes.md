@@ -2,7 +2,7 @@
 type: post
 title: Compote de pommes en toute simplicité
 date: 2016-02-07T11:11:49+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605743/compote-pomme-poire-maison-crokmou-blog-culinaire-73x110_ux1coe.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943869/compote-pomme-poire-maison-crokmou-blog-culinaire.jpg
 categories: 
   - Desserts
   - 'Sauces - Confitures'
@@ -18,6 +18,7 @@ ingredient_textarea: |
   - |
   > * pommes Janagold> * eau> * gousse de vanille, fève tonka ou zestes de yuzu ...
 disqusId: 4558884428
+slug: compote-de-pommes
 ---
 
 Quoi de plus simple qu’une compote de pommes ? C’est vrai me direz vous, pourquoi en écrire la recette alors que tout le monde ou presque sait la cuisiner ? Pour la simple et bonne raison que pour moi, c’est aussi vous partager une petite partie de mon enfance. Bien que mon grand père ne me servait pas tout à fait une compote, après chaque fin de repas j’avais toujours le droit à des pommes râpées du jardin avec un peu de sucre. Et croyez moi c’était le meilleur des desserts ! Moi qui ne suis pas très fruits, la pomme reste avec le temps mon indémodable, je ne mange presque que ça. La compote de pommes, c’est facile, c’est bon et c’est sain, qui plus est quand tu n’ajoutes pas de sucre à ta recette ! Et c’est là toute la subtilité de la compote, trouver les bonnes pommes, bien faire compoter et le tout sans sucres ajoutés.  

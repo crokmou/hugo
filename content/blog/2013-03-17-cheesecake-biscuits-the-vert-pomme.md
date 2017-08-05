@@ -2,7 +2,7 @@
 type: post
 title: Cheesecake biscuits thé vert/pomme
 date: 2013-03-17T10:47:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605642/cheesecake_biscuit_the_vert_stephen_destree_BD-83x110_roxm6n.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943862/cheesecake_biscuit_the_vert_stephen_destree_BD.jpg
 categories: 
   - Desserts
 tags: 
@@ -19,6 +19,7 @@ tags:
   - pomme
   - thé
 disqusId: 3587683129
+slug: cheesecake-biscuits-the-vert-pomme
 ---
 
 Je suis heureuse de vous présenter la photo « promo » de l’exposition à laquelle je vais participer en fin d’année. Comme certains d’entre vous le savent déjà, d’ici 4 mois mes études se finissent et pour clôturer  notre année de troisième, nous organisons les autres élèves et moi même une exposition sur Bruxelles.
@@ -30,10 +31,6 @@ Je ne vais pas vous révéler tout ce que vous pourrez découvrir durant l’e
 Pour ceux qui ne connaissent pas encore la biscuiterie Destree : « _Stephen Destree, pâtissier de profession, s’est lancé en 2008 comme biscuitier. Son but est d’amener le biscuit belge au plus haut niveau. __Avec des ingrédients de qualité et des recettes issues de grands chefs mondialement reconnus, adaptées par Stephen, l’envie est de faire rêver… »_
 
 Je peux vous assurer que ses biscuits sont vraiment délicieux ! La première fois que je les ai mangé, je dois avouer que je n’avais jamais goûté une texture pareil, c’est moelleux et croquant en même temps, c’est léger, c’est … tout bonnement les meilleurs biscuits que j’ai jamais dégusté (surtout le caramel beurre salé). Si vous souhaitez connaître la gamme de produits je vous invite à vous rendre sur [le site internet de la biscuiterie](http://www.biscuiteriedestree.be/index.php).
-
- 
-
- 
 
 _I am happy to present you the « promotional » photo of the exhibition in which I am going to participate at the end of the year. As some of you already know it, in 4 months I will finish my studies and for close the year, we organize the other pupils and me even one exhibition on Brussels. __For my part, I chose the advertising / culinary side as subject for my last year, I work since September on a collaboration with a Belgian biscuiter named Stephen Destree. _
 
@@ -51,8 +48,6 @@ _To realize these recipe you will need a pan, a mixing bowl (or salad bowl), of 
 
 _  __  _
 
-
-
 Pour 4 cercles d’environ 7cm de diamètre
 
 – 100g de [biscuits au thé vert/pomme de la biscuiterie Destree](http://www.biscuiteriedestree.be/collection.php) (ou autres biscuits)  
@@ -68,8 +63,6 @@ Pour 4 cercles d’environ 7cm de diamètre
 3- Dans une casserole faites chauffer la crème liquide et l’agar-agar. Continuer de « cuire » 2 minutes après frémissements tout en mélangeant.  
 4- Incorporez le mélange crème liquide/agar-agar au mélange mascarpone/sucre et mélangez bien. Versez ensuite cette préparation sur la base de biscuits dans vos cercles à patisserie et placez au frais pour 12h au moins.  
 5- Dégustez avec pourquoi pas quelques framboises par dessus
-
-
 
 _ _
 
@@ -106,7 +99,5 @@ Et pour ceux qui aurez envie d’en apprendre un peu plus sur notre expo, je vou
 _And for those who will want to learn it a little more on our exhibition, I invite you to go on the website of this one and to discover also the presentation of my project_
 
 Bon dimanche à tous !_Good Sunday all !_
-
-
 
 [**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○

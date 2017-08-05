@@ -2,7 +2,7 @@
 type: post
 title: "Cups au chocolat blanc et amandes, glaçage chocolat, copeaux d'amandes"
 date: 2011-04-12T10:11:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605843/IMG_8076-73x110_pi7qzo.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943914/IMG_8076.jpg
 categories: 
   - Desserts
 tags: 
@@ -15,6 +15,7 @@ tags:
   - dessert
   - mignardise
 disqusId: 3587684869
+slug: cups-au-chocolat-blanc-et-amandes-glacage-chocolat-copeaux-damandes
 ---
 
 
@@ -23,8 +24,6 @@ _Tout d’abord je vous explique comment je suis arrivée à cette recette, je s
 <a name="more"></a>
 
 ![25_cups](http://storage.canalblog.com/59/56/825568/62416357_p.jpeg)
-
- 
 
 *   3 oeufs
 *   60 grammes de sucre
@@ -46,13 +45,7 @@ _Tout d’abord je vous explique comment je suis arrivée à cette recette, je s
 7.  Faites les cuire environ 20/25 min jusqu’à ce que les petits cups soient cuits à l’intérieur et dorés sur le dessus.
 8.  Une fois cuits, démoulez les cups et les laisser refroidir.
 
-
-
 **Pour le glaçage chocolat (le premier pas forcément le plus réussit) :**
-
-
-
-  
 
 *   50 grammes de beurre
 *   3 càs de cacao en poudre

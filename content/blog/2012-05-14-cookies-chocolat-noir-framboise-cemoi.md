@@ -2,7 +2,7 @@
 type: post
 title: Cookies chocolat noir framboise Cémoi
 date: 2012-05-14T17:58:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605574/20120513_Cookies_Framboise_Chocolat_C--moi_Nature_0003-73x110_nkvk6b.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943798/20120513_Cookies_Framboise_Chocolat_C--moi_Nature_0003.jpg
 categories: 
   - Desserts
 tags: 
@@ -14,6 +14,7 @@ tags:
   - fruit
   - mignardise
 disqusId: 3593026856
+slug: cookies-chocolat-noir-framboise-cemoi
 ---
 
 Nous y voilà ! Je vous l’avez dit dans l’article précédent, une petite recette avec le [chocolat Cémoi](http://www.jaimelechocolat.fr/chocolat-guimauve/tablettes-chocolat.html) était en préparation. Bon à la base il était question d’éclairs chocolat/framboise mais n’ayant que peu de temps devant moi j’ai donc fait des cookies qui changent un peu de l’ordinaire ! Vous aimez les fruits, le moelleux et le croquant ? Le bon goût de biscuit et la douceur du chocolat ? Et bien cette recette est faite pour vous ! (Oui oui je me lance dans la publicité !). Non plus sérieusement c’est CRO BON !
@@ -22,8 +23,6 @@ Nous y voilà ! Je vous l’avez dit dans l’article précédent, une petite re
 Et puis un cookies avec des framboises dedans ca rend la chose moins diabolique (avant les sorties en bikini !).
 
 Pour la recette, [celle de Cécile](http://mesgateauxrigolos.over-blog.com/article-32844330.html) (du blog Mes gateaux rigolos) m’a bien aidée ! Munissez vous d’un [four à micro-ondes](http://www.rueducommerce.fr/m/pl/malid:29456719) (pour les flemmardes comme moi qui n’ont pas l’envie d’attendre que le beurre devienne « pommade »), d’un [tablier](http://www.rueducommerce.fr/m/pl/malid:261), d’un [bol](http://www.rueducommerce.fr/m/pl/malid:4769881) (pour tout mélanger), des vos mimines (pour malaxer), d’une belle [assiette](http://www.rueducommerce.fr/m/pl/malid:4769879) (pour présenter) ou d’un [mug](http://www.rueducommerce.fr/m/pl/malid:4769906) rempli de café (pour savourer)
-
-
 
 Pour 20 gros cookies
 
@@ -42,8 +41,6 @@ Pour 20 gros cookies
 5- Coupez votre chocolat et vos framboises en morceaux et ajoutez les à la préparation. Mélangez avec vos petites mains.  
 6- Faites des petits tas de pâtes sur la plaque du four préalablement recouverte de paper sulfurisé  
 7- Enfournez pour 15 min, une fois cuits, laissez refroidir et dégustez pas la suite !
-
-
 
 Je suis sur que votre gourmandise s’est réveillée après ca ! Et pour le plaisir des yeux et non des papilles cette fois, une petite série de photographies : **Photographe: **_Mark Seliger_** | ****Modèle:** _Emma Watson _| **Client:** _Vogue Italie _| **Date:** _2008_
 

@@ -17,4 +17,4 @@ nohup.out
 .publish/
 _site/
 
-_scripts/*
+_scripts/list_of_pictures_cloudinary.json

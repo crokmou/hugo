@@ -2,7 +2,7 @@
 type: post
 title: Pancakes par Martha Stewart
 date: 2016-08-17T16:29:36+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605997/pancakes-moelleux-crokmou-blog-culinaire-160x107_cn0qwt.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943948/pancakes-moelleux-crokmou-blog-culinaire.jpg
 categories: 
   - Desserts
 tags: 
@@ -29,6 +29,7 @@ ingredient_textarea: |
   - |
   > * 210g de farine> * 15g de sucre> * 2g de sel> * 11g de levure chimique + 2g de bicarbonate de soude> * 50g d'oeuf à température ambiante> * 300g de lait à température ambiante> * 40g de beurre fondu tiède
 disqusId: 5072994928
+slug: pancakes-martha-stewart
 ---
 
 Quand je suis à la maison, le Dimanche devient un jour sacré : the day of Pancakes ! J’adore ça, avec des fruits, du sirop d’érable, du sucre glace, de la cassonade (autrefois du bacon) … C’est moelleux, fondant et ça change carrément du pain grillé ! J’essaye de faire un peu attention à ce que je mange dernièrement (bon sauf peut être en vacances je l’avoue), du coup le jour où je me fais ce royal petit déj est vraiment très attendu ! Pour cette fois j’ai testé une recette venant de Martha Stewart, petit billet trouvé sur le blog _[C’est ma fournée](http://www.cestmafournee.com/2014/09/the-old-fashioned-pancakes-by-martha.html#) _! Cette préparation est top, en fait c’est comme les cakes, au moins on trifouille la pâte, meilleur est le résultat. Là c’est pareil au moins tu travailles ta préparation, au plus tes pancakes sont moelleux. A présent il ne me reste plus qu’à trouver les proportions pour échanger le lait de vache par du lait végétal (oui parce qu’ayant bien du mal à digérer le lait de vache, j’en achète toujours pour la pâtisserie mais je me retrouve toujours avec la moitié de ma bouteille périmée… inutile donc) Il est temps de s’attaquer à la recette, si si  

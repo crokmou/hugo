@@ -2,7 +2,7 @@
 type: post
 title: Risotto aux champignons
 date: 2012-08-16T17:16:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605575/20120815_risotto_champignon_vin_blanc_0017-73x110_vhmm8d.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943811/20120815_risotto_champignon_vin_blanc_0017.jpg
 categories: 
   - Plats
 tags: 
@@ -15,6 +15,7 @@ tags:
   - riz
   - vin
 disqusId: 3611682540
+slug: risotto-aux-champignons
 ---
 
 [![](http://4.bp.blogspot.com/-obUwZHiMv-8/UC0TptLmYLI/AAAAAAAADRc/S1oDwbG8JjM/s320/20120815_risotto_champignon_vin_blanc_bann.jpg)](http://4.bp.blogspot.com/-obUwZHiMv-8/UC0TptLmYLI/AAAAAAAADRc/S1oDwbG8JjM/s1600/20120815_risotto_champignon_vin_blanc_bann.jpg)
@@ -26,8 +27,6 @@ C’est grâce à mon petit cousin que je m’y suis mise, lors de mes vacances 
 Et là, voilà, je l’ai fait, et même si il n’était sûrement pas aussi réussi que dans les grands restaurant, j’ai trouvé ça délicieux ! (Vous avez vu a quel point un risotto me rend heureuse, imaginez donc le jour où je réussirai des macarons !)
 
 Pour la réalisation de ce plat, à l’aide de votre [balance de cuisine](http://www.rueducommerce.fr/m/pl/malid:9633601) ou votre [verre](http://www.rueducommerce.fr/m/pl/malid:4769908) doseur, pesez vos ingrédients. Pour la [cuisson](http://www.rueducommerce.fr/m/pl/malid:24), utilisez un [faitout](http://www.rueducommerce.fr/m/pl/malid:15123303) ou une [sauteuse](http://www.rueducommerce.fr/m/pl/malid:15123301) (c’est peut être mieux) et pour la dégustation servez dans de belles [assiettes](http://www.rueducommerce.fr/m/pl/malid:4769879) !
-
-
 
 Pour 2 personnes
 
@@ -44,8 +43,6 @@ Pour 2 personnes
 3- Faites chauffer environ 2 min jusqu’à ce que le riz soit transparent et ajoutez le vin blanc.  
 4- Mélangez assez souvent. Une fois que le vin blanc est absorbé par le riz, ajoutez une louche de bouillon. De nouveau, mélangez et attendant que le liquide soit absorbé et recommencez l’opération jusqu’à ce qu’il ne reste qu’une louche de bouillon dans votre casserole.  
 5- A ce moment là, ajoutez vos champignons préalablement coupés en fines lamelles et ajoutez la dernière louche de bouillon. Normalement à ce moment là votre risotto devrait être cuit : riz fondant mais qui reste un peu ferme. Salez, poivrez et servez !Si vous le désirez, vous pouvez ajouter une cuillère à soupe de crème fraîche au mélange, mais personnellement je ne l’ai pas fait.
-
-
 
 N’hésitez pas à me faire parvenir vos recettes de risotto (histoire de ne pas cuisiner toujours la même chose =p)  
 **Sinon, quelles sont les recettes qui vous font « peur » ? Avez vous fini par les réaliser ?**  

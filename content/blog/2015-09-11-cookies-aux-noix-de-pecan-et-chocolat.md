@@ -2,7 +2,7 @@
 type: post
 title: Cookies aux noix de pécan et chocolat
 date: 2015-09-11T13:19:18+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501606038/recette-cookies-noix-de-pecan-crokmou-blog-culinaire-73x110_jwuxxn.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943963/recette-cookies-noix-de-pecan-crokmou-blog-culinaire.jpg
 categories: 
   - Desserts
 tags: 
@@ -20,6 +20,7 @@ ingredient_textarea: |
   - |
   > * 260g de farine> * 1/2 càc de bicarbonate de soude> * 1/2 càc de levure chimique> * 1/2 càc de sel> * 170g de beurre mou> * 75g d'oeuf> * 180g de cassonnade> * 150g de sucre> * 10g de sucre vanillé> * 300g de pépites de chocolat noir <del>très noir</del>> * 150g de noix de pécan
 disqusId: 4119303249
+slug: cookies-aux-noix-de-pecan-et-chocolat
 ---
 
 Je sais pas vous, mais les cookies et moi c’est une grande histoire d’amour, et les cookies aux noix de pécan et chocolat n’en parlons pas… Je n’en mange pourtant pas beaucoup mais un seul petit arrive à me faire perdre la raison. Ce qui est chouette avec les cookies c’est qu’il y a milles et une façon de les réaliser, de changer la texture, les goûts la taille… Moi je passe mon temps à tester différentes recettes (je trouve ça nettement plus rigolo que les gâteaux aux préparations qui durent des heures) et celle-ci est je dois dire une de mes préférée ! On est d’accord c’est <del>un peu</del> sucré, mais vous verrez avec l’amertume du chocolat et la douceur de la noix de pécan, c’est délicieux !    

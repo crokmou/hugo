@@ -2,7 +2,7 @@
 type: post
 title: Tatin pomme/ananas
 date: 2011-05-21T14:46:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501606161/Tatin-pomme-ananas-149x110_xtc6xu.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943985/Tatin-pomme-ananas.jpg
 categories: 
   - Desserts
 tags: 
@@ -13,6 +13,7 @@ tags:
   - pomme
   - tarte
 disqusId: 3587684777
+slug: tatin-pommeananas
 ---
 
 La tarte tatin, qui n’aime pas la tarte tatin et son bon goût de caramel ?!
@@ -21,14 +22,6 @@ Pour aujourd’hui ce sera une tatin un peu modifiée, j’ai acheté un ananas 
 
 J’ai suivi la recette sur [Meilleur du chef](http://www.meilleurduchef.com/cgi/mdc/l/fr/recettes/tarte_tatin_ill.html), la photographie était sympa =p
 
- 
-
-
-
 [![](http://4.bp.blogspot.com/-OrtTAb7-bZ8/TsFww-BHpwI/AAAAAAAABJY/rxLi4NkPYmA/s1600/Tarte+tatin+ananas.jpg)](http://4.bp.blogspot.com/-OrtTAb7-bZ8/TsFww-BHpwI/AAAAAAAABJY/rxLi4NkPYmA/s1600/Tarte+tatin+ananas.jpg)
-
- 
-
-
 
 Un très bon week end à vous !

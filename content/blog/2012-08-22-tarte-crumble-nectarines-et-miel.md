@@ -2,7 +2,7 @@
 type: post
 title: Tarte crumble nectarines et miel
 date: 2012-08-22T09:40:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605575/20120815_tarte_crumble_nectarine_miel_0010-73x110_yated5.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943810/20120815_tarte_crumble_nectarine_miel_0010.jpg
 categories: 
   - Desserts
 tags: 
@@ -13,6 +13,7 @@ tags:
   - miel
   - nectarine
 disqusId: 3596616325
+slug: tarte-crumble-nectarines-et-miel
 ---
 
 [![](http://3.bp.blogspot.com/-fhhJocbpc30/UDSQbcoEWPI/AAAAAAAADZU/Xdk68ECMycU/s320/20120815_tarte_crumble_nectarine_miel_bann.jpg)](http://3.bp.blogspot.com/-fhhJocbpc30/UDSQbcoEWPI/AAAAAAAADZU/Xdk68ECMycU/s1600/20120815_tarte_crumble_nectarine_miel_bann.jpg)
@@ -24,8 +25,6 @@ La grand mère de mon hom nous fait cette petite tarte crumble(aux pommes), à c
 La prochaine fois j’aimerai essayer la même chose mais avec des mirabelles et peut être un crumble avec une touche de fleur d’oranger ! Après il y a bien sûr bien d’autres combinaisons : framboises et crumble au thé vert matcha, fraises et crumble au chocolat, pommes et crumble lavande … etc etc
 
 Pour réaliser cette recette, vous aurez donc besoin d’une [poêle](http://www.rueducommerce.fr/m/pl/malid:4769951) pour faire caraméliser vos fruits, d’un [bol](http://www.rueducommerce.fr/m/pl/malid:4769881) pour confectionner le crumble, de votre [matériel à pâtisserie](http://www.rueducommerce.fr/m/pl/malid:12468605) si vous souhaitez faire la [pâte feuilleté vous même](http://www.chefnini.com/pate-feuilletee/), d’un [moule](http://www.rueducommerce.fr/m/pl/malid:5325292) pour réaliser la tarte, d’un [four](http://www.rueducommerce.fr/m/pl/malid:9404136) pour cuire le tout, et d’une belle [assiette](http://www.rueducommerce.fr/m/pl/malid:4769879) pour servir au gouter !
-
-
 
 Pour 6/8 personnes
 
@@ -43,8 +42,6 @@ Pour 6/8 personnes
 5- Une fois les nectarines caramélisées, disposez les sur votre pâte feuilletée, puis saupoudrez le tout de crumble.  
 6- Enfournez environ 30 à 40 min  
 7- Dégustez tiède ou froid, avec éventuellement une petit boule de [glace au yaourt](http://www.crokmou.com/2012/03/glace-au-yaourt.html) (ou à ce que vous voulez !)
-
-
 
 N’oubliez pas le [petit concours](http://www.crokmou.com/2012/08/concours-tirage-au-sort-pour-feter-la.html) organisé en partenariat avec [Rue du Commerce](http://rueducommerce.fr/), afin de peut être gagner deux petits livres Marabout. Vous n’avez rien à perdre, et tout à y gagner ! Cliquez sur l’image ci-dessous pour acceder au concours !
 

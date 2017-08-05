@@ -2,7 +2,7 @@
 type: post
 title: Flans carottes, comté
 date: 2012-03-04T18:25:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605573/20120304_Flan_Carotte_Comte_0028-160x107_j4mycn.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943820/20120304_Flan_Carotte_Comte_0028.jpg
 categories: 
   - Entrées
 tags: 
@@ -15,11 +15,10 @@ tags:
   - fromage
   - legume
 disqusId: 3597603104
+slug: flans-carottes-comte
 ---
 
 Je suis pas fana des légumes, mais ca tout le monde le sait ! Pour pouvoir les manger il me faut les mélanger (enfin ca depend quand) : soit avec de la crème, soit de la viande ou comme ici du fromage. En me baladant sur le joli blog de Delphine « [Le plaisir des mets](http://leplaisirdesmets.over-blog.com/article-flans-aux-carottes-et-comte-97404566.html)« , j’ai donc trouvé mon bonheur : des petits flans légumes/fromage ! J’ai un poil modifié la recette car il y a certains ingrédients que je n’avais pas et d’autres que je n’aime pas (l’ail par exemple !). Une éternité que je n’ai pas mangé de flan, la tâche fût rude pour moi (manque de cuisson au départ aha). Je pensais ne pas avoir tant que cela le goût du fromage et il s’est révélé que j’avais tord. En effet les saveurs du comté et de la carotte sont bien présents. Vous pouvez aussi ajouter un peu de cumin si vous le voulez, mais sincèrement, juste comme ça c’est déjà délicieux ! Pour ce qui est du matériel pour l’élaboration de la recette rien de plus facile ! Un [robot](http://www.rueducommerce.fr/m/pl/malid:229) mixeur ([Braun](http://www.rueducommerce.fr/m/pl/malid:84100) par exemple), un bon [couteau](http://www.rueducommerce.fr/m/pl/malid:12468606) pour couper les carottes, une [poêle](http://www.rueducommerce.fr/m/pl/malid:4769951) à couvercle pour les faire cuire, et un [verre](http://www.rueducommerce.fr/m/pl/malid:4769908) doseur pour diluer le bouillon !
-
-
 
 Pour 4 flans
 
@@ -40,8 +39,6 @@ Pour 4 flans
 6- Versez la préparation dans des ramequins préalablement beurrés.  
 7- Cuire au bain marie (Pour ce-faire, déposez vos ramequins dans un plat allant au four. Et versez dans le plat de l’eau chaude jusqu’aux rebords avant d’enfourner le tout), dans le four pendant environ 40/45 minutes.  
 8- Sortez du four, démoulez et servez aussitôt !
-
-
 
 Qu’en dites vous ? Personnellement je trouve que c’est une bonne alternative pour faire manger des légumes aux réticents comme moi ! Sachez que bientôt vous aurez un petit article sur la Foire du Livre de Bruxelles (ou plus précisément ce qui s’est passé au Palais Gourmand !). Quelques découvertes à venir donc ! D’ailleurs en guise d’aperçu, une petite photographie du célèbre chocolatier [Pierre Marcolini](http://www.marcolini.be/) !
 

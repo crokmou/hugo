@@ -2,7 +2,7 @@
 type: post
 title: 'Heinz Tomato Ketchup Primeur 2012 { Jeudi test produiiit }'
 date: 2012-10-25T14:19:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605575/20121001_ketchup_heinz_primeur_0027_ok-73x110_kqxjfk.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943820/20121001_ketchup_heinz_primeur_0027_ok.jpg
 categories: 
   - 'Sauces - Confitures'
 tags: 
@@ -10,6 +10,7 @@ tags:
   - legume
   - shopping
 disqusId: 3599437004
+slug: heinz-tomato-ketchup-primeur-2012-jeudi-test-produiiit
 ---
 
 [![](http://4.bp.blogspot.com/-1LbDa_bIRZo/UIhF5QU85FI/AAAAAAAAE3I/vcfyup_BaX4/s320/20121001_ketchup_heinz_primeur_0027.jpg)](http://4.bp.blogspot.com/-1LbDa_bIRZo/UIhF5QU85FI/AAAAAAAAE3I/vcfyup_BaX4/s1600/20121001_ketchup_heinz_primeur_0027.jpg)
@@ -46,20 +47,10 @@ En conclusion je trouve ce ketchup plutôt bon par rapport à la soupe que l’o
 
 Vous pourrez retrouver ce produit dans votre magasin seulement entre le mois d’Octobre et Décembre, alors dépêchez vous avant qu’il n’y en ai plus ! Mais vous pouvez aussi tenter votre chance pour gagner l’une de ces bouteilles, sur le site [www.heinzketchupprimeur.be](http://www.heinzketchupprimeur.be/) ou sur la [page facebook Heinz Belgique](https://www.facebook.com/heinzbelgium?fref=ts) !
 
- 
-
 Je vous laisse avec une petite preview du livre de cuisine, et qui sait peut être que j’aurais l’occasion de m’inspirer du livre pour de prochaines recettes !
-
- 
 
 Bonne journée !
 
- 
-
 [![](http://4.bp.blogspot.com/-6UkgeW8uDGY/UIhF6J563cI/AAAAAAAAE3U/ywTLa2qdaWs/s640/20121001_ketchup_heinz_primeur_0048.jpg)](http://4.bp.blogspot.com/-6UkgeW8uDGY/UIhF6J563cI/AAAAAAAAE3U/ywTLa2qdaWs/s1600/20121001_ketchup_heinz_primeur_0048.jpg)
-
- 
-
- 
 
 [**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○

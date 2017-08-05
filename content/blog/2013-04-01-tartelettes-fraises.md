@@ -2,7 +2,7 @@
 type: post
 title: Tartelettes fraises
 date: 2013-04-01T20:32:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605577/20130401_tartelette_fraise_strawberry_tart_0074-73x110_gfsknj.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943834/20130401_tartelette_fraise_strawberry_tart_0074.jpg
 categories: 
   - Desserts
 tags: 
@@ -14,6 +14,7 @@ tags:
   - tarte
   - tartelette
 disqusId: 3587683480
+slug: tartelettes-fraises
 ---
 
 Les fraises c’est trop bon ! Avec du sucre, du miel, de la chantilly, du chocolat, nature : il y a tellement de façons de les déguster ! Personnellement je les préfère avec un peu de sucre, dans un bol, mes petites fesses posées sur une chaise longue sous le soleil et hop plaisir total !
@@ -25,8 +26,6 @@ _Strawberries are so good! With some sugar, some honey, some whipped cream, some
 Pour réaliser cette petit douceur qui nous ramène peu à peu aux mois d’été, vous aurez besoin : D’une [casserole](http://www.rueducommerce.fr/index/casserole%20fonte), d’un [cul de poule](http://www.rueducommerce.fr/index/casserole%20fonte) ou d’un saladier, de [moules à tartelettes](http://www.rueducommerce.fr/index/moule%20tartelette) ou d’un [moule](http://www.rueducommerce.fr/m/pl/malid:5325292) à tarte, d’un [fouet](http://www.rueducommerce.fr/index/ustensile%20Fouet%20inox) et d’une bonne dose de gourmandise !
 
 _To make this sweetness which bring back us little by little to the summer, you will need: of a pan, a mixing bowl or a salad bowl, tartlet molds or a pie plate, a whip and a good dose of greed!_
-
-
 
 Pour 4 tartelettes
 
@@ -44,8 +43,6 @@ Pour 4 tartelettes
 4- Une fois le lait chaud, versez le petit à petit sur le mélange précédent tout en mélangeant bien et énergiquement. Reversez ensuite ce mélange dans la casserole, et continuer de mélanger tout en laissant sur feu moyen. Au bout de 5 min environ le mélange devrait s’épaissir.  
 5- Versez votre crème dans vos tartelettes (en ayant prit soin de retirer les haricots secs et le papier), laissez refroidir. Coupez vos fraises en morceaux et dressez les dans les tartelettes. Mettre au frais 30 minutes.  
 6- Dégustez !
-
-
 
 _[Recipe in english](https://lh5.googleusercontent.com/-mH1DyMqifx0/UVnfKXJy6tI/AAAAAAAAGzc/HnT1Y39Aprs/s842/strawberry_tartlet.jpg) :_
 

@@ -2,7 +2,7 @@
 type: post
 title: "Mousse au chocolat et sa touche de fleur d'oranger"
 date: 2011-04-12T10:19:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605971/Mousse-choco-73x110_von8z0.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943938/Mousse-choco.jpg
 categories: 
   - Desserts
 tags: 
@@ -12,6 +12,7 @@ tags:
   - fleur
   - "fleur d'oranger"
 disqusId: 3594386361
+slug: mousse-au-chocolat-et-sa-touche-de-fleur-doranger
 ---
 
 _Une recette très simple qui ravira toute la petite famille (si petite famille il y a !), ou tout autre personne aimant le chocolat et la saveur enivrante de la fleur d’oranger (qui fait voyager vers d’autres pays où le soleil est omniprésent), en bref cette recette de mousse au chocolat permettra à vos sens de partir ailleurs et à votre moral d’être de meilleur humeur (oui oui tout à fait !)_
@@ -19,8 +20,6 @@ _Une recette très simple qui ravira toute la petite famille (si petite famille 
 _Passons donc aux choses sérieuse la réalisation !_
 
 ![4pers](http://storage.canalblog.com/71/64/825568/62416184_p.jpeg)
-
- 
 
 *   200 grammes de chocolat noir
 *   4 oeufs

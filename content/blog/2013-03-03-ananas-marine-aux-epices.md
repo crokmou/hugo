@@ -2,7 +2,7 @@
 type: post
 title: Ananas mariné aux épices, une recette fraîche et rapide
 date: 2013-03-03T14:32:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605577/20130302_ananas_marin--_epices_0024-73x110_kfpz3o.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943834/20130302_ananas_marin--_epices_0024.jpg
 categories: 
   - Desserts
 tags: 
@@ -24,6 +24,7 @@ ingredient_textarea: |
   - |
   > * 1 ananas> * 1 l d'eau> * 60g de sucre en poudre> * 1 baton de cannelle> * 1 gousse de vanille> * 5 graines de cardamome> * 4 étoiles de badiane> * 4 clous de girofle> * 2 pincées de poivre noir
 disqusId: 3587683546
+slug: ananas-marine-aux-epices
 ---
 
 Parce que même si le temps n’est pas toujours au rendez vous, il y a des recettes qui nous réchauffent un peu. Pour ma part depuis le cours de cuisine au [Biggest cooking Event](http://fr.delhaize.be/fr-be/action/delhaize-biggest-cooking-event) avec mon amie [Salima](http://partsdeplaisir.blogspot.be/), je suis devenue une adepte de l’**ananas mariné aux épices.** Une recette du chef Yves Mattagne que j’ai légèrement modifiée car un poil trop sucrée pour moi.
@@ -34,16 +35,10 @@ La recette est très rapide et très simple à réaliser, de quoi ravir vos invi
 
 ## **Recette de cuisine : Ananas mariné aux épices**
 
-
-
 1.  Dans une casserole, faites chauffer l’eau avec les épices et le sucre
 2.  Pelez et découpez votre ananas en tranche, enlevez le coeur à l’aide d’emportes pièces
 3.  Plongez les tranches d’ananas dans le sirop d’épices, laissez mariné à feu moyen 15/20 minutes.
 4.  Servez les tranches d’ananas tièdes dans des assiettes creuses avec un peu de sirop.
-
-
-
-
 
 Je vous souhaite une bonne fin de week end, à bientôt !
 

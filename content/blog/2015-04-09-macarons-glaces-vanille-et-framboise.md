@@ -2,7 +2,7 @@
 type: post
 title: Macarons glacés vanille et framboise
 date: 2015-04-09T17:12:14+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605914/macaron-glac---vanille-framboise-recette-crokmou-blog-culinaire-2-160x107_bxfgwx.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943923/macaron-glac---vanille-framboise-recette-crokmou-blog-culinaire-2.jpg
 categories: 
   - Desserts
 tags: 
@@ -23,11 +23,12 @@ ingredient_textarea: |
   > ## Pour la crème glacée à la vanille
   > > * 250g de lait entier> * 125g de crème entière> * 125g de sucre> * 100g de jaunes d'oeufs (soit env 5)
 disqusId: 3668206358
+slug: macarons-glaces-vanille-et-framboise
 ---
 
 Le beau temps revient, à Bruxelles il fait grand soleil et chaud, le bonheur, ça faisait tellement longtemps ! Et vous connaissez la meilleure ? Cela va durer tout le weekend !!! Et quoi de mieux pour ces beaux jours que de petits **macarons glacés vanille et framboise** ? Un dessert rafraîchissant qui nous permettra d’attendre un peu jusqu’à la salade de fruits frais ! Bon c’est pas forcément évident, les macarons c’est tout un art mais avec une meringue Italienne (au sucre cuit) c’est déjà nettement plus simple pour les réussir ! En ce qui concerne la crème glacé aux œufs, le mieux c’est d’avoir une petite sorbetière (ou carrément une turbine) à la maison, si vous n’en avez pas cela vous fera simplement un peu plus de travail : gratter la glace toutes les heures à l’aide d’une fourchette !
 
-![macarons glacés vanille et framboise](https://res.cloudinary.com/crokmou/image/upload/v1501605916/macaron-glac---vanille-framboise-recette-crokmou-blog-culinaire-1_djjkkg.jpg)![macarons glacés vanille et framboise](https://res.cloudinary.com/crokmou/image/upload/v1501605916/macaron-glac---vanille-framboise-recette-crokmou-blog-culinaire_h9oxnq.jpg)
+![macarons glacés vanille et framboise](http://www.crokmou.com/wp-content/uploads/2015/04/macaron-glac---vanille-framboise-recette-crokmou-blog-culinaire-1.jpg)![macarons glacés vanille et framboise](http://www.crokmou.com/wp-content/uploads/2015/04/macaron-glac---vanille-framboise-recette-crokmou-blog-culinaire.jpg)
 
 ## Recette des macarons glacés vanille
 

@@ -2,7 +2,7 @@
 type: post
 title: "Pommes au cœur fondant tout chocolat sur son lit de pain d'épices"
 date: 2011-04-12T14:26:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501606024/Pommes-coeur-chocolat-104x110_wbfqpc.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943960/Pommes-coeur-chocolat.jpg
 categories: 
   - Desserts
 tags: 
@@ -14,6 +14,7 @@ tags:
   - fruit
   - "pain d'epice"
 disqusId: 3587684879
+slug: pommes-au-coeur-fondant-tout-chocolat-sur-son-lit-de-pain-depices
 ---
 
 
@@ -21,8 +22,6 @@ disqusId: 3587684879
 _Il y a des jours où des envies nous viennent, mes envies sont la plupart du temps dirigées vers le chocolat… Des pommes dans le frigo, c’est parti, des pommes au coeur fondant tout choco, parfait pour le goûter du chéri revenant du travail !_
 
 _![2pers](http://storage.canalblog.com/77/88/825568/62415804_p.jpeg)_
-
- 
 
 *   2 pommes
 *   6 carrés de chocolat

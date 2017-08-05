@@ -2,7 +2,7 @@
 type: post
 title: Macarons Halloween, ganache cacao cru
 date: 2016-10-28T20:28:05+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605914/macaron-halloween-ganache-chocolat-grand-cru-crokmou-blog-culinaire-belge-160x107_hcfquu.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943926/macaron-halloween-ganache-chocolat-grand-cru-crokmou-blog-culinaire-belge.jpg
 categories: 
   - Desserts
 tags: 
@@ -23,6 +23,7 @@ ingredient_textarea: |
   > ## Pour la ganache :
   > > * 110g de crème de soja> * 35g de sucre> * 35g de glucose> * 35g de [pâte de cacao cru](http://www.keimling.fr/pate-de-cacao-cru.html) (Keimling)> * 45g de [pistoles Barry Tanzanie 75%](http://www.cacao-barry.com/fr-FR/chocolat-couverture-cacao/chd-q75taz/tanzanie?switch=Y)> * 1/2 fève de tonka râpée> * 35g de beurre
 disqusId: 5261183358
+slug: macarons-halloween-ganache-chocolat-grand-cru
 ---
 
 Je ne fête jamais Halloween comme je le souhaiterais, malheureusement en Europe ce n’est pas une fête très grandiose. Néanmoins chaque année je prend un réel plaisir à élaborer quelques petites recettes spécialement pour l’occasion ! Naturellement je n’oublie pas de fredonner mon air favoris « This is Halloween », bien que cette année c’est plutôt [le solo de piano](https://www.youtube.com/watch?v=kUfRtS1Swf4) du long métrage « The Corpse bride » qui me trottait dans la tête. Laissez moi donc vous présenter mes petits macarons effrayants – ou pas -. Je vous avoue avoir eu bien du mal à les décorer et les photographier car ce jour là je tenais à peine debout et bien qu’ils ne soient pas parfaits, je les trouve plutôt réussis, pas vous ? Ceux qui savent que je râle chaque année contre mon four de brin et mes macarons, ici j’ai réalisé les coques à l’école, le four étant nettement mieux, le rendu est donc plus joli 🙂  

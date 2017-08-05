@@ -2,7 +2,7 @@
 type: post
 title: Confiture de châtaignes
 date: 2013-11-01T22:04:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501606023/photographie_confiture_chataigne_creme_marron-1-73x110_ik8bap.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943955/photographie_confiture_chataigne_creme_marron-1.jpg
 categories: 
   - 'Sauces - Confitures'
 tags: 
@@ -12,6 +12,7 @@ tags:
   - conserve
   - dessert
 disqusId: 3587683064
+slug: confiture-de-chataignes
 ---
 
 [ ](http://www.crokmou.com/wp-content/uploads/2013/11/photographie_confiture_chataigne_creme_marron-5-1.jpg)
@@ -26,16 +27,12 @@ Loin de moi l’idée de vous dissuader de faire cette recette, néanmoins j’a
 
 Assez parlé nature maintenant passons à la cuisine ! Sortez un petit [couteau de cuisine](http://www.rueducommerce.fr/m/pl/malid:4769881), des [saladiers](http://www.rueducommerce.fr/m/pl/malid:4769897)/[bols](http://www.rueducommerce.fr/m/pl/malid:4769881)/[culs de poule](http://www.rueducommerce.fr/m/pl/malid:48515370) oui oui je dis bien des. Munissez vous aussi de patience, d’une [casserole](http://www.rueducommerce.fr/m/pl/malid:115), d’une fourchette et des [bocaux](http://www.rueducommerce.fr/m/pl/malid:48515378) à confiture !
 
-
-
 Pour 2 gros pots
 
 – 500g de chair de châtaignes  
 – 400g de sucre en poudre  
 – 1 gousse de vanille (de l’île Maurice pour moi, que [ma belle soeur](http://mauricemonamour.blogspot.be/) m’a gentiment ramené)  
 – 120ml d’eau ou de jus de châtaignes
-
-
 
 **○○○**
 

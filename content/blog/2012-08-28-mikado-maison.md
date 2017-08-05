@@ -2,7 +2,7 @@
 type: post
 title: Mikado maison
 date: 2012-08-28T15:29:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605575/20120827_mikado_home_made_0023-73x110_nzrl6g.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943811/20120827_mikado_home_made_0023.jpg
 categories: 
   - Desserts
 tags: 
@@ -18,6 +18,7 @@ tags:
   - mikado
   - pistache
 disqusId: 3587683404
+slug: mikado-maison
 ---
 
 [![](http://1.bp.blogspot.com/-b8mkRqJHxos/UDzJU4qpRQI/AAAAAAAADlU/lLMVhbppv_E/s320/20120827_mikado_home_made_0023_bann.jpg)](http://1.bp.blogspot.com/-b8mkRqJHxos/UDzJU4qpRQI/AAAAAAAADlU/lLMVhbppv_E/s1600/20120827_mikado_home_made_0023_bann.jpg)
@@ -30,8 +31,6 @@ Ce qui est bien avec ces petits Mikado maison (recette trouvée [ici](http://www
 
 Pour réaliser ces petits Mikado, vous aurez besoin de votre [matériel à pâtisserie](http://www.rueducommerce.fr/m/pl/malid:12468605), de votre [balance de cuisine](http://www.rueducommerce.fr/m/pl/malid:9633601), d’une [casserole](http://www.rueducommerce.fr/m/pl/malid:115), de [bols](http://www.rueducommerce.fr/m/pl/malid:4769881) et d’un bon et grand [couteau](http://www.rueducommerce.fr/m/pl/malid:12468606) !
 
-
-
 Pour environ 30 Mikado  
 (environ 15cm de longueur)
 
@@ -43,11 +42,7 @@ Pour environ 30 Mikado
 -20g de poudre d’amandes  
 -130g de farine
 
-
-
 **Pour l’enrobage :** -200g de chocolat noir -des éclats de ce que vous préférez (amandes, noisettes, pistaches…etc)
-
-
 
 1- Préparez la pâte : Coupez le beurre pommade en morceaux dans un saladier puis par dessus tamiser le sucre glace. Ajoutez le sel et lissez ensuite le mélange à l’aide d’une spatule (cela doit devenir « crémeux »). Ensuite ajoutez l’oeuf, la poudre d’amandes et la farine, mélangez bien le tout et formez une boule de pâte. Emballez votre pâte dans du film alimentaire et laissez reposer une heure au frigo.
 
@@ -62,8 +57,6 @@ Pour environ 30 Mikado
 6- Parsemez ensuite vos mikados de ce que vous voulez et laissez refroidir sur une grille (ou autre si vous trouvez un système D)
 
 7- Dégustez ces petits bâtonnets au goûter, ou le soir devant la tv avec un petit verre de lait ! Que du bonheur non ?
-
-
 
 **En avez vous déjà réalisés ?**
 

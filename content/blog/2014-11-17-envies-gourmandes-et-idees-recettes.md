@@ -2,10 +2,11 @@
 type: post
 title: Envies gourmandes / Wishlist
 date: 2014-11-17T14:29:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605840/idee-achat-crokmou-blog-110x110_li6luh.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943909/idee-achat-crokmou-blog.jpg
 categories: 
   - Lifestyle
 disqusId: 3591783793
+slug: envies-gourmandes-et-idees-recettes
 ---
 
  

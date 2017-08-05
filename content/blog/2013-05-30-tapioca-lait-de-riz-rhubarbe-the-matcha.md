@@ -2,7 +2,7 @@
 type: post
 title: Tapioca lait de riz, rhubarbe, thé matcha
 date: 2013-05-30T21:39:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605578/20130527_tapioca_lait_riz_rhubarbe_the_vert_matcha_0014-73x110_wesw0w.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943837/20130527_tapioca_lait_riz_rhubarbe_the_vert_matcha_0014.jpg
 categories: 
   - Boissons
 tags: 
@@ -23,19 +23,16 @@ tags:
   - rice milk
   - tapioca
 disqusId: 3587683975
+slug: tapioca-lait-de-riz-rhubarbe-the-matcha
 ---
 
 
 
 Je sais pas vous mais en ce moment j’ai besoin de me remonter le moral avec des petites recettes exotiques ! Comme tout le monde je pense, ce mauvais temps tout gris commence à me pomper et j’ai cruellement besoin de soleil et de vacances. Pour remédier à cela je vous propose donc une recette simple et rapide qui vous réchauffera le coeur en quelques minutes. C’est frais, gourmand, amusant… je vous présente une **boisson** à base de **tapioca au lait de riz, confiture de rhubarbe et thé vert matcha**.
 
-
-
 J’aime beaucoup l’alliance du matcha et de le rhubarbe, ce sont vraiment des saveurs qui s’accordent bien. Le tapioca ajoute un côté amusant à la boisson, les petites billets éclatent un peu en bouche, en bref, une recette parfaite pour changer un peu du smoothie !
 
 Sortez tout de même une [casserole](http://www.rueducommerce.fr/index/casserole%20fonte), une [cuillère à soupe](http://www.rueducommerce.fr/index/cuillere%20a%20soupe), un [verre doseur](http://www.rueducommerce.fr/index/Verre%20doseur%20plastique), une [louche](http://www.rueducommerce.fr/index/Louche) et des verres sympa !
-
-
 
 Pour 2 verres 25cl
 
@@ -51,8 +48,6 @@ Pour 2 verres 25cl
 2- Disposez dans le fond de vos verres la confiture et le thé matcha  
 3- Versez ensuite le lait de riz/tapioca et mélangez bien  
 4- Ajoutez 1 ou 2 glaçons et dégustez à la paille !
-
-
 
 Astuce : Changer le lait de riz avec du lait d’amande ou du lait de soja ! Changez la confiture de rhubarbe par de la confiture de cerise ou de mirabelles, vous verrez c’est aussi bon ! Vous voyez, très simple comme recette ! Et je suis certaine que vous en serez ravis !
 
@@ -84,8 +79,6 @@ _[Recipe in English soon](https://lh3.googleusercontent.com/-mtlkaU0yDLk/Uc8x7lA
 </table>
 
 _ _
-
-
 
 <a name="more"></a>Pour finir cet article, je suis heureuse de vous présenter la fin, le résultat de mes 3 années d’études en photographie : une exposition (Le pourquoi du comment je suis très occupée en ce moment). Comme j’ai déjà dû vous l’expliquer dans un autre post, mes camarades de troisième année et moi même organisons une exposition de fin d’études avec différents travaux élaborés tout au long de cette année 2012/2013\. Pour ma part comme vous vous en doutez certainement, je me suis dirigée dans le domaine culinaire mais pas seulement, j’ai aussi collaboré avec un artisan Belge : le biscuitier Stephen Destrée !
 

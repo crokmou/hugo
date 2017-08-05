@@ -2,7 +2,7 @@
 type: post
 title: Panna cotta vegan vanille, rhubarbe
 date: 2013-04-19T16:00:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605577/20130418_panna_cotta_vegan_vanille_gelee_rhubarbe__0038-73x110_kheay8.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943836/20130418_panna_cotta_vegan_vanille_gelee_rhubarbe__0038.jpg
 categories: 
   - Desserts
 tags: 
@@ -27,6 +27,7 @@ ingredient_textarea: |
   > ## Pour la gelée et la confiture :
   > > * rhubarbe (4/5 tiges)> * 600ml d'eau> * 300g de sucre> * 1 gousse de vanille> * 2g d'agar-agar
 disqusId: 3587683930
+slug: panna-cotta-vegan-vanille-rhubarbe
 ---
 
 [![](http://www.crokmou.com/wp-content/uploads/2013/04/20130418_panna_cotta_vegan_vanille_gelee_rhubarbe__0044-200x3001-200x300.jpg)](http://www.crokmou.com/wp-content/uploads/2013/04/20130418_panna_cotta_vegan_vanille_gelee_rhubarbe__0044-200x3001.jpg)
@@ -37,11 +38,7 @@ Suite à ma petite prestation culinaire pour Alpro la semaine dernière, j’ava
 
 Je vous conseille pour plus de tenue, de réaliser vos panna cotta dans un verre… Sauf si comme moi vous désirez un peu vous battre avec la gelée pour que celle-ci colle à la panna cotta hihi ! Bien entendu, quand vous lirez la recette, vous vous rendrez compte que j’ai utilisé la rhubarbe confite pour faire une petite compote de rhubarbe qui est, entre nous, vraiment vraiment délicieuse !
 
-
-
 ## **Recette de la panna cotta vegan**
-
-
 
   1\. **La veille de la recette** : Epluchez la rhubarbe et taillez la en petits tronçons, placez la ensuite dans une saladier. Dans une casserole portez à ébullition l’eau, le sucre et la gousse de vanille égrainée. Mélangez et versez ensuite ce mélange encore chaud sur la rhubarbe. Laissez le tout refroidir et réservez au frigo toute la nuit. 2\. **Préparation de la panna cotta** : Dans une casserole, ajoutez la crème, le lait, l’agar-agar et les graines de vanille, mélangez. Portez le tout à ébullition et continuez a mélanger un peu. Répartissez ensuite votre panna cotta dans vos verres et réservez au frigo. 3\. **Préparation de la gelée** : Dans une casserole, ajoutez 200ml du sirop de rhubarbe confite ainsi qu’1g d’agar-agar. Mélangez et portez a ébullition. Versez la préparation sur la panna cotta. Laisser refroidir le tout et réservez au frigo. 4\. **Préparation de la confiture** : Versez dans une casserole le reste de sirop de rhubarbe confite. Portez a ébullition pendant 10 minutes pour que le jus réduise de moitié. Ajoutez ensuite les tronçons de rhubarbe et le reste d’agar-agar, laissez cuire à feu doux/moyen pendant 20/30 minutes. Versez ensuite la confiture dans des bocaux préalablement stérilisés (dans de l’eau bouillante).
 

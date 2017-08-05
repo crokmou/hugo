@@ -2,7 +2,7 @@
 type: post
 title: 'Perles coco {Bánh bao chỉ}'
 date: 2013-05-23T21:23:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605577/20130521_perle_coco_b--nh_bao_ch---_0012-73x110_nm5azh.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943836/20130521_perle_coco_b--nh_bao_ch---_0012.jpg
 categories: 
   - Desserts
 tags: 
@@ -27,6 +27,7 @@ ingredient_textarea: |
   > ## Pour l'exterieur :
   > > * 200ml de lait de coco non sucré> * 2 càs de sucre> * 200g de [farine de riz gluant](http://pimentrouge.co/farines-chapelures/623-farine-de-riz-gluant-400g-cock.html)
 disqusId: 3587684014
+slug: perles-coco-banh-bao-chi
 ---
 
 Les perles coco… Je ne sais pas si vous connaissez mais en tout cas, moi, j’en suis fan ! D’aussi loin que je me souvienne, lorsque j’allais au restaurant Chinois avec mes parents, je prenais toujours ce dessert (et les gâteaux à base de soja avec un tampon rouge dessus). La texture est pourtant très surprenante, c’est mou, pâteux et un poil gluant, mais tellement bon ! Je ne me suis jamais posée la question sur ce qu’il y avait dedans jusqu’à il y a quelques mois. Il s’avère qu’à l’interieur de ces petites boules on trouve…. tadam : du soja bah ouai ! Inculte comme je suis pour moi le soja n’existait qu’en pousse et certainement pas en graines jaunes… Comme quoi on en apprend tous les jours  (vous avez le droit de rire) !

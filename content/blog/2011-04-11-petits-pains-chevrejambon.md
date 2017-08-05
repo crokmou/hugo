@@ -2,7 +2,7 @@
 type: post
 title: Petits pains chèvre/jambon
 date: 2011-04-11T21:55:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605996/Pains-ch--vre.jambon-73x110_ql6tmh.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943946/Pains-ch--vre.jambon.jpg
 categories: 
   - Apéritifs
 tags: 
@@ -11,13 +11,12 @@ tags:
   - chevre
   - fromage
 disqusId: 3587636189
+slug: petits-pains-chevrejambon
 ---
 
 Il reste toujours de petites choses dans le frigo dont on ne sait pas toujours quoi faire. Par exemple ici chez moi, du chèvre et du jambon… pas besoin de réfléchir trop longtemps pour trouver ce que j’allais en faire ^_^ : petits pains chèvre/jambon pour des petits amuses bouches !
 
 Je préviens à l’avance : la recette est assez longue, si vous avez toute la journée et entre temps des petites choses à faire c’est réalisable !
-
-
 
 Pour 10 bouchées
 
@@ -37,11 +36,7 @@ Pour 10 bouchées
 5- Préchauffez votre four à 210°C. Faites des petites boules de pâtes et laissez lever 30min.  
 6- Badigeonnez vos petites bouchées de jaune d’oeuf et enfournez pour 15/20min
 
-
-
 Laissez quelque peu refroidir avant de déguster en apéritif !TADDDDAAAAM ! Ils sont chaud, ils sont beaux, et par la même occasion délicieux =D
-
- 
 
 A manger avec pourquoi pas, un peu de salade !
 

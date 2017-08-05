@@ -2,7 +2,7 @@
 type: post
 title: Milkshake lait de riz, sésame noir, banane
 date: 2013-02-18T09:23:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605577/20130217_milkshake_sesame_noir_banane_citron_vert_0030-73x110_ad8wsc.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943832/20130217_milkshake_sesame_noir_banane_citron_vert_0030.jpg
 categories: 
   - Boissons
 tags: 
@@ -17,6 +17,7 @@ tags:
   - milkshake
   - sesame
 disqusId: 3592556169
+slug: milkshake-lait-de-riz-sesame-noir-banane
 ---
 
 Je sais pas vous mais moi en ce moment je déprime un peu… j’aime la neige, les paysages tout ça tout ça… mais au bout d’un moment l’été me manque. J’ai hâte de pouvoir me balader en tee shirt, de m’faire bronzer le minois sur mon toit tout pourri, d’aller tremper mes petits pieds dans la piscine ou la mer, de faire le lézard tout en écoutant les grillons chanter… bref des envies d’ailleurs !
@@ -26,8 +27,6 @@ Mes envies d’ailleurs m’ont donc conduite à vous faire une recette quelque 
 Pour ceux qui ne connaissent pas encore la glace au sésame noir, je vous conseille d’aller vous en acheter un pot très trèèèèès vite, parce que c’est super mega trop bon ! C’est plus sucré que de la glace au sesame blond, personnellement je préfère. Vous trouverez cette glace dans toutes les bonnes épiceries asiatiques (Japonaises souvent) ou tout simplement en restaurant (mais là a emporter pour le milkshake c’est plus compliqué). Sinon vous pouvez aussi la faire vous même, pour cela il vous suffira d’acheter de la pâte de sésame noir et de suivre [la recette sur le blog Cook’n’rool de mon cher ami Greg](http://cookandroll.canalblog.com/archives/2011/04/20/20941841.html) !
 
 Maintenant que vous savez tout, vous allez pouvoir vous mettre en cuisine, sachez néanmoins que ce genre de recettes c’est assez rapide à réaliser (parfait pour moi en ce moment) ! Sortez votre blender, un [presse citron](http://www.rueducommerce.fr/index/presse%20citron), un [couteau](http://www.rueducommerce.fr/m/pl/malid:43774603), une [cuillère](http://www.rueducommerce.fr/m/pl/malid:43774626) à glace et de beaux [mugs](http://www.rueducommerce.fr/m/pl/malid:4769906) (ou verres) pour la dégustation !
-
-
 
 Pour 1 verre de 20/25cl
 
@@ -40,8 +39,6 @@ Pour 1 verre de 20/25cl
 1- Mettez tous les ingrédients dans votre [blender](http://www.rueducommerce.fr/m/pl/malid:9633603)  
 2- Mixez et versez le tout dans votre verre  
 3- Dégustez bien frais
-
-
 
 Fastoche n’est ce pas ? **Et vous quelles sont vos milkshake préférés ? Ou peut être préférez vous les smoothies ?** Je vous souhaite à tous de passer une très bonne semaine, à bientôt les gourmands !
 

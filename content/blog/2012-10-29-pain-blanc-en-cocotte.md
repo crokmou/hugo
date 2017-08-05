@@ -2,7 +2,7 @@
 type: post
 title: Pain blanc en cocotte
 date: 2012-10-29T15:40:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605576/20121029_pain_blanc_cuisson_cocotte_fonte_0002-73x110_pmrbxk.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943825/20121029_pain_blanc_cuisson_cocotte_fonte_0002.jpg
 categories: 
   - Boulangerie
 tags: 
@@ -12,6 +12,7 @@ tags:
   - home made
   - pain
 disqusId: 3587683349
+slug: pain-blanc-en-cocotte
 ---
 
 [![](http://3.bp.blogspot.com/-SXr-XaLsghc/UI6KUkupSVI/AAAAAAAAE60/lKhIvpKxKZ4/s320/20121029_pain_blanc_cuisson_cocotte_fonte_0002_bann.jpg)](http://3.bp.blogspot.com/-SXr-XaLsghc/UI6KUkupSVI/AAAAAAAAE60/lKhIvpKxKZ4/s1600/20121029_pain_blanc_cuisson_cocotte_fonte_0002_bann.jpg)
@@ -23,8 +24,6 @@ De ce fait de temps en temps je teste quelques recettes (qui fonctionnent plus o
 Pour tout vous dire je suis très très satisfaite du résultat ! La croûte est vraiment excellente, on ne sent pas l’odeur de la levure (comme la plupart de mes essais habituels), c’est juste un grand plaisir en bouche ! Mon seul petit hic, c’est que ce n’est peut être pas aussi aéré que je l’espérais, la prochaine fois je laisserai ma pâte « mariner » un peu plus longtemps !Pour réaliser cette recette vous aurez besoin : d’un (gros) [cul de poule](http://www.rueducommerce.fr/m/pl/malid:48515370), éventuellement d’une [cuillère](http://www.rueducommerce.fr/m/pl/malid:43774626) en bois pour touiller, de graaandes [maniques](http://www.rueducommerce.fr/m/pl/malid:4769931) (parce que oui moi mes maniques sont trop petites et du coup j’ai une grosse balafre sur le bras), d’une [cocotte](http://www.rueducommerce.fr/index/cocotte) en fonte et d’un bon [couteau de cuisine](http://www.rueducommerce.fr/m/pl/malid:12468606) (ou a pain c’est encore mieux) pour faire de belles tartines !
 
 [![](http://2.bp.blogspot.com/-LSgZHTGvOKk/UI6PQwBtf1I/AAAAAAAAE7c/4flGU9MzWzk/s400/20121029_pain_blanc_cuisson_cocotte_fonte_0024.jpg)](http://2.bp.blogspot.com/-LSgZHTGvOKk/UI6PQwBtf1I/AAAAAAAAE7c/4flGU9MzWzk/s1600/20121029_pain_blanc_cuisson_cocotte_fonte_0024.jpg)[![](http://2.bp.blogspot.com/-BGCIdkrrKrQ/UI6PSCT7GbI/AAAAAAAAE7k/lVMZVaGbGMA/s400/20121029_pain_blanc_cuisson_cocotte_fonte_0035.jpg)](http://2.bp.blogspot.com/-BGCIdkrrKrQ/UI6PSCT7GbI/AAAAAAAAE7k/lVMZVaGbGMA/s1600/20121029_pain_blanc_cuisson_cocotte_fonte_0035.jpg)
-
-
 
 Pour 1 pain
 
@@ -40,8 +39,6 @@ Pour 1 pain
 5- Pendant ce temps, versez votre pâte à pain sur un plan de travail bien (très bien même) fariné. Formez une boule (attention la pâte colle un peu beaucoup)  
 6- Lorsque votre four est bien chaud, sortez la cocotte et disposez votre pâte à pain à l’intérieur (nul besoin de gras ou autre) et refermez là. Mettez le tout à cuire pendant 50 min (lors des 20 dernières minutes, retirez le couvercle de la cocotte)  
 7- Une fois votre pain cuit et bien coloré, sortez le de la cocotte et disposez le sur une grille afin qu’il reste croustillant.
-
-
 
 Lorsque votre pain est refroidit, dégustez le avec de la confiture, du caramel beurre salé, de la pâte à tartiner … ou vous pouvez tout simplement vous faire un bon sandwich ! Alors qu’en pensez vous ? Séduit(e)s ? Moi en tout cas je le suis ! N’oubliez pas de réfléchir à votre prochaine recette de cupcakes ! Parce que oui, j’aimerai beaucoup que vous participiez à [mon concours](http://www.crokmou.com/2012/10/concours-recette-cupcake-partenaire-petitplat.fr.html) en partenariat avec PetitPlat.fr (j’aime être tentée par vos gateaux gourmands) !
 

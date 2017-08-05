@@ -2,7 +2,7 @@
 type: post
 title: Pâtes, courgettes, jambon et crème poivrée
 date: 2012-05-20T17:52:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605574/20120512_pates_fraiches_courgettes_jambon_sauce_boursin_poivre_35-71x110_jh0dh6.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943795/20120512_pates_fraiches_courgettes_jambon_sauce_boursin_poivre_35.jpg
 categories: 
   - Plats
 tags: 
@@ -19,6 +19,7 @@ tags:
   - plat
   - poivre
 disqusId: 3637272944
+slug: pates-courgettes-jambon-et-creme-poivree
 ---
 
   Bonjour les gourmands ! En ce délicieux (et pluvieux) Dimanche, il fait chaud, mais pas spécialement beau, néanmoins en ce moment j’ai envie de petites choses « légères » à manger. N’ayant que peu d’idées ces derniers temps pour la cuisine (entre les révisions, les photos à trier, à retoucher et tout le reste), je fouine donc dans mon petit livre [Weight Watchers](http://www.marabout.com/livre-mon-cours-de-cuisine-weight-watchers-collectif-366060.html) et je trouve une recette de pâtes aux courgettes : visuellement ça à l’air drôlement bon ! Ni une ni deux, je me lance dans la réalisation du plat néanmoins je me suis donc dit qu’il était peut être temps de tester les pâtes fraiches maison (bien que je n’ai aucun appareil pour mais c’est pas ça qui va me démotiver dans ma démarche héhé). Cette fois-ci j’ouvre donc mon livre [Cuisiner les pastas en 3 étapes](http://www.marabout.com/livre-cuisiner-les-pasta-en-3-atapes-collectif-380971.html) (aux Editions Marabout) pour étudier la recette des « tagliatelles ». 
@@ -26,8 +27,6 @@ disqusId: 3637272944
 Rien de bien compliqué, alors je me lance ! Hormis le fait que je n’ai pas de machine et que j’ai donc tout fait à la main, même la découpe (je vous raconte pas la tonne de farine et le brin qu’il y avait sur la table), les pâtes sont vraiment très bonnes (bien qu’un peu épaisses mais c’est de ma faute !). Rien à voir avec le goût des pâtes en supermarchés ! Si vous n’avez pas encore testé, rassurez vous c’est très simple (faut juste avoir un trèèèès bon rouleau pour étaler la chose assez finement, et encore ca ne fera jamais le travail des machines à pâtes !)
 
 Préparez donc votre [planche à découper](http://www.blogger.com/%22http://www.rueducommerce.fr/m/pl/malid:4820408%20%22), votre [tablier](http://www.rueducommerce.fr/m/pl/malid:261), un bon couteau et un bon rouleau et votre [casserole](http://www.rueducommerce.fr/m/pl/malid:115) (et si vous ne désirez pas cuire vos courgettes à l’eau, cuisez les à la [poêle](http://www.rueducommerce.fr/m/pl/malid:4769951) avec un filet d’huile d’olive !) Vous verrez c’est un petit plat assez « frais », sans trop de calories et délicieux !
-
-
 
 Pour 2 personnes
 
@@ -46,8 +45,6 @@ Pour 2 personnes
 3- Farinez votre plan de travail. Coupez votre boule en deux et étalez chaque boule très finement.  
 4- Une fois vos pâtes très fines, découpez des lanières à l’aide d’un couteau (si possible en essayant de faire des trucs régulier)  
 5- Disposez vos pâtes sur un manche à balais (bien propre) suspendu entre deux chaises, afin de laisser sécher vos pâtes (Comptez 3 ou 4h, voir plus selon les endroits)
-
-
 
 **Pour la suite de la recette :** 1- Lavez, épluchez et découpez votre courgette en petits dés. 2- Faites chauffer une casserole d’eau bouillante avec votre bouillon de poulet 3- Une fois que l’eau bout, ajoutez les pâtes pendant une dizaine de minutes,et quand vous arriverez à 5 minutes de cuisson, ajoutez vos courgettes 4- Pendent ce temps, découpez votre tranche de jambon en petits morceaux 5- Une fois les pâtes et les courgettes cuites, égouttez les, mais surtout n’éteignez pas votre plaque sur laquelle est toujours votre casserole 6- Dans la casserole faites chauffer quelques minutes la crème avec un peu de poivre et le jambon. 7- Pour finir, mélangez tous vos ingrédients et servez dans de belles [assiettes](http://www.rueducommerce.fr/m/pl/malid:4769879) (avec pourquoi pas un peu de gruyère) !
 

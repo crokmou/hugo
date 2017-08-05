@@ -2,7 +2,7 @@
 type: post
 title: Minis charlottes framboises
 date: 2013-07-01T19:49:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605579/20130701_mini_charlotte_framboise_agar_agar_0006-73x110_mta3gn.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943840/20130701_mini_charlotte_framboise_agar_agar_0006.jpg
 categories: 
   - Desserts
 tags: 
@@ -18,6 +18,7 @@ ingredient_textarea: |
   - |
   > * 20cl de crème fraiche entière> * 200g de coulis de framboises> * 1g d'agar-agar> * 45 biscuits à la cuillère
 disqusId: 3587683887
+slug: minis-charlottes-framboises
 ---
 
 Demain je vais encore grandir, j’attaque ma 22ème année ! En théorie on fête sur un blog, l’anniversaire de celui-ci… moi j’ai simplement envie de vous faire partager mon gâteau d’anniversaire à moi (oui petite crise d’égocentrisme, ça arrive =D)!
@@ -31,7 +32,5 @@ Recette des mini charlottes à la framboise 1\. La veille de la préparation, pl
 N’oubliez pas, lorsque nous arriverons à 1000fans sur la [page Facebook](https://www.facebook.com/pages/CroKMou/148093255259077), je lance un **concours pour gagner une box** remplie de spécialités Belges ! N’hésitez donc pas à faire connaitre [Crokmou et sa page facebook](https://www.facebook.com/pages/CroKMou/148093255259077) !
 
 [**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
-
- 
 
  

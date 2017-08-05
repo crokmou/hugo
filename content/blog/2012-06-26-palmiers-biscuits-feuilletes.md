@@ -2,7 +2,7 @@
 type: post
 title: Palmiers (biscuits feuilletés)
 date: 2012-06-26T07:55:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605574/20120621_biscuit_feuillet--_palmier_0003-73x110_od0acv.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943807/20120621_biscuit_feuillet--_palmier_0003.jpg
 categories: 
   - Desserts
 tags: 
@@ -11,13 +11,12 @@ tags:
   - home made
   - mignardise
 disqusId: 3599444768
+slug: palmiers-biscuits-feuilletes
 ---
 
 A Bruxelles le soleil pointe doucement son nez, alors dépêchons nous : sortons les palmiers ! Les **palmiers ou palmito** vous connaissez ? Non ? Bon et bien ce sont de délicieux biscuits à base de pâte feuilletée et ici un peu de sucre. C’est juste très bon ! Ces petits biscuits me rappellent beaucoup les vacances car c’est ce que ma mère nous prenait à ma soeur et moi lorsque nous allions passer 10h en voiture ou encore quand nous allions passer la journée sur la plage. C’est **léger, sucré juste comme il faut** ! La seule différence ici avec mes vacances d’antan (oui je suis vieille maintenant, dans quelques jours paff un an de plus !), c’est que ces petits palmiers sont faits maison, oui, oui, vous avez bien entendu du **Home-made** !
 
 Et bien sachez que c’est super méga simple et rapide à réaliser (si comme moi vous achetez la pâte feuilletée), en revanche si l’envie vous dit de tout faire de A à Z je vous propose la [recette de pâte feuilletée de Chef Nini](http://www.chefnini.com/pate-feuilletee/) ! Et en ce qui concerne le reste de la recette je vous laisse libre choix des ingrédients. Personnellement j’y ai mi de la cassonade, mais vous pouvez badigeonnez votre pâte de pâte à tartiner, de confiture…
-
-
 
 Pour environ de 20 palmiers
 
@@ -30,8 +29,6 @@ Pour environ de 20 palmiers
 3- Mettez votre rouleau de pâte au congélateur durant 15 min et pendant ce temps faites préchauffer votre four à 180°  
 4- Sortez votre pâte du congélateur et coupez votre « boudin » tous les cm (sachant que le premier bout et le dernier ne ressemblent à rien, mais ca se mange). Disposez vos futur palmiers sur du papier sulfurisé beurré que vous aurez préalablement posé sur une plaque à [four](http://www.rueducommerce.fr/m/pl/malid:9404136).  
 5- Enfournez et laissez cuire environ 20 min en retournant vos palmiers à mi-cuisson. Sortez ensuite vos palmiers et laissez le refroidir avant de déguster !
-
-
 
 A servir avec un bon café fait à l’aide de votre [machine à expresso](http://www.rueducommerce.fr/m/pl/malid:9633595) ou votre [cafetière](http://www.rueducommerce.fr/m/pl/malid:110) ([Delonghi](http://www.rueducommerce.fr/m/pl/malid:12382300) par exemple) ou tout simplement d’un bon jus de fruit maison réalisé avec votre [presse agrumes](http://www.rueducommerce.fr/m/pl/malid:9633599) !
 

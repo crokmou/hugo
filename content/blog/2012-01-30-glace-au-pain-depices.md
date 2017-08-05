@@ -2,7 +2,7 @@
 type: post
 title: "Glace au pain d'épices"
 date: 2012-01-30T14:01:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605572/20120125_glace_pain_epice_1-73x110_xrloxo.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943810/20120125_glace_pain_epice_1.jpg
 categories: 
   - Desserts
 tags: 
@@ -12,11 +12,10 @@ tags:
   - miel
   - oeuf
 disqusId: 3636194889
+slug: glace-au-pain-depices
 ---
 
 Quoi de meilleur qu’une glace par un jour enneigé ?! Vous n’êtes pas convaincus ? Laissez moi vous dire que cette petite glace au pain d’épices vous réchauffera le coeur. Cette glace est crémeuse, onctueuse et pleine de saveurs ! J’ai vraiment retrouvé la texture et le petit goût de lait des glaces de mon enfance ! N’étant pas très douée questions proportions des ingrédients, j’ai donc utilisé la recette de [Chef Nini](http://www.chefnini.com/glace-au-pain-depices/), pour réaliser cette petite gourmandise ! Je n’ai malheureusement pas fait la recette avec mon pain d’épices maison (tout simplement parce qu’il n’y en avait plus !), mais rassurez vous, le pain d’épices vendu en commerce avec ses énormes morceaux de sucre fera tout aussi bien l’affaire ! Sortez de nouveau votre belle petite sorbetière ([Brandt](http://search.rueducommerce.fr/search?s=brandt+sorbetiere&a=)), votre fouet et vos casseroles, je vous donne la recette !
-
-
 
 Pour 1 litre de glace
 
@@ -32,8 +31,6 @@ Pour 1 litre de glace
 4- Remettez votre préparation dans la casserole et faites épaissir le tout comme une crème anglaise sur feu moyen (en ne cessant de remuer)  
 5- Laissez refroidir votre préparation au frigo pendant une nuit dans un tupperware bien fermé  
 6- Le lendemain, versez la préparation dans votre sorbetière, laissez prendre pendant environ 30min (assez rapide puisque le mélange est assez épais et la préparation bien froide). Lorsque votre glace est prête, laissez la reposer dans son tupperware pendant environ 2h au congélateur avant de servir.
-
-
 
 Astuce : Si vous laissez la glace plus longtemps au congélateur, veillez à la sortir 10min avant dégustation si vous voulez que celle-ci ne soit pas trop dure !
 

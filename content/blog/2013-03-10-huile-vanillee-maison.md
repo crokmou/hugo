@@ -2,7 +2,7 @@
 type: post
 title: Huile vanillée maison
 date: 2013-03-10T10:13:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605577/20130302_huile_olive_vanille_0020-73x110_xkdgr3.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943834/20130302_huile_olive_vanille_0020.jpg
 categories: 
   - 'Sauces - Confitures'
 tags: 
@@ -16,6 +16,7 @@ tags:
   - spice
   - vanilla
 disqusId: 3587683768
+slug: huile-vanillee-maison
 ---
 
 Me revoilà encore avec des recettes qui sentent l’été et les beaux jours ! Lorsque ma mère est rentrée de l’île Maurice il y a quelques semaines, je me suis rendue sur Lille pour faire un « coucou ». Comme vous l’avez certainement vu sur [la page Facebook](https://www.facebook.com/pages/CroKMou/148093255259077), ce jour là nous avons eu le droit a un [cari typiquement Mauricien](http://saveursmoriciennes.blogspot.fr/2007/05/cari-poulet-et-crevettes.html), c’était terriblement bon d’ailleurs. En discutant un peu avec ma maman, celle-ci m’a donné l’idée de cette recette : de l’**huile à la vanille**. Rien de bien compliqué en soit me direz vous, mais il fallait y penser.
@@ -28,15 +29,9 @@ Pour réaliser cette recette vous aurez besoin d’une [casserole](http://www.ru
 
 _Here I am again still with recipes who smell the summer and the beautiful days! When my mother came back of Mauritius there is a few weeks, I went on Lille to say « hello ». __As you certainly saw it on [the Facebook page](https://www.facebook.com/pages/CroKMou/148093255259077), this day there we had the right has a dish typically Mauritian : a cari, who was terribly good. By discussing little with my mom, this one gave me the idea of these recipe: vanilla oil. Nothing complicated, but it was necessary to think of it._
 
-
-
 _The vanilla oil is to be made now, because more the vanilla macerate in the oil at best it is! Use this oil to perfume vegetables, fruits, fishes or carpaccio (some drops are enough)… I am certain that with a little of imagination there are heaps of recipes to make: macaroons, sherbets, gateaux and many other things ! Not very follower of the vanilla? Replace by some hot pepper, basil, lemon, fruits… You have the embarra of the choice, and according to your desires !_
 
-
-
 _To realize these recipe you will need a pan (to sterilize your bottles). Also take out of your accessories of cooking a funnel it it is always useful, but also, and that is the most important: a quality vanilla pod that you will have taken out of your jars to spices!_
-
-
 
 Pour 1 bouteille de 25cl
 
@@ -48,10 +43,6 @@ Pour 1 bouteille de 25cl
 2- Versez l’huile d’olive dans votre bouteille.  
 3- Ajoutez ensuite les grains de vanille et la gousse.  
 4- Refermez bien le tout et laissez macérer au moins 1 mois dans un endroit sombre et frais.
-
-
-
-
 
 _ _
 

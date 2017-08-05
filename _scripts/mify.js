@@ -1,3 +1,6 @@
+/**
+ * eg: node ./_scripts/mify.js ./_scripts/export_folder
+ */
 (function markdonify(){
   'use strict';
 
@@ -10,6 +13,7 @@
 
   const divRegex = /(<div[\s\S]*?>)([\s\S]*?)(<\/div>)/g;
   const spanRegex = /(<span[\s\S]*?>)([\s\S]*?)(<\/span>)/g;
+  const lineBreaksRegex = /\n\s*\n\s*\n/g;
 
   fs.stat(inputFile, function (err, stat) {
     //console.log('Is directory, walking all files');
@@ -43,28 +47,57 @@
       var regexIngredient_temps    = /---[\s\S]{1,}wpcf-ingredient_temps: {0,}(\n( {2,}.*\n){1,})[\s\S]{1,}---/g.exec(data);
       var regexIngredient_textarea = /---[\s\S]{1,}wpcf-ingredient-textarea: {0,}(\n( {2,}.*\n){1,})[\s\S]{1,}---/g.exec(data);
       var regexDisqusId            = /---[\s\S]{1,}dsq_thread_id:\n {0,}- "(.{0,})"\n{0,}[\s\S]{1,}---/g.exec(data);
+      var regexPermalink           = /---[\s\S]{1,}permalink: {0,}(.{1,})\n[\s\S]{1,}---/g.exec(data);
 
-      var frontMatter = {
-        type               : regexLayout && regexLayout[1],
-        title              : regexTitle && regexTitle[1],
-        date               : regexDate && regexDate[1],
-        thumbnail          : regexThumbnail && regexThumbnail[1],
-        categories         : regexCategories && regexCategories[1],
-        tags               : regexTags && regexTags[1],
-        ingredient_qty     : regexIngredient_qty && regexIngredient_qty[1],
-        ingredient_temps   : regexIngredient_temps && regexIngredient_temps[1],
-        ingredient_textarea: regexIngredient_textarea &&
-        regexIngredient_textarea[1],
-        disqusId           : regexDisqusId && regexDisqusId[1],
+      const permalink = (regexPermalink && regexPermalink[1]);
+      const slug = permalink.split('/')[permalink.split('/').length-1];
+      const fileName = (regexDate && regexDate[1]).split('T')[0] + '-' + slug + '.md';
+
+      const title = regexTitle && regexTitle[1];
+
+      const frontMatter = {
+        type               : replaceWeirdos(regexLayout && regexLayout[1]),
+        title              : replaceWeirdos(title).replace(/'(.*\'.*?)'/g, '"$1"'),
+        date               : replaceWeirdos(regexDate && regexDate[1]),
+        thumbnail          : replaceWeirdos(regexThumbnail && regexThumbnail[1]),
+        categories         : replaceWeirdos(regexCategories && regexCategories[1]),
+        tags               : replaceWeirdos(regexTags && regexTags[1]),
+        ingredient_qty     : replaceWeirdos(regexIngredient_qty && regexIngredient_qty[1]),
+        ingredient_temps   : replaceWeirdos(regexIngredient_temps && regexIngredient_temps[1]),
+        ingredient_textarea: replaceWeirdos(regexIngredient_textarea &&
+        regexIngredient_textarea[1]),
+        disqusId           : replaceWeirdos(regexDisqusId && regexDisqusId[1] + '\n'),
+        slug: replaceWeirdos(slug),
       };
 
       var newFrontMatter = frontMatterStr(frontMatter);
-      var html = toMarkdown(/(---)[\s\S]*?(---\n)([\s\S]{0,})/g.exec(data)[3]).replace(divRegex, '$2').replace(divRegex, '$2').replace(spanRegex, '$2').replace(spanRegex, '$2');
+      var html = replaceWeirdos(toMarkdown(/(---)[\s\S]*?(---\n)([\s\S]{0,})/g
+      .exec(data)[3])
+      .replace(divRegex, '$2')
+      .replace(divRegex, '$2')
+      .replace(spanRegex, '$2')
+      .replace(spanRegex, '$2')
+      .replace(lineBreaksRegex, '\n\n'));
 
       if (fs.existsSync(outputDir) || fs.mkdirSync(outputDir)) {
-        fs.writeFileSync(path.join(outputDir, (filename.replace('.html', '.md'))), (newFrontMatter + '' + html));
+        fs.writeFileSync(path.join(outputDir, fileName), (newFrontMatter + '' + html));
       }
     });
+  }
+
+  function replaceWeirdos(str) {
+    return str && str.replace(/&#8211;/g, '–')
+    .replace(/&#038;/g, '&')
+    .replace(/&#8230;/g, '…')
+    .replace(/â/g, 'â')
+    .replace(/ê/g, 'ê')
+    .replace(/î/g, 'î')
+    .replace(/ô/g, 'ô')
+    .replace(/û/g, 'û')
+    .replace(/à/g, 'à')
+    .replace(/é/g, 'é')
+    .replace(/è/g, 'è')
+    .replace(/&rsquo;/g, '\'')
   }
 
   function frontMatterStr(obj) {

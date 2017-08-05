@@ -2,7 +2,7 @@
 type: post
 title: Popsicles au yaourt, fraise et basilic
 date: 2015-07-21T18:08:10+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605833/glace-popsicle-fraise-basilic-yaourt-73x110_umdfkv.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943905/glace-popsicle-fraise-basilic-yaourt.jpg
 categories: 
   - Desserts
 tags: 
@@ -16,6 +16,7 @@ ingredient_textarea: |
   - |
   > * yaourt à la grecque> * fraises mûres> * quelques feuilles de basilic> * sucre (facultatif)
 disqusId: 3956753485
+slug: popsicles-yaourt-fraise-basilic
 ---
 
 Les vacances, qu’est ce que cela fait du bien ! Les miennes viennent malheureusement de se terminer, il me faudra encore un peu de temps pour revoir la mer méditerranée et entendre les cigales. Néanmoins je n’ai pas dit que les vacances s’arrêtaient pour de bon, je prolonge mon séjour avec ces délicieux popsicles au yaourt, fraise et basilic. C’est un jeu d’enfant à réaliser, d’ailleurs cela me rappelle vaguement les petits suisses aux fruits dans lesquels on plantait un bâton de bois puis on mettait le tout au congélateur pour faire des glaces. J’adorais ça quand j’étais gamine ! (Me dit pas que tu ne l’as jamais fait je ne vais pas te croire !) Autant l’avouer, de retour chez moi j’ai plus l’envie de me morfondre devant un film que de m’amuser à pâtisser (la déprime du retour -bonjour), de ce fait ce petit dessert est un bon compromis entre ma flemme et mon « bouge toi le cul » !    

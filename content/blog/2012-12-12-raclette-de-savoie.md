@@ -2,7 +2,7 @@
 type: post
 title: Raclette de Savoie
 date: 2012-12-12T09:42:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605576/20121201_raclette-savoie_MVI_4564-160x90_xdxgdv.gif
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943837/20121201_raclette-savoie_MVI_4564.gif
 categories: 
   - Plats
 tags: 
@@ -14,6 +14,7 @@ tags:
   - plat
   - pomme de terre
 disqusId: 3592088536
+slug: raclette-de-savoie
 ---
 
 En y réfléchissant bien, je crois que **la raclette** fait partie de mes plats favoris ! Pour tout vous dire, au cas ou certains d’entre vous ne l’aurez pas encore compris : j’aime énormément, à la folie… le fromage ! La raclette, c’est que du bonheur : du fromage fondu, des pommes de terre, de la charcuterie, des cornichons… en gros un mélange de tout ce qui est interdit pour pas prendre de kilos, mais moi je m’en fou, je continuerai a en manger nah ! Ce type de plat est pour moi très convivial, c’est ce qui en fait tout son charme ! Par un temps froid, on se réchauffe tous autour d’un bon repas, on discute, on rigole, on mange : pas besoin de cuisiner pendant des heures pour satisfaire la plupart des convives !

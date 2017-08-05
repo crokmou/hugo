@@ -2,7 +2,7 @@
 type: post
 title: "Crepes au lait d'amande"
 date: 2012-10-01T13:59:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605759/crepe_lait_amande_vanille-73x110_yfuoay.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943885/crepe_lait_amande_vanille.jpg
 categories: 
   - Desserts
 tags: 
@@ -14,6 +14,7 @@ tags:
   - lait amande
   - lait vegetal
 disqusId: 3587683210
+slug: crepes-au-lait-damande
 ---
 
 Je sais pas vous les gourmands, mais moi j’adore les crêpes ! Salées, sucrées, crêpes bretonnes,  au fromage, au jambon… crêpes au rhum, crêpes au sucre, à la cassonade, au miel etc etc Ce qui est magique avec les crêpes c’est qu’on peut mettre tout ce que qu’on veut dedans et comme ça pas de mécontents ! Pour cette fois, j’ai décidé de faire des crêpes avec du lait d’amande, pour la simple et bonne raison que j’en avais dans le frigo ([voir mon test produit sur l’article en question](http://www.crokmou.com/2012/09/lait-damande-alpro-vendrediiii-test.html)).
@@ -21,8 +22,6 @@ Je sais pas vous les gourmands, mais moi j’adore les crêpes ! Salées, sucré
 Pour ma part je n’ai pas vu de grandes différences avec les autres crêpes, si ce n’est peut être la texture et le léger goût d’amande. J’ai trouvé ma petite recette sur le blog de [Loloche et ses gourmandises](http://loloche-et-ses-gourmandises.over-blog.com/article-crepes-au-lait-d-amandes-100131844-comments.html#anchorComment), une recette simple, savoureuse, qui donne de jolies crêpes légères !
 
 Pour la réalisation de cette recette, rien de plus simple et de plus rapide. Munissez vous de votre [balance de cuisine](http://www.rueducommerce.fr/m/pl/malid:9633601), d’un grand [bol](http://www.rueducommerce.fr/m/pl/malid:4769881) ou d’un [saladier](http://www.rueducommerce.fr/m/pl/malid:4769897), de votre [matériel à pâtisserie](http://www.rueducommerce.fr/m/pl/malid:12468605) et d’[une poêle](http://www.rueducommerce.fr/m/pl/malid:4769951) !
-
-
 
 Pour environ 30 crêpes  
 (environ 20cm de diamètre)
@@ -34,8 +33,6 @@ Pour environ 30 crêpes
 – 600ml de lait d’amande  
 – 1 pincée de sel  
 – beurre
-
-
 
 <div style="text-align: justify;">1- Dans un saladier, versez la farine, les sucres et le sel. Creusez un puit au centre et ajoutez y les oeufs.
 
@@ -49,11 +46,9 @@ Pour environ 30 crêpes
 
 6- Dégustez vos crêpes encore chaudes (ici avec des mirabelles et du chocolat) !
 
-
-
 </div>
 
-[![](http://2.bp.blogspot.com/-njW3yfsXLmU/UGCiIozV0fI/AAAAAAAAElU/_mP5gioynTI/s640/crepe_lait_amande_crokmou.gif)](http://2.bp.blogspot.com/-njW3yfsXLmU/UGCiIozV0fI/AAAAAAAAElU/_mP5gioynTI/s1600/crepe_lait_amande_crokmou.gif)
+[![](https://res.cloudinary.com/crokmou/image/upload/v1501943943/le_secret_du_poids_florence_delorme_gif_crokmou.gif)](https://res.cloudinary.com/crokmou/image/upload/v1501943943/le_secret_du_poids_florence_delorme_gif_crokmou.gif)
 
 **Délicieux n’est ce pas ? Et vous les soirées crêpes, cela vous arrive souvent ? Avec quoi les dégustez vous ?**
 

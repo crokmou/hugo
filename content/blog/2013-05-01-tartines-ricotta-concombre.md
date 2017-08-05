@@ -2,7 +2,7 @@
 type: post
 title: Tartines ricotta, concombre
 date: 2013-05-01T12:35:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501605577/20130429_tartine_ricotta_radis_concombre_ciboulette_0020-73x110_nv09tb.jpg
+thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943837/20130429_tartine_ricotta_radis_concombre_ciboulette_0020.jpg
 categories: 
   - Plats
 tags: 
@@ -24,6 +24,7 @@ tags:
   - radish
   - ricotta
 disqusId: 3587683614
+slug: tartines-ricotta-concombre
 ---
 
 Me revoili avec une recette salée, oui oui je tiens compte de votre demande ! Je suis d’accord ce type de tartines, c’est pas vraiment la recette du siècle maiiiiiiis c’est tellement rapide et tellement bon que cela mérite de se retrouver ici ! Voici donc mes **tartines printanières à la ricotta/ciboulette/citron, radis et concombre**. J’aime beaucoup ce genre de tartines, on mets ce que l’on veut dessus, c’est simple, convivial, gourmand, pour ma part c’est un vrai bonheur ! Le seul petit hic pour cette fois, c’est le pain. Je ne trouve pas de pain bien croustillant, avec une croûte énorme et savoureuse comme on vendait il y a encore quelques années (je n’ai pas fait le tour de toutes les boulangeries de Bruxelles non plus). Je pourrais bien entendu le faire mais je sais pas, ça n’a pas le même goût et de plus ça prend du temps ^^ »
@@ -32,19 +33,11 @@ Malgré tout les saveurs était là et ces petites tartines dégustées sous le 
 
 _I come back with a salty recipe, yes yes I take into account your request ! I agree, this type of tartines it’s not really the recipe of the century but it’s so fast and so good that it deserves to find itself here ! Here are thus my **spring tartines with  ricotta/chive/lemon,  radish and cucumber**. I like very much this kind of sandwiches, you put what you want above, it is simple, friendly, greedy, for my part it is a real happiness! The only small snag this time, it is the bread. I do not find very crunchy bread, with a crust enormous and delicious as  sold there is a few years (I did not make all the bakeries of Brussels). I could naturally make it but that has no same taste and furthermore that takes time ^^ « _
 
-
-
 _Nevertheless the taste was there and these small sandwiches savouring under the sun it is the best!_
-
-
-
-
 
 Sortez donc un bon couteau pour le pain, un [cul de poule](http://www.rueducommerce.fr/index/casserole%20fonte) ou un bol avec une [cuillère](http://www.rueducommerce.fr/index/cuillere%20a%20soupe) pour mélanger, une [mandoline](http://www.rueducommerce.fr/m/pl/malid:3665541,5325288) et votre [bento box](http://www.rueducommerce.fr/m/pl/malid:48515382) (ou [boite hermétique](http://www.rueducommerce.fr/index/boite%20hermetique)) pour transporter le tout au boulot !
 
 _Thus take a good knife for the bread, a mixing bowl or a bowl with a spoon to mix and your bento box (or hermetic box) to transport the whole at work !_
-
-
 
 Pour 1 personne
 
@@ -55,8 +48,6 @@ Pour 1 personne
 – concombre  
 – radis  
 -sel & poivre
-
-
 
 **○○○**
 
