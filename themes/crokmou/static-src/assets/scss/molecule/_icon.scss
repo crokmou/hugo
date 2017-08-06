@@ -1,0 +1,21 @@
+.s-icon {
+  $icon-palette: (
+    white: $white
+  );
+  width: 1em; height: 1em; max-width: 100%;
+  fill: currentColor;
+  @each $name, $color in $icon-palette {
+    &--fill { &--#{"" + $name} { fill: $color} }
+    &--color { &--#{"" + $name} { color: $color} }
+  }
+  &--size {
+    &--smallest { width: 0.7em; height: 0.7em; }
+    &--smaller { width: 1.2em; height: 1.2em; }
+    @for $i from 0 through 20 {
+      &--#{$i + 10} { width: #{($i + 10) / 16}rem; height: #{($i + 10) / 16}rem; }
+    }
+  }
+  &--90deg { transform: rotate(90deg); }
+  &--180deg { transform: rotate(180deg); }
+  &--270deg { transform: rotate(270deg); }
+}

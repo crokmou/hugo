@@ -7,7 +7,6 @@
 .tmp
 .sass-cache
 bower_components
-assets/
 
 #Dependencies
 node_modules

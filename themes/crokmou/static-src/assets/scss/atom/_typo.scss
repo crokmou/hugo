@@ -1,0 +1,28 @@
+.title {
+  position: relative;
+  display: inline-block;
+  margin-top: -.5em;
+/*  &:before {
+    position: absolute; top: 50%; left: 50%; z-index: 0;
+    transform: translate(-50%, -50%);
+    content: attr(title); color: red; font-weight: 700;
+  }*/
+}
+
+a {
+  color: $brand-secondary; text-decoration: none;
+  &:hover, &:focus { h5 { text-decoration: underline; } }
+}
+h1 { font-size: 1.4em; }
+h2 { font-size: 1.3em; }
+h3 { font-size: 1.2em; }
+h4 { font-size: 1.1em; }
+h5 { font-size: 1em; }
+h6 { font-size: .9em; }
+
+h1,
+h5 { text-transform: uppercase; }
+
+p {
+  color: $gray-45; line-height: 1.4em;
+}
