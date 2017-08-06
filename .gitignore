@@ -14,7 +14,7 @@ node_modules
 
 nohup.out
 
-.publish/
-_site/
+public/
+themes/crokmou/static/
 
 _scripts/list_of_pictures_cloudinary.json

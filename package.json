@@ -17,10 +17,13 @@
     "sass:build": "node-sass --output-style compressed './themes/crokmou/static-src/scss/style.scss' -o ./themes/crokmou/static/",
     "postcsass:build": "postcss --use autoprefixer -b 'last 2 versions' ./themes/crokmou/static/style.css",
     "img:build": "cp -R ./themes/crokmou/static-src/images ./themes/crokmou/static/images",
-    "build:assets": "npm run clean && npm run sass:build && npm run babel:build && npm run img:build",
+    "statics:build": "cp ./{robots.txt, CNAME} ./themes/crokmou/static/",
+    "build:assets": "npm run clean && npm run sass:build && npm run babel:build && npm run img:build && npm run statics:build",
     "build": "npm run build:assets",
     "postbuild": "npm run jsVendor && hugo",
-    "serve": "npm run build:assets && npm run jsVendor && parallelshell 'npm run sass:watch' 'npm run babel:watch' 'hugo serve'"
+    "serve": "npm run build:assets && npm run jsVendor && parallelshell 'npm run sass:watch' 'npm run babel:watch' 'hugo serve'",
+    "predeploy": "npm run clean && npm run build",
+    "deploy": "gh-pages -d public"
   },
   "eslintConfig": {
     "extends": [
@@ -69,6 +72,7 @@
     "babel-eslint": "^7.2.3",
     "eslint": "^4.1.1",
     "eslint-config-google": "^0.8.0 ",
+    "gh-pages": "^1.0.0",
     "image-size": "^0.6.1",
     "node-sass": "^4.5.3",
     "onchange": "^3.2.1",
