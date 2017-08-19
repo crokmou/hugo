@@ -22,8 +22,9 @@
     "build": "npm run build:assets",
     "postbuild": "npm run jsVendor && hugo",
     "serve": "npm run build:assets && npm run jsVendor && parallelshell 'npm run sass:watch' 'npm run babel:watch' 'hugo serve'",
-    "predeploy": "npm run clean && npm run build",
-    "deploy": "git commit -am 'Auto commit' && git push && gh-pages -d public"
+    "commit": "git commit -am 'Auto commit' && git push",
+    "predeploy": "npm run commit && npm run clean && npm run build",
+    "deploy": "gh-pages -d public"
   },
   "eslintConfig": {
     "extends": [

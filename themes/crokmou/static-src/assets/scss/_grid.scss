@@ -1,5 +1,5 @@
 $fbgs-grid-number: 12 !default;
-$fbgs-gutter-width: 1.4rem !default;
+$fbgs-gutter-width: 20px !default;
 $fbgs-gutter-compensation: #{$fbgs-gutter-width * -0.5} !default;
 $fbgs-breakpoints: (
   '-sm': '(min-width: 560px)',

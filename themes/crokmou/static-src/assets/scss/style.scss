@@ -8,14 +8,15 @@
   margin: 0; padding: 0;
   border-radius: inherit;
   color: inherit;
-  &:not(script) + *:not(body):not(.flex-*) { margin-top: $global-margin; }
+  &:not(script) + *:not(body):not(.flex-*) { margin-top: $global-spacing; }
   &:focus {
     outline: 1px dashed $brand-primary-darker;
     background-color: lighten($brand-primary-darker, 50%);
   }
+  + * { margin-top: $global-spacing; }
 }
 svg, svg * { box-sizing: content-box; }
-
+img { max-width: 100%; }
 body, html { height: 100%; }
 html { font-size: 62.5%; }
 body {
@@ -48,6 +49,9 @@ body {
 @import "organism/header";
 @import "organism/footer";
 @import "organism/sidebar";
+
+// Shortcodes
+@import "shortcodes/grid";
 
 // Pages
 @import "pages/page";

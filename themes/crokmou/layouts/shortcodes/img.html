@@ -1,0 +1,3 @@
+<img src='{{if .Get "cloudinary"}}https://res.cloudinary.com/crokmou/image/upload/{{.Get "cloudinary"}}{{else}}{{.Get "src"}}{{end}}'
+     class='{{if .Get "cover"}}grid__cover{{end}}{{with .Get "col"}} grid__col-{{.}}{{end}}'
+     alt='{{.Get "alt"}}'>

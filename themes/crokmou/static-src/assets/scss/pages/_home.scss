@@ -1,0 +1,10 @@
+.home {
+  @include respond-to(medium) {
+    &__content .card {
+      margin: 0;
+      &:nth-child(n+3) {
+        margin-top: $global-spacing;
+      }
+    }
+  }
+}

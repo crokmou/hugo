@@ -1,5 +1,5 @@
 .header {
-  padding: $global-padding;
+  padding: $global-spacing;
   border-bottom: 8px solid $brand-primary;
   &__logo {
     display: inline-block;
@@ -9,13 +9,14 @@
   }
   &__ss {
     &__search {
-      margin-right: $global-margin;
+      margin-right: $global-spacing;
+      a { display: block; }
       input { width: 100%; }
     }
     &__social {
       margin-top: 0;
       a {
-        display: inline-block;
+        display: block;
         margin: 0 5px;
         color: $brand-primary-dark; font-size: rem(60); line-height: 0;
         &:hover { color: $brand-primary-darker; }
@@ -24,7 +25,7 @@
     }
   }
   &__nav {
-    margin-top: $global-margin; max-width: 100%; overflow: auto;
+    margin-top: $global-spacing; max-width: 100%; overflow: auto;
     text-transform: uppercase; color: $gray-15; font-family: $oswald;
     a { color: inherit; text-decoration: none; }
     li {
@@ -38,7 +39,7 @@
     }
   }
   @include respond-to(medium) {
-    padding: $global-padding * 2;
-    &__ss-nav { margin-left: $global-margin; }
+    padding: $global-spacing * 2;
+    &__ss-nav { margin-left: $global-spacing; }
   }
 }

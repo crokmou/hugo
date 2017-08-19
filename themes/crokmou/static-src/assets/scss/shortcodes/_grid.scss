@@ -1,0 +1,38 @@
+.grid {
+  $grid-length: 12;
+    display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start;
+    margin-bottom: -1%;
+  > * {
+    flex: 1 0 10em;
+    min-width: 0; width: 100%; margin: 0;
+  }
+  @for $i from 1 through $grid-length {
+    &--col-#{$i} {
+      > * {
+        flex: 1 0 (100% / ($grid-length / $i));
+        max-width: ((100% / ($grid-length / $i)) - (($grid-length / (13 - $i)) * .5)); margin-bottom: 1%;
+      }
+    }
+  }
+  @supports (display: grid) {
+    display: grid; grid-gap: 0;
+    margin: 0;
+    @for $i from 1 through 4 {
+      &--gap-#{$i} { grid-gap: #{$i * 5}px; }
+    }
+    @for $i from 1 through $grid-length {
+      &--col-#{$i} {
+        grid-template-columns: repeat(#{$i}, 1fr);
+      }
+      @for $j from $i through $grid-length {
+        &__col-#{$i}-#{$j} { grid-column: #{$i} / #{$j}; }
+      }
+    }
+    &__cover {
+      @supports (object-fit: cover) { height: 100%; object-fit: cover; }
+    }
+    > * {
+      width: 100%; margin: 0; max-width: none;
+    }
+  }
+}

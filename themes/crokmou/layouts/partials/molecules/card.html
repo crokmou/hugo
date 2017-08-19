@@ -16,7 +16,8 @@
 
   <a class="card__thumbnail" href="{{$card.Permalink}}">
     {{$thumbnail := index $card.Params "thumbnail"}}
-    {{ partial "molecules/picture.html" (dict "src" $thumbnail "alt" $card.Title "pb" "60%") }}
+    {{$resizedThumbnail := replace $thumbnail "/upload/" "/upload/c_fill,h_460,w_768/" }}
+    {{ partial "molecules/picture.html" (dict "src" $resizedThumbnail "alt" $card.Title "pb" "59.9%") }}
   </a>
   <div class="card__content">
     {{ if $breadcrumb }}
