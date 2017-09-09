@@ -21,7 +21,7 @@
     "build": "npm run build:assets",
     "postbuild": "hugo",
     "serve": "npm run build:assets && parallelshell 'npm run sass:watch' 'npm run babel:watch' 'hugo serve'",
-    "commit": "git commit -am 'Auto commit' && git push",
+    "commit": "git add -A && git diff-index --quiet HEAD || git commit -m 'Auto commit' && git push",
     "predeploy": "npm run commit && npm run clean && npm run build",
     "deploy": "gh-pages -d public",
     "index": "hugo-algolia -i content/blog/**/* -o ./my-index.json -all"
