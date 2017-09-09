@@ -43,7 +43,7 @@ Pour 4 personnes
 – sel
 – 1 càc de piment fort (facultatif)
 
-1) Dans un [faitout](http://www.rueducommerce.fr/m/pl/malid:15123303) ou une [sauteuse](http://www.rueducommerce.fr/m/pl/malid:15123301), versez un filet d’huile d’olive. Ajoutez ensuite l’ail, le gingembre, le poivre vert préalablement écrasé à l’aide d’un [pilon et d’un mortier](http://www.rueducommerce.fr/m/pl/malid:43774615). Faites cuire 1 à 2 minutes environ.
+1) Dans un faitout ou une sauteuse, versez un filet d’huile d’olive. Ajoutez ensuite l’ail, le gingembre, le poivre vert préalablement écrasé à l’aide d’un pilon et d’un mortier. Faites cuire 1 à 2 minutes environ.
 
 2) Ajoutez ensuite votre porc haché en forme de boulette et faites revenir pendant 4/5 minutes. 4) Versez à présent le lait de coco, l’eau et la pâte de cacahuète et le jus de citron [Et le piment si vous souhaitez en mettre]. Remuez bien afin que la sauce soit homogène. Laissez mijoter à feu doux pendant 5/10 minutes. 5) Servir avec un petit bol de riz ! Je vous souhaite un bon week end les gourmands ! Des poutoux
 

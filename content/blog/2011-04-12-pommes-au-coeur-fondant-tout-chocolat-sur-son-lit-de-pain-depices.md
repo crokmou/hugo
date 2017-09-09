@@ -17,8 +17,6 @@ disqusId: 3587684879
 slug: pommes-au-coeur-fondant-tout-chocolat-sur-son-lit-de-pain-depices
 ---
 
-
-
 _Il y a des jours où des envies nous viennent, mes envies sont la plupart du temps dirigées vers le chocolat… Des pommes dans le frigo, c’est parti, des pommes au coeur fondant tout choco, parfait pour le goûter du chéri revenant du travail !_
 
 _![2pers](http://storage.canalblog.com/77/88/825568/62415804_p.jpeg)_

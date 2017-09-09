@@ -46,11 +46,11 @@ Pour 750ml
 
 **○○○**
 
-1- Dans une [casserole](http://www.rueducommerce.fr/m/pl/malid:115), faites bouillir l’eau avec le sucre et le sirop de glucose. Ajoutez ensuite le chocolat, la fève tonka préalablement râpée et la fleur de sel.
-2- Mixez à l’aide d’un pied [mixeur](http://www.rueducommerce.fr/m/pl/malid:1455381) et laissez la préparation « infuser » pendant 24h au [réfrigérateur](http://www.rueducommerce.fr/m/pl/malid:9633584).
-3- Mixez de nouveau et faites prendre votre sorbet en [sorbetière](http://www.rueducommerce.fr/m/pl/malid:9633614).
+1- Dans une casserole, faites bouillir l’eau avec le sucre et le sirop de glucose. Ajoutez ensuite le chocolat, la fève tonka préalablement râpée et la fleur de sel.
+2- Mixez à l’aide d’un pied mixeur et laissez la préparation « infuser » pendant 24h au réfrigérateur.
+3- Mixez de nouveau et faites prendre votre sorbet en sorbetière.
 
-Astuce : Avant dégustation, pensez à sortir votre sorbet du [congélateur](http://www.rueducommerce.fr/m/pl/malid:9633581) 10 minutes avant de servir.
+Astuce : Avant dégustation, pensez à sortir votre sorbet du congélateur 10 minutes avant de servir.
 
 En été j’aime les parfums frais et fruités des sorbets ou glaces mais j’aime aussi beaucoup le chocolat. Pas le chocolat trop sucré mais le chocolat noir pour de délicieux arômes en bouche.
 

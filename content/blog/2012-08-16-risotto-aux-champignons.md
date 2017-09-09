@@ -26,7 +26,7 @@ C’est grâce à mon petit cousin que je m’y suis mise, lors de mes vacances 
 
 Et là, voilà, je l’ai fait, et même si il n’était sûrement pas aussi réussi que dans les grands restaurant, j’ai trouvé ça délicieux ! (Vous avez vu a quel point un risotto me rend heureuse, imaginez donc le jour où je réussirai des macarons !)
 
-Pour la réalisation de ce plat, à l’aide de votre [balance de cuisine](http://www.rueducommerce.fr/m/pl/malid:9633601) ou votre [verre](http://www.rueducommerce.fr/m/pl/malid:4769908) doseur, pesez vos ingrédients. Pour la [cuisson](http://www.rueducommerce.fr/m/pl/malid:24), utilisez un [faitout](http://www.rueducommerce.fr/m/pl/malid:15123303) ou une [sauteuse](http://www.rueducommerce.fr/m/pl/malid:15123301) (c’est peut être mieux) et pour la dégustation servez dans de belles [assiettes](http://www.rueducommerce.fr/m/pl/malid:4769879) !
+Pour la réalisation de ce plat, à l’aide de votre balance de cuisine ou votre verre doseur, pesez vos ingrédients. Pour la cuisson, utilisez un faitout ou une sauteuse (c’est peut être mieux) et pour la dégustation servez dans de belles assiettes !
 
 Pour 2 personnes
 

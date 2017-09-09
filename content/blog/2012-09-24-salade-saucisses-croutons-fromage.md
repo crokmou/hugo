@@ -30,7 +30,7 @@ Heureusement pour moi, y’a de l’amélioration non ? 🙂
 
 Pour la petite histoire, je fais cette salade avec ma grand-mère paternelle depuis plus de 10 ans ! A nous deux on appelle ça une salade Vosgienne, même si en réalité cela n’en est pas une ! C’est une recette simple et très rapide, et si vous n’aimez pas les saucisses Knacki vous pouvez out aussi bien réaliser cette salade avec des lardons ! J’aime ce genre de salades « chaudes » parce qu’en soit je suis déjà pas fana de la salade (notamment de la laitue et autres qui lui ressemble), alors ça passe mieux ainsi !
 
-Vous aurez besoin d’une [poêle](http://www.rueducommerce.fr/m/pl/malid:4769951), d’une [planche à découper](http://www.rueducommerce.fr/m/pl/malid:4820408), d’un [couteau](http://www.rueducommerce.fr/m/pl/malid:12468606) et d’un [saladier](http://www.rueducommerce.fr/m/pl/malid:4769897) !
+Vous aurez besoin d’une poêle, d’une planche à découper, d’un couteau et d’un saladier !
 
 Pour 2 personnes
 
@@ -42,7 +42,7 @@ Pour 2 personnes
 – sel & poivre
 
 1- Découpez vos saucisses en petites rondelles et faites les revenir à la poêle
-2- Sortez vos mâche prête à l’emploi de votre [réfrigérateur](http://www.rueducommerce.fr/m/pl/malid:9633584) et placez là dans un saladier
+2- Sortez vos mâche prête à l’emploi de votre réfrigérateur et placez là dans un saladier
 3- Coupez votre fromage en dés et faites de votre pain grillé, des petits croûtons ! Versez le tout dans votre salade
 4- Une fois vos saucisses dorées, ajoutez la crème fraîche, salez, poivrez et remuez le tout pendant environ 3/4 minutes
 5- Ajoutez les saucisses à votre salade et mélangez le tout

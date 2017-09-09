@@ -9,8 +9,6 @@ disqusId: 4499177835
 slug: manhattans-burger-bruxelles
 ---
 
-
-
 **Manhattn’s Burgers Beurs**
 Rue Henri Maus, 39
 1000 Brussels

@@ -21,7 +21,7 @@ Je sais pas vous les gourmands, mais moi j’adore les crêpes ! Salées, sucré
 
 Pour ma part je n’ai pas vu de grandes différences avec les autres crêpes, si ce n’est peut être la texture et le léger goût d’amande. J’ai trouvé ma petite recette sur le blog de [Loloche et ses gourmandises](http://loloche-et-ses-gourmandises.over-blog.com/article-crepes-au-lait-d-amandes-100131844-comments.html#anchorComment), une recette simple, savoureuse, qui donne de jolies crêpes légères !
 
-Pour la réalisation de cette recette, rien de plus simple et de plus rapide. Munissez vous de votre [balance de cuisine](http://www.rueducommerce.fr/m/pl/malid:9633601), d’un grand [bol](http://www.rueducommerce.fr/m/pl/malid:4769881) ou d’un [saladier](http://www.rueducommerce.fr/m/pl/malid:4769897), de votre [matériel à pâtisserie](http://www.rueducommerce.fr/m/pl/malid:12468605) et d’[une poêle](http://www.rueducommerce.fr/m/pl/malid:4769951) !
+Pour la réalisation de cette recette, rien de plus simple et de plus rapide. Munissez vous de votre balance de cuisine, d’un grand bol ou d’un saladier, de votre matériel à pâtisserie et d’une poêle !
 
 Pour environ 30 crêpes
 (environ 20cm de diamètre)

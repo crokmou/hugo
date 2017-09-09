@@ -14,8 +14,6 @@ disqusId: 3598017621
 slug: madeleines-des-iles
 ---
 
-
-
 _Goûter du jour, bonjour ! Ne sachant pas trop quoi faire aujourd’hui, si ce n’est que je voulais cuisiner, je me mets donc à chercher dans les nombreux bouquins de desserts, que pouvais-je bien faire… Après mûre réfléction : des madeleines, beh oui bien sûr, un sacré temps que je n’en ai pas mangé et à la vanille cela sera terrible !_
 
 _Cela n’a pas loupé c’est très bon !_

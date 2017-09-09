@@ -10,7 +10,7 @@ slug: resultats-du-concours-des-regions
 
 Tout d’abord avant d’annoncer les gagnants je tiens à vous dire un grand merci et félicitations à tous ! Un grand merci parce que vous avez été très nombreux à participer avec plaisir, j’ai appris beaucoup de choses, découvert de bien belles recettes ! Vous y avez mi tout votre cœur et j’en suis vraiment ravie !
 
-Un tout grand merci aussi à mes partenaires : la [Maison Dandoy](http://www.maisondandoy.com/), la [Conserverie au Bec Fin](http://www.au-bec-fin.com/) ainsi que [Rue du commerce](http://www.rueducommerce.fr/), sans qui ce concours n’aurait pas été le même !
+Un tout grand merci aussi à mes partenaires : la [Maison Dandoy](http://www.maisondandoy.com/), la [Conserverie au Bec Fin](http://www.au-bec-fin.com/) ainsi que Rue du commerce, sans qui ce concours n’aurait pas été le même !
 
 Pour être la plus juste possible dans les résultats, j’ai invité plusieurs personnes à voter : Un jury extérieur que je vous ai déjà présenté
 
@@ -28,11 +28,11 @@ Mais aussi
 
 A la suite des résultats je noterai les choix (j’ai demandé à ce que chacun fasse un choix de 6 personnes au lieu de 5 au cas où il y a des exæquo (ce qui a été le cas pour les deux premiers) de chacun des juges.
 
-1) Le **grand gagnant** est donc *TADADAAAAAAM* : [**La tarte de Metz** par « CC-cuisine »](http://cc-cuisine.blogspot.fr/2013/10/tarte-de-metz-aux-raisins.html) avec un total de 8 votes (+ 1), qui remporte donc : Un set fondue pour vous réchauffer cet hiver offert par [Rue du Commerce](http://www.rueducommerce.fr/) d’une valeur d’environ 50€
+1) Le **grand gagnant** est donc *TADADAAAAAAM* : [**La tarte de Metz** par « CC-cuisine »](http://cc-cuisine.blogspot.fr/2013/10/tarte-de-metz-aux-raisins.html) avec un total de 8 votes (+ 1), qui remporte donc : Un set fondue pour vous réchauffer cet hiver offert par Rue du Commerce d’une valeur d’environ 50€
 
 [![](http://www.crokmou.com/wp-content/uploads/2013/11/tarte_raisins_01-199x3001-199x300.jpg)](http://www.crokmou.com/wp-content/uploads/2013/11/tarte_raisins_01-199x3001.jpg)
 
-2) Le deuxième gagnant ou plutôt **deuxième gagnante** avec un total de 8 votes n’est autre que **[Sihem du blog Miel et Epices avec sa recette de tortilla](http://www.mieletepices.blogspot.be/2013/10/tortilla-de-pommes-de-terre-aux-oignons.html#more)**. Elle remporte : Un appareil à crêpes et une boite Pause Gourmande Speculoos. Cadeaux offerts par [Rue du Commerce](http://www.rueducommerce.fr/) et la [Maison Dandoy](http://www.maisondandoy.com/) d’une valeur totale d’environ 40€.
+2) Le deuxième gagnant ou plutôt **deuxième gagnante** avec un total de 8 votes n’est autre que **[Sihem du blog Miel et Epices avec sa recette de tortilla](http://www.mieletepices.blogspot.be/2013/10/tortilla-de-pommes-de-terre-aux-oignons.html#more)**. Elle remporte : Un appareil à crêpes et une boite Pause Gourmande Speculoos. Cadeaux offerts par Rue du Commerce et la [Maison Dandoy](http://www.maisondandoy.com/) d’une valeur totale d’environ 40€.
 
 [![](http://www.crokmou.com/wp-content/uploads/2013/11/IMG_6920-195x3001-195x300.jpg)](http://www.crokmou.com/wp-content/uploads/2013/11/IMG_6920-195x3001.jpg)
 

@@ -38,9 +38,9 @@ Pour 8 éclairs
 – 100g de farine
 – 2 oeufs + 1 pour la dorure
 
-1) Préchauffez votre [four](http://www.rueducommerce.fr/m/pl/malid:9404136) à 150°C (four conventionnel pour moi)2) Dans une casserole, versez le lait, l’eau, le sel, le sucre et pour finir le beurre. Faites chauffer à feu doux jusqu’à ce que le beurre fonde et portez ensuite à ébullition pendant quelques secondes.
+1) Préchauffez votre four à 150°C (four conventionnel pour moi)2) Dans une casserole, versez le lait, l’eau, le sel, le sucre et pour finir le beurre. Faites chauffer à feu doux jusqu’à ce que le beurre fonde et portez ensuite à ébullition pendant quelques secondes.
 
-3) Hors du feu, versez la farine en une seule fois et mélangez rapidement le tout à l’aide d’une [spatule](http://www.rueducommerce.fr/m/pl/malid:48515367).
+3) Hors du feu, versez la farine en une seule fois et mélangez rapidement le tout à l’aide d’une spatule.
 
 4) Repositionnez la casserole sur le feu et desséchez la pâte : pour cela, mélangez activement jusqu’à ce que la pâte se décolle bien du bord. Laissez tiédir. Ajoutez ensuite les oeufs battus un par un en fouettant bien entre chaque oeuf. La pâte doit accrocher à la spatule et tomber très lentement.
 
@@ -59,7 +59,7 @@ Pour 8 éclairs
 
 1) Portez le lait et la fève Tonka à ébullition. Retirez du feu et laissez infuser environ 10 minutes en faisant bien attention à ce que le lait ne refroidisse pas complètement.2) Dans un saladier, faites blanchir le sucre et les jaunes d’oeufs, ajoutez le sel. Incorporez ensuite la farine et la fécule de maïs. Mélangez puis ajoutez le lait préalablement filtré petit à petit tout en touillant. La préparation doit être homogène.
 
-3) Versez la préparation dans une [casserole](http://www.rueducommerce.fr/m/pl/malid:115), cuire à feu vif sans cesser de fouetter, la crème va peu à peu épaissir, faites attention à ce que celle-ci ne colle pas au fond de la casserole.
+3) Versez la préparation dans une casserole, cuire à feu vif sans cesser de fouetter, la crème va peu à peu épaissir, faites attention à ce que celle-ci ne colle pas au fond de la casserole.
 
 4) Transvasez dans un récipient, couvrez d’un film plastique (celui-ci doit être au contact de la crème), laissez refroidir et placez ensuite au frais.
 
@@ -67,7 +67,7 @@ Pour 8 éclairs
 
 1) A l’aide d’une douille fine cannelée ou d’un bouchon (de Bic par exemple), percez 3 trois en dessous de vos éclairs, deux aux extrémités et un au milieu.
 
-2) Transférez la crème pâtissière dans une [poche à douille](http://www.rueducommerce.fr/index/poche%20a%20douille) avec un embout assez fin (5mm environ). Garnissez vos éclairs en les remplissant de crème à l’aide des trous préalablement percés. Raclez l’excédent.
+2) Transférez la crème pâtissière dans une poche à douille avec un embout assez fin (5mm environ). Garnissez vos éclairs en les remplissant de crème à l’aide des trous préalablement percés. Raclez l’excédent.
 
 **Pour le glaçage au chocolat:**– 80g de chocolat noir
 – 80g de crème fraîche 30% mg

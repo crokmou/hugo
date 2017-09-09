@@ -21,7 +21,7 @@ Il y a quelques mois maintenant j’ai découvert une nouvelle petite entreprise
 
 Étant une grande amatrice de cette gastronomie je les ai donc contacté pour entamer un partenariat et découvrir ainsi leurs produits 100% Italiens !
 
-Laissez moi vous dire que ces produits sont délicieux et celui que je vous présente aujourd’hui c’est la **polenta aux cèpes** ! Bon j’aurais peut être mi un chouia plus de cèpes mais la polenta en elle même est de très bonne qualité, fine et bien jaune ! Le tout maintenant c’est de savoir comment la préparer  ? Pour se faire sortez une [casserole](http://www.rueducommerce.fr/m/pl/malid:115), un [fouet](http://www.rueducommerce.fr/index/ustensile%20Fouet%20inox) ou une [spatule](http://www.rueducommerce.fr/m/pl/malid:48515367) une [râpe](http://www.rueducommerce.fr/m/pl/malid:43774605) à fromage, de belles [assiettes](http://www.rueducommerce.fr/m/pl/malid:4769879) creuses et si l’envie vous prends de passer le tout au [four](http://www.rueducommerce.fr/m/pl/malid:9404136), sortez alors un [plat à gratin](http://www.rueducommerce.fr/m/pl/malid:12468604) !
+Laissez moi vous dire que ces produits sont délicieux et celui que je vous présente aujourd’hui c’est la **polenta aux cèpes** ! Bon j’aurais peut être mi un chouia plus de cèpes mais la polenta en elle même est de très bonne qualité, fine et bien jaune ! Le tout maintenant c’est de savoir comment la préparer  ? Pour se faire sortez une casserole, un fouet ou une spatule une râpe à fromage, de belles assiettes creuses et si l’envie vous prends de passer le tout au four, sortez alors un plat à gratin !
 
 Pour 4 personnes
 

@@ -20,7 +20,7 @@ slug: coquilles-saint-jacques-gratinees-speculoos
 
 Bientôt Noyeeeeeel ! On va pouvoir manger…manger et manger… Certains se feront péter le bidou au foie gras, d’autres avec du magret ou encore des huitres, pour moi c’est les **coquilles Saint-Jacques** qui plus est, **gratinées aux speculoos** ! J’adore ça depuis, tellement longtemps que je suis incapable de m’en souvenir, mais attention des coquilles Saint-Jacques avec UNIQUEMENT de la Saint-Jacques dedans, dites adieu aux crevettes et autres trucs de la mer. Une sauce onctueuse, le petit goût du vin blanc, le moelleux de la Saint-Jacques, le sucré croquant du speculoos, des saveurs qui se marient parfaitement bien !
 
-Le must dans cette recette c’est que c’est hyper simple à réaliser et vraiment rapide, vous pouvez même préparer cela en avance ! Vous aurez besoin, d’une petite [casserole](http://www.rueducommerce.fr/m/pl/malid:115), d’un [faitout](http://www.rueducommerce.fr/m/pl/malid:15123303) ou une [sauteuse](http://www.rueducommerce.fr/m/pl/malid:15123301), de « plats » coquille Saint-Jacques ou à défaut de petits [plats à gratin](http://www.rueducommerce.fr/m/pl/malid:12468604) et d’un [four](http://www.rueducommerce.fr/m/pl/malid:9404136) !
+Le must dans cette recette c’est que c’est hyper simple à réaliser et vraiment rapide, vous pouvez même préparer cela en avance ! Vous aurez besoin, d’une petite casserole, d’un faitout ou une sauteuse, de « plats » coquille Saint-Jacques ou à défaut de petits plats à gratin et d’un four !
 
 Pour 2 personnes
 

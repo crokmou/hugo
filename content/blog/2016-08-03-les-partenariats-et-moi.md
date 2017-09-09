@@ -53,7 +53,6 @@ soit je n’écris rien et l’agence me rayera certainement de sa liste. Mais m
 
 ## Le mot de la fin
 
-
 * Retenez qu’un partenariat doit rester agréable, que ce soit pour la marque/l’agence, vous même ou vous lecteurs. Ne faites que ce qui vous fait plaisir, ne vous forcez jamais a accepter quelque chose qui ne vous convient pas ! Un article ou une sortie vous a déplu ? Parlez-en à votre partenaire en privé et faites lui vos remarques et dites lui simplement que soit vous écrivez un billet peu élogieux, soit vous n’écrivez rien et cela s’arrête là.
 * N’hésitez pas à parler avec vos lecteurs du fait qu’on vous offre telle ou telle chose, que cet article ou celui-là est rémunéré, c’est normal, vous travaillez pour et vous mettez en avant quelque chose. Tant que vous restez objectifs et naturels dans votre manière écrire, vos lecteurs ne s’offusqueront jamais de vos échanges (ou alors ce sont des rageux)
 * Vous n’êtes pas journalistes, vous avez créé votre blog par plaisir mais cela reste une charge de travail considérable, alors ne soyez pas honteux de profiter de ce qu’on vous offre gracieusement de temps en temps ! En parlant de travail, la photographie en est un aussi, ce n’est pas parce que vous faites des photos d’articles pour présenter la marque sur votre blog que ces photos vont appartenir à la marque en question ! Surveillez donc bien comment celles-ci peuvent être utilisées par la suite !

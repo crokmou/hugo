@@ -22,11 +22,11 @@ Le froid s’est installé depuis déjà quelques jours, entre les balades hiver
 
 Je cherchais une recette de choco chaud simple et sympa à faire, sans lait (puisque j’ai bien du mal a le digérer), une recette qui réconforte et j’ai eu la chance d’en trouver deux pour le prix d’une sur le blog de [Murmures](http://www.emiliemurmure.com/2012/12/chocolat-chaud-pop-corn-chocolate.html) : **Chocolat chaud Espagnol et popcorns chocolatés **! Merveilleux non ?
 
-Munissez vous d’une [casserole](http://www.rueducommerce.fr/index/casserole%20fonte) et d’un [fouet en inox](http://www.rueducommerce.fr/index/ustensile%20Fouet%20inox) pour le choco chaud, d’une [sauteuse](http://www.rueducommerce.fr/index/sauteuse%20en%20pierre) pour les popcorns. Sortez la cannelle de vos [pots à épices](http://www.rueducommerce.fr/index/pot%20epice) et en avant pour la recette !
+Munissez vous d’une casserole et d’un fouet en inox pour le choco chaud, d’une sauteuse pour les popcorns. Sortez la cannelle de vos pots à épices et en avant pour la recette !
 
 Recette hivernale
 
-**Pour 3/4 [mugs](http://www.rueducommerce.fr/m/pl/malid:4769906) de choco chaud Espagnol**
+**Pour 3/4 mugs de choco chaud Espagnol**
 – 1/2 mug de cacao en poudre amer
 – 1/2 mug de sucre (plus ou moins selon les goûts)
 – 1/3 de mug de fécule de maïs

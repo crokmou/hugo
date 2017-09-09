@@ -23,7 +23,7 @@ Après les fêtes on se sent toujours un peu plus « lourd » que d’habitude
 
 Je n’ai jamais osé manger de fenouil, rien que le nom me faisait fuir… jusqu’au jour où mon tonton nous a servi de la soupe de fenouil. Pour éviter de faire ma difficile, j’ai finalement goûté au breuvage ! Figurez vous que je n’ai pas trouvé ça mauvais du tout, c’était moins fort en goût que je ne l’imaginais (j’avais quelques appréhension quant a une forte ressemblance avec le céleri). Comme quoi, toujours goûter avant de dire « J’aime pas ! » …. mais entre vous et moi c’est plus facile à dire qu’a faire, parce que n’essayez pas de me faire manger des abats ou même des insectes, vous essuierez un non catégorique !
 
-Les velouté c’est assez rapide à faire, selon le nombre de convives sortez la [casserole](http://www.rueducommerce.fr/index/casserole%20fonte), la [cocotte](http://www.rueducommerce.fr/index/cocotte) ou la [marmite](http://www.rueducommerce.fr/m/pl/malid:15123302), votre [boite à épices](http://www.rueducommerce.fr/index/boite%20a%20epice) ainsi que votre [pied mixeur](http://www.rueducommerce.fr/m/pl/malid:15123483) et c’est tout ! Vous voyez pas besoin de retourner vos armoires à la recherche de l’ustensile miracle !
+Les velouté c’est assez rapide à faire, selon le nombre de convives sortez la casserole, la cocotte ou la marmite, votre boite à épices ainsi que votre pied mixeur et c’est tout ! Vous voyez pas besoin de retourner vos armoires à la recherche de l’ustensile miracle !
 
 Pour 4 bols
 

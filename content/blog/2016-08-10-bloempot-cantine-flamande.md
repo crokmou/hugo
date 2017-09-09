@@ -9,8 +9,6 @@ disqusId: 5055391408
 slug: bloempot-cantine-flamande
 ---
 
-
-
 **Bloempot – Cantine Flamande**
 22 rue des bouchers
 59800 Lille

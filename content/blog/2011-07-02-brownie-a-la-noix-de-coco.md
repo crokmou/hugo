@@ -15,8 +15,6 @@ disqusId: 3587684976
 slug: brownie-a-la-noix-de-coco
 ---
 
-
-
 L’incontournable brownie, quelque peu revisité ! Il me fallait trouver un dessert pour suivre avec mes samosas, n’ayant pas le temps de refaire les courses, j’ai donc encore une fois fait avec ce qu’il y avait dans le frigo et les armoires ! Bon les samosas c’était « exotique » : ananas, curry… on va donc faire un dessert exotique aussi : coco, chocolat… Oui bon d’accord, il n’y a pas forcément de lien, mais c’est tout comme dans ma petite tête ! Me voilà donc à fond dans ma cuisine !
 
 Oh et puis j’espère que les couleurs de la photo vous aiderons à vous projeter en vacances =p

@@ -28,11 +28,11 @@ Pour 3 petites baguettes
 – 8g de levure fraîche
 – 1 pincée de sucre
 
-1) Délayez la levure fraiche dans l’eau tiède et le sucre pendant une dizaine de minutes2) Dans le bol de votre [robot pâtissier](http://www.rueducommerce.fr/m/pl/malid:229,30023831) (ou à la main mais plus fastidieux), mélangez la farine avec le sel. Mettre à pétrir à vitesse lente et ajoutez la levure, laissez pétrir ainsi **10 minutes** environ puis à plus grande vitesse pendant **10 minutes** encore… C’est collant, c’est tout à fait normal
+1) Délayez la levure fraiche dans l’eau tiède et le sucre pendant une dizaine de minutes2) Dans le bol de votre robot pâtissier (ou à la main mais plus fastidieux), mélangez la farine avec le sel. Mettre à pétrir à vitesse lente et ajoutez la levure, laissez pétrir ainsi **10 minutes** environ puis à plus grande vitesse pendant **10 minutes** encore… C’est collant, c’est tout à fait normal
 
 4) Recouvrez le bol qui contient votre pâte d’un linge propre humide et laissez reposer 20 minutes
 
-> – Procédez au premier rabat : A l’aide d’un coupe pâte ou d’une [maryse](http://www.rueducommerce.fr/selection/8556), soulevez délicatement la pâte, étirez là et rabattez celle-ci sur le dessus en faisant un tour de bol puis laissez de nouveau reposer **20 minutes** avec le linge humide.
+> – Procédez au premier rabat : A l’aide d’un coupe pâte ou d’une maryse, soulevez délicatement la pâte, étirez là et rabattez celle-ci sur le dessus en faisant un tour de bol puis laissez de nouveau reposer **20 minutes** avec le linge humide.
 
 > –  Procédez au deuxième rabat et repos de **20 minutes** à nouveau
 
@@ -42,7 +42,7 @@ Pour 3 petites baguettes
 
 5) Versez ensuite votre pâte sur votre plan de travail fariné. Vous allez procéder comme suit : Etalez votre pâte en rectangle 3 fois plus long que large, rabattez la partie basse au milieu, puis la partie haute sur le tout, c’est ce qu’on appelle « tourer » la pâte, comme la pâte feuilletée (voir le [pas à pas de Cuisine-Addict](http://cuisine-addict.com/article-pate-feuilletee-la-recette-pas-a-pas-en-video-114084800.html) si cela ne vous dit toujours rien). Faites faire 1/4 de tour vers la droite à votre pâte, recouvrez d’un linge humide et laissez reposer **20 minutes**. Renouvelez l’opération 3 fois !
 
-6) Après ce temps dernier temps de repos, divisez votre pâte en 3 parts égales, façonnez les (doucement) en baguettes afin de ne pas éclater les bulles se trouvant dans la pâte. Disposez les sur une plaque à four recouverte de papier sulfurisée ou dans votre [moule](http://www.rueducommerce.fr/m/pl/malid:5325292) à baguettes. Préchauffez votre four à 230°C et laissez reposer vos baguettes **20 minutes** sous un linge humide.
+6) Après ce temps dernier temps de repos, divisez votre pâte en 3 parts égales, façonnez les (doucement) en baguettes afin de ne pas éclater les bulles se trouvant dans la pâte. Disposez les sur une plaque à four recouverte de papier sulfurisée ou dans votre moule à baguettes. Préchauffez votre four à 230°C et laissez reposer vos baguettes **20 minutes** sous un linge humide.
 
 7) A l’aide d’un couteau faites des entailles sur vos pâtons.
 

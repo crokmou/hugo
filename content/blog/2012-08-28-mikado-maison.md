@@ -29,7 +29,7 @@ Et non vous n’êtes pas fous, à la base une autre recette était prévue (ne 
 
 Ce qui est bien avec ces petits Mikado maison (recette trouvée [ici](http://www.lesgrandsparents.com/la-cuisine-des-enfants/recettes-chocolat/recette-chocolat-batonnets-mikado-lenotre.html)), c’est qu’il est possible d’en faire pour tous les goûts : chocolat blanc, chocolat noir, chocolat blanc/thé matcha, chocolat au lait. Et puis on rajoute des éclats de noisettes, de pistaches, de violettes cristallisées ou encore des copeaux de noix de coco, des bouts de pop corn ou de chamallows… en bref cuisinez avec vos enfants, ils seront ravis à coups sûr !
 
-Pour réaliser ces petits Mikado, vous aurez besoin de votre [matériel à pâtisserie](http://www.rueducommerce.fr/m/pl/malid:12468605), de votre [balance de cuisine](http://www.rueducommerce.fr/m/pl/malid:9633601), d’une [casserole](http://www.rueducommerce.fr/m/pl/malid:115), de [bols](http://www.rueducommerce.fr/m/pl/malid:4769881) et d’un bon et grand [couteau](http://www.rueducommerce.fr/m/pl/malid:12468606) !
+Pour réaliser ces petits Mikado, vous aurez besoin de votre matériel à pâtisserie, de votre balance de cuisine, d’une casserole, de bols et d’un bon et grand couteau !
 
 Pour environ 30 Mikado
 (environ 15cm de longueur)

@@ -37,20 +37,20 @@ Pour 3 sapins et quelques étoiles
 – 100g de sucre glace
 – 1 pincée de sel
 – 2 jaunes d’oeufs
-– 2 [cuillères à café](http://www.rueducommerce.fr/index/cuillere%20a%20cafe) de thé matche
+– 2 cuillères à café de thé matche
 – colorant en poudre vert
 
 **Pour le glaçage** – 200g de sucre glace – 1 blanc d’oeuf – 1 càs d’eau – des billes argentées en sucre (facultatif)
 
-1- Commençons par la pâte sablée : Mélangez la farine, le sucre et le sel, le thé matcha et le colorant. Ajoutez ensuite le beurre pommade coupé en petits dés et mélangez avec le [fouet](http://www.rueducommerce.fr/index/ustensile%20Fouet%20inox) (ou les doigts) jusqu’à l’obtention d’un gros sablé. Si vous trouvez que votre pâte n’est pas assez verte, rajoutez du colorant. Ajoutez ensuite les jaunes d’oeufs et pétrissez de manière a obtenir une boule de pâte homogène et non collante. Laissez ensuite reposer une heure au frais dans du film alimentaire.
+1- Commençons par la pâte sablée : Mélangez la farine, le sucre et le sel, le thé matcha et le colorant. Ajoutez ensuite le beurre pommade coupé en petits dés et mélangez avec le fouet (ou les doigts) jusqu’à l’obtention d’un gros sablé. Si vous trouvez que votre pâte n’est pas assez verte, rajoutez du colorant. Ajoutez ensuite les jaunes d’oeufs et pétrissez de manière a obtenir une boule de pâte homogène et non collante. Laissez ensuite reposer une heure au frais dans du film alimentaire.
 
 2- Préchauffez votre four à 150°C
 
-3- Une fois l’heure passée : Etalez votre pâte sablée, à l’aide de votre [rouleau à pâtisserie](http://www.rueducommerce.fr/index/rouleau%20patisserie), entre deux feuilles de papier cuisson (pour plus de facilité), jusqu’à ce que celle-ci fasse environ 5mm (pas moins au risque d’avoir des sablés beaucoup trop secs)
+3- Une fois l’heure passée : Etalez votre pâte sablée, à l’aide de votre rouleau à pâtisserie, entre deux feuilles de papier cuisson (pour plus de facilité), jusqu’à ce que celle-ci fasse environ 5mm (pas moins au risque d’avoir des sablés beaucoup trop secs)
 
-4- Découpez à l’aide vos [emporte pièces](http://www.rueducommerce.fr/m/pl/malid:43774610) étoiles (pour ma part j’avais 4 dimensions) pour chaque sapin : 3 très grandes, 3 grandes, 3 moyennes et 2 petites étoiles. Une fois que vous avez ce qu’il vous faut pour vos trois sapins, avec le reste de la pâte, faites des petites étoiles en plus.
+4- Découpez à l’aide vos emporte pièces étoiles (pour ma part j’avais 4 dimensions) pour chaque sapin : 3 très grandes, 3 grandes, 3 moyennes et 2 petites étoiles. Une fois que vous avez ce qu’il vous faut pour vos trois sapins, avec le reste de la pâte, faites des petites étoiles en plus.
 
-5- Disposez vos étoiles sur une plaque allant au four (préalablement recouverte d’une [feuille de cuisson](http://www.rueducommerce.fr/index/feuille%20de%20cuisson)) et enfournez le tout pour 12 minutes environ (retirez les petites et moyennes aux alentours de 9/10 minutes)
+5- Disposez vos étoiles sur une plaque allant au four (préalablement recouverte d’une feuille de cuisson) et enfournez le tout pour 12 minutes environ (retirez les petites et moyennes aux alentours de 9/10 minutes)
 
 6- Sortez vos sablés du four et laissez refroidir.
 

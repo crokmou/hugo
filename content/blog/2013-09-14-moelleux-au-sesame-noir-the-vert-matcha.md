@@ -28,7 +28,7 @@ Néanmoins comme il fait un peu plus frais en ce moment j’ai opté pour une re
 
 Pour ceux que cela intéresse, j’ai trouvé ma pâte de sésame noir ainsi que mon thé vert matcha chez [Tagawa](http://www.tagawa.eu/) à Bruxelles mais vous pouvez certainement retrouver ces articles dans vos magasins asiatiques ou sur internet [ici](http://www.bienmanger.com/1F10929_Pate_Sesame.html), [là](http://www.laboutiquedujapon.fr/PrestaShop/fr/1326-pate-de-sesame-grille-noir-100ml-4932395000678.html) ou encore [ici](http://cook-shop.fr/pate-/1429-pate-de-sesame-noir-terre-exotique-3760063336412.html)
 
-Sortez un [cul de poule](http://www.rueducommerce.fr/m/pl/malid:48515370) ou un [saladier](http://www.rueducommerce.fr/m/pl/malid:4769897), des [cercles de présentation](http://www.rueducommerce.fr/index/cercle%20de%20presentation) ou un [moule](http://www.rueducommerce.fr/m/pl/malid:5325292) à gâteaux si vous souhaitez quelque chose de plus familial. Munissez vous aussi d’un [fouet](http://www.rueducommerce.fr/index/ustensile%20Fouet%20inox) et d’une [spatule](http://www.rueducommerce.fr/m/pl/malid:48515367), ainsi que de quoi faire un bain marie, soit une [casserole](http://www.rueducommerce.fr/m/pl/malid:115) et un gros [bol](http://www.rueducommerce.fr/m/pl/malid:4769881). Et voilà vous êtes prêts !
+Sortez un cul de poule ou un saladier, des cercles de présentation ou un moule à gâteaux si vous souhaitez quelque chose de plus familial. Munissez vous aussi d’un fouet et d’une spatule, ainsi que de quoi faire un bain marie, soit une casserole et un gros bol. Et voilà vous êtes prêts !
 
 Pour 4 moelleux (environ 7cm de diamètre)
 

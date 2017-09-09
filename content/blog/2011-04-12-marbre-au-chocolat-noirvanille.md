@@ -18,8 +18,6 @@ disqusId: 3593041646
 slug: marbre-au-chocolat-noirvanille
 ---
 
-
-
 _Un petit gâteau assez connu, mais toujours fait de différentes manières, alors je vous propose la mienne. Parfait pour un goûter !_
 
 ![6___8_personnes](http://storage.canalblog.com/66/33/825568/62416680_p.jpeg)

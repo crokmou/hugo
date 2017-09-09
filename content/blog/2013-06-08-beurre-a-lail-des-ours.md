@@ -26,7 +26,7 @@ J’ai découvert ce goût délicieux lors d’un petit dîner au restaurant [La
 
 Les feuilles se fanent rapidement après la cueillette, ne tardez donc pas trop à les utiliser. Pour ma part j’ai réalisé la recette que je vous présente aujourd’hui : du **beurre demi-sel à l’ail des ours** ! Sur une tartine à l’apero, sur une grillade ou dans des pommes de terres, ce beurre s’accommodera avec beaucoup de choses ! Avec le reste des feuilles, j’ai fait une sorte de « pesto rapide » afin de pouvoir congeler le tout, rien de plus simple : mixez des feuilles et de l’huile d’olive, remplissez un bac à glaçons avec le mélange et attendez que le tout soit congelé. Il vous suffit ensuite d’utiliser ces petits glaçons dans vos préparations lorsque vous en avez envie !
 
-Passons maintenant à la recette ! Sortez le [blender](http://www.rueducommerce.fr/m/pl/malid:9633603), le [hachoir](http://www.rueducommerce.fr/m/pl/malid:9633606) ou le [pilon et mortier](http://www.rueducommerce.fr/m/pl/malid:43774615), une fourchette, un [cul de poule](http://www.rueducommerce.fr/m/pl/malid:48515370) ou saladier et le tour est joué !
+Passons maintenant à la recette ! Sortez le blender, le hachoir ou le pilon et mortier, une fourchette, un cul de poule ou saladier et le tour est joué !
 
 Pour 250g de beurre
 

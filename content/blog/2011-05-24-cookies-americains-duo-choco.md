@@ -18,8 +18,6 @@ disqusId: 3587684647
 slug: cookies-americains-duo-choco
 ---
 
-
-
 Bien le bonsoir, aujourd’hui présentation de cookies, vous me direz, on connait déjà la recette, c’est pas la première fois qu’on en fait… Oui effectivement mais ceux là plaisent toujours beaucoup, essayez vous verrez ! Les cookies Américains duo choco sont selon moi, les meilleurs, pour leur croquant, leur moelleux, leur goût… mais pour approuver mes dires ils vous faudra d’abord mettre les mains à la pâte :<a name="more"></a>
 
 [![](http://3.bp.blogspot.com/-9GF_nDoA4bM/TsFv1BsKViI/AAAAAAAABJQ/f1QOcZz06xY/s1600/Cookies.jpg)](http://3.bp.blogspot.com/-9GF_nDoA4bM/TsFv1BsKViI/AAAAAAAABJQ/f1QOcZz06xY/s1600/Cookies.jpg)

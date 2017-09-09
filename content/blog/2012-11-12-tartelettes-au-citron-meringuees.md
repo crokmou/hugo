@@ -23,7 +23,7 @@ Oh ! L’heure du goûter, l’heure parfaite pour vous publier ma petite recett
 
 Je me suis toujours dit qu’un jour je prendrai le temps de réaliser ces tartelettes (oui parce qu’avouons le, tout faire de A à Z c’est un peu long), et me voilà donc aujourd’hui avec une recette à tomber par terre, une recette qui nous vient tout droit du blog [Amuses Bouche](http://www.amusesbouche.fr/article-tarte-au-citron-meringuee-103862152.html). Je suis d’accord ma meringue est nettement moins épaisse, mais j’ai encore du faire quelque chose pas tout bien (comme dab avec les blancs en neige hihi)
 
-Pour réaliser cette recette il vous faudra vous munir : De cercles à patisserie ou de [moules à tartelettes](http://www.rueducommerce.fr/index/moule%20tartelette), de votre [matériel à patisserie](http://www.rueducommerce.fr/m/pl/malid:12468605) (y compris le [rouleau](http://www.rueducommerce.fr/index/rouleau%20patisserie)), d’un [presse citron](http://www.rueducommerce.fr/index/presse%20citron), d’un [fouet en inox](http://www.rueducommerce.fr/index/ustensile%20Fouet%20inox) ou d’un batteur électrique et éventuellement un [chalumeau de cuisine](http://www.rueducommerce.fr/m/pl/malid:48515368) (si vous n’en avez pas, pas d’inquiétudes le four fera l’affaire)
+Pour réaliser cette recette il vous faudra vous munir : De cercles à patisserie ou de moules à tartelettes, de votre matériel à patisserie (y compris le rouleau), d’un presse citron, d’un fouet en inox ou d’un batteur électrique et éventuellement un chalumeau de cuisine (si vous n’en avez pas, pas d’inquiétudes le four fera l’affaire)
 
 Pour 4 tartelettes
 

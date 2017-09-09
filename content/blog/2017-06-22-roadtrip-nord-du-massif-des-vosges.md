@@ -22,7 +22,6 @@ Après un départ aux aurores de Bruxelles. Notre première étape se fera à la
 
 Comme nous étions arrivés au moment du repas, nous avons eu l’occasion de déjeuner sur place en compagnie de bénévoles. Au menu ? Des **Käseknepfle** ! Sorte de gros gnocchis à base de fromage blanc, d’oeuf et de farine qu’on cuit lentement à l’eau puis qu’on laisse gratiner avec des lardons et du fromage. Un délice ! **_Maison Rurale de l’Outre-Forêt – [Site Internet](http://www.maison-rurale.fr)_**
 
-
 {{< gallery >}}
     {{< img src="https://crokmou.com/images/voyage-nord-massif-vosges-france-maison-rurale-outre-forest-crokmou-blog-cuisine-voyage-belgique-3.jpg" >}}
     {{< img src="https://crokmou.com/images/voyage-nord-massif-vosges-france-maison-rurale-outre-forest-crokmou-blog-cuisine-voyage-belgique-4.jpg" >}}
@@ -100,7 +99,6 @@ C’est au cours de l’après-midi que nous nous sommes rendus dans un **ranch 
 ## Ballade dans la réserve naturelle nationale des rochers et tourbières du Pays de Bitche
 
 Après une nuit dans [l’hôtel « Le Strasbourg »](http://www.le-strasbourg.fr) dans la **ville de Bitche**, nous entamons une petite **randonnée** pour notre dernière journée dans le Massif des Vosges. Accompagnés [d’une guide de l’Office de Tourisme de Bitche](https://www.tourisme-paysdebitche.fr/), nous voilà en plein coeur de la nature ! Et c’est ce qu’il y a de plus magique dans cette région **la nature est omniprésente**. Cela fait un bien fou, d’être coupé de tout et de se retrouver entouré de végétation. Bien que ma peur des tiques puisse me rendre <del>carrément chiante</del> un peu hystérique, j’adore ce type de ballades. Ce jour là le soleil tapait plutôt fort, avec la chaleur ce n’était donc pas évident mais le sentier de randonné était plutôt court. Durant quelques heures nous avons donc marché autour du lac de Hanau, grimpé jusqu’à la tour Waldeck mais aussi découvert, grâce à notre guide, la faune et la flore locale. **C’est magnifique, ressourçant !** En fin de parcours nous avons même droit à un petit picnic, l’occasion de goûter quelques spécialités locales comme le fromage ou le pain bitchois (une sorte de flamiche/flammekueche).
-
 
 {{< gallery >}}
 {{< img src="https://crokmou.com/images/voyage-nord-massif-vosges-france-reserve-naturelle-bitche-crokmou-blog-cuisine-voyage-belgique.jpg" >}}

@@ -35,12 +35,12 @@ Pour 1 grande galette
 
 **○○○**
 
-1) Épluchez et découpez en morceaux 3 pommes. Mettez le tout dans une [casserole](http://www.rueducommerce.fr/m/pl/malid:115), ajoutez la cassonade, la Tonka râpée et un peu d’eau.
+1) Épluchez et découpez en morceaux 3 pommes. Mettez le tout dans une casserole, ajoutez la cassonade, la Tonka râpée et un peu d’eau.
 2) Faites chauffer le tout environ 15/20 à feu moyen/doux en couvrant la casserole. A l’aide d’un bras mixer, mixez le tout pour avoir la consistance d’une compote, laissez refroidir.
 3) Préchauffez votre four à 180°C
-4) Épluchez la dernière pommes et découpez la en fines lamelles à l’aide d’une [mandoline](http://www.rueducommerce.fr/m/pl/malid:5325288). Disposez ces lamelles sur le premier fond de pâte feuilletée tout en laissant 2cm de bord. Étalez par dessus la compote et disposez la fève dans la tarte.
+4) Épluchez la dernière pommes et découpez la en fines lamelles à l’aide d’une mandoline. Disposez ces lamelles sur le premier fond de pâte feuilletée tout en laissant 2cm de bord. Étalez par dessus la compote et disposez la fève dans la tarte.
 5) A l’aide d’un peu d’eau humidifiez le bord d’environ 2cm de la pâte feuilletée ensuite recouvrez le tout à l’aide de la seconde pâte feuilletée. Appuyez bien sur les bords afin que ceux-ci soient bien soudés. Avec un couteau décorez votre tarte en faisant bien attention de ne pas la percer.
-6) Dans un petit bol, mélangez un peau d’eau avec votre jaune d’oeuf et avec un [pinceau de cuisine](http://www.rueducommerce.fr/index/pinceau%20de%20cuisine) badigeonnez votre tarte de cette mixture
+6) Dans un petit bol, mélangez un peau d’eau avec votre jaune d’oeuf et avec un pinceau de cuisine badigeonnez votre tarte de cette mixture
 7) Enfournez pour environ 30/40 minutes, une fois votre galette bien dorée, laissez la refroidir un peu.
 8) Appelez les gourmands et procédez à la distribution des parts ! Alors bientôt Reine/Roi ?
 

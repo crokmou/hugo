@@ -42,7 +42,7 @@ _I can assure you that his biscuits are really delicious! The first time when I 
 
 [![](http://www.crokmou.com/wp-content/uploads/2013/03/backstage_cheesecake_biscuit_the_vert_pomme_biscuiterie_destree1.jpg)](http://www.crokmou.com/wp-content/uploads/2013/03/backstage_cheesecake_biscuit_the_vert_pomme_biscuiterie_destree1.jpg)
 
-Pour réaliser cette recette vous aurez besoin d’une [casserole](http://www.rueducommerce.fr/index/casserole%20fonte), d’un [cul de poule](http://www.rueducommerce.fr/m/pl/malid:48515370) (ou saladier), d’un [fouet](http://www.rueducommerce.fr/index/ustensile%20Fouet%20inox) tout droit sorti de votre [matériel à pâtisserie](http://www.rueducommerce.fr/m/pl/malid:12468605), d’une [feuille de cuisson](http://www.rueducommerce.fr/index/feuille%20de%20cuisson), de 4 [cercles de présentation](http://www.rueducommerce.fr/index/cercle%20de%20presentation) d’environ 7cm de diamètre et d’un [couteau](http://www.rueducommerce.fr/m/pl/malid:12468606) (fort utile pour démouler ici).
+Pour réaliser cette recette vous aurez besoin d’une casserole, d’un cul de poule (ou saladier), d’un fouet tout droit sorti de votre matériel à pâtisserie, d’une feuille de cuisson, de 4 cercles de présentation d’environ 7cm de diamètre et d’un couteau (fort utile pour démouler ici).
 
 _To realize these recipe you will need a pan, a mixing bowl (or salad bowl), of a whip just taken from your pastry tools, a cooking sheet,  4 entremet ring about 7cm of diameter and a knife (very useful to turn out here)._
 

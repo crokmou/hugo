@@ -16,8 +16,6 @@ disqusId: 3587684704
 slug: carpaccio-dananas-et-melon-sabayon-a-lamaretto
 ---
 
-
-
 <div style="text-align: justify;">**Note du 7/08/11 : Je n’ai que très peu de temps en ce moment pour cuisiner (bientôt, bientôt je vous le promet, mais il va falloir encore attendre un peu). Je tenais à vous annoncer que je suis arrivée troisième du défi carpaccio avec cette recette sur Recettes.de, et je tenais à remercier les membres du Jury. J’ai été très contente de participer !**
 
 **Passez de bonnes fins de vacances (et du courage pour ceux qui sont au boulot), et je vous dit à très bientôt !**

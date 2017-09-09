@@ -25,7 +25,7 @@ La semaine dernière, ma petite famille étant de visite à Bruxelles, nous somm
 
 Loin de moi l’idée de vous dissuader de faire cette recette, néanmoins j’aurais peut être envie de vous dire : utilisez des châtaignes en boite 😀 Parce qu’**éplucher des châtaignes… c’est long**, très long… Il vous faut la journée devant vous, ou des petits mimines pour aider ! Malgré tout je pense que c’est à faire au moins une fois dans sa vie, sans quoi je n’aurais jamais su qu’**une fois les châtaignes ramassées** il fallait **très vite les cuisiner** (ou alors les conserver dans un saladier d’eau pendant quelques jours) car des petits vers (#beurklanature) peuvent se développer sous la coque (Quoi ? Vous n’avez plus faim ?). Par chance mes châtaignes étaient toutes niquel !
 
-Assez parlé nature maintenant passons à la cuisine ! Sortez un petit [couteau de cuisine](http://www.rueducommerce.fr/m/pl/malid:4769881), des [saladiers](http://www.rueducommerce.fr/m/pl/malid:4769897)/[bols](http://www.rueducommerce.fr/m/pl/malid:4769881)/[culs de poule](http://www.rueducommerce.fr/m/pl/malid:48515370) oui oui je dis bien des. Munissez vous aussi de patience, d’une [casserole](http://www.rueducommerce.fr/m/pl/malid:115), d’une fourchette et des [bocaux](http://www.rueducommerce.fr/m/pl/malid:48515378) à confiture !
+Assez parlé nature maintenant passons à la cuisine ! Sortez un petit couteau de cuisine, des saladiers/bols/culs de poule oui oui je dis bien des. Munissez vous aussi de patience, d’une casserole, d’une fourchette et des bocaux à confiture !
 
 Pour 2 gros pots
 

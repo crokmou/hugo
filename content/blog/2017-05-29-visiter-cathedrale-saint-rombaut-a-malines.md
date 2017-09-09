@@ -8,8 +8,6 @@ categories:
 slug: visiter-cathedrale-saint-rombaut-a-malines
 ---
 
-
-
 **Cathédrale Saint-Rombaut**
 Onder den Toren 12
 2800 Mechelen

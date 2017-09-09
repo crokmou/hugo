@@ -8,8 +8,6 @@ categories:
 slug: visite-harry-potter-warner-bros-studio-de-londres
 ---
 
-
-
 **Warner Bros. Studio Tour London**
 Studio Tour Drive
 Leavesden
@@ -29,7 +27,6 @@ Tout d’abord il vous faudra **réserver vos tickets**. Je les ai de mon côté
 * Prendre le train de la gare de Euston jusqu’à l’arrêt Watford Junction et de là prendre le bus jusqu’au Studio.   En choisissant **la deuxième option : le train**. Je dois dire qu’on a fait **de sacrées économies** ! Pour 2 personnes aller/retour, nous avons payé 22,20£ pour le train et 5£ pour le bus. Par chance comme notre visite se faisait un Dimanche, nous avons bénéficier de réduction avec le train car nous voyagions en dehors des heures de pointe (off-peak day). Concernant le bus pour se rendre au studio, inutile de réserver à l’avance. Une fois que vous sortez de la gare de Watford, il est très simple de repérer toutes les personnes se rendant chez notre sorcier préféré. Le paiement se fait à l’entrée du bus, n’oubliez pas de préciser qu’il vous faut un aller/retour.
 
 ## Harry Potter Warner Bros Studio : les infos utiles
-
 
 * Les **heures de passage** : Nous devions normalement rentrer pour 18h30\. A 17h30 nous étions déjà dans le studio pour la visite. Il est bien marqué qu’il faut s’y rendre à l’avance, mais n’hésitez pas à tenter votre chance pour la visite en dehors de « vos heures ». Selon l’affluence, on vous fera peut être passer plus tôt !
 * **La restauration** : Deux petits snacks sont ouverts dans le studio. Un à l’entrée et un durant le tour. Je n’ai pas trop regardé ce que l’on pouvait manger mais je pense que ça reste du basique, certainement un peu cher aussi. Si vous souhaitez ramener votre propre sandwich, il y a des tables pour manger tranquillou en milieu de parcours.  

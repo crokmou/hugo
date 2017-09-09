@@ -22,7 +22,7 @@ Mouahahahah « This is Halloween, this is Halloween… » ! Enfin non pas tout
 
 Pour vous raconter un peu ma life : J’ai une peur bleue des esprits et des fantômes, ce pourquoi je regarde très rarement des films d’horreur néanmoins j’aime beaucoup tout ce qui est vampires, sorcières, loups garous et autres créatures effrayantes mais tellement sympa ! Si vous saviez combien de films et de séries traitant du sujet j’ai regardé… en commençant par Buffy contre les vampires (oui oui oui avec Angel *_*), le loup garou du campus sur KD2A me semble ou encore L’Étrange Noël de Monsieur Jack … il y en a tellement, tout une ambiance, une époque, des souvenirs, des bonbons chez les voisins…Cette année j’avais envie de marquer le coup avec une recette, j’ai longuement hésité entre des pommes d’amours trop dark ou ces **devil cupcakes** et j’ai finalement fait mon choix ! Les cupcakes sont en fait au coca cola et chocolat et un petit topping à la mascarpone et colorant (nan vous croyez ?!) naturel en poudre !
 
-Pour ces petits cochoncetés vous aurez besoin : d’un [saladier](http://www.rueducommerce.fr/m/pl/malid:4769897) ou [cul de poule](http://www.rueducommerce.fr/m/pl/malid:48515370), de votre matériel à pâtisserie dont le [fouet](http://www.rueducommerce.fr/index/ustensile%20Fouet%20inox), la [spatule](http://www.rueducommerce.fr/m/pl/malid:48515367) et la [poche à douille](http://www.rueducommerce.fr/index/poche%20a%20douille). Sortez aussi des [moules à cupcakes en silicone](http://www.rueducommerce.fr/index/moule%20silicone) ou un [moule à muffins](http://www.rueducommerce.fr/index/moule%20a%20muffins) avec de jolies caissettes en papier !
+Pour ces petits cochoncetés vous aurez besoin : d’un saladier ou cul de poule, de votre matériel à pâtisserie dont le fouet, la spatule et la poche à douille. Sortez aussi des moules à cupcakes en silicone ou un moule à muffins avec de jolies caissettes en papier !
 
 Pour 15 petits cupcakes
 
@@ -42,7 +42,7 @@ Pour le gâteau :
 
 **○○○**
 
-1- Pour les cupcakes : Préchauffez votre [four](http://www.rueducommerce.fr/m/pl/malid:9404136) à 180°C.
+1- Pour les cupcakes : Préchauffez votre four à 180°C.
 2- Dans un saladier, mélangez le sucre et les oeufs. Ajoutez ensuite le coca, l’huile, l’arôme et le chocolat en poudre et mélangez de nouveau.
 3- Ajoutez la farine et la levure, mélangez bien jusqu’à ce que le mélange soit lisse.
 4- Versez la pâte à gâteau au 3/4 dans vos moules à cupcakes (attention ça gonfle bien) et enfournez pendant 15/20 minutes jusqu’à ce que les cupcakes soient cuits!

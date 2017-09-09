@@ -27,10 +27,10 @@ Pour environ de 20 palmiers
 1- Déroulez votre pâte feuilletée et saupoudrez la de cassonade (la quantité sera selon votre gourmandise)
 2- Roulez votre pâte de chaque côté jusqu’à ce que les deux rouleaux se rejoignent au centre de la pâte, appuyez un peu pour que le tout se « soude »
 3- Mettez votre rouleau de pâte au congélateur durant 15 min et pendant ce temps faites préchauffer votre four à 180°
-4- Sortez votre pâte du congélateur et coupez votre « boudin » tous les cm (sachant que le premier bout et le dernier ne ressemblent à rien, mais ca se mange). Disposez vos futur palmiers sur du papier sulfurisé beurré que vous aurez préalablement posé sur une plaque à [four](http://www.rueducommerce.fr/m/pl/malid:9404136).
+4- Sortez votre pâte du congélateur et coupez votre « boudin » tous les cm (sachant que le premier bout et le dernier ne ressemblent à rien, mais ca se mange). Disposez vos futur palmiers sur du papier sulfurisé beurré que vous aurez préalablement posé sur une plaque à four.
 5- Enfournez et laissez cuire environ 20 min en retournant vos palmiers à mi-cuisson. Sortez ensuite vos palmiers et laissez le refroidir avant de déguster !
 
-A servir avec un bon café fait à l’aide de votre [machine à expresso](http://www.rueducommerce.fr/m/pl/malid:9633595) ou votre [cafetière](http://www.rueducommerce.fr/m/pl/malid:110) ([Delonghi](http://www.rueducommerce.fr/m/pl/malid:12382300) par exemple) ou tout simplement d’un bon jus de fruit maison réalisé avec votre [presse agrumes](http://www.rueducommerce.fr/m/pl/malid:9633599) !
+A servir avec un bon café fait à l’aide de votre machine à expresso ou votre cafetière (Delonghi par exemple) ou tout simplement d’un bon jus de fruit maison réalisé avec votre presse agrumes !
 
 Et vous les palmiers, ca vous rappelle quoi exactement ?
 

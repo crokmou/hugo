@@ -62,7 +62,7 @@ Les photographies ne sont pas seulement jolies, elles apportent une certaine con
 
 __________
 
-<span style="line-height: 115%;">N’oubliez pas que si il vous manque quelques cadeaux de Noël, il vous est possible de trouver beaucoup de chose sur Rue du Commerce, notamment de nombreux accessoires: Pour votre [gaufrier](http://www.rueducommerce.fr/m/pl/malid:15123414), votre [robot](http://www.rueducommerce.fr/m/pl/malid:15123245), des accessoires pour votre appareil à [croques monsieur](http://www.rueducommerce.fr/m/pl/malid:15123413), pour vos [plaques de cuisson](http://www.rueducommerce.fr/m/pl/malid:15123339), votre [yaourtière](http://www.rueducommerce.fr/m/pl/malid:15123418)… et j’en passe ! N’hésitez donc surtout pas a aller faire un tour chez eux, ils ont tout ce qu’il vous faut !</span>
+<span style="line-height: 115%;">N’oubliez pas que si il vous manque quelques cadeaux de Noël, il vous est possible de trouver beaucoup de chose sur Rue du Commerce, notamment de nombreux accessoires: Pour votre gaufrier, votre robot, des accessoires pour votre appareil à croques monsieur, pour vos plaques de cuisson, votre yaourtière… et j’en passe ! N’hésitez donc surtout pas a aller faire un tour chez eux, ils ont tout ce qu’il vous faut !</span>
 
 <span style="line-height: 115%;"> </span>
 

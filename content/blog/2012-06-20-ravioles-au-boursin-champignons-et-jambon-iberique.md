@@ -32,7 +32,7 @@ Pour en revenir aux recettes, sachez que celle-ci est la dernière salée avant 
 
 Je suis consciente que mes raviolis sont « un peu épais », pour ma défense il faut donc que je vous dise que je n’ai pas de machine à pâtes, tout est donc fait à la force des bras (et comme j’en manque cruellement, la pâte est épaisse) : y’a mieux comme défense mais c’est déjà une bonne explication x’) ! Mais sachez malgré tout que c’était très bon !
 
-Pour réaliser la recette vous aurez éventuellement besoin d’un [bol](http://www.rueducommerce.fr/m/pl/malid:4769881), d’une [casserole](http://www.rueducommerce.fr/m/pl/malid:115), d’une [planche à découper](http://www.blogger.com/%22http://www.rueducommerce.fr/m/pl/malid:4820408%20%22), d’un [moule](http://www.rueducommerce.fr/m/pl/malid:5325292) à ravioles, et d’un [tablier](http://www.rueducommerce.fr/m/pl/malid:261) pour ne pas vous mettre de la farine partout !
+Pour réaliser la recette vous aurez éventuellement besoin d’un bol, d’une casserole, d’une [planche à découper](http://www.blogger.com/%22http://www.rueducommerce.fr/m/pl/malid:4820408%20%22), d’un moule à ravioles, et d’un tablier pour ne pas vous mettre de la farine partout !
 
 Pour 2 personnes
 

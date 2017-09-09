@@ -26,7 +26,7 @@ La fève Tonka fût une première pour moi ! Personnellement je n’aime pas tro
 
 [![](http://2.bp.blogspot.com/-Ta5bgymGP30/UJKqBW48P1I/AAAAAAAAFEk/q62mNM-s4vI/s400/20121101_beignet_four_feve_tonka_0030.jpg)](http://2.bp.blogspot.com/-Ta5bgymGP30/UJKqBW48P1I/AAAAAAAAFEk/q62mNM-s4vI/s1600/20121101_beignet_four_feve_tonka_0030.jpg)[![](http://3.bp.blogspot.com/-q3l4RYZWcDM/UJKqCB5tf-I/AAAAAAAAFE8/pp22mMnAkc8/s400/20121101_beignet_four_feve_tonka_0035.jpg)](http://3.bp.blogspot.com/-q3l4RYZWcDM/UJKqCB5tf-I/AAAAAAAAFE8/pp22mMnAkc8/s1600/20121101_beignet_four_feve_tonka_0035.jpg)
 
-Pour réaliser cette recette vous n’aurez pas besoin de grand chose si ce n’est une [casserole](http://www.rueducommerce.fr/index/casserole%20fonte), un grand [cul de poule](http://www.rueducommerce.fr/m/pl/malid:48515370), un [rouleau à pâtisserie](http://www.rueducommerce.fr/index/rouleau%20patisserie) pour étaler la pâte, des [emportes pièces](http://www.rueducommerce.fr/m/pl/malid:43774610) pour faire de beaux beignets et une [feuille de cuisson](http://www.rueducommerce.fr/index/feuille%20de%20cuisson) pour cuire le tout au four !
+Pour réaliser cette recette vous n’aurez pas besoin de grand chose si ce n’est une casserole, un grand cul de poule, un rouleau à pâtisserie pour étaler la pâte, des emportes pièces pour faire de beaux beignets et une feuille de cuisson pour cuire le tout au four !
 
 <a name="more"></a>
 

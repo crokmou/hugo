@@ -26,7 +26,7 @@ Envie d’un petit repas simple et rapide ? Alors voici une petite recette de mo
 
 Avec ceci j’ai acheté des gaufres pur beurre (parce qu’avec des gaufres liégeoises ca ne fonctionne pas !) et de la cassonade ! Vous voyez ? Vous n’avez pas besoin de grand chose. Bon je suis d’accord on a pas tous du jambon Ibérique dans le frigo (dans ce cas on prend du jambon fumé)
 
-Vous n’aurez donc besoin en théorie que d’un [four](http://www.rueducommerce.fr/m/pl/malid:9404136) ou d’un [mini-four](http://www.rueducommerce.fr/m/pl/malid:34567022) ([Delonghi](http://www.rueducommerce.fr/m/pl/malid:12382300), [Kenwood](http://www.rueducommerce.fr/m/pl/malid:84394)…) ET si vous désirez faire vos gaufres pur beurre maison ([Recette sur les Foodies](http://www.lesfoodies.com/melayers/recette/gaufres-au-beurre)), vous aurez donc besoin d’un [gaufrier](http://www.rueducommerce.fr/m/pl/malid:169).
+Vous n’aurez donc besoin en théorie que d’un four ou d’un mini-four (Delonghi, Kenwood…) ET si vous désirez faire vos gaufres pur beurre maison ([Recette sur les Foodies](http://www.lesfoodies.com/melayers/recette/gaufres-au-beurre)), vous aurez donc besoin d’un gaufrier.
 
 <div>Pour 2 personnes
 

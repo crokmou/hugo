@@ -30,10 +30,10 @@ Pour 4 verres
 
 **○○○**
 
-1- Dans une [casserole](http://www.rueducommerce.fr/m/pl/malid:115), faites chauffer l’eau avec le sucre jusqu’à temps que le sucre soit dissous.
-2- Dans votre [mixer](http://www.rueducommerce.fr/m/pl/malid:1455381) ou [blender](http://www.rueducommerce.fr/m/pl/malid:9633603), versez les pommes préalablement pelées et coupées en morceaux, l’arôme vanille et le sirop (sucre+eau), mixez.
-3- Versez votre préparation dans un [moule](http://www.rueducommerce.fr/m/pl/malid:5325292) plus large que haut pouvant aller au [congélateur](http://www.rueducommerce.fr/m/pl/malid:9633581). Congelez votre préparation pendant minimum 4h et gratter là à l’aide d’une fourchette toutes les 30 minutes afin d’en faire des « paillettes »
-4- Versez dans des [verres](http://www.rueducommerce.fr/m/pl/malid:4769908) et dégustez bien frais !
+1- Dans une casserole, faites chauffer l’eau avec le sucre jusqu’à temps que le sucre soit dissous.
+2- Dans votre mixer ou blender, versez les pommes préalablement pelées et coupées en morceaux, l’arôme vanille et le sirop (sucre+eau), mixez.
+3- Versez votre préparation dans un moule plus large que haut pouvant aller au congélateur. Congelez votre préparation pendant minimum 4h et gratter là à l’aide d’une fourchette toutes les 30 minutes afin d’en faire des « paillettes »
+4- Versez dans des verres et dégustez bien frais !
 
 Pour ma part ma granita favorite reste celle à la violette, je ne manque jamais d’en acheter une sur Lille lorsqu’il fait chaud et que je passe près de la grand place !
 

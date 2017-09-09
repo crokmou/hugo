@@ -15,7 +15,7 @@ disqusId: 3587684543
 slug: chtites-madeleines-au-maroilles
 ---
 
-De retour de vacances, pas très long mais qu’est ce que cela fait du bien ! Un peu de soleil, de belles couleurs, du temps libre, et du repos : j’aime la simplicité ! Et pour faire simple ce soir, je vous explique le pourquoi de ma recette. Mon père a voulu faire connaitre le maroilles dans son épicerie aux alentours de Toulouse. Petit village donc succès mitigé, je me suis donc proposée durant mon séjour pour faire des petites madeleines (un [moule](http://www.rueducommerce.fr/m/pl/malid:5325292) à petite madeleines est requis pour la recette) au Maroilles afin de faire déguster d’une autre manière ce fromage à l’odeur prononcée. Je me suis inspirée de la recette du blog [La cocotte](http://lacocotte.nordblogs.com/archive/2011/03/02/ch-tites-madeleines.html).Ces madeleines sont très légères, mais le goût de Maroilles pas forcément assez prononcé, donc n’hésitez pas a en rajouter ou même ajouter d’autres ingrédients comme des lardons.
+De retour de vacances, pas très long mais qu’est ce que cela fait du bien ! Un peu de soleil, de belles couleurs, du temps libre, et du repos : j’aime la simplicité ! Et pour faire simple ce soir, je vous explique le pourquoi de ma recette. Mon père a voulu faire connaitre le maroilles dans son épicerie aux alentours de Toulouse. Petit village donc succès mitigé, je me suis donc proposée durant mon séjour pour faire des petites madeleines (un moule à petite madeleines est requis pour la recette) au Maroilles afin de faire déguster d’une autre manière ce fromage à l’odeur prononcée. Je me suis inspirée de la recette du blog [La cocotte](http://lacocotte.nordblogs.com/archive/2011/03/02/ch-tites-madeleines.html).Ces madeleines sont très légères, mais le goût de Maroilles pas forcément assez prononcé, donc n’hésitez pas a en rajouter ou même ajouter d’autres ingrédients comme des lardons.
 
 Pour 30 madeleines
 
@@ -35,7 +35,7 @@ Pour 30 madeleines
 
 Dégustez ces petites madeleines tièdes (avec le Maroilles encore fondant)
 
-En accompagnement d’une petite salade ou en [apéritif](http://www.rueducommerce.fr/m/pl/malid:4969865) !
+En accompagnement d’une petite salade ou en apéritif !
 
 Je vous laisse tester la recette, dites m’en des nouvelles !
 

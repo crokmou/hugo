@@ -35,7 +35,7 @@ _I come back with a salty recipe, yes yes I take into account your request ! I a
 
 _Nevertheless the taste was there and these small sandwiches savouring under the sun it is the best!_
 
-Sortez donc un bon couteau pour le pain, un [cul de poule](http://www.rueducommerce.fr/index/casserole%20fonte) ou un bol avec une [cuillère](http://www.rueducommerce.fr/index/cuillere%20a%20soupe) pour mélanger, une [mandoline](http://www.rueducommerce.fr/m/pl/malid:3665541,5325288) et votre [bento box](http://www.rueducommerce.fr/m/pl/malid:48515382) (ou [boite hermétique](http://www.rueducommerce.fr/index/boite%20hermetique)) pour transporter le tout au boulot !
+Sortez donc un bon couteau pour le pain, un cul de poule ou un bol avec une cuillère pour mélanger, une mandoline et votre bento box (ou boite hermétique) pour transporter le tout au boulot !
 
 _Thus take a good knife for the bread, a mixing bowl or a bowl with a spoon to mix and your bento box (or hermetic box) to transport the whole at work !_
 

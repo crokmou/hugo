@@ -20,15 +20,13 @@ disqusId: 3616831747
 slug: tartelettes-mirabelles-pommes-caramelisees
 ---
 
-
-
 Il y a des jours où j’aime me croire encore en été, non pas que les mirabelles soient réellement un fruit d’été (ni même les pommes d’ailleurs) mais voilà, il se trouve que moi, quand je mange des fruits c’est surtout l’été… alors voilà ces petites tartelettes pleines de couleurs me rappellent doucement le soleil et ses reflets !
 
 [![](http://1.bp.blogspot.com/-gVRDCt4sfxc/UHAk68Mp6mI/AAAAAAAAEts/WOIuAprkkfo/s320/20120926_tartelette_pomme_confiture_mirabelle_0018_bann.jpg)](http://1.bp.blogspot.com/-gVRDCt4sfxc/UHAk68Mp6mI/AAAAAAAAEts/WOIuAprkkfo/s1600/20120926_tartelette_pomme_confiture_mirabelle_0018_bann.jpg)
 
 Pas de photo des tartelettes cuites, parce que j’ai décidé de ne garder que la photo des crues, je trouve qu’elle parle d’elle même et c’est bien plus joli ainsi, non? Je sais pas ce que vous en pensez mais moi j’adore les mirabelles, aussi bien leur couleur que leur saveur, en fait c’est mon fruit préféré… et en confitures (ou gelée si comme moi il y a trop de sucre et que cela cuit trop longtemps : oups !) c’est juste exquis !
 
-Voici donc une petite recette, simple, rapide et pleines de bons fruits ! Pour la réalisation puis la dégustation, il ne vous faudra rien de grandiose : des [moules](http://www.rueducommerce.fr/m/pl/malid:5325292) à tartelettes, un [couteau](http://www.rueducommerce.fr/m/pl/malid:12468606), des petites [cuillères](http://www.rueducommerce.fr/m/pl/malid:43774626) et une bonne dose de gourmandise !
+Voici donc une petite recette, simple, rapide et pleines de bons fruits ! Pour la réalisation puis la dégustation, il ne vous faudra rien de grandiose : des moules à tartelettes, un couteau, des petites cuillères et une bonne dose de gourmandise !
 
 Pour 4 tartelettes
 
@@ -41,7 +39,7 @@ Pour 4 tartelettes
 
 <div style="text-align: justify;">2- Placez vos cercles de pâtes dans les moules en n’oubliant pas de laisser du papier sulfurisé en dessous (au risque d’avoir beaucoup de mal à décoller vos tartelettes !). Piquez vos tartelettes à l’aide d’une fourchette
 
-3- Préchauffez votre [four](http://www.rueducommerce.fr/m/pl/malid:9404136) à 180°C
+3- Préchauffez votre four à 180°C
 
 4- Etalez une couche de confiture dans le fond de vos tartelettes, puis ajoutez vos quartiers de pommes
 

@@ -22,7 +22,7 @@ Beh oui comme (presque) tout le monde, je vous ai concocté une **galette des 
 
 Maiiiiiis parce que je suis une fille vraiment très intelligente, j’avais prévu le coup du « cela ne fonctionnera pas » en achetant au préalable deux pâtes feuilletés dans le commerce, histoire de me rattraper et de ne pas gâcher la frangipane hihi ! Ce pourquoi je vous présente la veille de l’Epiphanie, une belle galette des Rois ! Pour la réalisation de la farce j’ai plus ou moins repris la recette de [la ganache macarons des Rois du blog Pure gourmandise](http://www.puregourmandise.com/recettes/251.htm) !
 
-Du coup pas besoin de grand chose pour la confection de la galette, sauf si vous décidez de faire votre pâte feuilleté vous même, mise à part cela il vous faudra : un [cul de poule](http://www.rueducommerce.fr/m/pl/malid:48515370) ou saladier, un [verre doseur](http://www.rueducommerce.fr/index/Verre%20doseur%20plastique), une [spatule](http://www.rueducommerce.fr/m/pl/malid:48515367) pour racler les bords (en manger la moitié de la préparation), un [pinceau de cuisine](http://www.rueducommerce.fr/index/pinceau%20de%20cuisine) ainsi qu’un bon [couteau](http://www.rueducommerce.fr/m/pl/malid:12468606) pour faire de belles parts !
+Du coup pas besoin de grand chose pour la confection de la galette, sauf si vous décidez de faire votre pâte feuilleté vous même, mise à part cela il vous faudra : un cul de poule ou saladier, un verre doseur, une spatule pour racler les bords (en manger la moitié de la préparation), un pinceau de cuisine ainsi qu’un bon couteau pour faire de belles parts !
 
 Pour 8 personnes
 

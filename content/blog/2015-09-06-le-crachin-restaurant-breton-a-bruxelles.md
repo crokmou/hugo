@@ -9,8 +9,6 @@ disqusId: 4102988669
 slug: le-crachin-restaurant-breton-a-bruxelles
 ---
 
-
-
 **Le Crachin**
 _rue de Flandre, 12_
 _1000 Bruxelles_

@@ -12,7 +12,7 @@ slug: concours-tirage-au-sort-pour-feter-la-remise-a-neuf-de-crokmou
 
 Bien le bonjour mes gourmands (des) ! Je vous ai dit que je vous réservai une petite surprise ! Pour le plus grand bonheur de tout le monde je vous organise un petit concours afin de fêter le nouveau [Cro »K »Mou](https://www.facebook.com/pages/CroKMou/148093255259077) (que j’espère vous appréciez !).
 
-Ce concours consiste à vous faire **gagner 2 petits livres aux choix de la collection les petits Marabout**, il y aura **trois gagnants tirés au sort**. Je tiens d’ailleurs à remercier mon partenaire [**Rue du Commerce**](http://rueducommerce.fr/) sans qui ce concours n’existerait pas !
+Ce concours consiste à vous faire **gagner 2 petits livres aux choix de la collection les petits Marabout**, il y aura **trois gagnants tirés au sort**. Je tiens d’ailleurs à remercier mon partenaire **Rue du Commerce** sans qui ce concours n’existerait pas !
 
 [![](http://2.bp.blogspot.com/-QRPpdwg5oN4/UCkJh_AP3wI/AAAAAAAADLg/PDv31vsn3fw/s1600/les+tout+petits+marabout.jpg)](http://2.bp.blogspot.com/-QRPpdwg5oN4/UCkJh_AP3wI/AAAAAAAADLg/PDv31vsn3fw/s1600/les+tout+petits+marabout.jpg)
 

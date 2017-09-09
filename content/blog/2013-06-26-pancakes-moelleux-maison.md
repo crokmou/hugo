@@ -30,7 +30,7 @@ Les **pancakes Américains**, j’ai toujours rêvé d’en faire ! Vous savez l
 
 Je sais que je suis un peu en retrait en ce moment mais c’est pour mieux revenir ! On va dire que je sature un peu de cuisine et que j’ai besoin d’un peu de temps mais ne vous inquiétez pas, je suis (je pense) presque rétablie et d’autres recettes ne vont pas tarder à arriver ! Je m’excuse aussi pour la qualité des photos, les fonds sont très moches, une parce que c’est un gif et que c’est comme ça, l’autre beh je sais pas pourquoi… lorsque j’importe sur picasa j’ai la vague impression que ca change un peu tout : contraste et basse qualité d’import. Je ne change pourtant rien à mes paramètres habituels mais il faut croire que c’est les changements Google. M’enfin bref… on est là pour manger hein, tant que c’est bon c’est ce qui importe le plus !
 
-Sortez votre [saladier](http://www.rueducommerce.fr/m/pl/malid:4769897), un [fouet en inox](http://www.rueducommerce.fr/index/ustensile%20Fouet%20inox) ou un [robot pâtissier](http://www.rueducommerce.fr/m/pl/malid:229,30023831), une [spatule](http://www.rueducommerce.fr/m/pl/malid:48515367), une [crêpière](http://www.rueducommerce.fr/m/pl/malid:15123296) (j’ai opté pour la familiale qui fait 6 petites crêpes en même temps) ou une simple [poêle](http://www.rueducommerce.fr/m/pl/malid:4769951) et n’oubliez pas votre touche de gourmandise !
+Sortez votre saladier, un fouet en inox ou un robot pâtissier, une spatule, une crêpière (j’ai opté pour la familiale qui fait 6 petites crêpes en même temps) ou une simple poêle et n’oubliez pas votre touche de gourmandise !
 
 ## **Recette des pancakes moelleux**
 

@@ -26,13 +26,11 @@ disqusId: 3587683975
 slug: tapioca-lait-de-riz-rhubarbe-the-matcha
 ---
 
-
-
 Je sais pas vous mais en ce moment j’ai besoin de me remonter le moral avec des petites recettes exotiques ! Comme tout le monde je pense, ce mauvais temps tout gris commence à me pomper et j’ai cruellement besoin de soleil et de vacances. Pour remédier à cela je vous propose donc une recette simple et rapide qui vous réchauffera le coeur en quelques minutes. C’est frais, gourmand, amusant… je vous présente une **boisson** à base de **tapioca au lait de riz, confiture de rhubarbe et thé vert matcha**.
 
 J’aime beaucoup l’alliance du matcha et de le rhubarbe, ce sont vraiment des saveurs qui s’accordent bien. Le tapioca ajoute un côté amusant à la boisson, les petites billets éclatent un peu en bouche, en bref, une recette parfaite pour changer un peu du smoothie !
 
-Sortez tout de même une [casserole](http://www.rueducommerce.fr/index/casserole%20fonte), une [cuillère à soupe](http://www.rueducommerce.fr/index/cuillere%20a%20soupe), un [verre doseur](http://www.rueducommerce.fr/index/Verre%20doseur%20plastique), une [louche](http://www.rueducommerce.fr/index/Louche) et des verres sympa !
+Sortez tout de même une casserole, une cuillère à soupe, un verre doseur, une louche et des verres sympa !
 
 Pour 2 verres 25cl
 

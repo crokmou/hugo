@@ -30,7 +30,7 @@ Pour bien faire il est donc **important d’anticiper et de se faire dépister**
 
 Vous retrouverez toutes les réponses à vos questions sur le site Internet [Cancerdusein.org](http://cancerdusein.org/) et en attendant n’oubliez pas d’en parler 😉
 
-Passons dès à présent à la recette rose, enfin non les recettes, elles sont simples mais il y en a deux ! Là encore vous n’aurez pas besoin de dévaliser un magasin d’[ustensiles de cuisine](http://www.rueducommerce.fr/m/pl/malid:43774567), munissez vous d’une [casserole](http://www.rueducommerce.fr/m/pl/malid:115), d’un [couteau de cuisine](http://www.rueducommerce.fr/m/pl/malid:12468606), d’une mandoline si vous avez ou sinon faites comme moi sortez l’[éplucheur](http://www.rueducommerce.fr/m/pl/malid:43774618) et enfin une [planche à découper](http://www.rueducommerce.fr/m/pl/malid:4820408).
+Passons dès à présent à la recette rose, enfin non les recettes, elles sont simples mais il y en a deux ! Là encore vous n’aurez pas besoin de dévaliser un magasin d’ustensiles de cuisine, munissez vous d’une casserole, d’un couteau de cuisine, d’une mandoline si vous avez ou sinon faites comme moi sortez l’éplucheur et enfin une planche à découper.
 
 Avant ça je n’avais jamais mangé de velouté à la betterave et bien sachez que c’est vraiment très bon avec un peu de fromage frais et de la bonne baguette c’est un régal ! En ce qui concerne les chips c’est très simple à faire si on a un peu de temps devant soi et ça fait fureur à l’apéro !
 

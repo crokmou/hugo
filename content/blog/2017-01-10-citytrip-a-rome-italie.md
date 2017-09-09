@@ -9,8 +9,6 @@ disqusId: 5451727898
 slug: citytrip-a-rome-italie
 ---
 
-
-
 **Rome,** une ville dont j’avais déjà arpenté les rues lorsque j’étais petite mais que j’ai récemment pu redécouvrir avec ma moitié (grâce à un concours gagné sur le joli blog de [Myriam – La cuisine c’est simple](http://www.lacuisinecestsimple.com/)). Début Décembre, l’Italie nous voilà ! Si il y a une chose à laquelle je ne m’attendais pas c’est un temps particulièrement printanier. A peine arrivés à l’Aéroport nous étions en tee-shirt, alors que nous avions quittés Bruxelles en manteaux 3h auparavant, je dois dire que cela nous a fait un bien fou.
 
 Rome est une ville bien singulière, il y a tellement de choses à découvrir, j’ai passé 2 jours le nez levé à regarder l’architecture, les peintures, les moulures… Tout est absolument magnifique. La ville peut paraitre grande mais finalement il est très simple de tout faire à pieds. Le charme des façades aux couleurs chaudes qui se mêlent aux bâtiments anciens rend cette ville chaleureuse et accueillante. Seules deux petites choses nous ont gêné durant notre périple : les vendeurs attrape-touristes qui t’interceptent tous les 2m et les commerçants peu agréables.
@@ -50,7 +48,6 @@ Je l’ai dit plus haut et n’hésite pas à vous le dire une seconde fois, per
 * Non loin du Vatican se trouve le **Château Saint-Ange**. Un monument à voir sans hésitations ! Je vous en parle [au travers d’un autre billet](http://www.crokmou.com/2017/04/visite-chateau-saint-ange-rome) puisque j’ai visité le mausolée de l’intérieur et se fût une belle découverte.   ![Vue chateau Saint-Ange - Citytrip à Rome](http://www.crokmou.com/wp-content/uploads/2016/12/weekend-rome-italie-crokmou-blog-cuisine-voyage-belgique-68.jpg)
 
 ## 2 – Se loger à Rome {#loger}
-
 
 * Tout comme mon [Citytrip à Rotterdam](http://www.crokmou.com/2016/11/citytrip-a-rotterdam), là encore je n’ai fait qu’un Hôtel. Ayant gagné une box dans laquelle je pouvais choisir parmi 2 établissements à Rome, j’ai choisi l’**Hôtel Savoy**. Celui-ci se trouve non loin du parc de la villa Borghese. Il y a tout le confort demandé pour un Hôtel : chambre correcte, petit déjeuner avec un bel assortiments composé de produits basiques. Malgré tout cela fait un peu vieillot, mais pas vieillot voulu, vieillot pas rafraichi depuis quelques années… C’est un peu dommage vu le prix des chambres à l’origine.Le restaurant de l’Hôtel dispose d’une très belle vue sur la Capitale. Les plats sont bons mais d’un mauvais rapport qualité/prix. Très peu dans l’assiette pour une addition assez salée (quand on compare avec les trattoria du coin)Petit plus, et pas des moindres, les chambres de l’Hôtel Savoy disposent d’un téléphone portable avec 4G. Cela nous a permis durant notre séjour de nous repérer et d’un regarder un peu ce qui se faisait de bon dans le coin où nous étions. _Via Ludovisi, 15, 00187 Roma_ – _[Site Internet](http://www.savoy.it/)_   ![](http://www.crokmou.com/wp-content/uploads/2016/12/weekend-rome-italie-crokmou-blog-cuisine-voyage-belgique-22.jpg) ![](http://www.crokmou.com/wp-content/uploads/2016/12/weekend-rome-italie-crokmou-blog-cuisine-voyage-belgique-18.jpg)![](http://www.crokmou.com/wp-content/uploads/2016/12/weekend-rome-italie-crokmou-blog-cuisine-voyage-belgique-21.jpg)
 

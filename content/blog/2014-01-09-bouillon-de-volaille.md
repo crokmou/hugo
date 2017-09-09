@@ -34,10 +34,10 @@ Pour 4/6 personnes
 – 2 clous de girofle
 – sel & poivre**○○○**
 
-1) Nettoyez, épluchez à l’aide d’un [éplucheur](http://www.rueducommerce.fr/m/pl/malid:43774618) vos légumes (carottes, céleri, navet et blanc de poireaux) et découpez les en gros morceaux. Piquez les clous de girofles dans l’oignon préalablement épluché.
-2) Dans une grande [cocotte](http://www.rueducommerce.fr/m/pl/malid:90) ou une [marmite](http://www.rueducommerce.fr/m/pl/malid:15123302), placez tous les ingrédients et versez l’eau, salez, poivrez. Faites chauffer le tout à feu moyen jusqu’aux premières ébullitions, à ce moment là réduisez le feu, couvrez le tout et laissez mijoter 1h30 environ.
+1) Nettoyez, épluchez à l’aide d’un éplucheur vos légumes (carottes, céleri, navet et blanc de poireaux) et découpez les en gros morceaux. Piquez les clous de girofles dans l’oignon préalablement épluché.
+2) Dans une grande cocotte ou une marmite, placez tous les ingrédients et versez l’eau, salez, poivrez. Faites chauffer le tout à feu moyen jusqu’aux premières ébullitions, à ce moment là réduisez le feu, couvrez le tout et laissez mijoter 1h30 environ.
 4) Une fois la cuisson terminée, retirez le surplus de gras à la surface à l’aide de papier absorbant.
-5) Deux choix s’offrent maintenant à vous : filtrez le bouillon et conservez le congelé pour d’autres préparations ou servez vous un [bol](http://www.rueducommerce.fr/m/pl/malid:4769881) avec un peu de légumes et quelques morceaux de poulet (personnellement je préfère recouper mes légumes une fois cuits pour qu’ils soient plus petits).
+5) Deux choix s’offrent maintenant à vous : filtrez le bouillon et conservez le congelé pour d’autres préparations ou servez vous un bol avec un peu de légumes et quelques morceaux de poulet (personnellement je préfère recouper mes légumes une fois cuits pour qu’ils soient plus petits).
 
 Qu’en dites vous ? Pour ceux qui n’aiment pas la volaille, rien ne vous empêche de faire un bouillon composé uniquement de légumes, pour cela procédez de la même manière sans le poulet 😉 See ya’ grands et petits gourmands <3
 

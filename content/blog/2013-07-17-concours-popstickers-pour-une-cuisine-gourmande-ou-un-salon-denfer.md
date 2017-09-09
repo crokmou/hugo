@@ -8,8 +8,6 @@ disqusId: 3587683690
 slug: concours-popstickers-pour-une-cuisine-gourmande-ou-un-salon-denfer
 ---
 
-
-
 Bonjour mes gourmands !
 
 En attendant le concours des 1000 abonnés Facebook, je vous propose aujourd’hui un concours « déco » en partenariat avec [Popstickers](http://www.popstickers.fr/) !

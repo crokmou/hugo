@@ -27,7 +27,7 @@ Bonsoir les gourmands ! Me voilà de retour avec une autre petite recette spéci
 
 Il y a quelques jours j’ai découvert chez [Delhaize](http://fr.delhaize.be/) le boudin blanc* de Liège (fabriqué de manière artisanale) aux figues… et pour tout vous dire il n’est pas mauvais du tout ! Bien que je ne sente pas énormément les figues, le boudin blanc en lui même est vraiment bon et de bonne qualité (comptez 10,95€/kilo). Au départ j’hésitai entre des petits amuses bouche ou des aumonières aux pommes, boudin blanc aux figues et camembert… mais comme vous pouvez le constater j’ai finalement opté pour la première solution !
 
-Ces petits feuilletés raviront vos convives à coup sûr ! Et puis ce qui est bien c’est que c’est plutôt simple et rapide à faire, que demander de plus lors des préparations du réveillon ?! Pour la recette, vous aurez besoin d’un [éplucheur](http://www.rueducommerce.fr/m/pl/malid:43774618), d’un [hachoir](http://www.rueducommerce.fr/m/pl/malid:9633606) ou d’un [couteau de cuisine](http://www.rueducommerce.fr/m/pl/malid:12468606) pour les poires, d’[emportes pieces](http://www.rueducommerce.fr/m/pl/malid:43774610) pour la pâte feuilletée, d’une [poêle](http://www.rueducommerce.fr/m/pl/malid:4769951) et d’un four !
+Ces petits feuilletés raviront vos convives à coup sûr ! Et puis ce qui est bien c’est que c’est plutôt simple et rapide à faire, que demander de plus lors des préparations du réveillon ?! Pour la recette, vous aurez besoin d’un éplucheur, d’un hachoir ou d’un couteau de cuisine pour les poires, d’emportes pieces pour la pâte feuilletée, d’une poêle et d’un four !
 
 Pour environ 13 feuilletés de 5cm de diamètre
 

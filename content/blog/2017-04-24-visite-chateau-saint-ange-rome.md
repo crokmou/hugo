@@ -9,8 +9,6 @@ disqusId: 5751970103
 slug: visite-chateau-saint-ange-rome
 ---
 
-
-
 **Castel Sant’Angelo**
 Lungotevere Castello, 50
 00193 ROMA

@@ -25,7 +25,7 @@ Trop peu connaissent ou cuisinent l’oseille, et pourtant vous ne savez pas ce 
 
 Il y avait très longtemps que je n’avais pas déguster de la soupe à l’oseille, et cela m’a beaucoup manqué ! (Pas toujours simple a trouver ce légume). Le plus simple et de l’acheter surgelé !
 
-N’oubliez donc pas pour réaliser cette recette : de sortir vos pommes de terre (et votre oseille si celle-ci est fraiche) du [panier réfrigérateur](http://www.rueducommerce.fr/m/pl/malid:15123390), sortez votre [marmite](http://www.rueducommerce.fr/m/pl/malid:15123302), votre belle [cuillère](http://www.rueducommerce.fr/m/pl/malid:43774626) en bois (pour touiller), ainsi qu’un gros [bol](http://www.rueducommerce.fr/m/pl/malid:4769881) pour déguster !
+N’oubliez donc pas pour réaliser cette recette : de sortir vos pommes de terre (et votre oseille si celle-ci est fraiche) du panier réfrigérateur, sortez votre marmite, votre belle cuillère en bois (pour touiller), ainsi qu’un gros bol pour déguster !
 
 Pour 4 bols
 

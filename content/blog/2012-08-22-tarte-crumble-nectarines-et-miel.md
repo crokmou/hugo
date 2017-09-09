@@ -24,7 +24,7 @@ La grand mère de mon hom nous fait cette petite tarte crumble(aux pommes), à c
 
 La prochaine fois j’aimerai essayer la même chose mais avec des mirabelles et peut être un crumble avec une touche de fleur d’oranger ! Après il y a bien sûr bien d’autres combinaisons : framboises et crumble au thé vert matcha, fraises et crumble au chocolat, pommes et crumble lavande … etc etc
 
-Pour réaliser cette recette, vous aurez donc besoin d’une [poêle](http://www.rueducommerce.fr/m/pl/malid:4769951) pour faire caraméliser vos fruits, d’un [bol](http://www.rueducommerce.fr/m/pl/malid:4769881) pour confectionner le crumble, de votre [matériel à pâtisserie](http://www.rueducommerce.fr/m/pl/malid:12468605) si vous souhaitez faire la [pâte feuilleté vous même](http://www.chefnini.com/pate-feuilletee/), d’un [moule](http://www.rueducommerce.fr/m/pl/malid:5325292) pour réaliser la tarte, d’un [four](http://www.rueducommerce.fr/m/pl/malid:9404136) pour cuire le tout, et d’une belle [assiette](http://www.rueducommerce.fr/m/pl/malid:4769879) pour servir au gouter !
+Pour réaliser cette recette, vous aurez donc besoin d’une poêle pour faire caraméliser vos fruits, d’un bol pour confectionner le crumble, de votre matériel à pâtisserie si vous souhaitez faire la [pâte feuilleté vous même](http://www.chefnini.com/pate-feuilletee/), d’un moule pour réaliser la tarte, d’un four pour cuire le tout, et d’une belle assiette pour servir au gouter !
 
 Pour 6/8 personnes
 
@@ -43,7 +43,7 @@ Pour 6/8 personnes
 6- Enfournez environ 30 à 40 min
 7- Dégustez tiède ou froid, avec éventuellement une petit boule de [glace au yaourt](http://www.crokmou.com/2012/03/glace-au-yaourt.html) (ou à ce que vous voulez !)
 
-N’oubliez pas le [petit concours](http://www.crokmou.com/2012/08/concours-tirage-au-sort-pour-feter-la.html) organisé en partenariat avec [Rue du Commerce](http://rueducommerce.fr/), afin de peut être gagner deux petits livres Marabout. Vous n’avez rien à perdre, et tout à y gagner ! Cliquez sur l’image ci-dessous pour acceder au concours !
+N’oubliez pas le [petit concours](http://www.crokmou.com/2012/08/concours-tirage-au-sort-pour-feter-la.html) organisé en partenariat avec Rue du Commerce, afin de peut être gagner deux petits livres Marabout. Vous n’avez rien à perdre, et tout à y gagner ! Cliquez sur l’image ci-dessous pour acceder au concours !
 
 [![](http://1.bp.blogspot.com/-O4HP4nuUPfc/UCkFCYjUKKI/AAAAAAAADKY/0Cxf4_P5i_w/s320/les+tout+petits+marabout_bann.jpg)](http://www.crokmou.com/2012/08/concours-tirage-au-sort-pour-feter-la.html)
 

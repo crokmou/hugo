@@ -22,7 +22,7 @@ Il y a quelques années maintenant, manger de la soupe se résumait à une seule
 
 Voilà pourquoi je vous présente cette recette de **velouté de courgettes à la Vache qui rit®** : pour peut-être aider le plus retissant d’entre vous à manger des légumes ! Et puis cette recette, beh elle est vraiment délicieuse !
 
-Munissez vous d’une grande [casserole](http://www.rueducommerce.fr/index/casserole%20fonte) ou d’une [cocotte](http://www.rueducommerce.fr/index/cocotte), d’un [éplucheur](http://www.rueducommerce.fr/m/pl/malid:43774618), d’un [couteau de cuisine](http://www.rueducommerce.fr/m/pl/malid:12468606) ainsi que de votre [pied mixeur](http://www.rueducommerce.fr/m/pl/malid:15123483) ! Voilà, vous êtes prêts à faire de la soupe !
+Munissez vous d’une grande casserole ou d’une cocotte, d’un éplucheur, d’un couteau de cuisine ainsi que de votre pied mixeur ! Voilà, vous êtes prêts à faire de la soupe !
 
 Pour 4 bols
 
@@ -36,7 +36,7 @@ Pour 4 bols
 – crème fraiche (facultatif)
 – sel & poivre
 
-1- Dans votre [cocotte](http://www.rueducommerce.fr/index/cocotte), faites revenir les oignons préalablement émincés dans un peu de beurre.
+1- Dans votre cocotte, faites revenir les oignons préalablement émincés dans un peu de beurre.
 2- Pendant que les oignons fondent, épluchez et coupez vos pommes de terre ainsi que les courgettes (pour ma part je les épluche une bande sur deux… allez savoir pourquoi), coupez le tout en morceaux
 3- Ajoutez vos légumes dans la cocotte et versez votre bouillon. Rajoutez un peu d’eau si les légumes ne sont pas totalement recouverts.
 4- Laissez cuire à feu doux/moyen pendant environ 30/45min

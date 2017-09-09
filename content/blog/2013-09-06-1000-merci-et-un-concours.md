@@ -68,15 +68,15 @@ Pour cette fois je vais donc vous faire cuisiner, oui, oui, mais rassurez vous v
 
  <span style="line-height: 20px;"></span>
 
-<span style="line-height: 20px;"><u>Le dernier partenaire à nous rejoindre et pas des moindre, n’est autre que mon plus vieil « ami », [Rue du Commerce](http://www.rueducommerce.fr/) :</u></span>
+<span style="line-height: 20px;"><u>Le dernier partenaire à nous rejoindre et pas des moindre, n’est autre que mon plus vieil « ami », Rue du Commerce :</u></span>
 
 <span style="line-height: 20px;"></span>
 
 ![](http://www.crokmou.com/wp-content/uploads/2013/09/logoRDC-300x1881-300x188.jpg)
 
-Je ne suis pas certaine de devoir à nouveau vous le présenter néanmoins je vais vous rappeler les grandes lignes : [Rue du Commerce](http://www.rueducommerce.fr/) est un site de vente en ligne où vous trouverez de tout, de la déco, de l’électroménager, des téléviseurs, des machines à expresso… en bref tout ce dont vous aurez (peut être) besoin se trouve certainement sur le site !
+Je ne suis pas certaine de devoir à nouveau vous le présenter néanmoins je vais vous rappeler les grandes lignes : Rue du Commerce est un site de vente en ligne où vous trouverez de tout, de la déco, de l’électroménager, des téléviseurs, des machines à expresso… en bref tout ce dont vous aurez (peut être) besoin se trouve certainement sur le site !
 
-Envie de vous faire plaisir ? Passez donc sur [leur site internet](http://www.rueducommerce.fr/) et si vous avez une question à poser rendez vous sur [leur page Facebook](https://www.facebook.com/rueducommerce) !
+Envie de vous faire plaisir ? Passez donc sur leur site internet et si vous avez une question à poser rendez vous sur [leur page Facebook](https://www.facebook.com/rueducommerce) !
 
 Nous allons maintenant passer au vif du sujet, **le concours** !
 

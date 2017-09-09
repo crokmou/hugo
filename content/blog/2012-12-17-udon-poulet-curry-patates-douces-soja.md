@@ -32,7 +32,7 @@ Les udon sont des nouilles Japonaise à base de farine de blé, de sel et d’ea
 
 Pour ma part je trouve ces pates dans des supermarchés asiatiques, souvent je prend la marque Hakubaku. La préparation de ses Udon reste identique à celle des pates que l’on connait habituellement.
 
-J’aime beaucoup ce genre de recette car c’est vraiment facile à réaliser et cela ne prend que très peu de temps, c’est donc parfait pour les jours de « flemme » (parce que les jours de graaaande flemme c’est des pates au gruyère). Pour la réalisation des udon, sortez un [couteau de cuisine](http://www.rueducommerce.fr/m/pl/malid:12468606), une [poêle](http://www.rueducommerce.fr/m/pl/malid:4769951), une [casserole](http://www.rueducommerce.fr/index/casserole%20fonte), du curry et du cumin de votre [boite à épices](http://www.rueducommerce.fr/index/boite%20a%20epice) ainsi qu’une [cuillère à café](http://www.rueducommerce.fr/index/cuillere%20a%20cafe) pour doser.
+J’aime beaucoup ce genre de recette car c’est vraiment facile à réaliser et cela ne prend que très peu de temps, c’est donc parfait pour les jours de « flemme » (parce que les jours de graaaande flemme c’est des pates au gruyère). Pour la réalisation des udon, sortez un couteau de cuisine, une poêle, une casserole, du curry et du cumin de votre boite à épices ainsi qu’une cuillère à café pour doser.
 
 Pour environ 3/4 personnes
 
@@ -59,7 +59,7 @@ Pour environ 3/4 personnes
 
 </div>
 
-Bon appétit ! **Et parce que je suis une grande curieuse, quelles sont vos recettes rapides de pates à la maison ?** Pour petit rappel : Un concours est organisé sur le blog en partenariat avec [RuduCommerce](http://www.rueducommerce.fr/) afin de vous faire gagner un livre ainsi qu’un ustensile de cuisine de votre choix d’une valeur maximum de 50€, il ne vous reste que 4 jours pour participer ! [Lien vers le concours](http://www.crokmou.com/2012/12/concours-noel-rue-du-commerce.html)
+Bon appétit ! **Et parce que je suis une grande curieuse, quelles sont vos recettes rapides de pates à la maison ?** Pour petit rappel : Un concours est organisé sur le blog en partenariat avec RuduCommerce afin de vous faire gagner un livre ainsi qu’un ustensile de cuisine de votre choix d’une valeur maximum de 50€, il ne vous reste que 4 jours pour participer ! [Lien vers le concours](http://www.crokmou.com/2012/12/concours-noel-rue-du-commerce.html)
 
 [![](http://multiply.com/mu/rikodewayne/image/1/photos/3/500x500/16/s-ramen-1.gif?et=BT7WzV773TPNSvis9ZkhMg&nmid=307202166)](http://multiply.com/mu/rikodewayne/image/1/photos/3/500x500/16/s-ramen-1.gif?et=BT7WzV773TPNSvis9ZkhMg&nmid=307202166)
 

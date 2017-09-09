@@ -31,7 +31,7 @@ _Then convinced? Not to lie to you, at the base I had planned a different recipe
 
 [![](http://www.crokmou.com/wp-content/uploads/2013/04/20130407_cupcake_tiramisu_00251-200x3001-200x300.jpg)](http://www.crokmou.com/wp-content/uploads/2013/04/20130407_cupcake_tiramisu_00251-200x3001.jpg)[![](http://www.crokmou.com/wp-content/uploads/2013/04/20130407_cupcake_tiramisu_0035-200x3001-200x300.jpg)](http://www.crokmou.com/wp-content/uploads/2013/04/20130407_cupcake_tiramisu_0035-200x3001.jpg)
 
-Pour réaliser ces cupcakes, vous aurez besoin d’une [balance](http://www.rueducommerce.fr/m/pl/malid:92,254318) pour peser vos ingrédients, de votre [matériel à pâtisserie](http://www.rueducommerce.fr/m/pl/malid:12468605) dont un [fouet](http://www.rueducommerce.fr/index/ustensile%20Fouet%20inox) (super important), de [moules à muffins](http://www.rueducommerce.fr/index/moule%20a%20muffins) ou des [moules en silicone](http://www.rueducommerce.fr/index/Moule%20silicone), d’une [poche à douille](http://www.rueducommerce.fr/index/poche%20a%20douille) (et d’une [spatule](http://www.rueducommerce.fr/m/pl/malid:48515367) pour racler la pâte parce que c’est super bon)
+Pour réaliser ces cupcakes, vous aurez besoin d’une balance pour peser vos ingrédients, de votre matériel à pâtisserie dont un fouet (super important), de moules à muffins ou des moules en silicone, d’une poche à douille (et d’une spatule pour racler la pâte parce que c’est super bon)
 
 _To realize these cupcakes, you will need a scales to weigh your ingredients, of your pastry equipment in particular a whip (really important), of muffin tins or silicone molds, a piping bag (and of a spatula to scrape the dough because it is excellent)_
 

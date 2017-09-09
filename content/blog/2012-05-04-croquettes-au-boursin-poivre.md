@@ -24,7 +24,7 @@ Depuis ce jour, ce midi, je suis donc devenue une addict du boursin au poivre (d
 
 Je vous présente donc pour vos apéros, les fameux cheesy (ou croquettes) qui raviront vos convives (ou votre petite famille) à coup sûr !
 
-Pour cela munissez vous d’une [casserole](http://www.rueducommerce.fr/m/pl/malid:115) ou d’une [sauteuse](http://www.rueducommerce.fr/m/pl/malid:15123301), d’un [robot](http://www.rueducommerce.fr/m/pl/malid:229) mixeur ([Moulinex](http://www.rueducommerce.fr/m/pl/malid:88589) par exemple) et de [bols](http://www.rueducommerce.fr/m/pl/malid:4769881) (pour le mélange des ingrédients et pour le service en table)
+Pour cela munissez vous d’une casserole ou d’une sauteuse, d’un robot mixeur (Moulinex par exemple) et de bols (pour le mélange des ingrédients et pour le service en table)
 
 Pour 10 cheesy
 

@@ -19,7 +19,6 @@ ingredient_temps:
   - 'Préparation : 40 minutes  |  Pose : 24h  |  Cuisson : 35 minutes'
 ingredient_textarea: |
 
-
   ## Pour la pâte à tarte levée :
   
   

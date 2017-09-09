@@ -18,11 +18,11 @@ disqusId: 3587683463
 slug: glace-vanille-maison
 ---
 
-Il fait beau, il fait chaud et l’envie d’une bonne crème glacée se fait sentir ! Il n’est pas rare que durant ces jours de farniente je m’exerce un peu aux joies de la cuisine. L’année dernière mon partenaire [Rue du Commerce](http://www.rueducommerce.fr/) m’a gentiment offert une sorbetière, depuis je n’ai pas fait beaucoup de glaces mais j’ai envie d’y remédier ! Pour commencer, je révise mes classiques avec la **glace à la vanille** ! J’ai trouvé la recette sur [le blog d’Edda (Un déjeuner de soleil)](http://www.undejeunerdesoleil.com/), c’est d’ailleurs sur ce même blog que toutes mes envies de crèmes glacées débutent, il y en a pour tous les goûts !
+Il fait beau, il fait chaud et l’envie d’une bonne crème glacée se fait sentir ! Il n’est pas rare que durant ces jours de farniente je m’exerce un peu aux joies de la cuisine. L’année dernière mon partenaire Rue du Commerce m’a gentiment offert une sorbetière, depuis je n’ai pas fait beaucoup de glaces mais j’ai envie d’y remédier ! Pour commencer, je révise mes classiques avec la **glace à la vanille** ! J’ai trouvé la recette sur [le blog d’Edda (Un déjeuner de soleil)](http://www.undejeunerdesoleil.com/), c’est d’ailleurs sur ce même blog que toutes mes envies de crèmes glacées débutent, il y en a pour tous les goûts !
 
 Je n’ai pas été déçue par cette recette, la glace ressort onctueuse avec un (sacré) bon goût de vanille ! Le sirop de glucose fait que la glace est un peu moins « bloc de béton » que d’habitude et croyez moi ça fait toute la différence ! Si vous testez cette crème glacée, n’hésitez pas à m’en dire des nouvelles !
 
-Pour la réalisation, munissez vous d’une [casserole](http://www.rueducommerce.fr/m/pl/malid:115), d’un [saladier](http://www.rueducommerce.fr/m/pl/malid:4769897) ou d’un gros [bol](http://www.rueducommerce.fr/m/pl/malid:4769881), d’un [réfrigérateur](http://www.rueducommerce.fr/m/pl/malid:9633584) et d’un [congélateur](http://www.rueducommerce.fr/m/pl/malid:9633581) et pour finir si vous disposez d’une [sorbetière](http://www.rueducommerce.fr/m/pl/malid:9633614) c’est l’idéal.
+Pour la réalisation, munissez vous d’une casserole, d’un saladier ou d’un gros bol, d’un réfrigérateur et d’un congélateur et pour finir si vous disposez d’une sorbetière c’est l’idéal.
 
 Pour 6/8 personnes
 (cercles de 7,5cm de diamètre)

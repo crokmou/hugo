@@ -33,10 +33,10 @@ Pour une trentaine de brochettes
 
 **○○○**
 
-1- Coupez votre melon en deux et enlevez les pépins. Sortez de vos [ustensiles de cuisine](http://www.rueducommerce.fr/m/pl/malid:43774567) une [cuillère](http://www.rueducommerce.fr/m/pl/malid:43774626) à melon pour faire de belles billes ou sinon, comme moi, faites de votre mieux avec une simple [cuillère à café](http://www.rueducommerce.fr/index/cuillere%20a%20cafe) !
-2- Sortez ensuite le fromage de votre [réfrigérateur](http://www.rueducommerce.fr/m/pl/malid:9633584) et coupez le en dès à l’aide d’un [couteau de cuisine](http://www.rueducommerce.fr/m/pl/malid:12468606).
+1- Coupez votre melon en deux et enlevez les pépins. Sortez de vos ustensiles de cuisine une cuillère à melon pour faire de belles billes ou sinon, comme moi, faites de votre mieux avec une simple cuillère à café !
+2- Sortez ensuite le fromage de votre réfrigérateur et coupez le en dès à l’aide d’un couteau de cuisine.
 3- Coupez ensuite vos tranches de jambon en lanières que vous roulerez par la suite.
-4- Assemblez sur un pic à brochette : le melon, le jambon et le fromage. Disposez le tout dans une [assiette](http://www.rueducommerce.fr/m/pl/malid:4769879) pour la présentation.
+4- Assemblez sur un pic à brochette : le melon, le jambon et le fromage. Disposez le tout dans une assiette pour la présentation.
 5- Dégustez entre amis avec un bon jus de fruit ou un petit mojito !
 
 **Et vous, vos recettes fétiches pour l’apéro ? ** ** ** ** **

@@ -22,7 +22,7 @@ Nous y voilà ! Je vous l’avez dit dans l’article précédent, une petite re
 [Le chocolat noir aux framboises Cémoi](http://www.jaimelechocolat.fr/tablette-chocolat-bio-framboise-55-cacao.html/), dans les cookies on ne sent plus trop le goût de framboise (ce pourquoi j’en ai ajouté pour la recette), mais a déguster comme ca, le chocolat est excellent (comme tous les autres d’ailleurs). Une petite pointe d’acidité en bouche apporté par la framboise, mélangée à la douceur et au crémeux du chocolat !
 Et puis un cookies avec des framboises dedans ca rend la chose moins diabolique (avant les sorties en bikini !).
 
-Pour la recette, [celle de Cécile](http://mesgateauxrigolos.over-blog.com/article-32844330.html) (du blog Mes gateaux rigolos) m’a bien aidée ! Munissez vous d’un [four à micro-ondes](http://www.rueducommerce.fr/m/pl/malid:29456719) (pour les flemmardes comme moi qui n’ont pas l’envie d’attendre que le beurre devienne « pommade »), d’un [tablier](http://www.rueducommerce.fr/m/pl/malid:261), d’un [bol](http://www.rueducommerce.fr/m/pl/malid:4769881) (pour tout mélanger), des vos mimines (pour malaxer), d’une belle [assiette](http://www.rueducommerce.fr/m/pl/malid:4769879) (pour présenter) ou d’un [mug](http://www.rueducommerce.fr/m/pl/malid:4769906) rempli de café (pour savourer)
+Pour la recette, [celle de Cécile](http://mesgateauxrigolos.over-blog.com/article-32844330.html) (du blog Mes gateaux rigolos) m’a bien aidée ! Munissez vous d’un four à micro-ondes (pour les flemmardes comme moi qui n’ont pas l’envie d’attendre que le beurre devienne « pommade »), d’un tablier, d’un bol (pour tout mélanger), des vos mimines (pour malaxer), d’une belle assiette (pour présenter) ou d’un mug rempli de café (pour savourer)
 
 Pour 20 gros cookies
 

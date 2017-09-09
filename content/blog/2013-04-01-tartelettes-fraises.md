@@ -23,7 +23,7 @@ Mais aujourd’hui est un jour différent, j’avais envie de m’essayer à la 
 
 _Strawberries are so good! With some sugar, some honey, some whipped cream, some chocolate, nature: there are so many manners to savour them! Personally I prefer them with a little sugar, in a bowl, my small buttocks on a deckchair under the sun and hup a total pleasure! __But today is a different day, I wanted to try to do the strawberry pie (especially as the first Belgian strawberries have just made their appearance on stalls)! Well there is still progress to be made, first, remind me the next time not to take puff paste, it is not beautiful! I haven’t completely the hand with the confectioner’s custard even if nevertheless it was not bad of the whole! _
 
-Pour réaliser cette petit douceur qui nous ramène peu à peu aux mois d’été, vous aurez besoin : D’une [casserole](http://www.rueducommerce.fr/index/casserole%20fonte), d’un [cul de poule](http://www.rueducommerce.fr/index/casserole%20fonte) ou d’un saladier, de [moules à tartelettes](http://www.rueducommerce.fr/index/moule%20tartelette) ou d’un [moule](http://www.rueducommerce.fr/m/pl/malid:5325292) à tarte, d’un [fouet](http://www.rueducommerce.fr/index/ustensile%20Fouet%20inox) et d’une bonne dose de gourmandise !
+Pour réaliser cette petit douceur qui nous ramène peu à peu aux mois d’été, vous aurez besoin : D’une casserole, d’un cul de poule ou d’un saladier, de moules à tartelettes ou d’un moule à tarte, d’un fouet et d’une bonne dose de gourmandise !
 
 _To make this sweetness which bring back us little by little to the summer, you will need: of a pan, a mixing bowl or a salad bowl, tartlet molds or a pie plate, a whip and a good dose of greed!_
 

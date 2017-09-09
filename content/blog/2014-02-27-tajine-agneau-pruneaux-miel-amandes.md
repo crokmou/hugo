@@ -22,7 +22,7 @@ J’ai réalisé cette recette durant mon mois intensif pour Epicurien.be (oui o
 
 Les journées étant assez remplies dernièrement, il m’est donc impossible de vous réaliser une recette cette semaine, ce pourquoi je vous propose ce fameux **tajine aux pruneaux, miel et amandes**. Je me suis dit qu’après mes nombreux desserts, un petit plat vous ferez peut être plaisir, et puis ça sent bon les épices et les beaux jours, de quoi vous mettre en appétit !
 
-Pour réaliser cette recette vous aurez besoin d’une [cocotte](http://www.rueducommerce.fr/m/pl/malid:90) ou d’un plat à tajine, d’un bon [couteau de cuisine](http://www.rueducommerce.fr/m/pl/malid:12468606), de quelques [bols](http://www.rueducommerce.fr/m/pl/malid:4769881) et d’une [poêle](http://www.rueducommerce.fr/m/pl/malid:4769951). Rien de bien compliqué donc !
+Pour réaliser cette recette vous aurez besoin d’une cocotte ou d’un plat à tajine, d’un bon couteau de cuisine, de quelques bols et d’une poêle. Rien de bien compliqué donc !
 
 Concernant la recette, celle-ci étant mot pour mot celle du site d’Epicurien, je ne vois pas trop l’intérêt de la recopier, voici donc où vous pourrez la lire :
 

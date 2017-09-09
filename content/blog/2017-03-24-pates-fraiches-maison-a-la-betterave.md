@@ -30,8 +30,6 @@ Des **pâtes fraiches maison à la betterave** pour un repas simple et délicieu
 
 #briochedeprintemps. J’avais mon idée en tête mais tout ne s’est pas déroulé comme prévu, je reporte donc ma recette à plus tard ! En attendant je vous propose de **cuisiner des pâtes**, c’est basique c’est vrai, mais **lorsque c’est fait maison c’est tellement bon** ! Pour une fois, j’ai ajouté une touche de couleur avec la betterave, j’en avais un peu trop dans mon frigo, j’ai donc trouvé l’idée plutôt bonne lorsqu’une photo m’est apparue sur [Pinterest](https://www.pinterest.com/blogcrokmou/). Il est aussi possible d’en faire avec du pesto, de la roquette, des épinards, de l’encre de sèche, des épices… Mais j’avoue ne pas encore connaitre les proportions !
 
-
-
 ## **Recettes des pâtes fraiches maison à la betterave**
 
 * 1\. Dans un saladier ou sur le plan de travail, malaxer la farine, la purée de betterave et deux cuillères à soupe d’huile d’olive. Il va falloir pétrir un bon 5/10 minutes afin que la pâte devienne homogène et lisse. Si la pâte semble trop sèche, ajouter un peu d’eau, si au contraire celle-ci semble trop humide, ajouter un peu de farine. C’est une question d’habitude, avec le temps on apprend à « ressentir » la pâte, si si !

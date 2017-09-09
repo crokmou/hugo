@@ -34,11 +34,11 @@ Pour avoir déjà dégusté leurs produits je peux vous assurer que c’est du b
 
 ![](http://www.crokmou.com/wp-content/uploads/2014/07/nouveau-logo-rue-du-commerce-e1383845291399-300x1661-300x166.jpg)
 
-Le deuxième partenaire à faire équipe avec moi n’est autre que mon plus vieil ami, [Rue du Commerce](http://www.rueducommerce.fr/) !
+Le deuxième partenaire à faire équipe avec moi n’est autre que mon plus vieil ami, Rue du Commerce !
 
-[Rue du Commerce](http://www.rueducommerce.fr/) est une boutique en ligne spécialisé dans l’électronique, l’électroménager et la maison. Vous y trouverez de tout à des prix très intéressants. RdC étant une plateforme regroupant non seulement leur marque mais aussi beaucoup d’autres marchands, cela vous permet donc d’avoir un très large choix sur tous vos produits préférés.
+Rue du Commerce est une boutique en ligne spécialisé dans l’électronique, l’électroménager et la maison. Vous y trouverez de tout à des prix très intéressants. RdC étant une plateforme regroupant non seulement leur marque mais aussi beaucoup d’autres marchands, cela vous permet donc d’avoir un très large choix sur tous vos produits préférés.
 
-A titre d’exemple voici ce que vous pourriez trouver cet été pour votre plus grand plaisir (ou le mien =D) : un [siphon](http://www.rueducommerce.fr/index/siphon%20mastrad), une [sorbetière](http://www.rueducommerce.fr/m/pl/malid:9633614), une [corbeille à fruits](http://www.rueducommerce.fr/m/pl/malid:4769883)… De plus profitez en c’est les soldes en ce moment !
+A titre d’exemple voici ce que vous pourriez trouver cet été pour votre plus grand plaisir (ou le mien =D) : un siphon, une sorbetière, une corbeille à fruits… De plus profitez en c’est les soldes en ce moment !
 
 _______________________________
 
@@ -67,13 +67,13 @@ Il y aura en tout deux chanceux choisis par un jury de fins gourmets (des amis, 
 
 ![](http://www.crokmou.com/wp-content/uploads/2014/07/lot-1-casa-di-cecco-rue-du-commerce-300x1201-300x120.jpg)
 
-Un petit barbecue (d’une valeur d’environ 60€, produit non exhaustif, un article similaire peut être envoyé en cas de rupture de stock à la fin du concours) offert par [Rue du Commerce](http://www.rueducommerce.fr/). Mais aussi un [coffret Noël au Soleil](http://www.casadicecco.com/shop/fr/paniers-gourmands/136-coffr.html) par [Casa di Cecco](http://www.casadicecco.com/) comprenant : 1 pot de bruschetta méditerranéenne, 1 huile d’olive extra vierge aromatisée au basilic, 1 boite de rigatoni, 1 pot de crème d’asperges, 1 pot de crème d’olives noires,  1 sachet risotto aux tomates et basilic bio et une bouteille de sauce tomates aux légumes bio.
+Un petit barbecue (d’une valeur d’environ 60€, produit non exhaustif, un article similaire peut être envoyé en cas de rupture de stock à la fin du concours) offert par Rue du Commerce. Mais aussi un [coffret Noël au Soleil](http://www.casadicecco.com/shop/fr/paniers-gourmands/136-coffr.html) par [Casa di Cecco](http://www.casadicecco.com/) comprenant : 1 pot de bruschetta méditerranéenne, 1 huile d’olive extra vierge aromatisée au basilic, 1 boite de rigatoni, 1 pot de crème d’asperges, 1 pot de crème d’olives noires,  1 sachet risotto aux tomates et basilic bio et une bouteille de sauce tomates aux légumes bio.
 
 **Pour le 2ème gagnant : **
 
 ![](http://www.crokmou.com/wp-content/uploads/2014/07/lot-2-casa-di-cecco-rue-du-commerce-300x1201-300x120.jpg)
 
-Une [plancha](http://www.rueducommerce.fr/m/pl/malid:15123295) de table (d’une valeur d’environ 40€, produit non exhaustif, un article similaire peut être envoyé en cas de rupture de stock à la fin du concours) offerte par [Rue du Commerce](http://www.rueducommerce.fr/). Mais aussi un lot de trois huiles d’olives extra vierges aromatisées aux choix ([parmi la gamme lattina aluminium proposées sur l’eshop](http://www.casadicecco.com/shop/fr/6-huiles-et-sels)) offert par [Casa di Cecco](http://www.casadicecco.com/)
+Une plancha de table (d’une valeur d’environ 40€, produit non exhaustif, un article similaire peut être envoyé en cas de rupture de stock à la fin du concours) offerte par Rue du Commerce. Mais aussi un lot de trois huiles d’olives extra vierges aromatisées aux choix ([parmi la gamme lattina aluminium proposées sur l’eshop](http://www.casadicecco.com/shop/fr/6-huiles-et-sels)) offert par [Casa di Cecco](http://www.casadicecco.com/)
 
 #### A SAVOIR
 

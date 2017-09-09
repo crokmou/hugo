@@ -18,8 +18,6 @@ disqusId: 3587684869
 slug: cups-au-chocolat-blanc-et-amandes-glacage-chocolat-copeaux-damandes
 ---
 
-
-
 _Tout d’abord je vous explique comment je suis arrivée à cette recette, je surfais sur la toile des blogs de cuisine et je tombe sur un blog bien sympathique celui de [Cook’In](http://cookin.over-blog.com/210-index.html). Me voilà donc a rechercher des petites pâtisseries à confectionner pour le gouter, je tombe donc sur le « Gâteau fondant chocolat blanc/spéculoos et sa crème anglaise », cela semble bon, mais Spéculoos/chocolat blanc, un peu trop sucré à mon goût, je remplace donc les spéculoos par les amandes. Ne voulant pas non plus faire un gros gâteau, me voilà partie pour en faire des cups._
 <a name="more"></a>
 

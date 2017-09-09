@@ -28,7 +28,6 @@ ingredient_textarea: |
   * 2g d'agar-agar
   * 1/2 gousse de vanille
 
-
   ## Pour la gelée et la confiture :
 
   * rhubarbe (4/5 tiges)

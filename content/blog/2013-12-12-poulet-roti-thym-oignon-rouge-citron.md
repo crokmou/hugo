@@ -17,7 +17,7 @@ slug: poulet-roti-thym-oignon-rouge-citron
 
 Le poulet rôti, un de mes plats préféré ! Ce que j’aime par dessus tout : la peau délicieusement craquante, le blanc moelleux et le jus parfumé ! Pour moi les meilleurs poulets rôtis ont toujours été ceux que l’on retrouve sur le marché, allez savoir pourquoi, je trouve que cela n’a jamais le même goût que ce que l’on peut faire à la maison ! Malgré tout il existe quand même de très bonnes recettes à faire chez soi… La recette présentée aujourd’hui est simple, un classique du Dimanche midi, mais tellement bonne…
 
-Trève de blabla, à vos fourneaux ! Pour cette recette vous aurez besoin : d’un [couteau](http://www.rueducommerce.fr/m/pl/malid:12468606), d’une [cocotte](http://www.rueducommerce.fr/m/pl/malid:90) ou d’un [plat](http://www.rueducommerce.fr/index/plat%20a%20rotir) allant au four, d’un [louche](http://www.rueducommerce.fr/m/pl/malid:48515365) et… d’un [four](http://www.rueducommerce.fr/m/pl/malid:9404136) ^^ »
+Trève de blabla, à vos fourneaux ! Pour cette recette vous aurez besoin : d’un couteau, d’une cocotte ou d’un plat allant au four, d’un louche et… d’un four ^^ »
 
 Pour 4 personnes
 

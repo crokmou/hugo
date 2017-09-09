@@ -18,7 +18,7 @@ slug: tarte-tatin-pierre-herme
 
 Je raffole de la tarte tatin ! Je ne suis pas très desserts (ah bon ? c’est bien de Crokmou qu’on parle ? Oui oui je vous assure je ne mange que peu des recettes réalisées sur le blog hihi), mais la tarte tatin c’est un vrai délice pour moi, un péché scandaleux ! C’est moelleux, fondant, sucré comme il faut, craquant avec la pâte brisée, un bon goût de pommes… un bon goût d’enfance aussi ! Pour cette fois j’ai voulu réaliser la **tarte tatin selon Pierre Hermé**, juste pour voir si la petite madame que je suis est capable de réaliser une recette de grand chef. Et beh figurez vous que sans me vanter, c’était plutôt réussi ! Bon il y a certainement beaucoup de choses à redire, mais les pommes sont confites comme il faut, presque transparentes mais elles ont encore une certaine tenue !
 
-Pour réaliser ce fabuleux dessert vous aurez besoin : D’un [moule à tarte](http://www.rueducommerce.fr/index/moule%20tarte), de votre [matériel à pâtisserie](http://www.rueducommerce.fr/m/pl/malid:12468605), de [maniques](http://www.rueducommerce.fr/m/pl/malid:4769931) (oui parce que c’est chauuud, mes petits doigts ont soufferts), d’un [éplucheur](http://www.rueducommerce.fr/m/pl/malid:43774618) et d’un [cul de poule](http://www.rueducommerce.fr/m/pl/malid:48515370).
+Pour réaliser ce fabuleux dessert vous aurez besoin : D’un moule à tarte, de votre matériel à pâtisserie, de maniques (oui parce que c’est chauuud, mes petits doigts ont soufferts), d’un éplucheur et d’un cul de poule.
 
 Pour 1 moule de 25cm de diamètre
 

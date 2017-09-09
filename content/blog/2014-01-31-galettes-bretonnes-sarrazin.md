@@ -34,9 +34,9 @@ Pour 10 grandes galettes
 – 1 oeuf (facultatif, c’est pour que la galette accroche moins)
 – beurre
 
-1) Dans un [cul-de-poule](http://www.rueducommerce.fr/m/pl/malid:48515370), versez les farines avec le sel et creusez un puit (comme avec la purée =p). Ajoutez l’eau au fur et à mesure tout en mélangeant bien à l’aide d’un fouet. Ajoutez l’oeuf et mélangez à nouveau.2) Laissez poser au frais pendant 2h en couvrant le récipient d’un torchon propre.
+1) Dans un cul-de-poule, versez les farines avec le sel et creusez un puit (comme avec la purée =p). Ajoutez l’eau au fur et à mesure tout en mélangeant bien à l’aide d’un fouet. Ajoutez l’oeuf et mélangez à nouveau.2) Laissez poser au frais pendant 2h en couvrant le récipient d’un torchon propre.
 
-4) Faites chauffer votre [poêle](http://www.rueducommerce.fr/m/pl/malid:4769951) ou votre [crêpière](http://www.rueducommerce.fr/m/pl/malid:15123296) à feu moyen/fort avec du beurre. Versez une louche de pâte et étalez bien. Faites cuire les deux faces une à deux minutes chacune. (Retournez soigneusement la galette avec une [spatule](http://www.rueducommerce.fr/m/pl/malid:48515367))
+4) Faites chauffer votre poêle ou votre crêpière à feu moyen/fort avec du beurre. Versez une louche de pâte et étalez bien. Faites cuire les deux faces une à deux minutes chacune. (Retournez soigneusement la galette avec une spatule)
 
 5) Empilez les galettes dans une assiette et c’est prêt !
 

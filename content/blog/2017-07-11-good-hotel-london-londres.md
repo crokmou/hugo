@@ -8,8 +8,6 @@ categories:
 slug: good-hotel-london-londres
 ---
 
-
-
 **Good Hotel London**
 Western Gateway, Royal Victoria Dock
 London, E16 1FA

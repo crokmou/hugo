@@ -33,11 +33,11 @@ Pour 2 mugs
 – 1/2 mug de lait
 – sucre
 
-1) Dans une casserole, faites bouillir pendant 3 minutes les épices (cannelle, cardamome, poivre et gingembre) avec l’eau. (Certains moulent leurs épices à l’aide d’un [mortier](http://www.rueducommerce.fr/m/pl/malid:43774615) avant de les ajouter à la casserole)2) Baissez le feu et ajoutez le thé noir, faites bouillir encore 3 minutes
+1) Dans une casserole, faites bouillir pendant 3 minutes les épices (cannelle, cardamome, poivre et gingembre) avec l’eau. (Certains moulent leurs épices à l’aide d’un mortier avant de les ajouter à la casserole)2) Baissez le feu et ajoutez le thé noir, faites bouillir encore 3 minutes
 
 4) Versez ensuite le lait et un peu de sucre (pour le sucre c’est selon votre convenance), mélangez et laissez de nouveau bouillir 3 minutes.
 
-5) Filtrez le tout dans une petite [passoire](http://www.rueducommerce.fr/index/passoire) et servez chaud dans un [mug](http://www.rueducommerce.fr/m/pl/malid:4769906) !
+5) Filtrez le tout dans une petite passoire et servez chaud dans un mug !
 
 Il est tout à fait possible aussi d’ajouter des clous de girofle ou un peu de vanille, dans ce cas il suffit juste de les ajouter au mélange d’épice dans la casserole ! Et vous, avez vous déjà goûté ce mélange épicé ?
 

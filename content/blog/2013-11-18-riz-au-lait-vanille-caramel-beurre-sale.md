@@ -23,7 +23,7 @@ Il y a quelques temps [Apolina du blog Bombay-Bruxelles](http://bombay-bruxelles
 
 Entendons nous bien rien de bien grandiose, néanmoins le **riz au lait** c’est sacré pour moi ! *Welcome in my life on* Depuis toute petite, lorsque j’allais chez mon Papounet le week end il nous achetait toujours du riz au lait. Mais attention du riz au lait sans raisins secs, parce qu’on déteste ça tous les deux ! Du riz crémeux, fondant, légèrement croquant avec un peu de caramel et ce léger petit goût vanillé… hum que du bonheur ! Il y a des recettes comme ça que l’on oublie pas !
 
-Pour réaliser ce dessert, munissez vous d’une [balance de cuisine](http://www.rueducommerce.fr/m/pl/malid:9633601) ou d’un [verre](http://www.rueducommerce.fr/m/pl/malid:4769908) doseur, de [casseroles](http://www.rueducommerce.fr/m/pl/malid:115), d’une [spatule](http://www.rueducommerce.fr/m/pl/malid:48515367) ou d’une [cuillère](http://www.rueducommerce.fr/m/pl/malid:43774626) en bois ainsi qu’un [bocal](http://www.rueducommerce.fr/m/pl/malid:48515378) à confiture.
+Pour réaliser ce dessert, munissez vous d’une balance de cuisine ou d’un verre doseur, de casseroles, d’une spatule ou d’une cuillère en bois ainsi qu’un bocal à confiture.
 
 Concernant **la recette** je ne vais pas tout vous recopier, puisque vous pouvez la trouver directement **sur le** **[site Internet de Bosto](http://www.bosto.be/fr/blog-culinaire-recettes.html?blog=riz-au-lait-a-la-vanille/). **
 

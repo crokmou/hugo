@@ -51,17 +51,17 @@ Pour 8 cupcakes
 – 80 de sucre glace
 – 1 càs d’eau de rose
 
-<div style="text-align: justify;">1- Préchauffez votre [four](http://www.rueducommerce.fr/m/pl/malid:9404136) à 200°C
+<div style="text-align: justify;">1- Préchauffez votre four à 200°C
 
-<div style="text-align: justify;">2- Dans un [saladier](http://www.rueducommerce.fr/m/pl/malid:4769897), mélangez la farine, le sucre en poudre et la levure. Ajoutez ensuite le lait et l’oeuf, mélangez bien pour qu’il n’y ai pas de grumeaux. Ajoutez ensuite le beurre fondu, mélangez de nouveau, la pâte doit être homogène.
+<div style="text-align: justify;">2- Dans un saladier, mélangez la farine, le sucre en poudre et la levure. Ajoutez ensuite le lait et l’oeuf, mélangez bien pour qu’il n’y ai pas de grumeaux. Ajoutez ensuite le beurre fondu, mélangez de nouveau, la pâte doit être homogène.
 
 3- Ajoutez ensuite la pâte de framboises à tartiner ou vos framboises préalablement écrasées, de nouveau, mélangez.
 
-4- Déposez vos caissettes dans vos [moules](http://www.rueducommerce.fr/m/pl/malid:5325292) à cupcakes. Remplissez vos caissettes au 3/4 avec la pâte à cupcakes.
+4- Déposez vos caissettes dans vos moules à cupcakes. Remplissez vos caissettes au 3/4 avec la pâte à cupcakes.
 
 5- Enfournez pendant 20 minutes. Une fois les cupcakes cuits, laissez les refroidir avant d’entamer la déco
 
-6- Pour le topping : A l’aide votre [fouet robot](http://www.rueducommerce.fr/m/pl/malid:15123482) (ou votre [robot pâtissier](http://www.rueducommerce.fr/index/robot%20patissier)), fouettez la mascarpone, le sucre glace (préalablement tamisé) et l’eau de rose. Mettez votre pâte dans une poche à douille et décorez vos cupcakes.
+6- Pour le topping : A l’aide votre fouet robot (ou votre robot pâtissier), fouettez la mascarpone, le sucre glace (préalablement tamisé) et l’eau de rose. Mettez votre pâte dans une poche à douille et décorez vos cupcakes.
 
 </div>
 

@@ -21,8 +21,6 @@ disqusId: 3637273472
 slug: clafoutis-fraises-petales-de-roses-vanille-et-ricotta
 ---
 
-
-
 **Le 15 Mai 2012**
 
 Voilà je vous annonce que j’ai gagné la 3ème place au concours du [Défi-Fleurs](http://recettes.de/defi-fleurs) sur Recettes.de !
@@ -83,7 +81,7 @@ Bonjour les gourmands ! Je me suis enfin décidée à sortir mes fesses de ma be
 
 [![clafouti aux fraises, confit de pétales de roses, vanille et ricotta - dessert](http://3.bp.blogspot.com/-QuJcetB5tFs/T4WNt-dRgaI/AAAAAAAACFM/QB8-aeZkhxA/s1600/20120411_clafouti_fraise_confit_petale_rose_vanille_0010.jpg)](http://3.bp.blogspot.com/-QuJcetB5tFs/T4WNt-dRgaI/AAAAAAAACFM/QB8-aeZkhxA/s1600/20120411_clafouti_fraise_confit_petale_rose_vanille_0010.jpg)
 
-Pour réaliser ceci il vous faudra donc, un bon [couteau](http://www.rueducommerce.fr/m/pl/malid:12468606) (pour couper les fraises surgelées correctement), votre [matériel à pâtisserie](http://www.rueducommerce.fr/m/pl/malid:12468606), des [moules](http://www.rueducommerce.fr/m/pl/malid:5325292) à tartelettes, et une [cuillère](http://www.rueducommerce.fr/m/pl/malid:43774626) à soupe pour doser certains ingrédients !
+Pour réaliser ceci il vous faudra donc, un bon couteau (pour couper les fraises surgelées correctement), votre matériel à pâtisserie, des moules à tartelettes, et une cuillère à soupe pour doser certains ingrédients !
 
 <div>Pour environ 6 minis clafoutis
 

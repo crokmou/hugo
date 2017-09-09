@@ -9,8 +9,6 @@ disqusId: 4918401105
 slug: chouconut-patisserie-a-saint-gilles
 ---
 
-
-
 **Chouconut**
 Avenue Jean Volders, 46
 1060 Saint-Gilles

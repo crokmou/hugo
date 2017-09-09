@@ -45,14 +45,14 @@ Pour 4 personnes
 
 **○○○**
 
-1- Dans une [poêle](http://www.rueducommerce.fr/m/pl/malid:4769951) faites dorer vos oignons émincés.
-2- Mélangez dans un [saladier](http://www.rueducommerce.fr/m/pl/malid:4769897) votre viande et assaisonnez là avec du sel, du poivre et un peu de persil (préalablement ciselé à l’aide de [ciseaux](http://www.rueducommerce.fr/m/pl/malid:43774606) ou d’un bon [couteau](http://www.rueducommerce.fr/m/pl/malid:12468606)). Formez ensuite des burgers d’environ 110g chacun.
-3- Dans un [bol](http://www.rueducommerce.fr/m/pl/malid:4769881) mélangez le ketchup et la mayonnaise (un peu plus de ketchup que de mayo), ajoutez ensuite une pointe de moutarde et relevez le tout avec du sel et du poivre.
+1- Dans une poêle faites dorer vos oignons émincés.
+2- Mélangez dans un saladier votre viande et assaisonnez là avec du sel, du poivre et un peu de persil (préalablement ciselé à l’aide de ciseaux ou d’un bon couteau). Formez ensuite des burgers d’environ 110g chacun.
+3- Dans un bol mélangez le ketchup et la mayonnaise (un peu plus de ketchup que de mayo), ajoutez ensuite une pointe de moutarde et relevez le tout avec du sel et du poivre.
 4- Coupez vos pains burgers en deux. Commencez à montre votre burger avec : un peu de sauce, puis les oignons et la salade.
 5- Faites cuire vos steaks dans une poêle bien chaude avec un peu de beurre
 6- Positionnez le steak au dessus de la salade puis ajoutez la tranche de cheddar, les tomates, encore un peu d’oignons et de sauces puis le chapeau du pain. Et voilà, un délicieux burger fait maison à déguster entre amis ou en famille !
 
-Astuce : Passez les burgers quelques minutes sous le grill du [four](http://www.rueducommerce.fr/m/pl/malid:9404136) avec de déguster, c’est encore meilleur !
+Astuce : Passez les burgers quelques minutes sous le grill du four avec de déguster, c’est encore meilleur !
 
 Il existe des tas de recettes d’hamburgers, j’ai moi même un petit penchant pour le hamburger savoyard : des petits lardons, reblochon, quelques pommes de terre… Et vous, des variantes d’hamburgers que vous aimez ?
 

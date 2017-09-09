@@ -43,7 +43,7 @@ Enfin, passons la nostalgie de la jeunesse (un choc vous dis-je, je me sens « 
 
 <a name="more"></a>
 
-Ce gâteau ravira vos papilles, cela change du gâteau au yaourt et de la tarte tatin. C’est moelleux, un peu fondant, gourmand et pas trop sucré ! Sortez de vos armoires : un [cul de poule](http://www.rueducommerce.fr/m/pl/malid:48515370) ou saladier, un [éplucheur](http://www.rueducommerce.fr/m/pl/malid:43774618), un [moule](http://www.rueducommerce.fr/m/pl/malid:5325292) à cake ([moule téfal](http://www.rueducommerce.fr/index/moule%20tefal) ou [moule en silicone](http://www.rueducommerce.fr/index/Moule%20silicone)), un [fouet en inox](http://www.rueducommerce.fr/index/ustensile%20Fouet%20inox) et une [poêle](http://www.rueducommerce.fr/m/pl/malid:4769951).
+Ce gâteau ravira vos papilles, cela change du gâteau au yaourt et de la tarte tatin. C’est moelleux, un peu fondant, gourmand et pas trop sucré ! Sortez de vos armoires : un cul de poule ou saladier, un éplucheur, un moule à cake (moule téfal ou moule en silicone), un fouet en inox et une poêle.
 
 Pour 6/8 personnes
 

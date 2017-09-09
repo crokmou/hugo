@@ -26,7 +26,7 @@ slug: risotto-asperges-vertes-abondance-noisettes
 
 Je suis de retour les gourmands ! J’espère que malgré le froid vous allez bien ! D’ailleurs quand on parle de températures glaciales, en général l’envie nous prend de manger des choses souvent copieuses comme le risotto, qui, quoi qu’on en dise tient bien au corps ! Pour ce soir justement j’avais envie de réaliser ce plat, mais a base d’asperges vertes cette fois, pour changer un peu des champignons. Oui, oui je sais bien les asperges vertes ne sont pas de saison, mais j’en avais terriblement envie, surtout en voyant [la recette de ma chère Nathalie](http://www.lacuisinedenathalie.com/article-risotto-aux-asperges-vertes-recette-facile-103995541.html) !
 
-Me voilà donc en pleine préparation d’un délicieux risotto : on sort les [casseroles](http://www.rueducommerce.fr/index/casserole%20fonte), la [poêle](http://www.rueducommerce.fr/m/pl/malid:4769951), un [couteau](http://www.rueducommerce.fr/m/pl/malid:12468606) et vos [ustensiles de cuisine](http://www.rueducommerce.fr/m/pl/malid:43774567) tel que planche à découper, cuillère en bois…
+Me voilà donc en pleine préparation d’un délicieux risotto : on sort les casseroles, la poêle, un couteau et vos ustensiles de cuisine tel que planche à découper, cuillère en bois…
 
 Pour 2 personnes
 

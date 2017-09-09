@@ -13,7 +13,6 @@ Les fêtes approchent à grands pas – et j’ai l’impression que cela va plu
 
 # Apéritifs
 
-
 * [Feuilletés boudin blanc, figues et poire](http://www.crokmou.com/2012/12/feuilletes-boudin-blanc-figues-poires)
 * [Brochettes de tomates cerise caramélisées et boursin](http://www.crokmou.com/2012/06/brochettes-de-tomates-cerise-caramelisees-boursin)
 
@@ -25,7 +24,6 @@ Les fêtes approchent à grands pas – et j’ai l’impression que cela va plu
 * [Crème brûlée à l’huile de truffe blanche ](http://www.crokmou.com/2016/11/creme-brulee-a-lhuile-de-truffe-blanche)
 
 # # Desserts
-
 
 * [Ananas mariné aux épices](http://www.crokmou.com/2013/03/ananas-marine-aux-epices)
 * [Bûche à la crème de marron](http://www.crokmou.com/2014/12/buche-a-la-creme-de-marrons-poire-gingembre)

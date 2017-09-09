@@ -23,7 +23,7 @@ Moi j’aime bien les milkshake parce que tu peux mettre n’importe quoi dedans
 
 **Et vous, votre Milkshake fétiche, il se compose de quoi ?** (n’hésitez pas à me donner le lien de la recette en commentaire, je me ferais un plaisir de la partager !)
 
-Pour ma part pas besoin de mettre votre cuisine à sac pour préparer ce rafraîchissement, un [blender](http://www.rueducommerce.fr/m/pl/malid:9633603) ([Kenwood](http://www.rueducommerce.fr/~kenwood), [Magimix](http://www.rueducommerce.fr/~magimix), [Moulinex](http://www.rueducommerce.fr/~moulinex), [Philips](http://www.rueducommerce.fr/~philips)… vous avez l’embarras du choix), un grand verre et le tour est joué ! Bon bien évidemment si vous souhaitez ajouter des fruits, il vous faut de bons fruits frais (parce qu’en général qu’on on prend des fruits congelés, le goût est pas top top et il y a trop d’eau)
+Pour ma part pas besoin de mettre votre cuisine à sac pour préparer ce rafraîchissement, un blender (Kenwood, Magimix, Moulinex, Philips… vous avez l’embarras du choix), un grand verre et le tour est joué ! Bon bien évidemment si vous souhaitez ajouter des fruits, il vous faut de bons fruits frais (parce qu’en général qu’on on prend des fruits congelés, le goût est pas top top et il y a trop d’eau)
 
 Pour 1 verre « haut »
 
@@ -32,7 +32,7 @@ Pour 1 verre « haut »
 -5/6 fraises
 -3 càc de jus de citron vert
 
-1- Mettez tous les ingrédients dans votre [blender](http://www.rueducommerce.fr/m/pl/malid:9633603)
+1- Mettez tous les ingrédients dans votre blender
 2- Mixez et versez le tout dans votre verre
 3- Dégustez bien frais à la paille (si il faut rajoutez des glaçons) avec votre frimousse tournée vers le soleil et vos petites fesses posées sur une chaise !
 
