@@ -2,7 +2,7 @@
 type: post
 title: Empanadas au poulet
 date: 2015-04-02T17:18:48+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943890/empanadas-poulet-recette-crokmou-blog-culinaire.jpg
+thumbnail: https://crokmou.com/images/empanadas-poulet-recette-crokmou-blog-culinaire.jpg
 categories: 
   - Plats
 tags: 

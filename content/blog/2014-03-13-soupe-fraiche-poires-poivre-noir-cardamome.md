@@ -2,7 +2,7 @@
 type: post
 title: Soupe fraîche de poires, poivre noir et cardamome
 date: 2014-03-13T13:42:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943975/soupe-poire-poivre-noir-cardamome.jpg
+thumbnail: https://crokmou.com/images/soupe-poire-poivre-noir-cardamome.jpg
 categories: 
   - Desserts
 tags: 

@@ -2,7 +2,7 @@
 type: post
 title: "Muffins lait de coco et éclats d'M&M's"
 date: 2011-06-04T19:30:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943941/Muffins-mms.jpg
+thumbnail: https://crokmou.com/images/Muffins-mms.jpg
 categories: 
   - Desserts
 tags: 

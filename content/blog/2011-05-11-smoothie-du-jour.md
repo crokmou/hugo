@@ -2,7 +2,7 @@
 type: post
 title: Smoothie du jour
 date: 2011-05-11T13:10:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943974/Smoothie-1.jpg
+thumbnail: https://crokmou.com/images/Smoothie-1.jpg
 categories: 
   - Boissons
 tags: 

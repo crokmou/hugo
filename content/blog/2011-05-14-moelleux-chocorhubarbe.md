@@ -2,7 +2,7 @@
 type: post
 title: Moelleux choco/rhubarbe
 date: 2011-05-14T17:48:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943935/Moelleux-choco-rhubarbe-2.jpg
+thumbnail: https://crokmou.com/images/Moelleux-choco-rhubarbe-2.jpg
 categories: 
   - Desserts
 tags: 

@@ -2,7 +2,7 @@
 type: post
 title: Tatin de magret de canard, pomme, foie gras
 date: 2013-12-07T11:13:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943844/20130928_epicurien.be_tatin_foie_gras_magret_canard.jpg
+thumbnail: https://crokmou.com/images/20130928_epicurien.be_tatin_foie_gras_magret_canard.jpg
 categories: 
   - Entrées
 tags: 

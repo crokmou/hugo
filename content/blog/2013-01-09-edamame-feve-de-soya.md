@@ -2,7 +2,7 @@
 type: post
 title: 'Edamame, fève de soya {Découverte ingrédient}'
 date: 2013-01-09T20:02:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943832/20130109_edame_feve_soya_decouverte_ingredient_0077.jpg
+thumbnail: https://crokmou.com/images/20130109_edame_feve_soya_decouverte_ingredient_0077.jpg
 categories: 
   - Apéritifs
 tags: 

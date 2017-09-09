@@ -2,7 +2,7 @@
 type: post
 title: Eclairs fève Tonka, chocolat noir
 date: 2014-02-20T23:15:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943792/190214-eclair-creme-feve-tonka-10.jpg
+thumbnail: https://crokmou.com/images/190214-eclair-creme-feve-tonka-10.jpg
 categories: 
   - Desserts
 tags: 

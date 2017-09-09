@@ -2,7 +2,7 @@
 type: post
 title: Crêpes moelleuses effet nuage
 date: 2015-02-01T21:00:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943880/crepe-nuage-chandeleur-recette-blog-culinaire-crokmou.jpg
+thumbnail: https://crokmou.com/images/crepe-nuage-chandeleur-recette-blog-culinaire-crokmou.jpg
 categories: 
   - Desserts
 tags: 

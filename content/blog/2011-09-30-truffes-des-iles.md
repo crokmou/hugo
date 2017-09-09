@@ -2,7 +2,7 @@
 type: post
 title: Truffes des iles
 date: 2011-09-30T18:09:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943988/Truffes-choco-blanc_fruit-passion.jpg
+thumbnail: https://crokmou.com/images/Truffes-choco-blanc_fruit-passion.jpg
 categories: 
   - Desserts
 tags: 

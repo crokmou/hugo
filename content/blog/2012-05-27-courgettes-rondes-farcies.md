@@ -2,7 +2,7 @@
 type: post
 title: Courgettes rondes farcies
 date: 2012-05-27T14:10:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943797/20120519_Courgettes_rondes_farcies_poivron_0024.jpg
+thumbnail: https://crokmou.com/images/20120519_Courgettes_rondes_farcies_poivron_0024.jpg
 categories: 
   - Plats
 tags: 
@@ -20,7 +20,7 @@ disqusId: 3587683460
 slug: courgettes-rondes-farcies
 ---
 
-[![](https://res.cloudinary.com/crokmou/image/upload/v1501943797/20120519_Courgettes_rondes_farcies_poivron_0024.jpg)](https://res.cloudinary.com/crokmou/image/upload/v1501943797/20120519_Courgettes_rondes_farcies_poivron_0024.jpg)
+[![](https://crokmou.com/images/20120519_Courgettes_rondes_farcies_poivron_0024.jpg)](https://crokmou.com/images/20120519_Courgettes_rondes_farcies_poivron_0024.jpg)
 
 Il m’arrive de temps en temps d’aller au marché (surtout quand il fait beau), des couleurs, des odeurs, l’ambiance tout ça, tout ça, ca me rappelle les vacances avec ma moman ! Parce que quand j’allais en vacances d’été avec ma moman, on allait toujours au marché en famille : choisir de bon produits (souvent du coin), du saumon pour le barbeuc, des concombres pour l’entrée, bref que de bonnes choses et de bons souvenirs ! Cette fois à Bruxelles, pas de moman, pas de piscine, ni de camping mais des étals remplis de légumes. En voyant ces petites courgettes rondes j’ai tout de suite craqué ! Me voilà donc dans l’élaboration d’une recette. Je suis partie dans quelque chose d’assez simple : courgettes, poivron vert, haché de boeuf/porc épicé (oui j’ai pas encore trouvé le boeuf (100% boeuf) haché épicé en Belgique) et du fromage boursin au poivre (c’est pas vrai je suis PAS accro !). Si vous désirez une recette un peu plus végétarienne je vous conseille d’aller voir chez [les 2 zazous dans le mistral](http://mistralzazou.blogspot.com/2012/05/petits-farcis-vegetariens-ricotta.html) !
 

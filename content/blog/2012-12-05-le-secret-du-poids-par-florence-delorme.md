@@ -2,7 +2,7 @@
 type: post
 title: Le secret du poids par Florence Delorme
 date: 2012-12-05T17:52:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943943/le_secret_du_poids_florence_delorme_gif_crokmou.gif
+thumbnail: https://crokmou.com/images/le_secret_du_poids_florence_delorme_gif_crokmou.gif
 categories: 
   - Lifestyle
 disqusId: 3659742979

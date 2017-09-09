@@ -2,7 +2,7 @@
 type: post
 title: Petits pains chèvre/jambon
 date: 2011-04-11T21:55:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943946/Pains-ch--vre.jambon.jpg
+thumbnail: https://crokmou.com/images/Pains-ch--vre.jambon.jpg
 categories: 
   - Apéritifs
 tags: 

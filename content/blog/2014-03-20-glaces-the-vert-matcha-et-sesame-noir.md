@@ -2,7 +2,7 @@
 type: post
 title: Glaces thé vert Matcha et sésame noir
 date: 2014-03-20T18:06:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943908/glace-sesame-noir-et-the-vert-matcha.jpg
+thumbnail: https://crokmou.com/images/glace-sesame-noir-et-the-vert-matcha.jpg
 categories: 
   - Desserts
 tags: 

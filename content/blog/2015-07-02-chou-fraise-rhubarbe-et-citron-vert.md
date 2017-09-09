@@ -2,7 +2,7 @@
 type: post
 title: Chou fraise, rhubarbe et citron vert
 date: 2015-07-02T14:42:38+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943864/chou-diplomate-fraise-rhubarbe-citron-vert-crokmou-blog.jpg
+thumbnail: https://crokmou.com/images/chou-diplomate-fraise-rhubarbe-citron-vert-crokmou-blog.jpg
 categories: 
   - Desserts
 tags: 

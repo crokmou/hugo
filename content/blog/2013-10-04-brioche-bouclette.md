@@ -2,7 +2,7 @@
 type: post
 title: Brioche bouclette, nuage de gourmandise !
 date: 2013-10-04T15:41:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943943/le_secret_du_poids_florence_delorme_gif_crokmou.gif
+thumbnail: https://crokmou.com/images/le_secret_du_poids_florence_delorme_gif_crokmou.gif
 categories: 
   - Boulangerie
 tags: 

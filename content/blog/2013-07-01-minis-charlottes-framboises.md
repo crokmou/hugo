@@ -2,7 +2,7 @@
 type: post
 title: Minis charlottes framboises
 date: 2013-07-01T19:49:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943840/20130701_mini_charlotte_framboise_agar_agar_0006.jpg
+thumbnail: https://crokmou.com/images/20130701_mini_charlotte_framboise_agar_agar_0006.jpg
 categories: 
   - Desserts
 tags: 

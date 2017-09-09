@@ -2,7 +2,7 @@
 type: post
 title: Petits-Beurre maison aux cranberries
 date: 2012-09-17T14:07:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943816/20120915_petits_beurre_cranberries_crokmou_0013_BD.jpg
+thumbnail: https://crokmou.com/images/20120915_petits_beurre_cranberries_crokmou_0013_BD.jpg
 categories: 
   - Desserts
 tags: 

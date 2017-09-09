@@ -2,7 +2,7 @@
 type: post
 title: Moussaka aux légumes
 date: 2011-06-11T23:41:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943937/Moussaka.jpg
+thumbnail: https://crokmou.com/images/Moussaka.jpg
 categories: 
   - Plats
 tags: 

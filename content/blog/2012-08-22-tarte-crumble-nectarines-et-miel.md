@@ -2,7 +2,7 @@
 type: post
 title: Tarte crumble nectarines et miel
 date: 2012-08-22T09:40:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943810/20120815_tarte_crumble_nectarine_miel_0010.jpg
+thumbnail: https://crokmou.com/images/20120815_tarte_crumble_nectarine_miel_0010.jpg
 categories: 
   - Desserts
 tags: 

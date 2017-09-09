@@ -2,7 +2,7 @@
 type: post
 title: Crème à tartiner caramel, cardamome et safran
 date: 2014-11-27T17:22:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943878/creme-tartiner-caramel-cardamome-safran-recette.jpg
+thumbnail: https://crokmou.com/images/creme-tartiner-caramel-cardamome-safran-recette.jpg
 categories: 
   - 'Sauces - Confitures'
 tags: 

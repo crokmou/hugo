@@ -2,7 +2,7 @@
 type: post
 title: Tartelettes au citron meringuées
 date: 2012-11-12T17:12:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943821/20121104_tartelette_citron_meringu--es_1.jpg
+thumbnail: https://crokmou.com/images/20121104_tartelette_citron_meringu--es_1.jpg
 categories: 
   - Desserts
 tags: 

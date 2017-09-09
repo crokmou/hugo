@@ -2,7 +2,7 @@
 type: post
 title: 'Keimling spécialiste du raw food {Concours}'
 date: 2014-08-23T09:00:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943953/partenariat-keimling-row-food.jpg
+thumbnail: https://crokmou.com/images/partenariat-keimling-row-food.jpg
 categories: 
   - Lifestyle
 disqusId: 3587684288

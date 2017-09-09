@@ -2,7 +2,7 @@
 type: post
 title: "Pommes au cœur fondant tout chocolat sur son lit de pain d'épices"
 date: 2011-04-12T14:26:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943960/Pommes-coeur-chocolat.jpg
+thumbnail: https://crokmou.com/images/Pommes-coeur-chocolat.jpg
 categories: 
   - Desserts
 tags: 

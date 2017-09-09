@@ -2,7 +2,7 @@
 type: post
 title: Macarons aux spéculoos
 date: 2011-04-11T22:37:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943924/Macaron-sp--culoos.jpg
+thumbnail: https://crokmou.com/images/Macaron-sp--culoos.jpg
 categories: 
   - Desserts
 tags: 

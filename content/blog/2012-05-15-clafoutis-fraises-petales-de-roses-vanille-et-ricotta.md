@@ -2,7 +2,7 @@
 type: post
 title: Clafoutis fraises, pétales de roses, vanille et ricotta
 date: 2012-05-15T14:30:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943793/20120411_clafouti_fraise_confit_petale_rose_vanille_0006.jpg
+thumbnail: https://crokmou.com/images/20120411_clafouti_fraise_confit_petale_rose_vanille_0006.jpg
 categories: 
   - Desserts
 tags: 
@@ -118,7 +118,7 @@ Pour un meilleur rangement de vos images et pour que celles-ci soient facilement
 
 Procédez donc comme ceci (je vais prendre exemple sur la photographie de mon clafouti) : la date de prise de vue_le nom de la recette_le numero de la photo.jpg (pour les personnes ayant un appareil un peu plus perfectionné pensez à renommer vos photographies directement à partir des RAW ou des psd comme ca c’est déjà fait !)
 
-Ce qui nous donnhttps://res.cloudinary.com/crokmou/image/upload/v1501943793/20120411_clafouti_fraise_confit_petale_rose_vanille_0006.jpg
+Ce qui nous donnhttps://crokmou.com/images/20120411_clafouti_fraise_confit_petale_rose_vanille_0006.jpg
 
 Et avec ca c’est deja une bonne base !
 

@@ -2,7 +2,7 @@
 type: post
 title: Cake moelleux tout chocolat
 date: 2014-01-16T19:08:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943792/140114_cake_chocolat_moelleux.jpg
+thumbnail: https://crokmou.com/images/140114_cake_chocolat_moelleux.jpg
 categories: 
   - Desserts
 tags: 

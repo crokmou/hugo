@@ -2,7 +2,7 @@
 type: post
 title: 'Passer en mode manuel {Photographie}'
 date: 2014-07-31T16:37:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943933/MG_8582.jpg
+thumbnail: https://crokmou.com/images/MG_8582.jpg
 categories: 
   - Lifestyle
 tags: 

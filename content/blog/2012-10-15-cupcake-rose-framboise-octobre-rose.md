@@ -2,7 +2,7 @@
 type: post
 title: 'Cupcake rose, framboise {Octobre Rose}'
 date: 2012-10-15T20:23:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943930/MG_2970.jpg
+thumbnail: https://crokmou.com/images/MG_2970.jpg
 categories: 
   - Desserts
 tags: 

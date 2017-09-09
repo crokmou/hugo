@@ -2,7 +2,7 @@
 type: post
 title: 'Blanquette de veau – Comtesse du Barry'
 date: 2013-10-08T12:38:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943870/comtesse_du_barry_blanquette_veau.jpg
+thumbnail: https://crokmou.com/images/comtesse_du_barry_blanquette_veau.jpg
 categories: 
   - Lifestyle
 disqusId: 3587683652

@@ -2,7 +2,7 @@
 type: post
 title: Culinaria 2014, un sacré festin !
 date: 2014-05-23T16:51:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943888/culinaria-2014-bruxelles-mercredi.jpg
+thumbnail: https://crokmou.com/images/culinaria-2014-bruxelles-mercredi.jpg
 categories: 
   - Lifestyle
 disqusId: 3687140082

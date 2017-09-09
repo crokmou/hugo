@@ -2,7 +2,7 @@
 type: post
 title: Cookies au naturel
 date: 2011-04-26T17:01:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943873/Cookies-au-naturel.jpg
+thumbnail: https://crokmou.com/images/Cookies-au-naturel.jpg
 categories: 
   - Desserts
 tags: 

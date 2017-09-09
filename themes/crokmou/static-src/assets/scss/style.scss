@@ -26,7 +26,13 @@ body {
   }
 }
 
+figure { margin: 0; }
 .container { max-width: rem(1200); margin: 0 auto; width: 100%; }
+
+.pswp {
+  &, * + * { margin-top: 0; }
+  &:focus, *:focus { background-color: transparent; }
+}
 
 // Utils
 @import "utils";
@@ -51,10 +57,11 @@ body {
 @import "organism/sidebar";
 
 // Shortcodes
-@import "shortcodes/grid";
+@import "shortcodes/gallery";
 
 // Pages
 @import "pages/page";
 @import "pages/home";
 @import "pages/decouverte";
+@import "pages/single";
 @import "pages/404";

@@ -2,7 +2,7 @@
 type: post
 title: 'Moustache cookies {Concours}'
 date: 2014-06-01T20:38:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943939/moustache-cookies-concours.jpg
+thumbnail: https://crokmou.com/images/moustache-cookies-concours.jpg
 categories: 
   - Lifestyle
 disqusId: 3587684371

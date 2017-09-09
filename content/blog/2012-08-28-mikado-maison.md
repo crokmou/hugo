@@ -2,7 +2,7 @@
 type: post
 title: Mikado maison
 date: 2012-08-28T15:29:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943811/20120827_mikado_home_made_0023.jpg
+thumbnail: https://crokmou.com/images/20120827_mikado_home_made_0023.jpg
 categories: 
   - Desserts
 tags: 

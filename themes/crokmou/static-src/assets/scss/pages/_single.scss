@@ -1,0 +1,16 @@
+.single {
+  display: flex; justify-content: space-between; flex-wrap: wrap;
+  max-width: $global-width; margin: 0 auto; padding: $global-spacing / 2;
+  @include respond-to(medium) {
+    flex-wrap: nowrap;
+    padding: $global-spacing;
+    &__content {
+      width: $global-width - 300;
+      max-width: 100%;
+    }
+    .sidebar {
+      width: 300px;
+      max-width: 100%;
+    }
+  }
+}

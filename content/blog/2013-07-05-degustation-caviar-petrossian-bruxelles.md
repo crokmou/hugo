@@ -2,7 +2,7 @@
 type: post
 title: Dégustation caviar Petrossian à Bruxelles
 date: 2013-07-05T18:39:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943849/20130625_petrossian_caviar_degustation_bruxelles_0014.jpg
+thumbnail: https://crokmou.com/images/20130625_petrossian_caviar_degustation_bruxelles_0014.jpg
 categories: 
   - Lifestyle
 disqusId: 3587683295

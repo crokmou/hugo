@@ -2,7 +2,7 @@
 type: post
 title: Cupcakes Tiramisu
 date: 2013-04-08T11:49:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943839/20130407_cupcake_tiramisu_0035.jpg
+thumbnail: https://crokmou.com/images/20130407_cupcake_tiramisu_0035.jpg
 categories: 
   - Desserts
 tags: 

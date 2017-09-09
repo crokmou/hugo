@@ -2,7 +2,7 @@
 type: post
 title: Tarte à la rhubarbe
 date: 2011-04-28T17:15:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943983/Tarte-rhubarbe.jpg
+thumbnail: https://crokmou.com/images/Tarte-rhubarbe.jpg
 categories: 
   - Desserts
 tags: 

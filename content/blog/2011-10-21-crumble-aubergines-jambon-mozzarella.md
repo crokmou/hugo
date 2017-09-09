@@ -2,7 +2,7 @@
 type: post
 title: Crumble aubergines, jambon, mozzarella
 date: 2011-10-21T16:30:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943882/Crumble-daubergines.jpg
+thumbnail: https://crokmou.com/images/Crumble-daubergines.jpg
 categories: 
   - Plats
 tags: 

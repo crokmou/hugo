@@ -2,7 +2,7 @@
 type: post
 title: 'Génération Cooking : matériel de cuisine'
 date: 2014-02-25T18:21:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943983/template-logo.jpg
+thumbnail: https://crokmou.com/images/template-logo.jpg
 categories: 
   - Lifestyle
 tags: 

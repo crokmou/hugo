@@ -2,7 +2,7 @@
 type: post
 title: Mon beau sapin, roi des sablés
 date: 2012-11-26T16:50:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943833/20121125_sapin_noel_sable--s_the_vert_matcha_cine--magraph_2.gif
+thumbnail: https://crokmou.com/images/20121125_sapin_noel_sable--s_the_vert_matcha_cine--magraph_2.gif
 categories: 
   - Desserts
 tags: 

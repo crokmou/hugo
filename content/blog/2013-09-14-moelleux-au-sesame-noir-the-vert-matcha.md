@@ -2,7 +2,7 @@
 type: post
 title: Moelleux au sésame noir, thé vert matcha
 date: 2013-09-14T18:07:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943933/MG_8117.jpg
+thumbnail: https://crokmou.com/images/MG_8117.jpg
 categories: 
   - Desserts
 tags: 

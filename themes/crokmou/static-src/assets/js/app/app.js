@@ -1,30 +1,11 @@
 $(document).ready(function() {
   'use strict';
 
-  let SPRITE_URL = '/assets/images/svg/sprite.svg';
+  const SPRITE_URL = '/assets/images/svg/sprite.svg';
 
-  let $pageContainer = $('#page-container');
+  const $pageContainer = $('#page-container');
 
-  let App = (function App() {
-    /**
-     * Init selectric for dropdown
-     */
-    $('select').selectric({
-      arrowButtonMarkup : '',
-      maxHeight         : 200,
-      optionsItemBuilder: function(itemData) {
-        let image = $(itemData.element[0]).data('image');
-        return itemData.className === 'with-icon' ? '<img src="' + image +
-          '"/>' + itemData.text : itemData.text;
-      },
-      labelBuilder      : function(currItem) {
-        let image = $(currItem.element[0]).data('image');
-        return currItem.className === 'with-icon'
-          ? '<div class="with-icon"><img src="' + image + '"/>' +
-          currItem.text + '</div>'
-          : currItem.text;
-      },
-    });
+  const App = (function App() {
 
     (function CARDS() {
       $('[rel="js-card"]').each(function() {
@@ -45,60 +26,6 @@ $(document).ready(function() {
     return {init: App};
   })();
 
-  // Utilities
-  let QueryParams = (function getQueryParams() {
-    function param(qs) {
-      let params = {}, tokens, re = /[?&]?([^=]+)=([^&]*)/g;
-      if (qs) {
-        qs = qs.split('+').join(' ');
-        while (tokens = re.exec(qs)) {
-          params[decodeURIComponent(tokens[1])] = decodeURIComponent(tokens[2]);
-        }
-      }
-    }
-
-    return {
-      get: param,
-    };
-  })();
-  let Cookie      = (function Cookie() {
-    const hostName = location.hostname.match(/\.(.*)/);
-    const COOKIE_HOST = hostName && hostName[0];
-
-    function setCookie(name, value, days) {
-      let expires;
-      if (days) {
-        let date = new Date();
-        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
-        expires = '; expires=' + date.toGMTString();
-      } else {
-        expires = '';
-      }
-      document.cookie = name + '=' + value + expires + '; path=/;domain=' +
-        COOKIE_HOST;
-    }
-
-    function getCookie(name) {
-      let nameEQ = name + '=';
-      let ca     = document.cookie.split(';');
-      for (let i = 0; i < ca.length; i++) {
-        let c = ca[i];
-        while (c.charAt(0) == ' ') c = c.substring(1, c.length);
-        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
-      }
-      return null;
-    }
-
-    function removeCookie(name) {
-      setCookie(name, '', -1);
-    }
-
-    return {
-      set   : setCookie,
-      get   : getCookie,
-      remove: removeCookie,
-    };
-  })();
   /**
    * Ajax loader to insert the sprite svg dynamically at the bottom of the document
    */
@@ -143,6 +70,7 @@ $(document).ready(function() {
         });
       });
     });
+
     function analytics(res, title) {
       if (typeof ga === 'function' && (!res || res.length !== 0)) {
         ga('set', {

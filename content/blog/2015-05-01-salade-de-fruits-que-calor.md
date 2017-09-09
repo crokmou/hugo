@@ -2,7 +2,7 @@
 type: post
 title: Salade de fruits, qué calor !
 date: 2015-05-01T17:58:55+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943972/salade-de-fruits-recette-crokmou-blog-culinaire.jpg
+thumbnail: https://crokmou.com/images/salade-de-fruits-recette-crokmou-blog-culinaire.jpg
 categories: 
   - Desserts
 tags: 

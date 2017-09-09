@@ -2,7 +2,7 @@
 type: post
 title: Cassolettes du soleil
 date: 2011-05-14T13:26:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943860/Cassolettes-du-soleil.jpg
+thumbnail: https://crokmou.com/images/Cassolettes-du-soleil.jpg
 categories: 
   - Plats
 tags: 

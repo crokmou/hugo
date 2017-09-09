@@ -2,7 +2,7 @@
 type: post
 title: Muffin tout chocolat ultra moelleux
 date: 2014-07-03T21:16:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943945/muffin-tout-chocolat-moelleux-1.jpg
+thumbnail: https://crokmou.com/images/muffin-tout-chocolat-moelleux-1.jpg
 categories: 
   - Desserts
 tags: 

@@ -2,7 +2,7 @@
 type: post
 title: Box Charlie Jasmin
 date: 2014-05-20T15:17:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943851/box-charlie-jasmin-pour-petits-et-grands.jpg
+thumbnail: https://crokmou.com/images/box-charlie-jasmin-pour-petits-et-grands.jpg
 categories: 
   - Lifestyle
 disqusId: 3587682930

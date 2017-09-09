@@ -2,7 +2,7 @@
 type: post
 title: Maïs grillé au four
 date: 2012-10-22T12:10:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943818/20121001_epi_mais_grill--_four_0059.jpg
+thumbnail: https://crokmou.com/images/20121001_epi_mais_grill--_four_0059.jpg
 categories: 
   - Plats
 tags: 

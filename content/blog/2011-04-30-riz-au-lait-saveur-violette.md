@@ -2,7 +2,7 @@
 type: post
 title: Riz au lait saveur violette
 date: 2011-04-30T17:04:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943971/Riz-au-lait----la-violette.jpg
+thumbnail: https://crokmou.com/images/Riz-au-lait----la-violette.jpg
 categories: 
   - Desserts
 tags: 

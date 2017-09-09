@@ -2,7 +2,7 @@
 type: post
 title: Gateau aux noix
 date: 2011-11-14T09:30:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943914/IMG_4510-final.jpg
+thumbnail: https://crokmou.com/images/IMG_4510-final.jpg
 categories: 
   - Desserts
 tags: 

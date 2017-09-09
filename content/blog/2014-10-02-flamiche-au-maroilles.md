@@ -2,7 +2,7 @@
 type: post
 title: Flamiche au Maroilles du Nord
 date: 2014-10-02T17:44:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943896/flamiche-maroilles-blog-culinaire-crokmou.jpg
+thumbnail: https://crokmou.com/images/flamiche-maroilles-blog-culinaire-crokmou.jpg
 categories: 
   - Plats
 tags: 

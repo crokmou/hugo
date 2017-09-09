@@ -2,7 +2,7 @@
 type: post
 title: Gnocchis au parmesan
 date: 2011-04-11T22:11:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943906/Gnocchis.jpg
+thumbnail: https://crokmou.com/images/Gnocchis.jpg
 categories: 
   - Plats
 tags: 

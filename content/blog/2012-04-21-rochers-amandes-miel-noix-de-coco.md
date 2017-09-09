@@ -2,7 +2,7 @@
 type: post
 title: Rochers amandes, miel, noix de coco
 date: 2012-04-21T09:00:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943792/20120401_Rocher_coco_amande_15.jpg
+thumbnail: https://crokmou.com/images/20120401_Rocher_coco_amande_15.jpg
 categories: 
   - Desserts
 tags: 

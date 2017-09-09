@@ -2,7 +2,7 @@
 type: post
 title: Pain boule au levain maison
 date: 2014-07-24T16:54:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943948/pain-boule-levain.jpg
+thumbnail: https://crokmou.com/images/pain-boule-levain.jpg
 categories: 
   - Boulangerie
 tags: 

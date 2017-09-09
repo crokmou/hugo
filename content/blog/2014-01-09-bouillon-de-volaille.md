@@ -2,7 +2,7 @@
 type: post
 title: Bouillon de volaille
 date: 2014-01-09T19:50:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943785/050114_bouillon_poule_2.jpg
+thumbnail: https://crokmou.com/images/050114_bouillon_poule_2.jpg
 categories: 
   - Plats
 tags: 

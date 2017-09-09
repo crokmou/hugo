@@ -2,7 +2,7 @@
 type: post
 title: La purée verte au cresson
 date: 2011-11-25T14:05:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943801/20111125_puree_verte_cresson1.jpg
+thumbnail: https://crokmou.com/images/20111125_puree_verte_cresson1.jpg
 categories: 
   - Plats
 tags: 

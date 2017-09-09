@@ -2,7 +2,7 @@
 type: post
 title: Pesto au basilic, alla genovese
 date: 2013-07-26T18:33:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943841/20130718_pesto_basilic_0023.jpg
+thumbnail: https://crokmou.com/images/20130718_pesto_basilic_0023.jpg
 categories: 
   - 'Sauces - Confitures'
 tags: 

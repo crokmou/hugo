@@ -2,7 +2,7 @@
 type: post
 title: Crème carambar au caramel
 date: 2012-04-28T08:00:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943791/20120414_Creme_dessert_carambar_caramel_0028.jpg
+thumbnail: https://crokmou.com/images/20120414_Creme_dessert_carambar_caramel_0028.jpg
 categories: 
   - Desserts
 tags: 

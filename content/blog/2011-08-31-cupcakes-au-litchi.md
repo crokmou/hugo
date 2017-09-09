@@ -2,7 +2,7 @@
 type: post
 title: Cupcakes au litchi
 date: 2011-08-31T20:30:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943889/Cupcake-litchi.jpg
+thumbnail: https://crokmou.com/images/Cupcake-litchi.jpg
 categories: 
   - Desserts
 tags: 

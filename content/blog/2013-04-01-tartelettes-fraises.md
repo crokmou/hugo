@@ -2,7 +2,7 @@
 type: post
 title: Tartelettes fraises
 date: 2013-04-01T20:32:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943834/20130401_tartelette_fraise_strawberry_tart_0074.jpg
+thumbnail: https://crokmou.com/images/20130401_tartelette_fraise_strawberry_tart_0074.jpg
 categories: 
   - Desserts
 tags: 

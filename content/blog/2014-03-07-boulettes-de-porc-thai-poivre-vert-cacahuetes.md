@@ -2,7 +2,7 @@
 type: post
 title: Boulettes de porc Thaï au poivre vert et cacahuètes
 date: 2014-03-07T15:00:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943849/boulette-porc-thailandaise-poivre-vert-cacahuete.jpg
+thumbnail: https://crokmou.com/images/boulette-porc-thailandaise-poivre-vert-cacahuete.jpg
 categories: 
   - Plats
 tags: 

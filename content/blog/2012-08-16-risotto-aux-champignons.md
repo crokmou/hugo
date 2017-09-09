@@ -2,7 +2,7 @@
 type: post
 title: Risotto aux champignons
 date: 2012-08-16T17:16:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943811/20120815_risotto_champignon_vin_blanc_0017.jpg
+thumbnail: https://crokmou.com/images/20120815_risotto_champignon_vin_blanc_0017.jpg
 categories: 
   - Plats
 tags: 

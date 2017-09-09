@@ -2,7 +2,7 @@
 type: post
 title: "Galette des rois frangipane, fleur d'oranger"
 date: 2013-01-05T21:24:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943825/20130102_galette_roi_amande_torrefie_0044.jpg
+thumbnail: https://crokmou.com/images/20130102_galette_roi_amande_torrefie_0044.jpg
 categories: 
   - Desserts
 tags: 

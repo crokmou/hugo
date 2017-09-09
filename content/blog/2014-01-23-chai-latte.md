@@ -2,7 +2,7 @@
 type: post
 title: Chaï latte
 date: 2014-01-23T15:51:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943788/220114-chai-latte-tea.jpg
+thumbnail: https://crokmou.com/images/220114-chai-latte-tea.jpg
 categories: 
   - Boissons
 tags: 

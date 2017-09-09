@@ -2,7 +2,7 @@
 type: post
 title: Cakemart ustensiles de pâtisserie
 date: 2014-07-28T09:23:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943952/partenariat-gourmand-cakemart-ustensile-patisserie-1.jpg
+thumbnail: https://crokmou.com/images/partenariat-gourmand-cakemart-ustensile-patisserie-1.jpg
 categories: 
   - Lifestyle
 tags: 

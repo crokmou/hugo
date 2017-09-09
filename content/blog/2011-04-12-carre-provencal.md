@@ -2,7 +2,7 @@
 type: post
 title: Carré Provencal
 date: 2011-04-12T14:15:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943975/Samoussa-provencal-2.jpg
+thumbnail: https://crokmou.com/images/Samoussa-provencal-2.jpg
 categories: 
   - Plats
 tags: 

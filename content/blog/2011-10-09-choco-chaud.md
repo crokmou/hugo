@@ -2,7 +2,7 @@
 type: post
 title: Choco chaud
 date: 2011-10-09T17:09:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943863/Chocolat-chaud.jpg
+thumbnail: https://crokmou.com/images/Chocolat-chaud.jpg
 categories: 
   - Boissons
 tags: 

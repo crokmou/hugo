@@ -2,7 +2,7 @@
 type: post
 title: Stekerlapatte brasserie Belge
 date: 2015-07-11T17:41:32+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943978/stekerlapatte-brasserie-belge-crokmou-blog-1.jpg
+thumbnail: https://crokmou.com/images/stekerlapatte-brasserie-belge-crokmou-blog-1.jpg
 categories: 
   - Lifestyle
 disqusId: 3924997649

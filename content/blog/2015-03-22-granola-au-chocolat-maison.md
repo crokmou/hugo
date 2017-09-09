@@ -2,7 +2,7 @@
 type: post
 title: Granola au chocolat maison
 date: 2015-03-22T17:24:42+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943908/granola-au-chocolat-maison-5.jpg
+thumbnail: https://crokmou.com/images/granola-au-chocolat-maison-5.jpg
 categories: 
   - Desserts
 tags: 

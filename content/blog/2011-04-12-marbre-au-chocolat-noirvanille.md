@@ -2,7 +2,7 @@
 type: post
 title: Marbré au chocolat noir/vanille
 date: 2011-04-12T09:49:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943914/IMG_8083.jpg
+thumbnail: https://crokmou.com/images/IMG_8083.jpg
 categories: 
   - Desserts
 tags: 

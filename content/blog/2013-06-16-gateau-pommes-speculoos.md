@@ -2,7 +2,7 @@
 type: post
 title: Gâteau pommes, speculoos
 date: 2013-06-16T16:43:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943904/gateau_biscuit_speculoos_stephen_destree_BD_30x40.jpg
+thumbnail: https://crokmou.com/images/gateau_biscuit_speculoos_stephen_destree_BD_30x40.jpg
 categories: 
   - Desserts
 tags: 

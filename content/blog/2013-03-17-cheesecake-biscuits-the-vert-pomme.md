@@ -2,7 +2,7 @@
 type: post
 title: Cheesecake biscuits thé vert/pomme
 date: 2013-03-17T10:47:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943862/cheesecake_biscuit_the_vert_stephen_destree_BD.jpg
+thumbnail: https://crokmou.com/images/cheesecake_biscuit_the_vert_stephen_destree_BD.jpg
 categories: 
   - Desserts
 tags: 

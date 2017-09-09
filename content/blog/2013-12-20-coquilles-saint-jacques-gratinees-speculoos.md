@@ -2,7 +2,7 @@
 type: post
 title: Coquilles Saint-Jacques gratinées speculoos
 date: 2013-12-20T18:49:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943787/081213_coquille_saint_jacques_gratin--e_speculoos_0002.jpg
+thumbnail: https://crokmou.com/images/081213_coquille_saint_jacques_gratin--e_speculoos_0002.jpg
 categories: 
   - Plats
 tags: 

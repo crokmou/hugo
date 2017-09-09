@@ -2,7 +2,7 @@
 type: post
 title: Coquille de la Saint-Nicolas
 date: 2014-12-04T16:14:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943877/cougnou-couque-saint-nicolas-recette-blog-crokmou.jpg
+thumbnail: https://crokmou.com/images/cougnou-couque-saint-nicolas-recette-blog-crokmou.jpg
 categories: 
   - Boulangerie
 tags: 

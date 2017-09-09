@@ -2,7 +2,7 @@
 type: post
 title: "Crème d'amande cardamome et safran"
 date: 2014-06-19T11:39:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943877/creme-amande-badam-halwa-cardamome-safran.jpg
+thumbnail: https://crokmou.com/images/creme-amande-badam-halwa-cardamome-safran.jpg
 categories: 
   - Desserts
 tags: 

@@ -2,7 +2,7 @@
 type: post
 title: Popsicles au yaourt, fraise et basilic
 date: 2015-07-21T18:08:10+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943905/glace-popsicle-fraise-basilic-yaourt.jpg
+thumbnail: https://crokmou.com/images/glace-popsicle-fraise-basilic-yaourt.jpg
 categories: 
   - Desserts
 tags: 

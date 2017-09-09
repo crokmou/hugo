@@ -2,7 +2,7 @@
 type: post
 title: Farfalles aux champignons au thym et sa crème de ricotta
 date: 2011-09-06T19:22:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943891/Farfalle-aux-champignons.jpg
+thumbnail: https://crokmou.com/images/Farfalle-aux-champignons.jpg
 categories: 
   - Plats
 tags: 

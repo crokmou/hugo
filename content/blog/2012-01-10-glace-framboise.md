@@ -2,7 +2,7 @@
 type: post
 title: Glace framboise
 date: 2012-01-10T14:12:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943805/20120110_glace_framboise_1.jpg
+thumbnail: https://crokmou.com/images/20120110_glace_framboise_1.jpg
 categories: 
   - Desserts
 tags: 

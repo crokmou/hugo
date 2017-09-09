@@ -2,7 +2,7 @@
 type: post
 title: Brioche à effeuiller
 date: 2014-03-27T16:59:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943851/brioche-a-effeuiller.jpg
+thumbnail: https://crokmou.com/images/brioche-a-effeuiller.jpg
 categories: 
   - Boulangerie
 tags: 

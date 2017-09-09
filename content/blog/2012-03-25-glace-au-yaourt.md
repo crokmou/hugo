@@ -2,7 +2,7 @@
 type: post
 title: Glace au yaourt
 date: 2012-03-25T11:30:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943790/20120318_Glace_Yaourt_0013.jpg
+thumbnail: https://crokmou.com/images/20120318_Glace_Yaourt_0013.jpg
 categories: 
   - Desserts
 tags: 

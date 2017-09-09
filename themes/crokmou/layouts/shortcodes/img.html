@@ -1,3 +1,10 @@
-<img src='{{if .Get "cloudinary"}}https://res.cloudinary.com/crokmou/image/upload/{{.Get "cloudinary"}}{{else}}{{.Get "src"}}{{end}}'
-     class='{{if .Get "cover"}}grid__cover{{end}}{{with .Get "col"}} grid__col-{{.}}{{end}}'
-     alt='{{.Get "alt"}}'>
+<figure itemprop="associatedMedia"
+        itemscope
+        itemtype="http://schema.org/ImageObject">
+  <a href='{{.Get "src"}}' itemprop="contentUrl">
+    <img src='{{.Get "src"}}'
+         itemprop="thumbnail"
+         alt='{{.Get "alt"}}'/>
+  </a>
+  {{with .Get "caption"}}<figcaption itemprop="caption description">{{.}}</figcaption>{{end}}
+</figure>

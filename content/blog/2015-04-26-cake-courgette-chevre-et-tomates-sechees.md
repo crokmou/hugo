@@ -2,7 +2,7 @@
 type: post
 title: Cake courgette, chèvre et tomates séchées
 date: 2015-04-26T16:35:46+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943855/cake-courgette-chevre-tomate-s--ch--e-recette-crokmou-blog-culinaire.jpg
+thumbnail: https://crokmou.com/images/cake-courgette-chevre-tomate-s--ch--e-recette-crokmou-blog-culinaire.jpg
 categories: 
   - Apéritifs
 tags: 

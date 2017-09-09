@@ -2,7 +2,7 @@
 type: post
 title: Tarte aux pêches, ylang ylang et romarin
 date: 2014-07-17T19:45:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943983/tartelette-peche-ylang-ylang-creme-romarin.jpg
+thumbnail: https://crokmou.com/images/tartelette-peche-ylang-ylang-creme-romarin.jpg
 categories: 
   - Desserts
 tags: 

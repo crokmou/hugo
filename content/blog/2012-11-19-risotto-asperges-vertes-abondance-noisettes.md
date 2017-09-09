@@ -2,7 +2,7 @@
 type: post
 title: Risotto asperges vertes, abondance, noisettes
 date: 2012-11-19T16:54:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943821/20121119_risotto_asperge_verte_abondance_noisette_0031.jpg
+thumbnail: https://crokmou.com/images/20121119_risotto_asperge_verte_abondance_noisette_0031.jpg
 categories: 
   - Plats
 tags: 

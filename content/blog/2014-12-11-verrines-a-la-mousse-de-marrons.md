@@ -2,7 +2,7 @@
 type: post
 title: Verrines à la mousse de marrons
 date: 2014-12-11T17:26:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943989/verrine-mousse-marron-streusel-chocolat-framboise-recette-blog-crokmou.jpg
+thumbnail: https://crokmou.com/images/verrine-mousse-marron-streusel-chocolat-framboise-recette-blog-crokmou.jpg
 categories: 
   - Desserts
 tags: 

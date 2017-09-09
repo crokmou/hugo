@@ -10,7 +10,7 @@ disqusId: 3587683492
 slug: la-boite-hortense-concours
 ---
 
-[![](https://res.cloudinary.com/crokmou/image/upload/v1501943943/le_secret_du_poids_florence_delorme_gif_crokmou.gif)](https://res.cloudinary.com/crokmou/image/upload/v1501943943/le_secret_du_poids_florence_delorme_gif_crokmou.gif)
+[![](https://crokmou.com/images/le_secret_du_poids_florence_delorme_gif_crokmou.gif)](https://crokmou.com/images/le_secret_du_poids_florence_delorme_gif_crokmou.gif)
 
 Il y a quelques temps déjà [je vous avais parlé d’une nouvelle box Belge :](http://www.crokmou.com/2013/10/la-boite-dhortense-boite-the-belge.html) [« La Boite d’Hortense »](http://www.crokmou.com/2013/10/la-boite-dhortense-boite-the-belge.html) ! Cette fois ci je reviens vers vous non pas pour vous faire languir avec ma box mais pour vous donner l’occasion de **gagner une box Thé ou une box Bien Etre** !
 

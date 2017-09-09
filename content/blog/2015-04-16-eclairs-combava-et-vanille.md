@@ -2,7 +2,7 @@
 type: post
 title: Éclairs combava et vanille
 date: 2015-04-16T17:37:50+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943787/--clairs-combava-vanille-recette-crokmou-blog-culinaire.jpg
+thumbnail: https://crokmou.com/images/--clairs-combava-vanille-recette-crokmou-blog-culinaire.jpg
 categories: 
   - Desserts
 tags: 

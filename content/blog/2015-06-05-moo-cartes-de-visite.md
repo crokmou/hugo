@@ -2,7 +2,7 @@
 type: post
 title: Moo, cartes de visite et autres créations (Concours)
 date: 2015-06-05T17:41:56+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943936/moo-carte-de-visite-crokmou-blog-culinaire-1.jpg
+thumbnail: https://crokmou.com/images/moo-carte-de-visite-crokmou-blog-culinaire-1.jpg
 categories: 
   - Lifestyle
   - Non classé

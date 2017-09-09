@@ -2,7 +2,7 @@
 type: post
 title: Glace au lait de noisettes
 date: 2014-08-14T15:21:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943904/glace-lait-noisette-noisette-caramel.jpg
+thumbnail: https://crokmou.com/images/glace-lait-noisette-noisette-caramel.jpg
 categories: 
   - Desserts
 tags: 

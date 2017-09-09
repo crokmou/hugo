@@ -8,9 +8,8 @@
     "test": "parallelshell 'npm run lint:js' &> lint",
     "lint:js": "eslint ./themes/crokmou/static-src/assets/js/app",
     "help": "npm run remark --help",
-    "fix-lint": "eslint ./themes/crokmou/static-src/assets/js/app --fix",
+    "fix-lint": "eslint ./themes/crokmou/static-src/assets/js/app/** --fix",
     "clean": "rm -rf ./themes/crokmou/static ./public",
-    "jsVendor": "cat ./themes/crokmou/static-src/assets/js/vendor/*.js > ./themes/crokmou/static/assets/vendor.js",
     "babel:build": "babel ./themes/crokmou/static-src/assets/js --out-file ./themes/crokmou/static/assets/app.js --source-maps",
     "babel:watch": "babel ./themes/crokmou/static-src/assets/js --watch --out-file ./themes/crokmou/static/assets/app.js --source-maps",
     "sass:watch": "onchange './themes/crokmou/static-src/assets/scss/**/*.scss' -- npm run sass:build",
@@ -20,11 +19,12 @@
     "statics:build": "cp ./{robots.txt,CNAME} ./themes/crokmou/static/",
     "build:assets": "npm run clean && npm run sass:build && npm run babel:build && npm run img:build && npm run statics:build",
     "build": "npm run build:assets",
-    "postbuild": "npm run jsVendor && hugo",
-    "serve": "npm run build:assets && npm run jsVendor && parallelshell 'npm run sass:watch' 'npm run babel:watch' 'hugo serve'",
+    "postbuild": "hugo",
+    "serve": "npm run build:assets && parallelshell 'npm run sass:watch' 'npm run babel:watch' 'hugo serve'",
     "commit": "git commit -am 'Auto commit' && git push",
     "predeploy": "npm run commit && npm run clean && npm run build",
-    "deploy": "gh-pages -d public"
+    "deploy": "gh-pages -d public",
+    "index": "hugo-algolia -i content/blog/**/* -o ./my-index.json -all"
   },
   "eslintConfig": {
     "extends": [
@@ -74,6 +74,7 @@
     "eslint": "^4.1.1",
     "eslint-config-google": "^0.8.0 ",
     "gh-pages": "^1.0.0",
+    "hugo-algolia": "^1.2.2",
     "image-size": "^0.6.1",
     "node-sass": "^4.5.3",
     "onchange": "^3.2.1",

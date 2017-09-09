@@ -2,7 +2,7 @@
 type: post
 title: "Glace au pain d'épices"
 date: 2012-01-30T14:01:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943810/20120125_glace_pain_epice_1.jpg
+thumbnail: https://crokmou.com/images/20120125_glace_pain_epice_1.jpg
 categories: 
   - Desserts
 tags: 

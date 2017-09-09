@@ -2,7 +2,7 @@
 type: post
 title: Tarte rhubarbe et crème pâtissière
 date: 2015-05-25T17:04:44+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943979/tarte-bourgeoise-rhubarbe-recette-crokmou-blog-culinaire1.jpg
+thumbnail: https://crokmou.com/images/tarte-bourgeoise-rhubarbe-recette-crokmou-blog-culinaire1.jpg
 ingredient_qty: 
   - Pour 4/6 personnes
 ingredient_temps: 

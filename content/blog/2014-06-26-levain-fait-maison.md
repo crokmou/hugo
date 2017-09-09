@@ -2,7 +2,7 @@
 type: post
 title: Levain fait maison
 date: 2014-06-26T15:58:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943920/levain-fait-maison-base-farine-seigle.jpg
+thumbnail: https://crokmou.com/images/levain-fait-maison-base-farine-seigle.jpg
 categories: 
   - Boulangerie
 tags: 

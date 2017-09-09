@@ -2,7 +2,7 @@
 type: post
 title: 'Velouté de betteraves et chips {Octobre rose}'
 date: 2013-10-10T17:45:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943882/crokmou.com_soupe_rose_betterave_chips_octobre_rose.jpg
+thumbnail: https://crokmou.com/images/crokmou.com_soupe_rose_betterave_chips_octobre_rose.jpg
 categories: 
   - Plats
 tags: 

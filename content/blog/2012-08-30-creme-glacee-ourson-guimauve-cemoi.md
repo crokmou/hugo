@@ -2,7 +2,7 @@
 type: post
 title: Crème glacée ourson guimauve Cémoi
 date: 2012-08-30T18:46:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943813/20120830_glace_vanille_ourson_guimauve_0028.jpg
+thumbnail: https://crokmou.com/images/20120830_glace_vanille_ourson_guimauve_0028.jpg
 categories: 
   - Desserts
 tags: 

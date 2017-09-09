@@ -2,7 +2,7 @@
 type: post
 title: Tatin pomme/ananas
 date: 2011-05-21T14:46:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943985/Tatin-pomme-ananas.jpg
+thumbnail: https://crokmou.com/images/Tatin-pomme-ananas.jpg
 categories: 
   - Desserts
 tags: 

@@ -2,7 +2,7 @@
 type: post
 title: Macarons glacés vanille et framboise
 date: 2015-04-09T17:12:14+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943923/macaron-glac---vanille-framboise-recette-crokmou-blog-culinaire-2.jpg
+thumbnail: https://crokmou.com/images/macaron-glac---vanille-framboise-recette-crokmou-blog-culinaire-2.jpg
 categories: 
   - Desserts
 tags: 

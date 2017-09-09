@@ -2,7 +2,7 @@
 type: post
 title: Tarte au sucre du Nord
 date: 2015-01-26T17:43:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943982/tarte-sucre-nord-recette-blog-crokmou.jpg
+thumbnail: https://crokmou.com/images/tarte-sucre-nord-recette-blog-crokmou.jpg
 categories: 
   - Boulangerie
 tags: 

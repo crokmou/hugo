@@ -2,7 +2,7 @@
 type: post
 title: Madeleines des îles
 date: 2011-04-13T08:30:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943929/Madeleines-vanille.jpg
+thumbnail: https://crokmou.com/images/Madeleines-vanille.jpg
 categories: 
   - Desserts
 tags: 

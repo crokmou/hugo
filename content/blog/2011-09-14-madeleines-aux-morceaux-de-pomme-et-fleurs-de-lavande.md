@@ -2,7 +2,7 @@
 type: post
 title: Madeleines aux morceaux de pomme et fleurs de lavande
 date: 2011-09-14T15:06:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943926/Madeleine-pomme-lavande.jpg
+thumbnail: https://crokmou.com/images/Madeleine-pomme-lavande.jpg
 categories: 
   - Desserts
 tags: 

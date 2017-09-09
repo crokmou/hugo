@@ -2,7 +2,7 @@
 type: post
 title: Crozets Savoyard
 date: 2011-12-11T14:30:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943806/20111211_crozet_savoyard_1.jpg
+thumbnail: https://crokmou.com/images/20111211_crozet_savoyard_1.jpg
 categories: 
   - Plats
 tags: 

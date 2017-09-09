@@ -2,7 +2,7 @@
 type: post
 title: Bûche à la crème de marrons poire/gingembre
 date: 2014-12-18T21:07:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943853/buchette-demi-sphere-mousse-marron-poire-gingembre-chocolat-recette-blog-crokmou.jpg
+thumbnail: https://crokmou.com/images/buchette-demi-sphere-mousse-marron-poire-gingembre-chocolat-recette-blog-crokmou.jpg
 categories: 
   - Desserts
 tags: 

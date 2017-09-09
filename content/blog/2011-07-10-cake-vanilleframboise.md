@@ -2,7 +2,7 @@
 type: post
 title: Cake Vanille/Framboise
 date: 2011-07-10T16:44:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943909/IMG_2718.jpg
+thumbnail: https://crokmou.com/images/IMG_2718.jpg
 categories: 
   - Desserts
 tags: 

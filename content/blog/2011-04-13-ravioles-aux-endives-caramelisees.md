@@ -2,7 +2,7 @@
 type: post
 title: Ravioles aux endives caramélisées
 date: 2011-04-13T16:15:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943960/raviolis.jpg
+thumbnail: https://crokmou.com/images/raviolis.jpg
 categories: 
   - Plats
 tags: 

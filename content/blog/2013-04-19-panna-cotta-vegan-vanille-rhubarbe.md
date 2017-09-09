@@ -2,7 +2,7 @@
 type: post
 title: Panna cotta vegan vanille, rhubarbe
 date: 2013-04-19T16:00:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943836/20130418_panna_cotta_vegan_vanille_gelee_rhubarbe__0038.jpg
+thumbnail: https://crokmou.com/images/20130418_panna_cotta_vegan_vanille_gelee_rhubarbe__0038.jpg
 categories: 
   - Desserts
 tags: 

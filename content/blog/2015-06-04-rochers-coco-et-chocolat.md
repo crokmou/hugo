@@ -2,7 +2,7 @@
 type: post
 title: Rochers coco et chocolat
 date: 2015-06-04T16:15:12+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943969/rochers-coco-recette-crokmou-blog-culinaire.jpg
+thumbnail: https://crokmou.com/images/rochers-coco-recette-crokmou-blog-culinaire.jpg
 ingredient_qty: 
   - Pour une quizaine de rochers
 ingredient_temps: 

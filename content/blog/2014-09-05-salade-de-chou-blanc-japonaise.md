@@ -2,7 +2,7 @@
 type: post
 title: Salade de chou blanc Japonaise
 date: 2014-09-05T13:15:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943864/chou-blanc-restaurant-japonais-1.jpg
+thumbnail: https://crokmou.com/images/chou-blanc-restaurant-japonais-1.jpg
 categories: 
   - Entrées
 tags: 

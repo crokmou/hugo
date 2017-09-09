@@ -2,7 +2,7 @@
 type: post
 title: Dips de poulet Indiens
 date: 2012-03-19T20:20:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943786/20120318_Dips_Poulet_Indien_0034.jpg
+thumbnail: https://crokmou.com/images/20120318_Dips_Poulet_Indien_0034.jpg
 categories: 
   - Apéritifs
 tags: 

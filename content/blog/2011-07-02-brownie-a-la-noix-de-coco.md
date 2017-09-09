@@ -2,7 +2,7 @@
 type: post
 title: Brownie à la noix de coco
 date: 2011-07-02T08:04:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943798/20110628_brownie_noix_coco_1.jpg
+thumbnail: https://crokmou.com/images/20110628_brownie_noix_coco_1.jpg
 categories: 
   - Desserts
 tags: 

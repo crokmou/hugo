@@ -2,7 +2,7 @@
 type: post
 title: Cake moelleux à la pistache et vanille
 date: 2014-08-04T07:59:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943856/cake-moelleux-pistache-vanille.jpg
+thumbnail: https://crokmou.com/images/cake-moelleux-pistache-vanille.jpg
 categories: 
   - Desserts
 tags: 

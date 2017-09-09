@@ -2,7 +2,7 @@
 type: post
 title: Napolitain confiture de lait
 date: 2013-05-07T16:48:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943837/20130429_napolitain_confiture_de_lait_dulce_de_leche_0027.jpg
+thumbnail: https://crokmou.com/images/20130429_napolitain_confiture_de_lait_dulce_de_leche_0027.jpg
 categories: 
   - Desserts
 tags: 

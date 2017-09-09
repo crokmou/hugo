@@ -2,7 +2,7 @@
 type: post
 title: "Ch'tites madeleines au Maroilles"
 date: 2011-11-05T21:46:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943803/20111103_madeleine_maroille_1.jpg
+thumbnail: https://crokmou.com/images/20111103_madeleine_maroille_1.jpg
 categories: 
   - Apéritifs
 tags: 

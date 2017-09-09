@@ -2,7 +2,7 @@
 type: post
 title: Raclette de Savoie
 date: 2012-12-12T09:42:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943837/20121201_raclette-savoie_MVI_4564.gif
+thumbnail: https://crokmou.com/images/20121201_raclette-savoie_MVI_4564.gif
 categories: 
   - Plats
 tags: 

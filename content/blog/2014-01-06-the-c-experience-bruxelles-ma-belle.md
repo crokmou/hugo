@@ -2,7 +2,7 @@
 type: post
 title: 'The C Experience {Bruxelles ma Belle}'
 date: 2014-01-06T18:22:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943785/051213_the_c_experience_0014.jpg
+thumbnail: https://crokmou.com/images/051213_the_c_experience_0014.jpg
 categories: 
   - Lifestyle
 disqusId: 3656781523

@@ -2,7 +2,7 @@
 type: post
 title: 'La Mandorle, laits végétaux {Partenariat}'
 date: 2014-08-02T09:50:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943881/crokmou-partenariat-la-mandorle-boisson-vegetale.jpg
+thumbnail: https://crokmou.com/images/crokmou-partenariat-la-mandorle-boisson-vegetale.jpg
 categories: 
   - Lifestyle
 disqusId: 3587682776

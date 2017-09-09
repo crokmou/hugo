@@ -2,7 +2,7 @@
 type: post
 title: "Pain d'épices"
 date: 2011-09-19T17:25:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943944/Pain-d--pices.jpg
+thumbnail: https://crokmou.com/images/Pain-d--pices.jpg
 categories: 
   - Desserts
 tags: 

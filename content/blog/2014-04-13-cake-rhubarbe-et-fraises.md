@@ -2,7 +2,7 @@
 type: post
 title: Cake rhubarbe et fraises
 date: 2014-04-13T18:50:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943857/cake-rhubarbe-fraise.jpg
+thumbnail: https://crokmou.com/images/cake-rhubarbe-fraise.jpg
 categories: 
   - Desserts
 tags: 

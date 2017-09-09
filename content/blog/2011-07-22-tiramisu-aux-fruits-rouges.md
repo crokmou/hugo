@@ -2,7 +2,7 @@
 type: post
 title: Tiramisu aux fruits rouges
 date: 2011-07-22T21:43:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943986/Tiramisu-fruits.jpg
+thumbnail: https://crokmou.com/images/Tiramisu-fruits.jpg
 categories: 
   - Desserts
 tags: 

@@ -2,7 +2,7 @@
 type: post
 title: Caramels aux amandes et chocolat
 date: 2012-01-15T12:41:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943808/20120115_caramel_chocolat_miel_amande_1.jpg
+thumbnail: https://crokmou.com/images/20120115_caramel_chocolat_miel_amande_1.jpg
 categories: 
   - Desserts
 tags: 

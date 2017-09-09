@@ -2,7 +2,7 @@
 type: post
 title: Cupcakes thé matcha, chocolat blanc
 date: 2012-03-04T11:00:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943816/20120211_Cupcake_The_Matcha_0001.jpg
+thumbnail: https://crokmou.com/images/20120211_Cupcake_The_Matcha_0001.jpg
 categories: 
   - Desserts
 tags: 

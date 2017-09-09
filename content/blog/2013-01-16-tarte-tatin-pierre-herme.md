@@ -2,7 +2,7 @@
 type: post
 title: Tarte tatin Pierre Hermé
 date: 2013-01-16T10:25:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943828/20130113_tarte_tatin_pomme_0050.jpg
+thumbnail: https://crokmou.com/images/20130113_tarte_tatin_pomme_0050.jpg
 categories: 
   - Desserts
 tags: 

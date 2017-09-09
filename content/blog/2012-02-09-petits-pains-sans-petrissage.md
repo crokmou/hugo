@@ -2,7 +2,7 @@
 type: post
 title: Petits pains sans pétrissage
 date: 2012-02-09T20:30:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943813/20120209_Pain_sans_petrissage_0050.jpg
+thumbnail: https://crokmou.com/images/20120209_Pain_sans_petrissage_0050.jpg
 categories: 
   - Boulangerie
 tags: 

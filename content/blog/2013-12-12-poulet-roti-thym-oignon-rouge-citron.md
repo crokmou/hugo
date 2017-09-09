@@ -2,7 +2,7 @@
 type: post
 title: Poulet rôti thym, oignon rouge, citron
 date: 2013-12-12T16:06:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943792/101213_poulet_roti_thym_0001.jpg
+thumbnail: https://crokmou.com/images/101213_poulet_roti_thym_0001.jpg
 categories: 
   - Plats
 tags: 

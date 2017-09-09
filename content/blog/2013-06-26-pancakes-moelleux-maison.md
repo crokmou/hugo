@@ -2,7 +2,7 @@
 type: post
 title: Pancakes moelleux maison
 date: 2013-06-26T17:16:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943839/20130626_pancakes_moelleux_0020.jpg
+thumbnail: https://crokmou.com/images/20130626_pancakes_moelleux_0020.jpg
 categories: 
   - Desserts
 tags: 

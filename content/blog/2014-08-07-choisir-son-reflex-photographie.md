@@ -2,7 +2,7 @@
 type: post
 title: 'Choisir son reflex {Photographie}'
 date: 2014-08-07T16:16:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943857/Capture-d-----cran-2014-07-29----15.20.17.png
+thumbnail: https://crokmou.com/images/Capture-d-----cran-2014-07-29----15.20.17.png
 categories: 
   - Lifestyle
 tags: 

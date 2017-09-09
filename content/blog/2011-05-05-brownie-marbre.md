@@ -2,7 +2,7 @@
 type: post
 title: Brownie marbré
 date: 2011-05-05T14:40:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943799/20110505_brownie_marbre_chocolat_vanille_1.jpg
+thumbnail: https://crokmou.com/images/20110505_brownie_marbre_chocolat_vanille_1.jpg
 categories: 
   - Desserts
 tags: 

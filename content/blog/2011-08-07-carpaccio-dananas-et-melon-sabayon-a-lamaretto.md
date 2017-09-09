@@ -2,7 +2,7 @@
 type: post
 title: "Carpaccio d'ananas et melon, sabayon à l'amaretto"
 date: 2011-08-07T11:22:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943909/IMG_2786.jpg
+thumbnail: https://crokmou.com/images/IMG_2786.jpg
 categories: 
   - Desserts
 tags: 

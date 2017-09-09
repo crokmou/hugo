@@ -2,7 +2,7 @@
 type: post
 title: Moelleux aux pommes, tahin et chocolat blanc
 date: 2012-01-31T19:30:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943813/20120130_muffin_chocolat_coeur_chocolat_blanc_1.jpg
+thumbnail: https://crokmou.com/images/20120130_muffin_chocolat_coeur_chocolat_blanc_1.jpg
 categories: 
   - Desserts
 tags: 

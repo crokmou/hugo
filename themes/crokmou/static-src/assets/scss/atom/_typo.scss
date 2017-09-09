@@ -1,18 +1,12 @@
-.title {
-  position: relative;
-  display: inline-block;
-  margin-top: -.5em;
-/*  &:before {
-    position: absolute; top: 50%; left: 50%; z-index: 0;
-    transform: translate(-50%, -50%);
-    content: attr(title); color: red; font-weight: 700;
-  }*/
+body {
+  font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; color: #333333; line-height: 1; font-size: 18px;
 }
-
 a {
   color: $brand-secondary; text-decoration: none;
-  &:hover, &:focus { h5 { text-decoration: underline; } }
+  &:hover, &:focus { text-decoration: underline; }
 }
+
+h1, h2, h3, h4, h5, h6 { font-family: sans-serif; }
 h1 { font-size: 1.4em; }
 h2 { font-size: 1.3em; }
 h3 { font-size: 1.2em; }

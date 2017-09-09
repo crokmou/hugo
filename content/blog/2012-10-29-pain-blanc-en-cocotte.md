@@ -2,7 +2,7 @@
 type: post
 title: Pain blanc en cocotte
 date: 2012-10-29T15:40:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943825/20121029_pain_blanc_cuisson_cocotte_fonte_0002.jpg
+thumbnail: https://crokmou.com/images/20121029_pain_blanc_cuisson_cocotte_fonte_0002.jpg
 categories: 
   - Boulangerie
 tags: 

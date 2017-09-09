@@ -2,7 +2,7 @@
 type: post
 title: Palets de dame, pâtisserie du Nord
 date: 2014-09-18T12:13:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943948/palets-de-dame-recette-crokmou-blog-culinaire.jpg
+thumbnail: https://crokmou.com/images/palets-de-dame-recette-crokmou-blog-culinaire.jpg
 categories: 
   - Desserts
 tags: 

@@ -2,7 +2,7 @@
 type: post
 title: Moelleux abricots, lavande
 date: 2012-09-03T17:19:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943813/20120822_petit_moelleux_abricot_lavande_0055.jpg
+thumbnail: https://crokmou.com/images/20120822_petit_moelleux_abricot_lavande_0055.jpg
 categories: 
   - Desserts
 tags: 

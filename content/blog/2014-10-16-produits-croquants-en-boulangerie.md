@@ -2,7 +2,7 @@
 type: post
 title: Produits croquants en boulangerie
 date: 2014-10-16T16:08:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943955/petit-croquant-pain-recette-crokmou-blog-culinaire-2.jpg
+thumbnail: https://crokmou.com/images/petit-croquant-pain-recette-crokmou-blog-culinaire-2.jpg
 categories: 
   - Boulangerie
 tags: 

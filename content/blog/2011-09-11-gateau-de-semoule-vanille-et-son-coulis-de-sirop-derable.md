@@ -2,7 +2,7 @@
 type: post
 title: "Gateau de semoule vanillé et son coulis de sirop d'érable"
 date: 2011-09-11T19:24:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943902/Gateau-de-semoule.jpg
+thumbnail: https://crokmou.com/images/Gateau-de-semoule.jpg
 categories: 
   - Desserts
 tags: 

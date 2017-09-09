@@ -2,7 +2,7 @@
 type: post
 title: The Belgium Effect
 date: 2015-05-11T18:36:23+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943886/culinaria-2015-belgium-effect-crokmou-blog-culinaire-8.jpg
+thumbnail: https://crokmou.com/images/culinaria-2015-belgium-effect-crokmou-blog-culinaire-8.jpg
 categories: 
   - Lifestyle
 tags: 

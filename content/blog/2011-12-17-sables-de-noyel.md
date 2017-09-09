@@ -2,7 +2,7 @@
 type: post
 title: Sablés de Noyel
 date: 2011-12-17T21:25:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943806/20111217_sable_noel_chocolat1.jpg
+thumbnail: https://crokmou.com/images/20111217_sable_noel_chocolat1.jpg
 categories: 
   - Desserts
 tags: 

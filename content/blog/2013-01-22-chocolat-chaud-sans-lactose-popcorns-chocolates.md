@@ -2,7 +2,7 @@
 type: post
 title: Chocolat chaud sans lactose, popcorns chocolatés
 date: 2013-01-22T10:03:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943831/20130120_chocolat_chaud_espagnol_pop_corn_chocolat_0054.jpg
+thumbnail: https://crokmou.com/images/20130120_chocolat_chaud_espagnol_pop_corn_chocolat_0054.jpg
 categories: 
   - Boissons
 tags: 

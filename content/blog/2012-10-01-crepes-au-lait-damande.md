@@ -2,7 +2,7 @@
 type: post
 title: "Crepes au lait d'amande"
 date: 2012-10-01T13:59:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943885/crepe_lait_amande_vanille.jpg
+thumbnail: https://crokmou.com/images/crepe_lait_amande_vanille.jpg
 categories: 
   - Desserts
 tags: 
@@ -48,7 +48,7 @@ Pour environ 30 crêpes
 
 </div>
 
-[![](https://res.cloudinary.com/crokmou/image/upload/v1501943943/le_secret_du_poids_florence_delorme_gif_crokmou.gif)](https://res.cloudinary.com/crokmou/image/upload/v1501943943/le_secret_du_poids_florence_delorme_gif_crokmou.gif)
+[![](https://crokmou.com/images/le_secret_du_poids_florence_delorme_gif_crokmou.gif)](https://crokmou.com/images/le_secret_du_poids_florence_delorme_gif_crokmou.gif)
 
 **Délicieux n’est ce pas ? Et vous les soirées crêpes, cela vous arrive souvent ? Avec quoi les dégustez vous ?**
 

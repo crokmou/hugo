@@ -2,7 +2,7 @@
 type: post
 title: DIY (Très) vieilles planches
 date: 2014-03-04T13:49:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943888/diy-vieille-planche.jpg
+thumbnail: https://crokmou.com/images/diy-vieille-planche.jpg
 categories: 
   - Lifestyle
 disqusId: 3587683208

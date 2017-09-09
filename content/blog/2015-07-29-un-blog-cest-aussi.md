@@ -2,7 +2,7 @@
 type: post
 title: "Un blog c'est aussi…"
 date: 2015-07-29T11:11:38+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943793/945213_569577876430616_2128187709_n.jpg
+thumbnail: https://crokmou.com/images/945213_569577876430616_2128187709_n.jpg
 categories: 
   - Lifestyle
 disqusId: 3982571338

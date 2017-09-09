@@ -2,7 +2,7 @@
 type: post
 title: Soupe de courgettes, chèvre et curcuma
 date: 2011-10-20T16:37:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943911/IMG_4543.jpg
+thumbnail: https://crokmou.com/images/IMG_4543.jpg
 categories: 
   - Plats
 tags: 

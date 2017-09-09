@@ -2,7 +2,7 @@
 type: post
 title: Granité pomme-vanille
 date: 2013-07-27T15:12:00+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943842/20130726_granit--_pomme_vanille_0014.jpg
+thumbnail: https://crokmou.com/images/20130726_granit--_pomme_vanille_0014.jpg
 categories: 
   - Desserts
 tags: 
