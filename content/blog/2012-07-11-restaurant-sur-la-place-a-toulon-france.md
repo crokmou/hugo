@@ -2,7 +2,7 @@
 type: post
 title: Restaurant Sur la place à Toulon (France)
 date: 2012-07-11T17:12:00+00:00
-categories: 
+categories:
   - Lifestyle
 disqusId: 5289419917
 slug: restaurant-sur-la-place-a-toulon-france
@@ -36,7 +36,7 @@ Aujourd’hui petite **découverte culinaire** des plus sympathique ! Nous éti
 
 Ni une, ni deux, nous voilà donc installés près de la petite fontaine. La carte nous donne l’eau à la bouche : poissons grillés, salades diverses (aussi bien pour les amateurs de fromages et de viandes que de légumes), de la viande etc etc. En attendant les plats nous avons droit à des petits croûtons avec une tapenade d’olives vertes faite maison, un petit délice !
 
-A l’arrivée des plats, quelle belle surprise, des **salades** aux chèvres croustillants (pour mon n’hom et ma belle maman) et un camembert au four, le tout présenté à la perfection ! 
+A l’arrivée des plats, quelle belle surprise, des **salades** aux chèvres croustillants (pour mon n’hom et ma belle maman) et un camembert au four, le tout présenté à la perfection !
 
 Les salades donnaient tout simplement envie de se jeter dessus (moi qui n’aime pourtant pas la salade, j’en aurai bien mangé sur ce coup !), de **belles couleurs, des produits visiblement frais, beaux** : tomates, poivrons, courgettes, aubergines, carottes marinées, du jambon de pays et du chèvre enroulé dans une feuille de brick bien croustillante !
 

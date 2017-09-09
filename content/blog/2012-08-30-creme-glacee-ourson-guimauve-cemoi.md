@@ -3,9 +3,9 @@ type: post
 title: Crème glacée ourson guimauve Cémoi
 date: 2012-08-30T18:46:00+00:00
 thumbnail: https://crokmou.com/images/20120830_glace_vanille_ourson_guimauve_0028.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - cemoi
   - dessert
   - glace
@@ -23,17 +23,17 @@ Bien le bonsoir ! Pour fêter les **50 ans du [petit ourson](http://www.petitour
 
 Pour 3/4 litre de glace
 
--50cl de lait entier  
--1 gousse de vanille  
--50g de sucre  
--2 jaunes d’oeufs  
+-50cl de lait entier
+-1 gousse de vanille
+-50g de sucre
+-2 jaunes d’oeufs
 -6 petits oursons Cémoi
 
-1- Dans une casserole, faites bouillir le lait, la crème ainsi que les grains et la gousse de vanille fendue 2- En attendant battez dans un bol, les jaunes et le sucre jusqu’à blanchiment du mélange  
-3- Ajoutez ensuite le lait vanillé à votre préparation jaunes d’oeufs/sucre et mélangez bien  
-4- Remettre le tout sur le feu jusqu’à ce que la préparation nappe la cuillère (passez votre doigt sur le mélange au dos d’une cuillère, la trace faite doit rester intacte), dans ce cas c’est prêt !  
-5- Laissez refroidir le mélange et une fois le tout parfaitement froid (le mieux et de laisser votre préparation 1/2 journée voir 1 journée au frigo), passez votre mélangez en sorbetière  
-6- Lorsque votre glace commence à bien prendre, ajoutez les morceaux d’oursons  
+1- Dans une casserole, faites bouillir le lait, la crème ainsi que les grains et la gousse de vanille fendue 2- En attendant battez dans un bol, les jaunes et le sucre jusqu’à blanchiment du mélange
+3- Ajoutez ensuite le lait vanillé à votre préparation jaunes d’oeufs/sucre et mélangez bien
+4- Remettre le tout sur le feu jusqu’à ce que la préparation nappe la cuillère (passez votre doigt sur le mélange au dos d’une cuillère, la trace faite doit rester intacte), dans ce cas c’est prêt !
+5- Laissez refroidir le mélange et une fois le tout parfaitement froid (le mieux et de laisser votre préparation 1/2 journée voir 1 journée au frigo), passez votre mélangez en sorbetière
+6- Lorsque votre glace commence à bien prendre, ajoutez les morceaux d’oursons
 7- Dégustez (tendrement), avec pourquoi pas un petit peu de nappage chocolat et des bouts de Petit beurre !
 
 Vous craquez n’est ce pas ?

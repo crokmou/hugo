@@ -3,9 +3,9 @@ type: post
 title: Eclairs fève Tonka, chocolat noir
 date: 2014-02-20T23:15:00+00:00
 thumbnail: https://crokmou.com/images/190214-eclair-creme-feve-tonka-10.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - chocolat
   - chou
   - creme
@@ -30,12 +30,12 @@ J’ai pris note de la recette sur le blog de [SquisitoO!](http://squisitoo.blog
 
 Pour 8 éclairs
 
-**Pour la pâte à choux:**– 8cl de lait  
-– 8cl d’eau  
-– 2g de sel  
-– 10g de sucre en poudre  
-– 70g de beurre doux  
-– 100g de farine  
+**Pour la pâte à choux:**– 8cl de lait
+– 8cl d’eau
+– 2g de sel
+– 10g de sucre en poudre
+– 70g de beurre doux
+– 100g de farine
 – 2 oeufs + 1 pour la dorure
 
 1) Préchauffez votre [four](http://www.rueducommerce.fr/m/pl/malid:9404136) à 150°C (four conventionnel pour moi)2) Dans une casserole, versez le lait, l’eau, le sel, le sucre et pour finir le beurre. Faites chauffer à feu doux jusqu’à ce que le beurre fonde et portez ensuite à ébullition pendant quelques secondes.
@@ -48,13 +48,13 @@ Pour 8 éclairs
 
 6) Enfournez pendant une bonne heure. 15 minutes avant la fin ouvrez et refermez votre four afin de laisser la vapeur s’échapper. Laissez refroidir sur une grille.
 
-**Pour la crème à la fève Tonka:**  
-  – 420g de lait entier  
-– 1 1/2 fève Tonka râpée  
-– 5 jaunes d’oeuf  
-– 80g de sucre en poudre  
-– 20g de farine  
-– 20g de fécule de maïs  
+**Pour la crème à la fève Tonka:**
+  – 420g de lait entier
+– 1 1/2 fève Tonka râpée
+– 5 jaunes d’oeuf
+– 80g de sucre en poudre
+– 20g de farine
+– 20g de fécule de maïs
 – 2g de sel
 
 1) Portez le lait et la fève Tonka à ébullition. Retirez du feu et laissez infuser environ 10 minutes en faisant bien attention à ce que le lait ne refroidisse pas complètement.2) Dans un saladier, faites blanchir le sucre et les jaunes d’oeufs, ajoutez le sel. Incorporez ensuite la farine et la fécule de maïs. Mélangez puis ajoutez le lait préalablement filtré petit à petit tout en touillant. La préparation doit être homogène.
@@ -69,7 +69,7 @@ Pour 8 éclairs
 
 2) Transférez la crème pâtissière dans une [poche à douille](http://www.rueducommerce.fr/index/poche%20a%20douille) avec un embout assez fin (5mm environ). Garnissez vos éclairs en les remplissant de crème à l’aide des trous préalablement percés. Raclez l’excédent.
 
-**Pour le glaçage au chocolat:**– 80g de chocolat noir  
+**Pour le glaçage au chocolat:**– 80g de chocolat noir
 – 80g de crème fraîche 30% mg
 
 1) Au bain-marie, faites fondre le chocolat noir et la crème. Mélangez bien et laissez tiédir.2) Trempez le dessus de vos éclairs dans la ganache, tenez les ensuite verticalement afin que le trop plein de chocolat s’écoule.
@@ -84,4 +84,4 @@ La prochaine fois je m’attaque aux éclairs sésame noir, comme [ceux qu’ava
 
 Une bonne fin de soirée les loulous, et demain soir, c’est le week end ! Bon courage pour cette dernière journée. Des poutoux !
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○ 
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○ 

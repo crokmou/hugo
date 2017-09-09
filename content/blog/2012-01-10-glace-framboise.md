@@ -3,9 +3,9 @@ type: post
 title: Glace framboise
 date: 2012-01-10T14:12:00+00:00
 thumbnail: https://crokmou.com/images/20120110_glace_framboise_1.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - citron
   - citron vert
   - creme fraiche
@@ -21,17 +21,17 @@ Me revoilà voilou pour une nouvelle recette ! Mon partenaire Rue du Commerce m�
 
 Pour 3/4 litre de glace
 
-– 400g de framboises  
-– 20cl de crème épaisse  
-– 30cl de lait entier  
-– 80g de sucre  
+– 400g de framboises
+– 20cl de crème épaisse
+– 30cl de lait entier
+– 80g de sucre
 – le jus d’un demi citron vert (facultatif)
 
-1- Ecrasez grossièrement vos framboises avec du sucre  
-2- Faites les chauffer dans une casserole quelques minutes afin d’obtenir une compotée  
-3- Mixez vos framboises et ajoutez le lait et la crème (ainsi que le jus de citron vert si vous le souhaitez)  
-4- Placez votre préparation durant une nuit au frigo afin que celle-ci prenne bien en sorbetière  
-5- Le lendemain, versez votre mélange dans la sorbetière et laissez turbiner pendant environ 45min (après tout dépend de votre sorbetière et de la fraicheur de votre mélange)  
+1- Ecrasez grossièrement vos framboises avec du sucre
+2- Faites les chauffer dans une casserole quelques minutes afin d’obtenir une compotée
+3- Mixez vos framboises et ajoutez le lait et la crème (ainsi que le jus de citron vert si vous le souhaitez)
+4- Placez votre préparation durant une nuit au frigo afin que celle-ci prenne bien en sorbetière
+5- Le lendemain, versez votre mélange dans la sorbetière et laissez turbiner pendant environ 45min (après tout dépend de votre sorbetière et de la fraicheur de votre mélange)
 6- Une fois la préparation prise, placez votre glace dans un tupperware et mettez le tout au congélateur
 
 N’hésitez pas à remplacer les framboises par des fraises ou des mûres ! Je vous souhaite une très bonne fin de journée et je vous dit à très bientôt !

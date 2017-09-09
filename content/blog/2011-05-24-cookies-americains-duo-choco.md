@@ -3,9 +3,9 @@ type: post
 title: Cookies Américains duo choco
 date: 2011-05-24T22:15:00+00:00
 thumbnail: https://crokmou.com/images/Cookies-Noisettes-5.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - amande
   - cassonade
   - chocolat au lait
@@ -18,7 +18,7 @@ disqusId: 3587684647
 slug: cookies-americains-duo-choco
 ---
 
- 
+
 
 Bien le bonsoir, aujourd’hui présentation de cookies, vous me direz, on connait déjà la recette, c’est pas la première fois qu’on en fait… Oui effectivement mais ceux là plaisent toujours beaucoup, essayez vous verrez ! Les cookies Américains duo choco sont selon moi, les meilleurs, pour leur croquant, leur moelleux, leur goût… mais pour approuver mes dires ils vous faudra d’abord mettre les mains à la pâte :<a name="more"></a>
 

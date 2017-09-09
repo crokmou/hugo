@@ -3,9 +3,9 @@ type: post
 title: Galettes Bretonnes sarrazin
 date: 2014-01-31T18:11:00+00:00
 thumbnail: https://crokmou.com/images/300114-galette-sarrasin-bretonne-02.jpg
-categories: 
+categories:
   - Plats
-tags: 
+tags:
   - chandeleur
   - galette
   - galette bretonne
@@ -27,11 +27,11 @@ Que manger avec ça ? Personnellement je les déguste avec souvent le même comb
 
 Pour 10 grandes galettes
 
-– 300g de farine de sarrasin  
-– 30g de farine de froment (pour plus de souplesse mais la tradition veut que cela soit 100% sarrasin)  
-– 750ml d’eau  
-– 5g de gros sel de Guérande  
-– 1 oeuf (facultatif, c’est pour que la galette accroche moins)  
+– 300g de farine de sarrasin
+– 30g de farine de froment (pour plus de souplesse mais la tradition veut que cela soit 100% sarrasin)
+– 750ml d’eau
+– 5g de gros sel de Guérande
+– 1 oeuf (facultatif, c’est pour que la galette accroche moins)
 – beurre
 
 1) Dans un [cul-de-poule](http://www.rueducommerce.fr/m/pl/malid:48515370), versez les farines avec le sel et creusez un puit (comme avec la purée =p). Ajoutez l’eau au fur et à mesure tout en mélangeant bien à l’aide d’un fouet. Ajoutez l’oeuf et mélangez à nouveau.2) Laissez poser au frais pendant 2h en couvrant le récipient d’un torchon propre.
@@ -44,4 +44,4 @@ Astuce : Pour garnir votre galette, disposez celle-ci dans votre poêle chaude, 
 
 **Et vous votre recette préférée ?** ** ** Si une envie de sucré vous prend, je vous propose dans ce cas ma petite recette de [crêpes au lait d’amande](http://www.crokmou.com/2013/01/crepes-au-lait-damande-et-autres.html), un délice.
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○ 
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○ 

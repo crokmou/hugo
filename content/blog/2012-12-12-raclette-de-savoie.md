@@ -3,9 +3,9 @@ type: post
 title: Raclette de Savoie
 date: 2012-12-12T09:42:00+00:00
 thumbnail: https://crokmou.com/images/20121201_raclette-savoie_MVI_4564.gif
-categories: 
+categories:
   - Plats
-tags: 
+tags:
   - cornichon
   - creme fraiche
   - food anime
@@ -45,6 +45,6 @@ Afin de servir toute la marmaille ou tout simplement les amis, vous n’aurez pa
 
 Des bisous et faites attention à ne pas prendre froid !
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 
 *Produit offert

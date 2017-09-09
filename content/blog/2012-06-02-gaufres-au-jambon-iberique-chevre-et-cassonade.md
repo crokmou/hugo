@@ -3,9 +3,9 @@ type: post
 title: Gaufres au jambon Ibérique, chèvre et cassonade
 date: 2012-06-02T14:55:00+00:00
 thumbnail: https://crokmou.com/images/20120528_gaufre_chevre_miel_jambon_hyberique_cassonade_0011.jpg
-categories: 
+categories:
   - Plats
-tags: 
+tags:
   - cassonade
   - chevre
   - delhaize
@@ -30,15 +30,15 @@ Vous n’aurez donc besoin en théorie que d’un [four](http://www.rueducom
 
 <div>Pour 2 personnes
 
--4 gaufres pur beurre  
--50g de jambon Ibérique  
--125g de chèvre au lait cru et au miel (ou du chèvre frais)  
+-4 gaufres pur beurre
+-50g de jambon Ibérique
+-125g de chèvre au lait cru et au miel (ou du chèvre frais)
 -2 càc de cassonade
 
-1- Préchauffez votre four à 180°C  
-2- Etalez une bonne couche de chèvre sur vos gaufres  
-3- Ajoutez par dessus un bon morceaux de jambon Ibérique puis une demi cuillère à café de cassonade  
-4- Enfournez environ 10min  
+1- Préchauffez votre four à 180°C
+2- Etalez une bonne couche de chèvre sur vos gaufres
+3- Ajoutez par dessus un bon morceaux de jambon Ibérique puis une demi cuillère à café de cassonade
+4- Enfournez environ 10min
 5- Sortez du four et dégustez chaud !
 
 </div>

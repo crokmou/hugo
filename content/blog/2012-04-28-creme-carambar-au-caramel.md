@@ -3,9 +3,9 @@ type: post
 title: Crème carambar au caramel
 date: 2012-04-28T08:00:00+00:00
 thumbnail: https://crokmou.com/images/20120414_Creme_dessert_carambar_caramel_0028.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - carambar
   - caramel
   - chocolat blanc
@@ -23,17 +23,17 @@ Bon d’après ce que j’ai tout bien compris on a du mal a en trouver en Belgi
 
 Pour 2 personnes
 
--1 oeuf  
--12 cl de lait demi-écrémé  
--1 sachet de sucre vanillé  
--8 carambars  
+-1 oeuf
+-12 cl de lait demi-écrémé
+-1 sachet de sucre vanillé
+-8 carambars
 -chocolat blanc (facultatif)
 
-1- Dans une [casserole](http://www.rueducommerce.fr/m/pl/malid:115), faites chauffer le lait avec les carambars. Mélangez jusqu’à ce qu’ils fondent.  
-2- Préchauffez votre four à 210°C  
-3- Dans le saladier, battez l’oeuf avec le sucre puis y verser le lait aux carambars.  
-4- Filtrez votre préparation et versez là dans des moules (ramequins). Mettez vos ramequins dans un plat rempli d’eau chaude et mettez le tout au [four](http://www.rueducommerce.fr/m/pl/malid:9404136) pour environ 30min.  
-5- Une fois la crème prise, laissez refroidir et dégustez vos crèmes tièdes ou froides !  
+1- Dans une [casserole](http://www.rueducommerce.fr/m/pl/malid:115), faites chauffer le lait avec les carambars. Mélangez jusqu’à ce qu’ils fondent.
+2- Préchauffez votre four à 210°C
+3- Dans le saladier, battez l’oeuf avec le sucre puis y verser le lait aux carambars.
+4- Filtrez votre préparation et versez là dans des moules (ramequins). Mettez vos ramequins dans un plat rempli d’eau chaude et mettez le tout au [four](http://www.rueducommerce.fr/m/pl/malid:9404136) pour environ 30min.
+5- Une fois la crème prise, laissez refroidir et dégustez vos crèmes tièdes ou froides !
 6- Et vous pouvez même ajouter quelques copeaux de chocolat blanc par dessus vos crèmes, c’est juste délicieux !
 
 ** ** **Et vous les carambars vous les aimez comment ?** ** **

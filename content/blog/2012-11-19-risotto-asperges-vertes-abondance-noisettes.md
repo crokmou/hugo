@@ -3,9 +3,9 @@ type: post
 title: Risotto asperges vertes, abondance, noisettes
 date: 2012-11-19T16:54:00+00:00
 thumbnail: https://crokmou.com/images/20121119_risotto_asperge_verte_abondance_noisette_0031.jpg
-categories: 
+categories:
   - Plats
-tags: 
+tags:
   - abondance
   - alcool
   - asperge
@@ -30,22 +30,22 @@ Me voilà donc en pleine préparation d’un délicieux risotto : on sort les [c
 
 Pour 2 personnes
 
--150g de riz rond (à risotto)  
--100 ml de vin blanc sec  
--500 ml de bouillon de volaille  
--6 asperges vertes  
--1/2 oignon  
--copeaux de fromage d’abondance  
--quelques noisettes décortiquées (facultatif)  
--beurre  
+-150g de riz rond (à risotto)
+-100 ml de vin blanc sec
+-500 ml de bouillon de volaille
+-6 asperges vertes
+-1/2 oignon
+-copeaux de fromage d’abondance
+-quelques noisettes décortiquées (facultatif)
+-beurre
 -sel & poivre
 
-1- Faites bouillir une grande casserole d’eau salée. Lavez et pelez vos asperges à l’aide d’un économe (pour plus de facilité commencez a partir du dessous de la tete de l’asperge jusqu’au pied). Attachez toutes vos asperges ensemble à l’aide d’une ficelle et plongez le tout dans l’eau bouillante. Laissez cuire environ 10min (vérifiez si vos asperges sont tendres grâce a la pointe d’un couteau). Une fois vos asperges cuites, plongez les directement dans un grand bol d’eau froide, ensuite égouttez les et découpez des petits tronçons  
-2- Faites bouillir 500ml d’eau dans lequel vous ajouterez votre cube de bouillon de volaille  
-3- Dans votre sauteuse, faites fondre le beurre (je dirais une bonne cuillère à soupe), ajoutez votre oignon coupé en lamelles ainsi que le riz à risotto.  
-4- Faites chauffer environ 2 min jusqu’à ce que le riz soit transparent et ajoutez le vin blanc.  
-5- Mélangez assez souvent. Une fois que le vin blanc est absorbé par le riz, ajoutez une louche de bouillon. De nouveau, mélangez et attendant que le liquide soit absorbé et recommencez l’opération jusqu’à ce qu’il ne reste plus de bouillon dans votre casserole.  
-6- Dans une poêle, faites chauffer un peu de beurre et faites revenir les tronçons et les têtes d’asperges 3/4 minutes. Ajoutez ensuite le tout a votre risotto.  
+1- Faites bouillir une grande casserole d’eau salée. Lavez et pelez vos asperges à l’aide d’un économe (pour plus de facilité commencez a partir du dessous de la tete de l’asperge jusqu’au pied). Attachez toutes vos asperges ensemble à l’aide d’une ficelle et plongez le tout dans l’eau bouillante. Laissez cuire environ 10min (vérifiez si vos asperges sont tendres grâce a la pointe d’un couteau). Une fois vos asperges cuites, plongez les directement dans un grand bol d’eau froide, ensuite égouttez les et découpez des petits tronçons
+2- Faites bouillir 500ml d’eau dans lequel vous ajouterez votre cube de bouillon de volaille
+3- Dans votre sauteuse, faites fondre le beurre (je dirais une bonne cuillère à soupe), ajoutez votre oignon coupé en lamelles ainsi que le riz à risotto.
+4- Faites chauffer environ 2 min jusqu’à ce que le riz soit transparent et ajoutez le vin blanc.
+5- Mélangez assez souvent. Une fois que le vin blanc est absorbé par le riz, ajoutez une louche de bouillon. De nouveau, mélangez et attendant que le liquide soit absorbé et recommencez l’opération jusqu’à ce qu’il ne reste plus de bouillon dans votre casserole.
+6- Dans une poêle, faites chauffer un peu de beurre et faites revenir les tronçons et les têtes d’asperges 3/4 minutes. Ajoutez ensuite le tout a votre risotto.
 7- Lorsque vous êtes prêts à servir, ajoutez quelques lamelles d’abondances et quelques morceaux de noisettes !Si vous le désirez, vous pouvez ajouter une cuillère à soupe de crème fraîche au mélange, mais personnellement je ne l’ai pas fait.
 
 Qu’en dites vous ? Pour ma part cela change un peu de la raclette et de la tartiflette (oui parce que malheureusement on peut pas en manger tous les jours au risque de devenir vraiment énorme)
@@ -64,4 +64,4 @@ Une bonne soirée à tous et n’oubliez pas [mon concours de cuisine cupcakes](
 
 [![](http://1.bp.blogspot.com/-sCWuqO1aUns/UIztj8sr84I/AAAAAAAAE5Y/KI6wtOp2oxg/s640/concours_recettes_cupcakes_crokmou_partenaire_petitplat.fr_bann.jpg)](http://www.crokmou.com/2012/10/concours-recette-cupcake-partenaire-petitplat.fr.html)
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

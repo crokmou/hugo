@@ -2,7 +2,7 @@
 type: post
 title: 'Un concours moelleux pour souffler la 2ème bougie ! {Partenariat Apluches}'
 date: 2013-04-21T16:02:00+00:00
-categories: 
+categories:
   - Lifestyle
 disqusId: 3587684482
 slug: un-concours-moelleux-pour-souffler-la-2eme-bougie-partenariat-apluches
@@ -18,7 +18,7 @@ Et pour vous remercier d’autant plus, j’organise en partenariat avec [Apluch
 
 « Sophie, 25 ans et vit près de Lille. Elle créé et coud de A à Z avec ses propres patrons sous le nom Apluches.
 
-Son passe temps favori est donc la création de petites peluches artisanales avec comme but premier, la satisfaction de la personne qui va la recevoir. La particularité de ses peluches est justement la personnalisation de celles-ci afin qu’elles deviennent uniques. 
+Son passe temps favori est donc la création de petites peluches artisanales avec comme but premier, la satisfaction de la personne qui va la recevoir. La particularité de ses peluches est justement la personnalisation de celles-ci afin qu’elles deviennent uniques.
 
 [![](http://www.crokmou.com/wp-content/uploads/2013/04/poulpy_bleu-300x2251-300x225.jpg)](http://www.crokmou.com/wp-content/uploads/2013/04/poulpy_bleu-300x2251.jpg)[![](http://www.crokmou.com/wp-content/uploads/2013/04/plante-300x2251-300x225.jpg)](http://www.crokmou.com/wp-content/uploads/2013/04/plante-300x2251.jpg)
 
@@ -40,9 +40,9 @@ Super non ? Je trouve qu’un coussin comme ça sur le canap’ hey beh ça fait
 
   – Vous devrez écrire un commentaire sous cet article (à l’aide d’une adresse mail valide) en répondant à cette question  **Qu’aimeriez vous voir d’autre comme peluches dans la collection d’Apluches ?**
 
-– Aimer la page [Facebook Apluches](https://www.facebook.com/ApluchesCreationDePeluchesArtisanales?fref=ts)  
+– Aimer la page [Facebook Apluches](https://www.facebook.com/ApluchesCreationDePeluchesArtisanales?fref=ts)
 
-– Aimer la page [Facebook Crokmou](https://www.facebook.com/pages/CroKMou/148093255259077)  
+– Aimer la page [Facebook Crokmou](https://www.facebook.com/pages/CroKMou/148093255259077)
   +1 chance : Relayer le concours (sur facebook, twitter, blog etc)
 
 Lorsque vous écrirez votre commentaire, n’oubliez pas de **mentionner le nom avec lequel vous avez aimé les pages facebook et le lien avec lequel vous avez relayé le concours**, si vous souhaitez que votre participation et vos chances supplémentaires soient comptabilisées (Je précise que **je n’irai pas chercher ses informations à votre place**)
@@ -54,11 +54,11 @@ Un coussin Cookies confectionné par Apluches
 ### A SAVOIR
 
 *   Concours possible uniquement pour les personnes ayant une **adresse postale en France Métropolitaine** (pour les Belges, si vous gagnez je ferais livrer la peluche chez moi en France et vous l’enverrai moi même)
-*   Le nom du gagnant sera **tiré au sort** via Random.org. 
+*   Le nom du gagnant sera **tiré au sort** via Random.org.
 *   Vérifiez bien que vous utilisez une **adresse mail valide** lorsque vous écrivez votre commentaire, si je n’ai pas de réponse de la part du gagnant (faute d’avoir une adresse mail correcte) sous 2 jours, un nouveau gagnant sera tiré au sort.
 *   N’oubliez pas de **répondre à la question posée**, auquel cas votre participation ne sera pas prise en compte.
 
-### Fin du concours le 5 Mai à 00h  
+### Fin du concours le 5 Mai à 00h
 
 N’hésitez pas à faire connaitre Apluches, le bouche à oreille est toujours le meilleur moyen pour faire développer une passion ! En attendant je vous dit à bientôt pour une nouvelle recette et j’espère que vous serez nombreux à participer ! Des bisous les gourmands !
 
@@ -70,7 +70,7 @@ Autant vous le dire, d’habitude je vérifie chaque personne, si elle a bien ai
 
 Après cette petite mise au point (dont je suis certaine, vous en prendrez compte pour les concours à venir), je vais annoncer le nom du gagnant, ou plutôt ici de la gagnante !
 
-Bravo à 
+Bravo à
 
 Sandrine
 
@@ -82,4 +82,4 @@ Tu as gagné un joli coussin cookies ! Tu peux me contacter à cette adresse con
 
 J’espère que le concours vous a tous fait plaisir, et je vous dis à bientôt pour les prochains 😉
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

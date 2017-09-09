@@ -3,9 +3,9 @@ type: post
 title: Moelleux abricots, lavande
 date: 2012-09-03T17:19:00+00:00
 thumbnail: https://crokmou.com/images/20120822_petit_moelleux_abricot_lavande_0055.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - abricot
   - fleur
   - fruit
@@ -30,27 +30,27 @@ Pour réaliser ces petits gouters vous aurez besoin : de votre [tablier](http://
 
 Pour 10 minis moelleux
 
-– 40g de beurre  
-– 150g farine  
-– 1 cuill café de levure  
-– 80g sucre  
-– 2 œufs  
-– 5 cl de lait  
-– 2/3 abricots  
+– 40g de beurre
+– 150g farine
+– 1 cuill café de levure
+– 80g sucre
+– 2 œufs
+– 5 cl de lait
+– 2/3 abricots
 – 1 pincée de lavande (séchée)
 
-1- Préchauffez votre four à 180°C  
-2- Dans un casserole (petite) faites chauffer le lait avec votre boule à thé (préalablement remplie de lavande). Laissez infuser à feu doux  
-3- Dans un saladier, fouettez jusqu’à blanchiment du mélange les oeufs avec le sucre. Ajoutez ensuite la farine et la levure, mélangez.  
-4- Versez ensuite au mélange le beurre fondu et le lait à la lavande. Mélangez pour que votre préparation soit bien homogène  
-5- Versez de la pâte au 3/4 dans vos moules à financier.  
-6- Lavez vos abricots, coupez les en « barquettes » et posez en un bout sur chaque « financier »  
+1- Préchauffez votre four à 180°C
+2- Dans un casserole (petite) faites chauffer le lait avec votre boule à thé (préalablement remplie de lavande). Laissez infuser à feu doux
+3- Dans un saladier, fouettez jusqu’à blanchiment du mélange les oeufs avec le sucre. Ajoutez ensuite la farine et la levure, mélangez.
+4- Versez ensuite au mélange le beurre fondu et le lait à la lavande. Mélangez pour que votre préparation soit bien homogène
+5- Versez de la pâte au 3/4 dans vos moules à financier.
+6- Lavez vos abricots, coupez les en « barquettes » et posez en un bout sur chaque « financier »
 7- Enfournez le tout pour environ 20 minutes. Et par la suite dégustez !
 
 **Et vous quels sont vos gouters préférés ?** ** ** ** ** A bientôt pour de nouvelles recettes ! (Et le résultat des exams huhuhu) Bisous bisous mes gourmands !
 
 [![](http://3.bp.blogspot.com/-A1DIirYXsDk/UETX8NBCkBI/AAAAAAAAD-s/K08f0uTKEPg/s1600/panda-dog-emoticon-003.gif)](http://3.bp.blogspot.com/-A1DIirYXsDk/UETX8NBCkBI/AAAAAAAAD-s/K08f0uTKEPg/s1600/panda-dog-emoticon-003.gif)
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 
  

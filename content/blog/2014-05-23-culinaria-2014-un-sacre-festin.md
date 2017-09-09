@@ -3,7 +3,7 @@ type: post
 title: Culinaria 2014, un sacré festin !
 date: 2014-05-23T16:51:00+00:00
 thumbnail: https://crokmou.com/images/culinaria-2014-bruxelles-mercredi.jpg
-categories: 
+categories:
   - Lifestyle
 disqusId: 3687140082
 slug: culinaria-2014-un-sacre-festin
@@ -15,7 +15,7 @@ Je vous en parlais il y a déjà quelques semaines, **Culinaria est de retour ce
 
 Avec un peu de chance si vous vous trouvez ce week end sur Bruxelles, Culinaria y est encore jusqu’à Dimanche ! Pour y participer rien de plus simple, rendez vous sur place ou sur le [site Internet](http://www.culinariasquare.com/) pour y réserver vos places. Qu’en dites vous, tentant non ?
 
-**Culinaria**  
+**Culinaria**
 [Site Internet](http://www.culinariasquare.com/)/[Facebook](https://www.facebook.com/culinariabelgium)
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

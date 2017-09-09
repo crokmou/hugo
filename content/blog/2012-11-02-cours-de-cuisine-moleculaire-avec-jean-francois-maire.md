@@ -2,7 +2,7 @@
 type: post
 title: Cours de cuisine moléculaire avec Jean François Maire
 date: 2012-11-02T12:02:00+00:00
-categories: 
+categories:
   - Lifestyle
 disqusId: 3659741927
 slug: cours-de-cuisine-moleculaire-avec-jean-francois-maire
@@ -14,7 +14,7 @@ Il faut que je vous raconte : Le week end dernière moi et mon hom sommes partis
 
 Je dois vous dire que je n’avais encore jamais assisté à un cours de cuisine, et je n’ai pas été déçue ! J’ai mangé des choses que je n’achète jamais à la maison, j’ai appris quelques petits tours de mains, des méthodes de cuisson etc
 
-Au menu de ce cours de cuisine : 
+Au menu de ce cours de cuisine :
 
 Saint Jacques, gelée de fenouil, purée de céleri et sauce fenouil au siphon
 
@@ -32,7 +32,7 @@ _Référencé dans les plus grands guides gastronomiques nationaux et internatio
 
 _Chroniqueur Gastronomique sur France Bleue Besançon durant 4 ans quelques émissions de télévision sur France 3 côté cuisine. Durant son parcours il a été l’Ambassadeur de la Cuisine Franc- comtoise, tant en Asie que dans différents pays Européens._
 
-Ayant décidé de changer de façon de travailler JF M a ouvert l’ACDIV « Académie Culinaire du Doubs » pour devenir consultant chef de cuisine. Ce qui lui permettra de donner des cours de cuisine aux particuliers, dans un premiers temps en collaboration avec les Cuisines Rognon. Puis création d’un atelier de cuisine.« 
+Ayant décidé de changer de façon de travailler JF M a ouvert l’ACDIV « Académie Culinaire du Doubs » pour devenir consultant chef de cuisine. Ce qui lui permettra de donner des cours de cuisine aux particuliers, dans un premiers temps en collaboration avec les Cuisines Rognon. Puis création d’un atelier de cuisine.«
 
 Ce chef est vraiment quelqu’un d’accessible, il est fort sympathique et nous accueille chaleureusement dans son atelier de cuisine !
 
@@ -58,9 +58,9 @@ Je ne regrette vraiment pas d’y être allée, nous avons rencontré des person
 
 Académie Culinaire du Doubs
 
-34, rue du Vallon  
-25480 Ecole Valentin  
-Port : 06 12 75 49 63  
+34, rue du Vallon
+25480 Ecole Valentin
+Port : 06 12 75 49 63
 Fax : 03 81 41 91 18
 
 Tel : 03 81 80 03 90
@@ -69,6 +69,6 @@ Tel : 03 81 80 03 90
 
 [Site Internet](http://www.academieculinaire.fr/) Bon vendredi à toutes et à tous ! Passez un bon week end (et n’oubliez pas [mon concours cupcakes](http://www.crokmou.com/2012/10/concours-recette-cupcake-partenaire-petitplat.fr.html) !)
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 
  

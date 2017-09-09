@@ -3,9 +3,9 @@ type: post
 title: "Palets bretons à la fleur d'oranger"
 date: 2011-09-23T17:38:00+00:00
 thumbnail: https://crokmou.com/images/Palets-bretons-fleur-doranger.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - biscuit
   - fleur
   - "fleur d'oranger"

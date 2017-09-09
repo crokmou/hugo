@@ -2,7 +2,7 @@
 type: post
 title: 'Concours recettes cupcakes {Partenaire Petitplat.fr}'
 date: 2012-10-28T10:05:00+00:00
-categories: 
+categories:
   - Lifestyle
 disqusId: 3587684616
 slug: concours-recettes-cupcakes-partenaire-petitplat-fr
@@ -31,7 +31,7 @@ Vous allez devoir réaliser une recette de cupcakes sucrés (la recette ne doit 
 *   Aimer la [page facebook de Petitplat](https://www.facebook.com/PetitPlat) et la [page facebook Crokmou](https://www.facebook.com/pages/CroKMou/148093255259077) (indiquez le nom avec lequel vous avez aimer les pages dans votre commentaire ci-dessous)
 *   Répondre à cette question : Que préférez vous dans [le magasin en ligne de Petitplat](http://www.petitplat.fr/) ?
 
-### Pour participer 
+### Pour participer
 
 *   Remplir les conditions de participation ci-dessus
 *   Réaliser une recette de cupcake sucré et la prendre en photo :
@@ -50,26 +50,26 @@ Je ferais un article qui regroupera toutes les participations.
 
 Vous serez jugés sur la gourmandise de votre recette et la photographie par :
 
-– Stéphanie du site Petitplat.fr  
-– Mon hom (qui est très très gourmand)  
+– Stéphanie du site Petitplat.fr
+– Mon hom (qui est très très gourmand)
 – Moi même
 
 Je ferais quand même un top 3 lors des résultats
 
-### A savoir 
+### A savoir
 
 Lorsque vous écrivez un commentaire ou m’envoyez un mail, veuillez avoir une adresse mail valide. Si au bout d’une semaine le gagnant ne daigne pas me répondre, sachez que je donnerai le lot au deuxième gagnant et de même pour le 2ème lot
 
 **FIN DU CONCOURS LE DIMANCHE 25 NOVEMBRE**
 
- **** 
+ ****
 
- ****  ****  **** 
+ ****  ****  ****
 
 J’espère que le concours vous plaira, je vous souhaite à tous bonne chance et à très bientôt !
 
 <div style="clear: both; text-align: center;">[![](http://vz.iminent.com/vz/bbe86701-1300-42e0-bff0-c28beabcc279/2/cupcake-rire.gif)](http://vz.iminent.com/vz/bbe86701-1300-42e0-bff0-c28beabcc279/2/cupcake-rire.gif)
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 
 </div>

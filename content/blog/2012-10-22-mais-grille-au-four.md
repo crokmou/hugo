@@ -3,9 +3,9 @@ type: post
 title: Maïs grillé au four
 date: 2012-10-22T12:10:00+00:00
 thumbnail: https://crokmou.com/images/20121001_epi_mais_grill--_four_0059.jpg
-categories: 
+categories:
   - Plats
-tags: 
+tags:
   - epice
   - epis de maïs
   - maïs
@@ -23,16 +23,16 @@ Voici donc la recette :
 
 Pour 2 personnes
 
-– 4 épis de maïs  
-– beurre  
-– sel & poivre  
+– 4 épis de maïs
+– beurre
+– sel & poivre
 – épices: curcuma, paprika, thym… (facultatif)
 
-1- Faites chauffer une [casserole](http://www.rueducommerce.fr/m/pl/malid:115) d’eau salée  
-2- Enlevez le feuillage des épis de maïs, égalisez les (A l’aide d’un bon [couteau](http://www.rueducommerce.fr/m/pl/malid:12468606) et un peu de force y’a moyen) et passez les sous l’eau froide pour les laver un peu. Laissez sécher.  
-3- Une fois l’eau portée à ébullition, ajoutez les épis de maïs et laissez blanchir 10/15 minutes  
-4- Égouttez puis badigeonnez vos maïs de beurre fondu (+ épices pour ceux qui aiment).  
-5- Disposez vos épis dans un plat à four et laissez griller (sous le grill) au four en les retournant de temps en temps  
+1- Faites chauffer une [casserole](http://www.rueducommerce.fr/m/pl/malid:115) d’eau salée
+2- Enlevez le feuillage des épis de maïs, égalisez les (A l’aide d’un bon [couteau](http://www.rueducommerce.fr/m/pl/malid:12468606) et un peu de force y’a moyen) et passez les sous l’eau froide pour les laver un peu. Laissez sécher.
+3- Une fois l’eau portée à ébullition, ajoutez les épis de maïs et laissez blanchir 10/15 minutes
+4- Égouttez puis badigeonnez vos maïs de beurre fondu (+ épices pour ceux qui aiment).
+5- Disposez vos épis dans un plat à four et laissez griller (sous le grill) au four en les retournant de temps en temps
 6- Lorsque les épis sont bien grillés, sortez les du [four](http://www.rueducommerce.fr/m/pl/malid:9404136) et dégustez avec les doigts (attention de ne pas vous brûler, vous pouvez toujours utiliser des [maniques](http://www.rueducommerce.fr/m/pl/malid:4769931)) ! »
 
 Je vous annonce aussi que je lancerai un concours en fin de semaine, alors restez attentifs ! Je peux déjà vous dire que cela sera un concours recettes !
@@ -41,4 +41,4 @@ Bon début de semaine à tous
 
 [![](http://images.paraorkut.com/img/emoticons/images/b/black_cat-114.gif)](http://images.paraorkut.com/img/emoticons/images/b/black_cat-114.gif)
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

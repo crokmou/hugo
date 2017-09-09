@@ -3,9 +3,9 @@ type: post
 title: Tartelettes aux pommes aux copeaux de chocolat
 date: 2011-04-13T16:30:00+00:00
 thumbnail: https://crokmou.com/images/Tarte-aux-pommes.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - chocolat
   - chocolat noir
   - dessert
@@ -16,8 +16,6 @@ tags:
 disqusId: 3628177383
 slug: tartelettes-aux-pommes-aux-copeaux-de-chocolat
 ---
-
-###
 
 Me revoili, me revoilou ! Sincèrement désolée pour cette attente entre mes recettes, mais bientôt la fin de l’année, les grosses révisions pour passer en deuxième année vont arriver, plus la fin des projets photo et tout et tout… bref du boulot ! Malgré tout je vais essayer de vous mettre 1 à 2 recettes par semaine !
 

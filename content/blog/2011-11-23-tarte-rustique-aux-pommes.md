@@ -3,9 +3,9 @@ type: post
 title: Tarte rustique aux pommes
 date: 2011-11-23T17:17:00+00:00
 thumbnail: https://crokmou.com/images/20111123_tarte_rustique_pomme_1.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - amande
   - amande en poudre
   - cassonade
@@ -33,7 +33,7 @@ Je reprends la petite présentation de photographe, pour ce soir je vous fais d�
 
 [![](http://4.bp.blogspot.com/-doVfpjqzxHk/Ts0hc5OG5QI/AAAAAAAABLA/qqYyn4NLe0Y/s320/Arena-liu-bolin.jpg)](http://4.bp.blogspot.com/-doVfpjqzxHk/Ts0hc5OG5QI/AAAAAAAABLA/qqYyn4NLe0Y/s1600/Arena-liu-bolin.jpg)
 
- En 2005, l’atelier où cet artiste à trouvé refuge est démoli. C’est à ce moment qu’est né pour lui, le concept de disparition de l’individu. Liu Bolin se lance donc dans un projet alliant performance et photographie. Une série intitulée « Camouflages » 
+ En 2005, l’atelier où cet artiste à trouvé refuge est démoli. C’est à ce moment qu’est né pour lui, le concept de disparition de l’individu. Liu Bolin se lance donc dans un projet alliant performance et photographie. Une série intitulée « Camouflages »
 
 Il utilise le corps humain comme un sculpture vivante. Il s’intéresse au corps humaine t sa place dans l’environnement social : comment passer inaperçu. Il tient compte dans ses photographies des codes sociaux qui viennent à travers tel ou tel endroit.
 
@@ -41,7 +41,7 @@ Liu Bolin tient met en scène des femmes et des hommes mais aussi lui même dans
 
 Liu Bolin à été découvert par la galerie Bertin-Toublanc en 2005\. Et c’est aujourd’hui que ce jeune est artiste est aussi exposé à l’une des plus grande exposition photo du monde qu’est Paris Photo.
 
-[![](http://3.bp.blogspot.com/-lFAuVzsE8m8/Ts0hd3TZBgI/AAAAAAAABLI/MXxA9mPHxDM/s320/Liu-Bolin-via-artcat.jpg)](http://3.bp.blogspot.com/-lFAuVzsE8m8/Ts0hd3TZBgI/AAAAAAAABLI/MXxA9mPHxDM/s1600/Liu-Bolin-via-artcat.jpg) 
+[![](http://3.bp.blogspot.com/-lFAuVzsE8m8/Ts0hd3TZBgI/AAAAAAAABLI/MXxA9mPHxDM/s320/Liu-Bolin-via-artcat.jpg)](http://3.bp.blogspot.com/-lFAuVzsE8m8/Ts0hd3TZBgI/AAAAAAAABLI/MXxA9mPHxDM/s1600/Liu-Bolin-via-artcat.jpg)
 
 Voir le travail de cet artiste à une exposition a été pour moi très impressionnant. C’est en voyant réellement ces œuvres que l’on peut comprendre l’ampleur du travail. En s’intéressant au travail de Liu Bolin, et en essayant de comprendre ces œuvres, il est assez facile de constater que rien n’est fait au hasard, qu’il n’est pas question dans ses photographies que d’une simple mise en scène. Chaque photographie parle de quelque chose, raconte la société chinoise. L’humain s’efface face à la production, à la politique, au travail…etc Je trouve son concept vraiment intéréssant.
 

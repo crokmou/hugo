@@ -2,15 +2,15 @@
 type: post
 title: 'Le coq aux champs*, partage et convivialité'
 date: 2017-03-19T20:14:44+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943967/restaurant-gastronomique-le-coq-aux-champs-tinlot-belgique-crokmou-blog-cuisine-voyage-1.jpg
-categories: 
+thumbnail: https://crokmou.com/images/restaurant-gastronomique-le-coq-aux-champs-tinlot-belgique-crokmou-blog-cuisine-voyage-1.jpg
+categories:
   - Lifestyle
 disqusId: 5646783319
 slug: le-coq-aux-champs-partage-et-convivialite
 ---
 
-**Le coq aux champs *** Rue du montys, 71  
-4557 Soheit-Tinlot  
+**Le coq aux champs *** Rue du montys, 71
+4557 Soheit-Tinlot
 Tél. +32 (0)85 51 20 14 **[Site Internet](http://lecoqauxchamps.be/) / [Facebook ](https://www.facebook.com/Le-coq-aux-champs-110673795614123)**
 
 **Le coq aux champs***, un restaurant étoilé où se mêle partage, convivialité et saveurs. Situé dans la province de Liège, non loin de Huy, la bâtisse semble en effet perdue au milieu des champs <del>– et des montagnes –</del>, j’avoue que nous avons mi un peu de temps à la trouver…

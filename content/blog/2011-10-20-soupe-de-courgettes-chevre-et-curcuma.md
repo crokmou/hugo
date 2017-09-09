@@ -3,9 +3,9 @@ type: post
 title: Soupe de courgettes, chèvre et curcuma
 date: 2011-10-20T16:37:00+00:00
 thumbnail: https://crokmou.com/images/IMG_4543.jpg
-categories: 
+categories:
   - Plats
-tags: 
+tags:
   - chevre
   - courgette
   - curcuma
@@ -24,7 +24,7 @@ Cela doit faire quelque chose du genre 8 mois que je n’ai pas mangé de soupe,
 
 [![](http://4.bp.blogspot.com/-J7MHt7RG5no/TqmZ-41iEbI/AAAAAAAAA_8/1LwYKS_QGEw/s1600/Soupe.jpg)](http://4.bp.blogspot.com/-J7MHt7RG5no/TqmZ-41iEbI/AAAAAAAAA_8/1LwYKS_QGEw/s1600/Soupe.jpg)
 
-23/10 : Une petite soupe à la une de CookNow, sympa non ?   
+23/10 : Une petite soupe à la une de CookNow, sympa non ?
 
 <div style="clear: both; text-align: center;">[![](http://1.bp.blogspot.com/-pj3RVSWQwEI/TqPW_gMqIEI/AAAAAAAAA7o/lAUNdwZbP5s/s400/2011-10-23+10.56.13.png)](http://1.bp.blogspot.com/-pj3RVSWQwEI/TqPW_gMqIEI/AAAAAAAAA7o/lAUNdwZbP5s/s1600/2011-10-23+10.56.13.png)
 

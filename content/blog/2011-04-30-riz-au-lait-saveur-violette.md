@@ -3,9 +3,9 @@ type: post
 title: Riz au lait saveur violette
 date: 2011-04-30T17:04:00+00:00
 thumbnail: https://crokmou.com/images/Riz-au-lait----la-violette.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - creme fraiche
   - dessert
   - fleur
@@ -26,7 +26,7 @@ _Je vous présente donc le riz au lait à la violette, petit dessert savoureux, 
 *   200 ml de lait
 *   100 ml de crème (personnellement je n’avais que de la liquide)
 *   une pincée de sel
-*   30g de sucre à la violette (je toruve qu’avec 40g le goût est un peu trop prononcé) 
+*   30g de sucre à la violette (je toruve qu’avec 40g le goût est un peu trop prononcé)
 
 [![](http://4.bp.blogspot.com/-jD2raKy-t_w/Tabb3lV3eGI/AAAAAAAAAEk/G2RYajmhinM/s320/preparation.jpg)](http://4.bp.blogspot.com/-jD2raKy-t_w/Tabb3lV3eGI/AAAAAAAAAEk/G2RYajmhinM/s1600/preparation.jpg)
 

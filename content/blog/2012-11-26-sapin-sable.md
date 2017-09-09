@@ -3,9 +3,9 @@ type: post
 title: Mon beau sapin, roi des sablés
 date: 2012-11-26T16:50:00+00:00
 thumbnail: https://crokmou.com/images/20121125_sapin_noel_sable--s_the_vert_matcha_cine--magraph_2.gif
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - biscuit
   - decoration
   - food anime
@@ -31,13 +31,13 @@ Alors pour la recette, cela vous tente ?
 
 Pour 3 sapins et quelques étoiles
 
-**Pour les sablés**  
-– 250g de farine  
-– 200g de beurre  
-– 100g de sucre glace  
-– 1 pincée de sel  
-– 2 jaunes d’oeufs  
-– 2 [cuillères à café](http://www.rueducommerce.fr/index/cuillere%20a%20cafe) de thé matche  
+**Pour les sablés**
+– 250g de farine
+– 200g de beurre
+– 100g de sucre glace
+– 1 pincée de sel
+– 2 jaunes d’oeufs
+– 2 [cuillères à café](http://www.rueducommerce.fr/index/cuillere%20a%20cafe) de thé matche
 – colorant en poudre vert
 
 **Pour le glaçage** – 200g de sucre glace – 1 blanc d’oeuf – 1 càs d’eau – des billes argentées en sucre (facultatif)
@@ -74,4 +74,4 @@ ainsi qu’au concours organisé sur le blog « [Dans la cuisine de Mickéla](h
 
  Bon début de semaine à tous,
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

@@ -3,9 +3,9 @@ type: post
 title: "Tajine d'agneau aux pruneaux, miel et amandes"
 date: 2014-02-27T21:47:00+00:00
 thumbnail: https://crokmou.com/images/20130928_epicurien.be_tajine_agneau_pruneau_amande.jpg
-categories: 
+categories:
   - Plats
-tags: 
+tags:
   - agneau
   - amande
   - miel
@@ -34,6 +34,6 @@ Je vous laisse à vos fourneaux mes petits gourmands, moi je retourne à mes pin
 
 Des poutoux et passez un bon week end,
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 
  

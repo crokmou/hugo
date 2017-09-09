@@ -3,9 +3,9 @@ type: post
 title: Tarte crumble nectarines et miel
 date: 2012-08-22T09:40:00+00:00
 thumbnail: https://crokmou.com/images/20120815_tarte_crumble_nectarine_miel_0010.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - crumble
   - dessert
   - fruit
@@ -28,19 +28,19 @@ Pour réaliser cette recette, vous aurez donc besoin d’une [poêle](http://ww
 
 Pour 6/8 personnes
 
--1 pâte feuilletée  
--8 à 10 nectarines  
--2 càs de miel de lavande  
--100g de farine  
--100g de sucre  
+-1 pâte feuilletée
+-8 à 10 nectarines
+-2 càs de miel de lavande
+-100g de farine
+-100g de sucre
 -beurre salé (pommade)
 
-1- Préchauffez votre four à 180°C  
-2- Lavez, épluchez et dénoyautez vos nectarines, puis, coupez les en petits morceaux.  
-3- Faites caraméliser vos morceaux de fruits dans une poêle avec le miel de lavande  
-4- Tout en remuant vos fruits de temps en temps, préparez votre crumble : pour cela mélangez le sucre et la farine, ajoutez par petites touches des morceaux de beurre. Malaxez le tout, en rajoutant petit à petit du beurre jusqu’à ce que cela ressemble à des miettes (plus au moins grosses). Du crumble quoi !  
-5- Une fois les nectarines caramélisées, disposez les sur votre pâte feuilletée, puis saupoudrez le tout de crumble.  
-6- Enfournez environ 30 à 40 min  
+1- Préchauffez votre four à 180°C
+2- Lavez, épluchez et dénoyautez vos nectarines, puis, coupez les en petits morceaux.
+3- Faites caraméliser vos morceaux de fruits dans une poêle avec le miel de lavande
+4- Tout en remuant vos fruits de temps en temps, préparez votre crumble : pour cela mélangez le sucre et la farine, ajoutez par petites touches des morceaux de beurre. Malaxez le tout, en rajoutant petit à petit du beurre jusqu’à ce que cela ressemble à des miettes (plus au moins grosses). Du crumble quoi !
+5- Une fois les nectarines caramélisées, disposez les sur votre pâte feuilletée, puis saupoudrez le tout de crumble.
+6- Enfournez environ 30 à 40 min
 7- Dégustez tiède ou froid, avec éventuellement une petit boule de [glace au yaourt](http://www.crokmou.com/2012/03/glace-au-yaourt.html) (ou à ce que vous voulez !)
 
 N’oubliez pas le [petit concours](http://www.crokmou.com/2012/08/concours-tirage-au-sort-pour-feter-la.html) organisé en partenariat avec [Rue du Commerce](http://rueducommerce.fr/), afin de peut être gagner deux petits livres Marabout. Vous n’avez rien à perdre, et tout à y gagner ! Cliquez sur l’image ci-dessous pour acceder au concours !
@@ -51,4 +51,4 @@ Je vous souhaite à tous une très belle journée, profitez en bien !
 
 [![](http://2.bp.blogspot.com/-bNONg31DXvk/UDSayyHlZAI/AAAAAAAADag/FEiIHPp9x0g/s1600/Keep_Smiling.gif)](http://2.bp.blogspot.com/-bNONg31DXvk/UDSayyHlZAI/AAAAAAAADag/FEiIHPp9x0g/s1600/Keep_Smiling.gif)
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

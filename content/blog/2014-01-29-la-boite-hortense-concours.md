@@ -2,9 +2,9 @@
 type: post
 title: "La boite d'Hortense {Concours}"
 date: 2014-01-29T16:25:00+00:00
-categories: 
+categories:
   - Lifestyle
-tags: 
+tags:
   - concours
 disqusId: 3587683492
 slug: la-boite-hortense-concours
@@ -14,8 +14,8 @@ slug: la-boite-hortense-concours
 
 Il y a quelques temps déjà [je vous avais parlé d’une nouvelle box Belge :](http://www.crokmou.com/2013/10/la-boite-dhortense-boite-the-belge.html) [« La Boite d’Hortense »](http://www.crokmou.com/2013/10/la-boite-dhortense-boite-the-belge.html) ! Cette fois ci je reviens vers vous non pas pour vous faire languir avec ma box mais pour vous donner l’occasion de **gagner une box Thé ou une box Bien Etre** !
 
-[![](http://www.crokmou.com/wp-content/uploads/2014/01/579119_10151594801686582_741538929_n-300x2891-300x289.jpg)](http://www.crokmou.com/wp-content/uploads/2014/01/579119_10151594801686582_741538929_n-300x2891-300x289.jpg)Mais avant de vous parler du concours tout ça tout ça, je tiens à vous re-présenter la **créatrice de « [La boite d’Hortense](http://www.laboitedhortense.com/)« **, voici Marine : Buveuse de thé avérée, chipoteuse par nature, La boite d’Hortense était une évidence pour elle. Quand elle ne tient pas un crayon pour donner vie à Hortense, c´est un flacon d´eye-liner qu´elle a dans les mains. Avec Hortense, jeune femme d´encre et de papier soucieuse de répandre un peu de gaieté dans votre boite aux lettres, chaque mois, elles usent de magie pour dénicher et sélectionner les produits qui remplissent vos box ! Hortense est l´âme du projet, vous la retrouverez chaque mois sur et dans votre boite pour une nouvelle aventure bien-être et thés !  
-  Tellement séduite par cette box et toutes les bonnes intentions (et le courage aussi) de Marine, je me suis donc dit que cela pouvait être génial de vous faire découvrir en mains-propres ce joli concept !  
+[![](http://www.crokmou.com/wp-content/uploads/2014/01/579119_10151594801686582_741538929_n-300x2891-300x289.jpg)](http://www.crokmou.com/wp-content/uploads/2014/01/579119_10151594801686582_741538929_n-300x2891-300x289.jpg)Mais avant de vous parler du concours tout ça tout ça, je tiens à vous re-présenter la **créatrice de « [La boite d’Hortense](http://www.laboitedhortense.com/)« **, voici Marine : Buveuse de thé avérée, chipoteuse par nature, La boite d’Hortense était une évidence pour elle. Quand elle ne tient pas un crayon pour donner vie à Hortense, c´est un flacon d´eye-liner qu´elle a dans les mains. Avec Hortense, jeune femme d´encre et de papier soucieuse de répandre un peu de gaieté dans votre boite aux lettres, chaque mois, elles usent de magie pour dénicher et sélectionner les produits qui remplissent vos box ! Hortense est l´âme du projet, vous la retrouverez chaque mois sur et dans votre boite pour une nouvelle aventure bien-être et thés !
+  Tellement séduite par cette box et toutes les bonnes intentions (et le courage aussi) de Marine, je me suis donc dit que cela pouvait être génial de vous faire découvrir en mains-propres ce joli concept !
 Marine a eu la gentillesse de me proposer non pas une boite à vous faire gagner, mais deux. En effet dans vos commentaires vous aurez le choix de **participer pour la box Thé ou la box Bien Etre** de Janvier !
 
 [![](http://www.crokmou.com/wp-content/uploads/2014/01/january-2014-tea-box1.jpg)](http://www.crokmou.com/wp-content/uploads/2014/01/january-2014-tea-box1.jpg)[![](http://www.crokmou.com/wp-content/uploads/2014/01/january-2014-wellness-box1.jpg)](http://www.crokmou.com/wp-content/uploads/2014/01/january-2014-wellness-box1.jpg)
@@ -32,9 +32,9 @@ Marine a eu la gentillesse de me proposer non pas une boite à vous faire gagner
 
 – Aimer la page [Facebook Crokmou](https://www.facebook.com/pages/CroKMou/148093255259077) ou vous inscrire à [ma Newsletter](http://www.crokmou.com/p/newsletter_18.html)
 
-+1 chance (non cumulable): 
++1 chance (non cumulable):
 
-– Relayer le concours (sur facebook, twitter, blog etc) 
+– Relayer le concours (sur facebook, twitter, blog etc)
 
 Lorsque vous écrirez votre commentaire, n’oubliez pas de **mentionner le nom avec lequel vous avez aimé les pages Facebook ou l’adresse avec laquelle vous vous êtes inscrits à la newsletter ainsi que le lien avec lequel vous avez relayé le concours**, si vous souhaitez que votre participation et vos chances supplémentaires soient comptabilisées (Je précise que **je n’irai pas chercher ces informations à votre place**)
 
@@ -72,14 +72,14 @@ ou
 
 ### A SAVOIR
 
-Concours possible pour les personnes ayant une **adresse postale en Belgique UNIQUEMENT.**  
-Le nom du gagnant sera **tiré au sort** via Random.org.  
+Concours possible pour les personnes ayant une **adresse postale en Belgique UNIQUEMENT.**
+Le nom du gagnant sera **tiré au sort** via Random.org.
 Vérifiez bien que vous utilisez une **adresse mail valide** lorsque vous écrivez votre commentaire, si je n’ai pas de réponse de la part du gagnant (faute d’avoir une adresse mail correcte) sous 3 jours, un nouveau gagnant sera tiré au sort. N’oubliez pas de **répondre à la question posée et de respecter toutes les conditions**, auquel cas votre participation ne sera pas prise en compte (que vous soyez gentil ou non ;D).
 
 Fin du concours le 5 Février 2014 à 00h
 
-  A bientôt les loulous et soyez nombreux à participer !   
+  A bientôt les loulous et soyez nombreux à participer !
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 
 </div>

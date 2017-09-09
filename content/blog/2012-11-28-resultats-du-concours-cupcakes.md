@@ -2,9 +2,9 @@
 type: post
 title: Résultats du concours Cupcakes !
 date: 2012-11-28T17:59:00+00:00
-categories: 
+categories:
   - Lifestyle
-disqusId: 
+disqusId:
 slug: resultats-du-concours-cupcakes
 ---
 
@@ -40,10 +40,10 @@ J’espère que le concours vous a plus, n’hésitez pas si vous avez des sugg
 
 Je voudrais remercier Stephanie de PetitPlat aussi, pour sa gentillesse mais aussi pour avoir accepté de lancer ce concours avec moi !
 
-Concernant les deux premières du podium, envoyez moi un mail avec vos adresses, ainsi que pour Melie’s Cooking son choix concernant les boucles d’oreilles (si tu préfères un cupcakes déjà réalisé ou ton propre cupcake) 
+Concernant les deux premières du podium, envoyez moi un mail avec vos adresses, ainsi que pour Melie’s Cooking son choix concernant les boucles d’oreilles (si tu préfères un cupcakes déjà réalisé ou ton propre cupcake)
 
 Une bonne soirée à tout le monde !
 
 [![](http://www.crokmou.com/wp-content/uploads/2012/11/Sugared_Cupcake_Treat_by_gridlocked1.gif)](http://www.crokmou.com/wp-content/uploads/2012/11/Sugared_Cupcake_Treat_by_gridlocked1.gif)
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

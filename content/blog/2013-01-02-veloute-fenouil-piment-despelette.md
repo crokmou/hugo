@@ -3,9 +3,9 @@ type: post
 title: "Velouté fenouil, piment d'Espelette"
 date: 2013-01-02T12:04:00+00:00
 thumbnail: https://crokmou.com/images/20130101_veloute_potage_fenouil_piment_espelette_0015.jpg
-categories: 
+categories:
   - Plats
-tags: 
+tags:
   - entree
   - epice
   - fenouil
@@ -27,23 +27,23 @@ Les velouté c’est assez rapide à faire, selon le nombre de convives sortez l
 
 Pour 4 bols
 
-– 3/4 pommes de terre (calibre moyen/gros)  
-– 2 bulbes de fenouil  
-– 1 bouillon cube  
-– 1 litre de bouillon de légumes  
-– 1/2 oignon  
-– piment d’espelette  
-– eau  
-– 20g de beurre  
+– 3/4 pommes de terre (calibre moyen/gros)
+– 2 bulbes de fenouil
+– 1 bouillon cube
+– 1 litre de bouillon de légumes
+– 1/2 oignon
+– piment d’espelette
+– eau
+– 20g de beurre
 – sel & poivre
 
-1- Dans votre cocotte, faites revenir les oignons préalablement émincés dans un peu de beurre.  
-2- Pendant que les oignons fondent, épluchez et coupez vos pommes de terre ainsi que le fenouil (Vidéo explicative pour la préparation du fenouil [-clic-](http://www.aufeminin.com/recette-video-cuisine/comment-preparer-et-cuire-le-fenouil-n54607.html)), coupez le tout en morceaux  
-3- Ajoutez vos légumes dans la cocotte et versez votre bouillon. Rajoutez un peu d’eau si les légumes ne sont pas totalement couverts.  
-4- Laissez cuire à feu doux/moyen pendant environ 30/45min  
-5- Une fois le tout bien cuit, mixez.  
+1- Dans votre cocotte, faites revenir les oignons préalablement émincés dans un peu de beurre.
+2- Pendant que les oignons fondent, épluchez et coupez vos pommes de terre ainsi que le fenouil (Vidéo explicative pour la préparation du fenouil [-clic-](http://www.aufeminin.com/recette-video-cuisine/comment-preparer-et-cuire-le-fenouil-n54607.html)), coupez le tout en morceaux
+3- Ajoutez vos légumes dans la cocotte et versez votre bouillon. Rajoutez un peu d’eau si les légumes ne sont pas totalement couverts.
+4- Laissez cuire à feu doux/moyen pendant environ 30/45min
+5- Une fois le tout bien cuit, mixez.
 6- Salez, poivrez, ajoutez un peu de piment d’Espelette (le dosage c’est selon les goûts) et dégustez avec des petits croûtons de pains et un peu de crème fraiche !
 
 Et pour me permettre de changer un peu mes recettes, parce qu’au bout d’un moment il est vrai que les idées me manquent ! **Quels sont vos potages/veloutés préférés** ?
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

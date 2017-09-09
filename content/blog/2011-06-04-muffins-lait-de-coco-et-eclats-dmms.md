@@ -3,9 +3,9 @@ type: post
 title: "Muffins lait de coco et éclats d'M&M's"
 date: 2011-06-04T19:30:00+00:00
 thumbnail: https://crokmou.com/images/Muffins-mms.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - cassonade
   - dessert
   - huile

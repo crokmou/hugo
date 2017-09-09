@@ -3,9 +3,9 @@ type: post
 title: Muffins double chocolat
 date: 2012-02-03T21:20:00+00:00
 thumbnail: https://crokmou.com/images/20120130_muffin_chocolat_coeur_chocolat_blanc_1.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - cacao
   - chocolat
   - chocolat au lait
@@ -22,21 +22,21 @@ Une attente interminable n’est-ce pas ? La surprise, qu’est-ce donc ? Et bie
 
 Pour 10 muffins
 
-– 150g de farine  
-– 70g de sucre  
-– 9 càs de lait  
-– 1/2 sachet de levure chimique  
-– 2 càs de pâte a tartiner (chocolat/noisettes)  
-– 1 càs de chocolat en poudre type Van Houten  
-– 50g de beurre  
-– 1 oeuf  
+– 150g de farine
+– 70g de sucre
+– 9 càs de lait
+– 1/2 sachet de levure chimique
+– 2 càs de pâte a tartiner (chocolat/noisettes)
+– 1 càs de chocolat en poudre type Van Houten
+– 50g de beurre
+– 1 oeuf
 – 5 carrés de chocolat blanc (Galak ici)
 
-1- Préchauffez votre four à 200°C  
-2- Dans un saladier mélangez votre farine avec la levure, le sucre et le sel  
-3- Faites fondre votre beurre au micro onde, puis une fois ceci fait ajoutez-y la pâte a tartiner et mélangez.  
-4- Ajoutez la préparation choco/beurre au mélange farine, mélangez puis ajoutez le lait, l’oeuf préalablement battu et le chocolat en poudre. Mélangez de nouveau afin d’avoir une préparation homogène  
-5- Remplissez vos moules à muffins au 3/4\. Déposez dans chaque moule un demi carré de chocolat blanc (si vous l’enfoncez un peu la pâte à muffins devrait le recouvrir)  
+1- Préchauffez votre four à 200°C
+2- Dans un saladier mélangez votre farine avec la levure, le sucre et le sel
+3- Faites fondre votre beurre au micro onde, puis une fois ceci fait ajoutez-y la pâte a tartiner et mélangez.
+4- Ajoutez la préparation choco/beurre au mélange farine, mélangez puis ajoutez le lait, l’oeuf préalablement battu et le chocolat en poudre. Mélangez de nouveau afin d’avoir une préparation homogène
+5- Remplissez vos moules à muffins au 3/4\. Déposez dans chaque moule un demi carré de chocolat blanc (si vous l’enfoncez un peu la pâte à muffins devrait le recouvrir)
 6- Enfournez pendant environ 15/20min
 
 Laissez quelque peu refroidir avant de déguster

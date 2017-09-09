@@ -3,9 +3,9 @@ type: post
 title: Clafoutis fraises, pétales de roses, vanille et ricotta
 date: 2012-05-15T14:30:00+00:00
 thumbnail: https://crokmou.com/images/20120411_clafouti_fraise_confit_petale_rose_vanille_0006.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - clafouti
   - confit
   - confit de rose
@@ -87,25 +87,25 @@ Pour réaliser ceci il vous faudra donc, un bon [couteau](http://www.rueducomm
 
 <div>Pour environ 6 minis clafoutis
 
--200 g de fraises  
--65 g de farine  
--2 gros oeufs  
--100ml de lait  
--120g de [confit de pétales de roses](http://www.tastodeprovence.com/p-confit-de-petales-de-roses,147_fr.html)  
--2 càs de ricotta  
--40g de sucre en poudre  
--1 pincée de sel  
--1 càs d’huile d’olive  
--1 càs d’extrait liquide de vanille  
--un peu de beurre pour les moules  
+-200 g de fraises
+-65 g de farine
+-2 gros oeufs
+-100ml de lait
+-120g de [confit de pétales de roses](http://www.tastodeprovence.com/p-confit-de-petales-de-roses,147_fr.html)
+-2 càs de ricotta
+-40g de sucre en poudre
+-1 pincée de sel
+-1 càs d’huile d’olive
+-1 càs d’extrait liquide de vanille
+-un peu de beurre pour les moules
 -cassonade
 
-1- Préchauffez votre four à 180°C  
-2- Dans un saladier, mélangez la farine, le sucre, les oeufs, le sel et la ricotta  
-3- Ajoutez ensuite l’huile d’olive, l’extrait de vanille et le lait. Mélangez bien afin d’obtenir une pâte lisse  
-4- Coupez vos fraises en deux et mélangez les avec le confit de pétales de roses  
-5- Beurrez vos moules et mettez y les fraises (avec le confit). Ajoutez la pâte à clafouti.  
-6- Saupoudrez le tout de cassonade et enfournez pendant environ 30/40 minutes, les minis clafoutis doivent être dorés.  
+1- Préchauffez votre four à 180°C
+2- Dans un saladier, mélangez la farine, le sucre, les oeufs, le sel et la ricotta
+3- Ajoutez ensuite l’huile d’olive, l’extrait de vanille et le lait. Mélangez bien afin d’obtenir une pâte lisse
+4- Coupez vos fraises en deux et mélangez les avec le confit de pétales de roses
+5- Beurrez vos moules et mettez y les fraises (avec le confit). Ajoutez la pâte à clafouti.
+6- Saupoudrez le tout de cassonade et enfournez pendant environ 30/40 minutes, les minis clafoutis doivent être dorés.
 7- Dégustez tiède ou froid, c’est comme vous le voulez !
 
 __________

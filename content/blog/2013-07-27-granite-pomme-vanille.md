@@ -3,9 +3,9 @@ type: post
 title: Granité pomme-vanille
 date: 2013-07-27T15:12:00+00:00
 thumbnail: https://crokmou.com/images/20130726_granit--_pomme_vanille_0014.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - dessert
   - fruit
   - granita
@@ -23,16 +23,16 @@ Dans votre salon, sur un transat ou la tête dans le congelo à la recherche d�
 
 Pour 4 verres
 
-– 400ml d’eau  
-– 2 pommes vertes  
-– 1 càs d’arôme vanille  
+– 400ml d’eau
+– 2 pommes vertes
+– 1 càs d’arôme vanille
 – 100g de sucre
 
 **○○○**
 
-1- Dans une [casserole](http://www.rueducommerce.fr/m/pl/malid:115), faites chauffer l’eau avec le sucre jusqu’à temps que le sucre soit dissous.  
-2- Dans votre [mixer](http://www.rueducommerce.fr/m/pl/malid:1455381) ou [blender](http://www.rueducommerce.fr/m/pl/malid:9633603), versez les pommes préalablement pelées et coupées en morceaux, l’arôme vanille et le sirop (sucre+eau), mixez.  
-3- Versez votre préparation dans un [moule](http://www.rueducommerce.fr/m/pl/malid:5325292) plus large que haut pouvant aller au [congélateur](http://www.rueducommerce.fr/m/pl/malid:9633581). Congelez votre préparation pendant minimum 4h et gratter là à l’aide d’une fourchette toutes les 30 minutes afin d’en faire des « paillettes »  
+1- Dans une [casserole](http://www.rueducommerce.fr/m/pl/malid:115), faites chauffer l’eau avec le sucre jusqu’à temps que le sucre soit dissous.
+2- Dans votre [mixer](http://www.rueducommerce.fr/m/pl/malid:1455381) ou [blender](http://www.rueducommerce.fr/m/pl/malid:9633603), versez les pommes préalablement pelées et coupées en morceaux, l’arôme vanille et le sirop (sucre+eau), mixez.
+3- Versez votre préparation dans un [moule](http://www.rueducommerce.fr/m/pl/malid:5325292) plus large que haut pouvant aller au [congélateur](http://www.rueducommerce.fr/m/pl/malid:9633581). Congelez votre préparation pendant minimum 4h et gratter là à l’aide d’une fourchette toutes les 30 minutes afin d’en faire des « paillettes »
 4- Versez dans des [verres](http://www.rueducommerce.fr/m/pl/malid:4769908) et dégustez bien frais !
 
 Pour ma part ma granita favorite reste celle à la violette, je ne manque jamais d’en acheter une sur Lille lorsqu’il fait chaud et que je passe près de la grand place !
@@ -45,6 +45,6 @@ Félicitations à elle et merci à Popstickers !
 
 Je retourne à mon transat, à bientôt les gourmands !
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 
  

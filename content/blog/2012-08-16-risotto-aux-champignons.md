@@ -3,9 +3,9 @@ type: post
 title: Risotto aux champignons
 date: 2012-08-16T17:16:00+00:00
 thumbnail: https://crokmou.com/images/20120815_risotto_champignon_vin_blanc_0017.jpg
-categories: 
+categories:
   - Plats
-tags: 
+tags:
   - alcool
   - bouillon
   - champignon
@@ -30,24 +30,24 @@ Pour la réalisation de ce plat, à l’aide de votre [balance de cuisine](http:
 
 Pour 2 personnes
 
--130g de riz rond (à risotto)  
--100 ml de vin blanc  
--500 ml de bouillon de volaille  
--150g de champignons de Paris frais  
--1 oignon  
--beurre  
+-130g de riz rond (à risotto)
+-100 ml de vin blanc
+-500 ml de bouillon de volaille
+-150g de champignons de Paris frais
+-1 oignon
+-beurre
 -sel & poivre
 
-1- Faites bouillir 500ml d’eau dans lequel vous ajouterez votre cube de bouillon de volaille  
-2- Dans votre sauteuse, faites fondre le beurre (je dirais une bonne cuillère à soupe), ajoutez votre oignon coupé en lamelles ainsi que le riz à risotto.  
-3- Faites chauffer environ 2 min jusqu’à ce que le riz soit transparent et ajoutez le vin blanc.  
-4- Mélangez assez souvent. Une fois que le vin blanc est absorbé par le riz, ajoutez une louche de bouillon. De nouveau, mélangez et attendant que le liquide soit absorbé et recommencez l’opération jusqu’à ce qu’il ne reste qu’une louche de bouillon dans votre casserole.  
+1- Faites bouillir 500ml d’eau dans lequel vous ajouterez votre cube de bouillon de volaille
+2- Dans votre sauteuse, faites fondre le beurre (je dirais une bonne cuillère à soupe), ajoutez votre oignon coupé en lamelles ainsi que le riz à risotto.
+3- Faites chauffer environ 2 min jusqu’à ce que le riz soit transparent et ajoutez le vin blanc.
+4- Mélangez assez souvent. Une fois que le vin blanc est absorbé par le riz, ajoutez une louche de bouillon. De nouveau, mélangez et attendant que le liquide soit absorbé et recommencez l’opération jusqu’à ce qu’il ne reste qu’une louche de bouillon dans votre casserole.
 5- A ce moment là, ajoutez vos champignons préalablement coupés en fines lamelles et ajoutez la dernière louche de bouillon. Normalement à ce moment là votre risotto devrait être cuit : riz fondant mais qui reste un peu ferme. Salez, poivrez et servez !Si vous le désirez, vous pouvez ajouter une cuillère à soupe de crème fraîche au mélange, mais personnellement je ne l’ai pas fait.
 
-N’hésitez pas à me faire parvenir vos recettes de risotto (histoire de ne pas cuisiner toujours la même chose =p)  
-**Sinon, quelles sont les recettes qui vous font « peur » ? Avez vous fini par les réaliser ?**  
+N’hésitez pas à me faire parvenir vos recettes de risotto (histoire de ne pas cuisiner toujours la même chose =p)
+**Sinon, quelles sont les recettes qui vous font « peur » ? Avez vous fini par les réaliser ?**
 Je vous souhaite à tous une très bonne soirée ! N’oubliez pas mon **[petit concours](http://www.crokmou.com/2012/08/concours-tirage-au-sort-pour-feter-la.html)** qui vous permettra peut être de gagner deux petits livres Marabout.
 
 Ciao, ciao !
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

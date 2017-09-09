@@ -3,9 +3,9 @@ type: post
 title: Cupcakes thé matcha, chocolat blanc
 date: 2012-03-04T11:00:00+00:00
 thumbnail: https://crokmou.com/images/20120211_Cupcake_The_Matcha_0001.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - chocolat blanc
   - creme fraiche
   - cupcake
@@ -29,34 +29,34 @@ Armée d’une grand patience après cet échec cuisant, me revoilà à mes four
 
 Pour 6 cupcakes au Thé Matcha
 
-**Pour la pâte :**  
-– 1/2 yaourt nature bulgare  
-– 100g de sucre  
-– 1 gros oeuf  
-– 80g de farine  
-– 1/2 sachet de levure chimique  
-– 4cl d’huile de tournesol**Pour la ganache :**  
-– 80g de chocolat blanc pâtissier  
-– 30g de crème fraiche (semi-épaisse pour moi)  
+**Pour la pâte :**
+– 1/2 yaourt nature bulgare
+– 100g de sucre
+– 1 gros oeuf
+– 80g de farine
+– 1/2 sachet de levure chimique
+– 4cl d’huile de tournesol**Pour la ganache :**
+– 80g de chocolat blanc pâtissier
+– 30g de crème fraiche (semi-épaisse pour moi)
 – 1 càc de thé vert Matcha
 
-**Pour le topping :**  
-– 120g de sucre glace  
-– 100g de beurre pommade  
+**Pour le topping :**
+– 120g de sucre glace
+– 100g de beurre pommade
 – 1/2 càc de thé vert Matcha
 
-_Préparez votre ganache quelques heures à l’avance, pour ce faire :_  
-1- Faites chauffer dans une casserole la crème et le thé vert matcha. 2- Ajoutez le chocolat blanc et une fois le tout bien fondu(faites fondre à feu doux), réservez au réfrigérateur._Deux ou trois heures après, préparez vos muffins :_  
-1- Préchauffez votre four à 180°C  
-2- Dans un saladier, mélangez le yaourt, le sucre et l’oeuf. Ajoutez ensuite la farine, la levure chimique et mélangez de nouveau pour avoir un mélange homogène.  
-3- Pour finir ajoutez l’huile et mélangez.  
-4- Répartissez la pâte à cupcakes dans vos moules (au 3/4 afin que vos cupcakes ne débordent pas) et enfournez pour environ 20/25min  
-5- Une fois sortis du four, laissez les refroidir un peu.  
+_Préparez votre ganache quelques heures à l’avance, pour ce faire :_
+1- Faites chauffer dans une casserole la crème et le thé vert matcha. 2- Ajoutez le chocolat blanc et une fois le tout bien fondu(faites fondre à feu doux), réservez au réfrigérateur._Deux ou trois heures après, préparez vos muffins :_
+1- Préchauffez votre four à 180°C
+2- Dans un saladier, mélangez le yaourt, le sucre et l’oeuf. Ajoutez ensuite la farine, la levure chimique et mélangez de nouveau pour avoir un mélange homogène.
+3- Pour finir ajoutez l’huile et mélangez.
+4- Répartissez la pâte à cupcakes dans vos moules (au 3/4 afin que vos cupcakes ne débordent pas) et enfournez pour environ 20/25min
+5- Une fois sortis du four, laissez les refroidir un peu.
 6- Pour insérer votre ganache dans le cupcake, il vous suffira simplement d’enlever un petit bout de cupcake (à partir du centre du chapeau), de mettre un peu de ganache à l’interieur et de refermer (et le tour est joué)
 
-_Pour le topping il vous faudra attendre le refroidissement complet de vos cupcakes, une fois ceci fait il vous faudra :_  
-1- Fouettez votre beurre, votre sucre glace et votre thé vert Matcha à l’aide d’un batteur électrique.  
-2- Une fois le mélange crémeux, versez celui-ci dans une poche à douille  
+_Pour le topping il vous faudra attendre le refroidissement complet de vos cupcakes, une fois ceci fait il vous faudra :_
+1- Fouettez votre beurre, votre sucre glace et votre thé vert Matcha à l’aide d’un batteur électrique.
+2- Une fois le mélange crémeux, versez celui-ci dans une poche à douille
 3- Décorez vos cupcakes (tournez de l’exterieur vers le centre du cupcake pour le topping)
 
 _Dégustez, vous l’avez mérité !_

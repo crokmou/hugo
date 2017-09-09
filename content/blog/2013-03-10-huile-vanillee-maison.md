@@ -3,9 +3,9 @@ type: post
 title: Huile vanillée maison
 date: 2013-03-10T10:13:00+00:00
 thumbnail: https://crokmou.com/images/20130302_huile_olive_vanille_0020.jpg
-categories: 
+categories:
   - 'Sauces - Confitures'
-tags: 
+tags:
   - conserve
   - epice
   - huile
@@ -35,13 +35,13 @@ _To realize these recipe you will need a pan (to sterilize your bottles). Also t
 
 Pour 1 bouteille de 25cl
 
-– 1 bouteille vide de 25cl  
-– 25cl d’huile d’olive de qualité (AOC)  
+– 1 bouteille vide de 25cl
+– 25cl d’huile d’olive de qualité (AOC)
 – 1 gousse de vanille (de qualité de nouveau)
 
-1- Pour stériliser votre bouteille : Faites bouillir une casserole d’eau et plongez la bouteille à l’intérieur. Attendez 5 minutes et sortez la de l’eau. Laissez sécher un peu.  
-2- Versez l’huile d’olive dans votre bouteille.  
-3- Ajoutez ensuite les grains de vanille et la gousse.  
+1- Pour stériliser votre bouteille : Faites bouillir une casserole d’eau et plongez la bouteille à l’intérieur. Attendez 5 minutes et sortez la de l’eau. Laissez sécher un peu.
+2- Versez l’huile d’olive dans votre bouteille.
+3- Ajoutez ensuite les grains de vanille et la gousse.
 4- Refermez bien le tout et laissez macérer au moins 1 mois dans un endroit sombre et frais.
 
 _ _
@@ -82,5 +82,5 @@ _Good Sunday the gourmands_
 
 _ _
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 

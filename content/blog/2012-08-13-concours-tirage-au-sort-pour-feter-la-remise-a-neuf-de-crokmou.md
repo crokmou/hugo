@@ -2,15 +2,15 @@
 type: post
 title: Concours (Tirage au sort) pour fêter la remise à neuf de Crokmou !
 date: 2012-08-13T15:22:00+00:00
-categories: 
+categories:
   - Lifestyle
-disqusId: 
+disqusId:
 slug: concours-tirage-au-sort-pour-feter-la-remise-a-neuf-de-crokmou
 ---
 
 [![](http://1.bp.blogspot.com/-O4HP4nuUPfc/UCkFCYjUKKI/AAAAAAAADKY/0Cxf4_P5i_w/s400/les+tout+petits+marabout_bann.jpg)](http://1.bp.blogspot.com/-O4HP4nuUPfc/UCkFCYjUKKI/AAAAAAAADKY/0Cxf4_P5i_w/s1600/les+tout+petits+marabout_bann.jpg)
 
-Bien le bonjour mes gourmands (des) ! Je vous ai dit que je vous réservai une petite surprise ! Pour le plus grand bonheur de tout le monde je vous organise un petit concours afin de fêter le nouveau [Cro »K »Mou](https://www.facebook.com/pages/CroKMou/148093255259077) (que j’espère vous appréciez !). 
+Bien le bonjour mes gourmands (des) ! Je vous ai dit que je vous réservai une petite surprise ! Pour le plus grand bonheur de tout le monde je vous organise un petit concours afin de fêter le nouveau [Cro »K »Mou](https://www.facebook.com/pages/CroKMou/148093255259077) (que j’espère vous appréciez !).
 
 Ce concours consiste à vous faire **gagner 2 petits livres aux choix de la collection les petits Marabout**, il y aura **trois gagnants tirés au sort**. Je tiens d’ailleurs à remercier mon partenaire [**Rue du Commerce**](http://rueducommerce.fr/) sans qui ce concours n’existerait pas !
 

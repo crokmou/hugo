@@ -3,9 +3,9 @@ type: post
 title: "Pain d'épices"
 date: 2011-09-19T17:25:00+00:00
 thumbnail: https://crokmou.com/images/Pain-d--pices.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - dessert
   - epice
   - lait
@@ -25,8 +25,10 @@ Bonsoir bonsoir, aujourd’hui premier jour ‘réel’ des cours : présentat
 
 __________
 
-Après cette courte page de culture photographique, passons donc à la recette du jour : Le pain d’épices. Personnellement j’adore le pain d’épices surtout celui avec la tonne de morceaux de sucre dessus ! J’ai eu bien du mal à trouver une recette qui me satisfasse mais j’ia fini par trouver encore une fois chez Madame [Ôdélices](http://www.odelices.com/recette/Pain-d-epices-Noel-r74). Recette très très simple et délicieuse ! Je vous la conseille ! Et n’hésitez pas si vous avez d’autres recettes de pains d’épices (j’entends par d’autres qui changent de la recette classique), envoyez moi le lien et je l’inclurai à la page recette =)  
+Après cette courte page de culture photographique, passons donc à la recette du jour : Le pain d’épices. Personnellement j’adore le pain d’épices surtout celui avec la tonne de morceaux de sucre dessus ! J’ai eu bien du mal à trouver une recette qui me satisfasse mais j’ia fini par trouver encore une fois chez Madame [Ôdélices](http://www.odelices.com/recette/Pain-d-epices-Noel-r74). Recette très très simple et délicieuse ! Je vous la conseille ! Et n’hésitez pas si vous avez d’autres recettes de pains d’épices (j’entends par d’autres qui changent de la recette classique), envoyez moi le lien et je l’inclurai à la page recette =)
 
 [![](http://4.bp.blogspot.com/-Ge6lMy3zyOQ/Tqmg2aOUyUI/AAAAAAAABAs/PLIBzBav334/s1600/Pain+d%2527e%25CC%2581pices.jpg)](http://4.bp.blogspot.com/-Ge6lMy3zyOQ/Tqmg2aOUyUI/AAAAAAAABAs/PLIBzBav334/s1600/Pain+d%2527e%25CC%2581pices.jpg)
 
-Et vous ? : * [Pain d’épices Oldschool](http://mistralzazou.blogspot.com/2011/06/pain-depices-oldschoolpour-les-pas-du.html) par Mistral Zazou * Cette recette de pain d’épice revue par [Parts de plaisir](http://partsdeplaisir.blogspot.com/2011/10/pain-depices-et-nutella.html)
+Et vous ? :
+* [Pain d’épices Oldschool](http://mistralzazou.blogspot.com/2011/06/pain-depices-oldschoolpour-les-pas-du.html) par Mistral Zazou
+* Cette recette de pain d’épice revue par [Parts de plaisir](http://partsdeplaisir.blogspot.com/2011/10/pain-depices-et-nutella.html)

@@ -3,9 +3,9 @@ type: post
 title: Tatin de magret de canard, pomme, foie gras
 date: 2013-12-07T11:13:00+00:00
 thumbnail: https://crokmou.com/images/20130928_epicurien.be_tatin_foie_gras_magret_canard.jpg
-categories: 
+categories:
   - Entrées
-tags: 
+tags:
   - alcool
   - aperitif
   - calvados
@@ -33,4 +33,4 @@ Des poutoux mes gourmands !
 
 (En prime une photo de mon bb chat sous le sapin de Noël (la photographie date de l’année dernière mais on s’en fiche !)
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

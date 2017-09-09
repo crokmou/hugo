@@ -2,17 +2,17 @@
 type: post
 title: 'Croque François – Restaurant à Lille'
 date: 2017-02-06T19:09:51+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943882/croque-francois-restaurant-lille-france-crokmou-blog-cuisine-voyage-belgique-4.jpg
-categories: 
+thumbnail: https://crokmou.com/images/croque-francois-restaurant-lille-france-crokmou-blog-cuisine-voyage-belgique-4.jpg
+categories:
   - Lifestyle
 disqusId: 5527614639
 slug: croque-francois-restaurant-a-lille
 ---
 
-**Croque-François**  
-13 rue de l’hôpital militaire  
-59800 Lille  
-France  
+**Croque-François**
+13 rue de l’hôpital militaire
+59800 Lille
+France
 _[Site Internet](http://croquefrancois.com/) / [Facebook](https://www.facebook.com/CroqueFrancois/)_
 
 Laissez moi vous présenter un petit resto fort sympathique que j’ai eu l’occasion de découvrir samedi soir lors de ma virée à Lilloise. **Croque-François**, c’est le petit nom de cet endroit, situé dans la rue de l’hôpital militaire, non loin de la rue de Béthune et de République Beaux-Arts, il passe un peu inaperçu c’est vrai, mais ce serait vraiment dommage de le manquer ! La spécialité ici ? Vous l’aurez deviné : **les croques** ! C’est simples c’est vrai, mais ici _la carte évolue avec les saisons, les ingrédients sont choisis avec soin et les croques sont des plus gourmands_.

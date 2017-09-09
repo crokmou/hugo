@@ -3,9 +3,9 @@ type: post
 title: Cheesecake biscuits thé vert/pomme
 date: 2013-03-17T10:47:00+00:00
 thumbnail: https://crokmou.com/images/cheesecake_biscuit_the_vert_stephen_destree_BD.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - apple
   - cheesecake
   - citron
@@ -50,18 +50,18 @@ _  __  _
 
 Pour 4 cercles d’environ 7cm de diamètre
 
-– 100g de [biscuits au thé vert/pomme de la biscuiterie Destree](http://www.biscuiteriedestree.be/collection.php) (ou autres biscuits)  
-– 40g de beurre fondu  
-– 250g de mascarpone  
-– 20cl de crème liquide  
-– 3g d’agar-agar  
-– 80g de sucre en poudre  
+– 100g de [biscuits au thé vert/pomme de la biscuiterie Destree](http://www.biscuiteriedestree.be/collection.php) (ou autres biscuits)
+– 40g de beurre fondu
+– 250g de mascarpone
+– 20cl de crème liquide
+– 3g d’agar-agar
+– 80g de sucre en poudre
 – 2 càc de jus de citron vert
 
-1- Mixez vos biscuits et incorporez le beurre fondu. Mélangez du bout d doigts afin de former une « pâte ». Placez cette préparation dans le fond de vos cercles à pâtisseries (préalablement déposer sur du papier cuisson) et tassez bien. Placez le tout au frigo  
-2- Dans un cul de poule, mélangez la mascarpone, le sucre et le jus de citron vert  
-3- Dans une casserole faites chauffer la crème liquide et l’agar-agar. Continuer de « cuire » 2 minutes après frémissements tout en mélangeant.  
-4- Incorporez le mélange crème liquide/agar-agar au mélange mascarpone/sucre et mélangez bien. Versez ensuite cette préparation sur la base de biscuits dans vos cercles à patisserie et placez au frais pour 12h au moins.  
+1- Mixez vos biscuits et incorporez le beurre fondu. Mélangez du bout d doigts afin de former une « pâte ». Placez cette préparation dans le fond de vos cercles à pâtisseries (préalablement déposer sur du papier cuisson) et tassez bien. Placez le tout au frigo
+2- Dans un cul de poule, mélangez la mascarpone, le sucre et le jus de citron vert
+3- Dans une casserole faites chauffer la crème liquide et l’agar-agar. Continuer de « cuire » 2 minutes après frémissements tout en mélangeant.
+4- Incorporez le mélange crème liquide/agar-agar au mélange mascarpone/sucre et mélangez bien. Versez ensuite cette préparation sur la base de biscuits dans vos cercles à patisserie et placez au frais pour 12h au moins.
 5- Dégustez avec pourquoi pas quelques framboises par dessus
 
 _ _
@@ -100,4 +100,4 @@ _And for those who will want to learn it a little more on our exhibition, I invi
 
 Bon dimanche à tous !_Good Sunday all !_
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

@@ -3,9 +3,9 @@ type: post
 title: Confiture de châtaignes
 date: 2013-11-01T22:04:00+00:00
 thumbnail: https://crokmou.com/images/photographie_confiture_chataigne_creme_marron-1.jpg
-categories: 
+categories:
   - 'Sauces - Confitures'
-tags: 
+tags:
   - automne
   - chataigne
   - confiture
@@ -29,21 +29,21 @@ Assez parlé nature maintenant passons à la cuisine ! Sortez un petit [couteau 
 
 Pour 2 gros pots
 
-– 500g de chair de châtaignes  
-– 400g de sucre en poudre  
-– 1 gousse de vanille (de l’île Maurice pour moi, que [ma belle soeur](http://mauricemonamour.blogspot.be/) m’a gentiment ramené)  
+– 500g de chair de châtaignes
+– 400g de sucre en poudre
+– 1 gousse de vanille (de l’île Maurice pour moi, que [ma belle soeur](http://mauricemonamour.blogspot.be/) m’a gentiment ramené)
 – 120ml d’eau ou de jus de châtaignes
 
 **○○○**
 
-1- Commencez par enlever à l’aide d’un petit couteau de cuisine la première peau (ou coque) de vos châtaignes. Pour cela faites une petite entaille dans la châtaigne puis retirez petit à petit la coque (pour certain cela est plus facile lorsque vous faites bouillir quelques minutes au préalable les châtaignes). Attention vérifiez bien que vos fruits soient encore bons ! Pour cela avant toute chose, plongez les dans un saladier d’eau froide, si les châtaignes remontent à la surface jetez les.  
-2- Une fois la première coque enlevée, faites cuire vos châtaignes dans de l’eau bouillante pendant 40 minutes environ (jusqu’à ce que vous puissiez passer une lame de couteau à l’intérieur sans problèmes).  
-3- En faisant bien attention à vos petits doigts car attention c’est chaud, enlevez la seconde peau des châtaignes. Prenez les une par une de votre casserole car cela est plus facile d’enlever la peau lorsque celle-ci est encore chaude. Lorsque vous aurez terminé, ne jetez pas le jus de châtaignes.  
-4- Une fois vos châtaignes (enfin) épluchées comme il se doit, écrasez les en purée à l’aide d’une fourchette ou d’un presse purée.  
-5- Dans une casserole, versez le sucre, les graines de vanille et le jus de châtaignes (que vous aurez bien évidemment filtré). Faites cuire jusqu’à ce qu’un sirop se forme, ajoutez ensuite la purée de châtaignes et laissez cuire encore 5/10 minutes à feu doux tout en mélangeant.  
-6- Stérilisez vos pots à confiture : Pour cela plongez les quelques minutes dans l’eau bouillante et laissez sécher à l’air libre.  
+1- Commencez par enlever à l’aide d’un petit couteau de cuisine la première peau (ou coque) de vos châtaignes. Pour cela faites une petite entaille dans la châtaigne puis retirez petit à petit la coque (pour certain cela est plus facile lorsque vous faites bouillir quelques minutes au préalable les châtaignes). Attention vérifiez bien que vos fruits soient encore bons ! Pour cela avant toute chose, plongez les dans un saladier d’eau froide, si les châtaignes remontent à la surface jetez les.
+2- Une fois la première coque enlevée, faites cuire vos châtaignes dans de l’eau bouillante pendant 40 minutes environ (jusqu’à ce que vous puissiez passer une lame de couteau à l’intérieur sans problèmes).
+3- En faisant bien attention à vos petits doigts car attention c’est chaud, enlevez la seconde peau des châtaignes. Prenez les une par une de votre casserole car cela est plus facile d’enlever la peau lorsque celle-ci est encore chaude. Lorsque vous aurez terminé, ne jetez pas le jus de châtaignes.
+4- Une fois vos châtaignes (enfin) épluchées comme il se doit, écrasez les en purée à l’aide d’une fourchette ou d’un presse purée.
+5- Dans une casserole, versez le sucre, les graines de vanille et le jus de châtaignes (que vous aurez bien évidemment filtré). Faites cuire jusqu’à ce qu’un sirop se forme, ajoutez ensuite la purée de châtaignes et laissez cuire encore 5/10 minutes à feu doux tout en mélangeant.
+6- Stérilisez vos pots à confiture : Pour cela plongez les quelques minutes dans l’eau bouillante et laissez sécher à l’air libre.
 7- Remplissez vos bocaux de confiture, refermez bien et retournez vos pots. Vous pouvez ensuite soit les entreposer dans un endroit frais et sec, soit faire comme moi et déguster votre récompense à la petite cuillère !
 
 Vous pouvez aussi utiliser cette confiture pour des gâteaux, dans des yaourts et peut être même bien en glace tiens ! En tout cas sachez que tout ce travail vaut vraiment le coup parce que hum qu’est ce que c’est bon ! **Et vous, avez vous déjà tenté l’aventure châtaignes ?** Pour ma part si j’ai le courage j’essaierai peut être les marrons glacés maison ! Je vous souhaite une très bonne fin de week end et un bon début de semaine prochaine! Des poutoux les gourmands
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

@@ -3,9 +3,9 @@ type: post
 title: Ravioles au Boursin champignons et jambon Iberique
 date: 2012-06-20T10:15:00+00:00
 thumbnail: https://crokmou.com/images/20120531_ravioles_boursin_cuisine_champignon_jambon_iberique_0026.jpg
-categories: 
+categories:
   - Plats
-tags: 
+tags:
   - boursin
   - creme fraiche
   - fromage
@@ -36,21 +36,21 @@ Pour réaliser la recette vous aurez éventuellement besoin d’un [bol](http:/
 
 Pour 2 personnes
 
-– 200g de Boursin cuisine aux champignons  
-– 50g de jambon Ibérique  
-– 10cl de crème fraiche semi-epaisse  
-– 200g de farine  
-– 2 oeufs  
+– 200g de Boursin cuisine aux champignons
+– 50g de jambon Ibérique
+– 10cl de crème fraiche semi-epaisse
+– 200g de farine
+– 2 oeufs
 – 1 cuillère à soupe d’huile d’olive
 
-1) Nous allons tout d’abord préparer la pâte à … pâtes : Dans un saladier versez la farine, au milieu de celle-ci, ajoutez les oeufs et l’huile d’olive, pétrissez ensuite le tout afin de former une boule de pâte assez souple et non collante. Réservez 2h au frigo dans un film alimentaire.  
-2) Disposez votre pâte sur un plan de travail fariné et étalez le plus finement possible (si vous avez une machine à pâtes c’est encore plus simple)  
-3) Préparez votre farce : Mélangez des petits morceaux de jambon Ibérique à votre Boursin cuisine aux champignons.  
-4) Maintenant égalisez votre pâte (celle-ci ne doit pas être trop sèche, si c’est le cas humidifiez là un peu) afin d’obtenir un rectangle. Disposez sur la moitié de celui-ci, des petits tas de farces (espacez bien les tas, et pas trop près du bord non plus, laissez au moins 1,5cm de chaque côté), ensuite rabattez par dessus l’autre moitié du rectangle de pâte.  
-5) Appuyez tout autour de la farce, soudez bien les bords.  
-6) Découpez ensuite vos raviolis à l’aide d’une roulette dentelée ou simplement d’un couteau. Laissez sécher les pâtes environ 1h à l’air libre.  
-7) Faites bouillir une casserole d’eau (à petits frémissements), puis y déposer vos raviolis (tourner de suite à l’aide d’une cuillère en bois pour que les raviolis ne collent pas). Laissez cuire entre 7 et 10min (à vous de vérifier la cuisson)  
-8) Egouttez les raviolis les remettre dans la casserole et mélangez les avec un peu de crème fraiche et de parmesan. Salez, poivrez  
+1) Nous allons tout d’abord préparer la pâte à … pâtes : Dans un saladier versez la farine, au milieu de celle-ci, ajoutez les oeufs et l’huile d’olive, pétrissez ensuite le tout afin de former une boule de pâte assez souple et non collante. Réservez 2h au frigo dans un film alimentaire.
+2) Disposez votre pâte sur un plan de travail fariné et étalez le plus finement possible (si vous avez une machine à pâtes c’est encore plus simple)
+3) Préparez votre farce : Mélangez des petits morceaux de jambon Ibérique à votre Boursin cuisine aux champignons.
+4) Maintenant égalisez votre pâte (celle-ci ne doit pas être trop sèche, si c’est le cas humidifiez là un peu) afin d’obtenir un rectangle. Disposez sur la moitié de celui-ci, des petits tas de farces (espacez bien les tas, et pas trop près du bord non plus, laissez au moins 1,5cm de chaque côté), ensuite rabattez par dessus l’autre moitié du rectangle de pâte.
+5) Appuyez tout autour de la farce, soudez bien les bords.
+6) Découpez ensuite vos raviolis à l’aide d’une roulette dentelée ou simplement d’un couteau. Laissez sécher les pâtes environ 1h à l’air libre.
+7) Faites bouillir une casserole d’eau (à petits frémissements), puis y déposer vos raviolis (tourner de suite à l’aide d’une cuillère en bois pour que les raviolis ne collent pas). Laissez cuire entre 7 et 10min (à vous de vérifier la cuisson)
+8) Egouttez les raviolis les remettre dans la casserole et mélangez les avec un peu de crème fraiche et de parmesan. Salez, poivrez
 9) Dégustez !
 
 [![](http://2.bp.blogspot.com/-eJrZeW05QfY/T-GXCdo5eBI/AAAAAAAACpk/6Pr3QdySywk/s200/openfoodfacts-logo-fr.png)](http://2.bp.blogspot.com/-eJrZeW05QfY/T-GXCdo5eBI/AAAAAAAACpk/6Pr3QdySywk/s1600/openfoodfacts-logo-fr.png)

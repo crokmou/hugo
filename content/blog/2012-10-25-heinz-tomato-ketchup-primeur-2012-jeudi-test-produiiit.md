@@ -3,9 +3,9 @@ type: post
 title: 'Heinz Tomato Ketchup Primeur 2012 { Jeudi test produiiit }'
 date: 2012-10-25T14:19:00+00:00
 thumbnail: https://crokmou.com/images/20121001_ketchup_heinz_primeur_0027_ok.jpg
-categories: 
+categories:
   - 'Sauces - Confitures'
-tags: 
+tags:
   - ketchup
   - legume
   - shopping
@@ -53,4 +53,4 @@ Bonne journée !
 
 [![](http://4.bp.blogspot.com/-6UkgeW8uDGY/UIhF6J563cI/AAAAAAAAE3U/ywTLa2qdaWs/s640/20121001_ketchup_heinz_primeur_0048.jpg)](http://4.bp.blogspot.com/-6UkgeW8uDGY/UIhF6J563cI/AAAAAAAAE3U/ywTLa2qdaWs/s1600/20121001_ketchup_heinz_primeur_0048.jpg)
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

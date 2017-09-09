@@ -3,9 +3,9 @@ type: post
 title: Moelleux aux pommes, tahin et chocolat blanc
 date: 2012-01-31T19:30:00+00:00
 thumbnail: https://crokmou.com/images/20120130_muffin_chocolat_coeur_chocolat_blanc_1.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - chocolat blanc
   - dessert
   - fruit
@@ -20,7 +20,7 @@ disqusId: 3587684459
 slug: moelleux-aux-pommes-tahin-et-chocolat-blanc
 ---
 
- 
+
 
 Avec cette recette de Moelleux, j’en profite pour participer au [jeu concours](http://www.chefnini.com/concours-chefnini-douceurs-sucrees/) de Chef Nini ! Celle-ci nous propose de nous faire gagner son premier livre de cuisine « Douceurs Sucrées« . N’hésitez pas vous aussi a participer à l’aventure, cela peut être très sympa !
 
@@ -30,21 +30,21 @@ Bonjours les gourmands ! Pour cette innovation (oui oui j’ai innové !), j�
 
 Pour 6/8 personnes
 
-– 1 pot de yaourt nature  
-– 2 pots de sucre  
-– 3 pots de farine  
-– 1/2 pot d’huille  
-– 1 sachet de levure chimique  
-– 3 oeufs  
-– 3 càs de pâte de sésame  
-– 100g de chocolat blanc  
+– 1 pot de yaourt nature
+– 2 pots de sucre
+– 3 pots de farine
+– 1/2 pot d’huille
+– 1 sachet de levure chimique
+– 3 oeufs
+– 3 càs de pâte de sésame
+– 100g de chocolat blanc
 – 1 pomme
 
-1- Préchauffez votre four à 180°C  
-2- Mélangez dans votre saladier le yaourt, suivi du sucre, de la farine et de la levure  
-3- Ajoutez l’huile, les oeufs, la pâte de sésame et mélangez de nouveau de manière a obtenir une préparation homogène.  
-4- Coupez votre pomme en petits morceaux tout comme votre chocolat blanc, ajoutez le tout à votre préparation et mélangez.  
-5- Beurrez et farinez votre moule puis versez-y la pâte  
+1- Préchauffez votre four à 180°C
+2- Mélangez dans votre saladier le yaourt, suivi du sucre, de la farine et de la levure
+3- Ajoutez l’huile, les oeufs, la pâte de sésame et mélangez de nouveau de manière a obtenir une préparation homogène.
+4- Coupez votre pomme en petits morceaux tout comme votre chocolat blanc, ajoutez le tout à votre préparation et mélangez.
+5- Beurrez et farinez votre moule puis versez-y la pâte
 6- Enfournez pendant environ 50min (vérifiez la cuisson à l’aide d’un cure-dents ou d’un couteau)
 
 Dégustez tiède avec pourquoi pas une petite boule de glace

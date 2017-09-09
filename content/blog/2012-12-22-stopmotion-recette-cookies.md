@@ -2,9 +2,9 @@
 type: post
 title: Stopmotion recette cookies
 date: 2012-12-22T16:33:00+00:00
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - chocolat
   - chocolat noir
   - cookie
@@ -22,9 +22,9 @@ Tout à commencé il y a quelques mois lors de notre premier cours de l’année
 
 Une fois cela fait, il faut se mettre au travail… et cela demande de loooonnguuues heures devant soi ! Mise en place de l’éclairage (y compris l’aspect je cache toutes mes fenêtres à l’aide de tissu noir) , du matériel de prise de vue, des ingrédients… Vient ensuite le stopmotion en lui même : et là je vous raconte pas la galère ! Vous êtes censés mélanger votre préparation (et pas trop rapidement s’il vous plait), tout en prenant une photo à l’aide de l’autre main (pas trop difficile me direz vous)… seulement voilà… vous devez retirez votre main du champ de vision… donc la préparation dégouline un peu partout entre temps. Conclusion après 5h de préparation (oui oui, 5h de cookies), votre cuisine est DE-GUEU-LASSE ! S’en suivent de nombreux essais pour arriver a quelque chose de potable.
 
-Une fois les photos dans la boite, on passe à la post production : des heures et des heures de petites retouches (il y a toujours un maudit grain de sucre qui se faufile là où il sera bien visible), des heures de montage à trouver le bon timing pour chaque photo, a regler les bruitages, les bandes sons pour qu’elles tombent juste… et on arrive à l’instant tant attendu : le final ! 
+Une fois les photos dans la boite, on passe à la post production : des heures et des heures de petites retouches (il y a toujours un maudit grain de sucre qui se faufile là où il sera bien visible), des heures de montage à trouver le bon timing pour chaque photo, a regler les bruitages, les bandes sons pour qu’elles tombent juste… et on arrive à l’instant tant attendu : le final !
 
-Qu’en pensez vous ? Sympa non ? 
+Qu’en pensez vous ? Sympa non ?
 
 Qu’auriez vous fait vous ?
 
@@ -40,5 +40,5 @@ J’espère que vous avez apprécié ces petites nouvelles, n’hésitez pas �
 
 A bientôt pour la recette de Noël !
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 

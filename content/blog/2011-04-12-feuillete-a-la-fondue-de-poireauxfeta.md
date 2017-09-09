@@ -3,9 +3,9 @@ type: post
 title: Feuilleté à la fondue de poireaux/fêta
 date: 2011-04-12T14:19:00+00:00
 thumbnail: https://crokmou.com/images/Feuillet---feta-poireaux.jpg
-categories: 
+categories:
   - Plats
-tags: 
+tags:
   - epice
   - feta
   - fromage

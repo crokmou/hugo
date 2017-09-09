@@ -3,9 +3,9 @@ type: post
 title: Glace au yaourt
 date: 2012-03-25T11:30:00+00:00
 thumbnail: https://crokmou.com/images/20120318_Glace_Yaourt_0013.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - citron
   - creme fraiche
   - dessert
@@ -20,18 +20,18 @@ Il fait beau, il fait chaud, pourquoi ne pas manger une bonne petit glace ?! La 
 
 Pour 1 litre de crème glacée
 
-– 3 yaourts nature à la grecque  
-– le jus d’un petit citron  
-– 3 oeufs  
-– 25cl de crème fraîche épaisse  
-– 120g de sucre glace  
+– 3 yaourts nature à la grecque
+– le jus d’un petit citron
+– 3 oeufs
+– 25cl de crème fraîche épaisse
+– 120g de sucre glace
 – 4 càs de lait
 
-1- Séparez vos blancs d’oeufs de vos jaunes dans deux saladiers différents. Ajoutez une pincée de sel dans les blancs d’oeufs que vous monterez ensuite en neige (bien fermes).  
-2- Dans votre saladier contenant les jaunes d’oeufs, ajoutez le sucre glace, le jus de citron, les yaourts et la crème fraîche. Mélangez le tout à l’aide d’un batteur électrique ou tout simplement d’un fouet.  
-3- Incorporez ensuite à cette préparation les blancs en neige et évitez au plus possible de les casser afin que votre préparation reste bien légère et crémeuse !  
-4- Une fois ceci fait, vous pouvez versez votre préparation dans votre sorbetière et laisser le tout prendre pendant environ 40min. Une fois la glace faite, versez dans un bac en plastique et mettez au congélateur.  
-5- Si vous n’avez pas de sorbetière, versez la préparation d’un bac en plastique. Mettez le tout au congélateur et mélangez toutes les heures pendant environ 4h afin que des cristaux ne se forment pas.  
+1- Séparez vos blancs d’oeufs de vos jaunes dans deux saladiers différents. Ajoutez une pincée de sel dans les blancs d’oeufs que vous monterez ensuite en neige (bien fermes).
+2- Dans votre saladier contenant les jaunes d’oeufs, ajoutez le sucre glace, le jus de citron, les yaourts et la crème fraîche. Mélangez le tout à l’aide d’un batteur électrique ou tout simplement d’un fouet.
+3- Incorporez ensuite à cette préparation les blancs en neige et évitez au plus possible de les casser afin que votre préparation reste bien légère et crémeuse !
+4- Une fois ceci fait, vous pouvez versez votre préparation dans votre sorbetière et laisser le tout prendre pendant environ 40min. Une fois la glace faite, versez dans un bac en plastique et mettez au congélateur.
+5- Si vous n’avez pas de sorbetière, versez la préparation d’un bac en plastique. Mettez le tout au congélateur et mélangez toutes les heures pendant environ 4h afin que des cristaux ne se forment pas.
 6- A déguster bien frais, les pieds en éventails face au soleil !
 
 Si vous désirez vous pouvez aussi ajouter des framboises ou des fraises à votre base de crème glacée, c’est tout aussi bon ! Et pour la création de cette recette je vous conseille le site Rue du Commerce, vous y trouverez des [yaourtières](http://www.rueducommerce.fr/m/pl/malid:87648,9633616) et des sorbetières ([Magimix](http://www.rueducommerce.fr/m/pl/malid:84250)) et si la crème glacée n’est pas votre point fort et que vous préférez un bon café, vous pouvez retrouver chez mon partenaire toutes les cafetières [De’Longhi](http://www.rueducommerce.fr/m/pl/malid:12382300) et [Krups](http://www.rueducommerce.fr/m/pl/malid:84533) ainsi que les [dosettes à café](http://www.rueducommerce.fr/m/pl/malid:9633596) que vous désirez! Sur ce je vous dis à très bientôt avec cette fois une recette de cornes de gazelle ! Profitez bien de ce temps radieux !

@@ -3,9 +3,9 @@ type: post
 title: Tartines ricotta, concombre
 date: 2013-05-01T12:35:00+00:00
 thumbnail: https://crokmou.com/images/20130429_tartine_ricotta_radis_concombre_ciboulette_0020.jpg
-categories: 
+categories:
   - Plats
-tags: 
+tags:
   - bread
   - chive
   - ciboulette
@@ -41,19 +41,19 @@ _Thus take a good knife for the bread, a mixing bowl or a bowl with a spoon to m
 
 Pour 1 personne
 
-– 2 belles tartines  
-– 120g de ricotta  
-– 2 càs de jus de citron  
-– ciboulette  
-– concombre  
-– radis  
+– 2 belles tartines
+– 120g de ricotta
+– 2 càs de jus de citron
+– ciboulette
+– concombre
+– radis
 -sel & poivre
 
 **○○○**
 
-1- Dans un bol, mélangez la ricotta, le jus de citron et la ciboulette préalablement ciselée (pour la quantité c’est selon les goûts de chacun). Salez et poivrez.  
-2- Etalez cette préparation généreusement sur vos tartines.  
-3- Lavez puis coupez vos légumes finement à l’aide d’une mandoline  
+1- Dans un bol, mélangez la ricotta, le jus de citron et la ciboulette préalablement ciselée (pour la quantité c’est selon les goûts de chacun). Salez et poivrez.
+2- Etalez cette préparation généreusement sur vos tartines.
+3- Lavez puis coupez vos légumes finement à l’aide d’une mandoline
 4- Disposez vos rondelles de concombre et radis sur la ricotta et voilà, vos tartines sont prêtes à être dégustées !
 
 Ceci n’est bien entendu que suggestif, vous pouvez remplacer la ciboulette par d’autres herbes et les légumes par bien d’autres choses comme des carottes, des tomates, de l’avocat ou encore faire un mix avec des fruits… Il y a tellement de choix, profitez en !
@@ -88,4 +88,4 @@ _I apologize for the few articles on the blog at the moment. I am in moving, thi
 
 _ _
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

@@ -3,9 +3,9 @@ type: post
 title: "Glace au pain d'épices"
 date: 2012-01-30T14:01:00+00:00
 thumbnail: https://crokmou.com/images/20120125_glace_pain_epice_1.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - dessert
   - glace
   - lait
@@ -19,17 +19,17 @@ Quoi de meilleur qu’une glace par un jour enneigé ?! Vous n’êtes pas conva
 
 Pour 1 litre de glace
 
-– 150g de pain d’épices  
-– 60cl de lait entier  
-– 100g de sucre  
-– 1 càs de bon miel  
+– 150g de pain d’épices
+– 60cl de lait entier
+– 100g de sucre
+– 1 càs de bon miel
 – 6 jaunes d’oeufs
 
-1- Faites bouillir le lait avec le pain d’épices préalablement coupé en morceaux dans une casserole. Laissez ramollir.  
-2- Pendant ce temps, fouettez les jaunes d’oeufs (vous pouvez éventuellement congeler les blanc d’oeufs pour de futurs macarons) avec le sucre et votre cuillère de miel jusqu’à blanchiment du mélange  
-3- Mixez dans un blender le lait avec le pain d’épices, puis ajoutez ce mélange sur les jaunes/sucre tout en fouettant énergiquement  
-4- Remettez votre préparation dans la casserole et faites épaissir le tout comme une crème anglaise sur feu moyen (en ne cessant de remuer)  
-5- Laissez refroidir votre préparation au frigo pendant une nuit dans un tupperware bien fermé  
+1- Faites bouillir le lait avec le pain d’épices préalablement coupé en morceaux dans une casserole. Laissez ramollir.
+2- Pendant ce temps, fouettez les jaunes d’oeufs (vous pouvez éventuellement congeler les blanc d’oeufs pour de futurs macarons) avec le sucre et votre cuillère de miel jusqu’à blanchiment du mélange
+3- Mixez dans un blender le lait avec le pain d’épices, puis ajoutez ce mélange sur les jaunes/sucre tout en fouettant énergiquement
+4- Remettez votre préparation dans la casserole et faites épaissir le tout comme une crème anglaise sur feu moyen (en ne cessant de remuer)
+5- Laissez refroidir votre préparation au frigo pendant une nuit dans un tupperware bien fermé
 6- Le lendemain, versez la préparation dans votre sorbetière, laissez prendre pendant environ 30min (assez rapide puisque le mélange est assez épais et la préparation bien froide). Lorsque votre glace est prête, laissez la reposer dans son tupperware pendant environ 2h au congélateur avant de servir.
 
 Astuce : Si vous laissez la glace plus longtemps au congélateur, veillez à la sortir 10min avant dégustation si vous voulez que celle-ci ne soit pas trop dure !

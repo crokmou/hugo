@@ -3,9 +3,9 @@ type: post
 title: Beignets au four, fève tonka
 date: 2012-11-05T13:12:00+00:00
 thumbnail: https://crokmou.com/images/20121101_beignet_four_feve_tonka_0027.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - beignet
   - boulangerie
   - dessert
@@ -32,20 +32,20 @@ Pour réaliser cette recette vous n’aurez pas besoin de grand chose si ce n’
 
 Environ 20 beignets
 
-– 320g de farine  
-– 20g de beurre  
-– 1 oeuf à température ambiante  
-– 60g de sucre  
-– 1 pincée de sel  
-– 1/2 sachet de levure de boulanger sèche  
-– 1 fève Tonka  
+– 320g de farine
+– 20g de beurre
+– 1 oeuf à température ambiante
+– 60g de sucre
+– 1 pincée de sel
+– 1/2 sachet de levure de boulanger sèche
+– 1 fève Tonka
 – 150ml de lait
 
-1- Dans une casserole, ajoutez le beurre, le sucre, le lait et la fève Tonka préalablement rapée. Faites chauffez le tout jusqu’à ce que le sucre soit complètement dissout. Couvrez ensuite votre casserole et laissez infuser 5 minutes. Filtrez ensuite votre mélange pour retirer les copeaux de fève.  
-2- Dans votre cul de poule, mélangez la farine et la levure. Faites un puit au centre et ajoutez ensuite votre mélange lait/beurre/sucre/Tonka ainsi que l’oeuf légèrement battu.  
-3- Pétrissez bien et lorsque votre pâte forme une boule ajoutez le sel. Laissez ensuite la pâte lever pendant une heure et demi (recouvrer votre cul de poule d’un film alimentaire)  
-4- Sur un plan de travail bien fariné, abaissez votre pâte et étalez là sur 1 cm d’épaisseur environ (mais pas moins sinon vos beignets ne ressembleront à rien). Faites des beignets à l’aide d’un emporte pièce rond (ou d’un petit verre). Laissez lever encore une bonne heure sur votre plaque préalablement recouverte de papier cuisson (couvrez le tout d’un linge propre)  
-5- Environ 20 min avant la fin du temps de repos, préchauffez votre four à 190°C avec un récipient d’eau à l’intérieur. Badigeonnez vos beignets avec un peu de lait et enfournez le tout pendant 7 à 8 minutes (après tout dépend de votre four, les beignets doivent être légèrement dorés)  
+1- Dans une casserole, ajoutez le beurre, le sucre, le lait et la fève Tonka préalablement rapée. Faites chauffez le tout jusqu’à ce que le sucre soit complètement dissout. Couvrez ensuite votre casserole et laissez infuser 5 minutes. Filtrez ensuite votre mélange pour retirer les copeaux de fève.
+2- Dans votre cul de poule, mélangez la farine et la levure. Faites un puit au centre et ajoutez ensuite votre mélange lait/beurre/sucre/Tonka ainsi que l’oeuf légèrement battu.
+3- Pétrissez bien et lorsque votre pâte forme une boule ajoutez le sel. Laissez ensuite la pâte lever pendant une heure et demi (recouvrer votre cul de poule d’un film alimentaire)
+4- Sur un plan de travail bien fariné, abaissez votre pâte et étalez là sur 1 cm d’épaisseur environ (mais pas moins sinon vos beignets ne ressembleront à rien). Faites des beignets à l’aide d’un emporte pièce rond (ou d’un petit verre). Laissez lever encore une bonne heure sur votre plaque préalablement recouverte de papier cuisson (couvrez le tout d’un linge propre)
+5- Environ 20 min avant la fin du temps de repos, préchauffez votre four à 190°C avec un récipient d’eau à l’intérieur. Badigeonnez vos beignets avec un peu de lait et enfournez le tout pendant 7 à 8 minutes (après tout dépend de votre four, les beignets doivent être légèrement dorés)
 6- Dès la sortie du four, badigeonnez vos beignets avec un peu de beurre fondu. Saupoudrez le tout de sucre glace et laissez refroidir un peu (ou dégustez encore chauds pour les plus gourmands)
 
 [![](http://2.bp.blogspot.com/-5YQU80jcz8Q/UJKOjptQ6MI/AAAAAAAAFEM/eGgffaftrnc/s640/20121101_beignet_four_feve_tonka_crokmou_3379.gif)](http://2.bp.blogspot.com/-5YQU80jcz8Q/UJKOjptQ6MI/AAAAAAAAFEM/eGgffaftrnc/s1600/20121101_beignet_four_feve_tonka_crokmou_3379.gif)
@@ -56,4 +56,4 @@ Ces petits beignets sont un délice, mais il est vrai qu’ils ne tiennent pas t
 
 [![](http://www.deviantart.com/download/40823647/Sprinkley_Cupcake_icon_by_u_smell_like_inu_poo.gif)](http://www.deviantart.com/download/40823647/Sprinkley_Cupcake_icon_by_u_smell_like_inu_poo.gif)
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

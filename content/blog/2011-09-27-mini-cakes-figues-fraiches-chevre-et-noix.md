@@ -3,9 +3,9 @@ type: post
 title: Mini cakes figues fraiches, chèvre et noix
 date: 2011-09-27T18:03:00+00:00
 thumbnail: https://crokmou.com/images/Mini-cake-figue-3.jpg
-categories: 
+categories:
   - Apéritifs
-tags: 
+tags:
   - aperitif
   - cake
   - chevre
@@ -21,20 +21,20 @@ Bonsoir bonsoir les amis ! Aujourd’hui, grande nouvelle ! : J’ai reçu mon o
 
 Pour 8 minis cakes
 
-– 130g de farine  
-– 5cl d’huile d’olive (fruitée si vous avez)  
-– 10cl de lait  
-– 1 càc de levure chimique  
-– 2 figues fraîches  
-– 1/2 buche de chèvre  
-– noix concassées  
-– 2 oeuf  
+– 130g de farine
+– 5cl d’huile d’olive (fruitée si vous avez)
+– 10cl de lait
+– 1 càc de levure chimique
+– 2 figues fraîches
+– 1/2 buche de chèvre
+– noix concassées
+– 2 oeuf
 – sel & poivre
 
-1- Préchauffez votre four à 180°C  
-2- Dans un saladier battez légèrement les oeufs avec l’huile et le lait  
-3- Ajoutez ensuite la farine, la levure,les figues coupées en morceaux, le chèvre (préalablement coupé en petits dès) ainsi que les noix concassées et mélangez.  
-4- Versez la pâte dans vos mini moules à cakes  
+1- Préchauffez votre four à 180°C
+2- Dans un saladier battez légèrement les oeufs avec l’huile et le lait
+3- Ajoutez ensuite la farine, la levure,les figues coupées en morceaux, le chèvre (préalablement coupé en petits dès) ainsi que les noix concassées et mélangez.
+4- Versez la pâte dans vos mini moules à cakes
 5- Enfournez pour environ 25 minutes jusqu’à ce que les cakes soient dorés
 
 Démoulez une fois les cakes refroidis et dégustez !

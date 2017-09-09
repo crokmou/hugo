@@ -3,9 +3,9 @@ type: post
 title: Chocolat chaud sans lactose, popcorns chocolatés
 date: 2013-01-22T10:03:00+00:00
 thumbnail: https://crokmou.com/images/20130120_chocolat_chaud_espagnol_pop_corn_chocolat_0054.jpg
-categories: 
+categories:
   - Boissons
-tags: 
+tags:
   - boisson
   - cacao
   - cannelle
@@ -26,12 +26,12 @@ Munissez vous d’une [casserole](http://www.rueducommerce.fr/index/casserole%20
 
 Recette hivernale
 
-**Pour 3/4 [mugs](http://www.rueducommerce.fr/m/pl/malid:4769906) de choco chaud Espagnol**  
-– 1/2 mug de cacao en poudre amer  
-– 1/2 mug de sucre (plus ou moins selon les goûts)  
-– 1/3 de mug de fécule de maïs  
-– 1 càc de cannelle moulue  
-– 4 mugs d’eau  
+**Pour 3/4 [mugs](http://www.rueducommerce.fr/m/pl/malid:4769906) de choco chaud Espagnol**
+– 1/2 mug de cacao en poudre amer
+– 1/2 mug de sucre (plus ou moins selon les goûts)
+– 1/3 de mug de fécule de maïs
+– 1 càc de cannelle moulue
+– 4 mugs d’eau
 – chantilly ou crème fouettée sucrée pour mes amis Belges (facultatif)
 
 **Pour un saladier (moyen) de popcorns** – 80g de maïs à popcorn – 150 à 200g de chocolat noir – huile
@@ -80,4 +80,4 @@ _[English recipe](https://lh6.googleusercontent.com/-Te1N21EHJhc/UQkrHRIHEFI/AAA
 
 </table>
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

@@ -3,9 +3,9 @@ type: post
 title: Moelleux au sésame noir, thé vert matcha
 date: 2013-09-14T18:07:00+00:00
 thumbnail: https://crokmou.com/images/MG_8117.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - chocolat
   - chocolat blanc
   - dessert
@@ -32,27 +32,27 @@ Sortez un [cul de poule](http://www.rueducommerce.fr/m/pl/malid:48515370) ou un 
 
 Pour 4 moelleux (environ 7cm de diamètre)
 
-**Pour les moelleux :**  
-<span style="line-height: 15.59375px;">– 50g de pâte de sésame noir</span>  
-– 100g de yaourt nature  
-– 80g de sucre  
-– 2 oeufs  
-– 160g de farine de blé  
+**Pour les moelleux :**
+<span style="line-height: 15.59375px;">– 50g de pâte de sésame noir</span>
+– 100g de yaourt nature
+– 80g de sucre
+– 2 oeufs
+– 160g de farine de blé
 – 1 càc de levure chimique
 
 **Pour le glaçage :** – 140g de chocolat blanc – 50g de beurre – 1,5 càc de thé vert matcha – quelques graines de sésame noir pour décorer **○○○**
 
-1- **Préparation des moelleux** : Préchauffez votre four à 180°C  
-2- Dans un saladier, mélangez les ingrédients un à un comme énoncés dans la liste ci-dessus. Mélangez bien pour que votre pâte soit sans grumeaux.  
-3- Beurrez et farinez vos cercles de présentations. Disposez les sur une plaque à four préalablement recouverte de papier sulfurisé. Versez la pâte équitablement dans vos moules.  
-4- Faites cuire environ 20 minutes (vérifier la cuisson à l’aide d’un couteau, si celui-ci ressort propre alors votre moelleux est cuit)  
+1- **Préparation des moelleux** : Préchauffez votre four à 180°C
+2- Dans un saladier, mélangez les ingrédients un à un comme énoncés dans la liste ci-dessus. Mélangez bien pour que votre pâte soit sans grumeaux.
+3- Beurrez et farinez vos cercles de présentations. Disposez les sur une plaque à four préalablement recouverte de papier sulfurisé. Versez la pâte équitablement dans vos moules.
+4- Faites cuire environ 20 minutes (vérifier la cuisson à l’aide d’un couteau, si celui-ci ressort propre alors votre moelleux est cuit)
 5- Démoulez et laissez refroidir. Coupez ensuite le chapeau de vos moelleux afin que le dessus de ceux-ci soient plat.
 
-6- **Préparation du glaçage** : Faites fondre votre chocolat blanc et votre beurre au [bain marie](http://cuisine-facile.com/trucs_astuces/recette-comment-preparer-bain-marie.html). Lorsque le tout est presque totalement fondu, ajoutez le thé vert matcha et mélangez bien afin que la préparation soit bien lisse. Décorez le dessus de vos moelleux et laissez refroidir.  
+6- **Préparation du glaçage** : Faites fondre votre chocolat blanc et votre beurre au [bain marie](http://cuisine-facile.com/trucs_astuces/recette-comment-preparer-bain-marie.html). Lorsque le tout est presque totalement fondu, ajoutez le thé vert matcha et mélangez bien afin que la préparation soit bien lisse. Décorez le dessus de vos moelleux et laissez refroidir.
 7- Dégustez autour d’un petit thé
 
 Astuce : Pour bien appliquer le glaçage, remettez vos moelleux dans les cercles et versez ensuite le chocolat.
 
 Et vous, avez vous déjà goûté la pâte de sésame noir ? Qu’en avez vous pensé ?Cette année j’ai aussi décidé de m’inscrire aux Golden blogs awards dans la catégorie… \*tadadadam\* : Gastronomiiiie ! Bon y’a beaucoup de blogs très sympathiques donc je ne m’attends pas à grand chose mais néanmoins qui ne tente rien n’a rien n’est ce pas ? N’hésitez donc pas si mon blog vous plait tout ça tout ça, à [voter pour moi par ici](http://www.golden-blog-awards.fr/blogs/crokmou.html) (suffit de cliquer sur le petit pouce hihi) : Merci les gourmands ! Et n’oubliez pas non plus mon [petit concours recettes de vos régions organisé par -ici-](http://www.crokmou.com/2013/09/1000-merci-et-un-concours.html) ! Vous pouvez gagner des lots bien sympathiques et ainsi faire découvrir aux lecteurs vos meilleures recettes ! A bientôt pour de nouvelles aventures, moi je m’en vais faire une partie de ma nouvelle acquisition dont je suis pas peu fière mouahahah : !
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

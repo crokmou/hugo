@@ -3,9 +3,9 @@ type: post
 title: Ananas mariné aux épices, une recette fraîche et rapide
 date: 2013-03-03T14:32:00+00:00
 thumbnail: https://crokmou.com/images/20130302_ananas_marin--_epices_0024.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - ananas
   - anis
   - badiane
@@ -16,13 +16,20 @@ tags:
   - fruit
   - girofle
   - poivre noir
-ingredient_qty: 
+ingredient_qty:
   - Pour 4 personnes
-ingredient_temps: 
+ingredient_temps:
   - 'Préparation : 10 minutes | Cuisson : 30 minutes'
 ingredient_textarea: |
-  - |
-  > * 1 ananas> * 1 l d'eau> * 60g de sucre en poudre> * 1 baton de cannelle> * 1 gousse de vanille> * 5 graines de cardamome> * 4 étoiles de badiane> * 4 clous de girofle> * 2 pincées de poivre noir
+  * 1 ananas
+  * 1 l d'eau
+  * 60g de sucre en poudre
+  * 1 baton de cannelle
+  * 1 gousse de vanille
+  * 5 graines de cardamome
+  * 4 étoiles de badiane
+  * 4 clous de girofle
+  * 2 pincées de poivre noir
 disqusId: 3587683546
 slug: ananas-marine-aux-epices
 ---
@@ -44,7 +51,7 @@ Je vous souhaite une bonne fin de week end, à bientôt !
 
 _ _
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 
 _ _
 

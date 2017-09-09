@@ -3,9 +3,9 @@ type: post
 title: Croquettes au boursin poivre
 date: 2012-05-04T17:56:00+00:00
 thumbnail: https://crokmou.com/images/20120426_croquette_cheesy_boursin_aperitif_0029.jpg
-categories: 
+categories:
   - Apéritifs
-tags: 
+tags:
   - aperitif
   - boursin
   - croquette
@@ -28,18 +28,18 @@ Pour cela munissez vous d’une [casserole](http://www.rueducommerce.fr/m/pl/mal
 
 Pour 10 cheesy
 
--1 oeuf  
--80g de boursin  
--2 tranches sèches de pain de mie (ou de la chapelure)  
--200ml d’huilde de tournesol  
+-1 oeuf
+-80g de boursin
+-2 tranches sèches de pain de mie (ou de la chapelure)
+-200ml d’huilde de tournesol
 -farine
 
-1- Dans un bol battez l’oeuf avec un peu d’eau. Dans un autre bol, versez de la farine. Et dans un troisième bol versez y le pain que vous aurez préalablement mixé  
-2- Prenez votre boursin au poivre et formez des petites boules d’environ 8g  
-3- Trempez vos boulettes dans la farine puis l’oeuf et pour finir la chapelure.  
-4- Réservez vos croquettes au frigo environ 30min  
-5- Faites chauffer votre huilde dans une casserole (ou une sauteuse) jusqu’à ce que celle-ci atteigne 180°C  
-6- Faites frire vos boulettes jusqu’à ce qu’elles soient bien dorées  
+1- Dans un bol battez l’oeuf avec un peu d’eau. Dans un autre bol, versez de la farine. Et dans un troisième bol versez y le pain que vous aurez préalablement mixé
+2- Prenez votre boursin au poivre et formez des petites boules d’environ 8g
+3- Trempez vos boulettes dans la farine puis l’oeuf et pour finir la chapelure.
+4- Réservez vos croquettes au frigo environ 30min
+5- Faites chauffer votre huilde dans une casserole (ou une sauteuse) jusqu’à ce que celle-ci atteigne 180°C
+6- Faites frire vos boulettes jusqu’à ce qu’elles soient bien dorées
 7- Egouttez et épongez bien vos cheesy (à l’aide d’essuie tout) et servez chaud !
 
 **Alors qu’en pensez vous, sympa non ?**

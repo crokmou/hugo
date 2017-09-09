@@ -3,9 +3,9 @@ type: post
 title: "Crème dessert oursante : au miel et copeaux de pain d'épices"
 date: 2011-04-12T14:28:00+00:00
 thumbnail: https://crokmou.com/images/Cr--me-oursante-au-miel-et-pain-d--pices.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - creme dessert
   - dessert
   - lait

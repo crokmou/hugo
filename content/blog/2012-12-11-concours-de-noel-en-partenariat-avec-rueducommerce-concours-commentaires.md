@@ -2,15 +2,15 @@
 type: post
 title: 'Concours de Noël en partenariat avec RueduCommerce {Concours commentaires}'
 date: 2012-12-11T07:29:00+00:00
-categories: 
+categories:
   - Lifestyle
-disqusId: 
+disqusId:
 slug: concours-de-noel-en-partenariat-avec-rueducommerce-concours-commentaires
 ---
 
 [![](http://www.crokmou.com/wp-content/uploads/2012/12/visuel-concours_2-300x1791-300x179.jpg)](http://www.crokmou.com/wp-content/uploads/2012/12/visuel-concours_2-300x1791.jpg)
 
-Comme mentionné dans mon précédent article, me voilà de retour avec un petit concours, qui je suis certaine en ravira plus d’un ! Mon partenaire [Rue du Commerce](http://www.rueducommerce.fr/) a fait appel à moi, ainsi qu’a plusieurs autres bloggeurs partenaires, afin de vous faire gagner un petit (gros) lot gourmand pour les fêtes de fin d’années !  
+Comme mentionné dans mon précédent article, me voilà de retour avec un petit concours, qui je suis certaine en ravira plus d’un ! Mon partenaire [Rue du Commerce](http://www.rueducommerce.fr/) a fait appel à moi, ainsi qu’a plusieurs autres bloggeurs partenaires, afin de vous faire gagner un petit (gros) lot gourmand pour les fêtes de fin d’années !
   Un petit rappel pour ceux qui ne connaissent pas encore (ou ceux qui ne s’en rappellent plus) les carnets de blogueurs dont fait parti « Ma table de [Noel](http://www.rueducommerce.fr/noel/) » (le livre que vous pouvez gagner) :
 
 [![](http://www.crokmou.com/wp-content/uploads/2012/12/ma-table-de-Noa-CC-82l-300x2961-300x296.jpg)](http://www.crokmou.com/wp-content/uploads/2012/12/ma-table-de-Noa-CC-82l-300x2961.jpg)
@@ -23,13 +23,13 @@ Vous désirez feuilletez ou télécharger l’ebook ? N’hésitez donc pas à c
 
 [![](http://www.crokmou.com/wp-content/uploads/2012/12/visualiser1.jpg)](http://lemag.rueducommerce.fr/la-communaute/ebooks/ebook-de-noel-ma-table-de-noel.html)
 
-Je suis d’autant plus heureuse de vous le faire gagner puisque j’ai eu l’honneur d’y participer ! En effet ma recette de [pain d’épices](http://crokmou.blogspot.com/2011/09/pain-depices.html) se retrouve à la page 22/23 et [la photographie « Graphic food »](http://crokmou.blogspot.com/2011/10/essais-prise-de-vue-graphic-food.html) faites durant mon cours de studio se retrouve en page de couverture !  ###
+Je suis d’autant plus heureuse de vous le faire gagner puisque j’ai eu l’honneur d’y participer ! En effet ma recette de [pain d’épices](http://crokmou.blogspot.com/2011/09/pain-depices.html) se retrouve à la page 22/23 et [la photographie « Graphic food »](http://crokmou.blogspot.com/2011/10/essais-prise-de-vue-graphic-food.html) faites durant mon cours de studio se retrouve en page de couverture !
 
 ### CONCOURS : Pour participer
 
 [![](http://www.crokmou.com/wp-content/uploads/2012/12/sapin-200x3001-200x300.jpg)](http://www.crokmou.com/wp-content/uploads/2012/12/sapin-200x3001.jpg)
 
-Vous devrez écrire un commentaire sous cet article (à l’aide d’une adresse mail valide) en répondant à cette question :   
+Vous devrez écrire un commentaire sous cet article (à l’aide d’une adresse mail valide) en répondant à cette question :
 **Qu’aimeriez vous vous acheter pour [Noël](http://www.rueducommerce.fr/noel/) sur [Rue du Commerce](http://www.rueducommerce.fr/) ?**
 
 +1 chance : Aimer [la page facebook Rue du Commerce](https://www.facebook.com/rueducommerce?fref=ts) ainsi que [la page facebook du blog Crokmou](https://www.facebook.com/pages/CroKMou/148093255259077)
@@ -45,11 +45,11 @@ L’un d’entre vous aura la chance de gagner un ebook version papier (édition
 ### A SAVOIR
 
 *   Concours possible uniquement pour les personnes ayant une **adresse postale en France Métropolitaine** (désolée pour mes petits Belges)
-*   Le nom du gagnant sera **tiré au sort** via Random.org. 
+*   Le nom du gagnant sera **tiré au sort** via Random.org.
 *   Vérifiez bien que vous utilisez une **adresse mail valide** lorsque vous écrivez votre commentaire, si je n’ai pas de réponse de la part du gagnant (faute d’avoir une adresse mail correcte) sous 2 jours, un nouveau gagnant sera tiré au sort.
 *   N’oubliez pas de **répondre à la question posée**, auquel cas votre participation ne sera pas prise en compte.
 
-### Fin du concours le 20 décembre à 00h  
+### Fin du concours le 20 décembre à 00h
 
 Si vous désirez avoir encore plus de chance de gagner, je vous invite à faire un tour sur les blogs des autres partenaires :
 
@@ -59,4 +59,4 @@ Je vous retrouve très bientôt pour d’autres gourmandises, en attendant je vo
 
 A bientôt les gourmands !
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

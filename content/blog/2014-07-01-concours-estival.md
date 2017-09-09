@@ -2,7 +2,7 @@
 type: post
 title: Concours Estival
 date: 2014-07-01T11:03:00+00:00
-categories: 
+categories:
   - Lifestyle
 disqusId: 3587683027
 slug: concours-estival
@@ -30,7 +30,7 @@ Mais avant de tout vous expliquer, j’aimerai vous présenter les partenaires s
 
 Pour avoir déjà dégusté leurs produits je peux vous assurer que c’est du bon, du très bon ! Les saveurs sont là et l’amour du produit aussi ! C’est pourquoi je suis ravie de vous faire découvrir ces spécialités, quant à Marco et Marion, eux, ils sont plus qu’enchantés de partager avec vous leurs traditions et leurs savoirs culinaire !
 
-    2)
+  2)
 
 ![](http://www.crokmou.com/wp-content/uploads/2014/07/nouveau-logo-rue-du-commerce-e1383845291399-300x1661-300x166.jpg)
 

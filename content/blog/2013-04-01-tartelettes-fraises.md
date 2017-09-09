@@ -3,9 +3,9 @@ type: post
 title: Tartelettes fraises
 date: 2013-04-01T20:32:00+00:00
 thumbnail: https://crokmou.com/images/20130401_tartelette_fraise_strawberry_tart_0074.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - dessert
   - fraise
   - fruit
@@ -29,19 +29,19 @@ _To make this sweetness which bring back us little by little to the summer, you 
 
 Pour 4 tartelettes
 
-– 1 pâte sablée ou feuilletée  
-– fraises  
-– 60g de sucre  
-– 1 gousse de vanille  
-– 2 jaunes d’oeufs  
-– 400ml de lait  
+– 1 pâte sablée ou feuilletée
+– fraises
+– 60g de sucre
+– 1 gousse de vanille
+– 2 jaunes d’oeufs
+– 400ml de lait
 – 40g de farine
 
-1- Préchauffez votre four à 200°C  
-2- Placez des cercles de pâtes dans vos moules à tartelettes (n’oubliez pas le papier sulfurisé en dessous pour pouvoir les décoller facilement par la suite). Piquez la pâte à l’aide d’une fourchette. Faire cuire la pâte à blanc : disposez du papier sulfurisé sur chaque tartelette et versez par dessus des haricots secs (ou lentilles ou billes en céramique). Enfournez jusqu’à ce que la pâte soit bien dorée  
-3- Pendant la cuisson de la pâte, préparez la crème pâtissière : Dans une casserole faites bouillir le lait et la gousse de vanille (préalablement fendue). Dans un saladier, mélangez les jaunes d’oeufs et le sucre jusqu’à blanchiment, ajoutez ensuite la farine.  
-4- Une fois le lait chaud, versez le petit à petit sur le mélange précédent tout en mélangeant bien et énergiquement. Reversez ensuite ce mélange dans la casserole, et continuer de mélanger tout en laissant sur feu moyen. Au bout de 5 min environ le mélange devrait s’épaissir.  
-5- Versez votre crème dans vos tartelettes (en ayant prit soin de retirer les haricots secs et le papier), laissez refroidir. Coupez vos fraises en morceaux et dressez les dans les tartelettes. Mettre au frais 30 minutes.  
+1- Préchauffez votre four à 200°C
+2- Placez des cercles de pâtes dans vos moules à tartelettes (n’oubliez pas le papier sulfurisé en dessous pour pouvoir les décoller facilement par la suite). Piquez la pâte à l’aide d’une fourchette. Faire cuire la pâte à blanc : disposez du papier sulfurisé sur chaque tartelette et versez par dessus des haricots secs (ou lentilles ou billes en céramique). Enfournez jusqu’à ce que la pâte soit bien dorée
+3- Pendant la cuisson de la pâte, préparez la crème pâtissière : Dans une casserole faites bouillir le lait et la gousse de vanille (préalablement fendue). Dans un saladier, mélangez les jaunes d’oeufs et le sucre jusqu’à blanchiment, ajoutez ensuite la farine.
+4- Une fois le lait chaud, versez le petit à petit sur le mélange précédent tout en mélangeant bien et énergiquement. Reversez ensuite ce mélange dans la casserole, et continuer de mélanger tout en laissant sur feu moyen. Au bout de 5 min environ le mélange devrait s’épaissir.
+5- Versez votre crème dans vos tartelettes (en ayant prit soin de retirer les haricots secs et le papier), laissez refroidir. Coupez vos fraises en morceaux et dressez les dans les tartelettes. Mettre au frais 30 minutes.
 6- Dégustez !
 
 _[Recipe in english](https://lh5.googleusercontent.com/-mH1DyMqifx0/UVnfKXJy6tI/AAAAAAAAGzc/HnT1Y39Aprs/s842/strawberry_tartlet.jpg) :_
@@ -78,4 +78,4 @@ _See you soon the gourmands !_
 
 _ _
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

@@ -3,9 +3,9 @@ type: post
 title: Cookies au naturel
 date: 2011-04-26T17:01:00+00:00
 thumbnail: https://crokmou.com/images/Cookies-au-naturel.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - amande
   - cassonade
   - chocolat
@@ -29,9 +29,9 @@ _Je suis trèèèès gourmande et pourtant la plupart des desserts faits à la m
 *   1/2 sachet de levure
 *   100 g de sucre en poudre
 *   140 g de cassonade
-*   2 càs g de miel/noisette (si vous n’avez pas, vous pouvez mettre du miel tout simplement) 
+*   2 càs g de miel/noisette (si vous n’avez pas, vous pouvez mettre du miel tout simplement)
 *   125 g de beurre fondu
-*   amandes & noisettes 
+*   amandes & noisettes
 *   1 oeuf
 *   2 sachets de sucre vanillé
 *   1 pincée de sel

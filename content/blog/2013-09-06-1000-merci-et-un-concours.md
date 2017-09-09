@@ -2,7 +2,7 @@
 type: post
 title: 1000 merci et un concours !
 date: 2013-09-06T08:52:00+00:00
-categories: 
+categories:
   - Lifestyle
 disqusId: 3587683742
 slug: 1000-merci-et-un-concours
@@ -24,27 +24,27 @@ Pour cette fois je vais donc vous faire cuisiner, oui, oui, mais rassurez vous v
 
 [![](http://www.crokmou.com/wp-content/uploads/2013/09/Logo-Dandoy-294x3001-294x300.png)](http://www.maisondandoy.com/)
 
-« _À la [maison Dandoy](http://www.maisondandoy.com/), nous célébrons depuis toujours les plaisirs simples. Faits à la main par nos maîtres gourmands dans nos ateliers à Bruxelles, nos biscuits sont riches en saveurs et généreux en caractère. Ils sont aussi 100% naturels, exactement comme notre arrière arrière grand-père les faisait il y a plus de 180 ans. Depuis lors, nos fameux speculoos, nos petits biscuits et tous nos autres petits pêchés mignons ont conquis le cœur de plusieurs générations de Bruxellois._« 
+« _À la [maison Dandoy](http://www.maisondandoy.com/), nous célébrons depuis toujours les plaisirs simples. Faits à la main par nos maîtres gourmands dans nos ateliers à Bruxelles, nos biscuits sont riches en saveurs et généreux en caractère. Ils sont aussi 100% naturels, exactement comme notre arrière arrière grand-père les faisait il y a plus de 180 ans. Depuis lors, nos fameux speculoos, nos petits biscuits et tous nos autres petits pêchés mignons ont conquis le cœur de plusieurs générations de Bruxellois._«
 
 [![](http://www.crokmou.com/wp-content/uploads/2013/09/IMG_3653-225x3001-225x300.jpg)](http://www.maisondandoy.com/)[![](http://www.crokmou.com/wp-content/uploads/2013/09/PG-0001-300x3001-300x300.jpg)](http://www.maisondandoy.com/)
 
- <span style="line-height: 20px;"></span> 
+ <span style="line-height: 20px;"></span>
 
 <span style="line-height: 20px;">J’ai eu la chance durant l’événement Culinaria de goûter leurs spécialités et autant vous dire, je suis tombée sur le c** ! C’est tellement bon, moelleux, avec le goût authentique du speculoos… et le pain à la Grecque… hum à damner ! D’ailleurs je peux également vous dire que c’est un partenaire dont je reparlerai très bientôt puisque j’ai été invité à visiter leur atelier dans le courant du mois !</span>
 
- <span style="line-height: 20px;"></span> 
+ <span style="line-height: 20px;"></span>
 
 <span style="line-height: 20px;">Pourquoi la [Maison Dandoy](http://www.maisondandoy.com/) ? J’ai choisi ce partenaire car il est selon moi très représentatif du savoir faire Belge notamment en matière de speculoos et quoi de mieux pour ceux qui ne connaissent pas que de leur faire découvrir ce délicieux biscuit ?! Et puis la Belgique c’est mon pays d’adoption ne l’oublions pas 😉</span>
 
- <span style="line-height: 20px;"></span> 
+ <span style="line-height: 20px;"></span>
 
 <span style="line-height: 20px;">Si vous souhaitez en apprendre un peu plus sur la Belgique et ses speculoos, je vous invite à vous rendre sur le **[site internet de la Maison Dandoy](http://www.maisondandoy.com/)** ainsi que sur leur [page Facebook](https://www.facebook.com/MaisonDandoy) ! De quoi vous donner l’eau à la bouche croyez moi !</span>
 
- <span style="line-height: 20px;"></span> 
+ <span style="line-height: 20px;"></span>
 
- <span style="line-height: 20px;"></span>  <span style="line-height: 20px;"></span>  <span style="line-height: 20px;"></span> 
+ <span style="line-height: 20px;"></span>  <span style="line-height: 20px;"></span>  <span style="line-height: 20px;"></span>
 
- <span style="line-height: 20px;"></span> 
+ <span style="line-height: 20px;"></span>
 
 <span style="line-height: 20px;"><u>Passons dès à présent à mon deuxième partenaire, tout aussi gourmand mais dans un autre registre, [la conserverie « Au Bec Fin »](http://www.au-bec-fin.com/) :</u></span>
 
@@ -54,19 +54,19 @@ Pour cette fois je vais donc vous faire cuisiner, oui, oui, mais rassurez vous v
 
 [![](http://www.crokmou.com/wp-content/uploads/2013/09/logo-becfin-slogan-300x2521-300x252.jpg)](http://www.au-bec-fin.com/)
 
-« _La conserverie [Au Bec Fin](http://www.au-bec-fin.com/), l’artisan des saveurs provençales. __Créée en 1991, et implantée à Cogolin, dans le Golfe de Saint Tropez, la Conserverie [Au Bec Fin](http://www.au-bec-fin.com/) est née en Provence et revendique son statut d’artisan des saveurs. Elle entretient depuis toujours une passion pour la gastronomie de sa région, et un amour pour ses produits. Des goûts et des saveurs qu’elle entend faire partager, auprès des particuliers comme des professionnels._« 
+« _La conserverie [Au Bec Fin](http://www.au-bec-fin.com/), l’artisan des saveurs provençales. __Créée en 1991, et implantée à Cogolin, dans le Golfe de Saint Tropez, la Conserverie [Au Bec Fin](http://www.au-bec-fin.com/) est née en Provence et revendique son statut d’artisan des saveurs. Elle entretient depuis toujours une passion pour la gastronomie de sa région, et un amour pour ses produits. Des goûts et des saveurs qu’elle entend faire partager, auprès des particuliers comme des professionnels._«
 
 [![](http://www.crokmou.com/wp-content/uploads/2013/09/aubecfin-point-vente1.jpg)](http://www.crokmou.com/wp-content/uploads/2013/09/aubecfin-point-vente1.jpg) [![](http://www.crokmou.com/wp-content/uploads/2013/09/Spe-CC-81cialite-CC-81s-provenc-CC-A7ales-300x2621-300x262.jpg)](http://www.crokmou.com/wp-content/uploads/2013/09/Spe-CC-81cialite-CC-81s-provenc-CC-A7ales-300x2621.jpg)
 
-<span style="line-height: 20px;">Durant mes vacances je suis allée visiter cette conserverie avec mon Papa et son copain. Comme ils tiennent une épicerie dans le Var, toujours à la recherche de produits de qualité et surtout artisanaux,  c’est donc tout naturellement que nous avons décidé d’aller voir ces produits d’un peu plus près. Nous n’avons pas été déçus (sauf peut être de ne pas avoir eu le temps de visiter la conserverie), le coin est très agréable et les explications sur les différents produits sont très intéressantes. Tout est fait en collaboration avec les producteurs du coin, un bon point donc, </span>de plus les produits sont excellents ! 
+<span style="line-height: 20px;">Durant mes vacances je suis allée visiter cette conserverie avec mon Papa et son copain. Comme ils tiennent une épicerie dans le Var, toujours à la recherche de produits de qualité et surtout artisanaux,  c’est donc tout naturellement que nous avons décidé d’aller voir ces produits d’un peu plus près. Nous n’avons pas été déçus (sauf peut être de ne pas avoir eu le temps de visiter la conserverie), le coin est très agréable et les explications sur les différents produits sont très intéressantes. Tout est fait en collaboration avec les producteurs du coin, un bon point donc, </span>de plus les produits sont excellents !
 
 <span style="line-height: 20px;">La tapenade, les olives, le ketchup tout ça l’été c’est mon dada, voilà donc une bonne manière pour moi de vous inviter à déguster une partie de la cuisine du Sud Est ! Vous souhaitez d’autres explications encore ? N’hésitez pas à faire un tour sur [le site internet « Au Bec Fin »](http://www.au-bec-fin.com/) ainsi que sur [leur page Facebook](https://www.facebook.com/pages/Conserverie-Au-Bec-Fin/160594497334453) !</span>
 
- <span style="line-height: 20px;"></span> 
+ <span style="line-height: 20px;"></span>
 
- <span style="line-height: 20px;"></span>  <span style="line-height: 20px;"></span>  <span style="line-height: 20px;"></span> 
+ <span style="line-height: 20px;"></span>  <span style="line-height: 20px;"></span>  <span style="line-height: 20px;"></span>
 
- <span style="line-height: 20px;"></span> 
+ <span style="line-height: 20px;"></span>
 
 <span style="line-height: 20px;"><u>Le dernier partenaire à nous rejoindre et pas des moindre, n’est autre que mon plus vieil « ami », [Rue du Commerce](http://www.rueducommerce.fr/) :</u></span>
 
@@ -114,19 +114,19 @@ Et maintenant les cadeaux =D
 
 [![](http://www.crokmou.com/wp-content/uploads/2013/09/rdc_1-300x2431-300x243.jpg)](http://www.crokmou.com/wp-content/uploads/2013/09/rdc_1-300x2431.jpg)
 
- **** 
+ ****
 
 Un set fondue pour vous réchauffer cet hiver offert par Rue du Commerce d’une valeur d’environ 50€  (parce que j’aime beaucoup beaucoup la fondue) (Produits non exhaustifs, des articles similaires peuvent être envoyés en cas de rupture de stock à la fin du concours. <u>Colis ne peut être envoyé qu’en France</u>)
 
- <span style="line-height: 24px;"></span> 
+ <span style="line-height: 24px;"></span>
 
-**Pour notre deuxième vainqueur** : 
+**Pour notre deuxième vainqueur** :
 
 [![](http://www.crokmou.com/wp-content/uploads/2013/09/6e944ad38a9d93347ade1c6dcabed51e-300x300-300x3001-300x300.jpg)](http://www.crokmou.com/wp-content/uploads/2013/09/6e944ad38a9d93347ade1c6dcabed51e-300x300-300x3001.jpg) [![](http://www.crokmou.com/wp-content/uploads/2013/09/5ea47ac506cebea2454b2efc67624902-300x2621-300x262.jpg)](http://www.crokmou.com/wp-content/uploads/2013/09/5ea47ac506cebea2454b2efc67624902-300x2621.jpg)
 
 Un appareil à crêpes et une boite Pause Gourmande Speculoos. Cadeaux offerts par Rue du Commerce  (Produits non exhaustifs, des articles similaires peuvent être envoyés en cas de rupture de stock à la fin du concours. <u>Colis ne peut être envoyé qu’en France</u>) et la Maison Dandoy d’une valeur totale d’environ 40€.
 
- <span style="line-height: 24px;"></span> 
+ <span style="line-height: 24px;"></span>
 
 </div>
 
@@ -151,18 +151,18 @@ Un coffret dégustation offert par notre partenaire la conserverie « Au Bec Fi
 ### A SAVOIR
 
 *   Concours possible uniquement pour les personnes ayant une **adresse postale en France Métropolitaine concernant les produits Rue du Commerce,** pour la Maison Dandoy et la conserverie « Au Bec Fin » il n’y a aucun problème pour envoyer les colis en Belgique**.**
-*   Les gagnants seront déterminés par notre jury, les résultats seront postés après délibérations. 
+*   Les gagnants seront déterminés par notre jury, les résultats seront postés après délibérations.
 *   Vérifiez bien que vous utilisez une **adresse mail valide** lorsque vous écrivez votre commentaire, si je n’ai pas de réponse de la part du gagnant (faute d’avoir une adresse mail correcte) sous 2 jours, un nouveau gagnant sera nommé.
 *   N’oubliez pas **de respecter toutes les conditions**, auquel cas votre participation ne sera pas prise en compte (que vous soyez gentil ou non ;D).
 
-### Fin du concours le <strike>6 Octobre</strike> 31 Octobre 2013 à 00h  
+### Fin du concours le <strike>6 Octobre</strike> 31 Octobre 2013 à 00h
 
 Alors qu’en dites vous ? Partants ?
 
-Dépêchez vous, un mois ça passe vite 😉 
+Dépêchez vous, un mois ça passe vite 😉
 
 A bientôt les gourmands et faites moi découvrir vos régions !
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 
- <span style="line-height: 20px;"></span> 
+ <span style="line-height: 20px;"></span>

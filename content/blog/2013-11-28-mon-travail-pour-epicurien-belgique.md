@@ -2,7 +2,7 @@
 type: post
 title: Mon travail pour Epicurien.be
 date: 2013-11-28T22:24:00+00:00
-categories: 
+categories:
   - Lifestyle
 disqusId: 3587683628
 slug: mon-travail-pour-epicurien-belgique
@@ -22,7 +22,7 @@ Comme expliqué lors de mon précédent article pour mon travail avec Alpro, une
 
 ![](http://www.crokmou.com/wp-content/uploads/2013/11/Capture-d-25E2-2580-2599e-25CC-2581cran-2013-11-24-a-25CC-2580-08.27.03-300x2481-300x248.png)![](http://www.crokmou.com/wp-content/uploads/2013/11/Capture-d-25E2-2580-2599e-25CC-2581cran-2013-11-24-a-25CC-2580-08.26.40-300x2451-300x245.png)
 
-Une fois le premier jet envoyé à Laurent, il m’a fait part de ses remarques concernant tel ou tel angle de vue, ambiance etc… Une fois que nous étions d’accord sur toutes les recettes, je suis partie en shopping. Comme pour ce boulot il était question de cuisiner, mettre en scène et photographier, j’ai donc fait un shopping vaisselle et un shopping alimentaire.  
+Une fois le premier jet envoyé à Laurent, il m’a fait part de ses remarques concernant tel ou tel angle de vue, ambiance etc… Une fois que nous étions d’accord sur toutes les recettes, je suis partie en shopping. Comme pour ce boulot il était question de cuisiner, mettre en scène et photographier, j’ai donc fait un shopping vaisselle et un shopping alimentaire.
 Autant vous l’avouer cela a été un peu compliqué : 7/8 feuilles de courses, une organisation au poil pour ne pas perdre de temps, courir dans tel ou tel magasin car on a pas trouvé tel ou tel truc dans un autre, mais néanmoins j’adore ça !
 
 ![](http://www.crokmou.com/wp-content/uploads/2013/11/1234151_549714238416980_1957940315_n-300x1691-300x169.jpg)![](http://www.crokmou.com/wp-content/uploads/2013/11/1236955_551427491578988_551814868_n-300x3001-300x300.jpg)
@@ -41,7 +41,7 @@ Une fois les retouches terminées voici donc le résultat :
 
 N’hésitez pas à aller faire un tour sur le site [Epicurien](http://www.epicurien.be/) aussi, de bien belles recettes à découvrir !
 
-Je vous laisse mes petits loups, à bientôt pour de nouvelles recettes.  
+Je vous laisse mes petits loups, à bientôt pour de nouvelles recettes.
 Des poutoux
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

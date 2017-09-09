@@ -3,9 +3,9 @@ type: post
 title: Milkshake lait de riz, sésame noir, banane
 date: 2013-02-18T09:23:00+00:00
 thumbnail: https://crokmou.com/images/20130217_milkshake_sesame_noir_banane_citron_vert_0030.jpg
-categories: 
+categories:
   - Boissons
-tags: 
+tags:
   - banane
   - boisson
   - citron
@@ -30,16 +30,16 @@ Maintenant que vous savez tout, vous allez pouvoir vous mettre en cuisine, sache
 
 Pour 1 verre de 20/25cl
 
-– 2/3 du verre de lait de riz (ou autre selon vos goûts)  
-– 1/3 de banane  
-– 1 boule de glace de sesame noir  
-– 3 càc de jus de citron vert  
+– 2/3 du verre de lait de riz (ou autre selon vos goûts)
+– 1/3 de banane
+– 1 boule de glace de sesame noir
+– 3 càc de jus de citron vert
 – glaçons
 
-1- Mettez tous les ingrédients dans votre [blender](http://www.rueducommerce.fr/m/pl/malid:9633603)  
-2- Mixez et versez le tout dans votre verre  
+1- Mettez tous les ingrédients dans votre [blender](http://www.rueducommerce.fr/m/pl/malid:9633603)
+2- Mixez et versez le tout dans votre verre
 3- Dégustez bien frais
 
 Fastoche n’est ce pas ? **Et vous quelles sont vos milkshake préférés ? Ou peut être préférez vous les smoothies ?** Je vous souhaite à tous de passer une très bonne semaine, à bientôt les gourmands !
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

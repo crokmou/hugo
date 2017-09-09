@@ -2,10 +2,10 @@
 type: post
 title: Alfajores de maïzena, biscuits Argentins
 date: 2016-04-04T14:59:47+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943845/alfajores-recette-crokmou-blog-culinaire.jpg
-categories: 
+thumbnail: https://crokmou.com/images/alfajores-recette-crokmou-blog-culinaire.jpg
+categories:
   - Desserts
-tags: 
+tags:
   - alfajores
   - alfajores de maizena
   - argentin
@@ -13,13 +13,20 @@ tags:
   - confiture de lait
   - fécule de maïs
   - maizena
-ingredient_qty: 
+ingredient_qty:
   - Pour 20/25 biscuits
-ingredient_temps: 
+ingredient_temps:
   - 'Préparation : 10 minutes | Attente : 60 minutes | Cuisson : 5 minutes'
 ingredient_textarea: |
-  - |
-  > * 100 g de beurre> * 100 g de sucre glace> * 100 g de farine> * 5 jaunes d'œuf> * 12 g de levure chimique> * 1 zeste de citron> * 200 g de fécule de maïs> * confiture de lait> * noix de coco râpée
+  * 100 g de beurre
+  * 100 g de sucre glace
+  * 100 g de farine
+  * 5 jaunes d'œuf
+  * 12 g de levure chimique
+  * 1 zeste de citron
+  * 200 g de fécule de maïs
+  * confiture de lait
+  * noix de coco râpée
 disqusId: 4719176272
 slug: alfajores-de-maizena-biscuits-argentins
 ---

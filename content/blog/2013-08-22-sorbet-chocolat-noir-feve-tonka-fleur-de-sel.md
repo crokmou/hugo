@@ -3,9 +3,9 @@ type: post
 title: Sorbet chocolat noir, fève tonka, fleur de sel
 date: 2013-08-22T15:30:00+00:00
 thumbnail: https://crokmou.com/images/20130717_glace_chocolat_fleur_sel_feve_tonka_0005.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - chocolat
   - chocolat noir
   - dessert
@@ -23,7 +23,7 @@ Je sais pas vous mais moi, l’été, j’absorbe une quantité de glaces et de 
 
 <a name="more"></a>
 
-Je suis passée par différents stades dans l’élaboration des glaces : 
+Je suis passée par différents stades dans l’élaboration des glaces :
 
 – le stade sans sorbetière : il me fallait donc utiliser la bonne vieille méthode du grattage à la fourchette toutes les 30/45 minutes (méthode expliquée par [-ici-](http://www.undejeunerdesoleil.com/2013/06/glaces-sorbets-maison-sans-sorbetiere-astuces.html)). Pas mauvais mais cela n’avait pas tout à fait l’aspect glace escompté.
 
@@ -37,17 +37,17 @@ Revenons à la recette, un délicieux **sorbet au chocolat noir, à la fève ton
 
 Pour 750ml
 
-– 640 ml d’eau  
-– 50g de sirop de glucose arome miel  
-– 140g de sucre  
-– 180g de chocolat noir 70/80%  
-– 1 fève tonka  
+– 640 ml d’eau
+– 50g de sirop de glucose arome miel
+– 140g de sucre
+– 180g de chocolat noir 70/80%
+– 1 fève tonka
 – 3 pincées de fleur de sel
 
 **○○○**
 
-1- Dans une [casserole](http://www.rueducommerce.fr/m/pl/malid:115), faites bouillir l’eau avec le sucre et le sirop de glucose. Ajoutez ensuite le chocolat, la fève tonka préalablement râpée et la fleur de sel.  
-2- Mixez à l’aide d’un pied [mixeur](http://www.rueducommerce.fr/m/pl/malid:1455381) et laissez la préparation « infuser » pendant 24h au [réfrigérateur](http://www.rueducommerce.fr/m/pl/malid:9633584).  
+1- Dans une [casserole](http://www.rueducommerce.fr/m/pl/malid:115), faites bouillir l’eau avec le sucre et le sirop de glucose. Ajoutez ensuite le chocolat, la fève tonka préalablement râpée et la fleur de sel.
+2- Mixez à l’aide d’un pied [mixeur](http://www.rueducommerce.fr/m/pl/malid:1455381) et laissez la préparation « infuser » pendant 24h au [réfrigérateur](http://www.rueducommerce.fr/m/pl/malid:9633584).
 3- Mixez de nouveau et faites prendre votre sorbet en [sorbetière](http://www.rueducommerce.fr/m/pl/malid:9633614).
 
 Astuce : Avant dégustation, pensez à sortir votre sorbet du [congélateur](http://www.rueducommerce.fr/m/pl/malid:9633581) 10 minutes avant de servir.
@@ -60,4 +60,4 @@ Et vous, vos recettes maison cela donne quoi ?
 
 A très bientôt les gourmands
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

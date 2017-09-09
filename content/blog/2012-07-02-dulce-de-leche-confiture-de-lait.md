@@ -3,9 +3,9 @@ type: post
 title: 'Dulce de Leche – Confiture de Lait'
 date: 2012-07-02T13:23:00+00:00
 thumbnail: https://crokmou.com/images/20120611_dulce_de_leche_confiture_de_lait_0028.jpg
-categories: 
+categories:
   - 'Sauces - Confitures'
-tags: 
+tags:
   - caramel
   - fait maison confiture
   - home made
@@ -18,15 +18,15 @@ slug: dulce-de-leche-confiture-de-lait
 
 Pour un pot de 250 grammes
 
--500ml de lait  
--200g de sucre  
+-500ml de lait
+-200g de sucre
 -1 gousse de vanille
 
-1- Dans une casserole, versez le lait, le sucre, les grains de vanille (que vous avez préalablement récupérés en grattant la gousse) et la gousse, portez le tout à ébullition  
-2- Lors de la première ébullition, baissez le feu au minimum et retirez la gousse de vanille  
-3- Ensuite laissez cuire pendant environ 1h30/2H en remuant toutes les 10min. Vous allez voir la préparation va s’épaissir et se colorer petit à petit  
+1- Dans une casserole, versez le lait, le sucre, les grains de vanille (que vous avez préalablement récupérés en grattant la gousse) et la gousse, portez le tout à ébullition
+2- Lors de la première ébullition, baissez le feu au minimum et retirez la gousse de vanille
+3- Ensuite laissez cuire pendant environ 1h30/2H en remuant toutes les 10min. Vous allez voir la préparation va s’épaissir et se colorer petit à petit
 4- Une fois votre confiture de lait à bonne consistance, versez dans un pot et laissez refroidir avant de déguster (à la petite cuillère)
 
 **Et vous dans quoi mettez vous la confiture de lait (ou la confiture tout court) ?** Passez de très bonnes vacances et profitez bien du beau temps !
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

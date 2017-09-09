@@ -3,9 +3,9 @@ type: post
 title: 'Cupcake rose, framboise {Octobre Rose}'
 date: 2012-10-15T20:23:00+00:00
 thumbnail: https://crokmou.com/images/MG_2970.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - cupcake
   - fleur
   - framboise
@@ -26,25 +26,29 @@ Bonsoir les gourmands ! J’espère que vous allez bien, pour ma part les jours 
 
 [![](http://4.bp.blogspot.com/-LtF-OYTaq-U/UHxb8NNNQSI/AAAAAAAAEzM/V1FtVylNYek/s400/Affiche_RubanRose72DPI.jpg)](http://4.bp.blogspot.com/-LtF-OYTaq-U/UHxb8NNNQSI/AAAAAAAAEzM/V1FtVylNYek/s1600/Affiche_RubanRose72DPI.jpg)
 
-<span style="font-family: inherit;">Depuis 2004, le mois d’octobre est dédié à la mobilisation pour le dépistage du cancer du sein sous l’appellation <span style="color: #444444;">**« Octobre Rose »**. Je pense qu’il est très important de parler de ce cancer qui survient plus souvent qu’on ne le croit ! Lorsqu’il est prit en charge à temps, ce cancer du sein peut être très bien soigné, ce pourquoi il est primordial d’en parler. Le dépistage n’est pas douloureux, c’est rapide , il suffit juste de prendre le temps d’appeler son gynécologue pour un petit rendez vous (alors hop on hésite pas, on prend son téléphone, je vais en faire de même d’ailleurs).</span></span>
+<span style="font-family: inherit;">Depuis 2004, le mois d’octobre est dédié à la mobilisation pour le dépistage du cancer du sein sous l’appellation <span style="color:
+
+#444444;">**« Octobre Rose »**. Je pense qu’il est très important de parler de ce cancer qui survient plus souvent qu’on ne le croit ! Lorsqu’il est prit en charge à temps, ce cancer du sein peut être très bien soigné, ce pourquoi il est primordial d’en parler. Le dépistage n’est pas douloureux, c’est rapide , il suffit juste de prendre le temps d’appeler son gynécologue pour un petit rendez vous (alors hop on hésite pas, on prend son téléphone, je vais en faire de même d’ailleurs).</span></span>
 
 Pour plus d’informations sur ce cancer, je vous invite à vous rendre sur le site internet [cancerdusein.org](http://www.cancerdusein.org/)
 
 J’apporte ma contribution avec la petite recette que voici : **Cupcake à la rose et framboise**
 
-<span style="line-height: 16px; white-space: pre-wrap;"><span style="color: #444444;"></span></span>
+<span style="line-height: 16px; white-space: pre-wrap;"><span style="color:
+
+#444444;"></span></span>
 
 Pour 8 cupcakes
 
-– 150g de farine  
-– 60g de sucre en poudre  
-– 1 oeuf  
-– 63g de beurre  
-– 100ml de lait  
-– 1/2 sachet de levure chimique  
-– 200g de framboise à tartiner (ou 200g de framboises tout court)  
-– 200g de mascarpone  
-– 80 de sucre glace  
+– 150g de farine
+– 60g de sucre en poudre
+– 1 oeuf
+– 63g de beurre
+– 100ml de lait
+– 1/2 sachet de levure chimique
+– 200g de framboise à tartiner (ou 200g de framboises tout court)
+– 200g de mascarpone
+– 80 de sucre glace
 – 1 càs d’eau de rose
 
 <div style="text-align: justify;">1- Préchauffez votre [four](http://www.rueducommerce.fr/m/pl/malid:9404136) à 200°C
@@ -67,4 +71,4 @@ A déguster (presque) sans modérations ! Je vous souhaite une bonne semaine à 
 
 [![](http://emoticoner.com/files/emoticons/cute_rabbit/cute-rabbit-emoticon-22.gif?1301940532)](http://emoticoner.com/files/emoticons/cute_rabbit/cute-rabbit-emoticon-22.gif?1301940532)
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

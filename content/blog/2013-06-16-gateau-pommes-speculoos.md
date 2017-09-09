@@ -3,9 +3,9 @@ type: post
 title: Gâteau pommes, speculoos
 date: 2013-06-16T16:43:00+00:00
 thumbnail: https://crokmou.com/images/gateau_biscuit_speculoos_stephen_destree_BD_30x40.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - biscuit
   - biscuiterie destree
   - dessert
@@ -47,24 +47,24 @@ Ce gâteau ravira vos papilles, cela change du gâteau au yaourt et de la tarte 
 
 Pour 6/8 personnes
 
-– 60 g de beurre demi-sel  
-– 3 oeufs  
-– 3 càs bombées de farine  
-– 1 càs bombée de maïzena  
-– 1 càs de crème fraiche épaisse  
-– 1 sachet (soit 100g) de speculoos Stephen Destrée … ou plus selon la gourmandise !  
+– 60 g de beurre demi-sel
+– 3 oeufs
+– 3 càs bombées de farine
+– 1 càs bombée de maïzena
+– 1 càs de crème fraiche épaisse
+– 1 sachet (soit 100g) de speculoos Stephen Destrée … ou plus selon la gourmandise !
 – 4/5 pommes
 
 **○○○**
 
-1- Préchauffez le four à 180°C  
-2- Epluchez vos pommes et taillez les en cubes (pas trop petits non plus). Faites les compoter quelques minutes dans une poêle avec le beurre.  
-3- Dans un saladier, battre les oeufs et la crème fraiche. Ajoutez ensuite la farine et la maïzena, les speculoos préalablement réduits en morceaux pour finir ajoutez les pommes. Mélangez.  
-4- Versez votre préparation dans un moule à cake (beurré et fariné à l’avance) et faites cuire pendant 30 minutes environ.  
+1- Préchauffez le four à 180°C
+2- Epluchez vos pommes et taillez les en cubes (pas trop petits non plus). Faites les compoter quelques minutes dans une poêle avec le beurre.
+3- Dans un saladier, battre les oeufs et la crème fraiche. Ajoutez ensuite la farine et la maïzena, les speculoos préalablement réduits en morceaux pour finir ajoutez les pommes. Mélangez.
+4- Versez votre préparation dans un moule à cake (beurré et fariné à l’avance) et faites cuire pendant 30 minutes environ.
 5- Servez le moelleux tiède ou froid avec pourquoi pas une petite boule de glace ou un peu de crème anglaise !
 
-_[English recipe ](https://lh5.googleusercontent.com/-OCBZtoiRj4Y/Uc8-v3WOlzI/AAAAAAAAHok/rd4-kgppGdc/s839/softness_cake_apple_ginger_biscuit.png):_  
- __ 
+_[English recipe ](https://lh5.googleusercontent.com/-OCBZtoiRj4Y/Uc8-v3WOlzI/AAAAAAAAHok/rd4-kgppGdc/s839/softness_cake_apple_ginger_biscuit.png):_
+ __
 
 <table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
 
@@ -104,4 +104,4 @@ Zou’ je retourne à mon rangement et à mon repos bien mérité hihi
 
 A bientôt mes gourmands !
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

@@ -3,9 +3,9 @@ type: post
 title: Milkshake fraises, yaourt et citron vert
 date: 2012-07-29T11:03:00+00:00
 thumbnail: https://crokmou.com/images/20120626_milkshake_fraise_yaourt_citron_0008.jpg
-categories: 
+categories:
   - Boissons
-tags: 
+tags:
   - boisson
   - citron
   - citron vert
@@ -27,13 +27,13 @@ Pour ma part pas besoin de mettre votre cuisine à sac pour préparer ce rafraî
 
 Pour 1 verre « haut »
 
--2/3 du verre choisi de lait  
--1 yaourt nature brassé  
--5/6 fraises  
+-2/3 du verre choisi de lait
+-1 yaourt nature brassé
+-5/6 fraises
 -3 càc de jus de citron vert
 
-1- Mettez tous les ingrédients dans votre [blender](http://www.rueducommerce.fr/m/pl/malid:9633603)  
-2- Mixez et versez le tout dans votre verre  
+1- Mettez tous les ingrédients dans votre [blender](http://www.rueducommerce.fr/m/pl/malid:9633603)
+2- Mixez et versez le tout dans votre verre
 3- Dégustez bien frais à la paille (si il faut rajoutez des glaçons) avec votre frimousse tournée vers le soleil et vos petites fesses posées sur une chaise !
 
 Pour ma part les vacances se terminent, je remonte dans le Nord mercredi ! Je n’ai pas à me plaindre j’ai eu du soleil pendant 1 mois ! Même si retrouver la grisaille et la pluie ne m’enchante pas, j’ai hâte de retrouver mon Hom, Mr Chat et mon petit appart !
@@ -44,4 +44,4 @@ D’ailleurs une petite photo de mon Mr Chat, parce qu’il est trop choubidou n
 
 Bon dimanche à toutes et à tous ! (Et merci d’être de plus en plus nombreux à chaque fois) Des bisous !
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

@@ -3,9 +3,9 @@ type: post
 title: Dips de poulet Indiens
 date: 2012-03-19T20:20:00+00:00
 thumbnail: https://crokmou.com/images/20120318_Dips_Poulet_Indien_0034.jpg
-categories: 
+categories:
   - Apéritifs
-tags: 
+tags:
   - aperitif
   - citron
   - citron vert
@@ -26,22 +26,22 @@ Bien le bonsoir mes gourmands, j’espère que vous avez passé un bon week end.
 
 Pour 4 personnes
 
-– 3 filets de poulet  
-– 3 yaourts nature (de type bulgare 0%)  
-– 1/2 oignon  
-– 1 citron vert  
-– 10/15 feuilles de menthe fraîche  
-– 1 càc de curry  
-– 1 càc de curcuma  
-– 1 càc de paprika doux  
-– 1 càc de coriandre en poudre  
+– 3 filets de poulet
+– 3 yaourts nature (de type bulgare 0%)
+– 1/2 oignon
+– 1 citron vert
+– 10/15 feuilles de menthe fraîche
+– 1 càc de curry
+– 1 càc de curcuma
+– 1 càc de paprika doux
+– 1 càc de coriandre en poudre
 – Sel & poivre
 
-1- A l’aide de votre robot, mixez l’oignon, le jus de citron vert, un yaourt et les épices jusqu’à l’obtention d’une pâte. Salez et poivrez à votre convenance.  
-2- Coupez vos filets de poulet en lanières (pas trop fines afin que celles-ci ne cuisent pas trop vite). Une fois ceci fait, disposez le poulet dans un plat creux et versez par dessus votre marinade (épices/yaourt/citron). Réservez au frais durant 4h/  
-3- Pendant ce temps, préparez la sauce à Dips : Dans un bol, versez deux yaourts, la menthe ciselée et mélangez. Salez et poivrez comme vous le souhaitez et mettez le tout au frais.  
-4- Une fois les 4h passées, faites préchauffer votre four en position grill (faites BIEN préchauffer votre four, car évidemment je l’ai mal fait et mes dips ont trop cuits ^^ »)  
-5- Disposez vos lanières de poulet sur une grille au dessus de votre lèche frite (oui parce que ca va gouliner un peu partout dans votre four si vous ne mettez pas la lèche frite !)) et enfournez pour environ 6 minutes (en prenant soin de retourner les dips à mi-cuisson)  
+1- A l’aide de votre robot, mixez l’oignon, le jus de citron vert, un yaourt et les épices jusqu’à l’obtention d’une pâte. Salez et poivrez à votre convenance.
+2- Coupez vos filets de poulet en lanières (pas trop fines afin que celles-ci ne cuisent pas trop vite). Une fois ceci fait, disposez le poulet dans un plat creux et versez par dessus votre marinade (épices/yaourt/citron). Réservez au frais durant 4h/
+3- Pendant ce temps, préparez la sauce à Dips : Dans un bol, versez deux yaourts, la menthe ciselée et mélangez. Salez et poivrez comme vous le souhaitez et mettez le tout au frais.
+4- Une fois les 4h passées, faites préchauffer votre four en position grill (faites BIEN préchauffer votre four, car évidemment je l’ai mal fait et mes dips ont trop cuits ^^ »)
+5- Disposez vos lanières de poulet sur une grille au dessus de votre lèche frite (oui parce que ca va gouliner un peu partout dans votre four si vous ne mettez pas la lèche frite !)) et enfournez pour environ 6 minutes (en prenant soin de retourner les dips à mi-cuisson)
 6- Avant de passer à l’apéro, disposez votre sauce à la menthe dans de petits récipients et servez les dips encore chauds !
 
 **Alors qu’en pensez vous ? Le fait de vous proposer des recettes un peu plus « lights », cela vous plait ?** ** ** **Oh et vous savez quoi ? Cro’K’Mou de nouveau à la une sur HelloCoton et en très bonne compagnie avec [Confessions d’une gourmande](http://confessionsdunegourmande.over-blog.com/article-chiffonade-de-jambon-cru-a-l-oeuf-mollet-aux-noisettes-101628975.html) et [La vie se mange](http://www.hellocoton.fr/to/kAZt#http://la-vie-se-mange.blogspot.com/2012/03/tarte-et-tartelettes-aux-fraises.html) !** ** **

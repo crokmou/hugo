@@ -3,9 +3,9 @@ type: post
 title: Cake moelleux tout chocolat
 date: 2014-01-16T19:08:00+00:00
 thumbnail: https://crokmou.com/images/140114_cake_chocolat_moelleux.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - cake
   - chocolat
   - comfort food
@@ -24,13 +24,13 @@ La recette est des plus simple à réaliser, on peut y intégrer des fruits secs
 
 Pour 1 cake
 
-– 100g de chocolat noir  
-– 2 oeufs  
-– 140g de cassonade brune  
-– 1 yaourt nature  
-– 150g de farine  
-– 1/3 d’un sachet de levure chimique  
-– 10cl d’huile d’olive  
+– 100g de chocolat noir
+– 2 oeufs
+– 140g de cassonade brune
+– 1 yaourt nature
+– 150g de farine
+– 1/3 d’un sachet de levure chimique
+– 10cl d’huile d’olive
 – 2/3 càs de chocolat en poudre (Facultatif // Ici c’est tantôt Nesquik tantôt Ovomaltine)
 
 1) Préchauffez votre four à 180°C2) Dans un saladier, à l’aide d’un [fouet](http://www.rueducommerce.fr/index/ustensile%20Fouet%20inox) battez les oeuf avec la cassonade, ajoutez ensuite la farine, la levure puis le chocolat (préalablement fondu au [micro-ondes](http://www.rueducommerce.fr/m/pl/malid:29456719) avec un peu d’eau), le yaourt et l’huile. Mélangez bien jusqu’à ce que la préparation soit homogène.
@@ -45,4 +45,4 @@ Pour 1 cake
 
 Comme certains d’entre vous le savent déjà, je mange très peu de mes pâtisseries… En fait je ne suis pas très sucré mais ce cake c’est un des seul que je mange sans me forcer et avec gaieté de cœur ! Et vous votre pâtisserie favorite ?
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

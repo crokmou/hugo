@@ -3,9 +3,9 @@ type: post
 title: Cookies chocolat noir framboise Cémoi
 date: 2012-05-14T17:58:00+00:00
 thumbnail: https://crokmou.com/images/20120513_Cookies_Framboise_Chocolat_C--moi_Nature_0003.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - cemoi
   - chocolat
   - chocolat noir
@@ -19,27 +19,27 @@ slug: cookies-chocolat-noir-framboise-cemoi
 
 Nous y voilà ! Je vous l’avez dit dans l’article précédent, une petite recette avec le [chocolat Cémoi](http://www.jaimelechocolat.fr/chocolat-guimauve/tablettes-chocolat.html) était en préparation. Bon à la base il était question d’éclairs chocolat/framboise mais n’ayant que peu de temps devant moi j’ai donc fait des cookies qui changent un peu de l’ordinaire ! Vous aimez les fruits, le moelleux et le croquant ? Le bon goût de biscuit et la douceur du chocolat ? Et bien cette recette est faite pour vous ! (Oui oui je me lance dans la publicité !). Non plus sérieusement c’est CRO BON !
 
-[Le chocolat noir aux framboises Cémoi](http://www.jaimelechocolat.fr/tablette-chocolat-bio-framboise-55-cacao.html/), dans les cookies on ne sent plus trop le goût de framboise (ce pourquoi j’en ai ajouté pour la recette), mais a déguster comme ca, le chocolat est excellent (comme tous les autres d’ailleurs). Une petite pointe d’acidité en bouche apporté par la framboise, mélangée à la douceur et au crémeux du chocolat !  
+[Le chocolat noir aux framboises Cémoi](http://www.jaimelechocolat.fr/tablette-chocolat-bio-framboise-55-cacao.html/), dans les cookies on ne sent plus trop le goût de framboise (ce pourquoi j’en ai ajouté pour la recette), mais a déguster comme ca, le chocolat est excellent (comme tous les autres d’ailleurs). Une petite pointe d’acidité en bouche apporté par la framboise, mélangée à la douceur et au crémeux du chocolat !
 Et puis un cookies avec des framboises dedans ca rend la chose moins diabolique (avant les sorties en bikini !).
 
 Pour la recette, [celle de Cécile](http://mesgateauxrigolos.over-blog.com/article-32844330.html) (du blog Mes gateaux rigolos) m’a bien aidée ! Munissez vous d’un [four à micro-ondes](http://www.rueducommerce.fr/m/pl/malid:29456719) (pour les flemmardes comme moi qui n’ont pas l’envie d’attendre que le beurre devienne « pommade »), d’un [tablier](http://www.rueducommerce.fr/m/pl/malid:261), d’un [bol](http://www.rueducommerce.fr/m/pl/malid:4769881) (pour tout mélanger), des vos mimines (pour malaxer), d’une belle [assiette](http://www.rueducommerce.fr/m/pl/malid:4769879) (pour présenter) ou d’un [mug](http://www.rueducommerce.fr/m/pl/malid:4769906) rempli de café (pour savourer)
 
 Pour 20 gros cookies
 
--100g de beurre  
--100g de sucre  
--1 oeufs  
--175g de farine  
--1/2 càc de levure chimique  
--100g de chocolat [Cémoi NATURE à la framboise](http://www.jaimelechocolat.fr/tablette-chocolat-bio-framboise-55-cacao.html/)  
+-100g de beurre
+-100g de sucre
+-1 oeufs
+-175g de farine
+-1/2 càc de levure chimique
+-100g de chocolat [Cémoi NATURE à la framboise](http://www.jaimelechocolat.fr/tablette-chocolat-bio-framboise-55-cacao.html/)
 -50g de framboises
 
-1- Préchauffez votre four à 180°C  
-2- Dans un saladier, mettez le beurre pommade (ou fondu pour moi)et le sucre puis mélangez bien.  
-3- Ajoutez les oeufs et mélangez de nouveau (énergiquement) !  
-4- Ajoutez ensuite la farine et la levure, et de nouveau battre le tout  
-5- Coupez votre chocolat et vos framboises en morceaux et ajoutez les à la préparation. Mélangez avec vos petites mains.  
-6- Faites des petits tas de pâtes sur la plaque du four préalablement recouverte de paper sulfurisé  
+1- Préchauffez votre four à 180°C
+2- Dans un saladier, mettez le beurre pommade (ou fondu pour moi)et le sucre puis mélangez bien.
+3- Ajoutez les oeufs et mélangez de nouveau (énergiquement) !
+4- Ajoutez ensuite la farine et la levure, et de nouveau battre le tout
+5- Coupez votre chocolat et vos framboises en morceaux et ajoutez les à la préparation. Mélangez avec vos petites mains.
+6- Faites des petits tas de pâtes sur la plaque du four préalablement recouverte de paper sulfurisé
 7- Enfournez pour 15 min, une fois cuits, laissez refroidir et dégustez pas la suite !
 
 Je suis sur que votre gourmandise s’est réveillée après ca ! Et pour le plaisir des yeux et non des papilles cette fois, une petite série de photographies : **Photographe: **_Mark Seliger_** | ****Modèle:** _Emma Watson _| **Client:** _Vogue Italie _| **Date:** _2008_

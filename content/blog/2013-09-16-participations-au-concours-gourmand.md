@@ -2,7 +2,7 @@
 type: post
 title: Participations au concours gourmand
 date: 2013-09-16T08:08:00+00:00
-categories: 
+categories:
   - Lifestyle
 disqusId: 3587683325
 slug: participations-au-concours-gourmand
@@ -844,5 +844,4 @@ J’attends vos recettes avec impatience !
 
 A bientôt les amis !
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○  
-  
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

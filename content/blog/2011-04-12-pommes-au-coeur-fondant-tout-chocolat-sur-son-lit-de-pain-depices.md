@@ -3,9 +3,9 @@ type: post
 title: "Pommes au cœur fondant tout chocolat sur son lit de pain d'épices"
 date: 2011-04-12T14:26:00+00:00
 thumbnail: https://crokmou.com/images/Pommes-coeur-chocolat.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - cannelle
   - chocolat
   - chocolat noir

@@ -3,9 +3,9 @@ type: post
 title: "Ch'tites madeleines au Maroilles"
 date: 2011-11-05T21:46:00+00:00
 thumbnail: https://crokmou.com/images/20111103_madeleine_maroille_1.jpg
-categories: 
+categories:
   - Apéritifs
-tags: 
+tags:
   - aperitif
   - fromage
   - lait
@@ -19,18 +19,18 @@ De retour de vacances, pas très long mais qu’est ce que cela fait du bien ! U
 
 Pour 30 madeleines
 
-– 150g de farine  
-– 75g de beurre  
-– 200g de Maroilles  
-– 1 sachet de levure chimique  
-– 2 oeuf  
+– 150g de farine
+– 75g de beurre
+– 200g de Maroilles
+– 1 sachet de levure chimique
+– 2 oeuf
 – 10cl de lait (utile si votre pâte vous semble trop épaisse)
 
-1- Dans un saladier mélangez votre farine avec la levure et les oeufs.  
-2- Ajoutez le beurre préalablement fondu et mélangez bien.  
-3- Découpez votre Maroilles en petit dès et ajoutez à la préparation, mélangez de nouveau.  
-4- Placez votre mélange 30min au réfrigérateur afin que celui-ci soit « frais »  
-5- Préchauffez votre four à 200°C  
+1- Dans un saladier mélangez votre farine avec la levure et les oeufs.
+2- Ajoutez le beurre préalablement fondu et mélangez bien.
+3- Découpez votre Maroilles en petit dès et ajoutez à la préparation, mélangez de nouveau.
+4- Placez votre mélange 30min au réfrigérateur afin que celui-ci soit « frais »
+5- Préchauffez votre four à 200°C
 6- Versez votre pâte dans vos moules à madeleines et enfournez pendant 10 à 12 minutes. Vos madeleines doivent être bien dorées
 
 Dégustez ces petites madeleines tièdes (avec le Maroilles encore fondant)

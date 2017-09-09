@@ -3,9 +3,9 @@ type: post
 title: 'Edamame, fève de soya {Découverte ingrédient}'
 date: 2013-01-09T20:02:00+00:00
 thumbnail: https://crokmou.com/images/20130109_edame_feve_soya_decouverte_ingredient_0077.jpg
-categories: 
+categories:
   - Apéritifs
-tags: 
+tags:
   - aperitif
   - edamame
   - japonais
@@ -32,4 +32,4 @@ Par chance en me baladant dans les rayons de Picard la dernière fois, j’ai pu
 
 **Et vous, avez vous déjà goûté les edamames ? Qu’en pensez vous ?**
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

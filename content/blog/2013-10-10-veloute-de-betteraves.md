@@ -3,9 +3,9 @@ type: post
 title: 'Velouté de betteraves et chips {Octobre rose}'
 date: 2013-10-10T17:45:00+00:00
 thumbnail: https://crokmou.com/images/crokmou.com_soupe_rose_betterave_chips_octobre_rose.jpg
-categories: 
+categories:
   - Plats
-tags: 
+tags:
   - aperitif
   - betterave
   - cancer sein
@@ -36,22 +36,22 @@ Avant ça je n’avais jamais mangé de velouté à la betterave et bien sachez 
 
 Pour 4 bols
 
-Pour la soupe :  
-– 600g de betteraves rouges  
-– 150g de pommes de terre  
-– eau  
-– lait  
+Pour la soupe :
+– 600g de betteraves rouges
+– 150g de pommes de terre
+– eau
+– lait
 – sel & poivre
 
 Pour les chips (1 petit bol): – 3/4 betteraves – huile – sel & poivre – épices (facultatif) **○○○**
 
-1- Pour la soupe : Epluchez vos légumes et coupez les en morceaux.  
-2- Mettre le tout dans une grosse casserole et versez de l’eau jusqu’à ce qu’elle recouvre les ingrédients au 3/4\. Ajoutez ensuite le lait pour qu’il recouvre tous les ingrédients. Vous pouvez éventuellement ajouter un bouillon de légumes. Faites cuire durant 40/45 minutes à feu moyen/doux.  
-3- Lorsque tout est bien cuit, passez le tout au mixer.  
+1- Pour la soupe : Epluchez vos légumes et coupez les en morceaux.
+2- Mettre le tout dans une grosse casserole et versez de l’eau jusqu’à ce qu’elle recouvre les ingrédients au 3/4\. Ajoutez ensuite le lait pour qu’il recouvre tous les ingrédients. Vous pouvez éventuellement ajouter un bouillon de légumes. Faites cuire durant 40/45 minutes à feu moyen/doux.
+3- Lorsque tout est bien cuit, passez le tout au mixer.
 4- Salez, poivrez et votre soupe est prête !
 
 5- Pour les chips (1 petit bol): Préchauffez votre four à 100°C 6- Epluchez vos betteraves et à l’aide d’une mandoline (ou un économe en faisant trèèès attention), coupez de fines tranches d’environ 1 ou 2mm d’épaisseur. 7- Disposez vos chips sur une plaque à four préalablement recouverte de papier sulfurisé légèrement huilé. Salez, poivrez ou saupoudrez d’épices. Enfournez pour environ 1h en retournant vos chips de temps en temps. 8- Laissez les chips refroidir dans le four éteint et ensuite dégustez !Facile n’est ce pas ? Pour les chips vous pouvez faire ça avec pas mal de légumes notamment les carottes ! Je vous souhaite à tous une très bonne soirée et n’oubliez pas de parler de ce dépistage autour de vous, c’est important ! Des bisous les gourmands !
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 
  

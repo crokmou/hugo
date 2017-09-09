@@ -3,9 +3,9 @@ type: post
 title: 'Polenta aux cèpes {Casa di Cecco}'
 date: 2013-11-12T19:10:00+00:00
 thumbnail: https://crokmou.com/images/casa_di_cecco_polenta_cepe_0006.jpg
-categories: 
+categories:
   - Plats
-tags: 
+tags:
   - casa di cecco
   - cepe
   - champignon
@@ -25,17 +25,17 @@ Laissez moi vous dire que ces produits sont délicieux et celui que je vous pré
 
 Pour 4 personnes
 
-– 300g de polenta aux cèpes  
-– 1,5 litre d’eau  
-– 1 càs de crème fraîche  
-– 100g de parmesan  
+– 300g de polenta aux cèpes
+– 1,5 litre d’eau
+– 1 càs de crème fraîche
+– 100g de parmesan
 – sel & poivre
 
 **○○○**
 
-1- Faites bouillir votre casserole d’eau salée (certains font moitié eau/moitié lait à vous de voir)  
-2- Versez votre polenta en pluie tout en mélangeant à l’air d’un fouet ou d’une spatule, mélangez pendant 5 minutes à feu doux, faites attention à ne pas faire de grumeaux. Coupez le feu et mélangez encore 5 bonnes minutes  
-3- Ajoutez une cuillère à soupe de crème fraiche et mélangez à nouveau.  
+1- Faites bouillir votre casserole d’eau salée (certains font moitié eau/moitié lait à vous de voir)
+2- Versez votre polenta en pluie tout en mélangeant à l’air d’un fouet ou d’une spatule, mélangez pendant 5 minutes à feu doux, faites attention à ne pas faire de grumeaux. Coupez le feu et mélangez encore 5 bonnes minutes
+3- Ajoutez une cuillère à soupe de crème fraiche et mélangez à nouveau.
 4- Servez dans des assiettes avec un peu de parmesan et des tranches d’un délicieux jambon Italien !
 
 Astuce : Versez votre polenta dans un plat à gratin, disposez dessus des tranches de jambon sec puis saupoudrez de parmesan. Laissez au four 10 minutes à 200°C puis passez le tout quelques minutes sous le grill, vous verrez c’est délicieux !
@@ -52,6 +52,6 @@ A très bientôt pour une nouvelle recette !
 
 Des poutoux !
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 
 *Produits offerts (néanmoins on ne m’a pas mi de couteaux sous la gorge pour en parler ;))

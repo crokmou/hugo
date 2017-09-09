@@ -2,7 +2,7 @@
 type: post
 title: Culinaria 2013, Pure Street
 date: 2013-04-30T17:37:00+00:00
-categories: 
+categories:
   - Lifestyle
 disqusId: 3833657327
 slug: culinaria-2013-pure-street
@@ -54,7 +54,7 @@ Damien et Bénédicte Bouchéry ([Bouchery](http://www.bouchery-restaurant.be/i
 
 Giovanni  Bruno ([Senza Nome](http://www.senzanome.be/) *), Julien Burlat ([Dôme](http://www.domeweb.be/) *), Bart De Pooter ([Pastorale](http://www.depastorale.be/) **), Sang Hoon Degeimbre ([L’Air du Temps](http://www.airdutemps.be/) **), Pascal Devalkeneer ([Le Chalet dela Forêt](http://www.lechaletdelaforet.be/) **), Mario Elias ([Le Cor de Chasse](http://www.lecordechasse.be/) *), Laurent & Vincent Folmer ([Couvert Couvert](http://www.couvertcouvert.be/) *), Dimitri Leysens ([Magis](http://www.restaurantmagis.be/) *), Yves Mattagne ([Sea Grill](http://www.seagrill.be/) **), Arabelle Meirlaen ([Li Cwerneu](http://www.licwerneu.be/) *), Franky Vanderhaeghe ([Hostellerie St-Nicolas](http://www.hostellerie-stnicolas.com/) **), Laury Zioui ([L’Eveil des Sens](http://www.leveildessens.be/) *), Kamo Tomoyasu (Kamo *), Viki Geunes ([‘t Zilte](http://www.tzilte.be/)**), Benoit Dewitte ([Bernard & Benoit Dewitte](http://www.benoitdewitte.be/) *) et Axel Colonna ([Cent Pourcent](http://www.centpourcent.be/) *).
 
-– Les desserts gourmands : 
+– Les desserts gourmands :
 
 Pierre Marcolini ([MaisonPierre Marcolini](http://www.marcolini.be/)), Joost Arijs ([Joost Arijs](http://www.joostarijs.be/)), Marc Ducobu ([Ducobu](http://www.ducobu.be/)) et Jean-Philippe Darcis ([Darcis](http://darcis.com/)).
 
@@ -90,12 +90,12 @@ Amusez vous et découvrez tout cela dans ce lieu hors-norme qu’est la Gare Mar
 
 <div style="clear: both; text-align: center;">[![](http://www.crokmou.com/wp-content/uploads/2013/04/JJ4_3765-300x2001-300x200.jpg)](http://www.crokmou.com/wp-content/uploads/2013/04/JJ4_3765-300x2001.jpg)
 
-Alors tentés par l’aventure [Culinaria](http://www.culinariasquare.com/) ? Pour ma part j’ai la chance d’y avoir été invitée pour l’ouverture le Mercredi 29 Mai, peut être aurais-je la chance de vous croiser 😉 
+Alors tentés par l’aventure [Culinaria](http://www.culinariasquare.com/) ? Pour ma part j’ai la chance d’y avoir été invitée pour l’ouverture le Mercredi 29 Mai, peut être aurais-je la chance de vous croiser 😉
 
 Je vous invite dans tous les cas à faire un petit saut sur le [site internet officiel](http://www.culinariasquare.com/) de l’évenement afin de découvrir les différents plats proposés par les chefs lors de Culinaria, les artistes associés à chaque chef, mais aussi les dates, les infos pratiques, les reservations tout ça tout ça !
 
 A bientôt les gourmands ! Et n’oubliez pas de reserver vos places 😉
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 
 </div>

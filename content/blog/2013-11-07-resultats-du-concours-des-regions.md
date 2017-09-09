@@ -2,7 +2,7 @@
 type: post
 title: Résultats du concours des Régions
 date: 2013-11-07T17:26:00+00:00
-categories: 
+categories:
   - Lifestyle
 disqusId: 3587683591
 slug: resultats-du-concours-des-regions
@@ -22,9 +22,9 @@ Pour être la plus juste possible dans les résultats, j’ai invité plusieurs 
 
 – Jean Christophe du blog [le cercle d’Epicure](http://www.lecercledepicure.com/)
 
-Mais aussi 
+Mais aussi
 
-– L’Equipe de la [Conserverie au Bec fin](http://www.au-bec-fin.com/), Aurore du blog Beauté [« What a girl can do »](http://www.whatagirlcando.be/),  Sarah amie photographe, Jillou amie princesse à paillettes, mon hom grand gourmand et moi même. Soit un jury composé de 10 personnes, autrement dit chacun à eu toutes ses chances car chaque jury à son propre avis ! 
+– L’Equipe de la [Conserverie au Bec fin](http://www.au-bec-fin.com/), Aurore du blog Beauté [« What a girl can do »](http://www.whatagirlcando.be/),  Sarah amie photographe, Jillou amie princesse à paillettes, mon hom grand gourmand et moi même. Soit un jury composé de 10 personnes, autrement dit chacun à eu toutes ses chances car chaque jury à son propre avis !
 
 A la suite des résultats je noterai les choix (j’ai demandé à ce que chacun fasse un choix de 6 personnes au lieu de 5 au cas où il y a des exæquo (ce qui a été le cas pour les deux premiers) de chacun des juges.
 
@@ -48,7 +48,7 @@ A la suite des résultats je noterai les choix (j’ai demandé à ce que chacun
 
 [![](http://www.crokmou.com/wp-content/uploads/2013/11/8346944591.jpg)](http://www.crokmou.com/wp-content/uploads/2013/11/8346944591.jpg)
 
-Bravo, bravo ! Kampaï ! 
+Bravo, bravo ! Kampaï !
 
 [![](http://www.crokmou.com/wp-content/uploads/2013/11/pikachu___gangnam_style_by_mnrart-d5hdd261.gif)](http://www.crokmou.com/wp-content/uploads/2013/11/pikachu___gangnam_style_by_mnrart-d5hdd261.gif)
 
@@ -98,4 +98,4 @@ Voilà voilà ! Merci encore à tous et bonne fin de journée les gourmands !
 
 Des poutoux !
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

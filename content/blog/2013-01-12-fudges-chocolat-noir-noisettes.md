@@ -3,9 +3,9 @@ type: post
 title: Fudges chocolat noir, noisettes
 date: 2013-01-12T11:06:00+00:00
 thumbnail: https://crokmou.com/images/20130109_fudge_chocolat_noir_noisette_0013.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - caramel
   - chocolat noir
   - fudge
@@ -20,16 +20,16 @@ Les fudge c’est super simple à réaliser et très rapide ! Pas besoin d’avo
 
 Pour 1 moule carré de 15x15cm
 
-– 260g de lait concentré sucré  
-– 300g de chocolat noir (ou blanc, ou au lait)  
-– 10g de beurre  
+– 260g de lait concentré sucré
+– 300g de chocolat noir (ou blanc, ou au lait)
+– 10g de beurre
 – 70g de noisettes grillées
 
-1- Faites chauffer le lait concentré sucré et le beurre au bain marie  
-2- Ajoutez en deux fois le chocolat coupé en morceaux, mélangez à chaque fois.  
-3- Laissez cuire quelques minutes en remuant le tout de temps en temps à l’aide d’une spatule.  
-4- Lorsque le mélangez épaissit, ajoutez les noisettes grillées et mélangez. Versez ensuite votre préparation dans votre moule carré préalablement chemisé de papier sulfurisé (voici –[ici](http://puzzlencuisine.be/news/tapisser-ou-chemiser-un-moule-rectangulaire)– pour chemiser un moule, rectangulaire ou carré procédez de la même manière plus ou moins). Etalez correctement votre préparation pour que tout soit au même niveau et si possible lisse.  
-5- Laissez au frigo au moins 24h avant de démouler  
+1- Faites chauffer le lait concentré sucré et le beurre au bain marie
+2- Ajoutez en deux fois le chocolat coupé en morceaux, mélangez à chaque fois.
+3- Laissez cuire quelques minutes en remuant le tout de temps en temps à l’aide d’une spatule.
+4- Lorsque le mélangez épaissit, ajoutez les noisettes grillées et mélangez. Versez ensuite votre préparation dans votre moule carré préalablement chemisé de papier sulfurisé (voici –[ici](http://puzzlencuisine.be/news/tapisser-ou-chemiser-un-moule-rectangulaire)– pour chemiser un moule, rectangulaire ou carré procédez de la même manière plus ou moins). Etalez correctement votre préparation pour que tout soit au même niveau et si possible lisse.
+5- Laissez au frigo au moins 24h avant de démouler
 6- Une fois le temps écoulé, démoulez et coupez des petits cubes de fudge, dégustez ensuite avec un café, des amis, devant la télé ou tout simplement par gourmandise !
 
 ** **
@@ -42,4 +42,4 @@ Je vous souhaite à tous de passer un très bon week end, profitez bien ! Mon we
 
 Des bisous
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

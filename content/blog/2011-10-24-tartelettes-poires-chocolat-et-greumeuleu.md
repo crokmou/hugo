@@ -3,9 +3,9 @@ type: post
 title: Tartelettes poires, chocolat et greumeuleu
 date: 2011-10-24T18:46:00+00:00
 thumbnail: https://crokmou.com/images/IMG_4703.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - chocolat
   - chocolat noir
   - dessert

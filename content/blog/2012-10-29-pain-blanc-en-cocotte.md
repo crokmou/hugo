@@ -3,9 +3,9 @@ type: post
 title: Pain blanc en cocotte
 date: 2012-10-29T15:40:00+00:00
 thumbnail: https://crokmou.com/images/20121029_pain_blanc_cuisson_cocotte_fonte_0002.jpg
-categories: 
+categories:
   - Boulangerie
-tags: 
+tags:
   - boulangerie
   - cuisson cocotte
   - fait maison
@@ -27,17 +27,17 @@ Pour tout vous dire je suis très très satisfaite du résultat ! La croûte est
 
 Pour 1 pain
 
-– 400g de farine  
-– 2 pincée de sel  
-– 1 sachet de levure de boulanger sèche  
+– 400g de farine
+– 2 pincée de sel
+– 1 sachet de levure de boulanger sèche
 – 375ml d’eau tiède
 
-1- Versez la farine et le sel dans un grand saladier, ajoutez ensuite la levure sèche. Mélangez bien le tout.  
-2- Ajoutez maintenant l’eau et mélangez votre préparation. Celle-ci doit être homogène mais assez « liquide ».  
-3- Couvrez le saladier avec du film alimentaire et laissez reposer entre 12 et 18h à température ambiante.  
-4- Préchauffez votre four à 230°C avec à l’intérieur votre cocotte en fonte fermée (par son couvercle)  
-5- Pendant ce temps, versez votre pâte à pain sur un plan de travail bien (très bien même) fariné. Formez une boule (attention la pâte colle un peu beaucoup)  
-6- Lorsque votre four est bien chaud, sortez la cocotte et disposez votre pâte à pain à l’intérieur (nul besoin de gras ou autre) et refermez là. Mettez le tout à cuire pendant 50 min (lors des 20 dernières minutes, retirez le couvercle de la cocotte)  
+1- Versez la farine et le sel dans un grand saladier, ajoutez ensuite la levure sèche. Mélangez bien le tout.
+2- Ajoutez maintenant l’eau et mélangez votre préparation. Celle-ci doit être homogène mais assez « liquide ».
+3- Couvrez le saladier avec du film alimentaire et laissez reposer entre 12 et 18h à température ambiante.
+4- Préchauffez votre four à 230°C avec à l’intérieur votre cocotte en fonte fermée (par son couvercle)
+5- Pendant ce temps, versez votre pâte à pain sur un plan de travail bien (très bien même) fariné. Formez une boule (attention la pâte colle un peu beaucoup)
+6- Lorsque votre four est bien chaud, sortez la cocotte et disposez votre pâte à pain à l’intérieur (nul besoin de gras ou autre) et refermez là. Mettez le tout à cuire pendant 50 min (lors des 20 dernières minutes, retirez le couvercle de la cocotte)
 7- Une fois votre pain cuit et bien coloré, sortez le de la cocotte et disposez le sur une grille afin qu’il reste croustillant.
 
 Lorsque votre pain est refroidit, dégustez le avec de la confiture, du caramel beurre salé, de la pâte à tartiner … ou vous pouvez tout simplement vous faire un bon sandwich ! Alors qu’en pensez vous ? Séduit(e)s ? Moi en tout cas je le suis ! N’oubliez pas de réfléchir à votre prochaine recette de cupcakes ! Parce que oui, j’aimerai beaucoup que vous participiez à [mon concours](http://www.crokmou.com/2012/10/concours-recette-cupcake-partenaire-petitplat.fr.html) en partenariat avec PetitPlat.fr (j’aime être tentée par vos gateaux gourmands) !
@@ -46,5 +46,4 @@ Lorsque votre pain est refroidit, dégustez le avec de la confiture, du caramel 
 
 A bientôt (et je n’oublie pas les tags, j’y réfléchi ne vous inquiétez pas =p) Des bisous !
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○  
-  
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

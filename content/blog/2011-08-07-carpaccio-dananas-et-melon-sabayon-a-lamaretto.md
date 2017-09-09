@@ -3,9 +3,9 @@ type: post
 title: "Carpaccio d'ananas et melon, sabayon à l'amaretto"
 date: 2011-08-07T11:22:00+00:00
 thumbnail: https://crokmou.com/images/IMG_2786.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - alcool
   - amaretto
   - ananas
@@ -30,24 +30,24 @@ Tout ça sur une présentation au bord la piscine (si ça c’est pas les vacanc
 
 Pour 4 personnes
 
--1 ananas  
--1 melon  
--4 jaunes d’oeufs  
--70g de sucre pour le sabayon (+ un peu pour la caramélisation)  
--5cl d’eau  
+-1 ananas
+-1 melon
+-4 jaunes d’oeufs
+-70g de sucre pour le sabayon (+ un peu pour la caramélisation)
+-5cl d’eau
 -3 cl d’amaretto
 
-**Pour le carpaccio :**  
-1- Coupez vos fruits en fines lamelles (servez vous d’une mandoline)  
-2- Dans une poêle chaude, saupoudrez d’un peu de sucre et placez les ananas  
-3- Laissez caraméliser, et disposez ensuite vos tranches d’ananas dans de petits moules afin de former un rond  
+**Pour le carpaccio :**
+1- Coupez vos fruits en fines lamelles (servez vous d’une mandoline)
+2- Dans une poêle chaude, saupoudrez d’un peu de sucre et placez les ananas
+3- Laissez caraméliser, et disposez ensuite vos tranches d’ananas dans de petits moules afin de former un rond
 4- Ajoutez ensuite les fines tranches de melon, tout en continuant le cercle, puis de nouveau des tranches d’ananas (d’en haut le tout doit ressembler a une rosace)
 
-**Pour le sabayon :**  
-1- Faites chauffer une casserole d’eau, nous allons faire le sabayon au bain marie  
-2- Dans un saladier, battre les jaunes d’oeufs avec le sucre jusqu’à ce que la préparation blanchisse.  
-3- Placez le saladier au dessus de la casserole d’eau bouillante et fouetter la préparation, vous verrez cela va devenir mousseux  
-4- En en cessant de fouetter, ajoutez l’eau et l’amaretto, le mélange va s’épaissir  
+**Pour le sabayon :**
+1- Faites chauffer une casserole d’eau, nous allons faire le sabayon au bain marie
+2- Dans un saladier, battre les jaunes d’oeufs avec le sucre jusqu’à ce que la préparation blanchisse.
+3- Placez le saladier au dessus de la casserole d’eau bouillante et fouetter la préparation, vous verrez cela va devenir mousseux
+4- En en cessant de fouetter, ajoutez l’eau et l’amaretto, le mélange va s’épaissir
 5- Une fois le sabayon mousseux et a bonne consistance, versez-en dans des petits verres ou tout simplement sur votre carpaccio
 
 </div>

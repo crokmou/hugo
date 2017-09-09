@@ -2,9 +2,9 @@
 type: post
 title: Crème dessert vanille
 date: 2011-05-09T16:42:00+00:00
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - creme dessert
   - dessert
   - lait
@@ -34,7 +34,7 @@ Aujourd’hui ce sera donc des petites crèmes toutes douces à la vanille, cela
 [![](http://1.bp.blogspot.com/-5-w_HZWR-vU/TcgHksh9RpI/AAAAAAAAAHc/FGtDbg7hJAM/s400/Cre%25CC%2580me+vanille+2.jpg)](http://1.bp.blogspot.com/-5-w_HZWR-vU/TcgHksh9RpI/AAAAAAAAAHc/FGtDbg7hJAM/s1600/Cre%25CC%2580me+vanille+2.jpg)
 
 3.  Dans une casserole, mettre le lait et le beurre.
-4.  Fendez la gousse de vanille dans le sens de la longueur (avec la lame d’un couteau), grattez l’intérieur pour récupérer les graines. 
+4.  Fendez la gousse de vanille dans le sens de la longueur (avec la lame d’un couteau), grattez l’intérieur pour récupérer les graines.
 5.  Ajoutez les graines de vanille ainsi que la gousse dans le mélange lait/beurre. Faire chauffer le mélange de la casserole jusqu’à ébullition.
 6.  Pendant ce temps (surveillez bien le lait de temps à autre… ma casserole a crachouillé aujourd’hui :$), dans un petit récipient mélangez les jaunes d’oeufs, le sucre puis la farine(ainsi que l’arôme vanille pour qui le veut).
 7.  Versez votre mélange de lait bien chaud sur la préparation oeufs/sucre/farine et mélangez bien.

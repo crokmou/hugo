@@ -3,9 +3,9 @@ type: post
 title: Panna cotta vegan vanille, rhubarbe
 date: 2013-04-19T16:00:00+00:00
 thumbnail: https://crokmou.com/images/20130418_panna_cotta_vegan_vanille_gelee_rhubarbe__0038.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - confiture
   - dessert
   - fruit
@@ -18,14 +18,24 @@ tags:
   - soya
   - vanilla
   - vanille
-ingredient_qty: 
+ingredient_qty:
   - Pour 4 panna cotta vegan
 ingredient_textarea: |
-  - |
-  > ## Pour la panna cotta :
-  > > * 250ml de crème de soja> * 150ml de lait de soja> * 2g d'agar-agar> * 1/2 gousse de vanille
-  > ## Pour la gelée et la confiture :
-  > > * rhubarbe (4/5 tiges)> * 600ml d'eau> * 300g de sucre> * 1 gousse de vanille> * 2g d'agar-agar
+  ## Pour la panna cotta :
+
+  * 250ml de crème de soja
+  * 150ml de lait de soja
+  * 2g d'agar-agar
+  * 1/2 gousse de vanille
+
+
+  ## Pour la gelée et la confiture :
+
+  * rhubarbe (4/5 tiges)
+  * 600ml d'eau
+  * 300g de sucre
+  * 1 gousse de vanille
+  * 2g d'agar-agar
 disqusId: 3587683930
 slug: panna-cotta-vegan-vanille-rhubarbe
 ---
@@ -40,9 +50,12 @@ Je vous conseille pour plus de tenue, de réaliser vos panna cotta dans un verre
 
 ## **Recette de la panna cotta vegan**
 
-  1\. **La veille de la recette** : Epluchez la rhubarbe et taillez la en petits tronçons, placez la ensuite dans une saladier. Dans une casserole portez à ébullition l’eau, le sucre et la gousse de vanille égrainée. Mélangez et versez ensuite ce mélange encore chaud sur la rhubarbe. Laissez le tout refroidir et réservez au frigo toute la nuit. 2\. **Préparation de la panna cotta** : Dans une casserole, ajoutez la crème, le lait, l’agar-agar et les graines de vanille, mélangez. Portez le tout à ébullition et continuez a mélanger un peu. Répartissez ensuite votre panna cotta dans vos verres et réservez au frigo. 3\. **Préparation de la gelée** : Dans une casserole, ajoutez 200ml du sirop de rhubarbe confite ainsi qu’1g d’agar-agar. Mélangez et portez a ébullition. Versez la préparation sur la panna cotta. Laisser refroidir le tout et réservez au frigo. 4\. **Préparation de la confiture** : Versez dans une casserole le reste de sirop de rhubarbe confite. Portez a ébullition pendant 10 minutes pour que le jus réduise de moitié. Ajoutez ensuite les tronçons de rhubarbe et le reste d’agar-agar, laissez cuire à feu doux/moyen pendant 20/30 minutes. Versez ensuite la confiture dans des bocaux préalablement stérilisés (dans de l’eau bouillante).
+* 1\. **La veille de la recette** : Epluchez la rhubarbe et taillez la en petits tronçons, placez la ensuite dans une saladier. Dans une casserole portez à ébullition l’eau, le sucre et la gousse de vanille égrainée. Mélangez et versez ensuite ce mélange encore chaud sur la rhubarbe. Laissez le tout refroidir et réservez au frigo toute la nuit.
+* 2\. **Préparation de la panna cotta** : Dans une casserole, ajoutez la crème, le lait, l’agar-agar et les graines de vanille, mélangez. Portez le tout à ébullition et continuez a mélanger un peu. Répartissez ensuite votre panna cotta dans vos verres et réservez au frigo.
+* 3\. **Préparation de la gelée** : Dans une casserole, ajoutez 200ml du sirop de rhubarbe confite ainsi qu’1g d’agar-agar. Mélangez et portez a ébullition. Versez la préparation sur la panna cotta. Laisser refroidir le tout et réservez au frigo.
+* 4\. **Préparation de la confiture** : Versez dans une casserole le reste de sirop de rhubarbe confite. Portez a ébullition pendant 10 minutes pour que le jus réduise de moitié. Ajoutez ensuite les tronçons de rhubarbe et le reste d’agar-agar, laissez cuire à feu doux/moyen pendant 20/30 minutes. Versez ensuite la confiture dans des bocaux préalablement stérilisés (dans de l’eau bouillante).
 
-Servez vos panna cotta fraiches avec un peu de confiture dessus, vous verrez c’est un délice ! 
+Servez vos panna cotta fraiches avec un peu de confiture dessus, vous verrez c’est un délice !
 
 Personnellement je suis une grande fan de rhubarbe, et vous ?
 
@@ -56,6 +69,6 @@ _ _
 
 _ _
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 
 _ _

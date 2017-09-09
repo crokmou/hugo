@@ -3,9 +3,9 @@ type: post
 title: Chaï latte
 date: 2014-01-23T15:51:00+00:00
 thumbnail: https://crokmou.com/images/220114-chai-latte-tea.jpg
-categories: 
+categories:
   - Boissons
-tags: 
+tags:
   - boisson
   - cannelle
   - cardamome
@@ -24,13 +24,13 @@ Ce qui est assez génial en prime c’est que c’est simple et hyper rapide à 
 
 Pour 2 mugs
 
-– 1/2 bâton de cannelle  
-– 3 graines de cardamome  
-– 2 grains de poivre noir  
-– 1/2 càc de gingembre en poudre  
-– 1/2 càs de thé noir  
-– 1 mug d’eau  
-– 1/2 mug de lait  
+– 1/2 bâton de cannelle
+– 3 graines de cardamome
+– 2 grains de poivre noir
+– 1/2 càc de gingembre en poudre
+– 1/2 càs de thé noir
+– 1 mug d’eau
+– 1/2 mug de lait
 – sucre
 
 1) Dans une casserole, faites bouillir pendant 3 minutes les épices (cannelle, cardamome, poivre et gingembre) avec l’eau. (Certains moulent leurs épices à l’aide d’un [mortier](http://www.rueducommerce.fr/m/pl/malid:43774615) avant de les ajouter à la casserole)2) Baissez le feu et ajoutez le thé noir, faites bouillir encore 3 minutes
@@ -41,4 +41,6 @@ Pour 2 mugs
 
 Il est tout à fait possible aussi d’ajouter des clous de girofle ou un peu de vanille, dans ce cas il suffit juste de les ajouter au mélange d’épice dans la casserole ! Et vous, avez vous déjà goûté ce mélange épicé ?
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
+
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

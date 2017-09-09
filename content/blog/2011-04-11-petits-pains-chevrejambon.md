@@ -3,9 +3,9 @@ type: post
 title: Petits pains chèvre/jambon
 date: 2011-04-11T21:55:00+00:00
 thumbnail: https://crokmou.com/images/Pains-ch--vre.jambon.jpg
-categories: 
+categories:
   - Apéritifs
-tags: 
+tags:
   - aperitif
   - boulangerie
   - chevre
@@ -20,20 +20,20 @@ Je préviens à l’avance : la recette est assez longue, si vous avez toute la 
 
 Pour 10 bouchées
 
-– 200g de farine  
-– 1 sachet de levure  
-– 90ml de lait  
-– 50g de beurre  
-– 1 càc de sel  
-– 1 jaune d’oeuf  
-– 150g de lamelles de jambon  
+– 200g de farine
+– 1 sachet de levure
+– 90ml de lait
+– 50g de beurre
+– 1 càc de sel
+– 1 jaune d’oeuf
+– 150g de lamelles de jambon
 – 150g de chèvre
 
-1- Délayez la levure dans le lait tiède  
-2- Dans un saladier, mélangez 66g de farine avec le mélange levure/lait. Laissez reposer 30min.  
-3- Incorporez le restant de farine à votre préparation ainsi que le sel, le jambon, le chèvre et le beurre pommade, formez une boule (pas trop collante)  
-4- Pétrissez le boule de pâte sur un plan fariné puis laissez lever 1H30  
-5- Préchauffez votre four à 210°C. Faites des petites boules de pâtes et laissez lever 30min.  
+1- Délayez la levure dans le lait tiède
+2- Dans un saladier, mélangez 66g de farine avec le mélange levure/lait. Laissez reposer 30min.
+3- Incorporez le restant de farine à votre préparation ainsi que le sel, le jambon, le chèvre et le beurre pommade, formez une boule (pas trop collante)
+4- Pétrissez le boule de pâte sur un plan fariné puis laissez lever 1H30
+5- Préchauffez votre four à 210°C. Faites des petites boules de pâtes et laissez lever 30min.
 6- Badigeonnez vos petites bouchées de jaune d’oeuf et enfournez pour 15/20min
 
 Laissez quelque peu refroidir avant de déguster en apéritif !TADDDDAAAAM ! Ils sont chaud, ils sont beaux, et par la même occasion délicieux =D

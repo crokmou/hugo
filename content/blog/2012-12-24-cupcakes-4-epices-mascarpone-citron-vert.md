@@ -3,9 +3,9 @@ type: post
 title: Cupcakes 4 épices, mascarpone, citron vert
 date: 2012-12-24T10:20:00+00:00
 thumbnail: https://crokmou.com/images/20121216_cupcake_4_epices_topping_mascarpone_citron_vert_00321.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - 4 epice
   - citron
   - citron vert
@@ -15,11 +15,20 @@ tags:
   - mascarpone
   - mignardise
   - noel
-ingredient_qty: 
+ingredient_qty:
   - Pour 8 (gros) cupcakes
 ingredient_textarea: |
-  - |
-  > * 130g de farine> * 100g de sucre en poudre> * 1 oeuf> * 85g de beurre mou> * 88ml de lait> * 1 càc de levure chimique> * 2 càc de 4 épices> * 1 pincée de sel> * le jus d'un citron vert> * 250g de mascarpone> * 80 de sucre glace
+  * 130g de farine
+  * 100g de sucre en poudre
+  * 1 oeuf
+  * 85g de beurre mou
+  * 88ml de lait
+  * 1 càc de levure chimique
+  * 2 càc de 4 épices
+  * 1 pincée de sel
+  * le jus d'un citron vert
+  * 250g de mascarpone
+  * 80 de sucre glace
 disqusId: 3622164056
 slug: cupcakes-4-epices-mascarpone-citron-vert
 ---
@@ -53,4 +62,4 @@ Je vous embrasse, à très bientôt !
 
 [![](http://www.crokmou.com/wp-content/uploads/2012/12/20121216_cupcake_4_epices_topping_mascarpone_citron_vert_0045-200x3001-200x300.jpg)](http://www.crokmou.com/wp-content/uploads/2012/12/20121216_cupcake_4_epices_topping_mascarpone_citron_vert_0045-200x3001.jpg)
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

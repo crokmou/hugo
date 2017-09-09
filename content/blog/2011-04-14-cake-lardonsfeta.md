@@ -3,9 +3,9 @@ type: post
 title: Cake lardons/feta
 date: 2011-04-14T12:41:00+00:00
 thumbnail: https://crokmou.com/images/cake-lardon-feta.jpg
-categories: 
+categories:
   - Apéritifs
-tags: 
+tags:
   - aperitif
   - emmental
   - feta

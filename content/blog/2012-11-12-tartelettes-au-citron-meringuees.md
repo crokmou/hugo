@@ -3,9 +3,9 @@ type: post
 title: Tartelettes au citron meringuées
 date: 2012-11-12T17:12:00+00:00
 thumbnail: https://crokmou.com/images/20121104_tartelette_citron_meringu--es_1.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - "blanc d'oeuf"
   - citron meringue
   - dessert
@@ -27,12 +27,12 @@ Pour réaliser cette recette il vous faudra vous munir : De cercles à patisseri
 
 Pour 4 tartelettes
 
-**Pour la pâte sablée**  
-– 120g de farine  
-– 75g de beurre  
-– 50g de sucre  
-– 15g de poudre d’amandes  
-– 1 jaune d’oeuf  
+**Pour la pâte sablée**
+– 120g de farine
+– 75g de beurre
+– 50g de sucre
+– 15g de poudre d’amandes
+– 1 jaune d’oeuf
 – 1 pincée de sel
 
 **Crème au citron** – 2 citrons non traités – 75g de sucre – 2 œufs – 80g de beurre **Meringue** – 2 blanc d’œuf – 100g de sucre – 40ml d’eau
@@ -61,4 +61,4 @@ Bonne fin de journée et bon début de semaine à vous mes gourmands !
 
 [![](http://www.emoticones-avenue.com/emoticones/kawaii_monkeygirl_07.gif)](http://www.emoticones-avenue.com/emoticones/kawaii_monkeygirl_07.gif)
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

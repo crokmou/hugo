@@ -3,9 +3,9 @@ type: post
 title: "Galette des rois frangipane, fleur d'oranger"
 date: 2013-01-05T21:24:00+00:00
 thumbnail: https://crokmou.com/images/20130102_galette_roi_amande_torrefie_0044.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - amande
   - amande en poudre
   - dessert
@@ -26,21 +26,21 @@ Du coup pas besoin de grand chose pour la confection de la galette, sauf si vous
 
 Pour 8 personnes
 
-– 2 rouleaux de pâte feuilleté  
-– 3 jaunes d’oeufs  
-– 1 oeuf (pour dorer)  
-– 200g de poudre d’amandes  
-– 75g de sucre en poudre  
-– 1 càs d’eau de fleur d’oranger  
-– 75g de beurre mou  
-– 75g de lait  
+– 2 rouleaux de pâte feuilleté
+– 3 jaunes d’oeufs
+– 1 oeuf (pour dorer)
+– 200g de poudre d’amandes
+– 75g de sucre en poudre
+– 1 càs d’eau de fleur d’oranger
+– 75g de beurre mou
+– 75g de lait
 – 1 fève
 
-1- Disposez sur une plaque a four du papier sulfurisé, étalez ensuite la poudre d’amande sur celle-ci, faites torréfier dans le four chauffé à 150°C pendant 10 minutes (environ).  
-2- Dans un saladier, fouettez les jaunes d’oeufs avec le sucre, jusqu’à ce que votre préparation devienne mousseuse. Ajoutez ensuite le beurre mou, le lait, l’eau de fleur d’oranger et la poudre d’amande torréfiée, mélangez bien pour que la préparation soit homogène.  
-3- Préchauffez maintenant votre four à 180°C.  
-4- Etalez sur votre plaque à four une des pâte feuilleté (veuillez laisser le papier sulfurisé), étalez votre ganache en prenant soin de laisser au moins 1cm vide au bord de la pate. N’oubliez pas d’ajouter la fève. Disposez ensuite le deuxième rond de pâte feuilleté sur le tout et pincez bien les bords pour que rien ne s’échappe 😉  
-5- Après avoir dessiné de jolis traits sur votre galette avec la pointe d’un couteau, badigeonnez celle-ci d’oeuf battu afin qu’elle ressorte du four bien dorée !  
+1- Disposez sur une plaque a four du papier sulfurisé, étalez ensuite la poudre d’amande sur celle-ci, faites torréfier dans le four chauffé à 150°C pendant 10 minutes (environ).
+2- Dans un saladier, fouettez les jaunes d’oeufs avec le sucre, jusqu’à ce que votre préparation devienne mousseuse. Ajoutez ensuite le beurre mou, le lait, l’eau de fleur d’oranger et la poudre d’amande torréfiée, mélangez bien pour que la préparation soit homogène.
+3- Préchauffez maintenant votre four à 180°C.
+4- Etalez sur votre plaque à four une des pâte feuilleté (veuillez laisser le papier sulfurisé), étalez votre ganache en prenant soin de laisser au moins 1cm vide au bord de la pate. N’oubliez pas d’ajouter la fève. Disposez ensuite le deuxième rond de pâte feuilleté sur le tout et pincez bien les bords pour que rien ne s’échappe 😉
+5- Après avoir dessiné de jolis traits sur votre galette avec la pointe d’un couteau, badigeonnez celle-ci d’oeuf battu afin qu’elle ressorte du four bien dorée !
 6- Enfournez pour 20/25 minutes et tadadaaaam dégustez tiède !
 
 **Et chez vous, elle est à quoi la galette ? Faite entièrement maison ou achetée dans le commerce (ou à la boulangerie)?**
@@ -53,6 +53,6 @@ Pour ce faire, rien de bien compliqué : Trouvez un patron de couronne sur inter
 
 A l’avance je vous souhaite donc une belle Epiphanie et un bon dimanche ! Des bisous mes loulous (oui ca change un peu des gourmands) !
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 
  

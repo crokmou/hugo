@@ -3,9 +3,9 @@ type: post
 title: Lasagnes aux courgettes, poivrons, chèvre
 date: 2011-04-11T22:24:00+00:00
 thumbnail: https://crokmou.com/images/61472002_p.jpg
-categories: 
+categories:
   - Plats
-tags: 
+tags:
   - chevre
   - courgette
   - fromage
@@ -23,7 +23,7 @@ slug: lasagnes-aux-courgettes-poivrons-chevre
 
 [![](http://4.bp.blogspot.com/-VprbRvsE1ZE/TxiV1VT4t-I/AAAAAAAABpM/1014BCGqXcU/s1600/Lasagnes+courgettes.jpg)](http://4.bp.blogspot.com/-VprbRvsE1ZE/TxiV1VT4t-I/AAAAAAAABpM/1014BCGqXcU/s1600/Lasagnes+courgettes.jpg)
 
-Bon appétit !  
+Bon appétit !
 
 [![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)
 

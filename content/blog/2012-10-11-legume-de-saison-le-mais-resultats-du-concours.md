@@ -3,9 +3,9 @@ type: post
 title: 'Légume de saison : le Maïs {+ résultats du concours}'
 date: 2012-10-11T17:29:00+00:00
 thumbnail: https://crokmou.com/images/20121001_epi_mais_grill--_four_0014.jpg
-categories: 
+categories:
   - Plats
-tags: 
+tags:
   - concours
   - epis de maïs
   - legume
@@ -13,7 +13,7 @@ disqusId: 3637264558
 slug: legume-de-saison-le-mais-resultats-du-concours
 ---
 
-[![](http://2.bp.blogspot.com/-yluseSIqQQ4/UHbxT7xoUxI/AAAAAAAAExE/tuRnRrekVyg/s320/20121001_epi_mais_grille%CC%81_four_0014_bann.jpg)](http://2.bp.blogspot.com/-yluseSIqQQ4/UHbxT7xoUxI/AAAAAAAAExE/tuRnRrekVyg/s1600/20121001_epi_mais_grille%CC%81_four_0014_bann.jpg)
+[![](http://2.bp.blogspot.com/-yluseSIqQQ4/UHbxT7xoUxI/AAAAAAAAExE/tuRnRrekVyg/s320/20121001_epi_mais_grillé_four_0014_bann.jpg)](http://2.bp.blogspot.com/-yluseSIqQQ4/UHbxT7xoUxI/AAAAAAAAExE/tuRnRrekVyg/s1600/20121001_epi_mais_grillé_four_0014_bann.jpg)
 
 Parce qu’aujourd’hui j’aimerai vous présenter à vous mes chers gourmands, un légume de saison qui n’est autre que : le Maïs ! Personnellement j’adore ce « légume », tout d’abord pour sa couleur qui me rappelle sans cesse les beaux jours mais aussi pour son petit goût sucré ! Dans des salades, nature, dans les sandwichs, les plats cuisinés etc etc le maïs est partout !
 
@@ -61,7 +61,7 @@ Pour vous aider un peu dans vos élaborations de plats, j’ai décidé de vou
 
 En entrée nous pouvons commencer par des petits [muffins Mexicanos](http://carnetde1001recettes.over-blog.com/article-muffins-mexicanos-110080930.html) (élaborés par Diwall). En plat vous pourriez nous faire [un gratin au maïs](http://www.bentonono.com/2011/03/un-diner-presque-parfait-le-gratin-au.html) (par Bentonono) ou [une soupe de maïs](http://lemiammiamblog.canalblog.com/archives/2011/09/19/21985425.html) pour un aller/retour au Pérou (par Elodie du miam miam blog) mais pourquoi pas aussi quelque chose de plus original comme les [gnocchi au maïs pop corn et mimolette](http://www.uncuisinierchezvous.com/article-gnocchis-au-mais-pop-corn-et-mimolette-82517520.html) par Philou. Pour le dessert, je vous propose quelque chose de plus classique mais néanmoins parfait : des [pancakes Américains à la farine de maïs](http://gainthekitchen.canalblog.com/archives/2011/09/14/21963604.html) (par Cuisine et dépendances)
 
-**Alors, cela ne vous donne pas l’envie de cuisiner le maïs tout ça ?**  
+**Alors, cela ne vous donne pas l’envie de cuisiner le maïs tout ça ?**
 
 S
 
@@ -77,4 +77,4 @@ Félicitations à Cook with Love et Pauline Kiwi !
 
 [![](http://2.bp.blogspot.com/-9x0JpTrDfrU/UHbvsZiLmvI/AAAAAAAAEw4/eoZe-NIrLRE/s320/2012-10-11+18.04.19.jpg)](http://2.bp.blogspot.com/-9x0JpTrDfrU/UHbvsZiLmvI/AAAAAAAAEw4/eoZe-NIrLRE/s1600/2012-10-11+18.04.19.jpg) De nouveau je tiens a remercier mon partenaire Cadeaux-perso.com, sans qui ce concours n’aurait pas été possible ! Et merci à tou(te)s les participant(e)s ! Des bisous et à bientôt les gourmands !
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

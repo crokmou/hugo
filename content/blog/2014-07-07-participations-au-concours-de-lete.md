@@ -2,7 +2,7 @@
 type: post
 title: "Participations au concours de l'été"
 date: 2014-07-07T20:21:00+00:00
-categories: 
+categories:
   - Lifestyle
 disqusId: 3587683028
 slug: participations-au-concours-de-lete
@@ -34,7 +34,7 @@ Si l’envie vous en dit, allez jeter un oeil aux [conditions de participations 
 
 </table>
 
-2. 
+2.
 
 <table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;">
 
@@ -78,7 +78,7 @@ Si l’envie vous en dit, allez jeter un oeil aux [conditions de participations 
 
 </table>
 
-4. 
+4.
 
 <table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;">
 
@@ -126,7 +126,7 @@ Si l’envie vous en dit, allez jeter un oeil aux [conditions de participations 
 
 </table>
 
-6. 
+6.
 
 <table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;">
 
@@ -148,7 +148,7 @@ Si l’envie vous en dit, allez jeter un oeil aux [conditions de participations 
 
 </table>
 
-7. 
+7.
 
 <table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;">
 
@@ -214,7 +214,7 @@ Si l’envie vous en dit, allez jeter un oeil aux [conditions de participations 
 
 </table>
 
-10. 
+10.
 
 <table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;">
 
@@ -258,7 +258,7 @@ Si l’envie vous en dit, allez jeter un oeil aux [conditions de participations 
 
 </table>
 
-12. 
+12.
 
 <table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;">
 
@@ -302,7 +302,7 @@ Si l’envie vous en dit, allez jeter un oeil aux [conditions de participations 
 
 </table>
 
-<div style="text-align: left;">14. 
+<div style="text-align: left;">14.
 
 <table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;">
 
@@ -352,7 +352,7 @@ Si l’envie vous en dit, allez jeter un oeil aux [conditions de participations 
 
 </table>
 
-16. 
+16.
 
 <table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;">
 
@@ -814,7 +814,7 @@ Si l’envie vous en dit, allez jeter un oeil aux [conditions de participations 
 
 </table>
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 
 </div>
 

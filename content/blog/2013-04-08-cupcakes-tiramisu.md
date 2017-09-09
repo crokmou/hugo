@@ -3,9 +3,9 @@ type: post
 title: Cupcakes Tiramisu
 date: 2013-04-08T11:49:00+00:00
 thumbnail: https://crokmou.com/images/20130407_cupcake_tiramisu_0035.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - amaretto
   - cacao
   - cafe
@@ -37,27 +37,27 @@ _To realize these cupcakes, you will need a scales to weigh your ingredients, of
 
 Pour 6 cupcakes
 
-– 60g de beurre  
-– 60g de sucre  
-– 80g de mascarpone (+ 150g pour le topping)  
-– 1 oeuf  
-– 80g de farine  
-– 20g de poudre d’amande  
-– 2 cuillère à café de levure chimique  
-– 2 cuillère à café de café soluble  
-– 6 cuillère à soupe de café liquide froid  
-– 2 cuillère à soupe de Marsala ou d’Amaretto  
-– 8 cuillère à soupe de sucre glace (topping)  
+– 60g de beurre
+– 60g de sucre
+– 80g de mascarpone (+ 150g pour le topping)
+– 1 oeuf
+– 80g de farine
+– 20g de poudre d’amande
+– 2 cuillère à café de levure chimique
+– 2 cuillère à café de café soluble
+– 6 cuillère à soupe de café liquide froid
+– 2 cuillère à soupe de Marsala ou d’Amaretto
+– 8 cuillère à soupe de sucre glace (topping)
 – cacao amer en poudre
 
 **○○○**
 
-1- Préchauffez votre four à 180°C  
-2- Dans un saladier, fouettez le beurre mou avec le sucre, lorsque le mélange est crémeux ajoutez la mascarpone et l’oeuf puis mélangez de nouveau.  
-3- Dans un second saladier, mélangez la farine, la levure, la poudre d’amande et le café en poudre  
-4- Mélangez ensuite les deux préparation. Une fois le mélange homogène, ajoutez le café liquide et le Marsala.  
-5- Versez votre pâte dans des moules à muffins (au 3/4) et faites cuire pendant 15/20 minutes selon les fours (il faut que vos cupcakes soit dorés et cuits à l’intérieur). Ensuite, sortez les du four et laissez refroidir.  
-6- Pour le topping : Mélangez la mascarpone avec le sucre glace. Garnissez vos cupcakes de ce topping à l’aide d’une poche à douille.  
+1- Préchauffez votre four à 180°C
+2- Dans un saladier, fouettez le beurre mou avec le sucre, lorsque le mélange est crémeux ajoutez la mascarpone et l’oeuf puis mélangez de nouveau.
+3- Dans un second saladier, mélangez la farine, la levure, la poudre d’amande et le café en poudre
+4- Mélangez ensuite les deux préparation. Une fois le mélange homogène, ajoutez le café liquide et le Marsala.
+5- Versez votre pâte dans des moules à muffins (au 3/4) et faites cuire pendant 15/20 minutes selon les fours (il faut que vos cupcakes soit dorés et cuits à l’intérieur). Ensuite, sortez les du four et laissez refroidir.
+6- Pour le topping : Mélangez la mascarpone avec le sucre glace. Garnissez vos cupcakes de ce topping à l’aide d’une poche à douille.
 7- Saupoudrez les cupcakes de cacao avant dégustation, sinon gardez au frais !
 
 _[Recipe in English](https://lh4.googleusercontent.com/-KotU6Ys2PGo/UWKecfgsCOI/AAAAAAAAG3M/AVLQ-e3my0s/s842/tiramisu_cupcake.jpg) :_
@@ -92,4 +92,4 @@ Passez une bonne semaine !
 
 _Have a good week !_
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

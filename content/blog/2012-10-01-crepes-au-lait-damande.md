@@ -3,9 +3,9 @@ type: post
 title: "Crepes au lait d'amande"
 date: 2012-10-01T13:59:00+00:00
 thumbnail: https://crokmou.com/images/crepe_lait_amande_vanille.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - amande
   - chandeleur
   - crepe
@@ -23,15 +23,15 @@ Pour ma part je n’ai pas vu de grandes différences avec les autres crêpes, s
 
 Pour la réalisation de cette recette, rien de plus simple et de plus rapide. Munissez vous de votre [balance de cuisine](http://www.rueducommerce.fr/m/pl/malid:9633601), d’un grand [bol](http://www.rueducommerce.fr/m/pl/malid:4769881) ou d’un [saladier](http://www.rueducommerce.fr/m/pl/malid:4769897), de votre [matériel à pâtisserie](http://www.rueducommerce.fr/m/pl/malid:12468605) et d’[une poêle](http://www.rueducommerce.fr/m/pl/malid:4769951) !
 
-Pour environ 30 crêpes  
+Pour environ 30 crêpes
 (environ 20cm de diamètre)
 
-– 250g de farine  
-– 30g de sucre  
-– 1 sachet de sucre vanillé  
-– 3 oeufs  
-– 600ml de lait d’amande  
-– 1 pincée de sel  
+– 250g de farine
+– 30g de sucre
+– 1 sachet de sucre vanillé
+– 3 oeufs
+– 600ml de lait d’amande
+– 1 pincée de sel
 – beurre
 
 <div style="text-align: justify;">1- Dans un saladier, versez la farine, les sucres et le sel. Creusez un puit au centre et ajoutez y les oeufs.
@@ -66,4 +66,4 @@ Des bisous les amis !
 
 [![MyEm0.Com](http://i269.photobucket.com/albums/jj72/myem0/02/cute-panda-emoticon-006.gif)](http://www.myem0.com/emoticon/cute-panda-emoticon/)
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

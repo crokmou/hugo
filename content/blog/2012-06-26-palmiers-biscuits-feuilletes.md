@@ -3,9 +3,9 @@ type: post
 title: Palmiers (biscuits feuilletés)
 date: 2012-06-26T07:55:00+00:00
 thumbnail: https://crokmou.com/images/20120621_biscuit_feuillet--_palmier_0003.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - cassonade
   - fait maison
   - home made
@@ -20,14 +20,14 @@ Et bien sachez que c’est super méga simple et rapide à réaliser (si comme m
 
 Pour environ de 20 palmiers
 
--230g de pâte feuilletée  
--cassonade  
+-230g de pâte feuilletée
+-cassonade
 -beurre
 
-1- Déroulez votre pâte feuilletée et saupoudrez la de cassonade (la quantité sera selon votre gourmandise)  
-2- Roulez votre pâte de chaque côté jusqu’à ce que les deux rouleaux se rejoignent au centre de la pâte, appuyez un peu pour que le tout se « soude »  
-3- Mettez votre rouleau de pâte au congélateur durant 15 min et pendant ce temps faites préchauffer votre four à 180°  
-4- Sortez votre pâte du congélateur et coupez votre « boudin » tous les cm (sachant que le premier bout et le dernier ne ressemblent à rien, mais ca se mange). Disposez vos futur palmiers sur du papier sulfurisé beurré que vous aurez préalablement posé sur une plaque à [four](http://www.rueducommerce.fr/m/pl/malid:9404136).  
+1- Déroulez votre pâte feuilletée et saupoudrez la de cassonade (la quantité sera selon votre gourmandise)
+2- Roulez votre pâte de chaque côté jusqu’à ce que les deux rouleaux se rejoignent au centre de la pâte, appuyez un peu pour que le tout se « soude »
+3- Mettez votre rouleau de pâte au congélateur durant 15 min et pendant ce temps faites préchauffer votre four à 180°
+4- Sortez votre pâte du congélateur et coupez votre « boudin » tous les cm (sachant que le premier bout et le dernier ne ressemblent à rien, mais ca se mange). Disposez vos futur palmiers sur du papier sulfurisé beurré que vous aurez préalablement posé sur une plaque à [four](http://www.rueducommerce.fr/m/pl/malid:9404136).
 5- Enfournez et laissez cuire environ 20 min en retournant vos palmiers à mi-cuisson. Sortez ensuite vos palmiers et laissez le refroidir avant de déguster !
 
 A servir avec un bon café fait à l’aide de votre [machine à expresso](http://www.rueducommerce.fr/m/pl/malid:9633595) ou votre [cafetière](http://www.rueducommerce.fr/m/pl/malid:110) ([Delonghi](http://www.rueducommerce.fr/m/pl/malid:12382300) par exemple) ou tout simplement d’un bon jus de fruit maison réalisé avec votre [presse agrumes](http://www.rueducommerce.fr/m/pl/malid:9633599) !

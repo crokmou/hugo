@@ -2,9 +2,9 @@
 type: post
 title: 'Gagnez un tablier de cuisine personnalisé {concours commentaires}'
 date: 2012-09-25T19:40:00+00:00
-categories: 
+categories:
   - Lifestyle
-disqusId: 
+disqusId:
 slug: gagnez-un-tablier-de-cuisine-personnalise-concours-commentaires
 ---
 
@@ -25,7 +25,7 @@ Voici donc ce que l’on vous propose, moi et [mon partenaire](http://www.cadeau
 *   **Aimer** la [page facebook du blog](https://www.facebook.com/pages/CroKMou/148093255259077) et m’indiquer dans votre commentaire le nom avec lequel vous avez adhéré à la page
 *   Dans votre commentaire **répondre à cette question** : Qu’aimeriez vous voir (ou ne plus voir) sur le blog ? Et bien sûr n’hésitez pas si vous avez des propositions
 
-**Ecrire un commentaire sous cet article** (en y inscrivant une **adresse mail valide** : si vous êtes gagnant et que je n’arrive pas à vous contacter, il y aura un nouveau tirage au sort) en **répondant aux conditions de participations** ci-dessus (une seule participation par personne). 
+**Ecrire un commentaire sous cet article** (en y inscrivant une **adresse mail valide** : si vous êtes gagnant et que je n’arrive pas à vous contacter, il y aura un nouveau tirage au sort) en **répondant aux conditions de participations** ci-dessus (une seule participation par personne).
 
 ### Des chances en plus de gagner ?
 
@@ -43,7 +43,7 @@ Si je n’ai pas de réponse de la part des gagnants au bout d’une semaine, 
 
 Cette fois les cadeaux **peuvent être livrés en France ET en Belgique** (n’est ce pas merveilleux ?)
 
-Fin du concours le 10 Octobre à 00h 
+Fin du concours le 10 Octobre à 00h
 
 En tout cas j’espère que ce concours vous plaira ! En attendant je vous souhaite à tous bonne chance et encore un grand merci à mon partenaire Cadeaux-perso.com
 
@@ -51,5 +51,4 @@ See Ya’
 
 [![http://facemot.blogspot.com/](http://lh5.ggpht.com/_aeMA4MA5AEc/TKhBTb876vI/AAAAAAAABCk/qKVgeGgJSGM/cute-rabbit-emoticon-018.gif "http://facemot.blogspot.com/")](http://facemot.blogspot.com/)
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○  
-    
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

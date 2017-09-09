@@ -3,9 +3,9 @@ type: post
 title: Smoothie du jour
 date: 2011-05-11T13:10:00+00:00
 thumbnail: https://crokmou.com/images/Smoothie-1.jpg
-categories: 
+categories:
   - Boissons
-tags: 
+tags:
   - boisson
   - cannelle
   - dessert
@@ -31,7 +31,7 @@ _Bien le bonjour cher(e)s blogueurs(euses), pour aujourd’hui cela ne sera pas 
 *   du lait
 *   des glaçons
 
-[![](http://4.bp.blogspot.com/-jD2raKy-t_w/Tabb3lV3eGI/AAAAAAAAAEk/G2RYajmhinM/s320/preparation.jpg)](http://4.bp.blogspot.com/-jD2raKy-t_w/Tabb3lV3eGI/AAAAAAAAAEk/G2RYajmhinM/s1600/preparation.jpg) 
+[![](http://4.bp.blogspot.com/-jD2raKy-t_w/Tabb3lV3eGI/AAAAAAAAAEk/G2RYajmhinM/s320/preparation.jpg)](http://4.bp.blogspot.com/-jD2raKy-t_w/Tabb3lV3eGI/AAAAAAAAAEk/G2RYajmhinM/s1600/preparation.jpg)
 
 1.  Coupez vos fruits en morceaux (selon la taille de votre centrifugeuse bien sûr), et pelez les oranges.
 2.  Mettez tous vos fruits dans votre centrifugeuse et vous voilà avec du jus… de fruits =D
@@ -39,7 +39,7 @@ _Bien le bonjour cher(e)s blogueurs(euses), pour aujourd’hui cela ne sera pas 
 4.  Versez votre préparation dans deux grands verres, posez vos petites fesses (sur votre balcon ou dans votre jardin) face au soleil…
 5.  … Dégustez !
 
-_C’est pas délicieux ça =D ?_  
+_C’est pas délicieux ça =D ?_
 <a name="more"></a>
 
 _(Des petits macarons se sont glissés sur la photographie : je remercie une ami de me les avoir offerts, ces petites boucles d’oreilles me rappellent chaque jours à quel point il est bon de cuisiner ! … et de manger ^.^)_

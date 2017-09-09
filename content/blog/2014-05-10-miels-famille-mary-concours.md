@@ -2,9 +2,9 @@
 type: post
 title: 'Miels Famille Mary {Concours}'
 date: 2014-05-10T14:58:00+00:00
-categories: 
+categories:
   - Lifestyle
-tags: 
+tags:
   - concours
 disqusId: 3587683185
 slug: miels-famille-mary-concours
@@ -58,9 +58,9 @@ Trêve de bavardage, je vous ai parlé de **concours** et nous voilà donc dans 
 
 – Aimer la page [Facebook Crokmou](https://www.facebook.com/pages/CroKMou/148093255259077) ou vous inscrire à [ma Newsletter](http://www.crokmou.com/p/newsletter_18.html)
 
-+1 chance : 
++1 chance :
 
-– Relayer le concours (sur facebook, twitter) 
+– Relayer le concours (sur facebook, twitter)
 
 – Relayer sur votre blog
 
@@ -74,9 +74,11 @@ Pour le ou la gagnante, un assortiment de miels « Grands Crus Français » d�
 
 ### A SAVOIR
 
-<div style="background-color: white; color: #666666; font-family: Arial, HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 24px; margin: 0px; outline: 0px; padding: 0px; text-align: justify; text-transform: none;">– Concours possible pour les personnes ayant une **adresse postale en France Métropolitaine.**  
-– Le nom du gagnant sera **tiré au sort** via Random.org.  
-– Vérifiez bien que vous utilisez une **adresse mail valide** lorsque vous écrivez votre commentaire, si je n’ai pas de réponse de la part du gagnant (faute d’avoir une adresse mail correcte) sous 3 jours, un nouveau gagnant sera tiré au sort.  
+<div style="background-color: white; color:
+
+#666666; font-family: Arial, HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 24px; margin: 0px; outline: 0px; padding: 0px; text-align: justify; text-transform: none;">– Concours possible pour les personnes ayant une **adresse postale en France Métropolitaine.**
+– Le nom du gagnant sera **tiré au sort** via Random.org.
+– Vérifiez bien que vous utilisez une **adresse mail valide** lorsque vous écrivez votre commentaire, si je n’ai pas de réponse de la part du gagnant (faute d’avoir une adresse mail correcte) sous 3 jours, un nouveau gagnant sera tiré au sort.
 – N’oubliez pas de **répondre à la question posée et de respecter toutes les conditions**, auquel cas votre participation ne sera pas prise en compte (que vous soyez gentil ou non ;D).
 
  ****  ****  **** **FIN DU CONCOURS LE DIMANCHE 22 MAI 2014**

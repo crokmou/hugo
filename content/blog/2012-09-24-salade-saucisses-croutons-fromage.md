@@ -3,9 +3,9 @@ type: post
 title: Salade saucisses, croutons, fromage
 date: 2012-09-24T12:20:00+00:00
 thumbnail: https://crokmou.com/images/20120921_salade_saucisse_knacki_fromage_crouton_0020.jpg
-categories: 
+categories:
   - Plats
-tags: 
+tags:
   - comte
   - creme fraiche
   - crouton
@@ -34,22 +34,22 @@ Vous aurez besoin d’une [poêle](http://www.rueducommerce.fr/m/pl/malid:476995
 
 Pour 2 personnes
 
-– 100g de salade de blé (ou mâche pour les Français ;))  
-– 6 saucisses Knacki (ou 150g de lardons fumés)  
-– 100g de comté  
-– 2 tranches de pains grillées  
-– 4/5 cuillères à soupe de crème fraîche épaisse  
+– 100g de salade de blé (ou mâche pour les Français ;))
+– 6 saucisses Knacki (ou 150g de lardons fumés)
+– 100g de comté
+– 2 tranches de pains grillées
+– 4/5 cuillères à soupe de crème fraîche épaisse
 – sel & poivre
 
-1- Découpez vos saucisses en petites rondelles et faites les revenir à la poêle  
-2- Sortez vos mâche prête à l’emploi de votre [réfrigérateur](http://www.rueducommerce.fr/m/pl/malid:9633584) et placez là dans un saladier  
-3- Coupez votre fromage en dés et faites de votre pain grillé, des petits croûtons ! Versez le tout dans votre salade  
-4- Une fois vos saucisses dorées, ajoutez la crème fraîche, salez, poivrez et remuez le tout pendant environ 3/4 minutes  
-5- Ajoutez les saucisses à votre salade et mélangez le tout  
+1- Découpez vos saucisses en petites rondelles et faites les revenir à la poêle
+2- Sortez vos mâche prête à l’emploi de votre [réfrigérateur](http://www.rueducommerce.fr/m/pl/malid:9633584) et placez là dans un saladier
+3- Coupez votre fromage en dés et faites de votre pain grillé, des petits croûtons ! Versez le tout dans votre salade
+4- Une fois vos saucisses dorées, ajoutez la crème fraîche, salez, poivrez et remuez le tout pendant environ 3/4 minutes
+5- Ajoutez les saucisses à votre salade et mélangez le tout
 6- Servez dans de belles assiettes creuses et votre repas est prêt !
 
 Alors rapide non ? Et vous verrez c’est délicieux ! Je vous souhaite un bon début de semaine et je vous dis à vendrediiiii ! Des bisous
 
 [![](http://1.bp.blogspot.com/-mlT3W8C_RL0/UGBA1pYBUPI/AAAAAAAAEkY/3ySY5XvqCFo/s1600/005.gif)](http://1.bp.blogspot.com/-mlT3W8C_RL0/UGBA1pYBUPI/AAAAAAAAEkY/3ySY5XvqCFo/s1600/005.gif)
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

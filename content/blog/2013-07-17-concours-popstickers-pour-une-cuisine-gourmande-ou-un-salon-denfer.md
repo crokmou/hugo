@@ -2,7 +2,7 @@
 type: post
 title: "Concours Popstickers {Pour une cuisine gourmande ou un salon d'enfer}"
 date: 2013-07-17T11:58:00+00:00
-categories: 
+categories:
   - Lifestyle
 disqusId: 3587683690
 slug: concours-popstickers-pour-une-cuisine-gourmande-ou-un-salon-denfer
@@ -32,8 +32,8 @@ Je sais que cela ne correspond pas tout à fait à ce que je peux vous faire gag
 
   – Vous devrez écrire un commentaire sous cet article (à l’aide d’une adresse mail valide) en répondant à cette question : **Qu’aimeriez vous voir de plus sur [Popstickers](http://www.popstickers.fr/) (stickers, fonctionnalités…) ?**
 
-– Aimer la page [Facebook Crokmou](https://www.facebook.com/pages/CroKMou/148093255259077) ou vous inscrire à [ma newsletter](http://www.crokmou.com/p/newsletter_18.html)   
-  +1 chance : 
+– Aimer la page [Facebook Crokmou](https://www.facebook.com/pages/CroKMou/148093255259077) ou vous inscrire à [ma newsletter](http://www.crokmou.com/p/newsletter_18.html)
+  +1 chance :
 
 – Aimer la page [<span style="list-style-image: initial; list-style-position: initial;">Facebook Popstickers](https://www.facebook.com/pages/Popstickers/125529234290742?ref=hl) </span>
 
@@ -43,21 +43,20 @@ Lorsque vous écrirez votre commentaire, n’oubliez pas de **mentionner le nom
 
 ### A GAGNER
 
-Le sticker de votre choix présent sur le [site Popstickers](http://www.popstickers.fr/) d’une valeur maximum de 50€ 
+Le sticker de votre choix présent sur le [site Popstickers](http://www.popstickers.fr/) d’une valeur maximum de 50€
 
 ### A SAVOIR
 
 *   Concours possible uniquement pour les personnes ayant une **adresse postale en France Métropolitaine.**
-*   Le nom du gagnant sera **tiré au sort** via Random.org. 
+*   Le nom du gagnant sera **tiré au sort** via Random.org.
 *   Vérifiez bien que vous utilisez une **adresse mail valide** lorsque vous écrivez votre commentaire, si je n’ai pas de réponse de la part du gagnant (faute d’avoir une adresse mail correcte) sous 2 jours, un nouveau gagnant sera tiré au sort.
 *   N’oubliez pas de **répondre à la question posée et de respecter toutes les conditions**, auquel cas votre participation ne sera pas prise en compte (que vous soyez gentil ou non ;D).
 
-### Fin du concours le 31 Juillet à 00h  
+### Fin du concours le 31 Juillet à 00h
 
-En attendant je vous dit à bientôt pour une nouvelle recette et j’espère que vous serez nombreux à participer !  
+En attendant je vous dit à bientôt pour une nouvelle recette et j’espère que vous serez nombreux à participer !
 
-Des bisous et profitez bien du beau temps !  
+Des bisous et profitez bien du beau temps !
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 
-  

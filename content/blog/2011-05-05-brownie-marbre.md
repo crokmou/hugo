@@ -3,9 +3,9 @@ type: post
 title: Brownie marbré
 date: 2011-05-05T14:40:00+00:00
 thumbnail: https://crokmou.com/images/20110505_brownie_marbre_chocolat_vanille_1.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - amande
   - brownie
   - chocolat
@@ -32,12 +32,12 @@ _J’ai donc feuilleté mes bouquins de desserts et j’ai trouvé ce merveilleu
 *   3 oeufs
 *   115 g de sucre
 *   50 g de farine
-*   amandes concassées 
+*   amandes concassées
 *   un moule carré (pas trop grand, ni trop petit)
 
 [![](http://4.bp.blogspot.com/-jD2raKy-t_w/Tabb3lV3eGI/AAAAAAAAAEk/G2RYajmhinM/s320/preparation.jpg)](http://4.bp.blogspot.com/-jD2raKy-t_w/Tabb3lV3eGI/AAAAAAAAAEk/G2RYajmhinM/s1600/preparation.jpg)
 
-1.   Dans 2 saladiers, cassez en carrés d’un côté le chocolat noir et de l’autre le chocolat blanc. Coupez le beurre en deux parts égales et mettez une part dans chaque saladier. 
+1.   Dans 2 saladiers, cassez en carrés d’un côté le chocolat noir et de l’autre le chocolat blanc. Coupez le beurre en deux parts égales et mettez une part dans chaque saladier.
 2.  Faites fondre chaque mélange au bain marie (ou pour plus rapide au micro-ondes), une fois le chocolat et le beurre fondu mélangez bien pour que dans chaque saladier la mixture soit parfaitement homogène.
 3.  Préchauffez votre four à 180°C
 4.  Dans un 3ème saladier (oui encore !), mélangez les œufs et le sucre (jusqu’à ce que la préparation blanchisse un peu), puis incorporez la farine, mélangez de nouveau.

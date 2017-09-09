@@ -3,9 +3,9 @@ type: post
 title: Tartelettes mirabelles, pommes caramélisées
 date: 2012-10-08T14:43:00+00:00
 thumbnail: https://crokmou.com/images/20120926_tartelette_pomme_confiture_mirabelle_0018.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - caramel
   - cassonade
   - confiture
@@ -32,9 +32,9 @@ Voici donc une petite recette, simple, rapide et pleines de bons fruits ! Pour l
 
 Pour 4 tartelettes
 
-– 1 pâte feuilletée  
-– [Confiture de mirabelles](http://dedelicesensaveurs.blogspot.be/2012/10/confiture-de-mirabelles.html)  
-– 2 pommes  
+– 1 pâte feuilletée
+– [Confiture de mirabelles](http://dedelicesensaveurs.blogspot.be/2012/10/confiture-de-mirabelles.html)
+– 2 pommes
 – 4 càs de cassonade
 
 <div style="text-align: justify;">1- Découpez vos cercles de pâte feuilletée de telle sorte que ceux ci soient un peu plus grands que vos moules
@@ -67,4 +67,4 @@ On oublie pas non plus que dans 2 jours, [le concours qui vous permet de gagner 
 
 Des bisous les amis !
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

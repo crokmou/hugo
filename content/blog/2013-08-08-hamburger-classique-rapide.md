@@ -3,9 +3,9 @@ type: post
 title: Hamburger classique rapide
 date: 2013-08-08T17:22:00+00:00
 thumbnail: https://crokmou.com/images/20130629_hamburger_0041.jpg
-categories: 
+categories:
   - Plats
-tags: 
+tags:
   - boeuf
   - fromage
   - hamburger
@@ -31,25 +31,25 @@ Revenons dès à présent à nos moutons, ou du moins nos envies culinaires. Pou
 
 Pour 4 personnes
 
-– 4 pains à hamburger (idée de recettes –[ici](http://www.cuisicook.com/recherche?query=pain+burger)-)  
-– 440g de haché de boeuf (ou boeuf/porc)  
-– 2 oignons rouge  
-– 1 tomate  
-– salade  
-– 4 tranches de cheddar  
-– ketchup  
-– moutarde  
-– mayonnaise  
-– sel & poivre  
+– 4 pains à hamburger (idée de recettes –[ici](http://www.cuisicook.com/recherche?query=pain+burger)-)
+– 440g de haché de boeuf (ou boeuf/porc)
+– 2 oignons rouge
+– 1 tomate
+– salade
+– 4 tranches de cheddar
+– ketchup
+– moutarde
+– mayonnaise
+– sel & poivre
 – persil
 
 **○○○**
 
-1- Dans une [poêle](http://www.rueducommerce.fr/m/pl/malid:4769951) faites dorer vos oignons émincés.  
-2- Mélangez dans un [saladier](http://www.rueducommerce.fr/m/pl/malid:4769897) votre viande et assaisonnez là avec du sel, du poivre et un peu de persil (préalablement ciselé à l’aide de [ciseaux](http://www.rueducommerce.fr/m/pl/malid:43774606) ou d’un bon [couteau](http://www.rueducommerce.fr/m/pl/malid:12468606)). Formez ensuite des burgers d’environ 110g chacun.  
-3- Dans un [bol](http://www.rueducommerce.fr/m/pl/malid:4769881) mélangez le ketchup et la mayonnaise (un peu plus de ketchup que de mayo), ajoutez ensuite une pointe de moutarde et relevez le tout avec du sel et du poivre.  
-4- Coupez vos pains burgers en deux. Commencez à montre votre burger avec : un peu de sauce, puis les oignons et la salade.  
-5- Faites cuire vos steaks dans une poêle bien chaude avec un peu de beurre  
+1- Dans une [poêle](http://www.rueducommerce.fr/m/pl/malid:4769951) faites dorer vos oignons émincés.
+2- Mélangez dans un [saladier](http://www.rueducommerce.fr/m/pl/malid:4769897) votre viande et assaisonnez là avec du sel, du poivre et un peu de persil (préalablement ciselé à l’aide de [ciseaux](http://www.rueducommerce.fr/m/pl/malid:43774606) ou d’un bon [couteau](http://www.rueducommerce.fr/m/pl/malid:12468606)). Formez ensuite des burgers d’environ 110g chacun.
+3- Dans un [bol](http://www.rueducommerce.fr/m/pl/malid:4769881) mélangez le ketchup et la mayonnaise (un peu plus de ketchup que de mayo), ajoutez ensuite une pointe de moutarde et relevez le tout avec du sel et du poivre.
+4- Coupez vos pains burgers en deux. Commencez à montre votre burger avec : un peu de sauce, puis les oignons et la salade.
+5- Faites cuire vos steaks dans une poêle bien chaude avec un peu de beurre
 6- Positionnez le steak au dessus de la salade puis ajoutez la tranche de cheddar, les tomates, encore un peu d’oignons et de sauces puis le chapeau du pain. Et voilà, un délicieux burger fait maison à déguster entre amis ou en famille !
 
 Astuce : Passez les burgers quelques minutes sous le grill du [four](http://www.rueducommerce.fr/m/pl/malid:9404136) avec de déguster, c’est encore meilleur !
@@ -60,6 +60,6 @@ N’hésitez pas à m’envoyer vos recette, je ferais une sélection que je pos
 
 Je vous embrasse et vous dit à très bientôt !
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 
  

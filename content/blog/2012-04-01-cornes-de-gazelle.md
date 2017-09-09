@@ -3,9 +3,9 @@ type: post
 title: Cornes de gazelle
 date: 2012-04-01T15:00:00+00:00
 thumbnail: https://crokmou.com/images/20120321_Corne_de_gazelle_001.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - amande
   - amande en poudre
   - citron
@@ -21,24 +21,25 @@ Quelle délicieuse odeur de fleur d’oranger. Vous savez quoi ? Et bien je raff
 
 Pour environ 25 cornes de gazelle
 
--200 g de farine  
--80 g de beurre  
--100 ml de fleur d’oranger pour la pâte  
--250 g de poudre d’amandes  
--70 g de sucre glace pour la farce  
--1 zeste de citron  
--1 peu d’eau de fleur d’oranger  
+-200 g de farine
+-80 g de beurre
+-100 ml de fleur d’oranger pour la pâte
+-250 g de poudre d’amandes
+-70 g de sucre glace pour la farce
+-1 zeste de citron
+-1 peu d’eau de fleur d’oranger
 -100 g de sucre glace pour glaçage
 
-1- Préchauffez votre four à 180°C (Thermostat 6 car 3×6 = 18 (petite astuce du jour !))  
-2- Dans un saladier, mélangez le beurre, la farine, les 100ml de fleur d’oranger et le zeste de citron. Formez une pâte légère et assez souple pour vous permettre de bien la travailler après.  
-3- Dans un autre saladier, préparez la farce avec la poudre d’amande, le sucre glace et de nouveau un peu d’eau de fleur d’oranger. Malaxez le tout afin d’obtenir une belle boule de pâte.  
-4- Vous allez maintenant étaler votre pâte assez finement et à l’aide d’un verre, découper des ronds.  
-5- Prenez un peu de farce et mettez en dans vos cercles (en donnant une forme de croissant). Formez des petites lunes tout en soudant bien les bords.  
-6- Disposez vos cornes de gazelles sur une plaque préalablement recouverte de papier sulfurisé et faites cuire environ 15 min (les cornes de gazelles ne doivent pas dorer)  
+1- Préchauffez votre four à 180°C (Thermostat 6 car 3×6 = 18 (petite astuce du jour !))
+2- Dans un saladier, mélangez le beurre, la farine, les 100ml de fleur d’oranger et le zeste de citron. Formez une pâte légère et assez souple pour vous permettre de bien la travailler après.
+3- Dans un autre saladier, préparez la farce avec la poudre d’amande, le sucre glace et de nouveau un peu d’eau de fleur d’oranger. Malaxez le tout afin d’obtenir une belle boule de pâte.
+4- Vous allez maintenant étaler votre pâte assez finement et à l’aide d’un verre, découper des ronds.
+5- Prenez un peu de farce et mettez en dans vos cercles (en donnant une forme de croissant). Formez des petites lunes tout en soudant bien les bords.
+6- Disposez vos cornes de gazelles sur une plaque préalablement recouverte de papier sulfurisé et faites cuire environ 15 min (les cornes de gazelles ne doivent pas dorer)
 7- Une fois les croissants cuits, faites les rouler dans du sucre glace. Attendez que le tout refroidisse et dégustez !
 
-**Et vous qu’en pensez vous ? Avez vous déjà gouté ces petites pâtisseries ?** ** ** **Vous pourrez trouver d’autres recettes ici :** * **[Omo-Chakir](http://omochakir.over-blog.com/categorie-10822611.html) par Nawal**
+**Et vous qu’en pensez vous ? Avez vous déjà gouté ces petites pâtisseries ?** ** ** **Vous pourrez trouver d’autres recettes ici :**
+* **[Omo-Chakir](http://omochakir.over-blog.com/categorie-10822611.html) par Nawal**
 
 Pour ma part je suis en vacances, alors je vous souhaite à tous une très bonne semaine !
 

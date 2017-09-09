@@ -3,19 +3,25 @@ type: post
 title: Pancakes moelleux maison
 date: 2013-06-26T17:16:00+00:00
 thumbnail: https://crokmou.com/images/20130626_pancakes_moelleux_0020.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - chandeleur
   - dessert
   - food anime
-ingredient_qty: 
+ingredient_qty:
   - Pour 12 pancakes environ
-ingredient_temps: 
+ingredient_temps:
   - 'Préparation : 10 minutes | Repos : 30 minutes | Cuisson : 3 minutes'
 ingredient_textarea: |
-  - |
-  > * 3 oeufs> * 30g de beurre> * 300ml de lait> * 300g de farine> * 1/2 sachet de levure chimique> * 80g de sucre> * 1 sachet de sucre vanillé> * 1 pincée de sel
+  * 3 oeufs
+  * 30g de beurre
+  * 300ml de lait
+  * 300g de farine
+  * 1/2 sachet de levure chimique
+  * 80g de sucre
+  * 1 sachet de sucre vanillé
+  * 1 pincée de sel
 disqusId: 3587684581
 slug: pancakes-moelleux-maison
 ---
@@ -37,6 +43,6 @@ Sortez votre [saladier](http://www.rueducommerce.fr/m/pl/malid:4769897), un [fou
 
 ![pancakes moelleux maison](http://www.crokmou.com/wp-content/uploads/2016/05/pancakes.gif)
 
-  **Et vous, avez quoi mangez vous vos pancakes habituellement ? Nature ou une petite touche perso ajoutée à la pâte ?** ** ** A bientôt pour de nouvelles aventures, notamment la dernière campagne [Delhaize](http://www.delhaize.be/), un test d’un produit de la gamme [Comtesse du Barry](http://www.comtessedubarry.com/), une petite dégustation de fois gras à la nouvelle boutique [Petrossian](http://www.petrossian.fr/) à Bruxelles et d’autres petites recettes ! Bisous les gourmands !
+**Et vous, avez quoi mangez vous vos pancakes habituellement ? Nature ou une petite touche perso ajoutée à la pâte ?** ** ** A bientôt pour de nouvelles aventures, notamment la dernière campagne [Delhaize](http://www.delhaize.be/), un test d’un produit de la gamme [Comtesse du Barry](http://www.comtessedubarry.com/), une petite dégustation de fois gras à la nouvelle boutique [Petrossian](http://www.petrossian.fr/) à Bruxelles et d’autres petites recettes ! Bisous les gourmands !
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

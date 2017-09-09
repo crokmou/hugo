@@ -3,9 +3,9 @@ type: post
 title: "Beurre à l'ail des ours"
 date: 2013-06-08T16:48:00+00:00
 thumbnail: https://crokmou.com/images/20130608_beurre_demi_sel_ail_des_ours_0028.jpg
-categories: 
+categories:
   - Apéritifs
-tags: 
+tags:
   - ail
   - ail des ours
   - ail sauvage
@@ -30,21 +30,21 @@ Passons maintenant à la recette ! Sortez le [blender](http://www.rueducommerce
 
 Pour 250g de beurre
 
-– 250 g de bon beurre demi-sel  
+– 250 g de bon beurre demi-sel
 – 100/150g de feuilles d’ail des ours (vous pouvez aussi utiliser les fleurs)
 
 **○○○**
 
-1- Nettoyez une première fois vos feuilles (et/ou vos fleurs) à l’eau claire. Nettoyez de nouveau dans de l’eau avec un peu de vinaigre blanc puis rincez avec une nouvelle fois à l’eau claire.  
-2- Laissez sécher vos feuilles sur un torchon propre.  
-3- Sortez le beurre du frigo 5/10 minutes avant la préparation. Mixez vos feuilles d’ail de sours finement.  
-4- Dans un cul de poule, écrasez le beurre à l’aide d’une fourchette et mélangez avec l’ail des ours.  
+1- Nettoyez une première fois vos feuilles (et/ou vos fleurs) à l’eau claire. Nettoyez de nouveau dans de l’eau avec un peu de vinaigre blanc puis rincez avec une nouvelle fois à l’eau claire.
+2- Laissez sécher vos feuilles sur un torchon propre.
+3- Sortez le beurre du frigo 5/10 minutes avant la préparation. Mixez vos feuilles d’ail de sours finement.
+4- Dans un cul de poule, écrasez le beurre à l’aide d’une fourchette et mélangez avec l’ail des ours.
 5- Emballez votre préparation dans du cellophane et formez un boudin. Laissez durcir votre beurre au réfrigérateur. Ensuite dégustez ou congelez selon vos besoins !
 
 Astuce : Variez les plaisirs en ajoutant tout ce que vous souhaitez dans du beurre ! Troquez l’ail de ours pour du thym ou du basilic, de l’oseille… ** **
 
-_[Recipe in English ](https://lh5.googleusercontent.com/-HPxChO8DNP8/Uc84PqYbXaI/AAAAAAAAHoU/-2hI2lyodsc/s841/bear_garlic_butter.png)_  
- __ 
+_[Recipe in English ](https://lh5.googleusercontent.com/-HPxChO8DNP8/Uc84PqYbXaI/AAAAAAAAHoU/-2hI2lyodsc/s841/bear_garlic_butter.png)_
+ __
 
 <table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
 
@@ -70,4 +70,4 @@ _ _
 
 ** ** ** ** ** ** **Avez vous déjà fait du beurre maison en y ajoutant différents produits ? Quelles sont vos recettes préférées ?** ** ** N’oubliez pas que dès Jeudi prochain, je commence [mon exposition sur Bruxelles](https://www.facebook.com/pages/Exposition-photographies-Helb/465477086837367), n’hésitez pas à venir faire un tour si vous n’êtes pas loin ! Dès Lundi vous pourrez aussi participer au [concours So’Bonbon](http://www.crokmou.com/2013/06/concours-photo-sobonbon.html) !
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

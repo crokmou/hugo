@@ -3,9 +3,9 @@ type: post
 title: Mikado maison
 date: 2012-08-28T15:29:00+00:00
 thumbnail: https://crokmou.com/images/20120827_mikado_home_made_0023.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - amande
   - amande en poudre
   - chocolat
@@ -31,15 +31,15 @@ Ce qui est bien avec ces petits Mikado maison (recette trouvée [ici](http://www
 
 Pour réaliser ces petits Mikado, vous aurez besoin de votre [matériel à pâtisserie](http://www.rueducommerce.fr/m/pl/malid:12468605), de votre [balance de cuisine](http://www.rueducommerce.fr/m/pl/malid:9633601), d’une [casserole](http://www.rueducommerce.fr/m/pl/malid:115), de [bols](http://www.rueducommerce.fr/m/pl/malid:4769881) et d’un bon et grand [couteau](http://www.rueducommerce.fr/m/pl/malid:12468606) !
 
-Pour environ 30 Mikado  
+Pour environ 30 Mikado
 (environ 15cm de longueur)
 
-**Pour les bâtonnets :**  
--75g de beurre  
--50g de sucre glace  
--1g de sel  
--1 oeuf  
--20g de poudre d’amandes  
+**Pour les bâtonnets :**
+-75g de beurre
+-50g de sucre glace
+-1g de sel
+-1 oeuf
+-20g de poudre d’amandes
 -130g de farine
 
 **Pour l’enrobage :** -200g de chocolat noir -des éclats de ce que vous préférez (amandes, noisettes, pistaches…etc)
@@ -70,4 +70,4 @@ Passez une bonne fin de journée !
 
 [![](http://3.bp.blogspot.com/-I817da13H3k/UDzUZvoPmNI/AAAAAAAADmc/6550bze6VFs/s1600/emoticon-2-003.gif)](http://3.bp.blogspot.com/-I817da13H3k/UDzUZvoPmNI/AAAAAAAADmc/6550bze6VFs/s1600/emoticon-2-003.gif)
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

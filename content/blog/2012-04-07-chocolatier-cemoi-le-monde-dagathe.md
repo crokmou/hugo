@@ -2,9 +2,9 @@
 type: post
 title: "Chocolatier Cémoi – Le monde d'Agathe"
 date: 2012-04-07T10:36:00+00:00
-categories: 
+categories:
   - Lifestyle
-disqusId: 
+disqusId:
 slug: chocolatier-cemoi-le-monde-dagathe
 ---
 
@@ -22,7 +22,7 @@ Cémoi m’a aussi envoyé un très beau livre concernant Le monde d’Agathe, a
 
 <tr>
 
-<td style="text-align: center;">[![Cémoi, chocolatier Français - Le monde d'Agathe](http://2.bp.blogspot.com/-lgYGeKr3Kcs/T4AHrONfzaI/AAAAAAAACCc/ZjOvJhGEyMA/s640/Le_monde_d'agathe_Ce%CC%81moi_Chocolatier.jpg)](http://2.bp.blogspot.com/-lgYGeKr3Kcs/T4AHrONfzaI/AAAAAAAACCc/ZjOvJhGEyMA/s1600/Le_monde_d'agathe_Ce%CC%81moi_Chocolatier.jpg)</td>
+<td style="text-align: center;">[![Cémoi, chocolatier Français - Le monde d'Agathe](http://2.bp.blogspot.com/-lgYGeKr3Kcs/T4AHrONfzaI/AAAAAAAACCc/ZjOvJhGEyMA/s640/Le_monde_d'agathe_Cémoi_Chocolatier.jpg)](http://2.bp.blogspot.com/-lgYGeKr3Kcs/T4AHrONfzaI/AAAAAAAACCc/ZjOvJhGEyMA/s1600/Le_monde_d'agathe_Cémoi_Chocolatier.jpg)</td>
 
 </tr>
 

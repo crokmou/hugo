@@ -3,21 +3,24 @@ type: post
 title: Pain boule au levain maison
 date: 2014-07-24T16:54:00+00:00
 thumbnail: https://crokmou.com/images/pain-boule-levain.jpg
-categories: 
+categories:
   - Boulangerie
-tags: 
+tags:
   - boulange
   - boulangerie
   - levain
   - pain
   - pain boule
-ingredient_qty: 
+ingredient_qty:
   - Pour 1 boule de 920g environ
-ingredient_temps: 
+ingredient_temps:
   - 'Pétrissage : 10 min | Pointage : 1h30 | Seconde pousse : 2h | Cuisson : 40 à 45 minutes'
 ingredient_textarea: |
-  - |
-  > * 500g de farine de blé T65> * 350g d'eau à tiède> * 100g de [levain liquide](http://www.crokmou.com/levain-fait-maison/ Levain fait maison)> * 2g de levure de boulanger fraîche> * 8g de sel
+  * 500g de farine de blé T65
+  * 350g d'eau à tiède
+  * 100g de [levain liquide](http://www.crokmou.com/levain-fait-maison/ Levain fait maison)
+  * 2g de levure de boulanger fraîche
+  * 8g de sel
 disqusId: 3587683001
 slug: pain-boule-au-levain
 ---
@@ -32,7 +35,7 @@ La première recette que j’ai donc réalisé avec mon robot pétrin est celle 
 
 ##### Recette
 
-1.  Dans la cuve de votre robot, versez la farine, la levure, le levain, le sel (faites attention à ce qu’il ne touche ni la levure ni le levain) puis l’eau. Pétrissez 4 minutes à vitesse lente puis 6 minutes environ à vitesse rapide.  
+1.  Dans la cuve de votre robot, versez la farine, la levure, le levain, le sel (faites attention à ce qu’il ne touche ni la levure ni le levain) puis l’eau. Pétrissez 4 minutes à vitesse lente puis 6 minutes environ à vitesse rapide.
     Si vous faites le tout à la main voici la marche à suivre : sur un plan de travail ou dans un grand saladier, versez la farine et formez un puit au milieu. Ajoutez la moitié de l’eau, le levain, la levure et le sel (toujours sans contact direct avec la levure et le levain). Mélangez bien puis versez peu à peu le reste d’eau jusqu’à ce que toute la farine soit absorbée. Pétrissez ensuite pour obtenir une pâte souple et lisse
 2.  Formez une boule avec votre pâte, couvrez là d’un linge humide et laissez pousser pendant 1h30, elle va ainsi prendre du volume.
 3.  Farinez votre plan de travail puis retournez la pâte dessus. Dégazez un peu puis ramenez les coins de la pâte vers le centre. Retournez ensuite le pâton et formez une boule : pour cela faites tourner la pâte entre vos mains en serrant bien vers le bas ([voir cette vidéo](https://www.youtube.com/watch?v=N1W5LxbSD3o))

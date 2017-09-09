@@ -3,9 +3,9 @@ type: post
 title: Caramels aux amandes et chocolat
 date: 2012-01-15T12:41:00+00:00
 thumbnail: https://crokmou.com/images/20120115_caramel_chocolat_miel_amande_1.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - amande
   - caramel
   - chocolat
@@ -27,19 +27,19 @@ Pour la recette je l’ai trouvée chez [Ôdélices](http://www.odelices.com/rec
 
 Pour 25/30 caramels
 
-– 100g de sucre  
-– 50g de miel  
-– 75g de beurre  
-– 50g de crème fraiche  
-– 100g de chocolat noir  
-– une poignée d’amandes effilées  
+– 100g de sucre
+– 50g de miel
+– 75g de beurre
+– 50g de crème fraiche
+– 100g de chocolat noir
+– une poignée d’amandes effilées
 – huile
 
-1- Mélangez le sucre, le miel, le beurre et la crème fraiche dans une casserole. Portez le tout à feu doux en ne cessant de remuer  
-2- Pendant ce temps, faites fondre votre chocolat au bain marie (ou au micro-ondes)  
-3- Lorsque le mélange présent dans votre casserole mousse et brunit, ajoutez le chocolat fondu et les amandes effilées.  
-4- Mettez votre plat à gratin au frigo. Pour verifier la cuisson de votre caramel, il vous suffit de verser quelques gouttes du mélange dans un verre d’eau froide, si vous obtenez une petite boule ferme c’est que votre mélange est prêt !  
-5- Sortez votre plat à gratin du frigo et huilez-le, une fois ceci fait, versez le mélange caramel  
+1- Mélangez le sucre, le miel, le beurre et la crème fraiche dans une casserole. Portez le tout à feu doux en ne cessant de remuer
+2- Pendant ce temps, faites fondre votre chocolat au bain marie (ou au micro-ondes)
+3- Lorsque le mélange présent dans votre casserole mousse et brunit, ajoutez le chocolat fondu et les amandes effilées.
+4- Mettez votre plat à gratin au frigo. Pour verifier la cuisson de votre caramel, il vous suffit de verser quelques gouttes du mélange dans un verre d’eau froide, si vous obtenez une petite boule ferme c’est que votre mélange est prêt !
+5- Sortez votre plat à gratin du frigo et huilez-le, une fois ceci fait, versez le mélange caramel
 6- Attendez que votre caramel ai complètement refroidi avant de le décoller et de couper les carrés avec votre couteau (ou tout simplement couper des morceaux à la main)Astuce [Ôdélices](http://www.odelices.com/recette/Caramels-au-chocolat-r443) : Lorsque la trace de votre doigts peut rester sur le caramel, tracez des petits carrés à l’aide de votre couteau huilé si vous désirez avoir des caramels bien coupés.
 
 Dégustez avec un bon petit café (N’oubliez pas chez Rue du Commerce il vous sera possible de trouver des éléments pour [entretenir votre cafetière](http://www.rueducommerce.fr/m/pl/malid:15123449) ou tout simplement des [supports à dosettes](http://www.rueducommerce.fr/m/pl/malid:15123451)), avec du thé ou tout simplement par gourmandise !

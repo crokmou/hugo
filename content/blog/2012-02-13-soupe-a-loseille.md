@@ -3,9 +3,9 @@ type: post
 title: "Soupe à l'oseille"
 date: 2012-02-13T20:05:00+00:00
 thumbnail: https://crokmou.com/images/20120212_Soupe_oseille_0013.jpg
-categories: 
+categories:
   - Plats
-tags: 
+tags:
   - bouillon
   - entree
   - lait
@@ -29,18 +29,18 @@ N’oubliez donc pas pour réaliser cette recette : de sortir vos pommes de terr
 
 Pour 4 bols
 
-– 3 pommes de terre (calibre moyen/gros)  
-– 300g d’oseille surgelé  
-– 1 bouillon cube  
-– lait  
-– eau  
+– 3 pommes de terre (calibre moyen/gros)
+– 300g d’oseille surgelé
+– 1 bouillon cube
+– lait
+– eau
 – sel & poivre
 
-1- Dans votre marmite, faites fondre avec un peu de beurre l’oseille.  
-2- Une fois l’oseille fondue, ajoutez vos pommes de terres coupées en morceaux (encore crues !) et ajoutez du lait jusqu’a ce que les pommes de terres soient presque recouvertes (après tout depend de vos gouts, si vous préférez mettre plus d’eau que de lait)  
-3- Cette fois ajoutez de l’eau afin que celle-ci recouvre vos pommes de terre, ajoutez aussi votre bouillon cube  
-4- Laissez cuire à feu doux/moyen pendant environ 30/45min  
-5- Une fois les pommes de terres bien cuites, mixez le tout.  
+1- Dans votre marmite, faites fondre avec un peu de beurre l’oseille.
+2- Une fois l’oseille fondue, ajoutez vos pommes de terres coupées en morceaux (encore crues !) et ajoutez du lait jusqu’a ce que les pommes de terres soient presque recouvertes (après tout depend de vos gouts, si vous préférez mettre plus d’eau que de lait)
+3- Cette fois ajoutez de l’eau afin que celle-ci recouvre vos pommes de terre, ajoutez aussi votre bouillon cube
+4- Laissez cuire à feu doux/moyen pendant environ 30/45min
+5- Une fois les pommes de terres bien cuites, mixez le tout.
 6- Salez, poivre et dégustez avec de bon [petits pains](http://crokmou.blogspot.com/2012/02/petits-pains-sans-petrissage.html) (beurrés) maison !
 
 Et pour ceux qui ne connaissent pas bien l’oseille, je vous fait un petit récapitulatif (plusieurs sources venant d’internet notamment Marmiton et Bourgogne-recette) :
@@ -53,7 +53,7 @@ L’oseille, avec son petit goût citronné acidulé, est devenue un classique
 
 Vous désirez d’autres recettes ?
 
-Voici ce que j’ai pu trouvé d’intéréssant   
+Voici ce que j’ai pu trouvé d’intéréssant
 
 *   [Sauce oseille-champagne](http://www.petitcheflustine.com/article-sauce-oseille-champagne-53711646.html) sur Petit chef Lustine*   [Risotto à l’oseille, à la menthe et à la purée d’amande](http://www.cleacuisine.fr/plats-vegetariens/risotto-a-loseille-a-la-menthe-et-a-la-puree-damande/) par Clea cuisine*   [Gratin de panais à l’oseille façon tartiflette](http://cuisinedetouslesjours.over-blog.com/article-gratin-de-panais-a-l-oseille-fa-on-tartiflette-99095252.html) par Cuisine de tous les jours*   [Lasagnes saumon, oseille et crème de comté](http://www.s-commesoeurs.com/article-lasagnes-saumon-oseille-et-creme-de-comte-pour-le-challenge-comte-72422627.html) par S comme soeurs
 

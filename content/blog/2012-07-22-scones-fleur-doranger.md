@@ -3,9 +3,9 @@ type: post
 title: "Scones fleur d'oranger"
 date: 2012-07-22T10:27:00+00:00
 thumbnail: https://crokmou.com/images/20120614_scones_fleur_doranger_0035.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - fleur
   - "fleur d'oranger"
   - lait
@@ -21,19 +21,19 @@ Un réveil un peu difficile ? Il est déjà 11h, c’est un peu tard pour petit 
 
 Pour 10 scones
 
--150ml de lait  
--250g de farine  
--50g de beurre demi-sel(pommade)  
--1 sachet de levure  
--1 oeuf battu  
+-150ml de lait
+-250g de farine
+-50g de beurre demi-sel(pommade)
+-1 sachet de levure
+-1 oeuf battu
 -2 càs d’eau de fleur d’oranger
 
-1- Préchauffez votre four à 200°C  
-2- Dans un saladier ajoutez la farine, la levure, et le beurre demi-sel puis mélangez le tout du bout des doigts.  
-3- Ajoutez le lait et la fleur d’oranger, mélangez jusqu’à ce que le tout forme un boule de pâte homogène et non trop collante  
-4- Etalez votre pâte sur 3cm d’épaisseur environ sur un plan de travail que vous aurez fariné  
-5- A l’aide d’un emporte pièce, découpez des cercles que vous placerez sur une plaque allant au four préalablement recouverte de papier sulfurisé. Badigeonnez ensuite vos scones d’oeuf battu (afin que le dessus soit bien doré !)  
-6- Enfournez pendant environ 15 min  
+1- Préchauffez votre four à 200°C
+2- Dans un saladier ajoutez la farine, la levure, et le beurre demi-sel puis mélangez le tout du bout des doigts.
+3- Ajoutez le lait et la fleur d’oranger, mélangez jusqu’à ce que le tout forme un boule de pâte homogène et non trop collante
+4- Etalez votre pâte sur 3cm d’épaisseur environ sur un plan de travail que vous aurez fariné
+5- A l’aide d’un emporte pièce, découpez des cercles que vous placerez sur une plaque allant au four préalablement recouverte de papier sulfurisé. Badigeonnez ensuite vos scones d’oeuf battu (afin que le dessus soit bien doré !)
+6- Enfournez pendant environ 15 min
 7- Une fois que vos scones sont cuits, retirez les du four et attendez un peu qu’ils refroidissent avant de déguster !
 
 Et pourquoi pas savourer ces délicieux scones avec de la confiture de lait maison ([Ici pour la recette](http://crokmou.blogspot.fr/2012/07/dulce-de-leche-confiture-de-lait.html)) ou tout simplement un peu de miel ou de confiture de fruits ?J’ai une petite question à vous poser, qu’allez vous faire en ce dimanche ensoleillé ? Pour ma part je vais profiter du beau paysage qui s’offre à moi (et tenter de réviser un peu aussi) !

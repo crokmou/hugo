@@ -2,9 +2,9 @@
 type: post
 title: Résultats du concours
 date: 2012-04-25T14:19:00+00:00
-categories: 
+categories:
   - Lifestyle
-disqusId: 
+disqusId:
 slug: resultats-du-concours
 ---
 
@@ -12,7 +12,7 @@ C’est le jour J, oui oui ! Avant de vous reveler les noms des gagnants je tien
 
 [![](http://2.bp.blogspot.com/-rXinC5C5eB4/T5MVj9gJmnI/AAAAAAAACHw/aCDZ67OPf00/s320/cupcake_the%25CC%2581_vert_matcha.jpg)](http://2.bp.blogspot.com/-rXinC5C5eB4/T5MVj9gJmnI/AAAAAAAACHw/aCDZ67OPf00/s1600/cupcake_the%25CC%2581_vert_matcha.jpg)
 
-**1ère gagnante** : [Nathalie avec sa photographie des cupcakes au thé vert matcha](http://www.lacuisinedenathalie.com/article-cupcakes-au-the-matcha-participation-au-concours-du-blog-cro-k-mou-103825370-comments.html#anchorComment). 
+**1ère gagnante** : [Nathalie avec sa photographie des cupcakes au thé vert matcha](http://www.lacuisinedenathalie.com/article-cupcakes-au-the-matcha-participation-au-concours-du-blog-cro-k-mou-103825370-comments.html#anchorComment).
 
 Je trouve que la lumière et la profondeur de champ sont magnifiquement bien gérées ! J’aime beaucoup l’ambiance qui se dégage, et je crois que c’est typique de tes photographies Nathalie !
 
@@ -60,7 +60,11 @@ Je trouve qu’il y a une très belle lumière, les contrastes sont légers mais
 
 [![](http://4.bp.blogspot.com/-VzZGo_ZGZ14/T5J0vOqgqPI/AAAAAAAACHk/qDN2JjI7HRo/s200/brow-coco.jpeg)](http://4.bp.blogspot.com/-VzZGo_ZGZ14/T5J0vOqgqPI/AAAAAAAACHk/qDN2JjI7HRo/s1600/brow-coco.jpeg)
 
-[Isabelle avec le brownie à la noix de coco](http://pourquoi-pas-isa.blogspot.com/2012/04/brownies-la-noix-de-coco.html) : J’aime beaucoup l’idée de la nature, du jardin. La lumière est elle aussi très bien. Par contre je trouve les verres un peu trop grand face aux bouts de brownie et comme le cadrage est assez large, on ne sait plus vraiment ce qui est principalement photographié. J’aurai simplement mis d’autres verres ou pourquoi pas sans, et cadrer les brownie un peu plus sérré afin de n’avoir pas trop d’espace vide non plus. <u>Et pour la fin je vais vous donner quelques conseils suite à la visualisations de vos photos :</u> * Utilisez la lumière du jour, c’est votre meilleur ami ! Et si les ombres vous sembles trop fortes, n’hésitez pas à les deboucher à l’aide d’une plaque de polystyrène ou d’un carton blanc. Placez votre plaque du côté de l’ombre, face à la lumière, les rayons vont se réfléchir sur votre carton et vos ombres seront nettement moins sombres ! * N’hésitez pas a tester plusieurs cadrages : sérrés ou un peu moins et à la fin en regardant vos photos, choisir ce qui vous semble être le mieux (Sachez qu’il est plus facile de recadrer dans une photo assez large que l’inverse !) * Faites du sobre ou ajoutez quelques petites déco mais ne surchargez pas votre composition, cela va rendre la chose étouffante ! * Tester, changez, recommencez, cliquez, prenez autant de photos que vous le pouvez et choisissez bien tranquillement sur votre écran votre photo en procédant a chaque fois par élimination !
+[Isabelle avec le brownie à la noix de coco](http://pourquoi-pas-isa.blogspot.com/2012/04/brownies-la-noix-de-coco.html) : J’aime beaucoup l’idée de la nature, du jardin. La lumière est elle aussi très bien. Par contre je trouve les verres un peu trop grand face aux bouts de brownie et comme le cadrage est assez large, on ne sait plus vraiment ce qui est principalement photographié. J’aurai simplement mis d’autres verres ou pourquoi pas sans, et cadrer les brownie un peu plus sérré afin de n’avoir pas trop d’espace vide non plus. <u>Et pour la fin je vais vous donner quelques conseils suite à la visualisations de vos photos :</u>
+* Utilisez la lumière du jour, c’est votre meilleur ami ! Et si les ombres vous sembles trop fortes, n’hésitez pas à les deboucher à l’aide d’une plaque de polystyrène ou d’un carton blanc. Placez votre plaque du côté de l’ombre, face à la lumière, les rayons vont se réfléchir sur votre carton et vos ombres seront nettement moins sombres !
+* N’hésitez pas a tester plusieurs cadrages : sérrés ou un peu moins et à la fin en regardant vos photos, choisir ce qui vous semble être le mieux (Sachez qu’il est plus facile de recadrer dans une photo assez large que l’inverse !)
+* Faites du sobre ou ajoutez quelques petites déco mais ne surchargez pas votre composition, cela va rendre la chose étouffante !
+* Tester, changez, recommencez, cliquez, prenez autant de photos que vous le pouvez et choisissez bien tranquillement sur votre écran votre photo en procédant a chaque fois par élimination !
 
 Voili voilou ! J’espère que mes conseils seront utiles, n’hésitez pas si vous avez d’autres questions ou si vous n’êtes tout simplement pas d’accord avec ce que je dis (ce qui est probable !).
 

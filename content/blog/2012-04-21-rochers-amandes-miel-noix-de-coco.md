@@ -3,9 +3,9 @@ type: post
 title: Rochers amandes, miel, noix de coco
 date: 2012-04-21T09:00:00+00:00
 thumbnail: https://crokmou.com/images/20120401_Rocher_coco_amande_15.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - amande
   - amande en poudre
   - miel
@@ -20,22 +20,22 @@ Voici donc une recette aux douces saveurs d’été (bien qu’en ce moment on s
 
 Pour environ 30 rochers
 
--2 blancs d’oeufs  
--110 g de sucre en poudre  
--1 càc d’extrait de vanille  
--4 càc de miel  
--35 g de farine  
--120g de poudre d’amandes  
+-2 blancs d’oeufs
+-110 g de sucre en poudre
+-1 càc d’extrait de vanille
+-4 càc de miel
+-35 g de farine
+-120g de poudre d’amandes
 -80 g de noix de coco râpée
 
-1- Préchauffez votre four à 150°C  
-2- Dans un récipient battez vos blancs d’oeuf en neige et ajoutez-y progressivement le sucre.  
-3- Ajoutez ensuite l’extrait de vanille, le miel, la farine, la poudre d’amande et la noix de coco (toujours en faisant attention de ne pas casser la meringue)  
-4- Déposez sur une plaque préalablement recouverte de papier cuisson des petits tas de meringues.  
-5- Mettre au [four](http://www.rueducommerce.fr/m/pl/malid:9404136) pour environ 40 min (les rochers doivent être dorés)  
+1- Préchauffez votre four à 150°C
+2- Dans un récipient battez vos blancs d’oeuf en neige et ajoutez-y progressivement le sucre.
+3- Ajoutez ensuite l’extrait de vanille, le miel, la farine, la poudre d’amande et la noix de coco (toujours en faisant attention de ne pas casser la meringue)
+4- Déposez sur une plaque préalablement recouverte de papier cuisson des petits tas de meringues.
+5- Mettre au [four](http://www.rueducommerce.fr/m/pl/malid:9404136) pour environ 40 min (les rochers doivent être dorés)
 6- Dégustez ces petites mignardises encore tièdes ou tout simplement refroidies !
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 
 A très bientôt !
 

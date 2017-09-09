@@ -3,9 +3,9 @@ type: post
 title: Muffins chocolat, avoine, quinoa soufflé
 date: 2012-03-16T11:44:00+00:00
 thumbnail: https://crokmou.com/images/20120316_Muffins_Chocolat_Avoine_Quinoa_souffl--_0048.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - avoine
   - cacao
   - chocolat
@@ -19,23 +19,24 @@ Et bien moi, j’aime le chocolat ! Il y a quelques temps j’ai décidé de per
 
 Pour 8 muffins
 
-– 60g de farine  
-– 2 oeufs  
-– 20g de son d’avoine (ou avoine tout court)  
-– 100g de chocolat (si possible 70%)  
-– 1 sachet de levure  
-– 2 càs de beurre allégé  
-– 2 càs de quinoa soufflé  
+– 60g de farine
+– 2 oeufs
+– 20g de son d’avoine (ou avoine tout court)
+– 100g de chocolat (si possible 70%)
+– 1 sachet de levure
+– 2 càs de beurre allégé
+– 2 càs de quinoa soufflé
 – 1,5 càs d’édulcorant liquide (pour la cuisson)
 
-1- Faites préchauffer votre four à 180°C  
-2- Dans un saladier, mélangez la farine, le son d’avoine, la levure et le quinoa soufflé. Puis ajoutez les oeufs et l’édulcorant et mélangez de nouveau.  
-3- Dans un bol, mettez-y le beurre et le chocolat et faites fondre au micro ondes.  
-4- Ajoutez le chocolat/beurre à la préparation puis ménagez jusqu’à avoir une pâte homogène  
-5- Répartissez dans vos moules à muffins/cakes (si possible en silicone afin de ne pas beurrer) et pour la [cuisson](http://www.rueducommerce.fr/m/pl/malid:24), laissez 12/15 min.  
+1- Faites préchauffer votre four à 180°C
+2- Dans un saladier, mélangez la farine, le son d’avoine, la levure et le quinoa soufflé. Puis ajoutez les oeufs et l’édulcorant et mélangez de nouveau.
+3- Dans un bol, mettez-y le beurre et le chocolat et faites fondre au micro ondes.
+4- Ajoutez le chocolat/beurre à la préparation puis ménagez jusqu’à avoir une pâte homogène
+5- Répartissez dans vos moules à muffins/cakes (si possible en silicone afin de ne pas beurrer) et pour la [cuisson](http://www.rueducommerce.fr/m/pl/malid:24), laissez 12/15 min.
 6- Retirez du four, et vous voilà avec de délicieux muffins !
 
-**Et vous, avez vous d’autres recettes dans ce genre là (Peu de calories et gourmand en même temps) ? Si c’est le cas n’hésitez pas à me laisser le lien, je me ferai un plaisir de l’ajouter à cette page !** ** ** **Pour des recettes lights rendez vous dès maintenant ici :** * [Les délices d’Amyssée](http://lesdelicesdamyssee.blogspot.fr/search/label/Recettes%20light) ** ** Je vous souhaite à tous une très bonne journée, et n’oubliez surtout pas de profiter des petits instants de bonheur quotidiens (quand on y réfléchit bien, ils sont très importants !).
+**Et vous, avez vous d’autres recettes dans ce genre là (Peu de calories et gourmand en même temps) ? Si c’est le cas n’hésitez pas à me laisser le lien, je me ferai un plaisir de l’ajouter à cette page !** ** ** **Pour des recettes lights rendez vous dès maintenant ici :**
+* [Les délices d’Amyssée](http://lesdelicesdamyssee.blogspot.fr/search/label/Recettes%20light) ** ** Je vous souhaite à tous une très bonne journée, et n’oubliez surtout pas de profiter des petits instants de bonheur quotidiens (quand on y réfléchit bien, ils sont très importants !).
 
 [![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)
 

@@ -2,13 +2,13 @@
 type: post
 title: Participations au concours
 date: 2012-04-19T11:30:00+00:00
-categories: 
+categories:
   - Lifestyle
-disqusId: 
+disqusId:
 slug: participations-au-concours
 ---
 
-Bonjour les gourmands ! Toujours pas de recette pour aujourd’hui (mais cela va très vite venir, je vous rassure !). Il est même prévu que je vous donne quelques astuces pour trier vos photos et les renommer correctement afin d’être un peu mieux referencer sur internet ! En attendant vous rappelez vous du concours organisé pour les un an du blog ? Non ? Bon et bien je vous rappelle le tout qui se trouvait [ici](http://crokmou.blogspot.fr/2012/03/crokmou-souffle-sa-premiere-bougie.html) « Tout d’abord il vous faudra choisir une recette présente sur ce blog. Vous réalisez cette recette, la mettez en « scène »comme vous le souhaitez, prenez une belle photographie (si possible prenez la dans une meilleure qualité possible (pour cela verifier dans les paramètres de votre appareil photo et sélectionnez la meilleure qualité), afin de pouvoir l’imprimer dans le format souhaité) et hop vous postez la recette sur votre blog en précisant que vous participez à ce concours. Par la suite vous m’envoyez donc un mail à l’adresse suivante : contact@sarahblieux.com pour me dire avec quelle recette vous concourrez, où je peux trouver votre article contenant la recette et la photographie réalisée mais aussi quelle photographie se trouvant sur le blog vous aimeriez avoir imprimé. Suite à cela le **Dimanche 22 avril** je procèderai au choix des trois gagnants ayant fait la plus belle photographie (étant plus axée sur la photographie il est bien sûr évident que je ne jugerai pas le plat :D, sachez néanmoins que je prendrai en compte le fait que vous n’êtes pas photographes de métier, pour cela aucunes inquiétudes à avoir !). Vous gagnerez alors l’impression (en très bonne qualité) de deux photographies (la votre, faite pour le concours et une de votre choix sur mon blog) en 20x30cm (env) »    <u>Voici donc pour le moment les participations reçues et je dois dire que cela commence très fort ! (Cliquez sur l’image pour acceder au blog) :</u>  
+Bonjour les gourmands ! Toujours pas de recette pour aujourd’hui (mais cela va très vite venir, je vous rassure !). Il est même prévu que je vous donne quelques astuces pour trier vos photos et les renommer correctement afin d’être un peu mieux referencer sur internet ! En attendant vous rappelez vous du concours organisé pour les un an du blog ? Non ? Bon et bien je vous rappelle le tout qui se trouvait [ici](http://crokmou.blogspot.fr/2012/03/crokmou-souffle-sa-premiere-bougie.html) « Tout d’abord il vous faudra choisir une recette présente sur ce blog. Vous réalisez cette recette, la mettez en « scène »comme vous le souhaitez, prenez une belle photographie (si possible prenez la dans une meilleure qualité possible (pour cela verifier dans les paramètres de votre appareil photo et sélectionnez la meilleure qualité), afin de pouvoir l’imprimer dans le format souhaité) et hop vous postez la recette sur votre blog en précisant que vous participez à ce concours. Par la suite vous m’envoyez donc un mail à l’adresse suivante : contact@sarahblieux.com pour me dire avec quelle recette vous concourrez, où je peux trouver votre article contenant la recette et la photographie réalisée mais aussi quelle photographie se trouvant sur le blog vous aimeriez avoir imprimé. Suite à cela le **Dimanche 22 avril** je procèderai au choix des trois gagnants ayant fait la plus belle photographie (étant plus axée sur la photographie il est bien sûr évident que je ne jugerai pas le plat :D, sachez néanmoins que je prendrai en compte le fait que vous n’êtes pas photographes de métier, pour cela aucunes inquiétudes à avoir !). Vous gagnerez alors l’impression (en très bonne qualité) de deux photographies (la votre, faite pour le concours et une de votre choix sur mon blog) en 20x30cm (env) »    <u>Voici donc pour le moment les participations reçues et je dois dire que cela commence très fort ! (Cliquez sur l’image pour acceder au blog) :</u>
 
 <table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;">
 
@@ -236,7 +236,7 @@ Bonjour les gourmands ! Toujours pas de recette pour aujourd’hui (mais cela va
 
 <tr>
 
-<td style="text-align: center;">[![](http://2.bp.blogspot.com/-rXinC5C5eB4/T5MVj9gJmnI/AAAAAAAACHw/aCDZ67OPf00/s320/cupcake_the%CC%81_vert_matcha.jpg)](http://www.blogger.com/goog_748280909)</td>
+<td style="text-align: center;">[![](http://2.bp.blogspot.com/-rXinC5C5eB4/T5MVj9gJmnI/AAAAAAAACHw/aCDZ67OPf00/s320/cupcake_thé_vert_matcha.jpg)](http://www.blogger.com/goog_748280909)</td>
 
 </tr>
 
@@ -250,8 +250,7 @@ Bonjour les gourmands ! Toujours pas de recette pour aujourd’hui (mais cela va
 
 </table>
 
-  J’attends vos autres participations avec impatience ! N’hésitez pas ! (Et surtout n’ayez pas peur !) Un très bon lundi de Pâques à vous !  
+  J’attends vos autres participations avec impatience ! N’hésitez pas ! (Et surtout n’ayez pas peur !) Un très bon lundi de Pâques à vous !
 
 [![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)
 
- 

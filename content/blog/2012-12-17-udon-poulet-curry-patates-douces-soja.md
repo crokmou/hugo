@@ -3,9 +3,9 @@ type: post
 title: Udon poulet curry, patates douces, soja
 date: 2012-12-17T12:09:00+00:00
 thumbnail: https://crokmou.com/images/20121216_soba_poulet_curry_soja_patate_douce_0008.jpg
-categories: 
+categories:
   - Plats
-tags: 
+tags:
   - creme fraiche
   - cumin
   - curry
@@ -36,15 +36,15 @@ J’aime beaucoup ce genre de recette car c’est vraiment facile à réaliser e
 
 Pour environ 3/4 personnes
 
-– 180g d’Udon  
-– 450g de blanc de poulet  
-– 150g de patates douces (surgelées Picard pour ma part)  
-– 200g de germes de soja  
-– 20cl de crème fraiche épaisse  
-– 4 càc de curry  
-– 1 càc de cumin moulu  
-– beurre  
-– huile  
+– 180g d’Udon
+– 450g de blanc de poulet
+– 150g de patates douces (surgelées Picard pour ma part)
+– 200g de germes de soja
+– 20cl de crème fraiche épaisse
+– 4 càc de curry
+– 1 càc de cumin moulu
+– beurre
+– huile
 – sel & poivre
 
 <div style="text-align: justify;">1- Faites chauffer une casserole d’eau salée. Lorsque l’eau boue, ajoutez les udon et les patates douces (préalablement coupées en cubes), laissez cuire 10 minutes puis égouttez.
@@ -63,4 +63,4 @@ Bon appétit ! **Et parce que je suis une grande curieuse, quelles sont vos rece
 
 [![](http://multiply.com/mu/rikodewayne/image/1/photos/3/500x500/16/s-ramen-1.gif?et=BT7WzV773TPNSvis9ZkhMg&nmid=307202166)](http://multiply.com/mu/rikodewayne/image/1/photos/3/500x500/16/s-ramen-1.gif?et=BT7WzV773TPNSvis9ZkhMg&nmid=307202166)
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

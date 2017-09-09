@@ -3,9 +3,9 @@ type: post
 title: Ravioles aux endives caramélisées
 date: 2011-04-13T16:15:00+00:00
 thumbnail: https://crokmou.com/images/raviolis.jpg
-categories: 
+categories:
   - Plats
-tags: 
+tags:
   - caramel
   - endive
   - lait
@@ -16,8 +16,6 @@ tags:
 disqusId: 3637317050
 slug: ravioles-aux-endives-caramelisees
 ---
-
-###  
 
 _Les endives, pas toujours facile de faire manger cela aux enfants. Je n’aimais pas beaucoup cela non plus jusqu’au jour où mon papounet me les as faites caramélisées, et depuis ce jour j’ai appris à aimer les endives sous tous les angles ! Magique non ?_
 

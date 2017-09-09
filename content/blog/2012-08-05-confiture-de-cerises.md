@@ -3,9 +3,9 @@ type: post
 title: Confiture de cerises
 date: 2012-08-05T10:32:00+00:00
 thumbnail: https://crokmou.com/images/20120805_confiture_cerise_0016.jpg
-categories: 
+categories:
   - 'Sauces - Confitures'
-tags: 
+tags:
   - cerise
   - confiture
   - fait maison
@@ -47,12 +47,12 @@ Promis un jour je prendrai le temps de vous expliquer tout ce blabla photographi
 
 Pour 3 pots
 
--700g de cerises  
+-700g de cerises
 -600g de confisuc
 
-1- Lavez, équeutez et dénoyautez vos cerises  
-2- Coupez les en morceaux et versez les dans une grande casserole (ou marmite à confiture). Ajoutez le sucre et laissez macérer une bonne demi journée.  
-3- Une fois le temps écoulé, faites cuire à petits bouillons la confiture jusqu’à ce que celle-ci est une bonne consistance (comptez environ 20/30min)  
+1- Lavez, équeutez et dénoyautez vos cerises
+2- Coupez les en morceaux et versez les dans une grande casserole (ou marmite à confiture). Ajoutez le sucre et laissez macérer une bonne demi journée.
+3- Une fois le temps écoulé, faites cuire à petits bouillons la confiture jusqu’à ce que celle-ci est une bonne consistance (comptez environ 20/30min)
 4- Versez ensuite votre confiture dans des pots préalablement stérilisés (plongez le capuchon et le pot dans de l’eau bouillante), puis retournez les (pour la conservation) une fois ceux-ci remplis !
 
 Simple comme bonjour non ? **Naturellement vous pouvez réaliser cette confiture avec d’autres fruits ! Personnellement je craque sur la confiture de mirabelles ! Et vous ?**
@@ -61,6 +61,6 @@ Bon dimanche à tous ! Moi je commence mon stage photo la semaine prochaine (pou
 
 A bientôt !
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 
 [![](http://2.bp.blogspot.com/-SuMJWTBoiRU/UB48i-uwKlI/AAAAAAAAC0s/wxTccCQ-1qM/s1600/kawaii_monkey_43.gif)](http://2.bp.blogspot.com/-SuMJWTBoiRU/UB48i-uwKlI/AAAAAAAAC0s/wxTccCQ-1qM/s1600/kawaii_monkey_43.gif)

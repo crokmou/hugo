@@ -3,9 +3,9 @@ type: post
 title: Brochettes de tomates cerise caramélisées, boursin
 date: 2012-06-13T16:53:00+00:00
 thumbnail: https://crokmou.com/images/20120605_Brochette_tomate_caramel_boursin_aperitif_olive_romarin_pistache__0059.jpg
-categories: 
+categories:
   - Apéritifs
-tags: 
+tags:
   - aperitif
   - boursin
   - brochette
@@ -25,16 +25,18 @@ Vous savez quoi ? Et bien je commence à drôlement vous aimer, ce pourquoi aujo
 
 Pour 20 minis brochettes
 
--70g de sucre  
--20 tomates cerises  
--fleur de sel  
--une boite de [Boursin Apéritifs et salade-Olive et romarin](http://www.boursin.be/fr/produits/boursin_salade_olives_et_romarin.cfm)  
--10 pistaches  
+-70g de sucre
+-20 tomates cerises
+-fleur de sel
+-une boite de [Boursin Apéritifs et salade-Olive et romarin](http://www.boursin.be/fr/produits/boursin_salade_olives_et_romarin.cfm)
+-10 pistaches
 -10 pics à brochettes (qu’on coupera en deux)
 
-1- Lavez et équeutez vos tomates cerise et disposez les sur des pics à brochettes (préalablement coupés en deux). Faites fondre votre sucre dans une casserole jusqu’à qu’il devienne du caramel.  
-2- Saupoudrez une plaque destinée à aller au four de fleur de sel. Trempez la moitié de vos tomates cerise dans le caramel et disposez les rapidement sur la plaque salée.  
-3- Disposez ensuite par dessus vos tomates, un petit Boursin salade puis quelques éclats de pistaches (préalablement mixées)  
+1- Lavez et équeutez vos tomates cerise et disposez les sur des pics à brochettes (préalablement coupés en deux). Faites fondre votre sucre dans une casserole jusqu’à qu’il devienne du caramel.
+2- Saupoudrez une plaque destinée à aller au four de fleur de sel. Trempez la moitié de vos tomates cerise dans le caramel et disposez les rapidement sur la plaque salée.
+3- Disposez ensuite par dessus vos tomates, un petit Boursin salade puis quelques éclats de pistaches (préalablement mixées)
 4- Mettez toutes vos brochettes sur une belle assiette et voilà votre apéro est prêt à être servi !
 
-* **Alors qu’en dites vous ? ** * **Avez vous déjà goûté ce produit qu’est le Boursin salade et apéritif ? ** * **Si oui, qu’en avez vous pensé ? Si non, aimeriez vous goûter ?***Produit offert
+* **Alors qu’en dites vous ? **
+* **Avez vous déjà goûté ce produit qu’est le Boursin salade et apéritif ? **
+* **Si oui, qu’en avez vous pensé ? Si non, aimeriez vous goûter ?***Produit offert

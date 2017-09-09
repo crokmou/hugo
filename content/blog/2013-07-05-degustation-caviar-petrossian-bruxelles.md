@@ -3,18 +3,18 @@ type: post
 title: Dégustation caviar Petrossian à Bruxelles
 date: 2013-07-05T18:39:00+00:00
 thumbnail: https://crokmou.com/images/20130625_petrossian_caviar_degustation_bruxelles_0014.jpg
-categories: 
+categories:
   - Lifestyle
 disqusId: 3587683295
 slug: degustation-caviar-petrossian-bruxelles
 ---
 
-**Petrossian – Epicerie fine**  
-Rue Vanderkindere, 418  
-1180 Bruxelles  
+**Petrossian – Epicerie fine**
+Rue Vanderkindere, 418
+1180 Bruxelles
 Tel: +32 (0)2 344 39 90
 
-  La semaine dernière nous avons eu la chance (d’autres blogueurs et moi même) d’être invités par Salima ([Parts de plaisir](http://partsdeplaisir.blogspot.be/)) pour une petite dégustation de caviar dans la boutique [Petrossian](http://www.petrossian.fr/). Autant vous l’avouer, au départ j’étais sceptique : les produits de la mer c’est pas mon truc, je n’avais jamais goûté de caviar et visuellement cela ne me plaisait pas du tout (quoi ? j’suis difficile vous trouvez ?!). Après quelques minutes de reflexion je me suis dit qu’assister à une telle dégustation et surtout dans un si bel endroit, cela ne se représenterai peut être jamais, je me suis donc lancée ! Petrossian est une boutique d’épicerie fine de grande renommée spécialisée dans le caviar depuis 1920\. Les plus anciennes boutiques se trouvent sur Paris mais actuellement l’enseigne ouvre d’autres magasins un peu partout dans le monde notamment aux Etats Unis, à Dubaï, au Brésil et plus récemment en Belgique ! C’est donc là, à Bruxelles que je me suis rendue au rendez vous !
+La semaine dernière nous avons eu la chance (d’autres blogueurs et moi même) d’être invités par Salima ([Parts de plaisir](http://partsdeplaisir.blogspot.be/)) pour une petite dégustation de caviar dans la boutique [Petrossian](http://www.petrossian.fr/). Autant vous l’avouer, au départ j’étais sceptique : les produits de la mer c’est pas mon truc, je n’avais jamais goûté de caviar et visuellement cela ne me plaisait pas du tout (quoi ? j’suis difficile vous trouvez ?!). Après quelques minutes de reflexion je me suis dit qu’assister à une telle dégustation et surtout dans un si bel endroit, cela ne se représenterai peut être jamais, je me suis donc lancée ! Petrossian est une boutique d’épicerie fine de grande renommée spécialisée dans le caviar depuis 1920\. Les plus anciennes boutiques se trouvent sur Paris mais actuellement l’enseigne ouvre d’autres magasins un peu partout dans le monde notamment aux Etats Unis, à Dubaï, au Brésil et plus récemment en Belgique ! C’est donc là, à Bruxelles que je me suis rendue au rendez vous !
 
 ![petrossian à bruxelles](http://www.crokmou.com/wp-content/uploads/2013/07/20130625_petrossian_caviar_degustation_bruxelles_0005.jpg) ![petrossian à bruxelles](http://www.crokmou.com/wp-content/uploads/2013/07/20130625_petrossian_caviar_degustation_bruxelles_0019.jpg)
 

@@ -3,9 +3,9 @@ type: post
 title: Riz au lait vanillé, caramel beurre salé
 date: 2013-11-18T12:32:00+00:00
 thumbnail: https://crokmou.com/images/riz_lait_vanille_caramel_beurre_sale_0026.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - beurre
   - caramel
   - caramel beurre sale
@@ -37,6 +37,6 @@ Et de votre coté, un dessert en particulier qui vous rappelle votre enfance ?
 
 A très bientôt les gourmands ! Poutoux
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 
  

@@ -3,9 +3,9 @@ type: post
 title: Baguette tradition
 date: 2014-02-13T18:52:00+00:00
 thumbnail: https://crokmou.com/images/070214-pain-baguette-tradition_04.jpg
-categories: 
+categories:
   - Boulangerie
-tags: 
+tags:
   - boulange
   - boulangerie
   - fait maison
@@ -22,10 +22,10 @@ Le pain, c’est très long à faire, pas trop trop difficile (c’est quand mê
 
 Pour 3 petites baguettes
 
-– 500g de farine T65 + travail de la pâte  
-– 12g de sel fin  
-– 380g d’eau tiède  
-– 8g de levure fraîche  
+– 500g de farine T65 + travail de la pâte
+– 12g de sel fin
+– 380g d’eau tiède
+– 8g de levure fraîche
 – 1 pincée de sucre
 
 1) Délayez la levure fraiche dans l’eau tiède et le sucre pendant une dizaine de minutes2) Dans le bol de votre [robot pâtissier](http://www.rueducommerce.fr/m/pl/malid:229,30023831) (ou à la main mais plus fastidieux), mélangez la farine avec le sel. Mettre à pétrir à vitesse lente et ajoutez la levure, laissez pétrir ainsi **10 minutes** environ puis à plus grande vitesse pendant **10 minutes** encore… C’est collant, c’est tout à fait normal

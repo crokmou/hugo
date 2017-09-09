@@ -3,9 +3,9 @@ type: post
 title: Feuilletés boudin blanc, figue, poire
 date: 2012-12-03T18:31:00+00:00
 thumbnail: https://crokmou.com/images/20121203_amuse_bouche_noel_boudin_blanc_figue_poire_cannelle_thym_0017.jpg
-categories: 
+categories:
   - Apéritifs
-tags: 
+tags:
   - amuse bouche
   - aperitif
   - boudin blanc
@@ -31,12 +31,12 @@ Ces petits feuilletés raviront vos convives à coup sûr ! Et puis ce qui est b
 
 Pour environ 13 feuilletés de 5cm de diamètre
 
-– 1 pâte feuilletée  
-– 180g de boudin blanc au figues ([Delhaize](http://fr.delhaize.be/))  
-– 1 poire conférence  
-– 30g de beurre  
-– cannelle  
-– thym  
+– 1 pâte feuilletée
+– 180g de boudin blanc au figues ([Delhaize](http://fr.delhaize.be/))
+– 1 poire conférence
+– 30g de beurre
+– cannelle
+– thym
 – sel & poivre
 
 <div style="text-align: justify;">1- Commencez par éplucher et couper votre poire en petits dès. Faites chauffer une poêle avec un peu de beurre et ajoutez vos dès de poire et quelques petites feuilles de thym. Laissez cuire quelques minutes tout en remuant assez souvent, ajoutez un peu de cannelle.
@@ -59,7 +59,7 @@ Pour environ 13 feuilletés de 5cm de diamètre
 
 Et vous, quels sont vos amuses bouches préférés ? A titre personnel j’aime aussi beaucoup les bouts de saucisses dans de la pâte feuilletée, c’est simple mais tellement bon !
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○  
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 
 *Produit offert
 

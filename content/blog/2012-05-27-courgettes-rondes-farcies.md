@@ -3,9 +3,9 @@ type: post
 title: Courgettes rondes farcies
 date: 2012-05-27T14:10:00+00:00
 thumbnail: https://crokmou.com/images/20120519_Courgettes_rondes_farcies_poivron_0024.jpg
-categories: 
+categories:
   - Plats
-tags: 
+tags:
   - boeuf hache
   - boursin
   - courgette
@@ -28,23 +28,23 @@ Pour préparer ce bon petit plat (qui sent bon l’été) : Une [casserole](http
 
 Pour 2 personnes
 
--2 courgettes rondes  
--120g de haché de porc/boeuf épicé (ou autre viande hachée)  
--40g de boursin cuisine au poivre  
--1 poivron vert  
--huile d’olive  
--beurre  
--thym  
+-2 courgettes rondes
+-120g de haché de porc/boeuf épicé (ou autre viande hachée)
+-40g de boursin cuisine au poivre
+-1 poivron vert
+-huile d’olive
+-beurre
+-thym
 -sel
 
-1- Lavez vos courgettes puis coupez un petit chapeau sur le dessus.  
-2- Videz vos courgettes à l’aide d’une cuillère, disposez la chair dans un bol et les « coques » au frigo  
-3- Lavez, videz et coupez votre poivron en petits morceaux.  
-4- Faites chauffer une sauteuse avec un petit filet d’huilde d’olive et un petit morceau de beurre. Ajoutez la chair de courgette, les poivrons, et le haché de viande.  
-5- Assaisonnez le tout avec du thym et du sel. Une fois les legumes fondant et la viande presque cuite, ajoutez le boursin et laissez fondre.  
-6- Retirez votre préparation du feu et ensuite reprenez vos coques de courgettes.  
-7- Préchauffez votre four à 180°C  
-8- Farcir vos courgettes avec la preparation (vous pouvez aussi ajoutez un peu de gruyère au dessus) puis disposez les dans un plat à four.  
+1- Lavez vos courgettes puis coupez un petit chapeau sur le dessus.
+2- Videz vos courgettes à l’aide d’une cuillère, disposez la chair dans un bol et les « coques » au frigo
+3- Lavez, videz et coupez votre poivron en petits morceaux.
+4- Faites chauffer une sauteuse avec un petit filet d’huilde d’olive et un petit morceau de beurre. Ajoutez la chair de courgette, les poivrons, et le haché de viande.
+5- Assaisonnez le tout avec du thym et du sel. Une fois les legumes fondant et la viande presque cuite, ajoutez le boursin et laissez fondre.
+6- Retirez votre préparation du feu et ensuite reprenez vos coques de courgettes.
+7- Préchauffez votre four à 180°C
+8- Farcir vos courgettes avec la preparation (vous pouvez aussi ajoutez un peu de gruyère au dessus) puis disposez les dans un plat à four.
 9- Faites cuire pendant environ 20 minutes et dégustez chaud !
 
 **Et moi j’ai une petite question, où allez vous cet été ? Quels sont vos petits plats préférés lorsque vous partez, ou que vous êtes entre amis ?**

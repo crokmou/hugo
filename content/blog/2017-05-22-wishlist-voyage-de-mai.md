@@ -2,20 +2,20 @@
 type: post
 title: 'Wishlist de Mai – Et si on voyageait ?'
 date: 2017-05-22T17:30:22+00:00
-thumbnail: https://res.cloudinary.com/crokmou/image/upload/v1501943870/citytrip-andorre-andorra-crokmou-blog-cuisine-voyage-belgique-11.jpg
-categories: 
+thumbnail: https://crokmou.com/images/citytrip-andorre-andorra-crokmou-blog-cuisine-voyage-belgique-11.jpg
+categories:
   - Lifestyle
 slug: wishlist-voyage-de-mai
 ---
 
-  Il y a un petit bout de temps maintenant que je ne vous avais pas proposé de petite wishlist. Comme vous l’avez certainement remarqué, le blog change peu à peu. Je me tourne un peu plus vers le voyage, la découverte, parce que finalement dans ma vie le même changement s’opère. La cuisine a toujours une place importante dans mon quotidien, mais bientôt – je touche du bois – j’entamerai un changement de vie assez conséquent. J’ai pour projet d’aller voyager autours du Monde avec mon compagnon – mais ça je vous en parlerai en tant voulu ! Pour le moment je m’offre donc des petites périples à droite, à gauche… Ainsi donc la wishlist prendra également un nouveau tournant : un peu de food, un peu de voyage, un peu des deux et surtout quelques découvertes ! Je pense débuter par une petite sélection par mois histoire de voir si ce type d’article vous plait 😉   ![Wishlist voyage de Mai - Gastronogeek, Huawei, Minaal](http://www.crokmou.com/wp-content/uploads/2017/05/wishlist-voyage-equipement-gadget.jpg "Wishlist voyage de Mai - Gastronogeek, Huawei, Minaal")  
+Il y a un petit bout de temps maintenant que je ne vous avais pas proposé de petite wishlist. Comme vous l’avez certainement remarqué, le blog change peu à peu. Je me tourne un peu plus vers le voyage, la découverte, parce que finalement dans ma vie le même changement s’opère. La cuisine a toujours une place importante dans mon quotidien, mais bientôt – je touche du bois – j’entamerai un changement de vie assez conséquent. J’ai pour projet d’aller voyager autours du Monde avec mon compagnon – mais ça je vous en parlerai en tant voulu ! Pour le moment je m’offre donc des petites périples à droite, à gauche… Ainsi donc la wishlist prendra également un nouveau tournant : un peu de food, un peu de voyage, un peu des deux et surtout quelques découvertes ! Je pense débuter par une petite sélection par mois histoire de voir si ce type d’article vous plait 😉   ![Wishlist voyage de Mai - Gastronogeek, Huawei, Minaal](http://www.crokmou.com/wp-content/uploads/2017/05/wishlist-voyage-equipement-gadget.jpg "Wishlist voyage de Mai - Gastronogeek, Huawei, Minaal")
 
 **1** • Une jolie [lampe de table : aGlow](https://www.madeindesign.com/prod-lampe-de-table-aglow-lampe-de-table-a-led-portable-kreafunk-refkfhs09.html) ! 20h d’autonomie, parfait pour les petites soirées d’été, un petit plus avec l’enceinte et le chargeur de portable. Je trouve son design assez chouette et plutôt élégant. // 130 € sur Made In Design
 
 **2** • On y pense pas toujours mais avec la saison des festivals qui approche, les départ en vacances et les virées au marché… [Une pochette secrète](http://www.natureetdecouvertes.com/outdoor/accessoires-voyage/autres-accessoires-voyage/pochette-secrete-portefeuille-52140260) pour les papiers importants, cela peut être un vrai plus !  // 14,95€ chez Nature et découvertes
 
-**3** • Depuis quelques temps je fais de plus en plus attention à ce que j’achète et je dois dire que ma consommation de bouteille en plastique à nettement diminuée.  
-J’utilise depuis peu une bouteille réutilisable. Une gourde en fait !  
+**3** • Depuis quelques temps je fais de plus en plus attention à ce que j’achète et je dois dire que ma consommation de bouteille en plastique à nettement diminuée.
+J’utilise depuis peu une bouteille réutilisable. Une gourde en fait !
 Je dois dire que la [Gobi](http://www.gobilab.com/) me fait de l’oeil, en plus d’être personnalisable elle est fabriquée en France. Et ça c’est un plus non ? // 20,5€ sur le site officiel
 
 **4** • Un petit coup de coeur bien pratique ! Je deteste m’assoir sur un banc… Je ne sais pas si cette pratique remonte à mon adolescence mais j’aime m’assoir par terre (je suis certaine de ne pas être la seule, avouez !). Que ce soit pour les festivals, les piques-nique au soleil ou juste comme ça pour se poser, je trouve cette couverture de poche vraiment top ! Elle se range dans ta poche, si si. Elle est aussi étanche et semble se replier plutôt bien. // 27,90€, sur Cadeaux.be dans la [section cadeaux pour votre meilleur ami](https://www.cadeaux.be/cadeau-meilleur-ami)

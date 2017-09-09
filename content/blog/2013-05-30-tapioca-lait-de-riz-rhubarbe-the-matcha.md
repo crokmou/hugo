@@ -3,9 +3,9 @@ type: post
 title: Tapioca lait de riz, rhubarbe, thé matcha
 date: 2013-05-30T21:39:00+00:00
 thumbnail: https://crokmou.com/images/20130527_tapioca_lait_riz_rhubarbe_the_vert_matcha_0014.jpg
-categories: 
+categories:
   - Boissons
-tags: 
+tags:
   - asiatique
   - boisson
   - confiture
@@ -36,17 +36,17 @@ Sortez tout de même une [casserole](http://www.rueducommerce.fr/index/casserole
 
 Pour 2 verres 25cl
 
-– 2 càs de tapioca  
-– 50cl de lait de riz  
-– 30g de sucre  
-– 2/3 càc de confiture de rhubarbe  
+– 2 càs de tapioca
+– 50cl de lait de riz
+– 30g de sucre
+– 2/3 càc de confiture de rhubarbe
 – 1/2 càc de thé vert matcha en poudre
 
 **○○○**
 
-1- Faites chauffer le lait de riz dans une casserole, une fois le lait chaud versez en pluie le tapioca et laissez cuire à feu doux 25/30 minutes. Laissez refroidir.  
-2- Disposez dans le fond de vos verres la confiture et le thé matcha  
-3- Versez ensuite le lait de riz/tapioca et mélangez bien  
+1- Faites chauffer le lait de riz dans une casserole, une fois le lait chaud versez en pluie le tapioca et laissez cuire à feu doux 25/30 minutes. Laissez refroidir.
+2- Disposez dans le fond de vos verres la confiture et le thé matcha
+3- Versez ensuite le lait de riz/tapioca et mélangez bien
 4- Ajoutez 1 ou 2 glaçons et dégustez à la paille !
 
 Astuce : Changer le lait de riz avec du lait d’amande ou du lait de soja ! Changez la confiture de rhubarbe par de la confiture de cerise ou de mirabelles, vous verrez c’est aussi bon ! Vous voyez, très simple comme recette ! Et je suis certaine que vous en serez ravis !
@@ -55,8 +55,8 @@ _ _
 
 _ _
 
-_[Recipe in English soon](https://lh3.googleusercontent.com/-mtlkaU0yDLk/Uc8x7lAxwOI/AAAAAAAAHn4/hZ3m8lXd05c/s840/Capture%2520d%25E2%2580%2599e%25CC%2581cran%25202013-06-29%2520a%25CC%2580%252021.13.09.png)_  
- __ 
+_[Recipe in English soon](https://lh3.googleusercontent.com/-mtlkaU0yDLk/Uc8x7lAxwOI/AAAAAAAAHn4/hZ3m8lXd05c/s840/Capture%2520d%25E2%2580%2599e%25CC%2581cran%25202013-06-29%2520a%25CC%2580%252021.13.09.png)_
+ __
 
 <table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
 
@@ -86,4 +86,4 @@ _ _
 
 Vous trouverez les informations concernant les dates et le lieu de l’exposition sur notre site internet : expophotohelb.com ! Je me doute bien que beaucoup d’entre vous n’habitez pas Bruxelles, mais sait-on jamais si vous passez par là ! En tout cas je me ferais le plaisir après l’exposition de vous faire part des différentes photographies réalisées ! Je vous souhaite à tous un bon week end et à très bientôt !
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

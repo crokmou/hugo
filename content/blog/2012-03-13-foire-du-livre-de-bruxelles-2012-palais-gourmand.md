@@ -2,9 +2,9 @@
 type: post
 title: 'Foire du Livre de Bruxelles 2012 – Palais Gourmand'
 date: 2012-03-13T12:20:00+00:00
-categories: 
+categories:
   - Lifestyle
-disqusId: 
+disqusId:
 slug: foire-du-livre-de-bruxelles-2012-palais-gourmand
 ---
 
@@ -22,7 +22,7 @@ Maintenant je vous présente donc ma petite escapade à la Foire du Livre. Tout 
 
 Première découverte pour moi : [La biscuiterie Déstrée](http://www.biscuiteriedestree.be/) !
 
-[![](http://1.bp.blogspot.com/-Rs4LzJpXAxk/T18hvUT9llI/AAAAAAAAB3I/HodfsUSCa1Q/s400/20120303_FDL_Stephen_Destr%C3%A9e_03.jpg)](http://1.bp.blogspot.com/-Rs4LzJpXAxk/T18hvUT9llI/AAAAAAAAB3I/HodfsUSCa1Q/s1600/20120303_FDL_Stephen_Destr%C3%A9e_03.jpg) 
+[![](http://1.bp.blogspot.com/-Rs4LzJpXAxk/T18hvUT9llI/AAAAAAAAB3I/HodfsUSCa1Q/s400/20120303_FDL_Stephen_Destr%C3%A9e_03.jpg)](http://1.bp.blogspot.com/-Rs4LzJpXAxk/T18hvUT9llI/AAAAAAAAB3I/HodfsUSCa1Q/s1600/20120303_FDL_Stephen_Destr%C3%A9e_03.jpg)
 
 _ » Destrée Stephen, pâtissier de profession, s’est lancé en 2008 comme biscuitier. Son but est d’amener le biscuit belge au plus haut niveau. __Avec des ingrédients de qualité et des recettes issues de grands chefs mondialement reconnus, adaptées par Stephen, l’envie est de faire rêver…_
 
@@ -32,7 +32,7 @@ _Chaque biscuit est différent : qu’ils soient croquants ou fondants, aux aman
 
 _Les maitres mots de la biscuiterie sont la qualité, le respect des matières premières et la maîtrise du produit fini, ce qui valu à Stephen Destrée de remporter le Premier Prix du Concours National « La Vitrine de l’artisan 2010 ». Avec 189 participants au départ, c’est une énorme récompense à la hauteur du travail fourni. « _
 
- __ 
+ __
 
 [![](http://3.bp.blogspot.com/-p-6uyUXSz1U/T18iWFD3rUI/AAAAAAAAB3Q/XMKBQ94T_tg/s320/20120303_FDL_Samedi_Matin_0213.jpg)](http://3.bp.blogspot.com/-p-6uyUXSz1U/T18iWFD3rUI/AAAAAAAAB3Q/XMKBQ94T_tg/s1600/20120303_FDL_Samedi_Matin_0213.jpg)[![](http://4.bp.blogspot.com/-yZeLiaaeBTI/T18iXIjNAUI/AAAAAAAAB3Y/0UqSqXed0wA/s320/20120303_FDL_Samedi_Matin_0226.jpg)](http://4.bp.blogspot.com/-yZeLiaaeBTI/T18iXIjNAUI/AAAAAAAAB3Y/0UqSqXed0wA/s1600/20120303_FDL_Samedi_Matin_0226.jpg)
 
@@ -40,7 +40,7 @@ Nous avons pu assister (presque tous les jours) à des démonstrations (ici cell
 
 Essayer ces petits biscuits c’est les adopter ! N’hésitez donc pas a aller faire un petit tour sur son site internet !
 
-Continuons dès à présent : J’ai assisté à quelques démonstrations culinaires telles que : Philippe Emmanuelli et son [initiation à la cuisine aux champignons](http://www.marabout.com/livre-une-initiation-a-la-cuisine-du-champignon-philippe-emanuelli-400640.html), ou encore [Sang-Hoon Degeimbre](http://www.airdutemps.be/) et sa délicieuse cuisine aux fleurs ou encore une démonstration d’utilisation du [Thermomix](http://monthermomix.be/) avec Veronique Ameye !  
+Continuons dès à présent : J’ai assisté à quelques démonstrations culinaires telles que : Philippe Emmanuelli et son [initiation à la cuisine aux champignons](http://www.marabout.com/livre-une-initiation-a-la-cuisine-du-champignon-philippe-emanuelli-400640.html), ou encore [Sang-Hoon Degeimbre](http://www.airdutemps.be/) et sa délicieuse cuisine aux fleurs ou encore une démonstration d’utilisation du [Thermomix](http://monthermomix.be/) avec Veronique Ameye !
 
 [![](http://2.bp.blogspot.com/-rVk13nAxtjc/T18ltpu0AEI/AAAAAAAAB3g/UpknitY_Oic/s320/20120302_FDL_Vendredi_Aprem__0155.jpg)](http://2.bp.blogspot.com/-rVk13nAxtjc/T18ltpu0AEI/AAAAAAAAB3g/UpknitY_Oic/s1600/20120302_FDL_Vendredi_Aprem__0155.jpg)[![](http://4.bp.blogspot.com/-kIZ20tnPuZc/T18luPHAFbI/AAAAAAAAB3o/TZLrF3ioNO8/s320/20120302_FDL_Vendredi_Aprem__0157.jpg)](http://4.bp.blogspot.com/-kIZ20tnPuZc/T18luPHAFbI/AAAAAAAAB3o/TZLrF3ioNO8/s1600/20120302_FDL_Vendredi_Aprem__0157.jpg)
 
@@ -54,7 +54,7 @@ D’autres petits stands étaient aussi présents afin de nous faire découvrir 
 
 [![](http://3.bp.blogspot.com/-wslZTQLhcd4/T18pQQNLwCI/AAAAAAAAB4Y/iCKdLP_L0ZE/s320/20120305_FDL_Lundi_Matin_0348.jpg)](http://eurotartufi.com/)[![](http://3.bp.blogspot.com/-KVUvmu9g4e0/T18pS2x-CtI/AAAAAAAAB4o/uvN1txWHAzY/s320/20120305_FDL_Lundi_Matin_0374.jpg)](http://eurotartufi.com/)
 
-Pour finir vous pouviez vous balader dans un assez grand coin librairie, des dédicaces se faisaient aussi à cet endroit (Jean-Pierre Coffe, Pierre Marcolini… et bien d’autres). Je me suis fais un petit plaisir : j’ai acheté deux livres de cuisine (encore !) et j’ai tout simplement passé de très bons jours dans ce petit coin de paradis gastronomique, de très bonnes rencontres aussi !  
+Pour finir vous pouviez vous balader dans un assez grand coin librairie, des dédicaces se faisaient aussi à cet endroit (Jean-Pierre Coffe, Pierre Marcolini… et bien d’autres). Je me suis fais un petit plaisir : j’ai acheté deux livres de cuisine (encore !) et j’ai tout simplement passé de très bons jours dans ce petit coin de paradis gastronomique, de très bonnes rencontres aussi !
 En bref si vous hésitiez encore, j’espère que cet article vous donnera l’envie de venir l’année prochaine !
 
 Bonne après-midi les gourmands !

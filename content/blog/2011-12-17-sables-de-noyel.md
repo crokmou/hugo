@@ -3,9 +3,9 @@ type: post
 title: Sablés de Noyel
 date: 2011-12-17T21:25:00+00:00
 thumbnail: https://crokmou.com/images/20111217_sable_noel_chocolat1.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - chocolat
   - chocolat noir
   - epice
@@ -20,20 +20,20 @@ Bonsoir chers gourmands, je ne vous oublie pas, je fête Noël aussi, et pour ce
 
 Pour 40 sablés
 
-– 250g de farine  
-– 125g de beurre  
-– 125g de sucre  
-– 1 pincée de sel  
-– 1 oeuf  
-– 1 càc d’extrait de vanille  
+– 250g de farine
+– 125g de beurre
+– 125g de sucre
+– 1 pincée de sel
+– 1 oeuf
+– 1 càc d’extrait de vanille
 – 1 càc de mélange 4 épices
 
-1- Préchauffez votre four à 180°C  
-2- Fouettez le beurre et le sucre (il vaut mieux le faire au batteur électrique) afin que le mélange soit bien « pâteux »  
-3- Ajoutez au mélange beurre/sucre, la farine, l’oeuf, l’extrait de vanille et le mélange 4 épices  
-4- Mélangez bien le tout et malaxez afin de former une boule de pâte homogène  
-5- Sur votre plan de travail, étalez votre pâte sur un peu de farine à l’aide d’un rouleau à pâtisserie. Découpez des formes dans la pâte (qui ne doit pas être trop fine, mais pas trop épaisse non plus) à l’aide d’emportes pièces (des étoiles, des ronds, des coeurs etc.)  
-6- Disposez vos sablés sur du papier cuisson et enfournez pendant environ 15min (il faut que vos sablés soient dorés)  
+1- Préchauffez votre four à 180°C
+2- Fouettez le beurre et le sucre (il vaut mieux le faire au batteur électrique) afin que le mélange soit bien « pâteux »
+3- Ajoutez au mélange beurre/sucre, la farine, l’oeuf, l’extrait de vanille et le mélange 4 épices
+4- Mélangez bien le tout et malaxez afin de former une boule de pâte homogène
+5- Sur votre plan de travail, étalez votre pâte sur un peu de farine à l’aide d’un rouleau à pâtisserie. Découpez des formes dans la pâte (qui ne doit pas être trop fine, mais pas trop épaisse non plus) à l’aide d’emportes pièces (des étoiles, des ronds, des coeurs etc.)
+6- Disposez vos sablés sur du papier cuisson et enfournez pendant environ 15min (il faut que vos sablés soient dorés)
 7- Décorez à votre convenance (ici simplement du chocolat noir) et dégustez !Et ces petits biscuits feront sensations dans des petites pochettes cadeaux !
 
 __________

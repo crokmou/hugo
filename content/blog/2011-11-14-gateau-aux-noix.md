@@ -3,9 +3,9 @@ type: post
 title: Gateau aux noix
 date: 2011-11-14T09:30:00+00:00
 thumbnail: https://crokmou.com/images/IMG_4510-final.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - automne
   - dessert
   - gateau
@@ -39,7 +39,7 @@ Ne cherchez plus un restaurant où bruncher: ce dimanche, on brunche à la maiso
 
 Ce n’est plus un «**breakfast**» et pas tout à fait un «**lunch**», c’est un «**brunch**». _**Frédérique Chartrand**_, **créatrice culinaire** et photographe, nous livre ici **42 recettes bio**, jolies et **faciles à réaliser**, illustrées de nombreuses photos **pas à pas**.
 
-Un **livre **qui conjugue **plaisirs culinaires** et **bienfaits pour notre santé** : concoctez bagels au petit **épeautre **et **graines de lin**, **gelée de cerises** au **miel d’acacia** et à la menthe,**pâte à tartiner caroubes et noisettes**, **clémentines **poêlées au **caramel de gingembre**… accompagnés d‘un thé noir aux épices ou d’un citronnage au sirop de thym… **sain **et **savoureux** !  
+Un **livre **qui conjugue **plaisirs culinaires** et **bienfaits pour notre santé** : concoctez bagels au petit **épeautre **et **graines de lin**, **gelée de cerises** au **miel d’acacia** et à la menthe,**pâte à tartiner caroubes et noisettes**, **clémentines **poêlées au **caramel de gingembre**… accompagnés d‘un thé noir aux épices ou d’un citronnage au sirop de thym… **sain **et **savoureux** !
 
 <div style="clear: both; text-align: center;">[![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)
 

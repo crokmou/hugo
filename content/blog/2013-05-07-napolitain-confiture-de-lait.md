@@ -3,9 +3,9 @@ type: post
 title: Napolitain confiture de lait
 date: 2013-05-07T16:48:00+00:00
 thumbnail: https://crokmou.com/images/20130429_napolitain_confiture_de_lait_dulce_de_leche_0027.jpg
-categories: 
+categories:
   - Desserts
-tags: 
+tags:
   - cake
   - chocolat
   - confiture de lait
@@ -30,27 +30,27 @@ _It does not look like but I assure you the recipe is not complicated! You will 
 
 Pour 4 personnes
 
-**Pour le gâteau :**  
-– 1 pot de yaourt nature  
-– 3 pots de sucre  
-– 4 pots de farine  
-– 1/2 pot d’huile de tournesol  
-– 4 oeufs  
-– 1 sachet de levure chimique  
-– 3 càs de cacao en poudre non sucré  
-– 1 càs d’extrait de vanille liquide  
-– dulce de leche (confiture de lait)**Pour le glaçage :**  
-– 100g de sucre glace  
-– eau  
-– cacao en poudre non sucré  
+**Pour le gâteau :**
+– 1 pot de yaourt nature
+– 3 pots de sucre
+– 4 pots de farine
+– 1/2 pot d’huile de tournesol
+– 4 oeufs
+– 1 sachet de levure chimique
+– 3 càs de cacao en poudre non sucré
+– 1 càs d’extrait de vanille liquide
+– dulce de leche (confiture de lait)**Pour le glaçage :**
+– 100g de sucre glace
+– eau
+– cacao en poudre non sucré
 – chocolat
 
 **○○○**
 
-1- Préchauffez votre four à 180°C  
-2- **Préparation du gâteau** : Dans un saladier, versez le yaourt puis le sucre, la farine, la levure, l’huile et les oeufs. Mélangez bien. Séparez votre préparation en deux dans un deuxième saladier. Dans l’un ajoutez le cacao en poudre non sucré, dans le deuxième l’extrait de vanille. Mélangez de part et d’autre de nouveau.  
-3- Dans un moule rectangulaire (pas trop grand non plus) préalablement beurré et fariné, versez l’une des deux préparations (vanille ou chocolat). Faites cuire pendant 15/20 minutes. Lorsque le gâteau est cuit, sortez le du four et démoulez, laissez refroidir sur une grille. Lavez votre moule, séchez le, et recommencez : Le fariner, le beurrer et verser la pâte restante, faites cuire à nouveau.  
-4- Attendez que vos gâteaux soient bien refroidis avant de faire la suite. Coupez votre gâteau à la vanille et votre gâteau au chocolat en deux. Badigeonnez de confiture de lait le dessus d’une première tranche vanille, ajoutez par dessus une tranche de gâteau chocolat. Badigeonnez le dessus de votre tranche chocolat avec de la confiture de lait et ajoutez ensuite la dernière tranche de vanille. Et voilà vous avez la base du Napolitain ! (Faites ce que vous voulez de la tranche de chocolat restante)  
+1- Préchauffez votre four à 180°C
+2- **Préparation du gâteau** : Dans un saladier, versez le yaourt puis le sucre, la farine, la levure, l’huile et les oeufs. Mélangez bien. Séparez votre préparation en deux dans un deuxième saladier. Dans l’un ajoutez le cacao en poudre non sucré, dans le deuxième l’extrait de vanille. Mélangez de part et d’autre de nouveau.
+3- Dans un moule rectangulaire (pas trop grand non plus) préalablement beurré et fariné, versez l’une des deux préparations (vanille ou chocolat). Faites cuire pendant 15/20 minutes. Lorsque le gâteau est cuit, sortez le du four et démoulez, laissez refroidir sur une grille. Lavez votre moule, séchez le, et recommencez : Le fariner, le beurrer et verser la pâte restante, faites cuire à nouveau.
+4- Attendez que vos gâteaux soient bien refroidis avant de faire la suite. Coupez votre gâteau à la vanille et votre gâteau au chocolat en deux. Badigeonnez de confiture de lait le dessus d’une première tranche vanille, ajoutez par dessus une tranche de gâteau chocolat. Badigeonnez le dessus de votre tranche chocolat avec de la confiture de lait et ajoutez ensuite la dernière tranche de vanille. Et voilà vous avez la base du Napolitain ! (Faites ce que vous voulez de la tranche de chocolat restante)
 5- **Préparation du glaçage** : Dans un bol, versez 100g de sucre glace, ajoutez peu a peu de l’eau tout en mélangeant jusqu’a temps que le glaçage ai une bonne consistance. Etalez une fine couche de glaçage sur le dessus de votre tranche vanille puis saupoudrez le tout de cacao en poudre et de chocolat râpéDégustez à l’heure du goûter avec un bon café ou un jus de fruit ! Miam Miam !
 
 _[Recipe in English :](https://lh6.googleusercontent.com/-IylE9pdElY8/UYkhPztNctI/AAAAAAAAHKE/3Ck3Z-_ZvqU/s912/neapolitan_cake_with_dulce_de_leche.jpg)_
@@ -77,6 +77,6 @@ _[Recipe in English :](https://lh6.googleusercontent.com/-IylE9pdElY8/UYkhPztNct
 
 Et vous quels étaient vos biscuits/gâteaux favoris lorsque vous étiez petits ? _And you, what was your favourite biscuits / cakes when you were small?_ _  __  _
 
-[**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
+○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 
 _  __  _

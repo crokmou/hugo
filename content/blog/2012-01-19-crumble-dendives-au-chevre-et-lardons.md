@@ -3,9 +3,9 @@ type: post
 title: "Crumble d'endives au chèvre et lardons"
 date: 2012-01-19T16:40:00+00:00
 thumbnail: https://crokmou.com/images/MG_6029.jpg
-categories: 
+categories:
   - Plats
-tags: 
+tags:
   - chevre
   - crumble
   - endive
@@ -21,19 +21,19 @@ slug: crumble-dendives-au-chevre-et-lardons
 
 Pour 4 personnes
 
-– 6 endives (à raison d’une et demie par personne)  
-– 200g de lardons fumés  
-– 2 càs de sucre  
-– 200g de chèvre frais  
-– 4 tranches de pain d’épices  
+– 6 endives (à raison d’une et demie par personne)
+– 200g de lardons fumés
+– 2 càs de sucre
+– 200g de chèvre frais
+– 4 tranches de pain d’épices
 – beurre
 
-1- Lavez et découpez vos endives en morceaux. Faites les fondre dans une marmite à feu moyen avec une noisette de beurre.  
-2- Une fois les endives fondues, ajoutez le sucre et laissez caraméliser quelques minutes. Dans un autre temps, faites revenir vos lardons dans une poêle.  
-3- Mélangez vos endives avec vos lardons, et mettez-en dans vos ramequins.  
-4- Faites préchauffer votre four à 200°C. Pendant ce temps, ajoutez le fromage de chèvre en petits morceaux au dessus de vos endives.  
-5- Dans votre robot mixer, mixez le pain d’épices ou comme moi, découpez des petits bouts à la main.  
-6- Parsemez votre préparation de pain d’épices et mettez le tout au four pendant environ 15min.  
+1- Lavez et découpez vos endives en morceaux. Faites les fondre dans une marmite à feu moyen avec une noisette de beurre.
+2- Une fois les endives fondues, ajoutez le sucre et laissez caraméliser quelques minutes. Dans un autre temps, faites revenir vos lardons dans une poêle.
+3- Mélangez vos endives avec vos lardons, et mettez-en dans vos ramequins.
+4- Faites préchauffer votre four à 200°C. Pendant ce temps, ajoutez le fromage de chèvre en petits morceaux au dessus de vos endives.
+5- Dans votre robot mixer, mixez le pain d’épices ou comme moi, découpez des petits bouts à la main.
+6- Parsemez votre préparation de pain d’épices et mettez le tout au four pendant environ 15min.
 7- Dégustez !
 
 N’hésitez pas a passer votre crumble quelques minutes au grill afin de rendre le pain d’épices craquant !Si vous n’êtes pas fan de pain d’épices, remplacez par de la brioche ou du pain tout simplement ! Bon appétit !

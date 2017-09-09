@@ -3,9 +3,9 @@ type: post
 title: Brioche moelleuse sucre et chocolat
 date: 2012-03-08T18:39:00+00:00
 thumbnail: https://crokmou.com/images/20120307_Cramique_Escargot_Chocolat_Sucre_0012.jpg
-categories: 
+categories:
   - Boulangerie
-tags: 
+tags:
   - boulangerie
   - brioche
   - cassonade
@@ -18,28 +18,28 @@ Il y a déjà un petit bout de temps que je désire faire de la brioche. Mais je
 
 Pour 4/6 personnes (gourmandes)
 
-**Pour la brioche :**  
-– 400g de farine  
-– 15g de levure fraîche  
-– 2 oeufs  
-– 1 pincée de sel  
-– 15cl de lait  
-– 60g de beurre salé  
-– 50g de sucre semoule  
-– sucre cassonade  
+**Pour la brioche :**
+– 400g de farine
+– 15g de levure fraîche
+– 2 oeufs
+– 1 pincée de sel
+– 15cl de lait
+– 60g de beurre salé
+– 50g de sucre semoule
+– sucre cassonade
 – 1 noisette de beurre
 
 **Pour la farce :** – 1 càs de sucre perlé – 1 càs de petits morceaux de chocolat noir – 1 càs de cassonade
 
-1- Dans un bol, versez-y le lait tiède ainsi que la levure émiettée. Laissez fondre la levure (pendant environ 10min) tout en mélangeant de temps en temps 2- Dans le bol de votre robot (ou dans un saladier tout simple), versez les ingrédients secs. Ajoutez ensuite le lait/levure tout en commençant à pétrir avec le crochet du robot, puis ajoutez le beurre fondu et les oeufs.  
-3- Pétrissez une dizaine de minutes.  
-4- Laissez reposer votre pâte pendant deux heure dans un endroit chaud (n’oubliez pas de recouvrir votre saladier d’un torchon propre avant de laisser gonfler la pâte)  
-5- Farinez votre plan de travail et étalez la pâte pour que celle-ci forme un rectangle (plus long que large)  
-6- Répartissez votre sucre perlé, votre chocolat (préalablement coupé en petits morceaux) et votre cassonade sur toute la longueur de la pâte  
-7- Enroulez votre rectangle comme un escargot  
-8- Beurrez et saupoudrez de cassonade un moule rond et déposez-y votre pâte enroulée  
-9- Laissez de nouveau reposer environ 1h  
-10- Préchauffez votre four à 175°C  
+1- Dans un bol, versez-y le lait tiède ainsi que la levure émiettée. Laissez fondre la levure (pendant environ 10min) tout en mélangeant de temps en temps 2- Dans le bol de votre robot (ou dans un saladier tout simple), versez les ingrédients secs. Ajoutez ensuite le lait/levure tout en commençant à pétrir avec le crochet du robot, puis ajoutez le beurre fondu et les oeufs.
+3- Pétrissez une dizaine de minutes.
+4- Laissez reposer votre pâte pendant deux heure dans un endroit chaud (n’oubliez pas de recouvrir votre saladier d’un torchon propre avant de laisser gonfler la pâte)
+5- Farinez votre plan de travail et étalez la pâte pour que celle-ci forme un rectangle (plus long que large)
+6- Répartissez votre sucre perlé, votre chocolat (préalablement coupé en petits morceaux) et votre cassonade sur toute la longueur de la pâte
+7- Enroulez votre rectangle comme un escargot
+8- Beurrez et saupoudrez de cassonade un moule rond et déposez-y votre pâte enroulée
+9- Laissez de nouveau reposer environ 1h
+10- Préchauffez votre four à 175°C
 11- A l’aide d’un pinceau, badigeonnez votre pâte avec un peu de lait et saupoudrez de cassonade. Enfournez pour environ 40min.
 
 _N’est-elle pas belle et moelleuse cette brioche ?_Oh et pour les photographies de la foire du livre, cela va venir très bientôt (il faut le temps de faire toutes les retouches), mais comme je suis très généreuse avec vous, cette fois je vous offre le portrait du chef [Sang-Hoon Degeimbre](http://www.airdutemps.be/)
