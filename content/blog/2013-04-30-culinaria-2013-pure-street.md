@@ -8,7 +8,7 @@ disqusId: 3833657327
 slug: culinaria-2013-pure-street
 ---
 
-[![](http://www.crokmou.com/wp-content/uploads/2013/04/Culinaria_pure_street1.jpg)](http://www.crokmou.com/wp-content/uploads/2013/04/Culinaria_pure_street1.jpg)
+![](http://www.crokmou.com/wp-content/uploads/2013/04/Culinaria_pure_street1.jpg)
 
 Culinaria vous connaissez non ? Un évenement gastronomique unique en son genre en Belgique ! Tout commence en 2009 lorsque Culinaria propose aux plus grands chefs Belges de sortir de leurs cuisines pour les faire cuisiner en plein coeur de Bruxelles afin de ravir les amateurs de gastronomie. Le succès est tel que la deuxième année, Culinaria s’installe sur le site Tour & Taxis afin de mieux organiser la chose. Pour ceux qui ont assistés à cet évenement les années précédentes (ce qui n’est pas mon cas), j’ai entendu beaucoup de choses à ce sujet : trop de monde, pas de places pour s’assoir et manger, pas assez de plats etc etc. Que je vous rassure cette année les organisateurs ont tout prévu et même plus encore!
 

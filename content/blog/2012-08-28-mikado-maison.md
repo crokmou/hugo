@@ -68,6 +68,6 @@ Et parce que je ne vous le rappellerez jamais assez, n’hésitez pas à parti
 
 Passez une bonne fin de journée !
 
-[![](http://3.bp.blogspot.com/-I817da13H3k/UDzUZvoPmNI/AAAAAAAADmc/6550bze6VFs/s1600/emoticon-2-003.gif)](http://3.bp.blogspot.com/-I817da13H3k/UDzUZvoPmNI/AAAAAAAADmc/6550bze6VFs/s1600/emoticon-2-003.gif)
+![](http://3.bp.blogspot.com/-I817da13H3k/UDzUZvoPmNI/AAAAAAAADmc/6550bze6VFs/s1600/emoticon-2-003.gif)
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

@@ -34,4 +34,4 @@ Pour 8 petits pains
 
 N’hésitez pas a tester la recette ! Vous ne serez pas déçus ! Et si par hasard vous ne saviez pas quoi faire devant votre ordinateur n’hésitez pas a passer sur Rue du Commerce pour y trouver pleins de trucs sympa : couteaux, couvercles, fouets pour votre robot, une machines à pain… et j’en passe ! Une vraie caverne d’Ali Baba ! Bonne soirée à vous mes gourmands ! Une très bonne fin de semaine !
 
-[![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)
+![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)

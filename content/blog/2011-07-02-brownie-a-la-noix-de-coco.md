@@ -20,6 +20,6 @@ L’incontournable brownie, quelque peu revisité ! Il me fallait trouver un des
 Oh et puis j’espère que les couleurs de la photo vous aiderons à vous projeter en vacances =p
 <a name="more"></a>
 
-[![](http://3.bp.blogspot.com/-8WA7xppE79Q/TsFniFXm00I/AAAAAAAABIg/f9dg95jMOUc/s1600/Brownie+noix+de+coco.jpg)](http://3.bp.blogspot.com/-8WA7xppE79Q/TsFniFXm00I/AAAAAAAABIg/f9dg95jMOUc/s1600/Brownie+noix+de+coco.jpg)
+![](http://3.bp.blogspot.com/-8WA7xppE79Q/TsFniFXm00I/AAAAAAAABIg/f9dg95jMOUc/s1600/Brownie+noix+de+coco.jpg)
 
 Petite chanson du jour (Oui parce qu’aujourd’hui j’ai 20 ans : je suis grande ! (ou pas Oo »)) : [Mauss – A 20 ans](http://www.youtube.com/watch?v=MwuOnD75tGA)

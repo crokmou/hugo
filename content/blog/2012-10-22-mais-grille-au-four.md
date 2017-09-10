@@ -39,6 +39,6 @@ Je vous annonce aussi que je lancerai un concours en fin de semaine, alors reste
 
 Bon début de semaine à tous
 
-[![](http://images.paraorkut.com/img/emoticons/images/b/black_cat-114.gif)](http://images.paraorkut.com/img/emoticons/images/b/black_cat-114.gif)
+![](http://images.paraorkut.com/img/emoticons/images/b/black_cat-114.gif)
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

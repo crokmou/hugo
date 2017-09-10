@@ -38,6 +38,6 @@ Pour 8 muffins
 **Et vous, avez vous d’autres recettes dans ce genre là (Peu de calories et gourmand en même temps) ? Si c’est le cas n’hésitez pas à me laisser le lien, je me ferai un plaisir de l’ajouter à cette page !** ** ** **Pour des recettes lights rendez vous dès maintenant ici :**
 * [Les délices d’Amyssée](http://lesdelicesdamyssee.blogspot.fr/search/label/Recettes%20light) ** ** Je vous souhaite à tous une très bonne journée, et n’oubliez surtout pas de profiter des petits instants de bonheur quotidiens (quand on y réfléchit bien, ils sont très importants !).
 
-[![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)
+![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)
 
 _En ce jour, je souhaiterai rendre hommage aux victimes de l’accident survenu il y a quelques jours en Suisse. Toutes mes condoléances aux familles._

@@ -21,13 +21,13 @@ slug: tarte-rustique-aux-pommes
 
 Bien le bonsoir gourmands, gourmandes ! Pour cette fin de journée presque hivernale (oui oui brouillard blanc, le froid et tout gla gla !), je vous présente la tarte aux pommes rustique ! Ce n’est pas qu’une simple tarte aux pommes celle-ci est juste délicieuse. J’ai trouvé la recette chez [Nathalie](http://www.lacuisinedenathalie.com/article-tarte-rustique-aux-pommes-recette-facile-la-cuisine-de-nathalie-88624146.html) (un blog qui donne simplement l’eau à la bouche, les photos sont superbes !), ce sont d’ailleurs ses photos qui m’ont données envie de faire cette tarte !Pour la réalisation il ne vous faut pas grand chose, un bon four, un faitout pour votre compote, votre matériel à pâtisserie ( si éventuellement vous faites votre pâte brisée vous même !), et votre sucrier (parce qu’un peu de sucre ca fait pas de mal !) La compote se trouvant en fond de tarte donne un aspect encore plus fondant, et le goût d’amande relève celui de la pomme, c’est vraiment très bon !
 
-[![](http://2.bp.blogspot.com/-F7XHcKhyAeY/Ts0frQnnqLI/AAAAAAAABKw/dqaZJdd8YI4/s1600/Tarte+pommes+rustique.jpg)](http://2.bp.blogspot.com/-F7XHcKhyAeY/Ts0frQnnqLI/AAAAAAAABKw/dqaZJdd8YI4/s1600/Tarte+pommes+rustique.jpg)
+![](http://2.bp.blogspot.com/-F7XHcKhyAeY/Ts0frQnnqLI/AAAAAAAABKw/dqaZJdd8YI4/s1600/Tarte+pommes+rustique.jpg)
 
 Pour ceux qui l’aime comme ça, vous pouvez ajouter un peu cannelle dans la compote !
 
 __________
 
-[![](http://1.bp.blogspot.com/-LQ_k45oY4lg/Ts0hxDFQifI/AAAAAAAABLQ/LdPCZQgJIlw/s1600/liu-bolin-11.jpg)](http://1.bp.blogspot.com/-LQ_k45oY4lg/Ts0hxDFQifI/AAAAAAAABLQ/LdPCZQgJIlw/s1600/liu-bolin-11.jpg)
+![](http://1.bp.blogspot.com/-LQ_k45oY4lg/Ts0hxDFQifI/AAAAAAAABLQ/LdPCZQgJIlw/s1600/liu-bolin-11.jpg)
 
 Je reprends la petite présentation de photographe, pour ce soir je vous fais découvrir Liu Bolin : Il est un artiste contemporain Chinois né en 1973 à Shandong. En 1995 celui-ci obtient un baccalauréat en Art de l’Institut Shandonc Arts et en 2001 il obtient une maitrise en sculpture de l’Académie. Liu Bolin ne trouve alors pas de travail et décide donc au travers de diverses caricatures de soldats-paysans-ouvriers, de montrer que la société chinoise ne s’intéresse pas à l’individu, mais au travail.
 
@@ -47,5 +47,5 @@ Voir le travail de cet artiste à une exposition a été pour moi très impressi
 
 **Et vous, qu’en pensez vous ?**
 
-[![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)
+![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)
 

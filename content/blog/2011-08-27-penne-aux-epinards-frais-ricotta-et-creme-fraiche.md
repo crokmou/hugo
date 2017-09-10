@@ -20,5 +20,5 @@ Bonjour bonjour, en ce premier jour d’exam je vous propose une recette ! Assez
 
 En avant pour la recette !
 
-[![](http://4.bp.blogspot.com/-pGqSxN938MY/Tqmk2hOH4fI/AAAAAAAABBc/_fzkW3Zkoig/s1600/Penne+ricotta+epinards.jpg)](http://4.bp.blogspot.com/-pGqSxN938MY/Tqmk2hOH4fI/AAAAAAAABBc/_fzkW3Zkoig/s1600/Penne+ricotta+epinards.jpg)
+![](http://4.bp.blogspot.com/-pGqSxN938MY/Tqmk2hOH4fI/AAAAAAAABBc/_fzkW3Zkoig/s1600/Penne+ricotta+epinards.jpg)
 

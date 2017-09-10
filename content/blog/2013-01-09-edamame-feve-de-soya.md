@@ -24,7 +24,7 @@ Personnellement je l’aime beaucoup pour son côté pratique : beh oui il suffi
 
 Vous pouvez aussi en mettre dans vos salades, dans vos omelettes… chaud, froid, c’est vous qui voyez !
 
-[![](http://www.picard.fr/Uploads/Photos/Products/e279884c-9093-4b2a-ab5d-32f52241bdf4.gif)](http://www.picard.fr/Uploads/Photos/Products/e279884c-9093-4b2a-ab5d-32f52241bdf4.gif)
+![](http://www.picard.fr/Uploads/Photos/Products/e279884c-9093-4b2a-ab5d-32f52241bdf4.gif)
 
 **Où trouver ces petites bêtes ? **
 

@@ -126,11 +126,11 @@ Et comme je vous l’ai dit, si vous recherche votre photo à partir de votre or
 
 Pour les personnes se trouvant sur blogger, il y a eu récemment un petit changement au niveau des images : je ne sais pas si vous l’avez remarqué mais quand vous cliquez sur votre image, un petit **properties** apparait.
 
-[![](http://3.bp.blogspot.com/-EwDbwdrBVhw/T4WQpg5HBRI/AAAAAAAACFU/OYlSwVMkiHU/s1600/2012-04-11+15.59.21.png)](http://3.bp.blogspot.com/-EwDbwdrBVhw/T4WQpg5HBRI/AAAAAAAACFU/OYlSwVMkiHU/s1600/2012-04-11+15.59.21.png)
+![](http://3.bp.blogspot.com/-EwDbwdrBVhw/T4WQpg5HBRI/AAAAAAAACFU/OYlSwVMkiHU/s1600/2012-04-11+15.59.21.png)
 
 Cliquez sur ce Properties, et une nouvelle fenêtre va apparaitre, vous aurez titre du texte et alt.
 
-[![](http://3.bp.blogspot.com/-hbIXWznSgCU/T4WQ4d-m2_I/AAAAAAAACFc/Tfr4nebsKyU/s1600/2012-04-11+16.00.13.png)](http://3.bp.blogspot.com/-hbIXWznSgCU/T4WQ4d-m2_I/AAAAAAAACFc/Tfr4nebsKyU/s1600/2012-04-11+16.00.13.png)
+![](http://3.bp.blogspot.com/-hbIXWznSgCU/T4WQ4d-m2_I/AAAAAAAACFc/Tfr4nebsKyU/s1600/2012-04-11+16.00.13.png)
 
 Dans la barre alt vous allez tout simplement inscrire le nom de votre recette et ce à quoi cela correspond.
 
@@ -156,6 +156,6 @@ Je suis maintenant sur Pinterest ! Retrouvez moi donc [ici](http://pinterest.com
 
 Je vous souhaite à tous une très bonne fin de journée (et un très bon goûter)
 
-[![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)
+![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)
 
 </div>

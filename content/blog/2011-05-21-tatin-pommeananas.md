@@ -22,6 +22,6 @@ Pour aujourd’hui ce sera une tatin un peu modifiée, j’ai acheté un ananas 
 
 J’ai suivi la recette sur [Meilleur du chef](http://www.meilleurduchef.com/cgi/mdc/l/fr/recettes/tarte_tatin_ill.html), la photographie était sympa =p
 
-[![](http://4.bp.blogspot.com/-OrtTAb7-bZ8/TsFww-BHpwI/AAAAAAAABJY/rxLi4NkPYmA/s1600/Tarte+tatin+ananas.jpg)](http://4.bp.blogspot.com/-OrtTAb7-bZ8/TsFww-BHpwI/AAAAAAAABJY/rxLi4NkPYmA/s1600/Tarte+tatin+ananas.jpg)
+![](http://4.bp.blogspot.com/-OrtTAb7-bZ8/TsFww-BHpwI/AAAAAAAABJY/rxLi4NkPYmA/s1600/Tarte+tatin+ananas.jpg)
 
 Un très bon week end à vous !

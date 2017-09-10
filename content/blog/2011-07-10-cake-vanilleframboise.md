@@ -21,4 +21,4 @@ Aloha chers blogueurs, encore et toujours du sucré (oui j’adore ça et c’es
 J’avais envie de couleur, parce que dans le sud les couleurs sont omniprésentes, il me fallait donc un gâteau coloré ! J’ai donc choisit rose, parce que les framboises c’est super bon ! Au départ je pensais faire un moelleux, mais en voyant une recette de cake dans un bouquin je me suis dit que cela pouvait être sympa aussi !
 
 Une recette simple et gourmande : je vous laisse gentiment la recette :
-        [![](http://3.bp.blogspot.com/-121z7EBs9Sg/TsFAoRUrOWI/AAAAAAAABFs/QiRYSQcluhA/s1600/Cake+vanille_framboise.jpg)](http://3.bp.blogspot.com/-121z7EBs9Sg/TsFAoRUrOWI/AAAAAAAABFs/QiRYSQcluhA/s1600/Cake+vanille_framboise.jpg)
+        ![](http://3.bp.blogspot.com/-121z7EBs9Sg/TsFAoRUrOWI/AAAAAAAABFs/QiRYSQcluhA/s1600/Cake+vanille_framboise.jpg)

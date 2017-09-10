@@ -45,7 +45,7 @@ Pour 4 bols
 
 Et pour ceux qui ne connaissent pas bien l’oseille, je vous fait un petit récapitulatif (plusieurs sources venant d’internet notamment Marmiton et Bourgogne-recette) :
 
-[![](http://2.bp.blogspot.com/-goPG_GCmTkU/TzlPysY8moI/AAAAAAAABw4/sj3oEa3gFyk/s1600/oseille-boyard.jpg)](http://2.bp.blogspot.com/-goPG_GCmTkU/TzlPysY8moI/AAAAAAAABw4/sj3oEa3gFyk/s1600/oseille-boyard.jpg)
+![](http://2.bp.blogspot.com/-goPG_GCmTkU/TzlPysY8moI/AAAAAAAABw4/sj3oEa3gFyk/s1600/oseille-boyard.jpg)
 
 L’oseille c’est tout d’abord des grosses pousses vertes qui ressemblent vaguement à des épinards ! Plante potagère herbacée de la famille des Polygonacées. Connue depuis l’Antiquité, elle est originaire d’Asie septentrionale. L’oseille comporte plusieurs vertus comme digestive, astringente, et elle régule aussi le transit intestinal. Ces feuilles sont riche en magnésium, fer, fibres… Sachez que la cuisson à l’eau fait perdre une partie de sa saveur à l’oseille, mais vous pouvez la cuisiner à l’étuvée, à la friture ou même crue en salade !
 
@@ -63,4 +63,4 @@ Une très bonne semaine à vous les gourmands !
 
 A bientôt !
 
-[![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)
+![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)

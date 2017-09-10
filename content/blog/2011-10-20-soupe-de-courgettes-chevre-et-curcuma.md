@@ -22,7 +22,7 @@ slug: soupe-de-courgettes-chevre-et-curcuma
 
 Cela doit faire quelque chose du genre 8 mois que je n’ai pas mangé de soupe, il était temps d’en refaire ! Pour cette première j’ai opté pour courgette chèvre, bien qu’habituellement je remplace le chèvre par du kiri mais là faute de kiri… Le curcuma relève un peu (out dépend aussi de la pincée mise dans la soupe), et cela donne une petite touche de couleur en plus ! Bon je suis d’accord, il n’y a rien d’innovant dans ma recette, la soupe reste une chose trèèèès simple à faire ! En revanche ce que je ne sais jamais doser, se sont les quantités. Je pensais avoir prévu pour 2 mais visiblement c’est plus pour 4 ^^ »
 
-[![](http://4.bp.blogspot.com/-J7MHt7RG5no/TqmZ-41iEbI/AAAAAAAAA_8/1LwYKS_QGEw/s1600/Soupe.jpg)](http://4.bp.blogspot.com/-J7MHt7RG5no/TqmZ-41iEbI/AAAAAAAAA_8/1LwYKS_QGEw/s1600/Soupe.jpg)
+![](http://4.bp.blogspot.com/-J7MHt7RG5no/TqmZ-41iEbI/AAAAAAAAA_8/1LwYKS_QGEw/s1600/Soupe.jpg)
 
 23/10 : Une petite soupe à la une de CookNow, sympa non ?
 

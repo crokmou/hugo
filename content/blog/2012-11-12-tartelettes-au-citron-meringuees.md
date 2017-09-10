@@ -59,6 +59,6 @@ Quel grand classique de la pâtisserie vous fait succomber ? (n’hésitez pas �
 
 Bonne fin de journée et bon début de semaine à vous mes gourmands !
 
-[![](http://www.emoticones-avenue.com/emoticones/kawaii_monkeygirl_07.gif)](http://www.emoticones-avenue.com/emoticones/kawaii_monkeygirl_07.gif)
+![](http://www.emoticones-avenue.com/emoticones/kawaii_monkeygirl_07.gif)
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

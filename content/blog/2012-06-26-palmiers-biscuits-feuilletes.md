@@ -34,4 +34,4 @@ A servir avec un bon café fait à l’aide de votre machine à expresso ou votr
 
 Et vous les palmiers, ca vous rappelle quoi exactement ?
 
-[![](http://4.bp.blogspot.com/-odXVK3qJFn8/T-lcnt6WE7I/AAAAAAAACsI/qf754Qg968g/s1600/kawaii_onionhead_93.gif)](http://4.bp.blogspot.com/-odXVK3qJFn8/T-lcnt6WE7I/AAAAAAAACsI/qf754Qg968g/s1600/kawaii_onionhead_93.gif)
+![](http://4.bp.blogspot.com/-odXVK3qJFn8/T-lcnt6WE7I/AAAAAAAACsI/qf754Qg968g/s1600/kawaii_onionhead_93.gif)

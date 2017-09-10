@@ -26,7 +26,7 @@ Bonjour les gourmands ! Comme vous pouvez le constater, pas de recette Noël pou
 
 Il y a des semaines comme ça, où quand je fais ma liste de courses je ne sais jamais quoi acheter, ni quoi préparer, alors j’élabore des plats simples à base de pates (parce que j’adore ça), mais pas n’importe quelles pates : des Udon !
 
-[![](http://www.crokmou.com/wp-content/uploads/2012/12/41QTmMPHWmL._SL500_SS500_1.jpg)](http://www.crokmou.com/wp-content/uploads/2012/12/41QTmMPHWmL._SL500_SS500_1.jpg)
+![](http://www.crokmou.com/wp-content/uploads/2012/12/41QTmMPHWmL._SL500_SS500_1.jpg)
 
 Les udon sont des nouilles Japonaise à base de farine de blé, de sel et d’eau. Cela ressemble quelque peu a des spaghetti plats mais en bouche c’est totalement différent ! Les udon sont un peu « visqueuses », dans le bon sens du terme, je ne sais meme pas comment vous décrire ça, c’est simplement délicieux !
 
@@ -61,6 +61,6 @@ Pour environ 3/4 personnes
 
 Bon appétit ! **Et parce que je suis une grande curieuse, quelles sont vos recettes rapides de pates à la maison ?** Pour petit rappel : Un concours est organisé sur le blog en partenariat avec RuduCommerce afin de vous faire gagner un livre ainsi qu’un ustensile de cuisine de votre choix d’une valeur maximum de 50€, il ne vous reste que 4 jours pour participer ! [Lien vers le concours](http://www.crokmou.com/2012/12/concours-noel-rue-du-commerce.html)
 
-[![](http://multiply.com/mu/rikodewayne/image/1/photos/3/500x500/16/s-ramen-1.gif?et=BT7WzV773TPNSvis9ZkhMg&nmid=307202166)](http://multiply.com/mu/rikodewayne/image/1/photos/3/500x500/16/s-ramen-1.gif?et=BT7WzV773TPNSvis9ZkhMg&nmid=307202166)
+![](http://multiply.com/mu/rikodewayne/image/1/photos/3/500x500/16/s-ramen-1.gif?et=BT7WzV773TPNSvis9ZkhMg&nmid=307202166)
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

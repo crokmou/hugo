@@ -23,7 +23,7 @@ slug: petits-beurre-maison-aux-cranberries
 
 Hum des **Petits-Beurre**, qui n’en a jamais mangé ?! J’adore ces petits gateaux, car ils restent simples mais très gouteux. Depuis la mode des **biscuits « Home Made »**, je rêvais de pouvoir faire un jour mes Petits-Beurre, avec le vrai bon goût de beurre (ouai parce que y’a des Petits-Beurre qui ont juste le goût de biscuits secs sans le goût de beurre et dans ce cas là, j’appelle pas ça des Petits-Beurre, vouala !) ! Et c’est chose faite ! J’ai enfin acheté le petit coffret « **Atelier Petit-Beurres** » (que vous pouvez retrouver sur Rue du Commerce ou sur [Amazon](http://www.amazon.fr/Atelier-Petits-beurre-B%C3%A9rang%C3%A8re-Abraham/dp/2035855608/ref=sr_1_1?ie=UTF8&qid=1347884244&sr=8-1)) pour réaliser ces délicieux biscuits ! Le coffret comprend un petit livre avec des idées de recettes bien sympa et un tampon ‘Petit Beurre Maison’.
 
-[![](http://ecx.images-amazon.com/images/I/41veeSoqYIL._SS500_.jpg)](http://ecx.images-amazon.com/images/I/41veeSoqYIL._SS500_.jpg)
+![](http://ecx.images-amazon.com/images/I/41veeSoqYIL._SS500_.jpg)
 
 Au départ quand j’ai réalisé qu’il fallait 3h de pause pour la pâte, je me suis dit « Oh mon Dieu » ca va me prendre trois plombes à faire ces biscuits…et finalement avec un élan de motivation, je me suis lancée et je dois dire que je ne suis vraiment pas déçue du résultat ! Les Petits-Beurre ont un vrai goût de Petits-Beurre, ils sont craquants sur les côtés et un peu mou au centre, c’est juste délicieux ! J’ai ajouté des cranberries pour la couleur et pour changer un peu aussi du Petit-Beurre tout bête, je n’avais encore jamais goûté ce type de baies et après dégustation je trouve ça plutôt bon ! Pour vous dire, je suis tellement contente de la réalisation de ces Petits-Beurre que je participe donc avec joie au [Défi « Fier de mon goûter](http://recettes.de/defi-fier-de-mon-gouter) » sur [Recettes.de](http://recettes.de/) (J’ai pas d’enfants mais je suis heureuse quand mon copain nargue ces pots en disant que sa copine lui fait de bons biscuits hihi) Passons donc à la réalisation, je sais que vous êtes impatients ! Vous aurez besoin de votre balance de cuisine, d’une casserole, de votre matériel à pâtisserie et d’un tablier pour pas vous en mettre partout !
 
@@ -49,6 +49,6 @@ Pour 50 Petits-Beurre
 
 Astuce : Gardez vos Petits-Beurre dans une boite hermétique afin qu’ils ne deviennent pas trop mous.N’hésitez pas à faire de jolis paquets cadeaux pour vos Petits-Beurre, je suis sur qu’a Noël ou à d’autres occasions les gourmands seront ravis ! Et vous, cela vous rappelle quelque chose les Petits-beurre ?
 
-[![](http://freecutemsn.com/wp-content/uploads/2009/02/milky-boy-say-good-bye-emoticons.gif)](http://freecutemsn.com/wp-content/uploads/2009/02/milky-boy-say-good-bye-emoticons.gif)
+![](http://freecutemsn.com/wp-content/uploads/2009/02/milky-boy-say-good-bye-emoticons.gif)
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

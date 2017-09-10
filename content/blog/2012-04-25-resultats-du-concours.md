@@ -74,5 +74,5 @@ Et avant de partir on hésite pas, on va faire un tour chez Rue du Commerce, où
 
 Bon mercredi à tous !
 
-[![](http://2.bp.blogspot.com/-t3ObrpvOdhc/T5f4PELOKcI/AAAAAAAACI4/8218JTsIxGw/s1600/chat+qui+envoi+des+confettis+Hellogif.gif)](http://2.bp.blogspot.com/-t3ObrpvOdhc/T5f4PELOKcI/AAAAAAAACI4/8218JTsIxGw/s1600/chat+qui+envoi+des+confettis+Hellogif.gif)
+![](http://2.bp.blogspot.com/-t3ObrpvOdhc/T5f4PELOKcI/AAAAAAAACI4/8218JTsIxGw/s1600/chat+qui+envoi+des+confettis+Hellogif.gif)
 

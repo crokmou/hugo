@@ -24,6 +24,6 @@ Hello vous ! Avant de vous donner la recette de cette petite mignardise vraiment
 
 Pour ce qui est de la recette, à dire vrai je cherchai une recette à base de lavande, j’ai donc fouiné : abricot/lavande, pêche/lavande… hum oui mais non j’ai pas ça chez moi (et honnêtement la flemme de bouger mes petites fesses jusqu’au magasin !), en revanche j’ai des pommes donc on va faire avec des pommes. Et pour la forme des madeleines c’est la facilité de dégustation et l’aspect moelleux qui a dicté mon choix. Recette de base des madeleines trouvée dans le petit livre GatÔ de Ôdélices.
 
-[![](http://3.bp.blogspot.com/-Uj7sFcpGQHg/Tqmhi6Oa_mI/AAAAAAAABA0/DWF9RdtV8FE/s1600/Madeleines+lavande.jpg)](http://3.bp.blogspot.com/-Uj7sFcpGQHg/Tqmhi6Oa_mI/AAAAAAAABA0/DWF9RdtV8FE/s1600/Madeleines+lavande.jpg)
+![](http://3.bp.blogspot.com/-Uj7sFcpGQHg/Tqmhi6Oa_mI/AAAAAAAABA0/DWF9RdtV8FE/s1600/Madeleines+lavande.jpg)
 
-[![](http://4.bp.blogspot.com/-jevtk9pqf-4/TnC0s5SDDJI/AAAAAAAAAuM/rcC7XlQYuFY/s1600/deguise64.gif)](http://4.bp.blogspot.com/-jevtk9pqf-4/TnC0s5SDDJI/AAAAAAAAAuM/rcC7XlQYuFY/s1600/deguise64.gif)
+![](http://4.bp.blogspot.com/-jevtk9pqf-4/TnC0s5SDDJI/AAAAAAAAAuM/rcC7XlQYuFY/s1600/deguise64.gif)

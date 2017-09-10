@@ -42,4 +42,4 @@ Et pourquoi pas savourer ces délicieux scones avec de la confiture de lait mais
 
 Passez un bon dimanche mes gourmands !
 
-[![](http://3.bp.blogspot.com/-nY3rGFTCSH4/UAvG9OJl1_I/AAAAAAAACwg/37YVpOhgEKQ/s1600/1902673.jpg)](http://3.bp.blogspot.com/-nY3rGFTCSH4/UAvG9OJl1_I/AAAAAAAACwg/37YVpOhgEKQ/s1600/1902673.jpg)
+![](http://3.bp.blogspot.com/-nY3rGFTCSH4/UAvG9OJl1_I/AAAAAAAACwg/37YVpOhgEKQ/s1600/1902673.jpg)

@@ -8,9 +8,9 @@ disqusId:
 slug: gagnez-un-tablier-de-cuisine-personnalise-concours-commentaires
 ---
 
-[![](https://crokmou.com/images/le_secret_du_poids_florence_delorme_gif_crokmou.gif)](https://crokmou.com/images/le_secret_du_poids_florence_delorme_gif_crokmou.gif)
+![](https://crokmou.com/images/le_secret_du_poids_florence_delorme_gif_crokmou.gif)
 
-[![](https://crokmou.com/images/le_secret_du_poids_florence_delorme_gif_crokmou.gif)](https://crokmou.com/images/le_secret_du_poids_florence_delorme_gif_crokmou.gif)
+![](https://crokmou.com/images/le_secret_du_poids_florence_delorme_gif_crokmou.gif)
 
 [300 abonné(e)s Hellocoton](http://www.hellocoton.fr/mapage/cro-k-mou), c’est il pas merveilleux ? 300 gourmands qui me suivent, c’est pas que ça fait tout drôle mais presque ! Un tout grand merci à vous, d’être là, de commenter, de me raconter votre vie et vos envies, et tout compte fait de faire partie de ma vie à moi aussi ! C’est pas tous les jours facile de tenir un blog entre la recette à trouver, les photos, l’article à faire etc etc mais de voir que ma petite cuisine d’étudiante vous donne l’envie de cuisiner, de manger… et bien moi ça me donne l’envie de continuer ! Donc voilà, encore merci à tous (et même les pas Hellocoton évidemment) d’être là !
 

@@ -63,4 +63,4 @@ A bientôt !
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 
-[![](http://2.bp.blogspot.com/-SuMJWTBoiRU/UB48i-uwKlI/AAAAAAAAC0s/wxTccCQ-1qM/s1600/kawaii_monkey_43.gif)](http://2.bp.blogspot.com/-SuMJWTBoiRU/UB48i-uwKlI/AAAAAAAAC0s/wxTccCQ-1qM/s1600/kawaii_monkey_43.gif)
+![](http://2.bp.blogspot.com/-SuMJWTBoiRU/UB48i-uwKlI/AAAAAAAAC0s/wxTccCQ-1qM/s1600/kawaii_monkey_43.gif)

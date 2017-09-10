@@ -10,7 +10,7 @@ slug: restaurant-sur-la-place-a-toulon-france
 
 [![](http://4.bp.blogspot.com/-oCPdvghnZL0/UCefUydPElI/AAAAAAAADGg/gfxH89rZr3U/s320/restaurant_sur_la_place_toulon_bann.jpg)](http://4.bp.blogspot.com/-oCPdvghnZL0/UCefUydPElI/AAAAAAAADGg/gfxH89rZr3U/s1600/restaurant_sur_la_place_toulon_bann.jpg)
 
-[![](http://3.bp.blogspot.com/-HiSet0vne9A/T_2Zrek7mPI/AAAAAAAACts/-fXbf9KibS0/s1600/restaurant_sur_la_place_toulon_1.jpg)](http://3.bp.blogspot.com/-HiSet0vne9A/T_2Zrek7mPI/AAAAAAAACts/-fXbf9KibS0/s1600/restaurant_sur_la_place_toulon_1.jpg)
+![](http://3.bp.blogspot.com/-HiSet0vne9A/T_2Zrek7mPI/AAAAAAAACts/-fXbf9KibS0/s1600/restaurant_sur_la_place_toulon_1.jpg)
 
 Aujourd’hui petite **découverte culinaire** des plus sympathique ! Nous étions sur Toulon, midi sonne et par la chaleur nous cherchions un petit endroit sympa pour manger mais en terrasse. En nous baladant dans le centre, nous sommes tombés au bout d »une petite rue sur un **restaurant très ch****armant**. Des couleurs, une petit fontaine, des tables particulièrement bien présentées, en bref une belle petite place qui nous donnait faim des yeux!
 
@@ -82,4 +82,4 @@ En attendant une nouvelle petite recette, j’espère que ce petit restaurant vo
 
 A bientôt les gourmands !
 
-[![](http://2.bp.blogspot.com/-H4NRGxTobWg/T_2lMUkLlvI/AAAAAAAACuQ/pslqR0-zeeA/s1600/emoticon-3-013.gif)](http://2.bp.blogspot.com/-H4NRGxTobWg/T_2lMUkLlvI/AAAAAAAACuQ/pslqR0-zeeA/s1600/emoticon-3-013.gif)
+![](http://2.bp.blogspot.com/-H4NRGxTobWg/T_2lMUkLlvI/AAAAAAAACuQ/pslqR0-zeeA/s1600/emoticon-3-013.gif)

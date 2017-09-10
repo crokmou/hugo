@@ -69,6 +69,6 @@ Pour 8 cupcakes
 
 A déguster (presque) sans modérations ! Je vous souhaite une bonne semaine à tous !
 
-[![](http://emoticoner.com/files/emoticons/cute_rabbit/cute-rabbit-emoticon-22.gif?1301940532)](http://emoticoner.com/files/emoticons/cute_rabbit/cute-rabbit-emoticon-22.gif?1301940532)
+![](http://emoticoner.com/files/emoticons/cute_rabbit/cute-rabbit-emoticon-22.gif?1301940532)
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

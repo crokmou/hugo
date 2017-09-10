@@ -23,7 +23,7 @@ C’est une bouteille qui contient exclusivement des tomates de premiere récolt
 
 Pour info : c’est la deuxième année que Heinz lance cette édition limitée du Ketchup Primeur. Et quand il n’y a plus de bouteilles, il n’y en a plus ! Chaque bouteille comporte un numéro, au total seules 15 000 bouteilles sont mises en vente !
 
-[![](http://testsencuisine.fr/wp-content/uploads/2012/10/caisse-primeur-291x300.jpg)](http://testsencuisine.fr/wp-content/uploads/2012/10/caisse-primeur-291x300.jpg)
+![](http://testsencuisine.fr/wp-content/uploads/2012/10/caisse-primeur-291x300.jpg)
 
 D’où viennent les tomates ?
 

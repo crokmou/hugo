@@ -16,7 +16,7 @@ Rappelez vous, vous aviez l’occasion de gagner 2 petits livres Marabout de vot
 
 ### Point de suspens, passons donc aux gagnants !
 
-[![](http://2.bp.blogspot.com/-1GEvoqo91IM/UEYVgk6kzmI/AAAAAAAAEA0/EGGi1hJfdpQ/s1600/RESULTATS.jpg)](http://2.bp.blogspot.com/-1GEvoqo91IM/UEYVgk6kzmI/AAAAAAAAEA0/EGGi1hJfdpQ/s1600/RESULTATS.jpg)**Félicitations !**
+![](http://2.bp.blogspot.com/-1GEvoqo91IM/UEYVgk6kzmI/AAAAAAAAEA0/EGGi1hJfdpQ/s1600/RESULTATS.jpg)**Félicitations !**
 
 J’espère que le concours vous a plu (pour les gagnants je vais vous contacter par mail), et gardez un oeil sur Cro’K’Mou, d’autres concours sont à venir !
 

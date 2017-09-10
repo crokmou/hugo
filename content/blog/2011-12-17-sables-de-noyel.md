@@ -38,7 +38,7 @@ Pour 40 sablés
 
 __________
 
-[![](http://1.bp.blogspot.com/-VIk-7IEfFRQ/Tuz0hlS1DII/AAAAAAAABVo/xoRC4UHbLR8/s1600/AntoinePoupel7952.jpeg)](http://1.bp.blogspot.com/-VIk-7IEfFRQ/Tuz0hlS1DII/AAAAAAAABVo/xoRC4UHbLR8/s1600/AntoinePoupel7952.jpeg)
+![](http://1.bp.blogspot.com/-VIk-7IEfFRQ/Tuz0hlS1DII/AAAAAAAABVo/xoRC4UHbLR8/s1600/AntoinePoupel7952.jpeg)
 
 Déjà quelques temps que je ne vous ai pas fait la présentation d’un photographe, pour ce soir ce sera Antoine Poupel ! Il a récemment sorti un livre de photographies consacrées au Crazy Horse qui fête ses 60 ans cette année (oui vous avez peut être pu remarquer que je suis très axée sur la lingerie et les paillettes !) ! J’étais donc dans l’obligation de vous présenter ces magnifiques photo. Mais tout d’abord, petit présentation :
 
@@ -50,13 +50,13 @@ C’est lors de ces séances de portrait qu’il rencontrera le fondateur du Cra
 
 Le photographe a voulu montrer au public ce que lui ne peut pas réellement voir en assistant a une représentation au Crazy Horse. En effet ses photographies témoignent selon lui du travail, de la rigueur, de l’exigence demandée aux danseuses. Nous voyons donc l’envers du décor ! Antoine Poupel a su se fondre dans le décor afin de capter l’intimité de ce monde de paillettes.
 
-[![](http://3.bp.blogspot.com/-KBlNrKHLVy4/Tuz07TRMajI/AAAAAAAABV0/BIWalYFefuA/s1600/crazy-8.jpg)](http://3.bp.blogspot.com/-KBlNrKHLVy4/Tuz07TRMajI/AAAAAAAABV0/BIWalYFefuA/s1600/crazy-8.jpg)
+![](http://3.bp.blogspot.com/-KBlNrKHLVy4/Tuz07TRMajI/AAAAAAAABV0/BIWalYFefuA/s1600/crazy-8.jpg)
 
 J’aime particulièrement le monde du cabaret, la beauté et la sensualité que transmettent les danseuses est pour moi très intéressante. C’est pourquoi cette exposition m’a particulièrement plu, on y voit autre chose que le spectacle en lui même. Je trouve que pour ceux qui ont une vision malsaine de ces danseuses, les photographies permettent de comprendre véritablement qui elles sont, cela change le regard sur le monde du cabaret !
 
 Les photographies ne sont pas seulement jolies, elles apportent une certaine connaissance sur un monde que peu connaissent réellement.
 
-[![](http://2.bp.blogspot.com/-e2TSNP0JpFY/Tuz063oYqpI/AAAAAAAABVw/MJxzGkInHDY/s1600/crazy-3.jpg)](http://2.bp.blogspot.com/-e2TSNP0JpFY/Tuz063oYqpI/AAAAAAAABVw/MJxzGkInHDY/s1600/crazy-3.jpg)
+![](http://2.bp.blogspot.com/-e2TSNP0JpFY/Tuz063oYqpI/AAAAAAAABVw/MJxzGkInHDY/s1600/crazy-3.jpg)
 
 **Et vous, qu’en pensez vous ?**
 
@@ -70,4 +70,4 @@ __________
 
 **Je ne sais pas si on se vera d’ici là, donc je vous souhaite à tous un très Joyeux Noël !**
 
-[![](http://4.bp.blogspot.com/-h1gdlp6SbtA/Tuz6spBdEZI/AAAAAAAABWA/aAFtyJQEgMg/s1600/e055.gif)](http://4.bp.blogspot.com/-h1gdlp6SbtA/Tuz6spBdEZI/AAAAAAAABWA/aAFtyJQEgMg/s1600/e055.gif)
+![](http://4.bp.blogspot.com/-h1gdlp6SbtA/Tuz6spBdEZI/AAAAAAAABWA/aAFtyJQEgMg/s1600/e055.gif)

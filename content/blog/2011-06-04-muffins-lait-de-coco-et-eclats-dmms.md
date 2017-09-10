@@ -22,7 +22,7 @@ Oh un rouge ! Non en fait je préfère le orange, lui c’est le jaune. Qui n’
 
 Je raffole des M&M’s et j’avais encore un peu de lait de coco, j’ai donc fait des muffins (j’aurais aimé des cupcakes mais pas de fixateur à chantilly dans l’armoire), et vous savez quoi ? C’est super bon (même si la pâte durant la préparation prend une couleur gloubiboulga ^.^)
 
-[![](http://4.bp.blogspot.com/-bSL6k3FppOU/TsFu09XhzgI/AAAAAAAABJI/oXs93Wf2d1Y/s1600/Muffins+m%2526ms.jpg)](http://4.bp.blogspot.com/-bSL6k3FppOU/TsFu09XhzgI/AAAAAAAABJI/oXs93Wf2d1Y/s1600/Muffins+m%2526ms.jpg)
+![](http://4.bp.blogspot.com/-bSL6k3FppOU/TsFu09XhzgI/AAAAAAAABJI/oXs93Wf2d1Y/s1600/Muffins+m%2526ms.jpg)
 
 [![](http://2.bp.blogspot.com/-QuyYrc55CKI/Tep2Zvd8XvI/AAAAAAAAANw/Lobx03VZNSs/s400/Muffins+m%2526ms+j.jpg)](http://2.bp.blogspot.com/-QuyYrc55CKI/Tep2Zvd8XvI/AAAAAAAAANw/Lobx03VZNSs/s1600/Muffins+m%2526ms+j.jpg)[![](http://1.bp.blogspot.com/-Ha4aoJmI-GQ/Tep2b_31-sI/AAAAAAAAAN4/woNwUdA_w8I/s400/Muffins+m%2526ms+o.jpg)](http://1.bp.blogspot.com/-Ha4aoJmI-GQ/Tep2b_31-sI/AAAAAAAAAN4/woNwUdA_w8I/s1600/Muffins+m%2526ms+o.jpg)
 

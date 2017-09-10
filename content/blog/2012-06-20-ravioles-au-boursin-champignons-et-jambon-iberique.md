@@ -67,6 +67,6 @@ Je vous souhaite à tous un très bon mercredi, un bon courage à ceux qui trava
 
 A bientôt pour quelques recettes gourmandes !
 
-[![](http://4.bp.blogspot.com/-f-qb7LbUkkA/T-GUBYi3v6I/AAAAAAAACpY/kdNOf5Tfvxs/s1600/kawaii_onionhead_42.gif)](http://4.bp.blogspot.com/-f-qb7LbUkkA/T-GUBYi3v6I/AAAAAAAACpY/kdNOf5Tfvxs/s1600/kawaii_onionhead_42.gif)
+![](http://4.bp.blogspot.com/-f-qb7LbUkkA/T-GUBYi3v6I/AAAAAAAACpY/kdNOf5Tfvxs/s1600/kawaii_onionhead_42.gif)
 
 *Produits offerts

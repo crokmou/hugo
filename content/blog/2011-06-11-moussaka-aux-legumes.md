@@ -24,5 +24,5 @@ Bien le bonsoir chers blogueurs, veuillez m’excusez pour cette courte absence 
 
 Me voilà donc sur Cuisine AZ à la recherche de recettes (Topic 30min Chrono), pour au final tomber sur la recette du Moussaka (Quesako ?) : Oh mais rien de bien compliqué, aubergines j’ai, crème fraiche aussi et le reste *je marmonne* hum oui tout est bon !
 
-[![](http://3.bp.blogspot.com/-qWwrKZ8aOiA/TsFtE7MEtuI/AAAAAAAABJA/lPan9ms0UI8/s1600/Moussaka+le%25CC%2581gumes.jpg)](http://3.bp.blogspot.com/-qWwrKZ8aOiA/TsFtE7MEtuI/AAAAAAAABJA/lPan9ms0UI8/s1600/Moussaka+le%25CC%2581gumes.jpg)
+![](http://3.bp.blogspot.com/-qWwrKZ8aOiA/TsFtE7MEtuI/AAAAAAAABJA/lPan9ms0UI8/s1600/Moussaka+le%25CC%2581gumes.jpg)
 

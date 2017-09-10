@@ -48,7 +48,7 @@ Et vous ?
 
 – [Gourmet et Gourmand avec un Tiramisu très girly à la fraise](http://www.gourmetetgourmand.com/tiramisus-tres-girly-a-la-fraise/)
 
-[![](http://3.bp.blogspot.com/-vRubvqF-LE4/TiwhtTwr0DI/AAAAAAAAAcY/34HYnbzI4Hg/s1600/789107881_1_15_V3bwVZzq.gif)](http://3.bp.blogspot.com/-vRubvqF-LE4/TiwhtTwr0DI/AAAAAAAAAcY/34HYnbzI4Hg/s1600/789107881_1_15_V3bwVZzq.gif)
+![](http://3.bp.blogspot.com/-vRubvqF-LE4/TiwhtTwr0DI/AAAAAAAAAcY/34HYnbzI4Hg/s1600/789107881_1_15_V3bwVZzq.gif)
 
 [Le tablier de Christelle](http://letablierdechristelle.com/) : Blog découvert aujourd’hui, j’aime particulièrement les recettes, toutes plus gourmandes les unes que les autres !
 

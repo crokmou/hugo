@@ -19,5 +19,5 @@ Me revoilà avec la mousse au chocolat ! Oui, j’ai des périodes où je ne fai
 
 En ce moment le temps est grisouillou, les examens approchent à grands pas (le stress de ne pas retenir tout ce qu’on lit), donc beh chocolat obligé, en barre, en gâteau, en mousse ^.^
 
-[![](http://4.bp.blogspot.com/-bXES67U_fjg/TsFxmeL-4vI/AAAAAAAABJg/Znyob7y7zZw/s1600/Mousse+choco+vanille.jpg)](http://4.bp.blogspot.com/-bXES67U_fjg/TsFxmeL-4vI/AAAAAAAABJg/Znyob7y7zZw/s1600/Mousse+choco+vanille.jpg)
+![](http://4.bp.blogspot.com/-bXES67U_fjg/TsFxmeL-4vI/AAAAAAAABJg/Znyob7y7zZw/s1600/Mousse+choco+vanille.jpg)
 

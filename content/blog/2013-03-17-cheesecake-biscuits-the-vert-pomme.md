@@ -40,7 +40,7 @@ _For those who do not still know the Destree cookie factory:  » Stephen Destre
 
 _I can assure you that his biscuits are really delicious! The first time when I tasted them, I have to admit that I had never taste a texture similar, it is soft and crisp at the same time, it is light, it is plainly the best biscuits that I have never eaten (especially the salted butter fudge). If you wish to know the range of products I invite you to go on [the website of the cookie factory](http://www.biscuiteriedestree.be/index-en.php)._
 
-[![](http://www.crokmou.com/wp-content/uploads/2013/03/backstage_cheesecake_biscuit_the_vert_pomme_biscuiterie_destree1.jpg)](http://www.crokmou.com/wp-content/uploads/2013/03/backstage_cheesecake_biscuit_the_vert_pomme_biscuiterie_destree1.jpg)
+![](http://www.crokmou.com/wp-content/uploads/2013/03/backstage_cheesecake_biscuit_the_vert_pomme_biscuiterie_destree1.jpg)
 
 Pour réaliser cette recette vous aurez besoin d’une casserole, d’un cul de poule (ou saladier), d’un fouet tout droit sorti de votre matériel à pâtisserie, d’une feuille de cuisson, de 4 cercles de présentation d’environ 7cm de diamètre et d’un couteau (fort utile pour démouler ici).
 

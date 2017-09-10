@@ -49,7 +49,7 @@ Pour 10 minis moelleux
 
 **Et vous quels sont vos gouters préférés ?** ** ** ** ** A bientôt pour de nouvelles recettes ! (Et le résultat des exams huhuhu) Bisous bisous mes gourmands !
 
-[![](http://3.bp.blogspot.com/-A1DIirYXsDk/UETX8NBCkBI/AAAAAAAAD-s/K08f0uTKEPg/s1600/panda-dog-emoticon-003.gif)](http://3.bp.blogspot.com/-A1DIirYXsDk/UETX8NBCkBI/AAAAAAAAD-s/K08f0uTKEPg/s1600/panda-dog-emoticon-003.gif)
+![](http://3.bp.blogspot.com/-A1DIirYXsDk/UETX8NBCkBI/AAAAAAAAD-s/K08f0uTKEPg/s1600/panda-dog-emoticon-003.gif)
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 

@@ -18,7 +18,7 @@ slug: beurre-a-lail-des-ours
 
 L’ail des ours, un grand amour depuis peu ! Pour ceux qui ne connaissent pas, l’ail des ours est une plante appelée aussi ail sauvage. Vous ne trouverez pas cette herbe en grande surface ni même sur les marchés (quoi que peut être les petits), il vous faudra vous déplacer dans les sous bois. L’ail des ours sent l’ail (noooon c’est vrai ?!) et c’est d’ailleurs grâce à l’odeur que vous pourrez différencier la feuille d’ail des ours des feuilles de muguet, oui parce que cela se ressemble fort !
 
-[![](http://www.crokmou.com/wp-content/uploads/2013/06/cueillette-ail-des-ours-2-1.jpg)](http://www.crokmou.com/wp-content/uploads/2013/06/cueillette-ail-des-ours-2-1.jpg)
+![](http://www.crokmou.com/wp-content/uploads/2013/06/cueillette-ail-des-ours-2-1.jpg)
 
 Je ne pourrais pas vous aider quant au « Comment en trouver dans les sous bois ? » puisque moi même, j’ai échoué =D (un ami qui s’y connait mieux m’en a gentiment rapporté). En revanche je vous conseille un blog (dont est issue la photo ci-contre) qui sera vous expliquer la plante en détail et avec des recettes en prime : [Food & Fashion](http://www.foodandfashion.eu/article-utiliser-l-ail-des-ours-en-cuisine-quelques-suggestions-118133660.html) !
 

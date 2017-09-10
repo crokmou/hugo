@@ -36,4 +36,4 @@ Pour 1 litre de crème glacée
 
 Si vous désirez vous pouvez aussi ajouter des framboises ou des fraises à votre base de crème glacée, c’est tout aussi bon ! Et pour la création de cette recette je vous conseille le site Rue du Commerce, vous y trouverez des yaourtières et des sorbetières (Magimix) et si la crème glacée n’est pas votre point fort et que vous préférez un bon café, vous pouvez retrouver chez mon partenaire toutes les cafetières De’Longhi et Krups ainsi que les dosettes à café que vous désirez! Sur ce je vous dis à très bientôt avec cette fois une recette de cornes de gazelle ! Profitez bien de ce temps radieux !
 
-[![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)
+![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)

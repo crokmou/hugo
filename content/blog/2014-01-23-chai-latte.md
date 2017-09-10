@@ -42,5 +42,3 @@ Pour 2 mugs
 Il est tout à fait possible aussi d’ajouter des clous de girofle ou un peu de vanille, dans ce cas il suffit juste de les ajouter au mélange d’épice dans la casserole ! Et vous, avez vous déjà goûté ce mélange épicé ?
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
-
-○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

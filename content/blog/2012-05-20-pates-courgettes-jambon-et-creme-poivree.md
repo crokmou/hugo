@@ -54,7 +54,7 @@ Et avant de vous quitter, je vous laisse devant une magnifique série de photos.
 
 **Photographe: **_Ellen von Unwerth_** | ****Client:** _Chantal Thomass _| **Série****:** _Carnival _| **Date:** _2012_
 
-[![](http://2.bp.blogspot.com/-Xr9COOdNU3I/T7kfd2pVzSI/AAAAAAAACbI/FR61-dxMYu8/s1600/Chantal-Thomass-20120511.jpg)](http://2.bp.blogspot.com/-Xr9COOdNU3I/T7kfd2pVzSI/AAAAAAAACbI/FR61-dxMYu8/s1600/Chantal-Thomass-20120511.jpg)
+![](http://2.bp.blogspot.com/-Xr9COOdNU3I/T7kfd2pVzSI/AAAAAAAACbI/FR61-dxMYu8/s1600/Chantal-Thomass-20120511.jpg)
 
 **Dites moi, qu’en pensez vous ? **
 
@@ -62,4 +62,4 @@ Pour moi cette série représente la sensualité, le « croquant » sans être
 
 Bonne fin de soirée et bon début de semaine à tous (Pour moi il va s’annoncer par un shooting lingerie, parfait non ?)
 
-[![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)
+![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)

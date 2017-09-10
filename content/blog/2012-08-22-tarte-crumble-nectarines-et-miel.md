@@ -49,6 +49,6 @@ N’oubliez pas le [petit concours](http://www.crokmou.com/2012/08/concours-tira
 
 Je vous souhaite à tous une très belle journée, profitez en bien !
 
-[![](http://2.bp.blogspot.com/-bNONg31DXvk/UDSayyHlZAI/AAAAAAAADag/FEiIHPp9x0g/s1600/Keep_Smiling.gif)](http://2.bp.blogspot.com/-bNONg31DXvk/UDSayyHlZAI/AAAAAAAADag/FEiIHPp9x0g/s1600/Keep_Smiling.gif)
+![](http://2.bp.blogspot.com/-bNONg31DXvk/UDSayyHlZAI/AAAAAAAADag/FEiIHPp9x0g/s1600/Keep_Smiling.gif)
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

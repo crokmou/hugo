@@ -50,6 +50,6 @@ Pour 2 personnes
 
 Alors rapide non ? Et vous verrez c’est délicieux ! Je vous souhaite un bon début de semaine et je vous dis à vendrediiiii ! Des bisous
 
-[![](http://1.bp.blogspot.com/-mlT3W8C_RL0/UGBA1pYBUPI/AAAAAAAAEkY/3ySY5XvqCFo/s1600/005.gif)](http://1.bp.blogspot.com/-mlT3W8C_RL0/UGBA1pYBUPI/AAAAAAAAEkY/3ySY5XvqCFo/s1600/005.gif)
+![](http://1.bp.blogspot.com/-mlT3W8C_RL0/UGBA1pYBUPI/AAAAAAAAEkY/3ySY5XvqCFo/s1600/005.gif)
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

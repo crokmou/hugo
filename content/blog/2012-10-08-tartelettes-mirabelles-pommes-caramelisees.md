@@ -57,7 +57,7 @@ Oh et puis vous savez quoi mes gourmands ? Bon certains d’entre vous l’on ce
 
 Léon se retrouve donc dans la bannière du blog mais aussi dans le nouveau logo que voici :
 
-[![](https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-snc7/579792_408965292505204_2097146828_n.jpg)](https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-snc7/579792_408965292505204_2097146828_n.jpg)
+![](https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-snc7/579792_408965292505204_2097146828_n.jpg)
 
 Qu’en pensez vous ? Sympa non ? En tout cas je tiens à remercier Tom Haidopoulo (bientôt un petit article sur la présentation de son site et ses illustrations) pour son travail et son talent ! Et merci à vous, lecteurs, d’avoir voté pour votre logo préféré sur les réseaux sociaux !
 

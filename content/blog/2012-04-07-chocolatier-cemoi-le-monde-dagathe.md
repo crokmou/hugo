@@ -38,4 +38,4 @@ Cémoi m’a aussi envoyé un très beau livre concernant Le monde d’Agathe, a
 
 J’en profites aussi pour vous rappelez que j’avais fait un petit article sur [le petit ourson guimauve](http://crokmou.blogspot.com/2011/08/le-petit-ourson-guimauve.html) de la marque Cémoi, n’hésitez donc pas à y jeter un coup d’oeil ! Je remercie beaucoup Cémoi pour ce colis bien gourmand et je vous souhaite à tous de très bonnes fêtes de Pâques !
 
-[![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)
+![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)

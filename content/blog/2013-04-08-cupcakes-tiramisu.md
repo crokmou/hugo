@@ -60,33 +60,7 @@ Pour 6 cupcakes
 6- Pour le topping : Mélangez la mascarpone avec le sucre glace. Garnissez vos cupcakes de ce topping à l’aide d’une poche à douille.
 7- Saupoudrez les cupcakes de cacao avant dégustation, sinon gardez au frais !
 
-_[Recipe in English](https://lh4.googleusercontent.com/-KotU6Ys2PGo/UWKecfgsCOI/AAAAAAAAG3M/AVLQ-e3my0s/s842/tiramisu_cupcake.jpg) :_
-
-_ _
-
-<table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
-
-<tbody>
-
-<tr>
-
-<td style="text-align: center;">[![](http://www.crokmou.com/wp-content/uploads/2013/04/tiramisu_cupcake-300x2121-300x212.jpg)](http://www.crokmou.com/wp-content/uploads/2013/04/tiramisu_cupcake-300x2121.jpg)</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: center;">[Here](https://lh4.googleusercontent.com/-KotU6Ys2PGo/UWKecfgsCOI/AAAAAAAAG3M/AVLQ-e3my0s/s842/tiramisu_cupcake.jpg)</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-_ _
-
-_ _
+[Recipe in English](https://lh4.googleusercontent.com/-KotU6Ys2PGo/UWKecfgsCOI/AAAAAAAAG3M/AVLQ-e3my0s/s842/tiramisu_cupcake.jpg)
 
 Passez une bonne semaine !
 

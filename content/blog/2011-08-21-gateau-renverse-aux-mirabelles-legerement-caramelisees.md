@@ -19,7 +19,7 @@ Il était temps que je revienne m’occuper un peu de mon blog ! Je ne sais pas 
 
 Je ne vais pas vous faire attendre plus longtemps, voici donc la recette :
 
-[![](http://4.bp.blogspot.com/-37XH0blHzyI/TqmmG1WghTI/AAAAAAAABBs/LVzwZYxpfP8/s1600/gateau+renverse%25CC%2581+mirabelles.jpg)](http://4.bp.blogspot.com/-37XH0blHzyI/TqmmG1WghTI/AAAAAAAABBs/LVzwZYxpfP8/s1600/gateau+renverse%25CC%2581+mirabelles.jpg)
+![](http://4.bp.blogspot.com/-37XH0blHzyI/TqmmG1WghTI/AAAAAAAABBs/LVzwZYxpfP8/s1600/gateau+renverse%25CC%2581+mirabelles.jpg)
 
 [![](http://3.bp.blogspot.com/-miZ-NN7mngI/TlFBG1J-GAI/AAAAAAAAAh0/x7_46Kw_wQQ/s640/Gateau+renverse%25CC%2581+1+copie.jpg)](http://3.bp.blogspot.com/-miZ-NN7mngI/TlFBG1J-GAI/AAAAAAAAAh0/x7_46Kw_wQQ/s1600/Gateau+renverse%25CC%2581+1+copie.jpg)
 

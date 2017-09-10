@@ -39,4 +39,4 @@ Pour environ 30 rochers
 
 A très bientôt !
 
-[![](http://3.bp.blogspot.com/-lLISbtPMr78/T416bWgvFYI/AAAAAAAACGc/_H7HHRjqWw0/s1600/lapin+qui+danse+avec+des+maracas+Hellogif.gif)](http://3.bp.blogspot.com/-lLISbtPMr78/T416bWgvFYI/AAAAAAAACGc/_H7HHRjqWw0/s1600/lapin+qui+danse+avec+des+maracas+Hellogif.gif)
+![](http://3.bp.blogspot.com/-lLISbtPMr78/T416bWgvFYI/AAAAAAAACGc/_H7HHRjqWw0/s1600/lapin+qui+danse+avec+des+maracas+Hellogif.gif)

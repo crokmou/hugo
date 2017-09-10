@@ -17,7 +17,7 @@ slug: la-puree-verte-au-cresson
 
   25/11/11 : Parce qu’il est bon de remettre des recettes au goût du jour !  De retour pour une petite recette ^.^ ! J’aime beaucoup la purée maison, et je crois que la purée verte est tout simplement un délice. Je vous amène donc à mes 8 ans je crois, ma moman m’a fait pour la première fois de la purée verte, au début je m’attendais à de la purée de pois cassés (le genre de truc que peu de petits n’enfants aiment), tout pour dire qu’on m’a toujours dit « Goûtes avant de dire j’aime pas ». D’accord, j’ai donc goûté et hummm tellement bon O.o !  De retour à cette année 2011, je passe faire mes petits achats pour la semaine dans un magasin et je vois du cresson, hop dans le sac à courses ! Je me suis donc dit que j’allais vous faire découvrir (ou pas), cette petite recette, particulièrement simple, mais un peu longue. Nul besoin de 50 ustensiles pour faire de la purée : une cocotte minute (Seb par exemple), une poêle et un robot mixer pour le cresson
 
-[![](http://1.bp.blogspot.com/-_xEwPUx9yHQ/Ts-Xv_7bbMI/AAAAAAAABLg/fqGb9Fgfc4c/s1600/Pure%25CC%2581e+verte.jpg)](http://1.bp.blogspot.com/-_xEwPUx9yHQ/Ts-Xv_7bbMI/AAAAAAAABLg/fqGb9Fgfc4c/s1600/Pure%25CC%2581e+verte.jpg)
+![](http://1.bp.blogspot.com/-_xEwPUx9yHQ/Ts-Xv_7bbMI/AAAAAAAABLg/fqGb9Fgfc4c/s1600/Pure%25CC%2581e+verte.jpg)
 
 __________
 
@@ -31,5 +31,5 @@ Pour cette fois ce n’est pas de la photo mais de la musique que je vais vous p
 [Without a word](http://youtu.be/fnAfFpNKT_E)
   Qu’en pensez vous ?
 
-[![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)
+![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)
 

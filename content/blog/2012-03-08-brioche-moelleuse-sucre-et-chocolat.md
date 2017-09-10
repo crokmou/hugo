@@ -48,4 +48,4 @@ _N’est-elle pas belle et moelleuse cette brioche ?_Oh et pour les photographie
 
 Sur ce mes loulous, je vous dis à bientôt. Peut être nous verrons nous ce dimanche au Salon du Chocolat à Lille (puisque j’ai eu l’occasion de gagner un place grâce à [Sylvain](http://gay-dans-les-coings.blogspot.com/) (encore un grand merci)), sinon et bien nous nous verrons pour de prochaines recettes. Des bisous.
 
-[![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)
+![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)

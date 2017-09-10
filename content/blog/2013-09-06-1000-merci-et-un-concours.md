@@ -10,7 +10,7 @@ slug: 1000-merci-et-un-concours
 
 Bonjour les gourmands ! J’ai mi un peu de temps à revenir et je m’en excuse, mais entre les vacances, le début d’un nouveau boulot et la mise en place du concours, se fût un peu plus long que prévu ! Néanmoins je suis certaine que vous allez être ravis de ce retour !
 
-[![](http://www.crokmou.com/wp-content/uploads/2013/09/tumblr_ms20vpk95w1qhy6c9o1_5001.gif)](http://www.crokmou.com/wp-content/uploads/2013/09/tumblr_ms20vpk95w1qhy6c9o1_5001.gif)
+![](http://www.crokmou.com/wp-content/uploads/2013/09/tumblr_ms20vpk95w1qhy6c9o1_5001.gif)
 
 Tout d’abord je tiens encore à vous remercier, oui parce que 1000 abonnés Facebook c’est pas rien ! Oui oui, vous êtes maintenant plus de 1000 à me suivre dans mes petites aventures culinaires et c’est un vrai bonheur de vous savoir à mes côtés ! Pour vous remercier de vos petits mots, de vos visites, et de vos adorables commentaires, je vous ai réservé un petit (gros) concours des plus gourmand !
 
@@ -56,7 +56,7 @@ Pour cette fois je vais donc vous faire cuisiner, oui, oui, mais rassurez vous v
 
 « _La conserverie [Au Bec Fin](http://www.au-bec-fin.com/), l’artisan des saveurs provençales. __Créée en 1991, et implantée à Cogolin, dans le Golfe de Saint Tropez, la Conserverie [Au Bec Fin](http://www.au-bec-fin.com/) est née en Provence et revendique son statut d’artisan des saveurs. Elle entretient depuis toujours une passion pour la gastronomie de sa région, et un amour pour ses produits. Des goûts et des saveurs qu’elle entend faire partager, auprès des particuliers comme des professionnels._«
 
-[![](http://www.crokmou.com/wp-content/uploads/2013/09/aubecfin-point-vente1.jpg)](http://www.crokmou.com/wp-content/uploads/2013/09/aubecfin-point-vente1.jpg) [![](http://www.crokmou.com/wp-content/uploads/2013/09/Spe-CC-81cialite-CC-81s-provenc-CC-A7ales-300x2621-300x262.jpg)](http://www.crokmou.com/wp-content/uploads/2013/09/Spe-CC-81cialite-CC-81s-provenc-CC-A7ales-300x2621.jpg)
+![](http://www.crokmou.com/wp-content/uploads/2013/09/aubecfin-point-vente1.jpg) [![](http://www.crokmou.com/wp-content/uploads/2013/09/Spe-CC-81cialite-CC-81s-provenc-CC-A7ales-300x2621-300x262.jpg)](http://www.crokmou.com/wp-content/uploads/2013/09/Spe-CC-81cialite-CC-81s-provenc-CC-A7ales-300x2621.jpg)
 
 <span style="line-height: 20px;">Durant mes vacances je suis allée visiter cette conserverie avec mon Papa et son copain. Comme ils tiennent une épicerie dans le Var, toujours à la recherche de produits de qualité et surtout artisanaux,  c’est donc tout naturellement que nous avons décidé d’aller voir ces produits d’un peu plus près. Nous n’avons pas été déçus (sauf peut être de ne pas avoir eu le temps de visiter la conserverie), le coin est très agréable et les explications sur les différents produits sont très intéressantes. Tout est fait en collaboration avec les producteurs du coin, un bon point donc, </span>de plus les produits sont excellents !
 
@@ -100,7 +100,7 @@ Il y aura en tout 5 gagnants, oui, oui vous avez bien entendu ! Avant de vous mo
 
 – Laure du blog [Malice et astuces](http://maliceetastuce.wordpress.com/) et qui pour l’occasion nous a concocté une petite recette du Nord
 
-<div style="clear: both; text-align: center;">[![](http://www.crokmou.com/wp-content/uploads/2013/09/creme-brulc3a9e-au-speculoos-287x3001.jpg)](http://www.crokmou.com/wp-content/uploads/2013/09/creme-brulc3a9e-au-speculoos-287x3001.jpg)
+<div style="clear: both; text-align: center;">![](http://www.crokmou.com/wp-content/uploads/2013/09/creme-brulc3a9e-au-speculoos-287x3001.jpg)
 
 – Candy qui n’a pas de blog mais qui a décider de parler en tant que bénévole pour l’association [Catrescue](http://www.catrescue.be/) (Un refuge pour chats maltraités et abandonnés)
 

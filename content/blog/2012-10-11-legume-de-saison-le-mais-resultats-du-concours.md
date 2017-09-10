@@ -27,7 +27,7 @@ Il existe bien des variétés de maïs, mais le plus consommé par nous les homm
 
 <tr>
 
-<td style="text-align: center;">[![](http://www.pleinsud.u-psud.fr/wp-content/uploads/2010/07/p.23-fig2-300x200.jpg)](http://www.pleinsud.u-psud.fr/wp-content/uploads/2010/07/p.23-fig2-300x200.jpg)</td>
+<td style="text-align: center;">![](http://www.pleinsud.u-psud.fr/wp-content/uploads/2010/07/p.23-fig2-300x200.jpg)</td>
 
 </tr>
 
@@ -65,7 +65,7 @@ En entrée nous pouvons commencer par des petits [muffins Mexicanos](http://carn
 
 S
 
-[![](https://crokmou.com/images/le_secret_du_poids_florence_delorme_gif_crokmou.gif)](https://crokmou.com/images/le_secret_du_poids_florence_delorme_gif_crokmou.gif)
+![](https://crokmou.com/images/le_secret_du_poids_florence_delorme_gif_crokmou.gif)
 
 En tout cas les gagnant(e)s de mon concours  en collaboration avec [Cadeaux-perso.com](http://www.cadeaux-perso.com/) auront la chance de cuisiner avec un beau tablier autour du cou !
 

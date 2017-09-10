@@ -60,6 +60,6 @@ Bonne soirée à tous et bon week end !
 
 Oh non il me semble que j’ai oublié de vous dire : **Ca fait maintenant un an que j’ai arrêté de fumer**. Et a dire vrai j’ai commencé ce blog le jour où j’ai lâché ma dernière clope ! C’est pas super cool tout ca ? (Bon j’ai pris quelques kilos depuis mais ou moins mes poumons récupèrent =p). Merci à vous tous d’être plus nombreux à me rendre visite et à me laisser des petits mots sympa, on dirait pas mais ces choses là ca aide beaucoup =) See Ya’
 
-[![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)
+![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)
 
 *Produit offert

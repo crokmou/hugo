@@ -20,26 +20,23 @@ ingredient_temps:
 ingredient_textarea: |
 
   ## Pour la pâte à tarte levée :
-  
-  
-  * 100g de farine
+
+* 100g de farine
   * 5g de sucre
   * 15g d'oeuf (gardez l'autre moitié pour la dorure)
   * 2g de sel
   * 5g de levure fraîche
   * 25g d'eau + 5g de poudre de lait
   * 35g de beurre pommade
-  
 
-  ## Pour la crème pâtissière :
+## Pour la crème pâtissière :
    
   * 230g de lait entier ou demi-écrémé
   * 30g de jaune d'oeuf (gardez le reste pour la dorure)
   * 50g de sucre
   * 18g de maïzena
-  
 
-  ## Pour le riz au lait :
+## Pour le riz au lait :
    
   * 650g de lait entier ou demi-écrémé
   * 97g de riz brisé

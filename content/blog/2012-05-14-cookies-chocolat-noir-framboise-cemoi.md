@@ -44,8 +44,8 @@ Pour 20 gros cookies
 
 Je suis sur que votre gourmandise s’est réveillée après ca ! Et pour le plaisir des yeux et non des papilles cette fois, une petite série de photographies : **Photographe: **_Mark Seliger_** | ****Modèle:** _Emma Watson _| **Client:** _Vogue Italie _| **Date:** _2008_
 
-[![](http://3.bp.blogspot.com/-ZopJDSRcvKE/T7E31GtFFeI/AAAAAAAACaA/HW03_aLHx9Q/s1600/Emma-Watson-Photoshoot-Vogue-Italia-Mark-Seliger-5.jpg)](http://3.bp.blogspot.com/-ZopJDSRcvKE/T7E31GtFFeI/AAAAAAAACaA/HW03_aLHx9Q/s1600/Emma-Watson-Photoshoot-Vogue-Italia-Mark-Seliger-5.jpg)
+![](http://3.bp.blogspot.com/-ZopJDSRcvKE/T7E31GtFFeI/AAAAAAAACaA/HW03_aLHx9Q/s1600/Emma-Watson-Photoshoot-Vogue-Italia-Mark-Seliger-5.jpg)
 
 Sympa non ? Qu’en pensez vous ? Moi je trouve ca féerique ! Qu’est ce que j’aimerai pouvoir faire ce genre de photos avec ce genre de vêtements (et ces décors) ! Après ces reveries je vous souhaite un bon début de semaine !
 
-[![](http://4.bp.blogspot.com/-TT_gBJSE89c/T7E4ftxluhI/AAAAAAAACaI/qNJ6paY3e0U/s1600/panda+fait+des+bisous+Hellogif.gif)](http://4.bp.blogspot.com/-TT_gBJSE89c/T7E4ftxluhI/AAAAAAAACaI/qNJ6paY3e0U/s1600/panda+fait+des+bisous+Hellogif.gif)
+![](http://4.bp.blogspot.com/-TT_gBJSE89c/T7E4ftxluhI/AAAAAAAACaI/qNJ6paY3e0U/s1600/panda+fait+des+bisous+Hellogif.gif)

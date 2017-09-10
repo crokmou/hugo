@@ -50,7 +50,7 @@ Ces petites billes sont vraiment très intéressantes en bouche, le goût du j
 
 Après 3h30 de cuisine, nous nous sommes mis à table afin de déguster ce que nous avions en partie cuisiné !
 
-[![](http://4.bp.blogspot.com/-G0WYdIm3_rc/UJOkhlX_JwI/AAAAAAAAFHE/6vRdxFxDo6E/s1600/20121027_cours_cuisine_moleculaire_jean_francois_maire.jpg)](http://4.bp.blogspot.com/-G0WYdIm3_rc/UJOkhlX_JwI/AAAAAAAAFHE/6vRdxFxDo6E/s1600/20121027_cours_cuisine_moleculaire_jean_francois_maire.jpg)
+![](http://4.bp.blogspot.com/-G0WYdIm3_rc/UJOkhlX_JwI/AAAAAAAAFHE/6vRdxFxDo6E/s1600/20121027_cours_cuisine_moleculaire_jean_francois_maire.jpg)
 
 La dégustation fût tout simplement merveilleuse ! Je n’ai jamais mangé une Saint Jacques et un cabillaud aussi bien cuits. C’était moelleux, goûteux, fin … en bref un vrai délice ! Moi qui n’aime pas vraiment le céleri, la purée était bonne, la gelée de fenouil apportait une petite touche de « fraicheur » vraiment agréable. La mousse de tapenade pour le plat était délicieuse, le goût de la tapenade ne venait pas de suite en bouche mais apportait une touche de saveurs vers la fin. Et en ce qui concerne le dessert c’était juste parfait pour finir le repas, les billes apportaient la fraicheur et le craquant, la mousse de pomme : le crémeux et l’onctuosité pour ensuite finir sur une compote de pomme agréablement parfumée !
 

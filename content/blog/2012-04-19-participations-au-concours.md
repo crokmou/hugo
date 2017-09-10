@@ -252,5 +252,5 @@ Bonjour les gourmands ! Toujours pas de recette pour aujourd’hui (mais cela va
 
   J’attends vos autres participations avec impatience ! N’hésitez pas ! (Et surtout n’ayez pas peur !) Un très bon lundi de Pâques à vous !
 
-[![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)
+![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)
 

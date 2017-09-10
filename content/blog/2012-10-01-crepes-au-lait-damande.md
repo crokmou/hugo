@@ -48,7 +48,7 @@ Pour environ 30 crêpes
 
 </div>
 
-[![](https://crokmou.com/images/le_secret_du_poids_florence_delorme_gif_crokmou.gif)](https://crokmou.com/images/le_secret_du_poids_florence_delorme_gif_crokmou.gif)
+![](https://crokmou.com/images/le_secret_du_poids_florence_delorme_gif_crokmou.gif)
 
 **Délicieux n’est ce pas ? Et vous les soirées crêpes, cela vous arrive souvent ? Avec quoi les dégustez vous ?**
 

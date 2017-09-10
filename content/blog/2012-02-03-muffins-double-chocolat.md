@@ -45,4 +45,4 @@ Laissez quelque peu refroidir avant de déguster
 
 Pour accompagner ce délicieux gouter n’oubliez pas le pichet de grenadine ou tout simplement la machine à soda ! Je vous souhaite de passer un très bon week end, la neige, les bon petit repas chaud tout ça, tout ça ! Profitez bien !
 
-[![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)
+![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)

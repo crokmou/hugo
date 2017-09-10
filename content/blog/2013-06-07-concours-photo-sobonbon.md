@@ -42,7 +42,7 @@ Je n’ai qu’une seule chose à dire me concernant : c’est un concours photo
 
 Les 9 finalistes recevront une grande boite de bonbons (350g) contenant les bonbons de leur choix parmi tous ceux proposés sur [So’Bonbon](http://www.so-bonbon.fr/) : les acidulés, les dragéifiés, les durs, les fantaisies, les sucettes et bien d ‘autres. Il y’en a vraiment pour tous les goûts !
 
-[![](http://www.crokmou.com/wp-content/uploads/2013/06/Capture-d-E2-80-99e-CC-81cran-2013-06-06-a-CC-80-21.37.421.png)](http://www.crokmou.com/wp-content/uploads/2013/06/Capture-d-E2-80-99e-CC-81cran-2013-06-06-a-CC-80-21.37.421.png)[![](http://www.crokmou.com/wp-content/uploads/2013/06/Capture-d-E2-80-99e-CC-81cran-2013-06-06-a-CC-80-21.38.081.png)](http://www.crokmou.com/wp-content/uploads/2013/06/Capture-d-E2-80-99e-CC-81cran-2013-06-06-a-CC-80-21.38.081.png)[![](http://www.crokmou.com/wp-content/uploads/2013/06/Capture-d-E2-80-99e-CC-81cran-2013-06-06-a-CC-80-21.38.421.png)](http://www.crokmou.com/wp-content/uploads/2013/06/Capture-d-E2-80-99e-CC-81cran-2013-06-06-a-CC-80-21.38.421.png)
+![](http://www.crokmou.com/wp-content/uploads/2013/06/Capture-d-E2-80-99e-CC-81cran-2013-06-06-a-CC-80-21.37.421.png)![](http://www.crokmou.com/wp-content/uploads/2013/06/Capture-d-E2-80-99e-CC-81cran-2013-06-06-a-CC-80-21.38.081.png)![](http://www.crokmou.com/wp-content/uploads/2013/06/Capture-d-E2-80-99e-CC-81cran-2013-06-06-a-CC-80-21.38.421.png)
 
 Les 3 gagnants recevront en plus de la grande boite, un grand gâteau de bonbons au choix parmi ceux proposés sur le site (gâteaux allant de 21,90€ à 28,90€)
 
@@ -56,7 +56,7 @@ Alors qu’en pensez vous ? Etes vous prêt à nous révéler votre degré de 
 
 Oh et puis en parlant bonbons, voici une petite anecdote : Connaissez vous les, nommées comme cela il y a quelques années, « couilles » de mammouth ?  Vous savez les boules blanches à tâches de couleurs et quand on lèche il y a un arc en ciel ? Allez un petit effort je suis certaine que vous avez déjà vu ça quelque part :
 
-[![](http://www.crokmou.com/wp-content/uploads/2013/06/P10408841.jpg)](http://www.crokmou.com/wp-content/uploads/2013/06/P10408841.jpg)
+![](http://www.crokmou.com/wp-content/uploads/2013/06/P10408841.jpg)
 
 Quand j’avais 14/15 ans, j’adorais ce genre de trucs. A des moments j’en achetais 2/3 fois par semaine tellement j’aimais ça. Mais j’ai fini par tellement en lécher qu’une fois m’a langue s’est mise à saigner… Je peux vous dire qu’après ça, j’ai dégusté… ma langue m’a brulé pendant 1 semaine et depuis et bien… je n’ai plus jamais acheté ce bonbon =D
 

@@ -20,7 +20,7 @@ slug: truffes-des-iles
 
   Il fait chaud ! Même en Belgique, il fait chaud ! Extraordinaire n’es ce pas ? Ce temps radieux m’a donné envie de cuisiner le fruit de la passion. Elle est bien belle cette envie mais que faire ? Des invités demain, donc si possible plusieurs petites choses donc pourquoi pas des truffes ? Me voilà à la recherche d’une recette de truffes, je fouille donc dans mes petits bouquins et Ôdélices va une nouvelle fois m’aider : De petites truffes au chocolat blanc, fruit de la passion et noix de coco ! Si ca c’est pas bon, je ne comprend pas !
 
-[![](http://3.bp.blogspot.com/-TF09GwTc3xo/TqmclK4kRdI/AAAAAAAABAM/Ic5Cn1u1kMY/s1600/truffes.jpg)](http://3.bp.blogspot.com/-TF09GwTc3xo/TqmclK4kRdI/AAAAAAAABAM/Ic5Cn1u1kMY/s1600/truffes.jpg)
+![](http://3.bp.blogspot.com/-TF09GwTc3xo/TqmclK4kRdI/AAAAAAAABAM/Ic5Cn1u1kMY/s1600/truffes.jpg)
 
 __________
 

@@ -18,7 +18,7 @@ slug: palets-bretons-a-la-fleur-doranger
 
 Aujourd’hui je travaille en flashy ! Je vais vous expliquer l’idée du jour : J’aimerais a chaque article vous faire découvrir un photographe (que ce soit documentaire, noir et blanc, publicitaire, vieux, jeune etc…), je vais essayer de me tenir à ça ! Pourquoi ? Tout simplement pour vous faire découvrir toujours un peu mon univers, mais aussi pour m’aider à retenir et me faire une culture photographique comme il se doit ! Héhé on est tous gagnants n’es ce pas ? Mais avant la recette (trouvé [ici](http://piroulie.canalblog.com/archives/2008/11/10/7840160.html) qui l’a elle même trouvée sur Marmiton) des palets bretons (s’instruire en mangeant c’est mieux !)
 
-[![](http://1.bp.blogspot.com/-MdapO37uCjk/TqmftC0eF-I/AAAAAAAABAk/Z3HcPWJ8aQw/s1600/Palets+bretons.jpg)](http://1.bp.blogspot.com/-MdapO37uCjk/TqmftC0eF-I/AAAAAAAABAk/Z3HcPWJ8aQw/s1600/Palets+bretons.jpg)
+![](http://1.bp.blogspot.com/-MdapO37uCjk/TqmftC0eF-I/AAAAAAAABAk/Z3HcPWJ8aQw/s1600/Palets+bretons.jpg)
 
 __________
 

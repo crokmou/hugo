@@ -44,7 +44,7 @@ Recette hivernale
 
 4- Dégustez seul, en famille, devant un bon film ou tout simplement en rêvassant !
 
-[![](http://www.crokmou.com/wp-content/uploads/2013/01/20130120_chocolat_chaud_espagnol_pop_corn_chocolat_00541.jpg)](http://www.crokmou.com/wp-content/uploads/2013/01/20130120_chocolat_chaud_espagnol_pop_corn_chocolat_00541.jpg)
+![](http://www.crokmou.com/wp-content/uploads/2013/01/20130120_chocolat_chaud_espagnol_pop_corn_chocolat_00541.jpg)
 
 _Mug hibou trouvé chez Monoprix_
 
@@ -52,7 +52,7 @@ _Mug hibou trouvé chez Monoprix_
 
 Vous avez des bisous de mon moumou des neiges ! N’est-il pas beau comme ça ? A braver la tempête et tout hihi
 
-[![](http://www.crokmou.com/wp-content/uploads/2013/01/moumou_des_neiges1.jpg)](http://www.crokmou.com/wp-content/uploads/2013/01/moumou_des_neiges1.jpg)
+![](http://www.crokmou.com/wp-content/uploads/2013/01/moumou_des_neiges1.jpg)
 
 Je vous souhaite une très bonne semaine les gourmands !
 
