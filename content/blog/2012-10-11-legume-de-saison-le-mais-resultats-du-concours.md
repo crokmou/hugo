@@ -21,25 +21,9 @@ Le Maïs nous viens tout droit du Mexique. Suite à la découverte de L’Améri
 
 Il existe bien des variétés de maïs, mais le plus consommé par nous les hommes, est le maïs doux (jaune pâle). Peut être qu’en voyageant un peu et qu’en passant sur les marchés vous aurez l’occasion de croiser d’autres variétés que celui que l’on trouve habituellement dans nos regions :
 
-<table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
+![](http://www.pleinsud.u-psud.fr/wp-content/uploads/2010/07/p.23-fig2-300x200.jpg)
 
-<tbody>
-
-<tr>
-
-<td style="text-align: center;">![](http://www.pleinsud.u-psud.fr/wp-content/uploads/2010/07/p.23-fig2-300x200.jpg)</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: center;">Variétés de maïs [©Plein Sud](http://www.pleinsud.u-psud.fr/2010/07/le-parcours-d%E2%80%99une-belle-plante/)</td>
-
-</tr>
-
-</tbody>
-
-</table>
+Variétés de maïs [©Plein Sud](http://www.pleinsud.u-psud.fr/2010/07/le-parcours-d%E2%80%99une-belle-plante/)
 
 Le maïs est riche en glucide et en fibres, il contient aussi de la vitamine B9 (qui joue un rôle clé dans le renouvellement de toutes les cellules de l’organisme), du magnésium et du phosphore.
 

@@ -24,7 +24,7 @@ Greumeuleuuuuu… Non ce n’est pas un cri de guerre, ou la phrase fétiche d
 
 C’est petit, c’est mignon et c’est bon !
 
-<div style="text-align: center;">__________
+__________
 
 Oh et puis n’ayant pas d’idées à vous soumettre aujourd’hui concernant la présentation d’un photographe, je vous présente le dernier travail effectué en cours de studio : Nous devions choisir une bouteille de parfum, et faire une publicité « de luxe » avec une ambiance et accessoires si on le désirait.
 
@@ -38,4 +38,3 @@ Et voici la photo finale :
 
 Alors, qu’en dites vous ?
 
-</div>

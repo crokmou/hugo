@@ -60,24 +60,8 @@ A bientôt !
 
 _[English recipe](https://lh6.googleusercontent.com/-Te1N21EHJhc/UQkrHRIHEFI/AAAAAAAAGeI/_oVtSQ8VRA8/s842/spanish_hot_chocolate.jpg) :_
 
-<table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
+[![](http://www.crokmou.com/wp-content/uploads/2013/01/spanish_hot_chocolate-300x2121-300x212.jpg)](http://www.crokmou.com/wp-content/uploads/2013/01/spanish_hot_chocolate-300x2121.jpg)
 
-<tbody>
-
-<tr>
-
-<td style="text-align: center;">[![](http://www.crokmou.com/wp-content/uploads/2013/01/spanish_hot_chocolate-300x2121-300x212.jpg)](http://www.crokmou.com/wp-content/uploads/2013/01/spanish_hot_chocolate-300x2121.jpg)</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: center;">[Here](https://lh6.googleusercontent.com/-Te1N21EHJhc/UQkrHRIHEFI/AAAAAAAAGeI/_oVtSQ8VRA8/s842/spanish_hot_chocolate.jpg)</td>
-
-</tr>
-
-</tbody>
-
-</table>
+[Here](https://lh6.googleusercontent.com/-Te1N21EHJhc/UQkrHRIHEFI/AAAAAAAAGeI/_oVtSQ8VRA8/s842/spanish_hot_chocolate.jpg)
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

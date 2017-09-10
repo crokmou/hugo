@@ -33,7 +33,7 @@ Sortez un cul de poule ou un saladier, des cercles de présentation ou un moule 
 Pour 4 moelleux (environ 7cm de diamètre)
 
 **Pour les moelleux :**
-<span style="line-height: 15.59375px;">– 50g de pâte de sésame noir</span>
+– 50g de pâte de sésame noir
 – 100g de yaourt nature
 – 80g de sucre
 – 2 oeufs

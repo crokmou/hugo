@@ -20,31 +20,11 @@ Une trentaine de chefs seront présents ainsi qu’une douzaine d’artistes et 
 
 Chaque jour, vous pourrez découvrir une recette gastronomique et originale inspirée du thème Street food. Choisissez une mise en bouche d’un jeune créateur, sélectionnez ensuite 5 plats étoilés, puis pour finir le tout sur une note sucrée, découvrez ensuite le dessert imaginé par de grands chocolatiers et pâtissiers.
 
-<table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;">
-
-<tbody>
-
-<tr>
-
-<td>[![](http://www.crokmou.com/wp-content/uploads/2013/04/Arabelle-Meirlaen-300x2001-300x200.jpg)](http://www.crokmou.com/wp-content/uploads/2013/04/Arabelle-Meirlaen-300x2001.jpg)</td>
-
-</tr>
-
-<tr>
-
-<td style="font-size: 13px;">
+[![](http://www.crokmou.com/wp-content/uploads/2013/04/Arabelle-Meirlaen-300x2001-300x200.jpg)](http://www.crokmou.com/wp-content/uploads/2013/04/Arabelle-Meirlaen-300x2001.jpg)
 
 ### Asperge de Régalys pebs de chlorophylle d’herbes sauvages par ARABELLE MEIRLAEN
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
- <u style="text-align: justify;">Pour celles et ceux qui aimeraient en apprendre plus sur les chefs présents cette année, voici la liste (et parce que je suis trop gentille je vous ai même ajouté les liens vers les sites des restaurants): </u>
+ Pour celles et ceux qui aimeraient en apprendre plus sur les chefs présents cette année, voici la liste (et parce que je suis trop gentille je vous ai même ajouté les liens vers les sites des restaurants): 
 
 – Les mises en bouches réalisées par la nouvelle génération :
 
@@ -58,29 +38,9 @@ Giovanni  Bruno ([Senza Nome](http://www.senzanome.be/) *), Julien Burlat ([D
 
 Pierre Marcolini ([MaisonPierre Marcolini](http://www.marcolini.be/)), Joost Arijs ([Joost Arijs](http://www.joostarijs.be/)), Marc Ducobu ([Ducobu](http://www.ducobu.be/)) et Jean-Philippe Darcis ([Darcis](http://darcis.com/)).
 
-<table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;">
-
-<tbody>
-
-<tr>
-
-<td>[![](http://www.crokmou.com/wp-content/uploads/2013/04/Marc-Ducobu-200x3001-200x300.jpg)](http://www.crokmou.com/wp-content/uploads/2013/04/Marc-Ducobu-200x3001.jpg)</td>
-
-</tr>
-
-<tr>
-
-<td style="font-size: 13px;">
+[![](http://www.crokmou.com/wp-content/uploads/2013/04/Marc-Ducobu-200x3001-200x300.jpg)](http://www.crokmou.com/wp-content/uploads/2013/04/Marc-Ducobu-200x3001.jpg)
 
 ### Crème de fromage blanc sur sa mousse de mangue et passion, vaporisé au cointreau cuisine. Cœur de palmier à l’ancienne légèrement caramélisé. Guimauve vanille, duo de meringue au citron et citron vert, coulis de mangue, bouclette au chocolat blanc. Par Marc Ducobu
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
 
 Mais l’aventure ne s’arrête pas là, découvrez cette année des ateliers d’exceptions : Plantes sauvages par A Travers Bois, Serre Urbaine par Benoît Blairvacq, dégustation d’insectes, mais aussi de bierre, de vin … Il y’en aura pour tous les goûts et croyez moi vous n’allez pas voir le temps passer !
 
@@ -88,7 +48,7 @@ Il y aura aussi le retour de l’[Omnivore Tour](http://www.omnivore.com/) et s
 
 Amusez vous et découvrez tout cela dans ce lieu hors-norme qu’est la Gare Maritime de Bruxelles, celle-ci sera entièrement décorée par plusieurs artistes qui s’occuperont de l’espace de chacun des chefs !
 
-<div style="clear: both; text-align: center;">[![](http://www.crokmou.com/wp-content/uploads/2013/04/JJ4_3765-300x2001-300x200.jpg)](http://www.crokmou.com/wp-content/uploads/2013/04/JJ4_3765-300x2001.jpg)
+[![](http://www.crokmou.com/wp-content/uploads/2013/04/JJ4_3765-300x2001-300x200.jpg)](http://www.crokmou.com/wp-content/uploads/2013/04/JJ4_3765-300x2001.jpg)
 
 Alors tentés par l’aventure [Culinaria](http://www.culinariasquare.com/) ? Pour ma part j’ai la chance d’y avoir été invitée pour l’ouverture le Mercredi 29 Mai, peut être aurais-je la chance de vous croiser 😉
 
@@ -98,4 +58,3 @@ A bientôt les gourmands ! Et n’oubliez pas de reserver vos places 😉
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 
-</div>

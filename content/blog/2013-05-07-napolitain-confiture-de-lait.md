@@ -55,25 +55,9 @@ Pour 4 personnes
 
 _[Recipe in English :](https://lh6.googleusercontent.com/-IylE9pdElY8/UYkhPztNctI/AAAAAAAAHKE/3Ck3Z-_ZvqU/s912/neapolitan_cake_with_dulce_de_leche.jpg)_
 
-<table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
+[![](http://www.crokmou.com/wp-content/uploads/2013/05/neapolitan_cake_with_dulce_de_leche-212x3001-212x300.jpg)](http://www.crokmou.com/wp-content/uploads/2013/05/neapolitan_cake_with_dulce_de_leche-212x3001.jpg)
 
-<tbody>
-
-<tr>
-
-<td style="text-align: center;">[![](http://www.crokmou.com/wp-content/uploads/2013/05/neapolitan_cake_with_dulce_de_leche-212x3001-212x300.jpg)](http://www.crokmou.com/wp-content/uploads/2013/05/neapolitan_cake_with_dulce_de_leche-212x3001.jpg)</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: center;">[Here](https://lh6.googleusercontent.com/-IylE9pdElY8/UYkhPztNctI/AAAAAAAAHKE/3Ck3Z-_ZvqU/s912/neapolitan_cake_with_dulce_de_leche.jpg)</td>
-
-</tr>
-
-</tbody>
-
-</table>
+[Here](https://lh6.googleusercontent.com/-IylE9pdElY8/UYkhPztNctI/AAAAAAAAHKE/3Ck3Z-_ZvqU/s912/neapolitan_cake_with_dulce_de_leche.jpg)
 
 Et vous quels étaient vos biscuits/gâteaux favoris lorsque vous étiez petits ? _And you, what was your favourite biscuits / cakes when you were small?_ _  __  _
 

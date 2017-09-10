@@ -46,25 +46,9 @@ Astuce : Variez les plaisirs en ajoutant tout ce que vous souhaitez dans du beur
 _[Recipe in English ](https://lh5.googleusercontent.com/-HPxChO8DNP8/Uc84PqYbXaI/AAAAAAAAHoU/-2hI2lyodsc/s841/bear_garlic_butter.png)_
  __
 
-<table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
+[![](http://www.crokmou.com/wp-content/uploads/2013/06/bear_garlic_butter-300x2121-300x212.png)](http://www.crokmou.com/wp-content/uploads/2013/06/bear_garlic_butter-300x2121.png)
 
-<tbody>
-
-<tr>
-
-<td style="text-align: center;">[![](http://www.crokmou.com/wp-content/uploads/2013/06/bear_garlic_butter-300x2121-300x212.png)](http://www.crokmou.com/wp-content/uploads/2013/06/bear_garlic_butter-300x2121.png)</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: center;">[Here](https://lh5.googleusercontent.com/-HPxChO8DNP8/Uc84PqYbXaI/AAAAAAAAHoU/-2hI2lyodsc/s841/bear_garlic_butter.png)</td>
-
-</tr>
-
-</tbody>
-
-</table>
+[Here](https://lh5.googleusercontent.com/-HPxChO8DNP8/Uc84PqYbXaI/AAAAAAAAHoU/-2hI2lyodsc/s841/bear_garlic_butter.png)
 
 _ _
 

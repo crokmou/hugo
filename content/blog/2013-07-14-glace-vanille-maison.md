@@ -43,26 +43,6 @@ Pour 6/8 personnes
 
 La glace vanille reste une de mes préférées avec la glace au yaourt et la straciatella ! Et vous, quels sont vos parfums favoris ?
 
-<table style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto; text-align: center; height: 51px;" width="180" cellspacing="0" cellpadding="0" align="center">
-
-<tbody>
-
-<tr>
-
-<td style="text-align: center;"></td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: center;"></td>
-
-</tr>
-
-</tbody>
-
-</table>
-
 Je vous souhaite à tous de bonnes vacances (ou bon courage au taff) A bientôt les gourmands !
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

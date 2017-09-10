@@ -48,24 +48,8 @@ A tous je vous souhaite de passer une bonne semaine, pour ma part ce soir c’es
 
 _[English recipe](https://lh6.googleusercontent.com/-dXqjAPGHMNU/UQ_57DwSeKI/AAAAAAAAGho/YOvwzV9gejQ/s842/soup_of_zucchinis_with_the_laughing_cow.jpg)_ :
 
-<table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
+[![](http://www.crokmou.com/wp-content/uploads/2013/02/soup_of_zucchinis_with_the_laughing_cow-300x2121-300x212.jpg)](http://www.crokmou.com/wp-content/uploads/2013/02/soup_of_zucchinis_with_the_laughing_cow-300x2121.jpg)
 
-<tbody>
-
-<tr>
-
-<td style="text-align: center;">[![](http://www.crokmou.com/wp-content/uploads/2013/02/soup_of_zucchinis_with_the_laughing_cow-300x2121-300x212.jpg)](http://www.crokmou.com/wp-content/uploads/2013/02/soup_of_zucchinis_with_the_laughing_cow-300x2121.jpg)</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: center;">[Here](https://lh6.googleusercontent.com/-dXqjAPGHMNU/UQ_57DwSeKI/AAAAAAAAGho/YOvwzV9gejQ/s842/soup_of_zucchinis_with_the_laughing_cow.jpg)</td>
-
-</tr>
-
-</tbody>
-
-</table>
+[Here](https://lh6.googleusercontent.com/-dXqjAPGHMNU/UQ_57DwSeKI/AAAAAAAAGho/YOvwzV9gejQ/s842/soup_of_zucchinis_with_the_laughing_cow.jpg)
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

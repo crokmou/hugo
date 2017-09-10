@@ -60,25 +60,9 @@ Ceci n’est bien entendu que suggestif, vous pouvez remplacer la ciboulette par
 
 _[Recipe in English :](https://lh4.googleusercontent.com/-Qrj3EPIMDyw/UYD6eEeHHzI/AAAAAAAAHFY/eJoYdWItlKg/s842/spring_tartine_ricotta_chive_radish_cucumber.jpg)_
 
-<table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
+[![](http://www.crokmou.com/wp-content/uploads/2013/05/spring_tartine_ricotta_chive_radish_cucumber-300x2121-300x212.jpg)](http://www.crokmou.com/wp-content/uploads/2013/05/spring_tartine_ricotta_chive_radish_cucumber-300x2121.jpg)
 
-<tbody>
-
-<tr>
-
-<td style="text-align: center;">[![](http://www.crokmou.com/wp-content/uploads/2013/05/spring_tartine_ricotta_chive_radish_cucumber-300x2121-300x212.jpg)](http://www.crokmou.com/wp-content/uploads/2013/05/spring_tartine_ricotta_chive_radish_cucumber-300x2121.jpg)</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: center;">[Here](https://lh4.googleusercontent.com/-Qrj3EPIMDyw/UYD6eEeHHzI/AAAAAAAAHFY/eJoYdWItlKg/s842/spring_tartine_ricotta_chive_radish_cucumber.jpg%60)</td>
-
-</tr>
-
-</tbody>
-
-</table>
+[Here](https://lh4.googleusercontent.com/-Qrj3EPIMDyw/UYD6eEeHHzI/AAAAAAAAHFY/eJoYdWItlKg/s842/spring_tartine_ricotta_chive_radish_cucumber.jpg%60)
 
 Je m’excuse aussi pour le peu de choses sur le blog en ce moment, je suis en plein déménagement, les cartons tout ça, donc pas évident de cuisiner et de prendre des photos. En revanche comme vous l’avez certainement constaté, il m’est toujours possible de modifier le design du blog quand j’ai du temps hihi ! Profitez bien du retour du soleil, et bon 1er Mai à tous !
 

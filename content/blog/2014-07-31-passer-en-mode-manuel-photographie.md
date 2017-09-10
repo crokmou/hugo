@@ -11,14 +11,14 @@ disqusId: 3587684423
 slug: passer-en-mode-manuel-photographie
 ---
 
-Ah le fameux « passer au mode manuel », celui dont on parle tous mais que peu osent utiliser (pas biiiien !). Vous verrez à force d’entrainement et _après avoir lu le manuel de votre appareil of course_, la pratique vous viendra très vite. Dans le fond ce n’est pas si compliqué que ça, <del>non non appuyer sur tous les boutons ne compte pas</del>, il faut simplement comprendre comment votre photographie s’inscrit dans votre appareil photo.   _Les explications que je vais vous donner ci-dessous font références aux personnes disposants d’un reflex et ayant connaissance de leurs réglages (auquel cas je vous invite à relire encore un peu votre manuel d’utilisation)_ Si vous souhaitez aller directement à la partie concernant :
+Ah le fameux « passer au mode manuel », celui dont on parle tous mais que peu osent utiliser (pas biiiien !). Vous verrez à force d’entrainement et _après avoir lu le manuel de votre appareil of course_, la pratique vous viendra très vite. Dans le fond ce n’est pas si compliqué que ça, non non appuyer sur tous les boutons ne compte pas, il faut simplement comprendre comment votre photographie s’inscrit dans votre appareil photo.   _Les explications que je vais vous donner ci-dessous font références aux personnes disposants d’un reflex et ayant connaissance de leurs réglages (auquel cas je vous invite à relire encore un peu votre manuel d’utilisation)_ Si vous souhaitez aller directement à la partie concernant :
 * [L’exposition](#exposition)
 * [Le diaphragme](#diaphragme)
 * [La vitesse d’obturation](#vitesse)
 * [Les iso](#iso)
 * [Pour résumer](#resumer)
 
-##### <a name="exposition"></a>L’EXPOSITION Pour qu’une photographie soit <del>politiquement</del> correcte, il faut que celle ci soit **correctement exposée**, autrement dit qu’elle ne soit ni trop claire, ni trop foncée _(ou alors que cela soit voulu et maîtrisé)_. Afin de vérifier l’exposition, il vous suffit d’appuyer à mi-course sur le bouton de déclenchement de l’appareil, celui-ci va ensuite effectuer une **mesure d’exposition**, celle-ci apparaîtra sous cette forme (dans votre viseur ou dans le petit écran LCD qui affiche les différents réglages) :
+##### <a name="exposition"></a>L’EXPOSITION Pour qu’une photographie soit politiquement correcte, il faut que celle ci soit **correctement exposée**, autrement dit qu’elle ne soit ni trop claire, ni trop foncée _(ou alors que cela soit voulu et maîtrisé)_. Afin de vérifier l’exposition, il vous suffit d’appuyer à mi-course sur le bouton de déclenchement de l’appareil, celui-ci va ensuite effectuer une **mesure d’exposition**, celle-ci apparaîtra sous cette forme (dans votre viseur ou dans le petit écran LCD qui affiche les différents réglages) :
 
 ![passer en mode manuel](http://www.crokmou.com/wp-content/uploads/2014/07/Capture-d-----cran-2014-07-27----16.38.07.png) _©Canon_
 

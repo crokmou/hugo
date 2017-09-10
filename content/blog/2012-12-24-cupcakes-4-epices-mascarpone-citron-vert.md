@@ -39,16 +39,12 @@ En attendant je vous offre une recette tout aussi gourmande et riche en crème :
 
 # **Recette des cupcakes 4 épices**
 
-<div style="text-align: justify;">
-
 1.  Préchauffez votre four à 180°C
 2.  Dans un saladier, fouettez le beurre mou avec le sucre. Une fois le tout bien mélangé, ajoutez l’oeuf et fouettez énergiquement.
 3.  Dans un autre saladier, mélangez la farine, la levure, le sel et les 4 épices.
 4.  Incorporez ensuite 1/3 de ce mélange à la preparation oeuf/sucre/beurre. Ajoutez ensuite un peu de lait, mélangez. Répétez cette opération jusqu’à ce qu’il n’y ai plus rien. Votre préparation finale doit être homogène.
 5.  Versez la pâte au 2/3 dans des caissettes, enfournez 20min. Une fois cuits, sortez les du four et laissez les refroidir avant de décorer.
 6.  Pour le topping : A l’aide votre fouet (électrique c’est mieux), fouettez la mascarpone, le sucre glace (préalablement tamisé) et le jus de citron vert. Mettez votre topping dans une poche à douille et décorez vos cupcakes.
-
-</div>
 
 J’aime beaucoup ces petites recettes de cupcakes pour Noël, c’est gourmand, beau et on peut y ajouter tout ce que l’on veut pour plus de magie (paillettes, boules argentées…)!
 

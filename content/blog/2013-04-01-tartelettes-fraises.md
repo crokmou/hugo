@@ -48,25 +48,9 @@ _[Recipe in english](https://lh5.googleusercontent.com/-mH1DyMqifx0/UVnfKXJy6tI/
 
 _ _
 
-<table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
+[![](http://www.crokmou.com/wp-content/uploads/2013/04/strawberry_tartlet-300x2121-300x212.jpg)](http://www.crokmou.com/wp-content/uploads/2013/04/strawberry_tartlet-300x2121.jpg)
 
-<tbody>
-
-<tr>
-
-<td style="text-align: center;">[![](http://www.crokmou.com/wp-content/uploads/2013/04/strawberry_tartlet-300x2121-300x212.jpg)](http://www.crokmou.com/wp-content/uploads/2013/04/strawberry_tartlet-300x2121.jpg)</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: center;">[Here](https://lh5.googleusercontent.com/-mH1DyMqifx0/UVnfKXJy6tI/AAAAAAAAGzc/HnT1Y39Aprs/s842/strawberry_tartlet.jpg)</td>
-
-</tr>
-
-</tbody>
-
-</table>
+[Here](https://lh5.googleusercontent.com/-mH1DyMqifx0/UVnfKXJy6tI/AAAAAAAAGzc/HnT1Y39Aprs/s842/strawberry_tartlet.jpg)
 
 _ _
 

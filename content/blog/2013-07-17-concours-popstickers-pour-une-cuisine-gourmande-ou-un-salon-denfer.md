@@ -33,7 +33,7 @@ Je sais que cela ne correspond pas tout à fait à ce que je peux vous faire gag
 – Aimer la page [Facebook Crokmou](https://www.facebook.com/pages/CroKMou/148093255259077) ou vous inscrire à [ma newsletter](http://www.crokmou.com/p/newsletter_18.html)
   +1 chance :
 
-– Aimer la page [<span style="list-style-image: initial; list-style-position: initial;">Facebook Popstickers](https://www.facebook.com/pages/Popstickers/125529234290742?ref=hl) </span>
+– Aimer la page [Facebook Popstickers](https://www.facebook.com/pages/Popstickers/125529234290742?ref=hl) 
 
 – Relayer le concours (sur facebook, twitter, blog etc)
 

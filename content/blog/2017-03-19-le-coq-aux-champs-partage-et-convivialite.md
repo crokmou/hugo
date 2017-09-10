@@ -13,7 +13,7 @@ slug: le-coq-aux-champs-partage-et-convivialite
 4557 Soheit-Tinlot
 Tél. +32 (0)85 51 20 14 **[Site Internet](http://lecoqauxchamps.be/) / [Facebook ](https://www.facebook.com/Le-coq-aux-champs-110673795614123)**
 
-**Le coq aux champs***, un restaurant étoilé où se mêle partage, convivialité et saveurs. Situé dans la province de Liège, non loin de Huy, la bâtisse semble en effet perdue au milieu des champs <del>– et des montagnes –</del>, j’avoue que nous avons mi un peu de temps à la trouver…
+**Le coq aux champs***, un restaurant étoilé où se mêle partage, convivialité et saveurs. Situé dans la province de Liège, non loin de Huy, la bâtisse semble en effet perdue au milieu des champs – et des montagnes –, j’avoue que nous avons mi un peu de temps à la trouver…
 
 **Christophe Pauly et sa femme Catherine**, ont repris l’établissement (déjà anciennement étoilé) en 2003\. C’est un an et demi après la reprise qu’il ont pu regagné une étoile. La sobriété est au coeur du travail du chef. Pour lui _le plus important c’est le goût, les bonnes matières premières, cuisiner les produits de manière simple mais gourmande_. En plus de servir une bonne cuisine, ce couple est également très sympathique et accueillant. Ils se font un plaisir de servir leurs clients avec le sourire et une authenticité très appréciée.
 

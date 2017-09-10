@@ -70,25 +70,9 @@ _[Recipe in english](https://lh6.googleusercontent.com/-61DELBtsd-s/UUWO6sSyCcI/
 
 _ _
 
-<table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
+[![](http://www.crokmou.com/wp-content/uploads/2013/03/cheesecakes_green_tea_apple_biscuits-300x2121-300x212.jpg)](http://www.crokmou.com/wp-content/uploads/2013/03/cheesecakes_green_tea_apple_biscuits-300x2121.jpg)
 
-<tbody>
-
-<tr>
-
-<td style="text-align: center;">[![](http://www.crokmou.com/wp-content/uploads/2013/03/cheesecakes_green_tea_apple_biscuits-300x2121-300x212.jpg)](http://www.crokmou.com/wp-content/uploads/2013/03/cheesecakes_green_tea_apple_biscuits-300x2121.jpg)</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: center;">[Here](https://lh6.googleusercontent.com/-61DELBtsd-s/UUWO6sSyCcI/AAAAAAAAGt4/5UHhlPEPUtU/s842/cheesecakes_green_tea_apple_biscuits.jpg)</td>
-
-</tr>
-
-</tbody>
-
-</table>
+[Here](https://lh6.googleusercontent.com/-61DELBtsd-s/UUWO6sSyCcI/AAAAAAAAGt4/5UHhlPEPUtU/s842/cheesecakes_green_tea_apple_biscuits.jpg)
 
 _ _
 

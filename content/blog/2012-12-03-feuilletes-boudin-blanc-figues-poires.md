@@ -39,7 +39,7 @@ Pour environ 13 feuilletés de 5cm de diamètre
 – thym
 – sel & poivre
 
-<div style="text-align: justify;">1- Commencez par éplucher et couper votre poire en petits dès. Faites chauffer une poêle avec un peu de beurre et ajoutez vos dès de poire et quelques petites feuilles de thym. Laissez cuire quelques minutes tout en remuant assez souvent, ajoutez un peu de cannelle.
+1- Commencez par éplucher et couper votre poire en petits dès. Faites chauffer une poêle avec un peu de beurre et ajoutez vos dès de poire et quelques petites feuilles de thym. Laissez cuire quelques minutes tout en remuant assez souvent, ajoutez un peu de cannelle.
 
 2- Préchauffez votre four à 180°C
 
@@ -54,8 +54,6 @@ Pour environ 13 feuilletés de 5cm de diamètre
 7- Enfournez et laissez cuire entre 10 et 15 minutes.
 
 8- A servir chaud ou tiède à vos convives ! Bon apero !
-
-</div>
 
 Et vous, quels sont vos amuses bouches préférés ? A titre personnel j’aime aussi beaucoup les bouts de saucisses dans de la pâte feuilletée, c’est simple mais tellement bon !
 

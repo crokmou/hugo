@@ -47,7 +47,7 @@ Pour environ 3/4 personnes
 – huile
 – sel & poivre
 
-<div style="text-align: justify;">1- Faites chauffer une casserole d’eau salée. Lorsque l’eau boue, ajoutez les udon et les patates douces (préalablement coupées en cubes), laissez cuire 10 minutes puis égouttez.
+1- Faites chauffer une casserole d’eau salée. Lorsque l’eau boue, ajoutez les udon et les patates douces (préalablement coupées en cubes), laissez cuire 10 minutes puis égouttez.
 
 2- Coupez votre poulet en morceaux (pas trop petits non plus). Dans une poêle faites fondre un peu de beurre et d’huile. Lorsque la poêle est bien chaude, ajoutez vos morceaux de poulet avec 1 cuillère à café de curry et laissez jusqu’à ce que le poulet soit presque cuit. Retirez le poulet.
 
@@ -56,8 +56,6 @@ Pour environ 3/4 personnes
 4- Rajoutez ensuite à vos germes, les udon, les patates douces, le poulet et la crème fraiche. Mélangez le tout et ajoutez les épices.
 
 5- Laissez votre plat réchauffer quelques instants, salez, poivrez et servez !
-
-</div>
 
 Bon appétit ! **Et parce que je suis une grande curieuse, quelles sont vos recettes rapides de pates à la maison ?** Pour petit rappel : Un concours est organisé sur le blog en partenariat avec RuduCommerce afin de vous faire gagner un livre ainsi qu’un ustensile de cuisine de votre choix d’une valeur maximum de 50€, il ne vous reste que 4 jours pour participer ! [Lien vers le concours](http://www.crokmou.com/2012/12/concours-noel-rue-du-commerce.html)
 

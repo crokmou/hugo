@@ -53,9 +53,9 @@ _Synopsis : Au cours d’un déplacement professionnel, Doug Riley rencontre Ma
 
 _ _
 
-<span style="line-height: 18px;">Ayant l’air pourtant bien ‘bateau’ comme histoire, je me suis demandée ce que le festival de Deauville avait bien pût trouvé à ce film : Histoire bientôt mais bien ficelée, une histoire qui prend aux tripes, une histoire à laquelle on ne s’attend pas !</span>
+Ayant l’air pourtant bien ‘bateau’ comme histoire, je me suis demandée ce que le festival de Deauville avait bien pût trouvé à ce film : Histoire bientôt mais bien ficelée, une histoire qui prend aux tripes, une histoire à laquelle on ne s’attend pas !
 
-<span style="line-height: 18px;"> </span>
+ 
 
 N’hésitez donc pas si vous ne savez pas quoi visionner, je vous conseille vivement ce film, je vous laisse aussi le lien de la [Bande annonce](http://www.premiere.fr/Bandes-annonces/Video/Welcome-To-The-Rileys-VOST).
 

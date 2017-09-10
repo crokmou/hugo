@@ -26,7 +26,7 @@ Première découverte pour moi : [La biscuiterie Déstrée](http://www.biscuit
 
 _ » Destrée Stephen, pâtissier de profession, s’est lancé en 2008 comme biscuitier. Son but est d’amener le biscuit belge au plus haut niveau. __Avec des ingrédients de qualité et des recettes issues de grands chefs mondialement reconnus, adaptées par Stephen, l’envie est de faire rêver…_
 
-_Après avoir fait sont apprentissage et patronat dans des grandes Maisons belges, Stephen se perfectionne en suivant des stages auprès des meilleurs Ouvriers de France afin d’atteindre l’excellence et de s’approprier les meilleures techniques de fabrication. Ne restait qu’à laisser libre cours à cette passion qu’il voue à l’univers du goût : <cite>« Je veux faire voyager les gens, les faire rêver avec des biscuits issus de l’amour du métier… »</cite>._
+_Après avoir fait sont apprentissage et patronat dans des grandes Maisons belges, Stephen se perfectionne en suivant des stages auprès des meilleurs Ouvriers de France afin d’atteindre l’excellence et de s’approprier les meilleures techniques de fabrication. Ne restait qu’à laisser libre cours à cette passion qu’il voue à l’univers du goût : « Je veux faire voyager les gens, les faire rêver avec des biscuits issus de l’amour du métier… »._
 
 _Chaque biscuit est différent : qu’ils soient croquants ou fondants, aux amandes ou aux 2 chocolats, il s’en trouvera au moins un pour satisfaire les plus fins gourmets. La biscuiterie Destrée confectionne également des biscuits « sur mesure »: des biscuits à base de thé pour de grandes maisons de thé, des biscuits salés, toujours avec des ingrédients de première qualité._
 

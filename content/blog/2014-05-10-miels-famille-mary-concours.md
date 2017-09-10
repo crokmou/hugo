@@ -18,31 +18,15 @@ Le miel c’est non seulement délicieux mais en plus très bon pour la santé (
 
 **Apiculteurs depuis 3 générations**, la tradition apicole et le savoir faire Français se transmet de père en fils. Le miel n’est pas le seul actif de la ruche récolté par ces apiculteurs, la [Famille Mary](http://www.famillemary.fr/) traite aussi la gelée royale, le propolis et le pollen afin d’offrir à ses consommateurs une large gamme de produits aux bienfaits naturels.
 
-<table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;">
+![](http://www.crokmou.com/wp-content/uploads/2014/05/image0011.jpg)
 
-<tbody>
-
-<tr>
-
-<td style="text-align: center;">![](http://www.crokmou.com/wp-content/uploads/2014/05/image0011.jpg)</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: center;">Boutique de Nantes</td>
-
-</tr>
-
-</tbody>
-
-</table>
+Boutique de Nantes
 
 ![](http://www.crokmou.com/wp-content/uploads/2014/05/miel360assortiment3__046107900_1146_100820121.jpg)
 
 Vous trouverez dans leurs magnifiques (c’est le cas de le dire quand on voit l’intérieur de certains établissements, on se croirait dans une ruche) boutiques, des miels Français mais aussi d’autres pays afin de proposer aux gourmands comme nous d’autres saveurs comme le miel d’Oranger, d’Eucalyptus ou encore de Citronnier… (et croyez moi pendant que j’écris cet article mon ventre crie famine)
 
-J’ai reçu il y a quelques jours un **assortiment de miels de France** : de **sapin du Jura, de lavande et d’acacia**. Je n’ai pas pu attendre d’être chez moi devant ma recette pour goûter ces produits, c’est un pur délice, on sent bien le goût différents des miels, c’est onctueux, crémeux <strike>j’en ai encore l’eau à la bouche et je vais d’ailleurs aller m’en faire une tartine nom nom</strike>.
+J’ai reçu il y a quelques jours un **assortiment de miels de France** : de **sapin du Jura, de lavande et d’acacia**. Je n’ai pas pu attendre d’être chez moi devant ma recette pour goûter ces produits, c’est un pur délice, on sent bien le goût différents des miels, c’est onctueux, crémeux j’en ai encore l’eau à la bouche et je vais d’ailleurs aller m’en faire une tartine nom nom.
 
 La prochaine fois j’aimerai avoir l’occasion de **goûter le miel d’oranger** ainsi que celui de **mandarinier et de pommier**, des saveurs qui, je n’en doutent pas, doivent être à tomber !
 
@@ -83,4 +67,3 @@ Pour le ou la gagnante, un assortiment de miels « Grands Crus Français » d�
 
  ****  ****  **** **FIN DU CONCOURS LE DIMANCHE 22 MAI 2014**
 
-</div>

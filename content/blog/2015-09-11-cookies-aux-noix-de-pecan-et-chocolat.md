@@ -32,7 +32,7 @@ disqusId: 4119303249
 slug: cookies-aux-noix-de-pecan-et-chocolat
 ---
 
-Je sais pas vous, mais les cookies et moi c’est une grande histoire d’amour, et les cookies aux noix de pécan et chocolat n’en parlons pas… Je n’en mange pourtant pas beaucoup mais un seul petit arrive à me faire perdre la raison. Ce qui est chouette avec les cookies c’est qu’il y a milles et une façon de les réaliser, de changer la texture, les goûts la taille… Moi je passe mon temps à tester différentes recettes (je trouve ça nettement plus rigolo que les gâteaux aux préparations qui durent des heures) et celle-ci est je dois dire une de mes préférée ! On est d’accord c’est <del>un peu</del> sucré, mais vous verrez avec l’amertume du chocolat et la douceur de la noix de pécan, c’est délicieux !  
+Je sais pas vous, mais les cookies et moi c’est une grande histoire d’amour, et les cookies aux noix de pécan et chocolat n’en parlons pas… Je n’en mange pourtant pas beaucoup mais un seul petit arrive à me faire perdre la raison. Ce qui est chouette avec les cookies c’est qu’il y a milles et une façon de les réaliser, de changer la texture, les goûts la taille… Moi je passe mon temps à tester différentes recettes (je trouve ça nettement plus rigolo que les gâteaux aux préparations qui durent des heures) et celle-ci est je dois dire une de mes préférée ! On est d’accord c’est un peu sucré, mais vous verrez avec l’amertume du chocolat et la douceur de la noix de pécan, c’est délicieux !  
 
 ## **Recette des cookies aux noix de pécan et chocolat**
 

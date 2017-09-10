@@ -28,7 +28,7 @@ Avec ceci j’ai acheté des gaufres pur beurre (parce qu’avec des gaufres li�
 
 Vous n’aurez donc besoin en théorie que d’un four ou d’un mini-four (Delonghi, Kenwood…) ET si vous désirez faire vos gaufres pur beurre maison ([Recette sur les Foodies](http://www.lesfoodies.com/melayers/recette/gaufres-au-beurre)), vous aurez donc besoin d’un gaufrier.
 
-<div>Pour 2 personnes
+Pour 2 personnes
 
 -4 gaufres pur beurre
 -50g de jambon Ibérique
@@ -40,8 +40,6 @@ Vous n’aurez donc besoin en théorie que d’un four ou d’un mini-four (
 3- Ajoutez par dessus un bon morceaux de jambon Ibérique puis une demi cuillère à café de cassonade
 4- Enfournez environ 10min
 5- Sortez du four et dégustez chaud !
-
-</div>
 
 **Accompagnez le tout d’une petite salade ou faites ces petites gaufres en apéritif ! (coupées en 4)**
 

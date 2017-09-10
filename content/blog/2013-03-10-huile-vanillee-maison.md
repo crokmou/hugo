@@ -50,25 +50,9 @@ _[English recipe](https://lh3.googleusercontent.com/-KujXPb7Hg_Y/UTxNZbYtL0I/AAA
 
 _ _
 
-<table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
+[![](http://www.crokmou.com/wp-content/uploads/2013/03/vanilla_oil-300x2121-300x212.jpg)](http://www.crokmou.com/wp-content/uploads/2013/03/vanilla_oil-300x2121.jpg)
 
-<tbody>
-
-<tr>
-
-<td style="text-align: center;">[![](http://www.crokmou.com/wp-content/uploads/2013/03/vanilla_oil-300x2121-300x212.jpg)](http://www.crokmou.com/wp-content/uploads/2013/03/vanilla_oil-300x2121.jpg)</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: center;">[Here](https://lh3.googleusercontent.com/-KujXPb7Hg_Y/UTxNZbYtL0I/AAAAAAAAGro/HKIPWrPHIvk/s842/vanilla_oil.jpg)</td>
-
-</tr>
-
-</tbody>
-
-</table>
+[Here](https://lh3.googleusercontent.com/-KujXPb7Hg_Y/UTxNZbYtL0I/AAAAAAAAGro/HKIPWrPHIvk/s842/vanilla_oil.jpg)
 
 Et vous, vous aimez les huiles aromatisées ? Que cuisinez vous en général avec celles-ci ?
 

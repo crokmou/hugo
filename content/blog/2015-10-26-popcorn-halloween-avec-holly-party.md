@@ -26,7 +26,7 @@ disqusId: 4260127904
 slug: popcorn-halloween-avec-holly-party
 ---
 
-Halloween c’est pour bientôt, et comme chaque année <del>_même si je ne le fête pas forcément_</del> cet événement me rend particulièrement heureuse ! Les couleurs chatoyantes, les déguisements, les décorations, les grosses citrouilles et par dessus tout cette chanson : « This is halloween, this is Halloween, Halloween! Halloween! Halloween! Halloween! In this town we call home Everyone hail to the pumpkin song »
+Halloween c’est pour bientôt, et comme chaque année _même si je ne le fête pas forcément_ cet événement me rend particulièrement heureuse ! Les couleurs chatoyantes, les déguisements, les décorations, les grosses citrouilles et par dessus tout cette chanson : « This is halloween, this is Halloween, Halloween! Halloween! Halloween! Halloween! In this town we call home Everyone hail to the pumpkin song »
 
 Mon mantra du mois d’octobre, une refrain que je chante, que je fredonne TOUT le temps ! Autrement dit ne clique surtout pas sur play si tu ne veux pas être infecté ! Surtout qu’après rien ne t’empêche de regarder « The Nightmare before Christmas » avec un bon paquet de popcorn les fesses collées dans ton canapé =)
 

@@ -17,25 +17,7 @@ slug: confiture-de-cerises
 
 [![](http://4.bp.blogspot.com/-fSsPhwXLNp4/UCbjj1ot47I/AAAAAAAADDE/i1pr3OUPL3s/s320/20120805_confiture_cerise_bann.jpg)](http://www.crokmou.com/2012/08/confiture-cerise.html)
 
-<table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
-
-<tbody>
-
-<tr>
-
-<td style="text-align: center;"></td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: center;">5D Mark II + 100mm Macro L pour f:3 – 1/60s et IS0 1250</td>
-
-</tr>
-
-</tbody>
-
-</table>
+5D Mark II + 100mm Macro L pour f:3 – 1/60s et IS0 1250
 
 Au départ il n’était pas question de recette mais simplement du test de mes nouveaux bébés (par « bébés » j’entends mon nouvel objectif ainsi que mon nouvel appareil photo : Canon 5D Mark II + Objectif Macro Canon 100mm L. Mais comme je reviens de chez mon papa et qu’on m’a gentiment donné de **la confiture**, je me suis donc dit que photographier cette jolie couleur cerise pouvait être une bonne idée !
 

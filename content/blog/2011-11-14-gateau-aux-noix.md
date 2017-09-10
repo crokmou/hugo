@@ -41,6 +41,5 @@ Ce n’est plus un «**breakfast**» et pas tout à fait un «**lunch**», c’e
 
 Un **livre **qui conjugue **plaisirs culinaires** et **bienfaits pour notre santé** : concoctez bagels au petit **épeautre **et **graines de lin**, **gelée de cerises** au **miel d’acacia** et à la menthe,**pâte à tartiner caroubes et noisettes**, **clémentines **poêlées au **caramel de gingembre**… accompagnés d‘un thé noir aux épices ou d’un citronnage au sirop de thym… **sain **et **savoureux** !
 
-<div style="clear: both; text-align: center;">![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)
+![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)
 
-</div>

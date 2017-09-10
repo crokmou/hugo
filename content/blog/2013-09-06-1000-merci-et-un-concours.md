@@ -20,7 +20,7 @@ Voilà donc le temps attendu **thème du concours : les régions et leurs spéci
 
 Pour cette fois je vais donc vous faire cuisiner, oui, oui, mais rassurez vous vous restez quand même très libre, tout vous sera expliqué en fin d’article ! Sachez aussi que cette fois encore nous avons de très gentils partenaires pour vous gâter ! Que je vous présente :
 
-<u>En premier lieu je tenais à vous présenter **[La Maison Dandoy](http://www.maisondandoy.com/)** :</u>
+En premier lieu je tenais à vous présenter **[La Maison Dandoy](http://www.maisondandoy.com/)** :
 
 [![](http://www.crokmou.com/wp-content/uploads/2013/09/Logo-Dandoy-294x3001-294x300.png)](http://www.maisondandoy.com/)
 
@@ -28,29 +28,13 @@ Pour cette fois je vais donc vous faire cuisiner, oui, oui, mais rassurez vous v
 
 [![](http://www.crokmou.com/wp-content/uploads/2013/09/IMG_3653-225x3001-225x300.jpg)](http://www.maisondandoy.com/)[![](http://www.crokmou.com/wp-content/uploads/2013/09/PG-0001-300x3001-300x300.jpg)](http://www.maisondandoy.com/)
 
- <span style="line-height: 20px;"></span>
+J’ai eu la chance durant l’événement Culinaria de goûter leurs spécialités et autant vous dire, je suis tombée sur le c** ! C’est tellement bon, moelleux, avec le goût authentique du speculoos… et le pain à la Grecque… hum à damner ! D’ailleurs je peux également vous dire que c’est un partenaire dont je reparlerai très bientôt puisque j’ai été invité à visiter leur atelier dans le courant du mois !
 
-<span style="line-height: 20px;">J’ai eu la chance durant l’événement Culinaria de goûter leurs spécialités et autant vous dire, je suis tombée sur le c** ! C’est tellement bon, moelleux, avec le goût authentique du speculoos… et le pain à la Grecque… hum à damner ! D’ailleurs je peux également vous dire que c’est un partenaire dont je reparlerai très bientôt puisque j’ai été invité à visiter leur atelier dans le courant du mois !</span>
+Pourquoi la [Maison Dandoy](http://www.maisondandoy.com/) ? J’ai choisi ce partenaire car il est selon moi très représentatif du savoir faire Belge notamment en matière de speculoos et quoi de mieux pour ceux qui ne connaissent pas que de leur faire découvrir ce délicieux biscuit ?! Et puis la Belgique c’est mon pays d’adoption ne l’oublions pas 😉
 
- <span style="line-height: 20px;"></span>
+Si vous souhaitez en apprendre un peu plus sur la Belgique et ses speculoos, je vous invite à vous rendre sur le **[site internet de la Maison Dandoy](http://www.maisondandoy.com/)** ainsi que sur leur [page Facebook](https://www.facebook.com/MaisonDandoy) ! De quoi vous donner l’eau à la bouche croyez moi !
 
-<span style="line-height: 20px;">Pourquoi la [Maison Dandoy](http://www.maisondandoy.com/) ? J’ai choisi ce partenaire car il est selon moi très représentatif du savoir faire Belge notamment en matière de speculoos et quoi de mieux pour ceux qui ne connaissent pas que de leur faire découvrir ce délicieux biscuit ?! Et puis la Belgique c’est mon pays d’adoption ne l’oublions pas 😉</span>
-
- <span style="line-height: 20px;"></span>
-
-<span style="line-height: 20px;">Si vous souhaitez en apprendre un peu plus sur la Belgique et ses speculoos, je vous invite à vous rendre sur le **[site internet de la Maison Dandoy](http://www.maisondandoy.com/)** ainsi que sur leur [page Facebook](https://www.facebook.com/MaisonDandoy) ! De quoi vous donner l’eau à la bouche croyez moi !</span>
-
- <span style="line-height: 20px;"></span>
-
- <span style="line-height: 20px;"></span>  <span style="line-height: 20px;"></span>  <span style="line-height: 20px;"></span>
-
- <span style="line-height: 20px;"></span>
-
-<span style="line-height: 20px;"><u>Passons dès à présent à mon deuxième partenaire, tout aussi gourmand mais dans un autre registre, [la conserverie « Au Bec Fin »](http://www.au-bec-fin.com/) :</u></span>
-
-<span style="line-height: 20px;"></span>
-
-<span style="line-height: 20px;"></span>
+Passons dès à présent à mon deuxième partenaire, tout aussi gourmand mais dans un autre registre, [la conserverie « Au Bec Fin »](http://www.au-bec-fin.com/) :
 
 [![](http://www.crokmou.com/wp-content/uploads/2013/09/logo-becfin-slogan-300x2521-300x252.jpg)](http://www.au-bec-fin.com/)
 
@@ -58,19 +42,11 @@ Pour cette fois je vais donc vous faire cuisiner, oui, oui, mais rassurez vous v
 
 ![](http://www.crokmou.com/wp-content/uploads/2013/09/aubecfin-point-vente1.jpg) [![](http://www.crokmou.com/wp-content/uploads/2013/09/Spe-CC-81cialite-CC-81s-provenc-CC-A7ales-300x2621-300x262.jpg)](http://www.crokmou.com/wp-content/uploads/2013/09/Spe-CC-81cialite-CC-81s-provenc-CC-A7ales-300x2621.jpg)
 
-<span style="line-height: 20px;">Durant mes vacances je suis allée visiter cette conserverie avec mon Papa et son copain. Comme ils tiennent une épicerie dans le Var, toujours à la recherche de produits de qualité et surtout artisanaux,  c’est donc tout naturellement que nous avons décidé d’aller voir ces produits d’un peu plus près. Nous n’avons pas été déçus (sauf peut être de ne pas avoir eu le temps de visiter la conserverie), le coin est très agréable et les explications sur les différents produits sont très intéressantes. Tout est fait en collaboration avec les producteurs du coin, un bon point donc, </span>de plus les produits sont excellents !
+Durant mes vacances je suis allée visiter cette conserverie avec mon Papa et son copain. Comme ils tiennent une épicerie dans le Var, toujours à la recherche de produits de qualité et surtout artisanaux,  c’est donc tout naturellement que nous avons décidé d’aller voir ces produits d’un peu plus près. Nous n’avons pas été déçus (sauf peut être de ne pas avoir eu le temps de visiter la conserverie), le coin est très agréable et les explications sur les différents produits sont très intéressantes. Tout est fait en collaboration avec les producteurs du coin, un bon point donc, de plus les produits sont excellents !
 
-<span style="line-height: 20px;">La tapenade, les olives, le ketchup tout ça l’été c’est mon dada, voilà donc une bonne manière pour moi de vous inviter à déguster une partie de la cuisine du Sud Est ! Vous souhaitez d’autres explications encore ? N’hésitez pas à faire un tour sur [le site internet « Au Bec Fin »](http://www.au-bec-fin.com/) ainsi que sur [leur page Facebook](https://www.facebook.com/pages/Conserverie-Au-Bec-Fin/160594497334453) !</span>
+La tapenade, les olives, le ketchup tout ça l’été c’est mon dada, voilà donc une bonne manière pour moi de vous inviter à déguster une partie de la cuisine du Sud Est ! Vous souhaitez d’autres explications encore ? N’hésitez pas à faire un tour sur [le site internet « Au Bec Fin »](http://www.au-bec-fin.com/) ainsi que sur [leur page Facebook](https://www.facebook.com/pages/Conserverie-Au-Bec-Fin/160594497334453) !
 
- <span style="line-height: 20px;"></span>
-
- <span style="line-height: 20px;"></span>  <span style="line-height: 20px;"></span>  <span style="line-height: 20px;"></span>
-
- <span style="line-height: 20px;"></span>
-
-<span style="line-height: 20px;"><u>Le dernier partenaire à nous rejoindre et pas des moindre, n’est autre que mon plus vieil « ami », Rue du Commerce :</u></span>
-
-<span style="line-height: 20px;"></span>
+Le dernier partenaire à nous rejoindre et pas des moindre, n’est autre que mon plus vieil « ami », Rue du Commerce :
 
 ![](http://www.crokmou.com/wp-content/uploads/2013/09/logoRDC-300x1881-300x188.jpg)
 
@@ -82,7 +58,7 @@ Nous allons maintenant passer au vif du sujet, **le concours** !
 
 ### CONCOURS : POUR PARTICIPER
 
-– Vous devrez **réaliser** la **recette <u>exclusive</u> **(pas de recette qui date de 6 mois sur le blog hein ;))** de votre choix** en rapport avec votre **région/pays natal**  **ou celui où vous êtes actuellement (une petite explication en plus c’est encore mieux)**. Pas trop compliqué jusque là non ? Bon aller j’en rajoute une petite couche parce que sinon c’est trop facile. Comme beaucoup d’entre vous le savent, j’aime les belles photos. Vous n’êtes pas pro ? Pas de problèmes rassurez vous tout ce que je vous demande c’est de **faire un minimum attention à votre présentation**. Faites un effort, **mettez votre plat/dessert en scène**, utilisez des accessoires, de la belle vaisselle et surtout n’hésitez pas à photographier le tout en lumière du jour !
+– Vous devrez **réaliser** la **recette exclusive **(pas de recette qui date de 6 mois sur le blog hein ;))** de votre choix** en rapport avec votre **région/pays natal**  **ou celui où vous êtes actuellement (une petite explication en plus c’est encore mieux)**. Pas trop compliqué jusque là non ? Bon aller j’en rajoute une petite couche parce que sinon c’est trop facile. Comme beaucoup d’entre vous le savent, j’aime les belles photos. Vous n’êtes pas pro ? Pas de problèmes rassurez vous tout ce que je vous demande c’est de **faire un minimum attention à votre présentation**. Faites un effort, **mettez votre plat/dessert en scène**, utilisez des accessoires, de la belle vaisselle et surtout n’hésitez pas à photographier le tout en lumière du jour !
 
 Un exemple ? Je me suis moi même prêtée au jeu avec une des plus vieille recette de famille : la flamiche au Maroilles (dont je vous donnerez la recette très bientôt c’est promis !), un plat typique du Nord !
 
@@ -100,7 +76,7 @@ Il y aura en tout 5 gagnants, oui, oui vous avez bien entendu ! Avant de vous mo
 
 – Laure du blog [Malice et astuces](http://maliceetastuce.wordpress.com/) et qui pour l’occasion nous a concocté une petite recette du Nord
 
-<div style="clear: both; text-align: center;">![](http://www.crokmou.com/wp-content/uploads/2013/09/creme-brulc3a9e-au-speculoos-287x3001.jpg)
+![](http://www.crokmou.com/wp-content/uploads/2013/09/creme-brulc3a9e-au-speculoos-287x3001.jpg)
 
 – Candy qui n’a pas de blog mais qui a décider de parler en tant que bénévole pour l’association [Catrescue](http://www.catrescue.be/) (Un refuge pour chats maltraités et abandonnés)
 
@@ -116,19 +92,13 @@ Et maintenant les cadeaux =D
 
  ****
 
-Un set fondue pour vous réchauffer cet hiver offert par Rue du Commerce d’une valeur d’environ 50€  (parce que j’aime beaucoup beaucoup la fondue) (Produits non exhaustifs, des articles similaires peuvent être envoyés en cas de rupture de stock à la fin du concours. <u>Colis ne peut être envoyé qu’en France</u>)
-
- <span style="line-height: 24px;"></span>
+Un set fondue pour vous réchauffer cet hiver offert par Rue du Commerce d’une valeur d’environ 50€  (parce que j’aime beaucoup beaucoup la fondue) (Produits non exhaustifs, des articles similaires peuvent être envoyés en cas de rupture de stock à la fin du concours. Colis ne peut être envoyé qu’en France)
 
 **Pour notre deuxième vainqueur** :
 
 [![](http://www.crokmou.com/wp-content/uploads/2013/09/6e944ad38a9d93347ade1c6dcabed51e-300x300-300x3001-300x300.jpg)](http://www.crokmou.com/wp-content/uploads/2013/09/6e944ad38a9d93347ade1c6dcabed51e-300x300-300x3001.jpg) [![](http://www.crokmou.com/wp-content/uploads/2013/09/5ea47ac506cebea2454b2efc67624902-300x2621-300x262.jpg)](http://www.crokmou.com/wp-content/uploads/2013/09/5ea47ac506cebea2454b2efc67624902-300x2621.jpg)
 
-Un appareil à crêpes et une boite Pause Gourmande Speculoos. Cadeaux offerts par Rue du Commerce  (Produits non exhaustifs, des articles similaires peuvent être envoyés en cas de rupture de stock à la fin du concours. <u>Colis ne peut être envoyé qu’en France</u>) et la Maison Dandoy d’une valeur totale d’environ 40€.
-
- <span style="line-height: 24px;"></span>
-
-</div>
+Un appareil à crêpes et une boite Pause Gourmande Speculoos. Cadeaux offerts par Rue du Commerce  (Produits non exhaustifs, des articles similaires peuvent être envoyés en cas de rupture de stock à la fin du concours. Colis ne peut être envoyé qu’en France) et la Maison Dandoy d’une valeur totale d’environ 40€.
 
 **Pour le troisième :**
 
@@ -155,7 +125,7 @@ Un coffret dégustation offert par notre partenaire la conserverie « Au Bec Fi
 *   Vérifiez bien que vous utilisez une **adresse mail valide** lorsque vous écrivez votre commentaire, si je n’ai pas de réponse de la part du gagnant (faute d’avoir une adresse mail correcte) sous 2 jours, un nouveau gagnant sera nommé.
 *   N’oubliez pas **de respecter toutes les conditions**, auquel cas votre participation ne sera pas prise en compte (que vous soyez gentil ou non ;D).
 
-### Fin du concours le <strike>6 Octobre</strike> 31 Octobre 2013 à 00h
+### Fin du concours le 6 Octobre 31 Octobre 2013 à 00h
 
 Alors qu’en dites vous ? Partants ?
 
@@ -165,4 +135,3 @@ A bientôt les gourmands et faites moi découvrir vos régions !
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 
- <span style="line-height: 20px;"></span>

@@ -40,9 +40,9 @@ Lorsque vous écrirez votre commentaire, n’oubliez pas de **mentionner le nom
 
 ### A GAGNER
 
-<div style="margin: 0px; outline: 0px; padding: 0px; text-align: justify;">1 box Thé composée (19€) de :
+1 box Thé composée (19€) de :
 
-<div>– Biscuits Stephen Destrée
+– Biscuits Stephen Destrée
 
 – Tisane bonne nuit Hildegarde
 
@@ -68,8 +68,6 @@ ou
 
 – Tisane bonne nuit Hildegarde
 
-</div>
-
 ### A SAVOIR
 
 Concours possible pour les personnes ayant une **adresse postale en Belgique UNIQUEMENT.**
@@ -82,4 +80,3 @@ Fin du concours le 5 Février 2014 à 00h
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 
-</div>

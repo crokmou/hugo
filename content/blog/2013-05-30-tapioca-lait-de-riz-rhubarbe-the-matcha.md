@@ -56,25 +56,9 @@ _ _
 _[Recipe in English soon](https://lh3.googleusercontent.com/-mtlkaU0yDLk/Uc8x7lAxwOI/AAAAAAAAHn4/hZ3m8lXd05c/s840/Capture%2520d%25E2%2580%2599e%25CC%2581cran%25202013-06-29%2520a%25CC%2580%252021.13.09.png)_
  __
 
-<table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
+[![](http://2.bp.blogspot.com/-mtlkaU0yDLk/Uc8x7lAxwOI/AAAAAAAAHn4/hZ3m8lXd05c/s320/Capture+d%25E2%2580%2599e%25CC%2581cran+2013-06-29+a%25CC%2580+21.13.09.png)](http://2.bp.blogspot.com/-mtlkaU0yDLk/Uc8x7lAxwOI/AAAAAAAAHn4/hZ3m8lXd05c/s840/Capture+d%25E2%2580%2599e%25CC%2581cran+2013-06-29+a%25CC%2580+21.13.09.png)
 
-<tbody>
-
-<tr>
-
-<td style="text-align: center;">[![](http://2.bp.blogspot.com/-mtlkaU0yDLk/Uc8x7lAxwOI/AAAAAAAAHn4/hZ3m8lXd05c/s320/Capture+d%25E2%2580%2599e%25CC%2581cran+2013-06-29+a%25CC%2580+21.13.09.png)](http://2.bp.blogspot.com/-mtlkaU0yDLk/Uc8x7lAxwOI/AAAAAAAAHn4/hZ3m8lXd05c/s840/Capture+d%25E2%2580%2599e%25CC%2581cran+2013-06-29+a%25CC%2580+21.13.09.png)</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: center;">[Here](https://lh3.googleusercontent.com/-mtlkaU0yDLk/Uc8x7lAxwOI/AAAAAAAAHn4/hZ3m8lXd05c/s840/Capture%2520d%25E2%2580%2599e%25CC%2581cran%25202013-06-29%2520a%25CC%2580%252021.13.09.png)</td>
-
-</tr>
-
-</tbody>
-
-</table>
+[Here](https://lh3.googleusercontent.com/-mtlkaU0yDLk/Uc8x7lAxwOI/AAAAAAAAHn4/hZ3m8lXd05c/s840/Capture%2520d%25E2%2580%2599e%25CC%2581cran%25202013-06-29%2520a%25CC%2580%252021.13.09.png)
 
 _ _
 

@@ -31,45 +31,13 @@ Je me suis beaucoup amusée à faire cette recette et je suis contente que vous 
 
 Voici aussi la 1ère et la deuxième place :
 
-<table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
+[![](http://4.bp.blogspot.com/-PkKdUTiwU2M/T7JcNxQUYvI/AAAAAAAACaY/wDAj6Fjhw2c/s320/P1290062_t.jpeg)](http://www.blogger.com/goog_1999560034)
 
-<tbody>
+[1ère : Bento Fleuri par Yvette](http://blog.recettes.de/news/bento-fleuri-par-yvette)
 
-<tr>
+[![](http://3.bp.blogspot.com/-G0CwhPutpLo/T7JcfIGtm8I/AAAAAAAACag/gihWsVy1uvU/s320/whoopie_violette_4.jpg)](http://www.blogger.com/goog_1999560042)
 
-<td style="text-align: center;">[![](http://4.bp.blogspot.com/-PkKdUTiwU2M/T7JcNxQUYvI/AAAAAAAACaY/wDAj6Fjhw2c/s320/P1290062_t.jpeg)](http://www.blogger.com/goog_1999560034)</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: center;">[1ère : Bento Fleuri par Yvette](http://blog.recettes.de/news/bento-fleuri-par-yvette)</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-<table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
-
-<tbody>
-
-<tr>
-
-<td style="text-align: center;">[![](http://3.bp.blogspot.com/-G0CwhPutpLo/T7JcfIGtm8I/AAAAAAAACag/gihWsVy1uvU/s320/whoopie_violette_4.jpg)](http://www.blogger.com/goog_1999560042)</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: center;">[2ème : Whoopies à la violette par Variations Gourmandes](http://variations-gourmandes.blogspot.com/2012/04/whoopies-la-violette.html)</td>
-
-</tr>
-
-</tbody>
-
-</table>
+[2ème : Whoopies à la violette par Variations Gourmandes](http://variations-gourmandes.blogspot.com/2012/04/whoopies-la-violette.html)
 
 Pour ma part j’ai gagné ces magnifiques petits lots offerts par [Casabento](http://casabento.com/shop/fr/) et un [Coffret 100% Bio](http://www.lobodis.com/coffret-100-bio-cafe44.php) offert par [Lobodis](http://www.lobodis.com/) !
 
@@ -83,7 +51,7 @@ Bonjour les gourmands ! Je me suis enfin décidée à sortir mes fesses de ma be
 
 Pour réaliser ceci il vous faudra donc, un bon couteau (pour couper les fraises surgelées correctement), votre matériel à pâtisserie, des moules à tartelettes, et une cuillère à soupe pour doser certains ingrédients !
 
-<div>Pour environ 6 minis clafoutis
+Pour environ 6 minis clafoutis
 
 -200 g de fraises
 -65 g de farine
@@ -158,4 +126,3 @@ Je vous souhaite à tous une très bonne fin de journée (et un très bon goûte
 
 ![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)
 
-</div>

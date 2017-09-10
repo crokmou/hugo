@@ -14,7 +14,7 @@ slug: un-concours-moelleux-pour-souffler-la-2eme-bougie-partenariat-apluches
 
 Et pour vous remercier d’autant plus, j’organise en partenariat avec [Apluches](https://www.facebook.com/ApluchesCreationDePeluchesArtisanales?fref=ts), un petit concours !
 
-<u>[Apluches](https://www.facebook.com/ApluchesCreationDePeluchesArtisanales?fref=ts) ? Vous ne connaissez pas ? Je vais vous présenter alors :</u>
+[Apluches](https://www.facebook.com/ApluchesCreationDePeluchesArtisanales?fref=ts) ? Vous ne connaissez pas ? Je vais vous présenter alors :
 
 « Sophie, 25 ans et vit près de Lille. Elle créé et coud de A à Z avec ses propres patrons sous le nom Apluches.
 

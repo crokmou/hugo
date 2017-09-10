@@ -62,11 +62,11 @@ Les photographies ne sont pas seulement jolies, elles apportent une certaine con
 
 __________
 
-<span style="line-height: 115%;">N’oubliez pas que si il vous manque quelques cadeaux de Noël, il vous est possible de trouver beaucoup de chose sur Rue du Commerce, notamment de nombreux accessoires: Pour votre gaufrier, votre robot, des accessoires pour votre appareil à croques monsieur, pour vos plaques de cuisson, votre yaourtière… et j’en passe ! N’hésitez donc surtout pas a aller faire un tour chez eux, ils ont tout ce qu’il vous faut !</span>
+N’oubliez pas que si il vous manque quelques cadeaux de Noël, il vous est possible de trouver beaucoup de chose sur Rue du Commerce, notamment de nombreux accessoires: Pour votre gaufrier, votre robot, des accessoires pour votre appareil à croques monsieur, pour vos plaques de cuisson, votre yaourtière… et j’en passe ! N’hésitez donc surtout pas a aller faire un tour chez eux, ils ont tout ce qu’il vous faut !
 
-<span style="line-height: 115%;"> </span>
+ 
 
-<span style="line-height: 115%;">Et tant que je parle de Rue du Commerce, je tiens aussi a remercier ce partenaire (et plus particulièrement Amélie) pour ce magnifique cadeau qu’ils m’ont envoyé : Une imprimante multifonctions (oui oui depuis le temps qu’il m’en fallait une !). Grâce à eux il m’est possible de scanner mes cours maintenant (et bien entendu les papiers importants) ! Merci, merci !</span>
+Et tant que je parle de Rue du Commerce, je tiens aussi a remercier ce partenaire (et plus particulièrement Amélie) pour ce magnifique cadeau qu’ils m’ont envoyé : Une imprimante multifonctions (oui oui depuis le temps qu’il m’en fallait une !). Grâce à eux il m’est possible de scanner mes cours maintenant (et bien entendu les papiers importants) ! Merci, merci !
 
 **Je ne sais pas si on se vera d’ici là, donc je vous souhaite à tous un très Joyeux Noël !**
 

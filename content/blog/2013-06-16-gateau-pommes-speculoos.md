@@ -21,25 +21,9 @@ C’est terminé ! Je suis heureuse de vous annoncer que mes 3 années d’étud
 
 Enfin, passons la nostalgie de la jeunesse (un choc vous dis-je, je me sens « vieille »), aujourd’hui je vous présente une deuxième recette réalisée à partir des biscuits de la biscuiterie Destrée. Cette photographie de **gâteau moelleux aux pommes et speculoos**, fait partie d’une série créée pour mon travail de fin d’études tout comme celle du [cheesecake aux biscuits thé vert/pomme](http://www.crokmou.com/2013/03/cheesecake-biscuit-the-vert-pomme-biscuiterie-destree-green-tea-apple.html). Ces clichés ont été faits en complément d’une [brochure commerciale](http://fr.calameo.com/read/002496659e6e5a2859bad) qui regroupe, elle, une partie de la gamme de biscuits de Stephen Destrée !
 
-<table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
+[![](http://www.crokmou.com/wp-content/uploads/2013/06/stephen_destree_brochure-300x3001-300x300.jpg)](http://www.crokmou.com/wp-content/uploads/2013/06/stephen_destree_brochure-300x3001.jpg)
 
-<tbody>
-
-<tr>
-
-<td style="text-align: center;">[![](http://www.crokmou.com/wp-content/uploads/2013/06/stephen_destree_brochure-300x3001-300x300.jpg)](http://www.crokmou.com/wp-content/uploads/2013/06/stephen_destree_brochure-300x3001.jpg)</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: center;">[Cliquez ici pour lire la brochure](http://fr.calameo.com/read/002496659e6e5a2859bad)</td>
-
-</tr>
-
-</tbody>
-
-</table>
+[Cliquez ici pour lire la brochure](http://fr.calameo.com/read/002496659e6e5a2859bad)
 
 <a name="more"></a>
 
@@ -66,25 +50,9 @@ Pour 6/8 personnes
 _[English recipe ](https://lh5.googleusercontent.com/-OCBZtoiRj4Y/Uc8-v3WOlzI/AAAAAAAAHok/rd4-kgppGdc/s839/softness_cake_apple_ginger_biscuit.png):_
  __
 
-<table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
+[![](http://www.crokmou.com/wp-content/uploads/2013/06/softness_cake_apple_ginger_biscuit-300x2121-300x212.png)](http://www.crokmou.com/wp-content/uploads/2013/06/softness_cake_apple_ginger_biscuit-300x2121.png)
 
-<tbody>
-
-<tr>
-
-<td style="text-align: center;">[![](http://www.crokmou.com/wp-content/uploads/2013/06/softness_cake_apple_ginger_biscuit-300x2121-300x212.png)](http://www.crokmou.com/wp-content/uploads/2013/06/softness_cake_apple_ginger_biscuit-300x2121.png)</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: center;">[Here](https://lh5.googleusercontent.com/-OCBZtoiRj4Y/Uc8-v3WOlzI/AAAAAAAAHok/rd4-kgppGdc/s839/softness_cake_apple_ginger_biscuit.png)</td>
-
-</tr>
-
-</tbody>
-
-</table>
+[Here](https://lh5.googleusercontent.com/-OCBZtoiRj4Y/Uc8-v3WOlzI/AAAAAAAAHok/rd4-kgppGdc/s839/softness_cake_apple_ginger_biscuit.png)
 
 _ _
 

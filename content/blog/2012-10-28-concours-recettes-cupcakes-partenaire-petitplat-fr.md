@@ -68,8 +68,7 @@ Lorsque vous écrivez un commentaire ou m’envoyez un mail, veuillez avoir une 
 
 J’espère que le concours vous plaira, je vous souhaite à tous bonne chance et à très bientôt !
 
-<div style="clear: both; text-align: center;">![](http://vz.iminent.com/vz/bbe86701-1300-42e0-bff0-c28beabcc279/2/cupcake-rire.gif)
+![](http://vz.iminent.com/vz/bbe86701-1300-42e0-bff0-c28beabcc279/2/cupcake-rire.gif)
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
 
-</div>

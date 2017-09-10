@@ -54,4 +54,4 @@ _Tout d’abord je vous explique comment je suis arrivée à cette recette, je s
 3.  Ajoutez le sucre glace (si la préparation reste trop liquide, rajoutez du sucre glace)
 4.  Une fois la préparation terminée, tartinez les cups et ajoutez quelques bouts d’amandes sur le dessus.
 
- <span style="line-height: 115%;">Un petit conseil : Laissez les cups au réfrigérateur pendant minimum 3h (normalement selon le blog d’origine c’est une nuit mais il est difficile de tenir, c’est comme les macarons)</span>_En espérant que cette recette vous plaise, bonne dégustation !_
+ Un petit conseil : Laissez les cups au réfrigérateur pendant minimum 3h (normalement selon le blog d’origine c’est une nuit mais il est difficile de tenir, c’est comme les macarons)_En espérant que cette recette vous plaise, bonne dégustation !_

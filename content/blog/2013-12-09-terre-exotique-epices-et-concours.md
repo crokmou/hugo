@@ -46,9 +46,7 @@ Lorsque vous écrirez votre commentaire, n’oubliez pas de **mentionner le nom
 
 Un panier gourmand « Truffe » d’une valeur de 40€ comprenant :
 
-<div style="text-align: left;">
-
-<div>– [Brisures de truffe ](http://www.terreexotique.fr/fr/eboutique/produit/1044/lachaud-truffes-du-perigord-brisures-12g-nouveaute)
+– [Brisures de truffe ](http://www.terreexotique.fr/fr/eboutique/produit/1044/lachaud-truffes-du-perigord-brisures-12g-nouveaute)
 
 –[ Diamant de sel à la truffe](http://www.terreexotique.fr/fr/eboutique/produit/455/diamant-de-sel-a-la-truffe-60-g)
 
@@ -57,10 +55,6 @@ Un panier gourmand « Truffe » d’une valeur de 40€ comprenant :
 – [Moutarde à la truffe ](http://www.terreexotique.fr/fr/eboutique/produit/1049/moutarde-a-la-truffe-100g-nouveaute)
 
 – [ Linguine à la truffe](http://www.terreexotique.fr/fr/eboutique/produit/995/morelli-linguine-truffe-250g-21120-)
-
-</div>
-
-</div>
 
 ### A SAVOIR
 

@@ -46,24 +46,8 @@ Je ne m’en lasse pas de cette tarte ! En tout cas recette efficace, elle sera 
 
 _[In english](https://lh3.googleusercontent.com/-9TRn4owwTco/UQ2X0C3ZrDI/AAAAAAAAGgQ/Xpuj7djyKZw/s842/tatin_pie_by_pierre_herme.jpg) :_
 
-<table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
+[![](http://www.crokmou.com/wp-content/uploads/2013/01/tatin_pie_by_pierre_herme-300x2121-300x212.jpg)](http://www.crokmou.com/wp-content/uploads/2013/01/tatin_pie_by_pierre_herme-300x2121.jpg)
 
-<tbody>
-
-<tr>
-
-<td style="text-align: center;">[![](http://www.crokmou.com/wp-content/uploads/2013/01/tatin_pie_by_pierre_herme-300x2121-300x212.jpg)](http://www.crokmou.com/wp-content/uploads/2013/01/tatin_pie_by_pierre_herme-300x2121.jpg)</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: center;">[Here](https://lh3.googleusercontent.com/-9TRn4owwTco/UQ2X0C3ZrDI/AAAAAAAAGgQ/Xpuj7djyKZw/s842/tatin_pie_by_pierre_herme.jpg)</td>
-
-</tr>
-
-</tbody>
-
-</table>
+[Here](https://lh3.googleusercontent.com/-9TRn4owwTco/UQ2X0C3ZrDI/AAAAAAAAGgQ/Xpuj7djyKZw/s842/tatin_pie_by_pierre_herme.jpg)
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

@@ -54,43 +54,43 @@ Bravo, bravo ! Kampaï !
 
 **Pour ceux qui désirent voir les votes par jury, voici donc :**
 
-<u>Pauline:</u>
+Pauline:
 
 1) Tortilla // 2) Panna Cotta mozzarella, basilic et coulis de tomates // 3) Nid d’abeille en Alsace // 4) Tarte de Metz // 5) Gâteau Arboisien // 6) Macaroné du Poitou
 
-<u>Candy:</u>
+Candy:
 
 1) Tortilla // 2) Navettes à la fleur d’oranger // 3) Macaroné du Poitou // 4) Gâteau Arboisien // 5) Gâteau Normand // 6) Tarte de Metz
 
-<u>Laure:</u>
+Laure:
 
 1) Tortilla // 2) Navettes à la fleur d’oranger // 3) Farçi Poitevin // 4) Tarte de Metz // 5) Gâteau Arboisien // 6) Quenelles de fromage blanc
 
-<u>Jean-Christophe:</u>
+Jean-Christophe:
 
 1) Quenelles de fromage blanc // 2) Tarte de Metz // 3) Tortilla // 4) Farcous d’Aveyron // 5) Tatin de courgettes // 6) Navettes à la fleur d’oranger
 
-<u>[Conserverie « Au Bec Fin »](http://www.au-bec-fin.com/):</u>
+[Conserverie « Au Bec Fin »](http://www.au-bec-fin.com/):
 
 1) Tapenade // 2) Pain Tahitien // 3) Minis moelleux // 4) Navettes à la fleur d’oranger // 5) Tarte de Metz // 6) Panna Cotta mozzarella, basilic et coulis de tomates
 
-<u>Aurore:</u>
+Aurore:
 
 1) Tortilla // 2) Minis moelleux // 3) Macaroné du Poitou // 4) Tarte de Metz // 5) Quenelles de fromage blanc // 6) Gâteau Normand
 
-<u>Sarah:</u>
+Sarah:
 
 1) Macaroné du Poitou // 2) Gâteau Normand // 3) Tarte de Metz // 4) Tortilla // 5) Gâteau Arboisien // 6) Farçi Poitevin
 
-<u>Jill:</u>
+Jill:
 
 1) Tapenade // 2) Macaroné du Poitou // 3) Gâteau Arboisien // 4) Navettes à la fleur d’oranger // 5) Croustades de Midi-Pyrénées // 6) Nid d’abeille en Alsace
 
-<u>Mon hom:</u>
+Mon hom:
 
 1) Macaroné du Poitou // 2) Minis moelleux // 3) Tortilla // 4) Corolles Coulommiers // 5) Tarte de Metz // 6) Tapenade
 
-<u>Moi même:</u>
+Moi même:
 
 1) Macaroné du Poitou // 2) Tortilla // 3) Tarte de Metz // 4) Rougail // 5) Croustades de Midi-Pyrénées // 6) Minis moelleux
 

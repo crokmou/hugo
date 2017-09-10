@@ -22,15 +22,13 @@ Pour en revenir au concours, pas de commentaires à mettre, ni de tirage au sort
 
 ### CONCOURS
 
-<div style="line-height: 24px;">Réalisez une photographie en nous montrant à quel point vous êtes accro aux bonbons ! Si vous souhaitez faire une recette à base de bonbons c’est possible aussi mais il vous faudra être sur la photo malgré tout !
+Réalisez une photographie en nous montrant à quel point vous êtes accro aux bonbons ! Si vous souhaitez faire une recette à base de bonbons c’est possible aussi mais il vous faudra être sur la photo malgré tout !
 
 Le 10 Juin, une application sera mise en place sur la [page Facebook de So’Bonbon](https://www.facebook.com/pages/Sobonbon/258021314308847) pour vous permettre de participer au concours et envoyer votre photo. Vous aurez deux semaines pour nous faire parvenir vos réalisations via cette application.
 
 Suite à cela, vos créations seront soumises au votes des internautes via des « J’aime » Facebook, 9 photos seront ensuite sélectionnées et parmi ces 9 finalistes nous choisirons (L’equipe de So’Bonbon, L’agence Webcd et les blogueuses) les 3 gagnants.
 
 Je n’ai qu’une seule chose à dire me concernant : c’est un concours photo avant tout et moi par photo je m’attends à une certaine recherche et qualité, donc s’il vous plait, prenez le temps de faire quelque chose de sympa et correct, exit Instagram et le salon en arrière plan !
-
-</div>
 
 ### CONDITIONS DE PARTICIPATIONS
 

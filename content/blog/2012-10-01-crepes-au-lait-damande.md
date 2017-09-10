@@ -34,7 +34,7 @@ Pour environ 30 crêpes
 – 1 pincée de sel
 – beurre
 
-<div style="text-align: justify;">1- Dans un saladier, versez la farine, les sucres et le sel. Creusez un puit au centre et ajoutez y les oeufs.
+1- Dans un saladier, versez la farine, les sucres et le sel. Creusez un puit au centre et ajoutez y les oeufs.
 
 2- Ajoutez petit à petit le lait et mélangez en même temps, il ne doit pas y avoir de grumeaux. Votre pâte doit être lisse et pas trop liquide (ni trop pâteuse, auquel cas rajoutez du lait)
 
@@ -45,8 +45,6 @@ Pour environ 30 crêpes
 5- Une fois la première crêpe faite, continuez avec le reste de la pâte
 
 6- Dégustez vos crêpes encore chaudes (ici avec des mirabelles et du chocolat) !
-
-</div>
 
 ![](https://crokmou.com/images/le_secret_du_poids_florence_delorme_gif_crokmou.gif)
 

@@ -22,21 +22,21 @@ slug: cupcake-rose-framboise-octobre-rose
 
 Bonsoir les gourmands ! J’espère que vous allez bien, pour ma part les jours sont un peu chargés (entre photos, préparations, retouches et repos) mais j’essaye d’être présente au plus possible pour les articles ! Au départ il n’était pas question de vous présenter cette recette, mais j’ai décidé de me **mobiliser** en ce jour (avec beaucoup d’autres bloggeuses culinaires), pour le **dépistage du cancer du sein**. A l’initiative de cette mobilisation en ce 15 Octobre (pour les bloggeurs), Steph du blog [2 filles au fourneaux](http://2fillesofourneau.over-blog.com/).
 
-<span style="line-height: 16px; white-space: pre-wrap;"> </span>
+ 
 
 [![](http://4.bp.blogspot.com/-LtF-OYTaq-U/UHxb8NNNQSI/AAAAAAAAEzM/V1FtVylNYek/s400/Affiche_RubanRose72DPI.jpg)](http://4.bp.blogspot.com/-LtF-OYTaq-U/UHxb8NNNQSI/AAAAAAAAEzM/V1FtVylNYek/s1600/Affiche_RubanRose72DPI.jpg)
 
-<span style="font-family: inherit;">Depuis 2004, le mois d’octobre est dédié à la mobilisation pour le dépistage du cancer du sein sous l’appellation <span style="color:
+Depuis 2004, le mois d’octobre est dédié à la mobilisation pour le dépistage du cancer du sein sous l’appellation <span style="color:
 
-#444444;">**« Octobre Rose »**. Je pense qu’il est très important de parler de ce cancer qui survient plus souvent qu’on ne le croit ! Lorsqu’il est prit en charge à temps, ce cancer du sein peut être très bien soigné, ce pourquoi il est primordial d’en parler. Le dépistage n’est pas douloureux, c’est rapide , il suffit juste de prendre le temps d’appeler son gynécologue pour un petit rendez vous (alors hop on hésite pas, on prend son téléphone, je vais en faire de même d’ailleurs).</span></span>
+#444444;">**« Octobre Rose »**. Je pense qu’il est très important de parler de ce cancer qui survient plus souvent qu’on ne le croit ! Lorsqu’il est prit en charge à temps, ce cancer du sein peut être très bien soigné, ce pourquoi il est primordial d’en parler. Le dépistage n’est pas douloureux, c’est rapide , il suffit juste de prendre le temps d’appeler son gynécologue pour un petit rendez vous (alors hop on hésite pas, on prend son téléphone, je vais en faire de même d’ailleurs).
 
 Pour plus d’informations sur ce cancer, je vous invite à vous rendre sur le site internet [cancerdusein.org](http://www.cancerdusein.org/)
 
 J’apporte ma contribution avec la petite recette que voici : **Cupcake à la rose et framboise**
 
-<span style="line-height: 16px; white-space: pre-wrap;"><span style="color:
+<span style="color:
 
-#444444;"></span></span>
+#444444;">
 
 Pour 8 cupcakes
 
@@ -51,9 +51,9 @@ Pour 8 cupcakes
 – 80 de sucre glace
 – 1 càs d’eau de rose
 
-<div style="text-align: justify;">1- Préchauffez votre four à 200°C
+1- Préchauffez votre four à 200°C
 
-<div style="text-align: justify;">2- Dans un saladier, mélangez la farine, le sucre en poudre et la levure. Ajoutez ensuite le lait et l’oeuf, mélangez bien pour qu’il n’y ai pas de grumeaux. Ajoutez ensuite le beurre fondu, mélangez de nouveau, la pâte doit être homogène.
+2- Dans un saladier, mélangez la farine, le sucre en poudre et la levure. Ajoutez ensuite le lait et l’oeuf, mélangez bien pour qu’il n’y ai pas de grumeaux. Ajoutez ensuite le beurre fondu, mélangez de nouveau, la pâte doit être homogène.
 
 3- Ajoutez ensuite la pâte de framboises à tartiner ou vos framboises préalablement écrasées, de nouveau, mélangez.
 
@@ -62,10 +62,6 @@ Pour 8 cupcakes
 5- Enfournez pendant 20 minutes. Une fois les cupcakes cuits, laissez les refroidir avant d’entamer la déco
 
 6- Pour le topping : A l’aide votre fouet robot (ou votre robot pâtissier), fouettez la mascarpone, le sucre glace (préalablement tamisé) et l’eau de rose. Mettez votre pâte dans une poche à douille et décorez vos cupcakes.
-
-</div>
-
-</div>
 
 A déguster (presque) sans modérations ! Je vous souhaite une bonne semaine à tous !
 

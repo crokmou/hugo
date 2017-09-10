@@ -35,9 +35,9 @@ Pour 4 tartelettes
 – 2 pommes
 – 4 càs de cassonade
 
-<div style="text-align: justify;">1- Découpez vos cercles de pâte feuilletée de telle sorte que ceux ci soient un peu plus grands que vos moules
+1- Découpez vos cercles de pâte feuilletée de telle sorte que ceux ci soient un peu plus grands que vos moules
 
-<div style="text-align: justify;">2- Placez vos cercles de pâtes dans les moules en n’oubliant pas de laisser du papier sulfurisé en dessous (au risque d’avoir beaucoup de mal à décoller vos tartelettes !). Piquez vos tartelettes à l’aide d’une fourchette
+2- Placez vos cercles de pâtes dans les moules en n’oubliant pas de laisser du papier sulfurisé en dessous (au risque d’avoir beaucoup de mal à décoller vos tartelettes !). Piquez vos tartelettes à l’aide d’une fourchette
 
 3- Préchauffez votre four à 180°C
 
@@ -46,10 +46,6 @@ Pour 4 tartelettes
 5- Saupoudrez chaque tartelette d’une cuillère à café de cassonade et enfournez pour environ 25 minutes
 
 6- Dégustez tiède avec une petite boule de glace ou un bon café !
-
-</div>
-
-</div>
 
 Et vous a quoi vous les aimez vos tartelettes ?
 

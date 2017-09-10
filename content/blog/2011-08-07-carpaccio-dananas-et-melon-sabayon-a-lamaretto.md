@@ -16,7 +16,7 @@ disqusId: 3587684704
 slug: carpaccio-dananas-et-melon-sabayon-a-lamaretto
 ---
 
-<div style="text-align: justify;">**Note du 7/08/11 : Je n’ai que très peu de temps en ce moment pour cuisiner (bientôt, bientôt je vous le promet, mais il va falloir encore attendre un peu). Je tenais à vous annoncer que je suis arrivée troisième du défi carpaccio avec cette recette sur Recettes.de, et je tenais à remercier les membres du Jury. J’ai été très contente de participer !**
+**Note du 7/08/11 : Je n’ai que très peu de temps en ce moment pour cuisiner (bientôt, bientôt je vous le promet, mais il va falloir encore attendre un peu). Je tenais à vous annoncer que je suis arrivée troisième du défi carpaccio avec cette recette sur Recettes.de, et je tenais à remercier les membres du Jury. J’ai été très contente de participer !**
 
 **Passez de bonnes fins de vacances (et du courage pour ceux qui sont au boulot), et je vous dit à très bientôt !**
 
@@ -47,8 +47,6 @@ Pour 4 personnes
 3- Placez le saladier au dessus de la casserole d’eau bouillante et fouetter la préparation, vous verrez cela va devenir mousseux
 4- En en cessant de fouetter, ajoutez l’eau et l’amaretto, le mélange va s’épaissir
 5- Une fois le sabayon mousseux et a bonne consistance, versez-en dans des petits verres ou tout simplement sur votre carpaccio
-
-</div>
 
 (Avec cette recette je participe au concours Carpaccio sur [http://recettes.de/defi-carpaccio](http://recettes.de/defi-carpaccio) )
 

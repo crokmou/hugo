@@ -22,7 +22,7 @@ Ne vous fiez pas aux apparences, Stock semble petit de l’extérieur mais à l�
 
 # Le magasin Stock
 
-Bien que l’on soit dans une gamme de produits qui se veulent éthiques, c’est différent de ce que l’on voit en ce moment (je parle du côté un peu bobo où tout est posé à même le sol, sans étiquette, sans déco, rien). C’est _propre, rangé, bien agencé et convivial_. J’adore ce côté brut avec le bois et les <del>fausses</del> charpentes apparentes.
+Bien que l’on soit dans une gamme de produits qui se veulent éthiques, c’est différent de ce que l’on voit en ce moment (je parle du côté un peu bobo où tout est posé à même le sol, sans étiquette, sans déco, rien). C’est _propre, rangé, bien agencé et convivial_. J’adore ce côté brut avec le bois et les fausses charpentes apparentes.
 
 L’espace est très grand, le magasin est disposé sur 4 étages (bon 3 étages en vrai de vrai si tu comptes les demi plateformes)
 

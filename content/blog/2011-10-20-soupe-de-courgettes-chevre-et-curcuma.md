@@ -26,9 +26,7 @@ Cela doit faire quelque chose du genre 8 mois que je n’ai pas mangé de soupe,
 
 23/10 : Une petite soupe à la une de CookNow, sympa non ?
 
-<div style="clear: both; text-align: center;">[![](http://1.bp.blogspot.com/-pj3RVSWQwEI/TqPW_gMqIEI/AAAAAAAAA7o/lAUNdwZbP5s/s400/2011-10-23+10.56.13.png)](http://1.bp.blogspot.com/-pj3RVSWQwEI/TqPW_gMqIEI/AAAAAAAAA7o/lAUNdwZbP5s/s1600/2011-10-23+10.56.13.png)
-
-</div>
+[![](http://1.bp.blogspot.com/-pj3RVSWQwEI/TqPW_gMqIEI/AAAAAAAAA7o/lAUNdwZbP5s/s400/2011-10-23+10.56.13.png)](http://1.bp.blogspot.com/-pj3RVSWQwEI/TqPW_gMqIEI/AAAAAAAAA7o/lAUNdwZbP5s/s1600/2011-10-23+10.56.13.png)
 
 __________
 

@@ -34,12 +34,12 @@ Je l’ai dit plus haut et n’hésite pas à vous le dire une seconde fois, per
 * Il y a évidemment le célèbre **Panthéon**. En plein coeur du centre historique, il est l’une des destinations préférée des touristes. Il y a du monde c’est vrai, mais c’est grandiose à voir : La coupole est l’une des plus grande voûtes jamais réalisée.   ![Panthéon - Citytrip à Rome](http://www.crokmou.com/wp-content/uploads/2016/12/weekend-rome-italie-crokmou-blog-cuisine-voyage-belgique-76.jpg)  
 * Je ne suis pas Chrétienne pour un sous mais j’adore me rendre dans les églises ou autres monuments religieux. J’aime la grandeur et la richesse de ces lieux, l’ambiance y est un peu glauque mais reposante en même temps. L’<span style="color:
 
-#993300;">**Église Sant’Andrea della Valle** est une des plus belle église qu’il m’est été donné de voir. </span>
+#993300;">**Église Sant’Andrea della Valle** est une des plus belle église qu’il m’est été donné de voir. 
 
 ![Église Sant'Andrea della Valle - Citytrip à Rome](http://www.crokmou.com/wp-content/uploads/2016/12/weekend-rome-italie-crokmou-blog-cuisine-voyage-belgique-74.jpg) ![Église Sant'Andrea della Valle - Citytrip à Rome](http://www.crokmou.com/wp-content/uploads/2017/01/weekend-rome-italie-crokmou-blog-cuisine-voyage-belgique-73.jpg)![Église Sant'Andrea della Valle - Citytrip à Rome](http://www.crokmou.com/wp-content/uploads/2016/12/weekend-rome-italie-crokmou-blog-cuisine-voyage-belgique-75.jpg)  
 * Impossible de passer par le centre historique sans passer par la <span style="color:
 
-#993300;">**Fontaine de Trevi **</span>
+#993300;">**Fontaine de Trevi **
 
 ![Fontaine de trévi cinemagraph - Citytrip à Rome](http://www.crokmou.com/wp-content/uploads/2017/01/fontaine-trevi-cinemagraph-crokmou.gif)  
 * Juste derrière notre Hôtel se trouvait le **Parc de la Villa Borghese,** un coin de Paradis en plein coeur de la ville. Je ne vais pas tout vous raconter ici, [un article tout entier](http://www.crokmou.com/2017/01/visiter-jardins-villa-borghese-rome) est dédié à ce parc enchanteur !   ![Villa Borghese - Citytrip à Rome](http://www.crokmou.com/wp-content/uploads/2016/12/weekend-rome-italie-crokmou-blog-cuisine-voyage-belgique-29.jpg)  
