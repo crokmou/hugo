@@ -46,4 +46,4 @@ Ah les pancakes du Dimanche matin, un rituel à la maison ! Avec du sucre muscov
 
   ## Des impressions gourmandes Une petite surprise également, au cas où vous l’auriez raté sur les réseaux sociaux. **J’ai ouvert [ma petite boutique Etsy](https://www.etsy.com/fr/shop/CrokmouFoodPhoto)**, vous y retrouverez déjà 2 clichés disponibles à l’impression. Une décoration proposée en impression limitée…
 
-![capture-decran-2016-12-08-a-20-30-39](http://www.crokmou.com/wp-content/uploads/2016/12/Capture-d---e--cran-2016-12-08-a---20.30.39.jpg)![15128875_1239834159418309_7293904030593466028_o](http://www.crokmou.com/wp-content/uploads/2016/12/15128875_1239834159418309_7293904030593466028_o.jpg)
+![capture-decran-2016-12-08-a-20-30-39](https://crokmou.com/images/Capture-d---e--cran-2016-12-08-a---20.30.39_bedrnf.jpg)![15128875_1239834159418309_7293904030593466028_o](http://www.crokmou.com/wp-content/uploads/2016/12/15128875_1239834159418309_7293904030593466028_o.jpg)

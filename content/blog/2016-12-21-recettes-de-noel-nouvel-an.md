@@ -18,7 +18,7 @@ Les fêtes approchent à grands pas – et j’ai l’impression que cela va plu
 
 # Entrées /Plats
 
-![](http://www.crokmou.com/wp-content/uploads/2016/12/recette-noel-plat.jpg)  
+![](https://crokmou.com/images/recette-noel-plat_nehjzz.jpg)  
 * [Tatin de magret de canard, pomme et foie gras](http://www.crokmou.com/2013/12/tatin-magret-canard-pomme-foie-gras)
 * [Coquilles de Saint-Jacques gratinées au speculoos](http://www.crokmou.com/2013/12/coquilles-saint-jacques-gratinees-speculoos)
 * [Crème brûlée à l’huile de truffe blanche ](http://www.crokmou.com/2016/11/creme-brulee-a-lhuile-de-truffe-blanche)
@@ -33,7 +33,7 @@ Les fêtes approchent à grands pas – et j’ai l’impression que cela va plu
 
 # Cadeaux gourmands
 
-![](http://www.crokmou.com/wp-content/uploads/2016/12/recette-noel-gourmandises.jpg)  
+![](https://crokmou.com/images/recette-noel-gourmandises_ylhw29.jpg)  
 * [Caramels aux amandes et chocolat](http://www.crokmou.com/2012/01/caramels-aux-amandes-et-chocolat)
 * [Coquilles de la Saint-Nicolas](http://www.crokmou.com/2014/12/coquille-de-la-saint-nicolas)
 * [Meringues sapin au thé matcha](http://www.crokmou.com/2016/12/meringues-sapin-au-the-matcha-et-chocolat-chaud)

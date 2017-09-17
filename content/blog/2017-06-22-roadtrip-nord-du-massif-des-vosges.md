@@ -44,7 +44,7 @@ Sur une étagère se trouvait une collection d’appareils anciens assez dingues
 
 Nous reprenons la route pour **Cleebourg**, c’est là que se trouve les caves à vin, très réputées dans la région, que nous allons visiter. N’étant pas du tout portée sur l’alcool (ceux qui me connaissent savent que je n’en bois jamais – oui tu as bien lu : jamais !), j’avoue que j’ai apprécié la visite mais moyennement la dégustation. Je n’avais encore jamais mi les pieds dans une cave à vin, c’est donc toute impressionnée que j’ai pu découvrir les énormes silos dans lesquels le breuvage fermente. C’est vraiment tout une technique le vin et un savoir faire qui demande patience et connaissances. **_Les caves de Cleebourg – [Site Internet](http://www.cave-cleebourg.com)_**
 
-![](https://crokmou.com/images/voyage-nord-massif-vosges-france-cave-cleebourg-crokmou-blog-cuisine-voyage-belgique.jpg) 
+![](https://crokmou.com/images/voyage-nord-massif-vosges-france-cave-cleebourg-crokmou-blog-cuisine-voyage-belgique.jpg)
 
 ## Hôtel \*\*\*\* – Restaurant du Cheval Blanc
 
@@ -82,8 +82,8 @@ La visite est aussi passionnante que fascinante ! Au travers d’anciennes photo
 Après de gros efforts, nous reprenons la route pour déjeuner dans un petit **restaurant nommé « Au grès du marché »**. Situé dans le village de La petite pierre, l’endroit est charmant et très convivial. C’est le **Chef Frédéric Jung** et son épouse qui nous accueillent. Une cuisine avec pour base principale des produits locaux et de saison, une carte du marché, réalisée selon les arrivages du jour. En entrée on retrouve un buffet froids avec un **choix assez large de salades** aux goûts et couleurs variées, il y’en a pour tous les goûts. Au menu, là encore pas de plats végétarien, j’opte donc pour le poisson : filet de sandre cuit au beurre mousseux, accompagné de rillettes de saumon, fèves, asperges vertes et crème. **Un vrai régal** ! La cuisson est parfaite, je garde un très bon souvenir de ce plat… et je ne vous raconte pas le dessert ! Une tarte crumble aux fruits à se damner et une boule de glace au yaourt divine (bon c’est ma glace préférée, donc ça aide !). _**Au grès du marché – [Site Internet](https://www.augresdumarche.fr)**_
 
 {{< gallery no-grid >}}
-{{< img src="https://crokmou.com/images/voyage-nord-massif-vosges-france-restaurant-au-grès-du-marche-petite-pierre-crokmou-blog-cuisine-voyage-belgique.jpg" >}}
-{{< img src="https://crokmou.com/images/voyage-nord-massif-vosges-france-restaurant-au-grès-du-marche-petite-pierre-crokmou-blog-cuisine-voyage-belgique-2.jpg" >}}
+{{< img src="https://crokmou.com/images/voyage-nord-massif-vosges-france-restaurant-au-gre%CC%80s-du-marche-petite-pierre-crokmou-blog-cuisine-voyage-belgique.jpg" >}}
+{{< img src="https://crokmou.com/images/voyage-nord-massif-vosges-france-restaurant-au-gre%CC%80s-du-marche-petite-pierre-crokmou-blog-cuisine-voyage-belgique-2.jpg" >}}
 {{< /gallery >}}
 
 ## Le Ranch des bisons

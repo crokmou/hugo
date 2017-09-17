@@ -2,7 +2,7 @@
 type: post
 title: Tiramisu classique, la recette
 date: 2017-02-02T16:08:05+00:00
-thumbnail: https://crokmou.com/images/cinemagraph-recette-tiramisu-mascarpone-cafe-crokmou-blog-cuisine-voyage-belgique-1.gif
+thumbnail: https://crokmou.com/images/recette-tiramisu-mascarpone-cafe-crokmou-blog-cuisine-voyage-belgique-1_sj0f5k.jpg
 categories:
   - Desserts
 tags:
@@ -32,7 +32,7 @@ disqusId: 5515592914
 slug: tiramisu-classique-la-recette
 ---
 
-**Le Tiramisu**, je crois bien que c’est **mon dessert préféré** ! J’avais déjà écrit cette petite recette en 2011, mais je pense qu’il était temps de mettre à jour les illustrations. Voici donc la formule « magique » de ma maman, _un subtil mélange entre le café, le marsala et la crème_. Sur Internet on trouve des tas de recettes de tiramisu, mais celle là fonctionne tellement bien que je n’ai jamais pris le temps d’en tester une autre. Pourquoi changer les bonnes habitudes n’est-ce pas ? Même si je n’ai pas changé de recette, j’ai tout de même _procédé à plusieurs tests dans la manière de faire_ : fouetter les jaunes et le sucre à la main puis incorporer la mascarpone / fouetter les jaunes et le sucre au batteur puis incorporer la mascarpone à la main / fouetter les jaunes et le sucre au batteur et incorporer la mascarpone à petite vitesse. La troisième option s’est révélée la meilleure d’entre toutes pour un résultat ultra gourmand. Il est vrai qu’aujourd’hui c’est la Chandeleur, j’aurais pu vous écrire une recette de crêpes, mais comme il y a déjà beaucoup d’idées par [-ici-](http://www.crokmou.com/tag/chandeleur), je me suis dit qu’un autre dessert pouvait être bien !   ![Tiramisu classique - Mascarpone, café et marsala](http://www.crokmou.com/wp-content/uploads/2017/02/recette-tiramisu-mascarpone-cafe-crokmou-blog-cuisine-voyage-belgique-1.jpg)![Tiramisu classique - Mascarpone, café et marsala](http://www.crokmou.com/wp-content/uploads/2017/02/recette-tiramisu-mascarpone-cafe-crokmou-blog-cuisine-voyage-belgique-3.jpg)
+**Le Tiramisu**, je crois bien que c’est **mon dessert préféré** ! J’avais déjà écrit cette petite recette en 2011, mais je pense qu’il était temps de mettre à jour les illustrations. Voici donc la formule « magique » de ma maman, _un subtil mélange entre le café, le marsala et la crème_. Sur Internet on trouve des tas de recettes de tiramisu, mais celle là fonctionne tellement bien que je n’ai jamais pris le temps d’en tester une autre. Pourquoi changer les bonnes habitudes n’est-ce pas ? Même si je n’ai pas changé de recette, j’ai tout de même _procédé à plusieurs tests dans la manière de faire_ : fouetter les jaunes et le sucre à la main puis incorporer la mascarpone / fouetter les jaunes et le sucre au batteur puis incorporer la mascarpone à la main / fouetter les jaunes et le sucre au batteur et incorporer la mascarpone à petite vitesse. La troisième option s’est révélée la meilleure d’entre toutes pour un résultat ultra gourmand. Il est vrai qu’aujourd’hui c’est la Chandeleur, j’aurais pu vous écrire une recette de crêpes, mais comme il y a déjà beaucoup d’idées par [-ici-](http://www.crokmou.com/tag/chandeleur), je me suis dit qu’un autre dessert pouvait être bien !   ![Tiramisu classique - Mascarpone, café et marsala](https://crokmou.com/images/recette-tiramisu-mascarpone-cafe-crokmou-blog-cuisine-voyage-belgique-1_sj0f5k.jpg)![Tiramisu classique - Mascarpone, café et marsala](https://crokmou.com/images/recette-tiramisu-mascarpone-cafe-crokmou-blog-cuisine-voyage-belgique-3_bciaqh.jpg)
 
 ## **Recette du Tiramisu**
 

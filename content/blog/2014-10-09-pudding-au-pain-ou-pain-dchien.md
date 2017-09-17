@@ -28,7 +28,7 @@ slug: pudding-au-pain-ou-pain-dchien
 
 Décidément en ce moment je ne fais que des recettes de mon chez moi ! Voici donc ce qui a attisé votre curiosité hier : un pain d’chien ou pudding au pain. Bon d’accord le nom ne donne pas forcément envie mais c’est comme ça qu’on l’appelle dans le Nord. Cette drôle de chose n’est en réalité rien de plus qu’un pudding au pain, très facile à faire, il était réalisé afin de ne pas jeter le pain rassis. Comme d’hab dans presque toutes les pâtisseries/viennoiseries du Nord, la recette originale comporte des raisins secs macérés dans du rhum, mais comme je suis difficile et bornée j’ai fait autrement =D C’est très moelleux, avec une texture assez humide, surprenant au premier abord mais ce n’est ni plus ni moins que l’alliance d’un flan/cake ! Un peu de pain tout sec en trop dans la cuisine ? Des pépites de chocolats ou quelques fruits secs qui trainent dans les armoires ? Hop un pain d’chien ! Je ne vous fait pas attendre plus longtemps, voici la recette
 
-##### ![pudding au pain ou pain d'chien](http://www.crokmou.com/wp-content/uploads/2015/03/pain-d-chien-pudding-pain-recette-crokmou-blog-culinaire-2.jpg)
+##### ![pudding au pain ou pain d'chien](https://crokmou.com/images/pain-d-chien-pudding-pain-recette-crokmou-blog-culinaire-2_smcitv.jpg)
 
 ##### Recette
 

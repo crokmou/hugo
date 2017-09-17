@@ -42,4 +42,4 @@ Oui oui oui, je vous parle encore de pancakes mais cette fois de pancakes pralin
 * 5\. Chauffer une poêle (à crêpes c’est mieux) à feu vif.
 * 6\. Prendre une louche de pâte  et faites ainsi vos pancakes
 * 7\. Dès que les premières bulles surviennent, retourner le pancakes et cuire l’autre face une minute ou deux.
-* 8\. Déguster !   ![Recette de pancakes pralinés vegan](http://www.crokmou.com/wp-content/uploads/2017/04/pancakes-vegan-vg-crokmou-blog-cuisine-voyage-1-1.jpg "Recette de pancakes pralinés vegan")
+* 8\. Déguster !   ![Recette de pancakes pralinés vegan](https://crokmou.com/images/pancakes-vegan-vg-crokmou-blog-cuisine-voyage-1-1_uuzptg.jpg "Recette de pancakes pralinés vegan")

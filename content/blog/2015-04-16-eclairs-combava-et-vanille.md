@@ -57,7 +57,7 @@ Coucou mes amandes en sucre ! Z’allez biiiiien ? De mon côté c’est les wac
 * 3\. Verser un peu de lait bouilli dans le mélange sucre/maïzena/œuf. Mélanger et reverser dans le reste de lait encore sur le feu.
 * 4\. Lorsque le mélange commence à faire des bulles, continuer de mélanger et stériliser l’appareil encore 2 minutes
 * 5\. Hors du feu, ajouter le beurre, mélanger et verser la crème pâtissière sur une plaque préalablement recouverte de papier film
-* 6\. Filmer la crème pâtissière au contact et faire refroidir rapidement   ![éclairs combava et vanille](http://www.crokmou.com/wp-content/uploads/2015/04/--clairs-combava-vanille-recette-crokmou-blog-culinaire-2.jpg)![éclairs combava et vanille](http://www.crokmou.com/wp-content/uploads/2015/04/--clairs-combava-vanille-recette-crokmou-blog-culinaire-1.jpg)  
+* 6\. Filmer la crème pâtissière au contact et faire refroidir rapidement   ![éclairs combava et vanille](https://crokmou.com/images/--clairs-combava-vanille-recette-crokmou-blog-culinaire-2_bxyaqt.jpg)![éclairs combava et vanille](https://crokmou.com/images/--clairs-combava-vanille-recette-crokmou-blog-culinaire-1_lwswfi.jpg)  
 * 1\. **Dressage des éclairs :** coupez vos éclairs en deux et fourrez les de crème pâtissière.
 * 2\. Recouvrir de fondant pâtissier ou autre selon vos goûts (massepain, chocolat…)
 * 3\. Laissez au frais le temps de déguster   Un petit croq’ dans ces éclairs combava et vanille cela vous tente non ?

@@ -38,7 +38,7 @@ La semaine dernière, on m’a proposé de réaliser un projet avec des fortune 
 * 6\. Une fois les ronds sortis du four cela va très vite : prendre un rond de pâte (dans tes mains ou à l’aide d’une moufle) y mettre le petit papier, refermer en deux puis plier sur le coin d’un verre ou d’un bol (voir 1ère photo ci-dessous) placer ensuite le fortune cookies dans un moule à cupcakes (ou autre) afin qu’il refroidisse en gardant sa forme.
 * 7\. Continuer jusqu’à ce qu’il n’y ai plus de pâte
 
-![fortune-cookies-halloween-crokmou-blog-culinaire](http://www.crokmou.com/wp-content/uploads/2015/10/fortune-cookies-halloween-crokmou-blog-culinaire.jpg) ![fortune-cookies-halloween-crokmou-blog-culinaire (2)](http://www.crokmou.com/wp-content/uploads/2015/10/fortune-cookies-halloween-crokmou-blog-culinaire-2.jpg)
+![fortune-cookies-halloween-crokmou-blog-culinaire](https://crokmou.com/images/fortune-cookies-halloween-crokmou-blog-culinaire_mkw2rl.jpg) ![fortune-cookies-halloween-crokmou-blog-culinaire (2)](https://crokmou.com/images/fortune-cookies-halloween-crokmou-blog-culinaire-2_hj8h6p.jpg)
 
 Ce que je trouve chouette avec ces biscuits c’est que tu peux en faire pour n’importe quelle occasion : Halloween, Noël, Nouvel An, Saint-Valentin… et j’en passe. Avec des phrases trouvées sur le net ou des petits mots bien personnels. De différentes couleurs, de différents goûts… le biscuit parfait non ?
 

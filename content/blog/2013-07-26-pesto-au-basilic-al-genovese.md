@@ -46,6 +46,6 @@ N’hésitez pas à m’envoyer vos recettes originales à base de pesto au basi
 
 Des bisous les gourmands et bon apéro 😉
 
-![Linguini au pesto au basilic, alla genovese](http://www.crokmou.com/wp-content/uploads/2013/07/linguini-pesto-genovese-blog-crokmou-cuisine.jpg)
+![Linguini au pesto au basilic, alla genovese](https://crokmou.com/images/linguini-pesto-genovese-blog-crokmou-cuisine_b08zms.jpg)
 
 [○ Facebook](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [Twitter](https://twitter.com/Crokmou) ○

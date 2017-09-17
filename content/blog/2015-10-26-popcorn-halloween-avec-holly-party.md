@@ -43,7 +43,7 @@ Alexia, créatrice de la boutique, m’a envoyé quelques [accessoires pour Hall
 * 3\. Pour le caramel : verser du sucre dans une casserole et faire fondre à sec (c’est à dire avec du sucre uniquement). Une fois que le caramel est bien coloré (marron un peu foncé mais pas trop non plus sinon c’est amer), déglacer avec un peu de crème fraiche et de beurre chaud (personnellement je le fais à l’œil, je n’ai donc aucun dosage à vous communiquer mais pour 100g de sucre j’ai du mettre 2 càs de crème fraiche et 15g de beurre quelque chose comme ça)
 * 4\. Bien mélanger et verser encore chaud sur les popcorn
 * 5\. Mélanger à l’aide d’une spatule en bois pour que tous les popcorns soient caramélisés.
-* 6\. Pour le sésame noir : dans une casserole, verser un peu de sucre et faire caraméliser à sec. Faire chauffer un peu de crème et un peu de pâte de sésame noir. Verser sur le caramel coloré et procéder comme pour le caramel ci-dessus. _Astuce_ : pour récupérer vos casseroles avec le caramel, il suffit de faire bouillir de l’eau dedans et le caramel va se dissoudre de lui même.   ![décoration halloween Holly Party](http://www.crokmou.com/wp-content/uploads/2015/10/halloween-holly-party-decoration.jpg)![décoration halloween Holly Party](http://www.crokmou.com/wp-content/uploads/2015/10/halloween-holly-party-decoration-1.jpg)
+* 6\. Pour le sésame noir : dans une casserole, verser un peu de sucre et faire caraméliser à sec. Faire chauffer un peu de crème et un peu de pâte de sésame noir. Verser sur le caramel coloré et procéder comme pour le caramel ci-dessus. _Astuce_ : pour récupérer vos casseroles avec le caramel, il suffit de faire bouillir de l’eau dedans et le caramel va se dissoudre de lui même.   ![décoration halloween Holly Party](https://crokmou.com/images/halloween-holly-party-decoration_rrkhwt.jpg)![décoration halloween Holly Party](https://crokmou.com/images/halloween-holly-party-decoration-1_s18ffn.jpg)
 
 ## _Concours Holly Party_
 
@@ -56,4 +56,4 @@ Et parce qu’Alexia et moi-même souhaitions vous aussi vous faire découvrir l
 Vous avez jusqu’à **Dimanche 1 Novembre 2015, 00h**, pour participer !
 Bonne chance mes citrouilles !
 
-![](https://media2.giphy.com/media/iqJ5CJ759gLLO/200.gif)
+![](https://crokmou.com/images/giphy_wvgfjl.gif)

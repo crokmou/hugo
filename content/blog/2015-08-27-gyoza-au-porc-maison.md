@@ -33,7 +33,7 @@ J’adore la nourriture asiatique, souvent je commande par flemme de cuisiner, m
 ## ** Recette des gyoza au porc maison**
 
 * 1\. Hacher finement le chou chinois préalablement lavé et débarrassé de sa nervure centrale. Ajouter ensuite le porc, la gousse d’ail finement ciselée et le gingembre râpé. Bien mélanger à la main. Ajouter ensuite l’huile et la sauce, mélanger à nouveau.
-* 2\. Prendre un rond de pâte à gyoza dans le creux de votre main, mettre un peu de farce à l’intérieur, humecter légèrement les bords de la pâte.![gyoza au porc maison](http://www.crokmou.com/wp-content/uploads/2015/08/gyoza-au-porc-maison-crokmou-blog.jpg)
+* 2\. Prendre un rond de pâte à gyoza dans le creux de votre main, mettre un peu de farce à l’intérieur, humecter légèrement les bords de la pâte.![gyoza au porc maison](https://crokmou.com/images/gyoza-au-porc-maison-crokmou-blog_vghgkc.jpg)
 * 3\. Plier la raviole en deux et plisser la pâte en partant des bords (il faut plisser uniquement une face de la pâte, la face du dessous reste lisse), bien fermer le gyoza.
 * 4\. Recommencer l’opération jusqu’à ce que vous n’ayez plus de pâte à raviole
 * 5\. A partir de là vous pouvez soit congeler vos ravioles pour une prochaine fois soit les cuire comme ceci :

@@ -37,7 +37,7 @@ Saint Nicolas arrive très vite et la célèbre coquille également ! Cette peti
 
 #nonjesuispasimmondec’estpasvrai) Si toi aussi tu aimerais offrir ce cougnou alors voici la recette, je l’ai trouvé sur la blog La popote de Manue et je dois dire qu’elle est vraiment parfaite ! Le moelleux, le goût léger du lait, du beurre… une tuerie !
 
-[![coquille de la saint-nicolas](http://www.crokmou.com/wp-content/uploads/2015/03/cougnou-couque-saint-nicolas-recette-blog-crokmou-1.jpg)](http://www.crokmou.com/wp-content/uploads/2015/03/cougnou-couque-saint-nicolas-recette-blog-crokmou-1.jpg) [![coquille de la saint-nicolas](http://www.crokmou.com/wp-content/uploads/2015/03/cougnou-couque-saint-nicolas-recette-blog-crokmou-2.jpg)](http://www.crokmou.com/wp-content/uploads/2015/03/cougnou-couque-saint-nicolas-recette-blog-crokmou-2.jpg)
+[![coquille de la saint-nicolas](https://crokmou.com/images/cougnou-couque-saint-nicolas-recette-blog-crokmou-1_h47i0b.jpg)](https://crokmou.com/images/cougnou-couque-saint-nicolas-recette-blog-crokmou-1_h47i0b.jpg) [![coquille de la saint-nicolas](https://crokmou.com/images/cougnou-couque-saint-nicolas-recette-blog-crokmou-2_agrcz8.jpg)](https://crokmou.com/images/cougnou-couque-saint-nicolas-recette-blog-crokmou-2_agrcz8.jpg)
 
  
 

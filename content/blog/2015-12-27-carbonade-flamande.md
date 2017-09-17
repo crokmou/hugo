@@ -37,7 +37,7 @@ slug: carbonade-flamande
 
 Tout d’abord, j’espère que vous passez de très bonnes fêtes de fin d’année ! De mon côté se fût assez épuisant mais néanmoins très festif 🙂 Afin de rester dans de bonnes conditions gastronomiques avant le 31, je vous propose une recette bien de chez nous, les gens du Nord : la Carbonade Flamande ! Mais qu’est ce que c’est exactement ? C’est un plat en sauce, avec un peu de bière, de pain d’épices, de moutarde, des aromates et une cuisson longue pour des saveurs au top ! Pour un repas en famille le Dimanche ou une soirée frites avec les copains, ce plat est plutôt simple à réaliser mais un peu long. N’ayant pas la recette de mon papa sous la main, j’ai donc jeté mon dévolu sur [le fameux Stoofvlees de ma copine Broccolicious](https://broccolicious.wordpress.com/2013/11/25/le-stoofvlees-national/).
 
-![recette-carbonade-flamande-crokmou-blog-culinaire](http://www.crokmou.com/wp-content/uploads/2015/12/recette-carbonade-flamande-crokmou-blog-culinaire.jpg)
+![recette-carbonade-flamande-crokmou-blog-culinaire](https://crokmou.com/images/recette-carbonade-flamande-crokmou-blog-culinaire_sgf4tb.jpg)
 
 ## **Recette de la carbonade flamande**
 
