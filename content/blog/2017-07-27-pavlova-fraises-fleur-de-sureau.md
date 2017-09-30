@@ -67,8 +67,12 @@ recette_ingredients:
       - fraises
       - zestes de citron vert
 recette:
-   - "Pour le riz au lait : Dans une casserole, faites bouillir le lait. Ajoutez ensuite le riz et la gousse de vanille préalablement fendue et les grains de vanille. Faites cuire le riz en remuant régulièrement jusqu’à qu’il soit légèrement croquant au centre, « al dente » en somme. Ajoutez le sucre, faites cuire encore 3/4 minutes, versez ensuite le tout dans un récipient et réservez au frais pendant minimum 3h. (Vous pouvez retirer la gousse de vanille et l’ajouter à la préparation de la crème pâtissière si vous le souhaitez)"
-   - "Pour la pâte levée : Dans la cuve de votre robot ou dans un saladier, versez la farine et le sucre, le sel d’un côté et la levure de l’autre. Mélangez quelques minutes en vitesse 1 (soit la 2/3 sur KA) et ajoutez petit à petit les oeufs et le mélange eau/poudre de lait. Continuez de mélanger pendant 5 minutes environ puis ajoutez le beurre pommade. Mélangez à nouveau jusqu’à ce que le beurre ai disparu. Il ne faut pas trop travailler la pâte (contrairement au pain ;)). Faites une boule et laissez la reposer sous un essuie propre pendant 30 minutes"
+  - "**H-4 minimum, pour la meringue française** : Préchauffer le four à 90°C Monter les blancs avec un peu de sucre, une fois qu’ils moussent bien ajouter la deuxième partie du sucre puis petit à petit le sucre glace. A l’aide d’une douille unie, pocher deux cercles de tailles égales sur une plaque préalablement recouverte de papier sulfurisé. Laisser sécher au four environ 1h30 voire 2h… La meringue doit se décoller facilement de la feuille de cuisson. Laisser refroidir après cuisson"
+  - "**H-4, pour la ganache à la fraise** : Hydrater a feuille de gélatine dans de l’eau froide (on peut également utiliser de l’agar-agar mais il devra être incorporer dans la préparation chaude à ébullition, contrairement à la gélatine) Faire chauffer la purée de fraise, après ébullition laisser refroidir un peu avant d’ajouter la gélatine. Bien mélanger. Verser sur le chocolat blanc et mélanger de nouveau Réserver au frais"
+  - "**H-3, pour le confit de fraise** : Mélanger le sucre et la pectine Faire chauffer la purée de fraise, ajouter le mélange pectine/sucre. Bien mélanger et porter à ébullition. Finir la cuisson avec le jus d’un demi citron vert"
+  - "**H-3 pour la chantilly fleur de sureau** : Faire chauffer la crème et une fois chaude retirer du feu. Ajouter le sachet de fleur de sureau et laisser infuser 20 minutes environ Réserver la crème au frais avant de la monter en chantilly avec le sucre et la mascarpone en dernière minute.""
+  - "**Le montage** : Sur un rond de meringue, étaler un peu de confit à la fraise Ajouter par dessus la deuxième disque de meringue A l’aide de douilles unies de différentes tailles, pocher sur la meringue :  de la chantilly, de la ganache et du confit de manière aléatoire. Couper quelques morceaux de fraises et les ajouter sur la pavlova Zester un citron vert"
+  - "Déguster de suite (ou le lendemain, c’est encore meilleur). A conserver au frigo !"
 slug: pavlova-fraises-fleur-de-sureau
 ---
 
@@ -78,12 +82,7 @@ Il y a quelques semaines je te parlais de [la box de Pâtisserie « Le Chef en 
 
 {{< recette >}}
 
-* 1\. **H-4 minimum, pour la meringue française** : Préchauffer le four à 90°C Monter les blancs avec un peu de sucre, une fois qu’ils moussent bien ajouter la deuxième partie du sucre puis petit à petit le sucre glace. A l’aide d’une douille unie, pocher deux cercles de tailles égales sur une plaque préalablement recouverte de papier sulfurisé. Laisser sécher au four environ 1h30 voire 2h… La meringue doit se décoller facilement de la feuille de cuisson. Laisser refroidir après cuisson
-* 2\. **H-4, pour la ganache à la fraise** : Hydrater a feuille de gélatine dans de l’eau froide (on peut également utiliser de l’agar-agar mais il devra être incorporer dans la préparation chaude à ébullition, contrairement à la gélatine) Faire chauffer la purée de fraise, après ébullition laisser refroidir un peu avant d’ajouter la gélatine. Bien mélanger. Verser sur le chocolat blanc et mélanger de nouveau Réserver au frais
-* 3\. **H-3, pour le confit de fraise** : Mélanger le sucre et la pectine Faire chauffer la purée de fraise, ajouter le mélange pectine/sucre. Bien mélanger et porter à ébullition. Finir la cuisson avec le jus d’un demi citron vert
-* 4\. **H-3 pour la chantilly fleur de sureau** : Faire chauffer la crème et une fois chaude retirer du feu. Ajouter le sachet de fleur de sureau et laisser infuser 20 minutes environ Réserver la crème au frais avant de la monter en chantilly avec le sucre et la mascarpone en dernière minute.
-* 5\. **Le montage** : Sur un rond de meringue, étaler un peu de confit à la fraise Ajouter par dessus la deuxième disque de meringue A l’aide de douilles unies de différentes tailles, pocher sur la meringue :  de la chantilly, de la ganache et du confit de manière aléatoire. Couper quelques morceaux de fraises et les ajouter sur la pavlova Zester un citron vert
-* 6\. Déguster de suite (ou le lendemain, c’est encore meilleur). A conserver au frigo !
+
 
 ## Concours
 
