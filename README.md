@@ -7,8 +7,7 @@ Pour démarrer le projet:
 - Ouvrir `localhost:1313` dans chrome
 
 Pour mettre à jour une modification:
-- `Stage all`
-- Ajouter un message de commit
+- Ajouter un message de commit depuis github-desktop
 - Cliquer sur `commit`
 - Pusher les fichier modifiés
 - `ctrl + c` dans le terminal pour éteindre le server
