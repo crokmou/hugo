@@ -1,8 +1,9 @@
 Pour démarrer le projet:
 - Ouvrir Atom
-- Pull les modifications
 - Ouvrir le terminal
-- $ `cd Documents/Blog/ && npm run serve`
+- Ouvrir github-desktop
+- Fetch les modifications depuis github-desktop
+- $ `cd && cd Documents/Blog/ && npm run serve`
 - Ouvrir `localhost:1313` dans chrome
 
 Pour mettre à jour une modification:
