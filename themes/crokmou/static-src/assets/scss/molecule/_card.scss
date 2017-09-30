@@ -1,8 +1,9 @@
 .card {
   @include tile-shadow();
+  background-color: #fff;
   &__thumbnail { display: block; }
   &__content {
-    padding: $global-spacing;
+    padding: $global-spacing; margin-top: 0; margin-bottom: auto;
   }
   &__tag { text-transform: uppercase; font-size: .9em; color: $gray-45; }
   &__title {
@@ -10,13 +11,13 @@
   }
   &__footer {
     position: relative;
-    padding: 10px;
+    padding: 10px; margin-top: auto;
     background-color: $brand-primary;
     a {
       display: inherit;
       margin-top: 0;
     }
-    &, a { color: $brand-primary-darker; line-height: 1; }
+    &, a { color: $brand-primary-darkest; line-height: 1; }
     &__comment {
       padding-left: 10px;
       .s-icon {

@@ -1,0 +1,63 @@
+<section class="recette flex flex-wrap"
+         itemscope
+         itemtype="http://schema.org/Recipe">
+  <header class="recette__header flex-12">
+    <div class="flex flex-wrap">
+      <div class="flex-12 flex-sm-3">
+        <picture class="picture">
+        	<img class="picture__item" src="{{.Page.Params.thumbnail}}">
+        </picture>
+        <button class="button button--with-icon button--wide">Imprimer</button>
+      </div>
+      <div class="flex-12 flex-sm-9">
+        <h2>{{.Page.Params.title}}</h2>
+        <ul>
+          {{range .Page.Params.recette_details}}
+            {{range $label, $value := .}}
+            <li>
+              <strong>{{$label}}:</strong> {{delimit $value ", "}}
+            </li>
+            {{end}}
+          {{end}}
+        </ul>
+      </div>
+    </div>
+  </header>
+  <div class="recette__duration flex-12">
+    <ul class="flex">
+      {{ range $value := .Page.Params.recette_temps }}
+        <li>
+          <strong>{{$value.label}}:</strong>
+          <meta itemprop="{{$value.schemaId}}" content="{{$value.schemaValue}}">
+          {{$value.duration}}
+        </li>
+      {{end}}
+    </ul>
+  </div>
+  <div class="recette__ingredients flex-4">
+    <h3>Ingrédients</h3>
+    {{ range $value := .Page.Params.recette_ingredients }}
+    <ul>
+      <li>
+        {{with $value.label}}<strong>{{ . | markdownify }}</strong>{{end}}
+        <ul>
+          {{range $value := $value.value}}
+            <li itemprop="recipeIngredient">{{$value | markdownify}}</li>
+          {{end}}
+        </ul>
+      </li>
+    </ul>
+    {{ end }}
+  </div>
+  <div class="recette__steps flex-8">
+    <h3>Recettes</h3>
+    <ul>
+      {{range $index, $value:= .Page.Params.recette}}
+        <li>
+         {{add $index 1}}) {{$value | markdownify}}
+        </li>
+      {{end}}
+    </ul>
+  </div>
+
+</section>

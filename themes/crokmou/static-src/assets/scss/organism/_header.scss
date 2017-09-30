@@ -1,11 +1,9 @@
 .header {
-  padding: $global-spacing;
-  border-bottom: 8px solid $brand-primary;
+  padding: $global-spacing; margin-top: 0;
+  border-bottom: 8px solid $brand-primary; background: #fff;
   &__logo {
     display: inline-block;
     max-width: rem(200); width: 100%;
-  }
-  &__ss-nav {
   }
   &__ss {
     &__search {
@@ -18,8 +16,8 @@
       a {
         display: block;
         margin: 0 5px;
-        color: $brand-primary-dark; font-size: rem(60); line-height: 0;
-        &:hover { color: $brand-primary-darker; }
+        color: $brand-primary-darker; font-size: rem(60); line-height: 0;
+        &:hover { color: $brand-primary-darkest; }
         svg { height: .6em; }
       }
     }

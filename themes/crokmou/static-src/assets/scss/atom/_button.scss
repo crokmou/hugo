@@ -1,0 +1,12 @@
+.button {
+  padding: 10px 15px;
+  box-shadow: none; border: 1px solid $brand-primary-dark; background:$brand-primary; border-radius: 5px;
+  color: $brand-primary-darkest;
+  cursor: pointer; text-align: center;
+  &:hover, &:focus {
+    background: $brand-primary-dark;
+  }
+  &--wide {
+    width: 100%;
+  }
+}

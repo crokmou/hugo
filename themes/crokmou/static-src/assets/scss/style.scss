@@ -10,8 +10,8 @@
   color: inherit;
   &:not(script) + *:not(body):not(.flex-*) { margin-top: $global-spacing; }
   &:focus {
-    outline: 1px dashed $brand-primary-darker;
-    background-color: lighten($brand-primary-darker, 50%);
+    outline: 1px dashed $brand-primary-darkest;
+    background-color: lighten($brand-primary-darkest, 50%);
   }
   + * { margin-top: $global-spacing; }
 }
@@ -20,6 +20,7 @@ img { max-width: 100%; }
 body, html { height: 100%; }
 html { font-size: 62.5%; }
 body {
+  background: $brand-primary;
   > div,
   > header {
     font-size: rem(16);
@@ -38,6 +39,7 @@ figure { margin: 0; }
 @import "utils";
 
 // Atoms
+@import "atom/button";
 @import "atom/list";
 @import "atom/input";
 @import "atom/typo";
@@ -58,6 +60,7 @@ figure { margin: 0; }
 
 // Shortcodes
 @import "shortcodes/gallery";
+@import "shortcodes/recette";
 
 // Pages
 @import "pages/page";
