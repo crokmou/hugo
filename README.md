@@ -13,6 +13,7 @@ Pour mettre à jour une modification:
 - `ctrl + c` dans le terminal pour éteindre le server
 - $ `npm run deploy`
 
+
 ## Ajouter une image
 
 S'il s'agit d'une image externe:
