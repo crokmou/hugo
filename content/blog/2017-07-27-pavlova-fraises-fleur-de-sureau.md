@@ -30,9 +30,9 @@ recette_temps:
     label: "Préparation"
     duration: "30 minutes"
   - schemaId: "performTime"
-    label: "Pose"
+    label: "Pause"
     duration: "120 minutes"
-    schemaValue: "PD2H"
+    schemaValue: "PT2H"
   - schemaId: "cookTime"
     label: "Cuisson"
     duration: "90 minutes"
@@ -40,7 +40,7 @@ recette_temps:
 recette_qty:
   - Pour 4/6 personnes
 recette_ingredients:
-  - label: "Pour la meringue francaise"
+  - label: "Pour la meringue Française"
     value:
       - 120g de blancs d'oeufs
       - 100g de sucre glace
@@ -49,7 +49,7 @@ recette_ingredients:
     value:
       - 80g de chocolat blanc
       - 150g de purée de fraises
-      - 1 feuille de gelatine (soir 2g)
+      - 1 feuille de gelatine (soit 2g)
   - label: "Pour le confit de fraise"
     value:
       - 50g de pyrée de frauses
