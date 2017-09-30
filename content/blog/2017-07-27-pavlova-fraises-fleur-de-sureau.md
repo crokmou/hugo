@@ -13,47 +13,70 @@ tags:
   - gelatine
   - oeuf
   - pâtisserie
+recette_details:
+  - Catégorie:
+    - Tarte
+  - Régime:
+    - Végétarien
+  - Difficulté:
+    - Facile
+  - Évènement:
+    - Gouter
+    - Anniversaire
+    - Petit-dejeuner
+recette_temps:
+  - schemaId: "prepTime"
+    schemaValue: "PT30M"
+    label: "Préparation"
+    duration: "30 minutes"
+  - schemaId: "performTime"
+    label: "Pose"
+    duration: "120 minutes"
+    schemaValue: "PD2H"
+  - schemaId: "cookTime"
+    label: "Cuisson"
+    duration: "90 minutes"
+    schemaValue: "PT1H30M"
 recette_qty:
   - Pour 4/6 personnes
-recette_temps:
-  - 'Préparation : 30 minutes | Attente : 120 minutes | Cuisson : 90 minutes'
-recette_ingredients: |-
-    ## Pour la meringue francaise :
-
-    * 120g de blancs d'oeufs
-    * 100g de sucre glace
-    * 100g de sucre
-
-    ## Pour la ganache fraise :
-
-    * 80g de chocolat blanc
-    * 150g de purée de fraises
-    * 1 feuille de gelatine (soir 2g)
-
-    ## Pour le confit de fraise :
-
-    * 50g de pyrée de frauses
-    * 30g de sucre
-    * le jus d'un demi citron vert
-    * 1g de pectine NH
-
-    ## Pour la chantilly fleur de sureau
-
-    * 210g de crème liquide
-    * 140g de mascarpone
-    * 20g de sucre
-    * 3g de fleur de sureau
-
-    ## Pour le montage :
-
-    * fraises
-    * zestes de citron vert
+recette_ingredients:
+  - label: "Pour la meringue francaise"
+    value:
+      - 120g de blancs d'oeufs
+      - 100g de sucre glace
+      - 100g de sucre
+  - label: "Pour la ganache fraise"
+    value:
+      - 80g de chocolat blanc
+      - 150g de purée de fraises
+      - 1 feuille de gelatine (soir 2g)
+  - label: "Pour le confit de fraise"
+    value:
+      - 50g de pyrée de frauses
+      - 30g de sucre
+      - le jus d'un demi citron vert
+      - 1g de pectine NH
+  - label: "Pour la chantilly fleur de sureau"
+    value:
+      - 210g de crème liquide
+      - 140g de mascarpone
+      - 20g de sucre
+      - 3g de fleur de sureau
+  - label: "Pour le montage"
+    value:
+      - fraises
+      - zestes de citron vert
+recette:
+   - "Pour le riz au lait : Dans une casserole, faites bouillir le lait. Ajoutez ensuite le riz et la gousse de vanille préalablement fendue et les grains de vanille. Faites cuire le riz en remuant régulièrement jusqu’à qu’il soit légèrement croquant au centre, « al dente » en somme. Ajoutez le sucre, faites cuire encore 3/4 minutes, versez ensuite le tout dans un récipient et réservez au frais pendant minimum 3h. (Vous pouvez retirer la gousse de vanille et l’ajouter à la préparation de la crème pâtissière si vous le souhaitez)"
+   - "Pour la pâte levée : Dans la cuve de votre robot ou dans un saladier, versez la farine et le sucre, le sel d’un côté et la levure de l’autre. Mélangez quelques minutes en vitesse 1 (soit la 2/3 sur KA) et ajoutez petit à petit les oeufs et le mélange eau/poudre de lait. Continuez de mélanger pendant 5 minutes environ puis ajoutez le beurre pommade. Mélangez à nouveau jusqu’à ce que le beurre ai disparu. Il ne faut pas trop travailler la pâte (contrairement au pain ;)). Faites une boule et laissez la reposer sous un essuie propre pendant 30 minutes"
 slug: pavlova-fraises-fleur-de-sureau
 ---
 
 Il y a quelques semaines je te parlais de [la box de Pâtisserie « Le Chef en box »](http://www.crokmou.com/2017/07/chef-en-box-patisserie-facile) !  J’avais eu l’occasion de réaliser une _pavlova fraises et fleurs de sureau_. Une première pour moi puisque jusqu’ici je m’étais contenté de faire des meringues basiques. Dans mon article je t’ai présenté la box de long en large mais je ne t’ai pas donné **la recette** de cette fameuse pavlova. Craquante, crémeuse et savoureuse, je vais te dicter la marche à suivre pour un dessert à tomber ! Et parce que Le Chef en box et moi même souhaitions que tu puisses **toi aussi tester la box**. Un petit **concours** se trouve en bas de la page pour avoir l’occasion d’en gagner non pas une mais deux box ! Top non ? Pour un revenir à cette pavlova, la **fleur de sureau** est finalement peu présente mais suffisamment pour donner un petit goût sympa à la fraise. Pour la purée de fraises, n’hésite pas à utiliser de la purée de fraise congelée si tu as. C’est pratique et cela permet de gâcher un peu moins de fruits frais, puisqu’ici, il est préférable de passer les fraises au chinois pour ne pas avoir de grains. La purée de fruit congelée est parfois même meilleure selon la marque, pour ma part c’est [Ponthier](http://www.ponthier.net/fr/) ou [Boiron](https://www.my-vb.com/fr/). La première étant plus accessible aux particuliers. Ce n’était pas mentionné dans la recette mais j’ai zesté un peu de citron vert sur la pavlova une fois terminée ! Ca ajoute une petite note acidulée assez agréable avec le tout. J’en ai terminé de te faire saliver, je passe à la recette :
 
 ## **Recette de la pavlova fraises et fleur de sureau**
+
+{{< recette >}}
 
 * 1\. **H-4 minimum, pour la meringue française** : Préchauffer le four à 90°C Monter les blancs avec un peu de sucre, une fois qu’ils moussent bien ajouter la deuxième partie du sucre puis petit à petit le sucre glace. A l’aide d’une douille unie, pocher deux cercles de tailles égales sur une plaque préalablement recouverte de papier sulfurisé. Laisser sécher au four environ 1h30 voire 2h… La meringue doit se décoller facilement de la feuille de cuisson. Laisser refroidir après cuisson
 * 2\. **H-4, pour la ganache à la fraise** : Hydrater a feuille de gélatine dans de l’eau froide (on peut également utiliser de l’agar-agar mais il devra être incorporer dans la préparation chaude à ébullition, contrairement à la gélatine) Faire chauffer la purée de fraise, après ébullition laisser refroidir un peu avant d’ajouter la gélatine. Bien mélanger. Verser sur le chocolat blanc et mélanger de nouveau Réserver au frais
