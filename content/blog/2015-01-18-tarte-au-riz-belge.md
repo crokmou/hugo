@@ -21,7 +21,7 @@ recette_details:
   - Difficulté:
     - Facile
   - Évènement:
-    - Gouter
+    - Goûter
     - Anniversaire
     - Petit-dejeuner
 recette_qty:

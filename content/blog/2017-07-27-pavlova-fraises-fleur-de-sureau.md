@@ -21,9 +21,9 @@ recette_details:
   - Difficulté:
     - Facile
   - Évènement:
-    - Gouter
+    - Goûter
     - Anniversaire
-    - Petit-dejeuner
+    - Fêtes de fin d'année
 recette_temps:
   - schemaId: "prepTime"
     schemaValue: "PT30M"
@@ -70,7 +70,7 @@ recette:
   - "**H-4 minimum, pour la meringue française** : Préchauffer le four à 90°C Monter les blancs avec un peu de sucre, une fois qu’ils moussent bien ajouter la deuxième partie du sucre puis petit à petit le sucre glace. A l’aide d’une douille unie, pocher deux cercles de tailles égales sur une plaque préalablement recouverte de papier sulfurisé. Laisser sécher au four environ 1h30 voire 2h… La meringue doit se décoller facilement de la feuille de cuisson. Laisser refroidir après cuisson"
   - "**H-4, pour la ganache à la fraise** : Hydrater a feuille de gélatine dans de l’eau froide (on peut également utiliser de l’agar-agar mais il devra être incorporer dans la préparation chaude à ébullition, contrairement à la gélatine) Faire chauffer la purée de fraise, après ébullition laisser refroidir un peu avant d’ajouter la gélatine. Bien mélanger. Verser sur le chocolat blanc et mélanger de nouveau Réserver au frais"
   - "**H-3, pour le confit de fraise** : Mélanger le sucre et la pectine Faire chauffer la purée de fraise, ajouter le mélange pectine/sucre. Bien mélanger et porter à ébullition. Finir la cuisson avec le jus d’un demi citron vert"
-  - "**H-3 pour la chantilly fleur de sureau** : Faire chauffer la crème et une fois chaude retirer du feu. Ajouter le sachet de fleur de sureau et laisser infuser 20 minutes environ Réserver la crème au frais avant de la monter en chantilly avec le sucre et la mascarpone en dernière minute.""
+  - "**H-3 pour la chantilly fleur de sureau** : Faire chauffer la crème et une fois chaude retirer du feu. Ajouter le sachet de fleur de sureau et laisser infuser 20 minutes environ Réserver la crème au frais avant de la monter en chantilly avec le sucre et la mascarpone en dernière minute."
   - "**Le montage** : Sur un rond de meringue, étaler un peu de confit à la fraise Ajouter par dessus la deuxième disque de meringue A l’aide de douilles unies de différentes tailles, pocher sur la meringue :  de la chantilly, de la ganache et du confit de manière aléatoire. Couper quelques morceaux de fraises et les ajouter sur la pavlova Zester un citron vert"
   - "Déguster de suite (ou le lendemain, c’est encore meilleur). A conserver au frigo !"
 slug: pavlova-fraises-fleur-de-sureau
