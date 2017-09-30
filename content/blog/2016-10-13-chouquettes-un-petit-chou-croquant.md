@@ -13,11 +13,11 @@ tags:
   - pâte à choux
   - pâtisserie
   - petit dejeuner
-ingredient_qty:
+recette_qty:
   - Pour une quizaine de chouquettes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 15 minutes | Cuisson : 25 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 75g de lait d'amande
   * 75g d'eau
   * 2g de sel

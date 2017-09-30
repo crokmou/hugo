@@ -15,11 +15,11 @@ tags:
   - végétal
   - vegetalien
   - vegetarien
-ingredient_qty:
+recette_qty:
   - "Pour 4 verrines de mousse au chocolat à l'aquafaba"
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes | Attente : 3h'
-ingredient_textarea: |
+recette_ingredients: |
   * 160g d'aquafaba
   * 200g de chocolat fluide ou a dessert (sans lait, faites attention aux étiquettes)
   * vinaigre blanc

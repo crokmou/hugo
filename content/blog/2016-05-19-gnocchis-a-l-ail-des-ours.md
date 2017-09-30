@@ -17,11 +17,11 @@ tags:
   - fromage
   - gnocchi
   - lait
-ingredient_qty:
+recette_qty:
   - Pour 4 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 30 minutes | Cuisson : 60 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 400 g de purée de pomme de terre
   * 200 g d'ail des ours
   * 1 oeuf

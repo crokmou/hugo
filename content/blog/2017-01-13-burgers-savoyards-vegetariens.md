@@ -16,11 +16,11 @@ tags:
   - reblochon
   - roquette
   - salade
-ingredient_qty:
+recette_qty:
   - Pour 4 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 40 minutes | Pause : 2h40 | Cuisson : 30 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   ## Pour les buns
 
   * 300g de farine type 45

@@ -14,11 +14,11 @@ tags:
   - pate feuilletée inversée
   - tomate
   - tomate séchée
-ingredient_qty:
+recette_qty:
   - Pour une vingtaine de feuilletés
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes | Cuisson : 15 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 250g de [pâte feuilletée](http://www.crokmou.com/2014/12/pate-feuilletee-inversee-de-pierre-herme)
   * 80g de [tapenade de tomates séchées](http://www.undejeunerdesoleil.com/2016/04/pesto-rouge-tomates-sechees.html?m=1)
   * parmesan (de [chez Catherine](http://www.crokmou.com/2017/03/catherine-fromagerie-a-bruxelles) pour moi)

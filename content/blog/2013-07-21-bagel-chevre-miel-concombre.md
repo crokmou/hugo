@@ -19,11 +19,11 @@ tags:
   - pique nique végé
   - plat
   - sandwich
-ingredient_qty:
+recette_qty:
   - Pour 6 bagels
-ingredient_temps:
+recette_temps:
   - 'Préparation : 30 minutes | Attente : 1h45 | Cuisson : 20 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   ## Pour les bagels :
 
   * 250g de farine

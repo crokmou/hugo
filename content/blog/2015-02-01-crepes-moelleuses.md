@@ -12,11 +12,11 @@ tags:
   - lait
   - oeuf
   - pate a crepe
-ingredient_qty:
+recette_qty:
   - Pour une quinzaine de moyenne crêpes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes  | Attente : 30 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 200g de farine à pâtisserie
   * 50g de fécule de maïs
   * 500ml de lait

@@ -11,11 +11,11 @@ tags:
   - gateau
   - pain
   - pudding
-ingredient_qty:
+recette_qty:
   - Pour 6/8 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes  | Attente : 50 minutes  | Cuisson : 60 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 300g de pain rassis
   * 650ml de lait
   * 2 oeufs

@@ -18,9 +18,9 @@ tags:
   - soya
   - vanilla
   - vanille
-ingredient_qty:
+recette_qty:
   - Pour 4 panna cotta vegan
-ingredient_textarea: |
+recette_ingredients: |
   ## Pour la panna cotta :
 
   * 250ml de crème de soja

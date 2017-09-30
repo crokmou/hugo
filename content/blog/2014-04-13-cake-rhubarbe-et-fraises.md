@@ -16,11 +16,11 @@ tags:
   - printemps
   - rhubarbe
   - saison
-ingredient_qty:
+recette_qty:
   - Pour 1 moule à cake
-ingredient_temps:
+recette_temps:
   - 'Préparation : 20 min | Attente : 24h | Cuisson 1h-1h20 min'
-ingredient_textarea: |
+recette_ingredients: |
   ## Pâte :
 
   * 300g de farine

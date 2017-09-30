@@ -14,11 +14,11 @@ tags:
   - pistache
   - pistachio
   - vanilla
-ingredient_qty:
+recette_qty:
   - Pour 6/8 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes Cuisson : 50 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 4 oeufs entiers
   * 150 g de sucre
   * 120 g de crème liquide entière

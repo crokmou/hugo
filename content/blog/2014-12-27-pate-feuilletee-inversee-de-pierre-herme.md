@@ -10,11 +10,11 @@ tags:
   - pâte feuilletée
   - pate feuilletée inversée
   - pâtisserie
-ingredient_qty:
+recette_qty:
   - Pour 1kg de pâte
-ingredient_temps:
+recette_temps:
   - 'Préparation : 20 minutes | Pose : 3h30'
-ingredient_textarea: |
+recette_ingredients: |
   ## Pour la 1ère détrempe ou beurre manié :
 
   * 375g de (bon) beurre à 82% de M.G

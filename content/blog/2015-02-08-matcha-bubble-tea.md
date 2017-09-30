@@ -14,11 +14,11 @@ tags:
   - thé
   - thé aux perles
   - thé vert
-ingredient_qty:
+recette_qty:
   - Pour 2 verres
-ingredient_temps:
+recette_temps:
   - 'Préparation : 5 minutes  | Cuisson : 30 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 30g de perles de tapioca (vous pouvez aussi tenter l'expérience avec des perles du Japon)
   * 200ml de thé vert infusé (soit 200ml d'eau avec 1càc de thé vert)
   * 200ml de lait

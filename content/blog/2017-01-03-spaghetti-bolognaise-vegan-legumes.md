@@ -20,11 +20,11 @@ tags:
   - spaghetti
   - spiraliseur
   - thym
-ingredient_qty:
+recette_qty:
   - Pour 4 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes | Cuisson : 15 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 100g de champignons de Paris
   * 1 oignon
   * 2 gousses d'ail noir

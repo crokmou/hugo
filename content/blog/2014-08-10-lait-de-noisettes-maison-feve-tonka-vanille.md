@@ -11,11 +11,11 @@ tags:
   - lait
   - lait noisette
   - lait vegetal
-ingredient_qty:
+recette_qty:
   - Pour 1 litre de lait de noisettes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes | Attente : 12 heures | Cuisson : 10 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 1L d'eau froide
   * 100 g de noisettes
   * 50g de sucre

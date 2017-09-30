@@ -17,11 +17,11 @@ tags:
   - oeuf
   - passion
   - pâtisserie
-ingredient_qty:
+recette_qty:
   - Pour un cercle de 24cm de diamètre et de 4,5cm de hauteur
-ingredient_temps:
+recette_temps:
   - 'Préparation : 2 heures | Attente : 24 heures | Cuisson : 40 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   ## Pour la dacquoise :
 
   * 105g de blancs d'oeufs

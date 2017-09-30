@@ -17,9 +17,9 @@ tags:
   - sesame
   - sesame noir
   - thé vert
-ingredient_qty:
+recette_qty:
   - Pour 700g de glace
-ingredient_textarea: |
+recette_ingredients: |
   * 300ml de lait entier
   * 150ml de crème fraîche liquide 30% m.g
   * 60g de sucre

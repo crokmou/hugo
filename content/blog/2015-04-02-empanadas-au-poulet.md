@@ -11,11 +11,11 @@ tags:
   - empanadas
   - oeuf
   - poulet
-ingredient_qty:
+recette_qty:
   - Pour 4/6 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 20 minutes | Cuisson : 15/20minutes'
-ingredient_textarea: |
+recette_ingredients: |
   ## Pâte :
 
   * 380g de farine

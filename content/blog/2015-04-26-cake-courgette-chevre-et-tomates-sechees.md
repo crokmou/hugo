@@ -11,11 +11,11 @@ tags:
   - chevre
   - courgette
   - legume
-ingredient_qty:
+recette_qty:
   - Pour 6/8 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 15 minutes | Cuisson : 75 minutes'
-ingredient_textarea: |
+recette_ingredients: |
  - 150g de farine - 3g de sel - 1/2 sachet de levure chimique -3 oeufs - 100g de lait - 100g d'huile d'olive - 2 petites courgettes - 150g de chèvre frais - 100g de tomates séchées
 disqusId: 3714347678
 slug: cake-courgette-chevre-et-tomates-sechees

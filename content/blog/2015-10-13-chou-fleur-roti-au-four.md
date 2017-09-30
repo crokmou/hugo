@@ -15,11 +15,11 @@ tags:
   - legume
   - maroilles
   - oignon
-ingredient_qty:
+recette_qty:
   - Pour 4 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes | Cuisson : 90 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * chou fleur
   * beurre
   * ail

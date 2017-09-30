@@ -16,11 +16,11 @@ tags:
   - oeuf
   - pâte levée feuilletée
   - sucre
-ingredient_qty:
+recette_qty:
   - Pour 8 moulins environ
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes | Cuisson :17 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 400g environ de pâte levée feuilletée
 
   ## Pour la crème pâtissière :

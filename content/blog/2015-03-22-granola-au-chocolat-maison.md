@@ -17,9 +17,9 @@ tags:
   - maïs
   - mure
   - noix de cajou
-ingredient_qty:
+recette_qty:
   - Pour 600g de granola au chocolat maison
-ingredient_textarea: |
+recette_ingredients: |
   * 200g de gros flocons d'avoine
   * 100g de pétales de maïs
   * 40g de sucre

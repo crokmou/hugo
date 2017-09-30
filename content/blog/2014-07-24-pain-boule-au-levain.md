@@ -11,11 +11,11 @@ tags:
   - levain
   - pain
   - pain boule
-ingredient_qty:
+recette_qty:
   - Pour 1 boule de 920g environ
-ingredient_temps:
+recette_temps:
   - 'Pétrissage : 10 min | Pointage : 1h30 | Seconde pousse : 2h | Cuisson : 40 à 45 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 500g de farine de blé T65
   * 350g d'eau à tiède
   * 100g de [levain liquide](http://www.crokmou.com/levain-fait-maison/ Levain fait maison)

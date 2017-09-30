@@ -21,11 +21,11 @@ tags:
   - sucre de coco
   - vegan
   - végétal
-ingredient_qty:
+recette_qty:
   - Pour une quinzaine de crêpes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 15 minutes | Attente : de 1 à 24h | Cuisson : 3 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 200 g de farine de blé T65
   * 50 g de fécule de maïs
   * 1 CàS (60 g) bombée de purée d'amande (ou de cajou, de noisette...)

@@ -19,9 +19,9 @@ tags:
   - sucre glace
   - tarte
   - tartelette
-ingredient_qty:
+recette_qty:
   - Pour 2 personnes
-ingredient_textarea: |
+recette_ingredients: |
   ## Pour les biscuits sablés :
 
   * 35 gr de beurre doux

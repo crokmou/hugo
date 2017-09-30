@@ -10,9 +10,9 @@ tags:
   - fraise
   - glace
   - popsicle
-ingredient_temps:
+recette_temps:
   - 'Préparation : 5 minutes | Congélation : min 3h'
-ingredient_textarea: |
+recette_ingredients: |
   * yaourt à la grecque
   * fraises mûres
   * quelques feuilles de basilic

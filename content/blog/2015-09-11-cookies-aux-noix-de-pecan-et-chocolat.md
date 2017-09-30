@@ -12,11 +12,11 @@ tags:
   - cookies
   - gouter
   - noix de pécan
-ingredient_qty:
+recette_qty:
   - Pour 25 cookies environ
-ingredient_temps:
+recette_temps:
   - 'Préparation : 20 minutes  | Cuisson : 12/15 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 260g de farine
   * 1/2 càc de bicarbonate de soude
   * 1/2 càc de levure chimique

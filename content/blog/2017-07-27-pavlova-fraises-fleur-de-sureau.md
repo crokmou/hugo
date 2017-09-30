@@ -13,11 +13,11 @@ tags:
   - gelatine
   - oeuf
   - pâtisserie
-ingredient_qty:
+recette_qty:
   - Pour 4/6 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 30 minutes | Attente : 120 minutes | Cuisson : 90 minutes'
-ingredient_textarea: |-
+recette_ingredients: |-
     ## Pour la meringue francaise :
 
     * 120g de blancs d'oeufs

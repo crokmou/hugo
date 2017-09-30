@@ -17,11 +17,11 @@ tags:
   - potiron
   - terrine
   - thym
-ingredient_qty:
+recette_qty:
   - Pour 1 terrine
-ingredient_temps:
+recette_temps:
   - 'Préparation : 30 minutes | Cuisson : 60 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 500g de potimarron cuit
   * 400g de carottes cuites
   * 4 gros oeufs

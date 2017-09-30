@@ -16,11 +16,11 @@ tags:
   - perle
   - riz gluant
   - soja
-ingredient_qty:
+recette_qty:
   - Pour 15/20 perles coco
-ingredient_temps:
+recette_temps:
   - 'Préparation : 40 minutes | Cuisson : 50 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   ## Pour la farce :
 
   * 100g de haricots mungo décortiqués

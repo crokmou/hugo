@@ -19,11 +19,11 @@ tags:
   - inde
   - indien
   - lait
-ingredient_qty:
+recette_qty:
   - Pour 4 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 5 min / Cuisson : 10 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 125g de poudre d'amandes
   * 5 gousses de cardamome
   * 50g de sucre

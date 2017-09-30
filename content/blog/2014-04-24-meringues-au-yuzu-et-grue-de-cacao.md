@@ -12,11 +12,11 @@ tags:
   - meringue
   - mignardise
   - oeuf
-ingredient_qty:
+recette_qty:
   - Pour 2025 petites meringues
-ingredient_temps:
+recette_temps:
   - 'Préparation : 20 min / Cuisson 1h30-2h'
-ingredient_textarea: |
+recette_ingredients: |
   * 2 blancs d'oeufs (vieillis c'est encore mieux : pour cela gardez vos blancs 3/4 jours dans une boite hermétique au réfrigérateur)
   * 62,5g de sucre glace
   * 62,5g de sucre en poudre

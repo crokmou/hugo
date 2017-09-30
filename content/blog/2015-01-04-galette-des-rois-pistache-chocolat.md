@@ -13,11 +13,11 @@ tags:
   - galette des rois
   - pate feuillete
   - pate feuilletée inversée
-ingredient_qty:
+recette_qty:
   - Pour 1 galette de 4 personnes (et quelques individuelles)
-ingredient_temps:
+recette_temps:
   - 'Préparation : 20 minutes | Pose : 3h30'
-ingredient_textarea: |
+recette_ingredients: |
   * 500g de pâte [feuilletée inversée](http://gbre.cepegra-labs.be/crokmou/pate-feuilletee-inversee-de-pierre-herme/ Pâte feuilletée inversée de Pierre Hermé)
 
   ## Pour la crème pâtissière :

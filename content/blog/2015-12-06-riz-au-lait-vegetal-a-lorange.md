@@ -15,11 +15,11 @@ tags:
   - orange
   - riz
   - riz au lait
-ingredient_qty:
+recette_qty:
   - Pour 4/6 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes | Cuisson : 22 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 50 g de sucre vanillé
   * 15 g de beurre
   * 100 g de riz rond à dessert

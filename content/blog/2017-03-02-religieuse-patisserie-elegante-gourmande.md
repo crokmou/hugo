@@ -24,11 +24,11 @@ tags:
   - sel
   - sucre
   - vanille
-ingredient_qty:
+recette_qty:
   - Pour une douzaine de religieuses
-ingredient_temps:
+recette_temps:
   - 'Préparation : 50 minutes | Cuisson : 20 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   ## Pâte à choux :
 
   * 38 g de lait

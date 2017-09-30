@@ -15,9 +15,9 @@ tags:
   - fruit
   - mascarpone
   - sans cuisson
-ingredient_qty:
+recette_qty:
   - Pour 6/8 personnes
-ingredient_textarea: |
+recette_ingredients: |
   ## Pour le biscuit :
 
   * 150g de spéculoos

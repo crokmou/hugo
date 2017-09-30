@@ -17,11 +17,11 @@ tags:
   - "lait d'amande"
   - lait vegetal
   - levure chimique
-ingredient_qty:
+recette_qty:
   - Pour 1 cake
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes | Cuisson : 50 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 450g de bananes bien mûres
   * 80g de sucre cassonade
   * 230g de farine

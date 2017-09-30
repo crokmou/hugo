@@ -12,11 +12,11 @@ tags:
   - carbonnade
   - moutarde
   - "pain d'épices"
-ingredient_qty:
+recette_qty:
   - Pour 4/6 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 20 minutes | Cuisson : 180 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 1 kg de carbonade de boeuf (paleron)
   * 2 gros oignons
   * 150 gr de lard fumé

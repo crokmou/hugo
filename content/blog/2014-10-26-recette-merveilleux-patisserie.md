@@ -15,11 +15,11 @@ tags:
   - mignardise
   - oeuf
   - pâtisserie
-ingredient_qty:
+recette_qty:
   - Pour 6/8 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 30 minutes  | Cuisson : 2 heures'
-ingredient_textarea: |
+recette_ingredients: |
   ## Pour la meringue Suisse :
 
   * 90/100g de blanc d’œufs (environ 3 oeufs)

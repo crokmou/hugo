@@ -14,11 +14,11 @@ tags:
   - oignon
   - plat
   - veau
-ingredient_qty:
+recette_qty:
   - Pour 4 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 60 minutes | Cuisson : 90 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 800/1kg d'épaule, de tendron et/ou de collier de veau
   * 1 gros oignon
   * 2 carottes

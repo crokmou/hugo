@@ -16,11 +16,11 @@ tags:
   - sucre
   - the matcha
   - thé vert
-ingredient_qty:
+recette_qty:
   - Pour une cinquantaine de sapins
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes | Cuisson : 3h minimum'
-ingredient_textarea: |
+recette_ingredients: |
   * 200g de blancs d'oeufs
   * 400g de sucre
   * Thé matcha : selon votre goût

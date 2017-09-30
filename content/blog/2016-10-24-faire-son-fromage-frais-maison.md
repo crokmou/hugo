@@ -5,11 +5,11 @@ date: 2016-10-24T17:59:39+00:00
 thumbnail: https://crokmou.com/images/fromage-frais-maison-cheesemaker-crokmou-blog-culinaire-belge.jpg
 categories:
   - Lifestyle
-ingredient_qty:
+recette_qty:
   - Pour 1 fromage
-ingredient_temps:
+recette_temps:
   - 'Préparation : 5 minutes | Attente : 150 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 1L de lait de soja (ou de vache mais non UHT)
   * 25 ml de vinaigre
   * le jus d'un petit citron

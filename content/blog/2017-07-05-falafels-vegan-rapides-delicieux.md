@@ -24,11 +24,11 @@ tags:
   - vegan
   - vegetalien
   - vegetarien
-ingredient_qty:
+recette_qty:
   - Pour 2/3 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation 15 minutes | Cuisson : 10 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   ## Pour les falafels
 
   * 300g de pois chiches secs

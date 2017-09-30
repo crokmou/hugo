@@ -12,11 +12,11 @@ tags:
   - macaron
   - macaron glacé
   - vanille
-ingredient_qty:
+recette_qty:
   - Pour 4/6 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 30 minutes  | Cuisson : 12 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   ## Pour les coques de macarons :
 
   * 91g de sucre impalpable

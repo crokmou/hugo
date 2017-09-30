@@ -14,11 +14,11 @@ tags:
   - herbe aromatique
   - huile
   - huile olive
-ingredient_qty:
+recette_qty:
   - Pour 1 pot
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 100/150g de feta (selon votre pot)
   * thym
   * basilic (ou laurier ou autre)

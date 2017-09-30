@@ -14,11 +14,11 @@ tags:
   - marsala
   - mascarpone
   - oeuf
-ingredient_qty:
+recette_qty:
   - Pour 4 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 15 minutes | Attente : 60 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 200 g de biscuit cuiller
   * 10 cl de marsala
   * 3 oeufs

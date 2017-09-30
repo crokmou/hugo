@@ -12,9 +12,9 @@ tags:
   - fruit
   - pomme
   - sans sucre
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes | Cuisson : 120 + minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * pommes Janagold
   * eau
   * gousse de vanille, fève tonka ou zestes de yuzu ...

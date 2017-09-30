@@ -11,11 +11,11 @@ tags:
   - creme patissiere
   - eclair
   - pate a chou
-ingredient_qty:
+recette_qty:
   - Pour 12 éclairs
-ingredient_temps:
+recette_temps:
   - 'Préparation : 30 minutes | Cuisson : 70 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   ## Pour la pâte à choux :
 
   * 80g d'eau

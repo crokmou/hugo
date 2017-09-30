@@ -13,11 +13,11 @@ tags:
   - dessert
   - marron
   - noel
-ingredient_qty:
+recette_qty:
   - Pour 6 demi-sphères
-ingredient_temps:
+recette_temps:
   - 'Préparation : 30 minutes  | Cuisson : 20 minutes | Pose : 26h'
-ingredient_textarea: |
+recette_ingredients: |
   ## Pour la mousse légère :
 
   * 4g de gélatine

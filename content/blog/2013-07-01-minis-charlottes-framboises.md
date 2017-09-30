@@ -12,9 +12,9 @@ tags:
   - charlotte
   - dessert
   - framboise
-ingredient_qty:
+recette_qty:
   - 5 charlottes (cercles de 7,5cm de diamètre)
-ingredient_textarea: |
+recette_ingredients: |
   * 20cl de crème fraiche entière
   * 200g de coulis de framboises
   * 1g d'agar-agar

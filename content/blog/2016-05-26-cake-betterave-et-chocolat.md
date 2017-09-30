@@ -13,11 +13,11 @@ tags:
   - gouter
   - legume
   - oeuf
-ingredient_qty:
+recette_qty:
   - Pour 6/8 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 15 minutes | Cuisson : 30 minutes + 2h30 pour les betteraves'
-ingredient_textarea: |
+recette_ingredients: |
   * 300g de purée de betterave
   * 300g de chocolat noir
   * 120g de beurre

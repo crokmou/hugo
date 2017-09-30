@@ -16,11 +16,11 @@ tags:
   - romarin
   - tarte
   - tarte fruit
-ingredient_qty:
+recette_qty:
   - Pour 1 tarte de Ø22cm
-ingredient_temps:
+recette_temps:
   - 'Préparation : 30 min / Attente : 3h / Cuisson 15 min'
-ingredient_textarea: |
+recette_ingredients: |
   ## Pâte sucrée :
 
   * 200g de farine

@@ -3,11 +3,11 @@ type: post
 title: 'Brownie Vegan, une recette chocolatée & gourmande !'
 date: 2017-02-23T18:37:49+00:00
 thumbnail: https://crokmou.com/images/brownie-vegan-partenariat-generation-cooking-crokmou-blog-belge-cuisine-voyage-1.jpg
-ingredient_qty:
+recette_qty:
   - Pour 6/8 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes | Cuisson : 35 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 140g de [chocolat noir Inaya](http://generationcooking.com/chocolat-de-couvertures-de-grandes-origines/3232-chocolat-noir-65-inaya-1-kg.html)
   * 60 g de [chocolat noir Barry Bio Alto El Sol](http://generationcooking.com/chocolat-de-couvertures-de-grandes-origines/3065-chocolat-bio-alto-el-sol-65-pistoles-2-kg-barry.html)
   * 40 g de purée d'amandes

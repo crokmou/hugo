@@ -10,11 +10,11 @@ tags:
   - mignardise
   - mure
   - mure blanche
-ingredient_qty:
+recette_qty:
   - Pour 25 madeleines environ
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes  | Cuisson : 8 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 150g d'oeufs (soit 3 en principe)
   * 130g de sucre
   * 3 càc de zeste de yuzu séchés

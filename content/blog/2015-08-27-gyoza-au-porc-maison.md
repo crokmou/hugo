@@ -12,11 +12,11 @@ tags:
   - gyoza
   - japonais
   - porc
-ingredient_qty:
+recette_qty:
   - Pour 25 gyoza environ
-ingredient_temps:
+recette_temps:
   - 'Préparation : 20 minutes  | Cuisson : 10 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 1 sachet de pâte à Gyoza (se trouve généralement au rayon surgelé des épiceries asiat')
   * 200g de porc haché
   * 100g de feuilles de chou chinois

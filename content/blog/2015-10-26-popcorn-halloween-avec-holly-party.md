@@ -13,9 +13,9 @@ tags:
   - popcorn halloween
   - sesame
   - sesame noir
-ingredient_qty:
+recette_qty:
   - "Pour du pop corn d'Halloween"
-ingredient_textarea: |
+recette_ingredients: |
   * huile végétale
   * maïs à pop corn
   * pâte de sésame noir

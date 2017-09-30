@@ -15,11 +15,11 @@ tags:
   - pâtes
   - tomate
   - tomate cerise
-ingredient_qty:
+recette_qty:
   - Pour 4 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 15 minutes | Cuisson : 10 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 8 artichauts poivrade
   * 500g de pâtes d'épeautre ou de châtaigne
   * Tomates cerises séchées

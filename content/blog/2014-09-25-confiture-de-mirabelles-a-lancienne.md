@@ -11,11 +11,11 @@ tags:
   - conserve
   - fruit
   - mirabelle
-ingredient_qty:
+recette_qty:
   - Pour 1kg de fruits
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes  | Cuisson : 30 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 1kg de mirabelles bien mûres
   * 600g de sucre en poudre
   * 400g d'eau (facultatif selon la recette)

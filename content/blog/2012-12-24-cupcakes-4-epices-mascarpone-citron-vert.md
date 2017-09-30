@@ -15,9 +15,9 @@ tags:
   - mascarpone
   - mignardise
   - noel
-ingredient_qty:
+recette_qty:
   - Pour 8 (gros) cupcakes
-ingredient_textarea: |
+recette_ingredients: |
   * 130g de farine
   * 100g de sucre en poudre
   * 1 oeuf

@@ -15,11 +15,11 @@ tags:
   - moelleux
   - noel
   - sucre
-ingredient_qty:
+recette_qty:
   - Pour 4 coquilles
-ingredient_temps:
+recette_temps:
   - 'Préparation : 30 minutes | Attente : 120 minutes | Cuisson : 30 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 500g de farine T55
   * 17g de levure fraîche
   * 150g de beurre

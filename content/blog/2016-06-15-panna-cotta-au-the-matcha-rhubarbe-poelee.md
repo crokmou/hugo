@@ -13,11 +13,11 @@ tags:
   - rhubarbe
   - thé
   - the matcha
-ingredient_qty:
+recette_qty:
   - Pour 2 verrines
-ingredient_temps:
+recette_temps:
   - 'Préparation : 15 minutes | Attente : 3 heures | Cuisson : 10 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 250g de crème fraîche liquide entière
   * 1g d'agar-agar
   * 25g de sucre

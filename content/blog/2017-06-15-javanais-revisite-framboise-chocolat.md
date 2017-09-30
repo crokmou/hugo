@@ -17,11 +17,11 @@ tags:
   - oeuf
   - purée de fruit
   - sucre
-ingredient_qty:
+recette_qty:
   - Pour 1 Javanais de 8 personnes environ
-ingredient_temps:
+recette_temps:
   - 'Préparation : 60 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   ## Recette du biscuit Javanais
 
   * 250g de massepain 50/50 + 75g blancs d’œufs

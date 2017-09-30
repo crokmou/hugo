@@ -12,11 +12,11 @@ tags:
   - macaron
   - mignardise
   - oeuf
-ingredient_qty:
+recette_qty:
   - Pour une vingtaine de macarons
-ingredient_temps:
+recette_temps:
   - 'Préparation : 20 minutes | Cuisson : 17 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   ## Pour les coques :
 
   * 62g de broyage d'amande

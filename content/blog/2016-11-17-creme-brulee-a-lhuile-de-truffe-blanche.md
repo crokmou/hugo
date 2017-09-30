@@ -15,11 +15,11 @@ tags:
   - oeuf
   - sucre
   - truffe
-ingredient_qty:
+recette_qty:
   - Pour 4 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 5 minutes | Cuisson : 60 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 40ml de crème fraîche 35% de m.g
   * 100g de jaunes d'oeufs
   * 2 càc d'huile de truffe blanche

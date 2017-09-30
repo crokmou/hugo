@@ -15,11 +15,11 @@ tags:
   - purée oléagineux
   - sucre
   - vegan
-ingredient_qty:
+recette_qty:
   - Pour une quinzaine de pancakes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes | Pause : 30 minutes | Cuisson : 3 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 250g de farine
   * 50g de cassonade
   * 11g de poudre à lever

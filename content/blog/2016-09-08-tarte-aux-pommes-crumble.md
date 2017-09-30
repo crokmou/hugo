@@ -16,11 +16,11 @@ tags:
   - pomme
   - sucre
   - tarte
-ingredient_qty:
+recette_qty:
   - Pour 6 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 15 minutes | Cuisson : 20 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 1 pâte à tarte brisée (maison ou du commerce)
   * 3 pommes Golden
   * 170g de farine

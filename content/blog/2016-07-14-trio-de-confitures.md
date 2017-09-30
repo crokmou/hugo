@@ -3,9 +3,9 @@ type: post
 title: Trio de confitures
 date: 2016-07-14T14:39:35+00:00
 thumbnail: https://crokmou.com/images/trio-confiture-crokmou-blog-culinaire.jpg
-ingredient_qty:
+recette_qty:
   - Pour 2/3 pots de confitures
-ingredient_textarea: |
+recette_ingredients: |
   * Pour la confiture abricot/fleur d'oranger
   * 1000 g d'abricots dénoyautés
   * 500g de sucre en poudre

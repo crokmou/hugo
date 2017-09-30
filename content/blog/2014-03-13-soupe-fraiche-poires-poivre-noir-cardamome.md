@@ -19,9 +19,9 @@ tags:
   - poivre
   - printemps
   - soupe
-ingredient_qty:
+recette_qty:
   - Pour 2 personnes
-ingredient_textarea: |
+recette_ingredients: |
   * 2 poires conférences
   * le jus d'un demi citron vert
   * 30ml d'eau

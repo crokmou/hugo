@@ -15,11 +15,11 @@ tags:
   - jambon bellota
   - jambon iberique
   - porc
-ingredient_qty:
+recette_qty:
   - Pour 4 tartines
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * du bon pain non coupé
   * 90g de jambon Bellota tranché
   * 100g de chèvre frais

@@ -3,11 +3,11 @@ type: post
 title: Rochers coco et chocolat
 date: 2015-06-04T16:15:12+00:00
 thumbnail: https://crokmou.com/images/rochers-coco-recette-crokmou-blog-culinaire.jpg
-ingredient_qty:
+recette_qty:
   - Pour une quizaine de rochers
-ingredient_temps:
+recette_temps:
   - 'Préparation : 15 minutes | Cuisson : 8 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * le jus d'un citron
   * 100g de sucre
   * 25g de glucose

@@ -21,11 +21,11 @@ tags:
   - sel
   - sucre
   - usa
-ingredient_qty:
+recette_qty:
   - Pour une quinzaine de pancakes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes | Cuisson : 3 minutes | Pause : 60 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 210g de farine
   * 15g de sucre
   * 2g de sel

@@ -9,11 +9,11 @@ tags:
   - chandeleur
   - dessert
   - food anime
-ingredient_qty:
+recette_qty:
   - Pour 12 pancakes environ
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes | Repos : 30 minutes | Cuisson : 3 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 3 oeufs
   * 30g de beurre
   * 300ml de lait

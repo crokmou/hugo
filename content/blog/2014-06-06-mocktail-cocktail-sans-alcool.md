@@ -18,11 +18,11 @@ tags:
   - ice tea peche
   - mocktail
   - orange
-ingredient_qty:
+recette_qty:
   - Pour 15 verres environ
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 1,5l d'ice tea pêche (ou ice tea thé vert)
   * 20cl de sirop fruit de la passion
   * 2 oranges

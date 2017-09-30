@@ -11,11 +11,11 @@ tags:
   - levure
   - levure boulangère
   - pâte levée feuilletée
-ingredient_qty:
+recette_qty:
   - Pour 800g environ
-ingredient_temps:
+recette_temps:
   - 'Préparation : 15 minutes | Attente : 4h environ'
-ingredient_textarea: |
+recette_ingredients: |
   ## Pour la détrempe :
 
   * 340g de farine

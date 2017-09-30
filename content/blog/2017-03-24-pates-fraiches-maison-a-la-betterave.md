@@ -12,11 +12,11 @@ tags:
   - legume
   - oeuf
   - pate
-ingredient_qty:
+recette_qty:
   - Pour 2 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 30 minutes | Cuisson : 3 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 100g de farine T00
   * 100g de farine T65
   * 80g de purée de betterave

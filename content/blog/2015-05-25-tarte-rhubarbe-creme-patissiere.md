@@ -3,11 +3,11 @@ type: post
 title: Tarte rhubarbe et crème pâtissière
 date: 2015-05-25T17:04:44+00:00
 thumbnail: https://crokmou.com/images/tarte-bourgeoise-rhubarbe-recette-crokmou-blog-culinaire1.jpg
-ingredient_qty:
+recette_qty:
   - Pour 4/6 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 30 minutes | Repos : 2h - 24h | Cuisson : 25 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   ## Pour la pâte à tarte (Bourgeoise) :
 
   * 166g de farine

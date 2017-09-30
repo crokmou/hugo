@@ -12,11 +12,11 @@ tags:
   - lait
   - lait concentré
   - lait concentré sucré
-ingredient_qty:
+recette_qty:
   - Pour 1 gros pot de crème à tartiner
-ingredient_temps:
+recette_temps:
   - 'Préparation et Cuisson : 20 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 600g de lait concentré sucré au caramel
   * 45g de beurre
   * 0.1g de safran (1 dose)

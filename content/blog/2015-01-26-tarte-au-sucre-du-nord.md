@@ -16,11 +16,11 @@ tags:
   - nord pas de calais
   - sucre
   - tarte au sucre
-ingredient_qty:
+recette_qty:
   - Pour 6 tartelettes de 90g environ
-ingredient_temps:
+recette_temps:
   - 'Préparation : 20 minutes  |  Pose : 1h  |  Cuisson : 12 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   <div Pour la pâte à brioche :
 
   * 250g de farine

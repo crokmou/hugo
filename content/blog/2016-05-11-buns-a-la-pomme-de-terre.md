@@ -18,11 +18,11 @@ tags:
   - pomme de terre
   - puree
   - sel
-ingredient_qty:
+recette_qty:
   - Pour 4 buns
-ingredient_temps:
+recette_temps:
   - 'Préparation : 15 minutes | Attente : 120 minutes | Cuisson : 30 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 160g de purée de pomme de terre
   * 150g de farine de froment + un peu si la pâte colle trop
   * 5g de sucre

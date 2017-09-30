@@ -16,11 +16,11 @@ tags:
   - gruyere
   - laitage
   - legume
-ingredient_qty:
+recette_qty:
   - Pour 2 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 5 minutes | Cuisson : 30 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 2 moyennes/grosses (selon les estomacs) pommes de terre
   * 350g de mix : chou fleur, chou romanesco et brocoli
   * 4 càs de crème fraîche épaisse

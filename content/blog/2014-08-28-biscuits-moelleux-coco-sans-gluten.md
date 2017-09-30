@@ -13,11 +13,11 @@ tags:
   - mignardise
   - moelleux
   - noix de coco
-ingredient_qty:
+recette_qty:
   - Pour 50 biscuits environ
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes  | Cuisson : 15 minutes'
-ingredient_textarea: |
+recette_ingredients: |
  200g de farine de noix de coco 150g de farine de riz complet (ou farine de blé si vous n'en possédez pas) 100g de sucre de canne 100g d'huile de coco vierge 2g de sel 400ml d'eau chaude vanille (facultatif)
 disqusId: 3587682888
 slug: biscuits-moelleux-coco-sans-gluten

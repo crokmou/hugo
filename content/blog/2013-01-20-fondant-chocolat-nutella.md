@@ -13,11 +13,11 @@ tags:
   - fondant
   - lait
   - nutella
-ingredient_qty:
+recette_qty:
   - Pour 4 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 15 minutes | Cuisson : 7/8 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 2 oeufs
   * 100g de chocolat noir dessert
   * 2 càc de Nutella©

@@ -15,11 +15,11 @@ tags:
   - grué de cacao
   - thé vert
   - thé vert matcha
-ingredient_qty:
+recette_qty:
   - Pour 6/8 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes | Cuisson : 40 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 250ml d'huile de tournesol
   * 100ml de lait entier
   * 170g de sucre en poudre

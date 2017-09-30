@@ -14,11 +14,11 @@ tags:
   - fruit
   - pate a chou
   - pâtisserie
-ingredient_qty:
+recette_qty:
   - Pour 4/5 gros choux
-ingredient_temps:
+recette_temps:
   - 'Préparation : 60 minutes | Cuisson : 45 minutes'
-ingredient_textarea: |
+recette_ingredients: |
  **Pour le craquelin :**
 
   * 50g de cassonade blonde

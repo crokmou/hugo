@@ -13,11 +13,11 @@ tags:
   - fruit
   - grenade
   - salade
-ingredient_qty:
+recette_qty:
   - Pour 2/3 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 20 minutes  | Cuisson : 10 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 120g de blé type Ebly
   * 1/2 grenade
   * 100g de feta

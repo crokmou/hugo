@@ -11,11 +11,11 @@ tags:
   - "flocon d'avoine"
   - fruit
   - fruit rouge
-ingredient_qty:
+recette_qty:
   - Pour 6/8 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes | Cuisson : 30 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 500g de fruits rouges (ou autres fruits)
   * 40g de beurre
   * 30g de farine d'épeautre

@@ -9,11 +9,11 @@ tags:
   - plat
   - pomme de terre
   - pomme de terre hasselback
-ingredient_qty:
+recette_qty:
   - Pour 2 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 15 min /  Cuisson 1h'
-ingredient_textarea: |
+recette_ingredients: |
   * 2 grosses pommes de terre à chair ferme
   * 1 gousse d'ail
   * 30g de beurre doux ou demi-sel

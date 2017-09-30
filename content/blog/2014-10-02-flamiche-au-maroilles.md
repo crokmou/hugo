@@ -12,11 +12,11 @@ tags:
   - fromage
   - maroilles
   - muscade
-ingredient_qty:
+recette_qty:
   - Pour 2/3 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 20 minutes  | Attente : 30/40 minutes  | Cuisson : 30 minutes'
-ingredient_textarea: |
+recette_ingredients: |
  250g de farine T55 ou T65 150ml d'eau tiède 1/2 càc de sel 11g de levure sèche (6/7g pour un truc moins levé) 2 càs d'huile d'olive 200g de Maroilles 10ml de crème fraîche épaisse noix de muscade sel & poivre
 disqusId: 3587684244
 slug: flamiche-au-maroilles

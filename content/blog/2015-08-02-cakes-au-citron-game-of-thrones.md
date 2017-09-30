@@ -11,11 +11,11 @@ tags:
   - citron
   - game of thrones
   - le trône de fer
-ingredient_qty:
+recette_qty:
   - Pour 6 petits cakes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 15 minutes | Cuisson : 30 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 2 citrons (non traités c'est mieux)
   * 130g de sucre
   * 100g de beurre pommade

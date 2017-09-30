@@ -15,11 +15,11 @@ tags:
   - pretzel
   - sel
   - sucre
-ingredient_qty:
+recette_qty:
   - Pour 6/8 Bretzels ou Pretzels au levain
-ingredient_temps:
+recette_temps:
   - 'Préparation : 15 minutes | Attente : 25 H | Cuisson : 20 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   ## Pour la pâte :
 
   * 500g de farine blanche

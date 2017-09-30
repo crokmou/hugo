@@ -20,11 +20,11 @@ tags:
   - sel
   - sucre de canne
   - vanille
-ingredient_qty:
+recette_qty:
   - Pour une quizaine de cannelés bordelais
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes | Attente : 24h minimum | Cuisson : environ 60 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 400 ml de lait entier
   * 200 g de sucre de canne
   * 100 g de farine

@@ -14,9 +14,9 @@ tags:
   - riz basmati
   - saumon
   - saumon teriyaki
-ingredient_qty:
+recette_qty:
   - Pour 2 personnes
-ingredient_textarea: |
+recette_ingredients: |
   * 300g de saumon frais
   * sauce Teriyaki (déjà prête c'est parfait)
   * citronelle

@@ -9,11 +9,11 @@ tags:
   - biscuit
   - cookies
   - fortune cookies
-ingredient_qty:
+recette_qty:
   - Pour une quizaine de fortune cookies
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes  | Cuisson : 10/12 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 2 blancs d'oeufs
   * 1/2 càc d'extrait de vanille
   * 3 càc d'huile végétale

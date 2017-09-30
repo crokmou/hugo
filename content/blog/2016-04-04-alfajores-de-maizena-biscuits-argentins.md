@@ -13,11 +13,11 @@ tags:
   - confiture de lait
   - fécule de maïs
   - maizena
-ingredient_qty:
+recette_qty:
   - Pour 20/25 biscuits
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes | Attente : 60 minutes | Cuisson : 5 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 100 g de beurre
   * 100 g de sucre glace
   * 100 g de farine

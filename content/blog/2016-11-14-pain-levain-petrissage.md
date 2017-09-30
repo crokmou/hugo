@@ -14,11 +14,11 @@ tags:
   - sel
   - vegan
   - vegetalien
-ingredient_qty:
+recette_qty:
   - "Pour un pain d'environ 600g"
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes | Cuisson : 45 minutes | Attente : 3-4 jours'
-ingredient_textarea: |
+recette_ingredients: |
   * 430g de farine T45/55 (si vraiment pas le choix 65)
   * 300g d'eau à température ambiante
   * 90g de [levain liquide](http://www.crokmou.com/2014/06/levain-fait-maison)

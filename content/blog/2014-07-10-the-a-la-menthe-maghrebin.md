@@ -11,11 +11,11 @@ tags:
   - the menthe
   - the menthe maghrebin
   - thé vert
-ingredient_qty:
+recette_qty:
   - Pour 1l de thé environ
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 1,1l d'eau
   * 2 càs de thé vert
   * 1 grosse botte de menthe fraîche

@@ -16,11 +16,11 @@ tags:
   - pepite de chocolat
   - sucre
   - tout chocolat
-ingredient_qty:
+recette_qty:
   - Pour une dizaine de muffins
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10-15 min / Cuisson : 15 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 120g de farine
   * 80g de fécule de maïs
   * 80g de sucre

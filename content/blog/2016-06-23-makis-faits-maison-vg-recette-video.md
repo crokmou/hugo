@@ -14,11 +14,11 @@ tags:
   - riz
   - vegan
   - vegetalien
-ingredient_qty:
+recette_qty:
   - Pour 30 makis environ
-ingredient_temps:
+recette_temps:
   - 'Préparation : 30 minutes | Cuisson : 12 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 200g de riz à sushis
   * 280g d'eau
   * 40g de vinaigre de riz

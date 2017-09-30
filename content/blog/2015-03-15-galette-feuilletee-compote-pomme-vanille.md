@@ -11,11 +11,11 @@ tags:
   - galette
   - pâte feuilletée
   - pomme
-ingredient_qty:
+recette_qty:
   - Pour une galette
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes  | Cuisson : 50 minutes'
-ingredient_textarea: |
+recette_ingredients: |
  - 400g de [pâte feuilletée inversée](http://www.crokmou.com/pate-feuilletee-inversee-de-pierre-herme/ Pâte feuilletée inversée de Pierre Hermé) - 2/3 pommes Janagold - 1 gousse de vanille - 50g de sucre - 1 oeuf
 disqusId: 3596717053
 slug: galette-feuilletee-compote-pomme-vanille

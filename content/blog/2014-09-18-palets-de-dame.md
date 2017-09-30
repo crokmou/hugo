@@ -14,11 +14,11 @@ tags:
   - nord
   - nord pas de calais
   - palet de dame
-ingredient_qty:
+recette_qty:
   - Pour 20 palets environ
-ingredient_temps:
+recette_temps:
   - 'Préparation : 40 minutes  | Cuisson : 12 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 120g de beurre doux
   * 130g de sucre
   * 170g de farine

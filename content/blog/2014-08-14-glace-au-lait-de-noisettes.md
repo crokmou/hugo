@@ -13,11 +13,11 @@ tags:
   - lait noisette
   - lait vegetal
   - noisette
-ingredient_qty:
+recette_qty:
   - Pour 1l de glace
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes | Attente : 12 heures | Cuisson : 10 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 900ml de [lait de noisettes, fève tonka, vanille](http://www.crokmou.com/lait-de-noisettes-maison-feve-tonka-vanille/ Lait de noisettes maison, fève tonka, vanille)
   * 60g de glucose atomisé
   * 3 jaunes d'oeuf

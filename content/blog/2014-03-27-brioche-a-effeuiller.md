@@ -12,11 +12,11 @@ tags:
   - lait
   - levure
   - levure fraiche
-ingredient_qty:
+recette_qty:
   - Pour 4/6 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 30 min | Attente : 3h | Cuisson 30-40 min'
-ingredient_textarea: |
+recette_ingredients: |
   * 300g de farine
   * 120ml de lait demi-écrémé tiède
   * 10g de levure fraîche

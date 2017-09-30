@@ -14,11 +14,11 @@ tags:
   - tea time
   - vegan
   - vegetalien
-ingredient_qty:
+recette_qty:
   - Pour 8 grosses meringues
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes | Cuisson : 5 heures'
-ingredient_textarea: |
+recette_ingredients: |
   * 100g de jus de pois chiche
   * 220g de sucre impalpable
   * Zestes de citron, fleur d'oranger, vanille (facultatif)

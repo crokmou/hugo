@@ -15,9 +15,9 @@ tags:
   - levain eric kayser
   - levain liquide
   - levain liquide maison
-ingredient_qty:
+recette_qty:
   - Pour 500g de levain liquide
-ingredient_textarea: |
+recette_ingredients: |
   * farine de seigle
   * farine de blé T55 ou T65
   * eau minérale à 20° (utilisez une sonde de cuisson pour être au plus juste)

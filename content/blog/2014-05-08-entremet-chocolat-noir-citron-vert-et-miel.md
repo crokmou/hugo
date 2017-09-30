@@ -15,11 +15,11 @@ tags:
   - miel de pin
   - mousse
   - mousse miel
-ingredient_qty:
+recette_qty:
   - Pour 4 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 30 min / Attente : 2-3h / Cuisson 15 min'
-ingredient_textarea: |
+recette_ingredients: |
   ## Shortbreads au miel et citron vert :
 
   * 85g de farine

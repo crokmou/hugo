@@ -22,11 +22,11 @@ tags:
   - vegan
   - vegetalien
   - vegetarien
-ingredient_qty:
+recette_qty:
   - Pour une vingtaine de pancakes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes | Pause : 40 minutes | Cuisson : 3 minutes'
-ingredient_textarea: |
+recette_ingredients: |
  210g de farine 15g de sucre muscovado ou cassonnade 2g de sel 11g de levure chimique + 2g de bicarbonate de soude 50g de compote de pommes (ou de banane) 300g de lait d'amande à température ambiante 40g de purée d'amandes (ma préférée se trouve chez [Keimling](http://www.crokmou.com/2014/08/keimling-specialiste-du-raw-food-concours))
 disqusId: 5365641245
 slug: pancakes-vegan-moelleux

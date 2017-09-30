@@ -15,11 +15,11 @@ tags:
   - salade
   - sirop
   - vanille
-ingredient_qty:
+recette_qty:
   - Pour 4 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 15 minutes | Attente : 120 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 20 fraises Belges
   * 1/4 de melon
   * 1 pomme Pink Lady

@@ -14,11 +14,11 @@ tags:
   - mousse
   - noel
   - streusel
-ingredient_qty:
+recette_qty:
   - Pour 4/6 verrines (selon la gourmandise)
-ingredient_temps:
+recette_temps:
   - 'Préparation : 30 minutes  | Cuisson : 20 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   ## Pour la mousse légère :
 
   * 4g de gélatine

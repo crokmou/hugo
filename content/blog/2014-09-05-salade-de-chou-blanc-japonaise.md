@@ -14,11 +14,11 @@ tags:
   - salade
   - salade de chou
   - sesame
-ingredient_qty:
+recette_qty:
   - Pour 2 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes | Attente : 60 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   1.1/4 de chou blanc
   2.4 càs de vinaigre de riz
   3.1 cuillère à soupe d'eau

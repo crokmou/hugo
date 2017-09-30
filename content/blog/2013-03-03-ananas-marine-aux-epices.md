@@ -16,11 +16,11 @@ tags:
   - fruit
   - girofle
   - poivre noir
-ingredient_qty:
+recette_qty:
   - Pour 4 personnes
-ingredient_temps:
+recette_temps:
   - 'Préparation : 10 minutes | Cuisson : 30 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 1 ananas
   * 1 l d'eau
   * 60g de sucre en poudre

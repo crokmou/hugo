@@ -12,11 +12,11 @@ tags:
   - pain
   - petit pain
   - piccolo
-ingredient_qty:
+recette_qty:
   - Pour 30 petits pains environ
-ingredient_temps:
+recette_temps:
   - 'Préparation : 20 minutes | Attente : minutes | Cuisson : 10/15 minutes'
-ingredient_textarea: |
+recette_ingredients: |
   * 800g de farine T65
   * 200g de farine de seigle
   * 550ml d'eau glacée
