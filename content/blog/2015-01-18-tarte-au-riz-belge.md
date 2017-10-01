@@ -84,7 +84,6 @@ Ici je vous présente une recette avec un ajout de crème pâtissière (c’est 
     {{< img src="https://crokmou.com/images/tarte-riz-belge-recette-blog-crokmou_du10n2.jpg" alt="tarte au riz belge recette" >}}
 {{< /gallery >}}
 
-### Recette
 
 {{< recette >}}
 
