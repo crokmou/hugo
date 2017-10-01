@@ -49,7 +49,7 @@ recette_ingredients:
       - 5g de levure fraîche
       - 25g d'eau + 5g de poudre de lait
       - 35g de beurre pommade
-  - label: "Pour la crème pâtrissière"
+  - label: "Pour la crème pâtissière"
     value:
       - 230g de lait entier ou demi-écrémé
       - 30g de jaune d'oeuf (gardez le reste pour la dorure)
