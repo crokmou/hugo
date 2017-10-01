@@ -30,7 +30,7 @@
           {{ $currentPage := . }}
           {{ range .Site.Menus.main }}
           <li class="sep"></li>
-          <li class='{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}"}}'><a href="{{ .URL }}">{{ .Name }}</a></li>
+          <li class='{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}active{{end}}"'><a href="{{ .URL }}">{{ .Identifier }}</a></li>
           {{ end }}
         </ul>
       </nav>

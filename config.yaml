@@ -8,6 +8,7 @@ sectionPagesMenu: "main"
 RemovePathAccents: true
 permalinks:
   blog: /:year/:month/:slug/
+  recettes: /:year/:month/:slug/
 
 params:
   socials:
