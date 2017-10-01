@@ -21,7 +21,7 @@ recette_details:
   - Catégorie:
     - Gâteau
   - Régime:
-    - Végétarien
+    - 
   - Difficulté:
     - Moyen
   - Évènement:
@@ -65,7 +65,9 @@ recette_ingredients:
 recette:
   - "**J-1 // La ganache :** Faire chauffer dans une casserole la crème, le sucre et le glucose jusqu’à ébullition. Verser sur le chocolat et mélanger bien à l’aide d’une spatule jusqu’à ce que le tout soit bien lisse Lorsque la ganache atteint les 30°C environ, ajouter le beurre pommade et mixer (en évitant les bulles d’air) *"
   - "**Jour J (ou J-1) // Le biscuit :** Préchauffer le four à 200°C Délayer petit à petit au fouet le massepain et les 75g de blancs d’oeuf.
-  Monter quelques minutes à grande vitesse afin d’obtenir un appareil aérien. Dans un autre cul de poule, monter le reste des blancs d’oeufs avec le sucre Une fois les blancs montés, en ajouter un peu dans le mélange à base de massepain. Mélanger à l’aide d’une corne puis ajouter de nouveau un peu de blancs d’oeufs montés. Répéter l’opération jusqu’à ce que les deux appareils soient bien mélangés (mais attention à ne pas faire retomber la mousse) Ajouter ensuite la farine délicatement et mélanger. Etaler l’appareil à biscuit de manière homogène sur des plaques recouvertes de papier sulfurisé (compter environ 400g par plaque 30x40cm) Enfourner pour 6 minutes environ. Le biscuit doit être doré et ne doit plus coller au doigt. Laisser refroidir sur une grille *"
+  Monter quelques minutes à grande vitesse afin d’obtenir un appareil aérien. Dans un autre cul de poule, monter le reste des blancs d’oeufs avec le sucre Une fois les blancs montés, en ajouter un peu dans le mélange à base de massepain. Mélanger à l’aide d’une corne puis ajouter de nouveau un peu de blancs d’oeufs montés.
+
+  Répéter l’opération jusqu’à ce que les deux appareils soient bien mélangés (mais attention à ne pas faire retomber la mousse) Ajouter ensuite la farine délicatement et mélanger. Etaler l’appareil à biscuit de manière homogène sur des plaques recouvertes de papier sulfurisé (compter environ 400g par plaque 30x40cm) Enfourner pour 6 minutes environ. Le biscuit doit être doré et ne doit plus coller au doigt. Laisser refroidir sur une grille *"
   - "**La crème mousseline :** Préparer la crème pâtissière : pour cela faire chauffer à ébullition la purée de framboise et la moitié du sucre** ** Dans un cul de poule, mélanger le reste du sucre et la maïzena. Ajouter ensuite les oeufs et bien mélanger Verser un peu de lait bouillant dans le mélange précédent, mélanger et reverser le tout dans la casserole avec le reste du lait. Bien fouetter la préparation pendant 1 à 2 minutes jusqu’à ce qu’elle épaississe. Verser sur une plaque recouverte de papier film, étaler et filmer au contact. Refroidir rapidement. Lorsque la crème est aux environs de 30°C, fouetter à petite vitesse le beurre pommade avec la crème pâtissière. Lorsque l’on utilise de la purée de framboise à 100%, il est normal d’avoir cette impression d’une crème un peu grainée mais tant que celle-ci est brillante et homogène, il n’y a pas de problème ! *"
   - "**Le montage :** Couper votre biscuit de manière à obtenir 3 feuilles de même largeur et longueur (même si la troisième est en plusieurs bouts. D’ailleurs si c’est le cas, je vous conseille de placer ces parties en deuxième couche) Sur la première couche de biscuit, appliquer une très fine couche de ganache, puis une couche de mousseline framboise. Appliquer par dessus une autre couche de biscuit et répéter la même opération que précédemment avec la ganache et la mousseline. Finir par une couche de biscuit et mettre le tout au congélateur le temps que le tout prenne pour une découpe plus facile. Découper des bandes de javanais de manière à ce que la largeur soit égale à la hauteur du biscuit. Pour le javanais présenté ici, mes bandes faisaient 2cm d’épaisseur soit un gâteau d’une hauteur de 6cm. Après la découpe, coller les bandes entre elles mais en les intercalant : une droite, une tournée, une droite. Monter en étage de la même manière. Ne pas hésiter à coller les bandes entres elles avec une très fine couche de mousseline. Une fois votre javanais monté, bien lisser le dessus et les côtés avec une fine couche de ganache (très fine car on va encore couler de la ganache par dessus après). Remettre au congélateur le temps que tout soit bien figé. Chauffer la ganache de manière à ce qu’elle soit assez liquide mais non chaude. Placer le javanais sur une grille, elle même placée sur une plaque propre. Couler la ganache sur le gâteau afin que celui-ci soit recouvert. Enlever l’excédent au dessus à l’aide d’une palette. Remettre au congélateur Couper les bords avant et arrière du javanais revisité et servir !"
 slug: javanais-revisite-framboise-chocolat
@@ -75,8 +77,5 @@ Je pense que vous avez vu passer de nombreuses fois sur mes réseaux ce fameux *
 
 {{< recette >}}  
 
-<<<<<<< HEAD
-![Javanais revisité à la mousseline framboise et ganache chocolat](https://crokmou.com/images/javanais-revisite%CC%81-framboise-chocolat-crokmou-blog-cuisine-voyage-belgique-pinterest.jpg "Javanais revisité à la mousseline framboise et ganache chocolat")
-=======
+
 ![Javanais revisité à la mousseline framboise et ganache chocolat](https://crokmou.com/images/javanais-revisité-framboise-chocolat-crokmou-blog-cuisine-voyage-belgique-pinterest.jpg "Javanais revisité à la mousseline framboise et ganache chocolat")
->>>>>>> 02b6d0489ff951aab6af07a8f9fd0a67e5f3a347
