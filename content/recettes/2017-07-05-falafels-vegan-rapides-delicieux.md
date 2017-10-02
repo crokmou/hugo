@@ -35,7 +35,12 @@ recette_details:
   - Difficulté:
     - Facile
   - Évènement:
+    - Lunch
+    - Brunch
+    - Diner
     - Entre amis
+    - En famille 
+    - En couple
 recette_qty:
   - Pour 2/3 personnes
 recette_temps:

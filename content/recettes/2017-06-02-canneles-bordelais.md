@@ -26,8 +26,11 @@ recette_details:
     - Gâteau
   - Régime:
     - Végétarien
-  - Difficulté:
-    - Facile
+  - Saison:
+    - Printemps
+    - Été
+    - Automne
+    - Hiver
   - Évènement:
     - Goûter
     - Anniversaire
@@ -37,6 +40,7 @@ recette_details:
     - Entre amis
     - En famille
     - En couple
+    - Tea time
 recette_temps:
   - schemaId: "prepTime"
     schemaValue: "PT10M"

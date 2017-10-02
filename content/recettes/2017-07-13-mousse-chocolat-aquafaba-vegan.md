@@ -24,8 +24,11 @@ recette_details:
     - Sans oeufs
     - Sans lactose
     - Sans gluten
-  - Difficulté:
-    - Facile
+  - Saison:
+    - Printemps
+    - Été
+    - Automne
+    - Hiver
   - Évènement:
     - Goûter
     - Anniversaire

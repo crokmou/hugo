@@ -21,9 +21,9 @@ recette_details:
   - Catégorie:
     - Gâteau
   - Régime:
-    - 
-  - Difficulté:
-    - Moyen
+    -
+  - Saison:
+    - Été
   - Évènement:
     - Goûter
     - Anniversaire

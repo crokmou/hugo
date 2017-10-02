@@ -21,8 +21,11 @@ recette_details:
   - Régime:
     - Végétarien
     - Sans lactose
-  - Difficulté:
-    - Moyenne
+  - Saison:
+    - Printemps
+    - Été
+    - Automne
+    - Hiver
   - Évènement:
     - Lunch
     - Brunch

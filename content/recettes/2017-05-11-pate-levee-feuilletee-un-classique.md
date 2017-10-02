@@ -18,8 +18,11 @@ recette_details:
   - Régime:
     - Végétarien
     - Sans oeufs
-  - Difficulté:
-    - Moyenne
+  - Saison:
+    - Printemps 
+    - Été
+    - Automne
+    - Hiver
   - Évènement:
     - Petit-dejeuner
     - Brunch

@@ -21,8 +21,11 @@ recette_details:
     - Viennoiserie
   - Régime:
     - Végétarien
-  - Difficulté:
-    - Difficile
+  - Saison:
+    - Printemps 
+    - Été
+    - Automne
+    - Hiver
   - Évènement:
     - Goûter
     - Petit-dejeuner

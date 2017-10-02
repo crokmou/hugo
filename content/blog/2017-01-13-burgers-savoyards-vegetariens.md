@@ -16,8 +16,38 @@ tags:
   - reblochon
   - roquette
   - salade
+recette_details:
+  - Catégorie:
+    - Burgers
+    - Fast food
+  - Régime:
+    - Végétarien
+  - Saison:
+    - Printemps
+    - Été
+    - Automne
+    - Hiver
+  - Évènement:
+    - Lunch
+    - Diner
+    - Entre amis
+    - En couple
+    - En famille
 recette_qty:
   - Pour 4 personnes
+recette_temps:
+  - schemaId: "prepTime"
+    schemaValue: "PT40M"
+    label: "Préparation"
+    duration: "40 minutes"
+  - schemaId: "performTime"
+    label: "Pose"
+    duration: "24 heures"
+    schemaValue: "P1D"
+  - schemaId: "cookTime"
+    label: "Cuisson"
+    duration: "35 minutes"
+    schemaValue: "PT35M"
 recette_temps:
   - 'Préparation : 40 minutes | Pause : 2h40 | Cuisson : 30 minutes'
 recette_ingredients: |

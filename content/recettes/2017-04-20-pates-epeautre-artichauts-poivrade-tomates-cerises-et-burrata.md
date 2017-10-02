@@ -22,8 +22,9 @@ recette_details:
     - Végétarien
     - Sans gluten
     - Sans oeufs
-  - Difficulté:
-    - Facile
+  - Saison:
+    - Printemps
+    - Été
   - Évènement:
     - Lunch
     - Dîner

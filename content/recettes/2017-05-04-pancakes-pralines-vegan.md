@@ -24,8 +24,11 @@ recette_details:
     - Vegan
     - Sans oeufs
     - Sans lactose
-  - Difficulté:
-    - Facile
+  - Saison:
+    - Printemps 
+    - Été
+    - Automne
+    - Hiver
   - Évènement:
     - Goûter
     - Brunch

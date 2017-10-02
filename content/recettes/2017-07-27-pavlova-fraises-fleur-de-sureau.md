@@ -18,8 +18,8 @@ recette_details:
     - Tarte
   - Régime:
     - Végétarien
-  - Difficulté:
-    - Facile
+  - Saison:
+    - Été
   - Évènement:
     - Goûter
     - Anniversaire
