@@ -5,6 +5,29 @@ date: 2016-12-21T17:37:43+00:00
 thumbnail: https://crokmou.com/images/recette-noel-fin-annee-crokmou-blog-cuisine-voyage-belgique.jpg
 categories:
   - Plats
+  - Apéritifs
+  - Desserts
+recette_details:
+  - Catégorie:
+    - Tartes
+    - Brochettes
+    - Verrines
+    - Mignardises
+    - Dessert à l'assiette
+    - Poissons
+    - Viandes
+  - Régime:
+    -
+  - Saison:
+    - Printemps
+    - Été
+    - Automne
+    - Hiver
+  - Évènement:
+    - Fêtes de fin d'année
+    - Entre amis
+    - En famille
+    - En couple
 disqusId: 5399479267
 slug: recettes-de-noel-nouvel-an
 ---
