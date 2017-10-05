@@ -27,6 +27,8 @@ recette_details:
     - Goûter
     - Anniversaire
     - Petit-dejeuner
+  - Type de cuisine:
+    - Belge 
 recette_qty:
   - Pour 1 tarte de 6/8 personnes
 recette_temps:
