@@ -16,13 +16,17 @@ tags:
   - oeuf
   - pâte levée feuilletée
   - sucre
+  - lait 
 recette_details:
   - Catégorie:
     - Viennoiserie
+  - Type de cuisine:
+    - Française
+    - Belge
   - Régime:
     - Végétarien
   - Saison:
-    - Printemps 
+    - Printemps
     - Été
     - Automne
     - Hiver

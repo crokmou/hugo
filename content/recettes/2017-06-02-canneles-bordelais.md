@@ -7,23 +7,22 @@ categories:
   - Desserts
 tags:
   - beurre
-  - dessert
   - farine
-  - gluten
-  - gouter
-  - lactose
   - lait
-  - mignardise
   - oeuf
-  - pâtisserie de voyage
   - rhum
   - sel
   - sucre de canne
   - vanille
+  - sucre
+  - "jaune d'oeuf"
 recette_details:
   - Catégorie:
     - Mignardise
     - Gâteau
+    - Gâteau de voyage
+  - Type de cuisine:
+    - Française  
   - Régime:
     - Végétarien
   - Saison:

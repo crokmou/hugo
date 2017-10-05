@@ -8,7 +8,7 @@ categories:
 tags:
   - beurre
   - fromage
-  - oeufs
+  - oeuf
   - parmesan
   - pâte feuilletée
   - pate feuilletée inversée
@@ -18,6 +18,9 @@ recette_details:
   - Catégorie:
     - Dips
     - Amuses bouche
+  - Type de cuisine:
+    - Française
+    - Italienne  
   - Régime:
     -
   - Saison:

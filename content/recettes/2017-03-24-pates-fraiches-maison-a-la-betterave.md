@@ -9,12 +9,16 @@ tags:
   - betterave
   - farine
   - "huile d'olive"
-  - legume
+  - légume
   - oeuf
-  - pate
+  - farine 
+  - eau
 recette_details:
   - Catégorie:
     - Pâtes
+  - Type de cuisine:
+    - Italienne
+    - Française  
   - Régime:
     - Végétarien
     - Sans lactose

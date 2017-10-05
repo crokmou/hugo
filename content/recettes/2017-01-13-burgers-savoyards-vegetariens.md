@@ -7,19 +7,35 @@ categories:
   - Plats
 tags:
   - bun
-  - buns
-  - burger
   - champignon
   - fromage
-  - hamburger
   - oignon
   - reblochon
   - roquette
   - salade
+  - lait végétal
+  - farine
+  - levure fraîche
+  - levure de boulanger
+  - oeuf
+  - eau
+  - sel
+  - sucre
+  - beurre
+  - ail
+  - ail noir
+  - pois chiche
+  - tamari
+  - paprika
+  - mayonnaise
+  - ketchup 
 recette_details:
   - Catégorie:
     - Burgers
     - Fast food
+  - Type de cuisine:
+    - Américaine
+    - Française
   - Régime:
     - Végétarien
   - Saison:

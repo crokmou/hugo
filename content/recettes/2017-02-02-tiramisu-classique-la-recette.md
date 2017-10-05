@@ -8,17 +8,21 @@ categories:
 tags:
   - alcool
   - "blanc d'oeuf"
-  - cafe
-  - dessert
-  - jaune d’œuf
+  - café
+  - "jaune d’œuf"
   - marsala
   - mascarpone
   - oeuf
+  - biscuit cuiller
+  - cacao en poudre
+  - sucre
 recette_details:
   - Catégorie:
     -
   - Régime:
     - Végétarien
+  - Type de cuisine:
+    - Italienne
   - Saison:
     - Printemps
     - Été

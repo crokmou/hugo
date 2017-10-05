@@ -6,18 +6,19 @@ thumbnail: https://crokmou.com/images/bretzel-ou-pretzel-levain-recette-crokmou-
 categories:
   - Boulangerie
 tags:
-  - boulange
-  - bretzel
+  - beurre
   - eau
   - farine
   - levain
   - oeuf
-  - pretzel
   - sel
   - sucre
 recette_details:
   - Catégorie:
     - Boulangerie
+  - Type de cuisine:
+    - Allemande
+    - Française  
   - Régime:
     - Végétarien
     - Sans lactose

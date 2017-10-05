@@ -6,16 +6,26 @@ thumbnail: https://crokmou.com/images/tarte-riz-belge-recette-blog-crokmou-1.jpg
 categories:
   - Desserts
 tags:
-  - Belge
-  - Dessert
-  - Pate levée
-  - Riz
-  - Riz au lait
-  - Tarte
-  - Tarte riz
+  - pate levée
+  - riz
+  - farine
+  - sucre
+  - sel
+  - oeuf
+  - levure fraîche
+  - levure de boulangerie
+  - beurre
+  - eau
+  - lait
+  - "jaune d'oeuf"
+  - maïzena
+  - fécule de maïs
+  - vanille
 recette_details:
   - Catégorie:
     - Tarte
+  - Type de cuisine:
+    - Belge
   - Régime:
     - Végétarien
   - Saison:
@@ -27,8 +37,6 @@ recette_details:
     - Goûter
     - Anniversaire
     - Petit-dejeuner
-  - Type de cuisine:
-    - Belge 
 recette_qty:
   - Pour 1 tarte de 6/8 personnes
 recette_temps:

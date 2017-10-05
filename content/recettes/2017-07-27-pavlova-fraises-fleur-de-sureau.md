@@ -10,12 +10,25 @@ tags:
   - citron vert
   - creme
   - fraise
-  - gelatine
+  - gélatine
   - oeuf
-  - pâtisserie
+  - sucre
+  - sucre glace
+  - "blanc d'oeuf"
+  - chocolat blanc
+  - chocolat
+  - pectine
+  - crème liquide
+  - fleur de sureau
+  - mascarpone
+  - purée de fruit 
 recette_details:
   - Catégorie:
     - Tarte
+  - Type de cuisine:
+    - Australienne
+    - Néo-zélandaise
+    - Française  
   - Régime:
     - Végétarien
   - Saison:
@@ -52,7 +65,7 @@ recette_ingredients:
       - 1 feuille de gelatine (soit 2g)
   - label: "Pour le confit de fraise"
     value:
-      - 50g de pyrée de frauses
+      - 50g de purée de frauses
       - 30g de sucre
       - le jus d'un demi citron vert
       - 1g de pectine NH
