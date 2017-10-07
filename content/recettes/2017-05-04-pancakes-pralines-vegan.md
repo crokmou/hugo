@@ -40,6 +40,7 @@ recette_details:
     - Goûter
     - Brunch
     - Petit-dejeuner
+    - Chandeleur 
 recette_qty:
   - Pour une quinzaine de pancakes
 recette_temps:

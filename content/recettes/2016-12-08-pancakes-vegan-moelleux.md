@@ -25,6 +25,7 @@ tags:
 recette_details:
   - Catégorie:
     - Pancake
+    - Crêpes 
   - Type de cuisine:
     - Américaine
     - Canadienne  
@@ -45,6 +46,7 @@ recette_details:
     - En couple
     - Entre amis
     - En famille
+    - Chandeleur
 recette_qty:
   - Pour une vingtaine de pancakes
 recette_temps:
