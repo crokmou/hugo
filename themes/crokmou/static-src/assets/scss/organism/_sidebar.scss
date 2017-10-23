@@ -1,5 +1,4 @@
 .sidebar {
   padding: 0 $global-spacing  $global-spacing;
   background-color: $white;
-  @include respond-to(medium) { margin-top: 0; }
 }

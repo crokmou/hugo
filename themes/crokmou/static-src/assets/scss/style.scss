@@ -4,7 +4,6 @@
 @import "grid";
 
 * {
-  box-sizing: border-box;
   margin: 0; padding: 0;
   border-radius: inherit;
   color: inherit;
@@ -13,7 +12,7 @@
     outline: 1px dashed $brand-primary-darkest;
     background-color: lighten($brand-primary-darkest, 50%);
   }
-  + * { margin-top: $global-spacing; }
+  &, &:before, &:after { box-sizing: border-box; }
 }
 svg, svg * { box-sizing: content-box; }
 img { max-width: 100%; }
@@ -31,7 +30,6 @@ figure { margin: 0; }
 .container { max-width: rem(1200); margin: 0 auto; width: 100%; }
 
 .pswp {
-  &, * + * { margin-top: 0; }
   &:focus, *:focus { background-color: transparent; }
 }
 
@@ -47,6 +45,7 @@ figure { margin: 0; }
 // Molecules
 @import "molecule/card";
 @import "molecule/icon";
+@import "molecule/pagination";
 @import "molecule/picture";
 @import "molecule/selectric";
 

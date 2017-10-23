@@ -6,12 +6,15 @@
       <div class="home flex flex-wrap align-items-start">
         <section class="home__content flex-12 flex-med-9">
           <div class="flex flex-wrap">
-            {{ range first 10 .Data.Pages }}
+            {{ $paginator := .Paginate .Data.Pages }}
+            {{ range $paginator.Pages }}
             {{ partial "molecules/card.html" (dict "card" . "class" "flex flex-column flex-12 flex-med-6")}}
             {{ end }}
           </div>
+          {{ template "_internal/pagination.html" . }}
         </section>
-        <aside class="sidebar flex-12 flex-med-3">
+        <aside class="flex-12 flex-med-3">
+          {{ partial "organism/sidebar.html" . }}
         </aside>
       </div>
   </div>

@@ -17,7 +17,6 @@
           object-fit: cover;
         }
         > * {
-          margin-top: 0;
           &:first-child {
             grid-row-start: span 2;
             grid-column-start: span 2;

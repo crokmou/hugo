@@ -9,6 +9,12 @@ RemovePathAccents: true
 permalinks:
   blog: /:year/:month/:slug/
   recettes: /:year/:month/:slug/
+  voyage: /:year/:month/:slug/
+  restaurants: /:year/:month/:slug/
+  carnet de route: /:year/:month/:slug/
+
+taxonomies:
+  tag: ""
 
 params:
   socials:
@@ -24,3 +30,11 @@ params:
       href: "/twitter/"
     - id: "youtube"
       href: "/youtube/"
+  sidebar:
+    - id: "breve"
+      title: "Brèves"
+    - id: "theme"
+      title: "Un peu de soleil"
+      articles:
+        - "2014-06-12-feta-marinee"
+        - "2014-07-17-tarte-aux-peches-ylang-ylang-et-romarin"

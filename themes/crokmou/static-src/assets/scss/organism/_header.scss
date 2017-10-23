@@ -1,5 +1,5 @@
 .header {
-  padding: $global-spacing; margin-top: 0;
+  padding: $global-spacing;
   border-bottom: 8px solid $brand-primary; background: #fff;
   &__logo {
     display: inline-block;
@@ -12,7 +12,6 @@
       input { width: 100%; }
     }
     &__social {
-      margin-top: 0;
       a {
         display: block;
         margin: 0 5px;
