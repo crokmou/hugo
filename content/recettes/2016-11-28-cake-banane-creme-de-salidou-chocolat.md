@@ -15,21 +15,62 @@ tags:
   - chocolat noir
   - farine
   - "lait d'amande"
-  - lait vegetal
+  - lait végétal
   - levure chimique
+  - baking powder
+  - huile
+  - salidou
+recette_details:
+  - Catégorie:
+    - Cake
+    - Gâteau
+    - Gâteau de voyage
+  - Type de cuisine:
+    - Américaine
+  - Régime:
+    - Végétarien
+    - Sans oeufs
+  - Saison:
+    - Printemps
+    - Été
+    - Automne
+    - Hiver
+  - Évènement:
+    - Goûter
+    - Anniversaire
+    - Petit-dejeuner
+    - Entre amis
+    - En famille
+    - Tea time
+    - En couple
 recette_qty:
   - Pour 1 cake
 recette_temps:
-  - 'Préparation : 10 minutes | Cuisson : 50 minutes'
-recette_ingredients: |
-  * 450g de bananes bien mûres
-  * 80g de sucre cassonade
-  * 230g de farine
-  * 1,5 càs d'huile neutre
-  * 70 ml de lait d'amande
-  * 60g de chocolat noir
-  * 50g de salidou
-  * 2 càc de levure chimique
+  - schemaId: "prepTime"
+    schemaValue: "PT10M"
+    label: "Préparation"
+    duration: "10 minutes"
+  - schemaId: "cookTime"
+    label: "Cuisson"
+    duration: "50 minutes"
+    schemaValue: "PT50M"
+recette_ingredients:
+  - value:
+      - 450g de bananes bien mûres
+      - 80g de sucre cassonade
+      - 230g de farine
+      - 1,5 càs d'huile neutre
+      - 70 ml de lait d'amande
+      - 60g de chocolat noir
+      - 50g de salidou
+      - 2 càc de levure chimique
+recette:
+  - "Faire préchauffer le four à 180°C"
+  - "Dans un cul de poule, écraser la banane à l’aide d’un fourchette, puis mixer à l’aide d’un mixer plongeant."
+  - "Ajouter le reste des ingrédients (faire ramollir un peu le Salidou au micro-ondes) et mélanger"
+  - "Verser dans un moule à cake huilé"
+  - "Cuire pendant 50 minutes environ (ne pas hésiter à baisser la température du four lorsque le cake devient un peu trop coloré mais qu’il n’est pas encore cuit)"
+  - "Vérifier si le cake est cuit à l’aie d’une lame de couteau, la planter dans le cake si celle-ci ressort sèche (ou presque), retirer le cake du four. Laisser refroidir avant de démouler. Tips : Pour encore plus de gourmandise, faire couleur du Salidou et du chocolat sur le dessus du cake !"
 disqusId: 5338717020
 slug: cake-banane-creme-de-salidou-chocolat
 ---
@@ -38,13 +79,6 @@ Un cake à la banane, si on m’avait dit un jour que j’en mangerai autant, j�
 
 ![Cake à la banane - Banana cake](https://crokmou.com/images/cake-banane-salidou-chocolat-crokmou-blog-culinaire-belge-2_nhaldd.jpg)
 
-## **Recette du cake à la banane et Salidou**
-
-* 1\. Faire préchauffer le four à 180°C
-* 2\. Dans un cul de poule, écraser la banane à l’aide d’un fourchette, puis mixer à l’aide d’un mixer plongeant.
-* 3\. Ajouter le reste des ingrédients (faire ramollir un peu le Salidou au micro-ondes) et mélanger
-* 4\. Verser dans un moule à cake huilé
-* 5\. Cuire pendant 50 minutes environ (ne pas hésiter à baisser la température du four lorsque le cake devient un peu trop coloré mais qu’il n’est pas encore cuit)
-* 6\. Vérifier si le cake est cuit à l’aie d’une lame de couteau, la planter dans le cake si celle-ci ressort sèche (ou presque), retirer le cake du four. Laisser refroidir avant de démouler. Tips : Pour encore plus de gourmandise, faire couleur du Salidou et du chocolat sur le dessus du cake !
+{{< recette >}}
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

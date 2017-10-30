@@ -10,14 +10,17 @@ tags:
   - burrata
   - épeautre
   - fromage
-  - lactose
   - lait
   - pâtes
   - tomate
   - tomate cerise
+  - sel
+  - poivre 
 recette_details:
   - Catégorie:
     - Pâtes, Salade
+  - Type de cuisine:
+    - Italienne
   - Régime:
     - Végétarien
     - Sans gluten

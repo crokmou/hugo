@@ -15,11 +15,13 @@ recette_details:
   - Catégorie:
     - Les bases
     - Viennoiserie
+  - Type de cuisine:
+    - Française  
   - Régime:
     - Végétarien
     - Sans oeufs
   - Saison:
-    - Printemps 
+    - Printemps
     - Été
     - Automne
     - Hiver

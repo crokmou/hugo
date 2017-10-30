@@ -21,12 +21,12 @@ tags:
   - poivre
   - sel
   - soja
-  - vegan
-  - vegetalien
-  - vegetarien
 recette_details:
   - Catégorie:
     - Dips
+  - Type de cuisine:
+    - Libanaise
+    - Syrienne
   - Régime:
     - Végétarien
     - Vegan
@@ -39,7 +39,7 @@ recette_details:
     - Brunch
     - Diner
     - Entre amis
-    - En famille 
+    - En famille
     - En couple
 recette_qty:
   - Pour 2/3 personnes

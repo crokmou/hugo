@@ -16,6 +16,9 @@ recette_details:
     - Dessert à l'assiette
     - Poissons
     - Viandes
+  - Type de cuisine:
+    - Belge
+    - Française 
   - Régime:
     -
   - Saison:

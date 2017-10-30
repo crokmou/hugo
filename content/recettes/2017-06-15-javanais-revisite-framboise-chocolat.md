@@ -8,7 +8,7 @@ categories:
 tags:
   - beurre
   - chocolat
-  - creme fraiche
+  - crème liquide
   - framboise
   - fruit
   - ganache
@@ -17,9 +17,17 @@ tags:
   - oeuf
   - purée de fruit
   - sucre
+  - farine
+  - massepain
+  - amande
+  - "blanc d'oeuf"
+  - maïzena
+  - fécule de maïs
 recette_details:
   - Catégorie:
     - Gâteau
+  - Type de cuisine:
+    - Belge
   - Régime:
     -
   - Saison:

@@ -7,25 +7,32 @@ categories:
   - Desserts
 tags:
   - amande
-  - brunch
-  - lait vegetal
-  - pancake
-  - petit dejeuner
+  - lait végétal
   - poudre à lever
-  - purée oléagineux
+  - "purée d'oléagineux"
   - sucre
-  - vegan
+  - "purée d'amande"
+  - praliné
+  - cassonade
+  - baking powder
+  - pomme
+  - mousseline de pomme
+  - compote de pomme
+  - "lait d'amande"
 recette_details:
   - Catégorie:
     - Crêpes
     - Pancakes
+  - Type de cuisine:
+    - Américaine
+    - Canadienne
   - Régime:
     - Végétarien
     - Vegan
     - Sans oeufs
     - Sans lactose
   - Saison:
-    - Printemps 
+    - Printemps
     - Été
     - Automne
     - Hiver
@@ -33,6 +40,7 @@ recette_details:
     - Goûter
     - Brunch
     - Petit-dejeuner
+    - Chandeleur 
 recette_qty:
   - Pour une quinzaine de pancakes
 recette_temps:

@@ -11,13 +11,11 @@ tags:
   - "fleur d'oranger"
   - jus de pois chiche
   - pois chiche
-  - vegan
-  - végétal
-  - vegetalien
-  - vegetarien
 recette_details:
   - Catégorie:
     - Mousse
+  - Type de cuisine:
+    - Française  
   - Régime:
     - Végétarien
     - Vegan

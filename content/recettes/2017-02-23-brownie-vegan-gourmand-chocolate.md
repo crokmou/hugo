@@ -6,28 +6,31 @@ thumbnail: https://crokmou.com/images/brownie-vegan-partenariat-generation-cooki
 categories:
   - Desserts
 tags:
-  - Chocolat
-  - Amande
-  - Purée d'amande
-  - Purée d'olageineux
-  - Cassonade
-  - Poudre d'amande
-  - Compote de pomme
-  - Mousseline de pomme
-  - Pomme
-  - Fécule de maïs
-  - Praliné
-  - Noisette
-  - Amande
-  - Levure chimique
-  - Sel
-  - Noix
-  - Noix de pécan
-  - Cajou
+  - chocolat
+  - amande
+  - "purée d'amande"
+  - "purée d'oléagineux"
+  - cassonade
+  - "poudre d'amande"
+  - compote de pomme
+  - mousseline de pomme
+  - pomme
+  - fécule de maïs
+  - praliné
+  - noisette
+  - baking powder
+  - levure chimique
+  - sel
+  - noix
+  - noix de pécan
+  - cajou
 recette_details:
   - Catégorie:
     - Gâteau
     - Cake
+    - Gâteau de voyage
+  - Type de cuisine:
+    - Américaine
   - Régime:
     - Végétarien
     - Vegan

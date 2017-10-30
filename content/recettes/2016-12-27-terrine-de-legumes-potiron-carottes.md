@@ -6,12 +6,8 @@ thumbnail: https://crokmou.com/images/terrine-legume-potiron-carotte-crokmou-blo
 categories:
   - Entrées
 tags:
-  - automne
   - carotte
-  - hiver
   - legume
-  - noel
-  - nouvel an
   - oeuf
   - origan
   - potiron
@@ -20,6 +16,8 @@ tags:
 recette_details:
   - Catégorie:
     - Terrine
+  - Type de cuisine:
+    - Française  
   - Régime:
     - Végétarien
     - Sans lactose

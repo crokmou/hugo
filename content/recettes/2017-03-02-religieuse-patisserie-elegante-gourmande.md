@@ -8,26 +8,26 @@ categories:
 tags:
   - beurre
   - cacao
-  - chou
   - crème au beurre
-  - creme patissiere
+  - creme pâtissière
   - farine
   - fondant
   - fondant blanc
   - glucose
   - lait
-  - maizena
+  - maïzena
   - oeuf
-  - pate a chou
-  - pâtisserie
-  - religieuse
+  - pâte à choux
   - sel
   - sucre
   - vanille
+  - cassonade 
 recette_details:
   - Catégorie:
     - Mignardise
     - Pâte à choux
+  - Type de cuisine:
+    - Française
   - Régime:
     - Végétarien
   - Saison:

@@ -26,6 +26,8 @@ recette_details:
     - Pâtes
     - Salade
     - Légumes
+  - Type de cuisine:
+    - Française  
   - Régime:
     - Végétarien
     - Vegan

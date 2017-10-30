@@ -10,15 +10,16 @@ tags:
   - matcha
   - meringue
   - meringue suisse
-  - noel
   - oeuf
-  - sapin
   - sucre
   - the matcha
   - thé vert
 recette_details:
   - Catégorie:
     - Mignardises
+  - Type de cuisine:
+    - Française
+    - Japonaise  
   - Régime:
     - Végétarien
     - Sans lactose

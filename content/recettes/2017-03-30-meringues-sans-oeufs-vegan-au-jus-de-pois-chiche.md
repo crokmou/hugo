@@ -6,17 +6,15 @@ thumbnail: https://crokmou.com/images/recette-meringue-sans-oeufs-vegan-pois-chi
 categories:
   - Desserts
 tags:
-  - anniversaire
-  - gouter
+  - aquafaba
   - meringue
   - pois chiche
   - sucre
-  - tea time
-  - vegan
-  - vegetalien
 recette_details:
   - Catégorie:
     - Mignardise
+  - Type de cuisine:
+    - Française  
   - Régime:
     - Végétarien
     - Vegan

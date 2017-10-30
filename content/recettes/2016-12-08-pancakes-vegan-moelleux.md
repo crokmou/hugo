@@ -7,24 +7,28 @@ categories:
   - Desserts
 tags:
   - amande
-  - brunch
-  - chandeleur
-  - compote
+  - compote de pomme
+  - mousseline de pomme
   - fruit
-  - lait vegetal
-  - pancake
-  - pancakes
-  - petit dejeuner
+  - lait végétal
   - pomme
-  - sans beurre
-  - sans lait
-  - sans oeuf
-  - vegan
-  - vegetalien
-  - vegetarien
+  - sel
+  - farine
+  - sucre
+  - cassonade
+  - levure chimique
+  - baking powder
+  - bicarbonate de soude
+  - "lait d'amande"
+  - "purée d'amande"
+  - "purée d'oléagineux"
 recette_details:
   - Catégorie:
     - Pancake
+    - Crêpes 
+  - Type de cuisine:
+    - Américaine
+    - Canadienne  
   - Régime:
     - Végétarien
     - Vegan
@@ -42,6 +46,7 @@ recette_details:
     - En couple
     - Entre amis
     - En famille
+    - Chandeleur
 recette_qty:
   - Pour une vingtaine de pancakes
 recette_temps:
