@@ -36,5 +36,9 @@ params:
     - id: "theme"
       title: "Un peu de soleil"
       articles:
-        - "2014-06-12-feta-marinee"
-        - "2014-07-17-tarte-aux-peches-ylang-ylang-et-romarin"
+        - "feta-marinee"
+        - "tarte-aux-peches-ylang-ylang-et-romarin"
+    - id: "tips"
+      title: "Astice d'une blogueuse"
+      articles:
+        - "feta-marinee"
