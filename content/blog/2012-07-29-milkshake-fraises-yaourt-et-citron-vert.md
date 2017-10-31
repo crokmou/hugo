@@ -1,5 +1,4 @@
 ---
-type: post
 title: Milkshake fraises, yaourt et citron vert
 date: 2012-07-29T11:03:00+00:00
 thumbnail: https://crokmou.com/images/20120626_milkshake_fraise_yaourt_citron_0008.jpg

@@ -1,5 +1,4 @@
 ---
-type: post
 title: Cake betterave et chocolat
 date: 2016-05-26T14:52:19+00:00
 thumbnail: https://crokmou.com/images/cake-betterave-chocolat-crokmou-blog-culinaire.jpg

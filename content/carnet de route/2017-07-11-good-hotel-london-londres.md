@@ -1,5 +1,4 @@
 ---
-type: post
 title: Good Hotel London, favoriser la communauté locale.
 date: 2017-07-11T18:05:47+00:00
 thumbnail: https://crokmou.com/images/good-hotel-londres-london-crokmou-blog-cuisine-voyage-belgique-5.jpg

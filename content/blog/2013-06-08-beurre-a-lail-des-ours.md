@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Beurre à l'ail des ours"
 date: 2013-06-08T16:48:00+00:00
 thumbnail: https://crokmou.com/images/20130608_beurre_demi_sel_ail_des_ours_0028.jpg

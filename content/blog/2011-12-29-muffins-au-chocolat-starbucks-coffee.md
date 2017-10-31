@@ -1,5 +1,4 @@
 ---
-type: post
 title: Muffins au chocolat, Starbucks Coffee
 date: 2011-12-29T12:42:00+00:00
 thumbnail: https://crokmou.com/images/20111229_muffin_chocolat_starbuck_1.jpg

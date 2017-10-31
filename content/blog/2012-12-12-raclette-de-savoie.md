@@ -1,5 +1,4 @@
 ---
-type: post
 title: Raclette de Savoie
 date: 2012-12-12T09:42:00+00:00
 thumbnail: https://crokmou.com/images/20121201_raclette-savoie_MVI_4564.gif

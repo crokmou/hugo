@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Lumière sur… les partenariats'
 date: 2016-08-03T15:46:24+00:00
 thumbnail: https://crokmou.com/images/ExtremeIncantations.png

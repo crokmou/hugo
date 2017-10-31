@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Livres gourmands pour enfants : La Palissade'
 date: 2014-10-20T15:59:00+00:00
 thumbnail: https://crokmou.com/images/livre-cuisine-enfant-la-palissade.jpg

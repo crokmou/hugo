@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Les sauces naturelles Natura {Concours}'
 date: 2015-06-18T16:21:16+00:00
 thumbnail: https://crokmou.com/images/concours-natura-crokmou-blog.jpg

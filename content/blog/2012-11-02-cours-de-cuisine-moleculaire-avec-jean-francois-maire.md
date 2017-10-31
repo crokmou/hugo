@@ -1,5 +1,4 @@
 ---
-type: post
 title: Cours de cuisine moléculaire avec Jean François Maire
 date: 2012-11-02T12:02:00+00:00
 categories:

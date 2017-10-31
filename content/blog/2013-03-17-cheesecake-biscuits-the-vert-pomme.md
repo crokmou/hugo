@@ -1,5 +1,4 @@
 ---
-type: post
 title: Cheesecake biscuits thé vert/pomme
 date: 2013-03-17T10:47:00+00:00
 thumbnail: https://crokmou.com/images/cheesecake_biscuit_the_vert_stephen_destree_BD.jpg

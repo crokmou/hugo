@@ -1,5 +1,4 @@
 ---
-type: post
 title: Petits pains chèvre/jambon
 date: 2011-04-11T21:55:00+00:00
 thumbnail: https://crokmou.com/images/Pains-ch--vre.jambon.jpg

@@ -1,5 +1,4 @@
 ---
-type: post
 title: DIY (Très) vieilles planches
 date: 2014-03-04T13:49:00+00:00
 thumbnail: https://crokmou.com/images/diy-vieille-planche.jpg

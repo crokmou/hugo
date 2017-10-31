@@ -1,5 +1,4 @@
 ---
-type: post
 title: Cookies chocolat noir framboise Cémoi
 date: 2012-05-14T17:58:00+00:00
 thumbnail: https://crokmou.com/images/20120513_Cookies_Framboise_Chocolat_C--moi_Nature_0003.jpg

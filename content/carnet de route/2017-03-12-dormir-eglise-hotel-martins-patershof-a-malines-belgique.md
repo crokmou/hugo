@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Dormir dans une église – L'hôtel Martin's Patershof à Malines"
 date: 2017-03-12T20:12:08+00:00
 thumbnail: https://crokmou.com/images/martins-patershof-malines-mechelen-flandres-belgique-crokmou-blog-cuisine-voyage-2-6.jpg

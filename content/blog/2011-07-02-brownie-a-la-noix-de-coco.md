@@ -1,5 +1,4 @@
 ---
-type: post
 title: Brownie à la noix de coco
 date: 2011-07-02T08:04:00+00:00
 thumbnail: https://crokmou.com/images/20110628_brownie_noix_coco_1.jpg

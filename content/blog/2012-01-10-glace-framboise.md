@@ -1,5 +1,4 @@
 ---
-type: post
 title: Glace framboise
 date: 2012-01-10T14:12:00+00:00
 thumbnail: https://crokmou.com/images/20120110_glace_framboise_1.jpg

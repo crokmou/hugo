@@ -1,5 +1,4 @@
 ---
-type: post
 title: Brioche moelleuse sucre et chocolat
 date: 2012-03-08T18:39:00+00:00
 thumbnail: https://crokmou.com/images/20120307_Cramique_Escargot_Chocolat_Sucre_0012.jpg

@@ -1,5 +1,4 @@
 ---
-type: post
 title: Charli Boulangerie, que de bons produits
 date: 2016-04-26T18:07:28+00:00
 thumbnail: https://crokmou.com/images/charli-boulangerie-bruxelles-crokmou-blog-culinaire-12.jpg

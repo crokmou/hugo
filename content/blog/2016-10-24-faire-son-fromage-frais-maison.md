@@ -1,5 +1,4 @@
 ---
-type: post
 title: Faire son fromage frais maison
 date: 2016-10-24T17:59:39+00:00
 thumbnail: https://crokmou.com/images/fromage-frais-maison-cheesemaker-crokmou-blog-culinaire-belge.jpg

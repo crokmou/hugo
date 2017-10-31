@@ -1,5 +1,4 @@
 ---
-type: post
 title: Salade saucisses, croutons, fromage
 date: 2012-09-24T12:20:00+00:00
 thumbnail: https://crokmou.com/images/20120921_salade_saucisse_knacki_fromage_crouton_0020.jpg

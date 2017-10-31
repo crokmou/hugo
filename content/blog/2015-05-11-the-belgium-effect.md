@@ -1,5 +1,4 @@
 ---
-type: post
 title: The Belgium Effect
 date: 2015-05-11T18:36:23+00:00
 thumbnail: https://crokmou.com/images/culinaria-2015-belgium-effect-crokmou-blog-culinaire-8.jpg

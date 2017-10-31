@@ -1,5 +1,4 @@
 ---
-type: post
 title: Bagel chèvre, miel et concombre
 date: 2013-07-21T19:39:00+00:00
 thumbnail: https://crokmou.com/images/20130719_bagel_chevre_miel_cressonnette_noix_0020.jpg

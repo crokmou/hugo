@@ -1,5 +1,4 @@
 ---
-type: post
 title: Salade de blé, grenade et feta
 date: 2015-06-14T14:38:45+00:00
 thumbnail: https://crokmou.com/images/recette-salade-bl---grenade-feta-crokmou-blog.jpg

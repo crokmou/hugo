@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Cakes au citron {Game of Thrones}'
 date: 2015-08-02T15:03:48+00:00
 thumbnail: https://crokmou.com/images/lemon-cake-game-of-thrones-crokmou-blog.jpg

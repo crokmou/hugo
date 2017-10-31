@@ -1,5 +1,4 @@
 ---
-type: post
 title: Dips de poulet Indiens
 date: 2012-03-19T20:20:00+00:00
 thumbnail: https://crokmou.com/images/20120318_Dips_Poulet_Indien_0034.jpg

@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Choisir son reflex {Photographie}'
 date: 2014-08-07T16:16:00+00:00
 thumbnail: https://crokmou.com/images/Capture-d-----cran-2014-07-29----15.20.17.png

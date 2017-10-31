@@ -1,5 +1,4 @@
 ---
-type: post
 title: Choco chaud
 date: 2011-10-09T17:09:00+00:00
 thumbnail: https://crokmou.com/images/Chocolat-chaud.jpg

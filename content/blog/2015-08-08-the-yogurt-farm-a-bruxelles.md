@@ -1,5 +1,4 @@
 ---
-type: post
 title: The yogurt farm à Bruxelles, des yaourts au top !
 date: 2015-08-08T18:18:41+00:00
 thumbnail: https://crokmou.com/images/yelp-event-the-yogurt-farm-brussels-crokmou-blog-4.jpg

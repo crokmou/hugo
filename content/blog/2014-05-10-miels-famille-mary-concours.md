@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Miels Famille Mary {Concours}'
 date: 2014-05-10T14:58:00+00:00
 categories:

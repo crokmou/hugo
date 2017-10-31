@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Scones fleur d'oranger"
 date: 2012-07-22T10:27:00+00:00
 thumbnail: https://crokmou.com/images/20120614_scones_fleur_doranger_0035.jpg

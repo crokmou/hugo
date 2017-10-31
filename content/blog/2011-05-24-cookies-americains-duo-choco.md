@@ -1,5 +1,4 @@
 ---
-type: post
 title: Cookies Américains duo choco
 date: 2011-05-24T22:15:00+00:00
 thumbnail: https://crokmou.com/images/Cookies-Noisettes-5.jpg

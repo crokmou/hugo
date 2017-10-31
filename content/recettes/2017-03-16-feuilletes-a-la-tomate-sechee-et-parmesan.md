@@ -1,5 +1,4 @@
 ---
-type: post
 title: Feuilletés à la tomate séchée et parmesan
 date: 2017-03-16T19:13:53+00:00
 thumbnail: https://crokmou.com/images/feuillete--s-tortillons-tomate-se--che--e-parmesan-recette-crokmou-blog-cuisine-voyage-1-9.jpg

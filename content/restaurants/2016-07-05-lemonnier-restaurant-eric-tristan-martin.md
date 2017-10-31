@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Lemonnier, Restaurant d'Eric & Tristan Martin"
 date: 2016-07-05T17:18:53+00:00
 thumbnail: https://crokmou.com/images/lemonnier-restaurant-belgique-crokmou-blog-culinaire-1.jpg

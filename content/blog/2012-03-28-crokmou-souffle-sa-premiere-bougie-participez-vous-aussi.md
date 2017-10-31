@@ -1,5 +1,4 @@
 ---
-type: post
 title: Crokmou souffle sa première bougie, participez vous aussi !
 date: 2012-03-28T15:14:00+00:00
 categories:

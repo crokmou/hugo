@@ -1,5 +1,4 @@
 ---
-type: post
 title: Gyoza au porc maison
 date: 2015-08-27T11:16:51+00:00
 thumbnail: https://crokmou.com/images/gyoza-au-porc-maison-crokmou-blog-51.jpg

@@ -1,5 +1,4 @@
 ---
-type: post
 title: Petits-Beurre maison aux cranberries
 date: 2012-09-17T14:07:00+00:00
 thumbnail: https://crokmou.com/images/20120915_petits_beurre_cranberries_crokmou_0013_BD.jpg

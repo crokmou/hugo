@@ -1,5 +1,4 @@
 ---
-type: post
 title: Biscuits moelleux coco sans gluten
 date: 2014-08-28T14:57:00+00:00
 thumbnail: https://crokmou.com/images/biscuit-moelleux-coco-sans-gluten-1.jpg

@@ -1,5 +1,4 @@
 ---
-type: post
 title: Muffins chocolat, avoine, quinoa soufflé
 date: 2012-03-16T11:44:00+00:00
 thumbnail: https://crokmou.com/images/20120316_Muffins_Chocolat_Avoine_Quinoa_souffl--_0048.jpg

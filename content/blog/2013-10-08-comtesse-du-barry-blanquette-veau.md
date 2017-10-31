@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Blanquette de veau – Comtesse du Barry'
 date: 2013-10-08T12:38:00+00:00
 thumbnail: https://crokmou.com/images/comtesse_du_barry_blanquette_veau.jpg

@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Ch'tites madeleines au Maroilles"
 date: 2011-11-05T21:46:00+00:00
 thumbnail: https://crokmou.com/images/20111103_madeleine_maroille_1.jpg

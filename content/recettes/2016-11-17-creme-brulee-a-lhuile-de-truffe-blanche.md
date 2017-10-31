@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Crème brûlée à l'huile de truffe blanche"
 date: 2016-11-17T16:23:49+00:00
 thumbnail: https://crokmou.com/images/creme-brulee-huile-de-truffe-crokmou-blog-culinaire-belge_wlv8qx.jpg

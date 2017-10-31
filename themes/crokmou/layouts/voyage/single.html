@@ -1,7 +1,22 @@
 {{ partial "head.html" . }}
 {{ partial "organism/header.html" . }}
-<div class="home">
-  Voyage
-  {{ .Content }}
-</div>
+
+<section class="single">
+  <article class="single__content single__content--wide markdown">
+    {{with .Title}}<h1>{{.}}</h1>{{end}}
+    {{if .Params.thumbnail}}
+    <div class="gallery gallery--no-grid" itemscope
+         itemtype="http://schema.org/ImageGallery">
+      <figure itemprop="associatedMedia" itemscope
+              itemtype="http://schema.org/ImageObject">
+        <a href="{{.Params.thumbnail}}" itemprop="contentUrl">
+          <img src="{{.Params.thumbnail}}" itemprop="thumbnail" alt="{{.Title}}"/>
+        </a>
+      </figure>
+    </div>
+    {{end}}
+    {{ .Content }}
+  </article>
+</section>
+
 {{ partial "organism/footer.html" . }}

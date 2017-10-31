@@ -1,5 +1,4 @@
 ---
-type: post
 title: Découverte du Moulin de Vencimont
 date: 2016-05-24T18:09:56+00:00
 thumbnail: https://crokmou.com/images/moulin-de-vencimont-belgique-crokmou-blog-culinaire-7-1.jpg

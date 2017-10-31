@@ -1,5 +1,4 @@
 ---
-type: post
 title: Riz au lait saveur violette
 date: 2011-04-30T17:04:00+00:00
 thumbnail: https://crokmou.com/images/Riz-au-lait----la-violette.jpg

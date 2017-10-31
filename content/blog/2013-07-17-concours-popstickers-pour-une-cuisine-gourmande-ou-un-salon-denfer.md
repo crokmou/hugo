@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Concours Popstickers {Pour une cuisine gourmande ou un salon d'enfer}"
 date: 2013-07-17T11:58:00+00:00
 categories:

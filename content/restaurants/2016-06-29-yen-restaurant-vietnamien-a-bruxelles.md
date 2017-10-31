@@ -1,5 +1,4 @@
 ---
-type: post
 title: Yen, restaurant Vietnamien à Bruxelles
 date: 2016-06-29T18:04:40+00:00
 thumbnail: https://crokmou.com/images/yen-restaurant-bruxelles-crokmou-blog-culinaire.jpg

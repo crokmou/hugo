@@ -1,5 +1,4 @@
 ---
-type: post
 title: Galette aux pommes vanillées
 date: 2015-03-15T18:25:12+00:00
 thumbnail: https://crokmou.com/images/galette-feuillet--e-pomme-vanille.jpg

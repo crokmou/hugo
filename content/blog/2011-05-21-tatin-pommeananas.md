@@ -1,5 +1,4 @@
 ---
-type: post
 title: Tatin pomme/ananas
 date: 2011-05-21T14:46:00+00:00
 thumbnail: https://crokmou.com/images/Tatin-pomme-ananas.jpg

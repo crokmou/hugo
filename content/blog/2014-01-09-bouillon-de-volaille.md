@@ -1,5 +1,4 @@
 ---
-type: post
 title: Bouillon de volaille
 date: 2014-01-09T19:50:00+00:00
 thumbnail: https://crokmou.com/images/050114_bouillon_poule_2.jpg

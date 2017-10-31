@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Mousse au chocolat à l'aquafaba & sa touche de fleur d'oranger"
 date: 2017-07-13T17:59:42+00:00
 thumbnail: https://crokmou.com/images/recette-mousse-chocolat-aquafaba-sans-oeufs-fleur-oranger-crokmou-blog-cuisine-voyage-belgique-4.jpg

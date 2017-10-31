@@ -6,7 +6,7 @@
       <div class="home flex flex-wrap align-items-start">
         <section class="home__content flex-12 flex-med-9">
           <div class="flex flex-wrap">
-            {{ $paginator := .Paginate (where (where .Site.Pages "Section" "eq" "recettes") "Type" "eq" "post") }}
+            {{ $paginator := .Paginate (where (where .Site.Pages "Section" "eq" "recettes") "Title" "!=" "") }}
             {{range $paginator.Pages}}
             {{ partial "molecules/card.html" (dict "card" . "class" "flex flex-column flex-12 flex-med-6")}}
             {{ end }}

@@ -1,5 +1,4 @@
 ---
-type: post
 title: Participations au concours de recettes Cupcakes
 date: 2012-11-24T21:00:00+00:00
 categories:

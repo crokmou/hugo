@@ -1,5 +1,4 @@
 ---
-type: post
 title: Une vie simple
 date: 2015-05-16T19:43:47+00:00
 thumbnail: https://crokmou.com/images/1379259_566901950031542_1187450050_n.jpg

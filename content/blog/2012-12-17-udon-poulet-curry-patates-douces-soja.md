@@ -1,5 +1,4 @@
 ---
-type: post
 title: Udon poulet curry, patates douces, soja
 date: 2012-12-17T12:09:00+00:00
 thumbnail: https://crokmou.com/images/20121216_soba_poulet_curry_soja_patate_douce_0008.jpg

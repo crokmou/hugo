@@ -1,5 +1,4 @@
 ---
-type: post
 title: Saumon Teriyaki et son riz Basmati
 date: 2016-03-07T16:20:29+00:00
 thumbnail: https://crokmou.com/images/saumon-teriyaki-riz-crokmou-blog-culinaire.jpg

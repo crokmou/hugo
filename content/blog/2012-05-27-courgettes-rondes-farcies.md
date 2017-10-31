@@ -1,5 +1,4 @@
 ---
-type: post
 title: Courgettes rondes farcies
 date: 2012-05-27T14:10:00+00:00
 thumbnail: https://crokmou.com/images/20120519_Courgettes_rondes_farcies_poivron_0024.jpg

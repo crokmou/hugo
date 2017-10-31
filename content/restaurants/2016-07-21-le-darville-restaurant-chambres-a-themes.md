@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Le D'Arville, Restaurant & Chambres à thèmes"
 date: 2016-07-21T17:22:10+00:00
 thumbnail: https://crokmou.com/images/le-d-arville-restaurant-belgique-crokmou-blog-culinaire-15.jpg

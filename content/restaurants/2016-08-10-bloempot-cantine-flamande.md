@@ -1,5 +1,4 @@
 ---
-type: post
 title: Bloempot, cantine flamande
 date: 2016-08-10T16:37:22+00:00
 thumbnail: https://crokmou.com/images/restaurant-bloempot-cantine-flamande-lille-crokmou-blog-culinaire-8.jpg

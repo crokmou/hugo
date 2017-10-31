@@ -1,5 +1,4 @@
 ---
-type: post
 title: Compote de pommes en toute simplicité
 date: 2016-02-07T11:11:49+00:00
 thumbnail: https://crokmou.com/images/compote-pomme-poire-maison-crokmou-blog-culinaire.jpg

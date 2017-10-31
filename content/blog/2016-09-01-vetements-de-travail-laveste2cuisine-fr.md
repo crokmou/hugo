@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Vêtements de travail – Laveste2cuisine.fr'
 date: 2016-09-01T14:54:47+00:00
 thumbnail: https://crokmou.com/images/partenariat-laveste2cuisine-crokmou-blog-culinaire-01.jpg

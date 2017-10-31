@@ -1,5 +1,4 @@
 ---
-type: post
 title: Pâtes fraiches maison à la betterave
 date: 2017-03-24T19:46:26+00:00
 thumbnail: https://crokmou.com/images/recette-pates-fraiches-maison-betterave-crokmou-blog-cuisine-voyage-1-8.jpg

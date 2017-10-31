@@ -1,5 +1,4 @@
 ---
-type: post
 title: Tarte tatin Pierre Hermé
 date: 2013-01-16T10:25:00+00:00
 thumbnail: https://crokmou.com/images/20130113_tarte_tatin_pomme_0050.jpg

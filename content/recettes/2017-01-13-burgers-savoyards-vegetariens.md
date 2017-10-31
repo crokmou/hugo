@@ -1,5 +1,4 @@
 ---
-type: post
 title: Burgers savoyards végétariens
 date: 2017-01-13T18:30:19+00:00
 thumbnail: https://crokmou.com/images/burger-savoyard-vegetarien-crokmou-blog-culinaire-belge-2.jpg

@@ -1,5 +1,4 @@
 ---
-type: post
 title: Galette des rois pistache et chocolat
 date: 2015-01-04T19:19:00+00:00
 thumbnail: https://crokmou.com/images/galette-rois-pistache-chocolat-recette-blog-crokmou-1.jpg

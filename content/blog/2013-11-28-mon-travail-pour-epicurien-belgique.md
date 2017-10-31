@@ -1,5 +1,4 @@
 ---
-type: post
 title: Mon travail pour Epicurien.be
 date: 2013-11-28T22:24:00+00:00
 categories:

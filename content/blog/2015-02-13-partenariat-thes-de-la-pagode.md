@@ -1,5 +1,4 @@
 ---
-type: post
 title: Partenariat Thés de la Pagode
 date: 2015-02-13T17:24:00+00:00
 thumbnail: https://crokmou.com/images/partenariat-the-de-la-pagode-blog-culinaire-crokmou-1.jpg

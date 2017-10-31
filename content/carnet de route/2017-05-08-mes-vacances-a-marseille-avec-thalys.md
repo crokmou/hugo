@@ -1,5 +1,4 @@
 ---
-type: post
 title: Mes vacances à Marseille avec Thalys
 date: 2017-05-08T17:30:45+00:00
 thumbnail: https://crokmou.com/images/vacances-marseille-avec-thalys-crokmou-blog-cuisine-voyage-1.jpg

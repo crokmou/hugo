@@ -19,10 +19,10 @@ img { max-width: 100%; }
 body, html { height: 100%; }
 html { font-size: 62.5%; }
 body {
-  background: $brand-primary;
+  background: $brand-primary-light;
   > div,
   > header {
-    font-size: rem(16);
+    font-size: 18px;
   }
 }
 

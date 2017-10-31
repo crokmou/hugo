@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Concours de Noël en partenariat avec RueduCommerce {Concours commentaires}'
 date: 2012-12-11T07:29:00+00:00
 categories:

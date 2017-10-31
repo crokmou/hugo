@@ -1,5 +1,4 @@
 ---
-type: post
 title: Cake Vanille/Framboise
 date: 2011-07-10T16:44:00+00:00
 thumbnail: https://crokmou.com/images/IMG_2718.jpg

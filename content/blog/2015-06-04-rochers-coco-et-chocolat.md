@@ -1,5 +1,4 @@
 ---
-type: post
 title: Rochers coco et chocolat
 date: 2015-06-04T16:15:12+00:00
 thumbnail: https://crokmou.com/images/rochers-coco-recette-crokmou-blog-culinaire.jpg

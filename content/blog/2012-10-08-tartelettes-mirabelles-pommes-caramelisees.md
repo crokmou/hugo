@@ -1,5 +1,4 @@
 ---
-type: post
 title: Tartelettes mirabelles, pommes caramélisées
 date: 2012-10-08T14:43:00+00:00
 thumbnail: https://crokmou.com/images/20120926_tartelette_pomme_confiture_mirabelle_0018.jpg

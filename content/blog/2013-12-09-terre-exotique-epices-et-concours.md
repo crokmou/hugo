@@ -1,5 +1,4 @@
 ---
-type: post
 title: Terre Exotique, épices et concours
 date: 2013-12-09T19:34:00+00:00
 categories:

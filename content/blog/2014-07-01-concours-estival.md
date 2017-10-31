@@ -1,5 +1,4 @@
 ---
-type: post
 title: Concours Estival
 date: 2014-07-01T11:03:00+00:00
 categories:

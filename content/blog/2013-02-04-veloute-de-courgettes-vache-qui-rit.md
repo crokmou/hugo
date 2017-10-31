@@ -1,5 +1,4 @@
 ---
-type: post
 title: Velouté de courgettes, vache qui rit
 date: 2013-02-04T19:14:00+00:00
 thumbnail: https://crokmou.com/images/20130203_velout--_soupe_courgette_vache_qui_rit_0006.jpg

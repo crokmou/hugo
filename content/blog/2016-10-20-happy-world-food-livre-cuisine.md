@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Happy World Food – Le livre qui te donne envie de voyager !'
 date: 2016-10-20T18:21:28+00:00
 thumbnail: https://crokmou.com/images/livre-happy-world-food-anne-coppin-crokmou-blog-culinaire-01.jpg

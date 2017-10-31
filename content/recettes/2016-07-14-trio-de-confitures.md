@@ -1,5 +1,4 @@
 ---
-type: post
 title: Trio de confitures
 date: 2016-07-14T14:39:35+00:00
 thumbnail: https://crokmou.com/images/trio-confiture-crokmou-blog-culinaire.jpg

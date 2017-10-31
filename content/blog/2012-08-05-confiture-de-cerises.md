@@ -1,5 +1,4 @@
 ---
-type: post
 title: Confiture de cerises
 date: 2012-08-05T10:32:00+00:00
 thumbnail: https://crokmou.com/images/20120805_confiture_cerise_0016.jpg

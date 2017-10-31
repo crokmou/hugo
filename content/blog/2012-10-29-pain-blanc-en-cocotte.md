@@ -1,5 +1,4 @@
 ---
-type: post
 title: Pain blanc en cocotte
 date: 2012-10-29T15:40:00+00:00
 thumbnail: https://crokmou.com/images/20121029_pain_blanc_cuisson_cocotte_fonte_0002.jpg

@@ -1,5 +1,4 @@
 ---
-type: post
 title: Bodding au chocolat et noisettes
 date: 2015-01-11T16:09:00+00:00
 thumbnail: https://crokmou.com/images/bodding-chocolat-noisette-recette-blog-crokmou.jpg

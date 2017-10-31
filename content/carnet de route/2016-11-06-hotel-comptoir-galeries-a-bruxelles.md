@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Hôtel & Comptoir des galeries à Bruxelles'
 date: 2016-11-06T15:36:55+00:00
 thumbnail: https://crokmou.com/images/comptoir-hotel-des-galeries-bruxelles-crokmou-blog-culinaire-01.jpg

@@ -1,5 +1,4 @@
 ---
-type: post
 title: Levain fait maison
 date: 2014-06-26T15:58:00+00:00
 thumbnail: https://crokmou.com/images/levain-fait-maison-base-farine-seigle.jpg

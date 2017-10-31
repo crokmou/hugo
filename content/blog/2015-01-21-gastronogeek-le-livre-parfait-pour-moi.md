@@ -1,5 +1,4 @@
 ---
-type: post
 title: Gastronogeek, le livre parfait pour moi !
 date: 2015-01-21T15:49:00+00:00
 thumbnail: https://crokmou.com/images/avis-livre-gastronogeek-gastronomie-geek-blog-crokmou.jpg

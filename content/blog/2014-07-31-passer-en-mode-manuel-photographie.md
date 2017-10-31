@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Passer en mode manuel {Photographie}'
 date: 2014-07-31T16:37:00+00:00
 thumbnail: https://crokmou.com/images/MG_8582.jpg

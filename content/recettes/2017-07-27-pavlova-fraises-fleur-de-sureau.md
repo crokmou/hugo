@@ -1,5 +1,4 @@
 ---
-type: post
 title: Pavlova fraises et fleur de sureau
 date: 2017-07-27T18:18:23+00:00
 thumbnail: https://crokmou.com/images/chef-en-box-patisserie-pavlova-fraise-crokmou-blog-cuisine-voyage-belgique.jpg

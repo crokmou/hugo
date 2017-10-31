@@ -1,5 +1,4 @@
 ---
-type: post
 title: Le Chef David Martin au salon Batibouw
 date: 2017-02-19T19:36:42+00:00
 thumbnail: https://crokmou.com/images/chef-david-martin-la-paix-batibouw-Bauknecht-2017-1.jpg

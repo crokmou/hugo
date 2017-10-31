@@ -1,5 +1,4 @@
 ---
-type: post
 title: Pancakes par Martha Stewart
 date: 2016-08-17T16:29:36+00:00
 thumbnail: https://crokmou.com/images/pancakes-moelleux-crokmou-blog-culinaire.jpg

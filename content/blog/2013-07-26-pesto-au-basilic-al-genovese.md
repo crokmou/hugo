@@ -1,5 +1,4 @@
 ---
-type: post
 title: Pesto au basilic, alla genovese
 date: 2013-07-26T18:33:00+00:00
 thumbnail: https://crokmou.com/images/20130718_pesto_basilic_0023.jpg

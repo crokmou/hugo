@@ -1,5 +1,4 @@
 ---
-type: post
 title: Bretzels ou pretzels au levain
 date: 2017-04-27T17:30:58+00:00
 thumbnail: https://crokmou.com/images/bretzel-ou-pretzel-levain-recette-crokmou-blog-cuisine-voyage-1-10.jpg

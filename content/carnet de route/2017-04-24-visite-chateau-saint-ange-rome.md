@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'La visite du château Saint-Ange et ses secrets – Rome'
 date: 2017-04-24T17:44:18+00:00
 thumbnail: https://crokmou.com/images/weekend-rome-italie-crokmou-blog-cuisine-voyage-belgique-70.jpg

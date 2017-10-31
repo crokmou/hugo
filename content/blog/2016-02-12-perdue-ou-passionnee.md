@@ -1,5 +1,4 @@
 ---
-type: post
 title: Perdue ou simplement passionnée ?
 date: 2016-02-12T15:33:45+00:00
 thumbnail: https://crokmou.com/images/stock-photo-85087405.jpg

@@ -1,5 +1,4 @@
 ---
-type: post
 title: Gratin de choux, jambon et pommes de terre
 date: 2014-08-21T15:23:00+00:00
 thumbnail: https://crokmou.com/images/gratin-pomme-de-terre-chou-fleur-romanesco-brocoli.jpg

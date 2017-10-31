@@ -1,5 +1,4 @@
 ---
-type: post
 title: Moussaka aux légumes
 date: 2011-06-11T23:41:00+00:00
 thumbnail: https://crokmou.com/images/Moussaka.jpg

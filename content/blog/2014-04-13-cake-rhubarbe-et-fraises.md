@@ -1,5 +1,4 @@
 ---
-type: post
 title: Cake rhubarbe et fraises
 date: 2014-04-13T18:50:00+00:00
 thumbnail: https://crokmou.com/images/cake-rhubarbe-fraise.jpg

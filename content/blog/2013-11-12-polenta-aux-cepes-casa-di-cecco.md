@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Polenta aux cèpes {Casa di Cecco}'
 date: 2013-11-12T19:10:00+00:00
 thumbnail: https://crokmou.com/images/casa_di_cecco_polenta_cepe_0006.jpg

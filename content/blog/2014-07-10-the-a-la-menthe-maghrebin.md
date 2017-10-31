@@ -1,5 +1,4 @@
 ---
-type: post
 title: Thé à la menthe Maghrébin
 date: 2014-07-10T21:12:00+00:00
 thumbnail: https://crokmou.com/images/the-menthe-maghrebin.jpg

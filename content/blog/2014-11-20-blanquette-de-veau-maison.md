@@ -1,5 +1,4 @@
 ---
-type: post
 title: Blanquette de veau maison
 date: 2014-11-20T17:20:00+00:00
 thumbnail: https://crokmou.com/images/blanquette-veau-recette-crokmou-blog-culinaire.jpg

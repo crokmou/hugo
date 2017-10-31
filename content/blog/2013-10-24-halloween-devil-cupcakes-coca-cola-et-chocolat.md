@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Halloween Devil cupcakes {Coca cola et chocolat}'
 date: 2013-10-24T18:49:00+00:00
 thumbnail: https://crokmou.com/images/cupcake_halloween_coca_cola_0018.jpg

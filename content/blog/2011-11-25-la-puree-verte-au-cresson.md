@@ -1,5 +1,4 @@
 ---
-type: post
 title: La purée verte au cresson
 date: 2011-11-25T14:05:00+00:00
 thumbnail: https://crokmou.com/images/20111125_puree_verte_cresson1.jpg

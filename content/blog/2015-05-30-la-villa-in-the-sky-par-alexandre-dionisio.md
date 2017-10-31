@@ -1,5 +1,4 @@
 ---
-type: post
 title: La Villa in the Sky par Alexandre Dionisio
 date: 2015-05-30T15:13:56+00:00
 thumbnail: https://crokmou.com/images/lunch-la-villa-in-the-sky-brussels-crokmou-blog-culinaire-8.jpg

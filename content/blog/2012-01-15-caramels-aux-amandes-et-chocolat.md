@@ -1,5 +1,4 @@
 ---
-type: post
 title: Caramels aux amandes et chocolat
 date: 2012-01-15T12:41:00+00:00
 thumbnail: https://crokmou.com/images/20120115_caramel_chocolat_miel_amande_1.jpg

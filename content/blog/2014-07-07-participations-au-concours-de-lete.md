@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Participations au concours de l'été"
 date: 2014-07-07T20:21:00+00:00
 categories:

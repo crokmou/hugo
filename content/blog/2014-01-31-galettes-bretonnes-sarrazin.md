@@ -1,5 +1,4 @@
 ---
-type: post
 title: Galettes Bretonnes sarrazin
 date: 2014-01-31T18:11:00+00:00
 thumbnail: https://crokmou.com/images/300114-galette-sarrasin-bretonne-02.jpg

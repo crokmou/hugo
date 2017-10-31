@@ -1,5 +1,4 @@
 ---
-type: post
 title: Tarte à la rhubarbe
 date: 2011-04-28T17:15:00+00:00
 thumbnail: https://crokmou.com/images/Tarte-rhubarbe.jpg

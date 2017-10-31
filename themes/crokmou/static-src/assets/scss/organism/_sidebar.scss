@@ -1,6 +1,7 @@
 .sidebar {
   padding: 0 $global-spacing  $global-spacing;
   background-color: $white;
+  font-size: .9em;
   ul { list-style-type: none; }
   &__section {
     &__item {

@@ -1,5 +1,4 @@
 ---
-type: post
 title: Résultats du concours pour les petits livres Marabout
 date: 2012-09-04T16:04:00+00:00
 categories:

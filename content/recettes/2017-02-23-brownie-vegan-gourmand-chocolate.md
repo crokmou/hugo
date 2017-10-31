@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Brownie Vegan, une recette chocolatée & gourmande !'
 date: 2017-02-23T18:37:49+00:00
 thumbnail: https://crokmou.com/images/brownie-vegan-partenariat-generation-cooking-crokmou-blog-belge-cuisine-voyage-1.jpg

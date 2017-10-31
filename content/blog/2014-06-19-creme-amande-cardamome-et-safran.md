@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Crème d'amande cardamome et safran"
 date: 2014-06-19T11:39:00+00:00
 thumbnail: https://crokmou.com/images/creme-amande-badam-halwa-cardamome-safran.jpg

@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Croque François – Restaurant à Lille'
 date: 2017-02-06T19:09:51+00:00
 thumbnail: https://crokmou.com/images/croque-francois-restaurant-lille-france-crokmou-blog-cuisine-voyage-belgique-4.jpg

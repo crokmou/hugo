@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Feta marinée à l'huile d'olive"
 date: 2014-06-12T17:35:00+00:00
 thumbnail: https://crokmou.com/images/feta-marin--e-aperitif.jpg

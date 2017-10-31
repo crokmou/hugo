@@ -1,5 +1,4 @@
 ---
-type: post
 title: Makis faits maison, recette en vidéo
 date: 2016-06-23T15:58:36+00:00
 thumbnail: https://crokmou.com/images/makis-vg-crokmou-blog-culinaire.jpg

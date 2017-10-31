@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Moustache cookies {Concours}'
 date: 2014-06-01T20:38:00+00:00
 thumbnail: https://crokmou.com/images/moustache-cookies-concours.jpg

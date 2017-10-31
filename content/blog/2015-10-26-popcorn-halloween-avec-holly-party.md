@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Popcorn d'Halloween avec Holly Party {+ concours}"
 date: 2015-10-26T10:03:16+00:00
 thumbnail: https://crokmou.com/images/pop-corn-halloween-recette-crokmou-blog-culinaire.jpg

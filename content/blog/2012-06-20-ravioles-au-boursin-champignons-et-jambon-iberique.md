@@ -1,5 +1,4 @@
 ---
-type: post
 title: Ravioles au Boursin champignons et jambon Iberique
 date: 2012-06-20T10:15:00+00:00
 thumbnail: https://crokmou.com/images/20120531_ravioles_boursin_cuisine_champignon_jambon_iberique_0026.jpg

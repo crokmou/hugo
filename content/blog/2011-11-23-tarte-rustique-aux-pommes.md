@@ -1,5 +1,4 @@
 ---
-type: post
 title: Tarte rustique aux pommes
 date: 2011-11-23T17:17:00+00:00
 thumbnail: https://crokmou.com/images/20111123_tarte_rustique_pomme_1.jpg

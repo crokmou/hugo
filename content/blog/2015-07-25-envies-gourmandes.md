@@ -1,5 +1,4 @@
 ---
-type: post
 title: Envies gourmandes
 date: 2015-07-25T13:15:54+00:00
 thumbnail: https://crokmou.com/images/Wishlist-1.jpg

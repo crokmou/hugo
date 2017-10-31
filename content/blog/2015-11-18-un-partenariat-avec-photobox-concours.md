@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Un partenariat avec Photobox {+ concours}'
 date: 2015-11-18T14:35:27+00:00
 thumbnail: https://crokmou.com/images/partenariat-photobox-crokmou-blog-culinaire-1.jpg

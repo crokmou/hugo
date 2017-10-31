@@ -1,5 +1,4 @@
 ---
-type: post
 title: Pancakes pralinés vegan, mon bonheur tous les Dimanches !
 date: 2017-05-04T17:48:12+00:00
 thumbnail: https://crokmou.com/images/pancakes-vegan-vg-crokmou-blog-cuisine-voyage-1.jpg

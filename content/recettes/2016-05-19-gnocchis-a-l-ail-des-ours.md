@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Gnocchis à l'ail des ours, écume de fleur et chèvre"
 date: 2016-05-19T15:07:36+00:00
 thumbnail: https://crokmou.com/images/gnocchi-a-l-ail-des-ours-crokmou-blog-culinaire-1.jpg

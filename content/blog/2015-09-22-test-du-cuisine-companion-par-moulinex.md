@@ -1,5 +1,4 @@
 ---
-type: post
 title: Test du Cuisine Companion par Moulinex
 date: 2015-09-22T16:42:18+00:00
 thumbnail: https://crokmou.com/images/test-companion-moulinex-crokmou-blog-culinaire1.jpg

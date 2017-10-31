@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Cups au chocolat blanc et amandes, glaçage chocolat, copeaux d'amandes"
 date: 2011-04-12T10:11:00+00:00
 thumbnail: https://crokmou.com/images/IMG_8076.jpg

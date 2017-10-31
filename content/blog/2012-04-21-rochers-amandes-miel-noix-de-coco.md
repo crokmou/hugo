@@ -1,5 +1,4 @@
 ---
-type: post
 title: Rochers amandes, miel, noix de coco
 date: 2012-04-21T09:00:00+00:00
 thumbnail: https://crokmou.com/images/20120401_Rocher_coco_amande_15.jpg

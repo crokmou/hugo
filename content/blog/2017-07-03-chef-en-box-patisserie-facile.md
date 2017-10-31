@@ -1,5 +1,4 @@
 ---
-type: post
 title: "J'ai testé le Chef en box, la pâtisserie facile !"
 date: 2017-07-03T16:16:39+00:00
 thumbnail: https://crokmou.com/images/chef-en-box-patisserie-pavlova-fraise-crokmou-blog-cuisine-voyage-belgique-1.jpg

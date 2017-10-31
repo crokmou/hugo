@@ -1,5 +1,4 @@
 ---
-type: post
 title: Gateau aux noix
 date: 2011-11-14T09:30:00+00:00
 thumbnail: https://crokmou.com/images/IMG_4510-final.jpg

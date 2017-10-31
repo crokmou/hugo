@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Wishlist de Mai – Et si on voyageait ?'
 date: 2017-05-22T17:30:22+00:00
 thumbnail: https://crokmou.com/images/citytrip-andorre-andorra-crokmou-blog-cuisine-voyage-belgique-11.jpg

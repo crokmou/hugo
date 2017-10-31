@@ -1,5 +1,4 @@
 ---
-type: post
 title: Croquettes au boursin poivre
 date: 2012-05-04T17:56:00+00:00
 thumbnail: https://crokmou.com/images/20120426_croquette_cheesy_boursin_aperitif_0029.jpg

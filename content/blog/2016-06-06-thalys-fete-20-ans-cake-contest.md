@@ -1,5 +1,4 @@
 ---
-type: post
 title: Thalys fête ses 20 ans avec le Cake Contest
 date: 2016-06-06T10:00:03+00:00
 thumbnail: https://crokmou.com/images/H6A1766.jpg

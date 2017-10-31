@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Un concours moelleux pour souffler la 2ème bougie ! {Partenariat Apluches}'
 date: 2013-04-21T16:02:00+00:00
 categories:

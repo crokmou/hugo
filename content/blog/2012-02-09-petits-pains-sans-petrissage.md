@@ -1,5 +1,4 @@
 ---
-type: post
 title: Petits pains sans pétrissage
 date: 2012-02-09T20:30:00+00:00
 thumbnail: https://crokmou.com/images/20120209_Pain_sans_petrissage_0050.jpg

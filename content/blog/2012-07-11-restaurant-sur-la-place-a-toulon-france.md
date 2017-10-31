@@ -1,5 +1,4 @@
 ---
-type: post
 title: Restaurant Sur la place à Toulon (France)
 date: 2012-07-11T17:12:00+00:00
 categories:

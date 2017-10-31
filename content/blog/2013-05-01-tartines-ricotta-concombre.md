@@ -1,5 +1,4 @@
 ---
-type: post
 title: Tartines ricotta, concombre
 date: 2013-05-01T12:35:00+00:00
 thumbnail: https://crokmou.com/images/20130429_tartine_ricotta_radis_concombre_ciboulette_0020.jpg

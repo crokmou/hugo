@@ -1,5 +1,4 @@
 ---
-type: post
 title: Fortune cookies Halloween
 date: 2015-10-29T16:05:47+00:00
 thumbnail: https://crokmou.com/images/fortune-cookies-halloween-crokmou-blog-culinaire-1.jpg

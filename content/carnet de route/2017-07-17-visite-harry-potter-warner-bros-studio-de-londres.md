@@ -1,5 +1,4 @@
 ---
-type: post
 title: Visite au Harry Potter Warner Bros Studio de Londres
 date: 2017-07-17T18:27:21+00:00
 thumbnail: https://crokmou.com/images/harry-potter-warner-bros-studio-londres-crokmou-blog-cuisine-voyage-belgique.jpg

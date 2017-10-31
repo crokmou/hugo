@@ -1,5 +1,4 @@
 ---
-type: post
 title: Riz au lait vanillé, caramel beurre salé
 date: 2013-11-18T12:32:00+00:00
 thumbnail: https://crokmou.com/images/riz_lait_vanille_caramel_beurre_sale_0026.jpg

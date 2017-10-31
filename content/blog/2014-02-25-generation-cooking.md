@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Génération Cooking : matériel de cuisine'
 date: 2014-02-25T18:21:00+00:00
 thumbnail: https://crokmou.com/images/template-logo.jpg

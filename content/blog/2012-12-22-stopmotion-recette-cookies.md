@@ -1,5 +1,4 @@
 ---
-type: post
 title: Stopmotion recette cookies
 date: 2012-12-22T16:33:00+00:00
 categories:

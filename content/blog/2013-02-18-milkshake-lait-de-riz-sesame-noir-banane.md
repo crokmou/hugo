@@ -1,5 +1,4 @@
 ---
-type: post
 title: Milkshake lait de riz, sésame noir, banane
 date: 2013-02-18T09:23:00+00:00
 thumbnail: https://crokmou.com/images/20130217_milkshake_sesame_noir_banane_citron_vert_0030.jpg

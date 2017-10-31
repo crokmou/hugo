@@ -1,5 +1,4 @@
 ---
-type: post
 title: Crozets Savoyard
 date: 2011-12-11T14:30:00+00:00
 thumbnail: https://crokmou.com/images/20111211_crozet_savoyard_1.jpg

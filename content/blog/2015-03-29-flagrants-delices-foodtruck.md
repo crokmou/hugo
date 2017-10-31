@@ -1,5 +1,4 @@
 ---
-type: post
 title: Flagrants Délices, foodtruck mais pas seulement
 date: 2015-03-29T16:00:13+00:00
 thumbnail: https://crokmou.com/images/soiree-bbb-flagrants-delices-bruxelles-17.jpg

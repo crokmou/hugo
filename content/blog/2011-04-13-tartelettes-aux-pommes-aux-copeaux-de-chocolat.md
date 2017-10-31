@@ -1,5 +1,4 @@
 ---
-type: post
 title: Tartelettes aux pommes aux copeaux de chocolat
 date: 2011-04-13T16:30:00+00:00
 thumbnail: https://crokmou.com/images/Tarte-aux-pommes.jpg

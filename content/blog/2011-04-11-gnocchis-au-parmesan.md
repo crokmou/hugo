@@ -1,5 +1,4 @@
 ---
-type: post
 title: Gnocchis au parmesan
 date: 2011-04-11T22:11:00+00:00
 thumbnail: https://crokmou.com/images/Gnocchis.jpg

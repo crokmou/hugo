@@ -1,5 +1,4 @@
 ---
-type: post
 title: Recettes de Noël et Nouvel An
 date: 2016-12-21T17:37:43+00:00
 thumbnail: https://crokmou.com/images/recette-noel-fin-annee-crokmou-blog-cuisine-voyage-belgique.jpg

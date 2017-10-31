@@ -1,5 +1,4 @@
 ---
-type: post
 title: "La retouche photo, c'est facile et rapide ! Astuces en vidéo"
 date: 2017-06-27T16:23:12+00:00
 thumbnail: https://crokmou.com/images/voyage-weekend-citytrip-londres-sunset-crokmou-blog-cuisine-voyage-belgique.jpg

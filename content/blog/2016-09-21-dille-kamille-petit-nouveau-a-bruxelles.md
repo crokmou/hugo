@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Dille & Kamille – Un petit nouveau à Bruxelles'
 date: 2016-09-21T15:31:25+00:00
 thumbnail: https://crokmou.com/images/opening-dille-kamille-bruxelles-centre-crokmou-blog-culinaire-01.jpg

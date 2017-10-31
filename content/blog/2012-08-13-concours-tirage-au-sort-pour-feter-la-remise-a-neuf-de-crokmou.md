@@ -1,5 +1,4 @@
 ---
-type: post
 title: Concours (Tirage au sort) pour fêter la remise à neuf de Crokmou !
 date: 2012-08-13T15:22:00+00:00
 categories:

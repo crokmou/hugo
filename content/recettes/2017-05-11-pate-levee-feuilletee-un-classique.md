@@ -1,5 +1,4 @@
 ---
-type: post
 title: Pâte levée feuilletée, un classique
 date: 2017-05-11T17:30:48+00:00
 thumbnail: https://crokmou.com/images/pâte-levée-feuilletée-plf-crokmou-blog-cuisine-voyage-1-14.jpg

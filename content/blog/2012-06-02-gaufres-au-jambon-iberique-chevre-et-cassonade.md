@@ -1,5 +1,4 @@
 ---
-type: post
 title: Gaufres au jambon Ibérique, chèvre et cassonade
 date: 2012-06-02T14:55:00+00:00
 thumbnail: https://crokmou.com/images/20120528_gaufre_chevre_miel_jambon_hyberique_cassonade_0011.jpg

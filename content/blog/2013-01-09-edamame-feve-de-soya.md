@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Edamame, fève de soya {Découverte ingrédient}'
 date: 2013-01-09T20:02:00+00:00
 thumbnail: https://crokmou.com/images/20130109_edame_feve_soya_decouverte_recette_0077.jpg

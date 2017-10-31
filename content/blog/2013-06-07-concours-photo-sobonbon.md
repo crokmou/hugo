@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Concours photo So'Bonbon"
 date: 2013-06-07T09:09:00+00:00
 categories:

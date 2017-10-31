@@ -1,5 +1,4 @@
 ---
-type: post
 title: Beignets au four, fève tonka
 date: 2012-11-05T13:12:00+00:00
 thumbnail: https://crokmou.com/images/20121101_beignet_four_feve_tonka_0027.jpg

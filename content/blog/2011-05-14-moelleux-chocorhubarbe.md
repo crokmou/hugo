@@ -1,5 +1,4 @@
 ---
-type: post
 title: Moelleux choco/rhubarbe
 date: 2011-05-14T17:48:00+00:00
 thumbnail: https://crokmou.com/images/Moelleux-choco-rhubarbe-2.jpg

@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Photographie – Mon travail pour Kalios'
 date: 2017-01-21T19:01:50+00:00
 thumbnail: https://crokmou.com/images/packshot-kalios-fruits-secs-HD-TIFF.png

@@ -1,5 +1,4 @@
 ---
-type: post
 title: Gâteau renversé aux mirabelles légèrement caramélisées
 date: 2011-08-21T18:41:00+00:00
 thumbnail: https://crokmou.com/images/Gateau-renvers---2.jpg

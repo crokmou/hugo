@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Pâtes d'épeautre, artichauts poivrade, tomates cerises et burrata"
 date: 2017-04-20T16:31:59+00:00
 thumbnail: https://crokmou.com/images/recette-pate-epeautre-artichaut-tomate-burrata-crokmou-blog-cuisine-voyage-1-3.jpg

@@ -1,5 +1,4 @@
 ---
-type: post
 title: Pommes de terre à la Suèdoise au chorizo
 date: 2014-05-15T17:04:00+00:00
 thumbnail: https://crokmou.com/images/pomme-de-terre-hasselback-suedoise.jpg

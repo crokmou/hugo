@@ -1,5 +1,4 @@
 ---
-type: post
 title: Palmiers (biscuits feuilletés)
 date: 2012-06-26T07:55:00+00:00
 thumbnail: https://crokmou.com/images/20120621_biscuit_feuillet--_palmier_0003.jpg

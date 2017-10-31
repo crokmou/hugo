@@ -1,5 +1,4 @@
 ---
-type: post
 title: Tarte aux pommes crumble
 date: 2016-09-08T16:17:33+00:00
 thumbnail: https://crokmou.com/images/Tarte-pomme-crumble-crokmou-blog-culinaire-16.jpg

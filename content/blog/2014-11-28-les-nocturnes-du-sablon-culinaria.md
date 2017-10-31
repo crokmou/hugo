@@ -1,5 +1,4 @@
 ---
-type: post
 title: Les Nocturnes du Sablon Culinaria
 date: 2014-11-28T13:17:00+00:00
 thumbnail: https://crokmou.com/images/culinaria-nocturnes-sablon-2014-blog-crokmou-2.jpg

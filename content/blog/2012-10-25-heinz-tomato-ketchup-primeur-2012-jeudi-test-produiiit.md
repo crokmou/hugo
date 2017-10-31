@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Heinz Tomato Ketchup Primeur 2012 { Jeudi test produiiit }'
 date: 2012-10-25T14:19:00+00:00
 thumbnail: https://crokmou.com/images/20121001_ketchup_heinz_primeur_0027_ok.jpg

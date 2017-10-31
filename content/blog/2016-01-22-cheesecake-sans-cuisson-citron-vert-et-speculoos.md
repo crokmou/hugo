@@ -1,5 +1,4 @@
 ---
-type: post
 title: Cheesecake sans cuisson citron vert et speculoos
 date: 2016-01-22T11:28:10+00:00
 thumbnail: https://crokmou.com/images/cheesecake-sans-cuisson-citron-vert-crokmou-blog-culinaire.jpg

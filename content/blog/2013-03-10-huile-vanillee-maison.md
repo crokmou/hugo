@@ -1,5 +1,4 @@
 ---
-type: post
 title: Huile vanillée maison
 date: 2013-03-10T10:13:00+00:00
 thumbnail: https://crokmou.com/images/20130302_huile_olive_vanille_0020.jpg

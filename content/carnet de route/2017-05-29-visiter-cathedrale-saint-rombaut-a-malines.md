@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Visiter la Cathédrale Saint-Rombaut à Malines – Belgique'
 date: 2017-05-29T18:23:34+00:00
 thumbnail: https://crokmou.com/images/tour-saint-rombaut-malines-mechelen-flandres-belgique-crokmou-blog-cuisine-voyage-1.jpg

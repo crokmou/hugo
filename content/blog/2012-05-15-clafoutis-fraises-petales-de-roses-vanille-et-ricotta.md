@@ -1,5 +1,4 @@
 ---
-type: post
 title: Clafoutis fraises, pétales de roses, vanille et ricotta
 date: 2012-05-15T14:30:00+00:00
 thumbnail: https://crokmou.com/images/20120411_clafouti_fraise_confit_petale_rose_vanille_0006.jpg

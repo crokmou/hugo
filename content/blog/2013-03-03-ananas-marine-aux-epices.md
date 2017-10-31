@@ -1,5 +1,4 @@
 ---
-type: post
 title: Ananas mariné aux épices, une recette fraîche et rapide
 date: 2013-03-03T14:32:00+00:00
 thumbnail: https://crokmou.com/images/20130302_ananas_marin--_epices_0024.jpg

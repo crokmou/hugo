@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Kokuban, restaurant Japonais {Bruxelles}'
 date: 2013-01-18T21:40:00+00:00
 categories:

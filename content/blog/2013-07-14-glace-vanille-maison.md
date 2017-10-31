@@ -1,5 +1,4 @@
 ---
-type: post
 title: Glace vanille maison
 date: 2013-07-14T17:18:00+00:00
 thumbnail: https://crokmou.com/images/20130710_glace_vanille_0045.jpg

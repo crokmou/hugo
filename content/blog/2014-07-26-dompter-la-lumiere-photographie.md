@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Dompter la lumière {Photographie}'
 date: 2014-07-26T08:20:00+00:00
 thumbnail: https://crokmou.com/images/photomaitriser-eclairage-lumiere-jour-brute-plan.jpg

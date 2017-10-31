@@ -1,5 +1,4 @@
 ---
-type: post
 title: Pâte feuilletée inversée
 date: 2014-12-27T17:55:00+00:00
 thumbnail: https://crokmou.com/images/pate-feuillet--e-invers--e-recette-blog-crokmou.jpg

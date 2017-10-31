@@ -1,5 +1,4 @@
 ---
-type: post
 title: Un joli roadtrip dans le Nord du Massif des Vosges
 date: 2017-06-22T19:15:33+00:00
 thumbnail: https://crokmou.com/images/voyage-nord-massif-vosges-france-chateau-sch%C5%93neck-crokmou-blog-cuisine-voyage-belgique-10.jpg

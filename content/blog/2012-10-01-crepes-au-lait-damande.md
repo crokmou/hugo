@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Crepes au lait d'amande"
 date: 2012-10-01T13:59:00+00:00
 thumbnail: https://crokmou.com/images/crepe_lait_amande_vanille.jpg

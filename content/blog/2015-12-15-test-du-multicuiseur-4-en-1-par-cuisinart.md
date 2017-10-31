@@ -1,5 +1,4 @@
 ---
-type: post
 title: Test du multicuiseur 4 en 1 par Cuisinart
 date: 2015-12-15T17:46:58+00:00
 thumbnail: https://crokmou.com/images/test-multi-cuiseur-cuisinart-crokmou-blog-culinaire.jpg

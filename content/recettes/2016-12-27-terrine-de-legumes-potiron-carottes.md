@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Terrine de légumes, potiron & carottes'
 date: 2016-12-27T18:00:15+00:00
 thumbnail: https://crokmou.com/images/terrine-legume-potiron-carotte-crokmou-blog-cuisine-voyage-belgique-1.jpg

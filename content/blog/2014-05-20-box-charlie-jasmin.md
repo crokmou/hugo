@@ -1,5 +1,4 @@
 ---
-type: post
 title: Box Charlie Jasmin
 date: 2014-05-20T15:17:00+00:00
 thumbnail: https://crokmou.com/images/box-charlie-jasmin-pour-petits-et-grands.jpg

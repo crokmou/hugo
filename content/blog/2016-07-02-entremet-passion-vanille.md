@@ -1,5 +1,4 @@
 ---
-type: post
 title: Entremet passion-vanille
 date: 2016-07-02T15:42:42+00:00
 thumbnail: https://crokmou.com/images/entremet-passion-vanille-crokmou-blog-culinaire-2.jpg

@@ -1,5 +1,4 @@
 ---
-type: post
 title: "« L'amandier, cuisine, père & fils »"
 date: 2016-02-04T18:20:56+00:00
 thumbnail: https://crokmou.com/images/livre-martin-volkaerts-l-amandier-crokmou-blog-culinaire.jpg

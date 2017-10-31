@@ -1,5 +1,4 @@
 ---
-type: post
 title: "La boite d'Hortense {Concours}"
 date: 2014-01-29T16:25:00+00:00
 categories:

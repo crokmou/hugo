@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Gagnez un tablier de cuisine personnalisé {concours commentaires}'
 date: 2012-09-25T19:40:00+00:00
 categories:

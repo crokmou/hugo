@@ -1,5 +1,4 @@
 ---
-type: post
 title: Pancakes vegan, légers et moelleux
 date: 2016-12-08T19:28:33+00:00
 thumbnail: https://crokmou.com/images/pancakes-vegan-vg-crokmou-blog-culinaire-belge-1.jpg

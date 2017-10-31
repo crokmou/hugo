@@ -1,5 +1,4 @@
 ---
-type: post
 title: Stock, magasin bio et vrac à Bruxelles
 date: 2017-05-15T17:30:05+00:00
 thumbnail: https://crokmou.com/images/stock-magasin-bio-vrac-bruxelles-belgique-crokmou-blog-cuisine-voyage-1-9.jpg

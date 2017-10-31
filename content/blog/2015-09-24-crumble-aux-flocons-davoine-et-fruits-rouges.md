@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Crumble aux flocons d'avoine et fruits rouges"
 date: 2015-09-24T14:05:25+00:00
 thumbnail: https://crokmou.com/images/recette-crumble-flocon-avoine-fruits-rouge-crokmou-blog-culinaire-1.jpg

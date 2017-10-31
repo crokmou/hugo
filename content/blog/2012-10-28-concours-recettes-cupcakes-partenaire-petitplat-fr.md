@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Concours recettes cupcakes {Partenaire Petitplat.fr}'
 date: 2012-10-28T10:05:00+00:00
 categories:

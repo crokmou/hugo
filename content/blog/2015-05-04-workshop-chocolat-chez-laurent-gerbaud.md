@@ -1,5 +1,4 @@
 ---
-type: post
 title: Workshop chocolat chez Laurent Gerbaud
 date: 2015-05-04T08:28:09+00:00
 thumbnail: https://crokmou.com/images/workshop-yelp-laurent-gerbaud-chocolaterie.jpg

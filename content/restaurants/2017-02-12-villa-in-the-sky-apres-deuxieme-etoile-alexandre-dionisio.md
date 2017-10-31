@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'La villa in the sky** après la deuxième étoile – Alexandre Dionisio'
 date: 2017-02-12T20:46:42+00:00
 thumbnail: https://crokmou.com/images/restaurant-la-villa-in-the-sky-alexandre-dionisio-bruxelles-gastronomique-crokmou-blog-cuisine-voyage-belgique-18.jpg

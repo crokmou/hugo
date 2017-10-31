@@ -1,5 +1,4 @@
 ---
-type: post
 title: Pain au levain sans pétrissage
 date: 2016-11-14T18:00:02+00:00
 thumbnail: https://crokmou.com/images/pain-levain-sans-petrissage-boulangerie-crokmou-blog-culinaire-belge.jpg

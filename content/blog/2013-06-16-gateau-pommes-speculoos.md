@@ -1,5 +1,4 @@
 ---
-type: post
 title: Gâteau pommes, speculoos
 date: 2013-06-16T16:43:00+00:00
 thumbnail: https://crokmou.com/images/gateau_biscuit_speculoos_stephen_destree_BD_30x40.jpg

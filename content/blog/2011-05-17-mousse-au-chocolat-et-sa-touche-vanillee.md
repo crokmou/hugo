@@ -1,5 +1,4 @@
 ---
-type: post
 title: Mousse au chocolat et sa touche vanillée
 date: 2011-05-17T19:59:00+00:00
 thumbnail: https://crokmou.com/images/Mousse-au-chocolat-vanill--.jpg

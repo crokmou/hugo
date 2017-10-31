@@ -1,5 +1,4 @@
 ---
-type: post
 title: Carbonade Flamande
 date: 2015-12-27T17:37:08+00:00
 thumbnail: https://crokmou.com/images/recette-carbonade-flamande-crokmou-blog-culinaire-1.jpg

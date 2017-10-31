@@ -1,5 +1,4 @@
 ---
-type: post
 title: Sablés de Noyel
 date: 2011-12-17T21:25:00+00:00
 thumbnail: https://crokmou.com/images/20111217_sable_noel_chocolat1.jpg

@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Un blog c'est aussi…"
 date: 2015-07-29T11:11:38+00:00
 thumbnail: https://crokmou.com/images/945213_569577876430616_2128187709_n.jpg

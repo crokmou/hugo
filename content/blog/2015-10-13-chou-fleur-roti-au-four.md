@@ -1,5 +1,4 @@
 ---
-type: post
 title: Chou fleur rôti au four
 date: 2015-10-13T17:42:02+00:00
 thumbnail: https://crokmou.com/images/chou-fleu-roti-four-recette-crokmou-blog-culinaire.jpg

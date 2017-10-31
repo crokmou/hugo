@@ -1,5 +1,4 @@
 ---
-type: post
 title: Entremet chocolat noir, citron vert et miel
 date: 2014-05-08T18:45:00+00:00
 thumbnail: https://crokmou.com/images/entremet-shortbread-citron-vert-miel-pin-chocolat-mousse-miel.jpg

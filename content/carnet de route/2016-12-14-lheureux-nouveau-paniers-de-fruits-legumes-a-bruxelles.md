@@ -1,5 +1,4 @@
 ---
-type: post
 title: "L'Heureux Nouveau – Paniers de fruits & légumes à Bruxelles"
 date: 2016-12-14T18:42:26+00:00
 thumbnail: https://crokmou.com/images/l-heueux-nouveau-livraison-panier-legume-bruxelles-crokmou-blog-culinaire-01.jpg

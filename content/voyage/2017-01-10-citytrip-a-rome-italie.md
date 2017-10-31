@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Citytrip à Rome – Italie'
 date: 2017-01-10T18:22:59+00:00
 thumbnail: https://crokmou.com/images/weekend-rome-italie-crokmou-blog-cuisine-voyage-belgique-19.jpg

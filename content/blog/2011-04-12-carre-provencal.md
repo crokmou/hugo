@@ -1,5 +1,4 @@
 ---
-type: post
 title: Carré Provencal
 date: 2011-04-12T14:15:00+00:00
 thumbnail: https://crokmou.com/images/Samoussa-provencal-2.jpg

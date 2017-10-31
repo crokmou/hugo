@@ -1,5 +1,4 @@
 ---
-type: post
 title: Crêpes végétales
 date: 2016-09-29T16:44:46+00:00
 thumbnail: https://crokmou.com/images/crepe-vegan-vg-crokmou-blog-culinaire-01-1.jpg

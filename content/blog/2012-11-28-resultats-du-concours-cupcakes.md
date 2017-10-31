@@ -1,5 +1,4 @@
 ---
-type: post
 title: Résultats du concours Cupcakes !
 date: 2012-11-28T17:59:00+00:00
 categories:

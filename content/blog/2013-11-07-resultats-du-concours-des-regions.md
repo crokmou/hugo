@@ -1,5 +1,4 @@
 ---
-type: post
 title: Résultats du concours des Régions
 date: 2013-11-07T17:26:00+00:00
 categories:

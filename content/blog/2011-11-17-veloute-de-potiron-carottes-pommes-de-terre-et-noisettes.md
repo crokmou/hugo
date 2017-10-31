@@ -1,5 +1,4 @@
 ---
-type: post
 title: Velouté de potiron, carottes, pommes de terre et noisettes.
 date: 2011-11-17T16:20:00+00:00
 thumbnail: https://crokmou.com/images/20111117_soupe_potiron_carotte_noisette_1.jpg

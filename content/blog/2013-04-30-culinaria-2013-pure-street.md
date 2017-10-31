@@ -1,5 +1,4 @@
 ---
-type: post
 title: Culinaria 2013, Pure Street
 date: 2013-04-30T17:37:00+00:00
 categories:

@@ -1,5 +1,4 @@
 ---
-type: post
 title: Meringues au yuzu et grué de cacao
 date: 2014-04-24T18:19:00+00:00
 thumbnail: https://crokmou.com/images/meringue-francaise-nature-yuzu-gru--.jpg

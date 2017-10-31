@@ -1,5 +1,4 @@
 ---
-type: post
 title: Citytrip à Rotterdam
 date: 2016-11-24T16:00:28+00:00
 thumbnail: https://crokmou.com/images/rotterdam-citytrip-octobre-2016-crokmou-blog-culinaire-belge-8.jpg

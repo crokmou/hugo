@@ -1,5 +1,4 @@
 ---
-type: post
 title: Cupcakes Tiramisu
 date: 2013-04-08T11:49:00+00:00
 thumbnail: https://crokmou.com/images/20130407_cupcake_tiramisu_0035.jpg

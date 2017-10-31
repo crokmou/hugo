@@ -1,4 +1,1 @@
----
-type: "page"
----
 Voyages

@@ -1,5 +1,4 @@
 ---
-type: post
 title: Smoothie du jour
 date: 2011-05-11T13:10:00+00:00
 thumbnail: https://crokmou.com/images/Smoothie-1.jpg

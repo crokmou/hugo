@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Pain d'épices"
 date: 2011-09-19T17:25:00+00:00
 thumbnail: https://crokmou.com/images/Pain-d--pices.jpg

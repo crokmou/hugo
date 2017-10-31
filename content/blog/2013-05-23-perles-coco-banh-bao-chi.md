@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Perles coco {Bánh bao chỉ}'
 date: 2013-05-23T21:23:00+00:00
 thumbnail: https://crokmou.com/images/20130521_perle_coco_b--nh_bao_ch---_0012.jpg

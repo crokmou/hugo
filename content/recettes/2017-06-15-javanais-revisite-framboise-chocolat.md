@@ -1,5 +1,4 @@
 ---
-type: post
 title: Javanais revisité à la mousseline framboise et ganache chocolat
 date: 2017-06-15T17:40:36+00:00
 thumbnail: https://crokmou.com/images/javanais-revisité-framboise-chocolat-crokmou-blog-cuisine-voyage-belgique-1.jpg

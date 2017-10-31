@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Mousse au chocolat et sa touche de fleur d'oranger"
 date: 2011-04-12T10:19:00+00:00
 thumbnail: https://crokmou.com/images/Mousse-choco.jpg

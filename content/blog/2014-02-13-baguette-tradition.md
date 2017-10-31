@@ -1,5 +1,4 @@
 ---
-type: post
 title: Baguette tradition
 date: 2014-02-13T18:52:00+00:00
 thumbnail: https://crokmou.com/images/070214-pain-baguette-tradition_04.jpg

@@ -1,5 +1,4 @@
 ---
-type: post
 title: Le crachin, restaurant Breton à Bruxelles
 date: 2015-09-06T14:05:40+00:00
 thumbnail: https://crokmou.com/images/le-crachin-restaurant-breton-bruxelles-crokmou-blog-culinaire-1.jpg

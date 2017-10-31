@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Dulce de Leche – Confiture de Lait'
 date: 2012-07-02T13:23:00+00:00
 thumbnail: https://crokmou.com/images/20120611_dulce_de_leche_confiture_de_lait_0028.jpg

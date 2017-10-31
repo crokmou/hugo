@@ -1,5 +1,4 @@
 ---
-type: post
 title: Brussels Food Truck Festival
 date: 2016-05-06T21:04:55+00:00
 thumbnail: https://crokmou.com/images/foodtruck-festival-bruxelles-2016-crokmou-blog-culinaire-11.jpg

@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'La cŏcīna – Restaurant Italien à Bruxelles'
 date: 2017-06-12T17:01:28+00:00
 thumbnail: https://crokmou.com/images/restaurant-italien-bruxelles-la-cocina-crokmou-blog-cuisine-voyage-belgique-5.jpg

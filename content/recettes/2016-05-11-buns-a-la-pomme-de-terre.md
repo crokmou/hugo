@@ -1,5 +1,4 @@
 ---
-type: post
 title: Buns à la pomme de terre
 date: 2016-05-11T15:29:09+00:00
 thumbnail: https://crokmou.com/images/buns-a-la-pomme-de-terre-crokmou-blog-culinaire.jpg

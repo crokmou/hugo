@@ -1,5 +1,4 @@
 ---
-type: post
 title: Tiramisu classique, la recette
 date: 2017-02-02T16:08:05+00:00
 thumbnail: https://crokmou.com/images/recette-tiramisu-mascarpone-cafe-crokmou-blog-cuisine-voyage-belgique-1_sj0f5k.jpg

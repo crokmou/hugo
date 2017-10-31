@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Le Richmond, Bed & Breakfast convival et reposant à Godinne – Belgique'
 date: 2017-05-02T17:30:26+00:00
 thumbnail: https://crokmou.com/images/le-richmond-bed-breakfast-godinne-belgique-gaetan-colin-crokmou-blog-cuisine-voyage-1-5.jpg

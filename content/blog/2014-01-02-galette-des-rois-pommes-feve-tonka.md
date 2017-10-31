@@ -1,5 +1,4 @@
 ---
-type: post
 title: Galette des Rois pommes, fève Tonka
 date: 2014-01-02T17:24:00+00:00
 thumbnail: https://crokmou.com/images/020114_galette_roi_pomme_feve_tonka_0001.jpg

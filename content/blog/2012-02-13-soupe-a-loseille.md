@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Soupe à l'oseille"
 date: 2012-02-13T20:05:00+00:00
 thumbnail: https://crokmou.com/images/20120212_Soupe_oseille_0013.jpg

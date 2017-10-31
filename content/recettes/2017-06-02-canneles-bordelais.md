@@ -1,5 +1,4 @@
 ---
-type: post
 title: Cannelés bordelais
 date: 2017-06-02T15:12:17+00:00
 thumbnail: https://crokmou.com/images/recette-cannelés-bordelais-rhum-crokmou-blog-cuisine-voyage-1.jpg

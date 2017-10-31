@@ -11,9 +11,7 @@ $(document).ready(function() {
       $('[rel="js-card"]').each(function() {
         let $this      = $(this);
         let $share     = $this.find('[rel="js-share"]');
-        let $shareWith = $share.find('[rel="js-share-with"]');
         let $toggle    = $share.find('[rel="js-toggle"]');
-        let $comment   = $this.find('[rel="js-comments"]');
 
         $toggle.on('click', toggleShare);
 

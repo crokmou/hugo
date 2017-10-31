@@ -1,5 +1,4 @@
 ---
-type: post
 title: Tiramisu aux fruits rouges
 date: 2011-07-22T21:43:00+00:00
 thumbnail: https://crokmou.com/images/Tiramisu-fruits.jpg

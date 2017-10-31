@@ -1,5 +1,4 @@
 ---
-type: post
 title: Cornes de gazelle
 date: 2012-04-01T15:00:00+00:00
 thumbnail: https://crokmou.com/images/20120321_Corne_de_gazelle_001.jpg

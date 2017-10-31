@@ -1,5 +1,4 @@
 ---
-type: post
 title: 1000 merci et un concours !
 date: 2013-09-06T08:52:00+00:00
 categories:

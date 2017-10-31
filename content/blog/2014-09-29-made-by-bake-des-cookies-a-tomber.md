@@ -1,5 +1,4 @@
 ---
-type: post
 title: Made by Bake, des cookies à tomber !
 date: 2014-09-29T07:45:00+00:00
 thumbnail: https://crokmou.com/images/soiree-yelp-prelude-bruxelles-20.jpg

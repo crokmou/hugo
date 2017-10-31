@@ -1,5 +1,4 @@
 ---
-type: post
 title: Chouquettes
 date: 2011-05-01T17:32:00+00:00
 thumbnail: https://crokmou.com/images/Chouquettes.jpg

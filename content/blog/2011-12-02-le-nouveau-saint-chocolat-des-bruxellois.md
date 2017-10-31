@@ -1,5 +1,4 @@
 ---
-type: post
 title: Le nouveau Saint Chocolat des Bruxellois !
 date: 2011-12-02T20:44:00+00:00
 categories:

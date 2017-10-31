@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Le coq aux champs*, partage et convivialité'
 date: 2017-03-19T20:14:44+00:00
 thumbnail: https://crokmou.com/images/restaurant-gastronomique-le-coq-aux-champs-tinlot-belgique-crokmou-blog-cuisine-voyage-1.jpg

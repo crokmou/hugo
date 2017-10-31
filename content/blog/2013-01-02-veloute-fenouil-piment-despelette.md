@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Velouté fenouil, piment d'Espelette"
 date: 2013-01-02T12:04:00+00:00
 thumbnail: https://crokmou.com/images/20130101_veloute_potage_fenouil_piment_espelette_0015.jpg

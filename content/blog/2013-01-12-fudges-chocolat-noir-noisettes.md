@@ -1,5 +1,4 @@
 ---
-type: post
 title: Fudges chocolat noir, noisettes
 date: 2013-01-12T11:06:00+00:00
 thumbnail: https://crokmou.com/images/20130109_fudge_chocolat_noir_noisette_0013.jpg

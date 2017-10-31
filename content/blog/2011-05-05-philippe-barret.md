@@ -1,5 +1,4 @@
 ---
-type: post
 title: Philippe Barret
 date: 2011-05-05T15:58:00+00:00
 categories:

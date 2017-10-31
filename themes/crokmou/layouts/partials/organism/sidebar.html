@@ -1,14 +1,14 @@
-<aside class="sidebar">
+<section class="sidebar">
   {{ $pages := .Site.Pages }}
   {{ range .Site.Params.sidebar }}
   {{$id := index . "id"}}
   {{$title := index . "title"}}
   {{$articles := index . "articles"}}
-  <section class="sidebar__section sidebar__section--{{$id}}">
+  <article class="sidebar__section sidebar__section--{{$id}}">
     <h1 class="sidebar__section__title">{{$title}}</h1>
     {{if eq $id "breve" }}
     <ul>
-      {{ range first 3 (where (where $pages "Section" "eq" "carnet de route") "Type" "eq" "post") }}
+      {{ range first 3 (where (where $pages "Section" "eq" "carnet de route") "Title" "!=" "") }}
       {{ $description := .Content | safeHTML }}
       {{with .Description }}
         {{ $description := .Description }}
@@ -36,6 +36,6 @@
       {{ end }}
     </ul>
     {{end}}
-  </section>
+  </article>
   {{ end }}
-</aside>
+</section>

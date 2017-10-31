@@ -1,5 +1,4 @@
 ---
-type: post
 title: "La boite d'Hortense – Boite à thé Belge"
 date: 2013-10-22T08:42:00+00:00
 thumbnail: https://crokmou.com/images/le_secret_du_poids_florence_delorme_gif_crokmou.gif

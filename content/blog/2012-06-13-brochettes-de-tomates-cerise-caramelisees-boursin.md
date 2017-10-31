@@ -1,5 +1,4 @@
 ---
-type: post
 title: Brochettes de tomates cerise caramélisées, boursin
 date: 2012-06-13T16:53:00+00:00
 thumbnail: https://crokmou.com/images/20120605_Brochette_tomate_caramel_boursin_aperitif_olive_romarin_pistache__0059.jpg

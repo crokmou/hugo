@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Confiture de mirabelles à l'ancienne"
 date: 2014-09-25T18:12:00+00:00
 thumbnail: https://crokmou.com/images/confiture-mirabelle-recette-crokmou-blog-culinaire.jpg

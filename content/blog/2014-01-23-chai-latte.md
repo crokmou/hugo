@@ -1,5 +1,4 @@
 ---
-type: post
 title: Chaï latte
 date: 2014-01-23T15:51:00+00:00
 thumbnail: https://crokmou.com/images/220114-chai-latte-tea.jpg

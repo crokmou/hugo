@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Pour la fête des mamans : Une jolie tasse, de chouettes sachets de thé maison et une infusion au sarrasin'
 date: 2017-04-13T18:00:43+00:00
 thumbnail: https://crokmou.com/images/fete-des-meres-maman-partenariat-cadeauxfolies-crokmou-blog-cuisine-voyage-1-1.jpg

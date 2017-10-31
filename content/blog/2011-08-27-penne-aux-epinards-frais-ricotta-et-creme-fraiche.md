@@ -1,5 +1,4 @@
 ---
-type: post
 title: Penne aux épinards frais, ricotta et crème fraîche
 date: 2011-08-27T14:09:00+00:00
 thumbnail: https://crokmou.com/images/IMG_3031.jpg

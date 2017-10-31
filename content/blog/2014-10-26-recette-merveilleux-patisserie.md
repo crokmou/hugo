@@ -1,5 +1,4 @@
 ---
-type: post
 title: Un merveilleux dessert, le merveilleux !
 date: 2014-10-26T15:31:00+00:00
 thumbnail: https://crokmou.com/images/merveilleux-patisserie-recette-crokmou-blog-culinaire.jpg

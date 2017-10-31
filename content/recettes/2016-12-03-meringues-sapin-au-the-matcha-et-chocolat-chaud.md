@@ -1,5 +1,4 @@
 ---
-type: post
 title: Meringues sapin au thé matcha et chocolat chaud gourmand
 date: 2016-12-03T12:52:48+00:00
 thumbnail: https://crokmou.com/images/chocolat-chaud-meringue-matcha-crokmou-blog-culinaire-belge-3.jpg

@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Maxime Colin, une cuisine d'exception en Belgique !"
 date: 2016-09-20T15:44:46+00:00
 thumbnail: https://crokmou.com/images/restaurant-maxime-colin-belgique-kraainem-crokmou-blog-culinaire-14.jpg

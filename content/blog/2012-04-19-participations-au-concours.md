@@ -1,5 +1,4 @@
 ---
-type: post
 title: Participations au concours
 date: 2012-04-19T11:30:00+00:00
 categories:

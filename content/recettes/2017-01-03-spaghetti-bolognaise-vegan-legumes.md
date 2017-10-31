@@ -1,5 +1,4 @@
 ---
-type: post
 title: Spaghetti bolognaise vegan aux légumes
 date: 2017-01-03T18:28:03+00:00
 thumbnail: https://crokmou.com/images/bolognaise-vegan-crokmou-blog-cuisine-voyage-belgique-3.jpg

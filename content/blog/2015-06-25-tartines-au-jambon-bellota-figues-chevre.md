@@ -1,5 +1,4 @@
 ---
-type: post
 title: Tartines au jambon Bellota, figue, chèvre
 date: 2015-06-25T09:50:21+00:00
 thumbnail: https://crokmou.com/images/tartines-jambon-bellota-figue-chevre-grenade-crokmou-blog-3.jpg

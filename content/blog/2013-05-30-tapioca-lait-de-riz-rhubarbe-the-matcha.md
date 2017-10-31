@@ -1,5 +1,4 @@
 ---
-type: post
 title: Tapioca lait de riz, rhubarbe, thé matcha
 date: 2013-05-30T21:39:00+00:00
 thumbnail: https://crokmou.com/images/20130527_tapioca_lait_riz_rhubarbe_the_vert_matcha_0014.jpg

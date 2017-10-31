@@ -1,5 +1,4 @@
 ---
-type: post
 title: Participations au concours gourmand
 date: 2013-09-16T08:08:00+00:00
 categories:

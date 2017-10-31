@@ -1,5 +1,4 @@
 ---
-type: post
 title: Mini cakes figues fraiches, chèvre et noix
 date: 2011-09-27T18:03:00+00:00
 thumbnail: https://crokmou.com/images/Mini-cake-figue-3.jpg

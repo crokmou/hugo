@@ -1,5 +1,4 @@
 ---
-type: post
 title: Religieuse, pâtisserie Française élégante et gourmande
 date: 2017-03-02T17:23:57+00:00
 thumbnail: https://crokmou.com/images/religieuse-chocolat-vanille-patisserie-crokmou-blog-culinaire-belge-2.jpg

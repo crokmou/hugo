@@ -1,5 +1,4 @@
 ---
-type: post
 title: Les appareils photos numériques ou APN
 date: 2014-07-20T17:49:00+00:00
 thumbnail: https://crokmou.com/images/backstage-perles-coco-crokmou-photographie1.jpg

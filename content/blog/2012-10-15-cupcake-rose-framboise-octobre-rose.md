@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Cupcake rose, framboise {Octobre Rose}'
 date: 2012-10-15T20:23:00+00:00
 thumbnail: https://crokmou.com/images/MG_2970.jpg

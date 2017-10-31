@@ -1,5 +1,4 @@
 ---
-type: post
 title: Envies gourmandes / Wishlist
 date: 2014-11-17T14:29:00+00:00
 thumbnail: https://crokmou.com/images/idee-achat-crokmou-blog.jpg

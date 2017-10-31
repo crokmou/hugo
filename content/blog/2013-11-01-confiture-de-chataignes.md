@@ -1,5 +1,4 @@
 ---
-type: post
 title: Confiture de châtaignes
 date: 2013-11-01T22:04:00+00:00
 thumbnail: https://crokmou.com/images/photographie_confiture_chataigne_creme_marron-1.jpg

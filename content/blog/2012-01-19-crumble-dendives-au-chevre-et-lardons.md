@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Crumble d'endives au chèvre et lardons"
 date: 2012-01-19T16:40:00+00:00
 thumbnail: https://crokmou.com/images/MG_6029.jpg

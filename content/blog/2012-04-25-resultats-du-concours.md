@@ -1,5 +1,4 @@
 ---
-type: post
 title: Résultats du concours
 date: 2012-04-25T14:19:00+00:00
 categories:

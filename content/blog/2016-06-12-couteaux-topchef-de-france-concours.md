@@ -1,5 +1,4 @@
 ---
-type: post
 title: Couteaux TopChef de France // Concours
 date: 2016-06-12T20:12:11+00:00
 thumbnail: https://crokmou.com/images/top-chef-de-france-couteaux-crokmou-blog-culinaire.jpg

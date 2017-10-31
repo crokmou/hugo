@@ -1,5 +1,4 @@
 ---
-type: post
 title: Citytrip en Andorre
 date: 2017-02-26T17:50:43+00:00
 thumbnail: https://crokmou.com/images/citytrip-andorre-andorra-crokmou-blog-cuisine-voyage-belgique-1.jpg

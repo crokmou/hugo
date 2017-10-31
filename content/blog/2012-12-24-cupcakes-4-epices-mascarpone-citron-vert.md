@@ -1,5 +1,4 @@
 ---
-type: post
 title: Cupcakes 4 épices, mascarpone, citron vert
 date: 2012-12-24T10:20:00+00:00
 thumbnail: https://crokmou.com/images/20121216_cupcake_4_epices_topping_mascarpone_citron_vert_00321.jpg

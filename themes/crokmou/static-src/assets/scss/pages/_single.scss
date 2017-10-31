@@ -6,8 +6,9 @@
     padding: $global-spacing;
     &__content {
       @include tile-shadow();
-      width: $global-width - 300; max-width: 100%; padding: $global-spacing;
+      width: $global-width - 300; max-width: 100%; margin: 0 auto; padding: $global-spacing;
       background-color: #fff;
+      &--wide { width: $global-width; }
     }
     .sidebar {
       @include tile-shadow();

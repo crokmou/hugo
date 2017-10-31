@@ -1,5 +1,4 @@
 ---
-type: post
 title: Une décision mûrement réfléchie
 date: 2017-08-01T19:57:20+00:00
 thumbnail: https://crokmou.com/images/background-1516231_1280.jpg

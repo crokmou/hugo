@@ -1,5 +1,4 @@
 ---
-type: post
 title: Madeleines au yuzu et mûres blanches
 date: 2014-11-13T16:37:00+00:00
 thumbnail: https://crokmou.com/images/madeleine-yuzu-mure-blanche-recette-crokmou-blog-culinaire.jpg

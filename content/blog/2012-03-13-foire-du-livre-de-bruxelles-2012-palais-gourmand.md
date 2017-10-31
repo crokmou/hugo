@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Foire du Livre de Bruxelles 2012 – Palais Gourmand'
 date: 2012-03-13T12:20:00+00:00
 categories:

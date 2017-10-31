@@ -1,5 +1,4 @@
 ---
-type: post
 title: Moulins à vent aux fruits frais
 date: 2017-05-18T18:30:46+00:00
 thumbnail: https://crokmou.com/images/moulins-aux-fruits-feuilletés-crokmou-blog-cuisine-voyage-1-9.jpg

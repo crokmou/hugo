@@ -1,5 +1,4 @@
 ---
-type: post
 title: Flans carottes, comté
 date: 2012-03-04T18:25:00+00:00
 thumbnail: https://crokmou.com/images/20120304_Flan_Carotte_Comte_0028.jpg

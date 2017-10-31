@@ -1,5 +1,4 @@
 ---
-type: post
 title: Catherine, une fromagerie pas comme les autres à Bruxelles
 date: 2017-03-05T19:21:08+00:00
 thumbnail: https://crokmou.com/images/fromagerie-catherine-bruxelles-belgique-crokmou-blog-cuisine-voyage-1-4.jpg

@@ -1,5 +1,4 @@
 ---
-type: post
 title: Croissants pur beurre
 date: 2014-04-03T15:18:00+00:00
 thumbnail: https://crokmou.com/images/crokmou-blog-croissant-feuillet---1.jpg

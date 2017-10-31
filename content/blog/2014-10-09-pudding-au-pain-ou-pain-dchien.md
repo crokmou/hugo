@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Pudding au pain ou pain d'chien"
 date: 2014-10-09T12:13:00+00:00
 thumbnail: https://crokmou.com/images/pain-d-chien-pudding-pain-recette-crokmou-blog-culinaire-5.jpg

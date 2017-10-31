@@ -1,5 +1,4 @@
 ---
-type: post
 title: Madeleines des îles
 date: 2011-04-13T08:30:00+00:00
 thumbnail: https://crokmou.com/images/Madeleines-vanille.jpg

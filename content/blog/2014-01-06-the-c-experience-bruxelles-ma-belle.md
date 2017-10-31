@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'The C Experience {Bruxelles ma Belle}'
 date: 2014-01-06T18:22:00+00:00
 thumbnail: https://crokmou.com/images/051213_the_c_experience_0014.jpg

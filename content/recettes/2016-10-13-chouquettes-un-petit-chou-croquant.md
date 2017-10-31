@@ -1,5 +1,4 @@
 ---
-type: post
 title: Chouquettes, un petit chou croquant
 date: 2016-10-13T18:47:15+00:00
 thumbnail: https://crokmou.com/images/chouquette-pate-a-choux-crokmou-blog-culinaire-03.jpg

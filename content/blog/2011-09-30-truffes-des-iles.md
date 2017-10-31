@@ -1,5 +1,4 @@
 ---
-type: post
 title: Truffes des iles
 date: 2011-09-30T18:09:00+00:00
 thumbnail: https://crokmou.com/images/Truffes-choco-blanc_fruit-passion.jpg

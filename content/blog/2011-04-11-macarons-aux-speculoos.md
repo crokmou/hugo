@@ -1,5 +1,4 @@
 ---
-type: post
 title: Macarons aux spéculoos
 date: 2011-04-11T22:37:00+00:00
 thumbnail: https://crokmou.com/images/Macaron-sp--culoos.jpg

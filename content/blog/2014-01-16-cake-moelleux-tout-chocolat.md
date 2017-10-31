@@ -1,5 +1,4 @@
 ---
-type: post
 title: Cake moelleux tout chocolat
 date: 2014-01-16T19:08:00+00:00
 thumbnail: https://crokmou.com/images/140114_cake_chocolat_moelleux.jpg

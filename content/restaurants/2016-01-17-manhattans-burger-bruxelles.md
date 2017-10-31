@@ -1,5 +1,4 @@
 ---
-type: post
 title: "Manhattn's Burgers : New York à Bruxelles"
 date: 2016-01-17T16:36:19+00:00
 thumbnail: https://crokmou.com/images/manhattans-burger-bruxelles-crokmou-blog-culinaire.jpg

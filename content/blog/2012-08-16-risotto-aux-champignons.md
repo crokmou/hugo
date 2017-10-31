@@ -1,5 +1,4 @@
 ---
-type: post
 title: Risotto aux champignons
 date: 2012-08-16T17:16:00+00:00
 thumbnail: https://crokmou.com/images/20120815_risotto_champignon_vin_blanc_0017.jpg

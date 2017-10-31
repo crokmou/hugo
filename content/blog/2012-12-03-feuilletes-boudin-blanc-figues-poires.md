@@ -1,5 +1,4 @@
 ---
-type: post
 title: Feuilletés boudin blanc, figue, poire
 date: 2012-12-03T18:31:00+00:00
 thumbnail: https://crokmou.com/images/20121203_amuse_bouche_noel_boudin_blanc_figue_poire_cannelle_thym_0017.jpg

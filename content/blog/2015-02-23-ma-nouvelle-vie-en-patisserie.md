@@ -1,5 +1,4 @@
 ---
-type: post
 title: Ma nouvelle vie en pâtisserie
 date: 2015-02-23T12:07:00+00:00
 thumbnail: https://crokmou.com/images/1507460_1380384285536442_1432492324_o.jpg

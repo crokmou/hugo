@@ -1,5 +1,4 @@
 ---
-type: post
 title: Crème dessert vanille
 date: 2011-05-09T16:42:00+00:00
 categories:

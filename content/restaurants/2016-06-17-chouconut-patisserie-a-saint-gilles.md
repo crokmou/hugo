@@ -1,5 +1,4 @@
 ---
-type: post
 title: Chouconut, pâtisserie à Saint-Gilles
 date: 2016-06-17T18:10:18+00:00
 thumbnail: https://crokmou.com/images/chouconut-bruxelles-crokmou-blog-culinaire-3.jpg

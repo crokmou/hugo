@@ -1,5 +1,4 @@
 ---
-type: post
 title: 'Keimling spécialiste du raw food {Concours}'
 date: 2014-08-23T09:00:00+00:00
 thumbnail: https://crokmou.com/images/partenariat-keimling-row-food.jpg

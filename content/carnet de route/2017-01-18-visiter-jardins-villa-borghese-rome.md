@@ -1,5 +1,4 @@
 ---
-type: post
 title: Visiter les jardins de la Villa Borghese à Rome
 date: 2017-01-18T17:46:54+00:00
 thumbnail: https://crokmou.com/images/weekend-rome-italie-crokmou-blog-cuisine-voyage-belgique-98.jpg
