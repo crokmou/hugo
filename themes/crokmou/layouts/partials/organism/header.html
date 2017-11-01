@@ -2,7 +2,9 @@
   <div class="container flex flex-wrap flex-med-nowrap align-items-center">
     <section class="flex-12 flex-med-3 text--center">
       <a class="header__logo" href="/">
-        {{ partial "molecules/picture.html" (dict "class" "picture--no-background" "src" "/assets/images/jpg/logo.png" "alt" "Crokmou" "pb" "42.53%") }}
+        <picture class="picture picture--no-background" style="padding-bottom: 42.53%;">
+        	<img class="picture__item" src="/assets/images/jpg/logo.png" alt="Crokmou">
+        </picture>
       </a>
     </section>
     <section class="header__ss-nav flex-12 flex-med-9 flex-lg-auto">
@@ -29,7 +31,9 @@
         <ul class="list list--inline flex align-items-center">
           {{ $currentPage := . }}
           {{ range .Site.Menus.main }}
-          <li class='{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}active{{end}}"'><a href="{{ .URL }}">{{ .Identifier }}</a></li>
+          <li class='{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}active{{end}}"'>
+            <a class="js-page-link" href="{{ .URL }}">{{ .Identifier }}</a>
+          </li>
           {{ end }}
         </ul>
       </nav>

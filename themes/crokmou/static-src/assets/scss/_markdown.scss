@@ -16,7 +16,10 @@
   h5 { font-size:80%; }
   h6 { font-size:80%; }
 
-  p { line-height: 150%; }
+  p {
+    margin-top: 15px;
+    line-height: 150%;
+  }
 
   ul, ol {
     padding: 0; margin: 0 0 0 50px;

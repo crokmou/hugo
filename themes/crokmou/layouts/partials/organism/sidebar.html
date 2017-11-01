@@ -5,7 +5,7 @@
   {{$title := index . "title"}}
   {{$articles := index . "articles"}}
   <article class="sidebar__section sidebar__section--{{$id}}">
-    <h1 class="sidebar__section__title">{{$title}}</h1>
+    <h1 class="sidebar__section__title" data-stroke="{{$title}}">{{$title}}</h1>
     {{if eq $id "breve" }}
     <ul>
       {{ range first 3 (where (where $pages "Section" "eq" "carnet de route") "Title" "!=" "") }}

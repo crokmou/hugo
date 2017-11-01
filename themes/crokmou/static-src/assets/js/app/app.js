@@ -4,9 +4,10 @@ $(document).ready(function() {
   const SPRITE_URL = '/assets/images/svg/sprite.svg';
 
   const $pageContainer = $('#page-container');
+  const $bodyHtml = $('body, html');
 
   const App = (function App() {
-
+    new IOlazy();
     (function CARDS() {
       $('[rel="js-card"]').each(function() {
         let $this      = $(this);
@@ -38,6 +39,7 @@ $(document).ready(function() {
     };
     ajax.send();
   })();
+
   (function($, History) {
     analytics(null, document.title);
 
@@ -45,7 +47,7 @@ $(document).ready(function() {
       return false;
     }
 
-    $pageContainer.on('click', '.js-page-link', function(event) {
+    $pageContainer.on('click', '.js-page-link, .pagination a', function(event) {
       event.preventDefault();
       if (window.location === this.href) {
         return;
@@ -58,10 +60,11 @@ $(document).ready(function() {
       $.get(state.url, function(res) {
         $.each($(res), function(index, elem) {
           if ($pageContainer[0].id !== elem.id) {
+            $bodyHtml.fadeIn();
             return;
           }
           $pageContainer.html($(elem).html()).promise().done(function(res) {
-            $('body, html').animate({scrollTop: 0}, 150);
+            $bodyHtml.animate({scrollTop: 0}, 300);
             App.init();
             analytics(res, state.title);
           });
