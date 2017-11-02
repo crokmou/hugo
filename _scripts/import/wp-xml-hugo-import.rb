@@ -5,9 +5,10 @@ require 'fileutils'
 require 'time'
 require 'rexml/document'
 require 'html2markdown'
+require 'Upmark'
 include REXML
 
-class Time 
+class Time
   def timezone(timezone = 'UTC')
     old = ENV['TZ']
     utc = self.dup.utc
@@ -38,11 +39,21 @@ doc.elements.each("rss/channel/item[wp:status = 'publish' and (wp:post_type = 'p
   tags  = ''
   thumbnail_id = ''
   thumbnail = ''
+  recette_qty = ''
+  recette_temps = ''
+  recette_ingredients = ''
 
   post.each('wp:postmeta') do |meta|
     case meta.elements['wp:meta_key'].text
       when "_thumbnail_id" then
-        thumbnail_id =meta.elements['wp:meta_value'].text
+        thumbnail_id = meta.elements['wp:meta_value'].text
+      when "wpcf-ingredient_qty" then
+        recette_qty = meta.elements['wp:meta_value'].text.gsub(/&nbsp;/i, "")
+      when "wpcf-ingredient_temps" then
+        recette_temps = meta.elements['wp:meta_value'].text.gsub(/&nbsp;/i, "")
+      when "wpcf-ingredient-textarea" then
+        value = meta.elements['wp:meta_value'].text.gsub(/&nbsp;/i, "")
+        recette_ingredients = "\"#{Upmark.convert(value)}\""
     end
   end
 
@@ -57,17 +68,17 @@ doc.elements.each("rss/channel/item[wp:status = 'publish' and (wp:post_type = 'p
       when "post_tag" then
         tags = "#{tags}  - \"#{c.text.capitalize}\"\n"
     end
- end
+  end
 
-  content = content.gsub(/src="((http|https):\/\/)*?(www.)*?crokmou.com\/wp-content\/uploads\/(\d+)\/(\d+)\/(.+?)"/, 'src="https://crokmou.com/images/\4/\5/\6"')
+  content = content.gsub(/src="((http|https):\/\/)*?(www.)*?crokmou.com\/wp-content\/uploads\/(\d+)\/(\d+)\/(.+?)"/, 'src="https://crokmou.com/images/\6"')
 
-  filename = "#{post_date.year}-#{post_date.month}-#{post_date.day}-#{(post_name ? post_name : post_id)}.md"
+  year = post_date.year
+  month = post_date.month
+  day = post_date.day
+  filename = "#{year}-#{month < 10 ? "0" : ""}#{month}-#{day < 10 ? "0" : ""}#{day}-#{(post_name ? post_name : post_id)}.md"
   puts "Converting: #{filename}"
 
-  content = content.gsub(/&nbsp;/i, "").gsub(/(<h.>)<.*?>(.*?)<\/.*?>(<\/h.>)/, "\1\2\3")
-  html = HTMLPage.new :contents => content
-  markdown = html.markdown.gsub(/(^|[^\n])\n(?!\n)/, "\\1").gsub(/(^|[^\n])\n{2,}(?!\n)/, "\\1\n\n")
-  puts markdown
+  content = content.gsub(/&nbsp;/i, "")
   File.open("#{post_type}/#{filename}", 'w') do |f|
     f.puts '---'
     f.puts "date: \"#{post_date.strftime("%Y-%m-%dT%H:%M:%S%:z")}\""
@@ -75,10 +86,19 @@ doc.elements.each("rss/channel/item[wp:status = 'publish' and (wp:post_type = 'p
     f.puts "thumbnail: \"#{thumbnail}\""
     f.puts "categories:\n#{category}"
     f.puts "tags:\n#{tags}"
+    if defined?(recette_qty) && (recette_qty != '')
+      f.puts "recette_qty: #{recette_qty}"
+    end
+    if defined?(recette_temps) && (recette_temps != '')
+      f.puts "recette_temps: #{recette_temps}"
+    end
+    if defined?(recette_ingredients) && (recette_ingredients != '')
+      f.puts "recette_ingredients: #{recette_ingredients}"
+    end
     f.puts "slug: \"#{(post_name ? post_name : post_id)}\""
     f.puts '---'
     f.puts "\n"
-    f.puts markdown
+    f.puts content
   end
 
 end
