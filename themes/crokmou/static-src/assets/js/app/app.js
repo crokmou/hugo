@@ -7,7 +7,9 @@ $(document).ready(function() {
   const $bodyHtml = $('body, html');
 
   const App = (function App() {
-    new IOlazy();
+    new IOlazy({
+      threshold: 0
+    });
     (function CARDS() {
       $('[rel="js-card"]').each(function() {
         let $this      = $(this);

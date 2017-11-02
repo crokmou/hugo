@@ -1,7 +1,7 @@
 ---
 date: "2017-08-16T17:04:16+02:00"
 title: "Pain au levain en cocotte et sans pétrissage - Recette facile"
-thumbnail: "https://crokmou.com/images/2017/08/recette-pain-levain-cocotte-crokmou-blog-cuisine-voyage-belgique-4.jpg"
+thumbnail: "https://crokmou.com/images/recette-pain-levain-cocotte-crokmou-blog-cuisine-voyage-belgique-4.jpg"
 categories:
   - "Boulangerie"
 tags:
@@ -13,8 +13,8 @@ tags:
   - "Vegan"
   - "Vegetalien"
   - "Vegetarien"
-recette_qty: Pour un pain au levain en cocotte
-recette_temps: Préparation : 5 minutes | Pause : 30h | Cuisson : 45 minutes
+recette_qty: "Pour un pain au levain en cocotte"
+recette_temps: "Préparation : 5 minutes | Pause : 30h | Cuisson : 45 minutes"
 recette_ingredients: "* 250g de levain actif
 * 500g d'eau filtrée froide
 * 16g de sel

@@ -5,8 +5,8 @@ $(document).ready(function() {
 
     // parse slide data (url, title, size ...) from DOM elements
     // (children of gallerySelector)
-    const parseThumbnailElements = function(el) {
-      let thumbElements = el.childNodes,
+    const parseThumbnailElements = async function(el) {
+      let thumbElements = el.querySelectorAll('figure'),
           numNodes = thumbElements.length,
           items = [],
           figureEl,
@@ -26,30 +26,21 @@ $(document).ready(function() {
         linkEl = figureEl.children[0]; // <a> element
 
         imgEl = linkEl.children[0]; // <img> element
-
-        // create slide object
+        const img = await addImageProcess(linkEl.getAttribute('href'));
+          // create slide object
         item = {
-          src: linkEl.getAttribute('href'),
-          w: parseInt(imgEl.naturalWidth, 10),
-          h: parseInt(imgEl.naturalHeight, 10)
+          src: img.src,
+          w: parseInt(img.naturalWidth, 10),
+          h: parseInt(img.naturalHeight, 10)
         };
-
-
-
         if(figureEl.children.length > 1) {
           // <figcaption> content
           item.title = figureEl.children[1].innerHTML;
         }
 
-        if(linkEl.children.length > 0) {
-          // <img> thumbnail element, retrieving thumbnail url
-          item.msrc = linkEl.children[0].getAttribute('src');
-        }
-
         item.el = figureEl; // save link to element for getThumbBoundsFn
         items.push(item);
       }
-
       return items;
     };
 
@@ -77,7 +68,7 @@ $(document).ready(function() {
       // find index of clicked item by looping through all child nodes
       // alternatively, you may define index via data- attribute
       const clickedGallery = clickedListItem.parentNode,
-          childNodes = clickedListItem.parentNode.childNodes,
+          childNodes = clickedGallery.querySelectorAll('figure'),
           numChildNodes = childNodes.length;
       let nodeIndex = 0,
           index;
@@ -131,13 +122,13 @@ $(document).ready(function() {
       return params;
     };
 
-    const openPhotoSwipe = function(index, galleryElement, disableAnimation, fromURL) {
+    const openPhotoSwipe = async function(index, galleryElement, disableAnimation, fromURL) {
       const pswpElement = document.querySelectorAll('.pswp')[0];
       let gallery;
       let options;
       let items;
 
-      items = parseThumbnailElements(galleryElement);
+      items = await parseThumbnailElements(galleryElement);
 
       // define options (if needed)
       options = {
@@ -204,6 +195,17 @@ $(document).ready(function() {
     }
   };
 
-  initPhotoSwipeFromDOM('.gallery');
+  function addImageProcess(src){
+    return new Promise((resolve, reject) => {
+      let img = new Image();
+      img.onload = () => {
+        resolve(img);
+      };
+      img.onerror = reject;
+      img.src = src;
+    })
+  }
+
+  initPhotoSwipeFromDOM('.single');
 
 });

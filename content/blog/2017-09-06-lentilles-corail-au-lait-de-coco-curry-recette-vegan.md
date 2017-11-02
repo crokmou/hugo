@@ -1,7 +1,7 @@
 ---
 date: "2017-09-06T17:13:43+02:00"
 title: "Comme un dal de lentilles corail au lait de coco et curry"
-thumbnail: "https://crokmou.com/images/2017/09/recette-simple-lentille-corail-lait-coco-curry-vegetal-vegan-crokmou-blog-cuisine-voyage-1-1.jpg"
+thumbnail: "https://crokmou.com/images/recette-simple-lentille-corail-lait-coco-curry-vegetal-vegan-crokmou-blog-cuisine-voyage-1-1.jpg"
 categories:
   - "Plats"
 tags:
@@ -17,7 +17,7 @@ tags:
   - "Vegan"
   - "Vegetalien"
   - "Vegetarien"
-recette_qty: Pour 2/3 personnes
+recette_qty: "Pour 2/3 personnes"
 recette_ingredients: "* 150g de lentilles corail
 * 1 courgettes
 * 2/3 carottes

@@ -32,7 +32,6 @@
         text-align: center;
         content: "•";
       }
-      &:first-child { display: none; }
     }
   }
   @include respond-to(medium) {

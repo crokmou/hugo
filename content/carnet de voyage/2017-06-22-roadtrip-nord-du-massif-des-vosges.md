@@ -9,7 +9,7 @@ slug: roadtrip-nord-du-massif-des-vosges
 
 Un visite dans le Nord du Massif des Vosges, je n’y avais jamais pensé jusqu’à ce que l’on mon propose de faire un roadtrip dans ces contrées il y a quelques semaines. Durant trois jours, en compagnie d’autres blogueurs, le [Massif des Vosges](http://www.massif-des-vosges.com) nous a donc invité à découvrir quelques endroits typiques de la région. Autant vous le dire de suite, vous découvrirez dans cet article qu’une toute petite partie des nombreuses choses qu’il est possible de visiter. Le Massif des Vosges est vaste. Situé dans l’est de la France dans la region de l’Alsace, Lorraine et Franche comté, le territoire s’étend sur plus de 7000 m2. Oui, comme je vous l’ai dit, ça fait beaucoup de choses à voir !
 
-![](https://crokmou.com/images/Carte-2.jpg)
+{{< img src="https://crokmou.com/images/Carte-2.jpg" >}}
 
 De Bruxelles nous avons mis 4h30 en voiture pour arriver. Cela peut paraitre beaucoup mais en partant très tôt le matin, il est facile de profiter pleinement du weekend ! Si vous n’avez pas envie de faire de la route, pas de soucis, des TGV roulent aussi jusque là. Après il vous suffit de louer une voiture pour faire le tour 🙂
 

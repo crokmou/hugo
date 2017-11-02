@@ -9,9 +9,9 @@ RemovePathAccents: true
 permalinks:
   blog: /:year/:month/:slug/
   recettes: /:year/:month/:slug/
-  voyage: /:year/:month/:slug/
+  saveur du monde: /:year/:month/:slug/
   restaurants: /:year/:month/:slug/
-  carnet de route: /:year/:month/:slug/
+  carnet de voyage: /:year/:month/:slug/
 
 taxonomies:
   tag: ""
@@ -39,6 +39,6 @@ params:
         - "feta-marinee"
         - "tarte-aux-peches-ylang-ylang-et-romarin"
     - id: "tips"
-      title: "Astice d'une blogueuse"
+      title: "Astuce d'une blogueuse"
       articles:
         - "feta-marinee"

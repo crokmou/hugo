@@ -1,7 +1,7 @@
 ---
 date: "2017-09-19T18:45:44+02:00"
 title: "Pâtes au pesto de pistaches et d'amandes, concassé de tomates"
-thumbnail: "https://crokmou.com/images/2017/09/pate-pesto-pistache-amande-huile-concassé-tomate-crokmou-blog-belge-cuisine-voyage-01.jpg"
+thumbnail: "https://crokmou.com/images/pate-pesto-pistache-amande-huile-concassé-tomate-crokmou-blog-belge-cuisine-voyage-01.jpg"
 categories:
   - "Plats"
 tags:
@@ -16,8 +16,8 @@ tags:
   - "Vegan"
   - "Vegetalien"
   - "Vegetarien"
-recette_qty: Pour 2 personnes
-recette_temps: Préparation : 15 minutes | Cuisson : 10 minutes
+recette_qty: "Pour 2 personnes"
+recette_temps: "Préparation : 15 minutes | Cuisson : 10 minutes"
 recette_ingredients: "* Pour le concassé de tomates
 * 2 belles tomates assez grosses
 * huile d'olive

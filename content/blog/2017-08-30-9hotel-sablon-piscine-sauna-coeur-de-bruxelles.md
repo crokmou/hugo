@@ -1,7 +1,7 @@
 ---
 date: "2017-08-30T18:09:32+02:00"
 title: "Le 9Hotel Sablon, piscine et sauna au coeur de Bruxelles"
-thumbnail: "https://crokmou.com/images/2017/08/9hotel-sablon-bruxelles-hotel-piscine-sauna-crokmou-blog-cuisine-voyage-05.jpg"
+thumbnail: "https://crokmou.com/images/9hotel-sablon-bruxelles-hotel-piscine-sauna-crokmou-blog-cuisine-voyage-05.jpg"
 categories:
   - "Lifestyle"
 tags:

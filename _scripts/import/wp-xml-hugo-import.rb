@@ -20,8 +20,8 @@ class Time
 end
 
 doc = Document.new File.new(ARGV[0])
-FileUtils.mkdir_p 'post'
-FileUtils.mkdir_p 'page'
+FileUtils.mkdir_p './_scripts/post'
+FileUtils.mkdir_p './_scripts/page'
 images = Document.new File.new(ARGV[1])
 
 doc.elements.each("rss/channel/item[wp:status = 'publish' and (wp:post_type = 'post' or wp:post_type = 'page')]") do |e|
@@ -48,17 +48,17 @@ doc.elements.each("rss/channel/item[wp:status = 'publish' and (wp:post_type = 'p
       when "_thumbnail_id" then
         thumbnail_id = meta.elements['wp:meta_value'].text
       when "wpcf-ingredient_qty" then
-        recette_qty = meta.elements['wp:meta_value'].text.gsub(/&nbsp;/i, "")
+        recette_qty = "\"#{meta.elements['wp:meta_value'].text.gsub(/&nbsp;/i, "").gsub(/\"/, "\\\"")}\""
       when "wpcf-ingredient_temps" then
-        recette_temps = meta.elements['wp:meta_value'].text.gsub(/&nbsp;/i, "")
+        recette_temps = "\"#{meta.elements['wp:meta_value'].text.gsub(/&nbsp;/i, "").gsub(/\"/, "\\\"")}\""
       when "wpcf-ingredient-textarea" then
-        value = meta.elements['wp:meta_value'].text.gsub(/&nbsp;/i, "")
+        value = meta.elements['wp:meta_value'].text.gsub(/&nbsp;/i, "").gsub(/\"/, "\\\"")
         recette_ingredients = "\"#{Upmark.convert(value)}\""
     end
   end
 
   images.elements.each("rss/channel/item[wp:post_id = #{thumbnail_id}]") do |img|
-    thumbnail = img.elements['wp:attachment_url'].text.gsub(/((http|https):\/\/)*?(www.)*?crokmou.com\/wp-content\/uploads\/(\d+)\/(\d+)\/(.+?)/, 'https://crokmou.com/images/\4/\5/\6')
+    thumbnail = img.elements['wp:attachment_url'].text.gsub(/((http|https):\/\/)*?(www.)*?crokmou.com\/wp-content\/uploads\/(\d+)\/(\d+)\/(.+?)/, 'https://crokmou.com/images/\6')
   end
 
   post.each('category') do |c|
@@ -79,7 +79,7 @@ doc.elements.each("rss/channel/item[wp:status = 'publish' and (wp:post_type = 'p
   puts "Converting: #{filename}"
 
   content = content.gsub(/&nbsp;/i, "")
-  File.open("#{post_type}/#{filename}", 'w') do |f|
+  File.open("./_scripts/#{post_type}/#{filename}", 'w') do |f|
     f.puts '---'
     f.puts "date: \"#{post_date.strftime("%Y-%m-%dT%H:%M:%S%:z")}\""
     f.puts "title: \"#{title}\""

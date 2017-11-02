@@ -1,7 +1,7 @@
 ---
 date: "2017-08-21T16:18:40+02:00"
 title: "Pain au levain, matcha et cranberries - Original et délicieux"
-thumbnail: "https://crokmou.com/images/2017/08/pain-levain-matcha-cranberries-crokmou-blog-cuisine-voyage-belgique-1.jpg"
+thumbnail: "https://crokmou.com/images/pain-levain-matcha-cranberries-crokmou-blog-cuisine-voyage-belgique-1.jpg"
 categories:
   - "Boulangerie"
 tags:
@@ -14,14 +14,14 @@ tags:
   - "The matcha"
   - "Thé vert"
   - "Thé vert matcha"
-recette_qty: Pour un pain au levain, matcha et cranberries
-recette_temps: Préparation : 15 minutes | Attente : 32 heures environ | Cuisson : 40 minutes
+recette_qty: "Pour un pain au levain, matcha et cranberries"
+recette_temps: "Préparation : 15 minutes | Attente : 32 heures environ | Cuisson : 40 minutes"
 recette_ingredients: "* 190g de farine T45 ou T65
 * 150g d'eau (peu varier selon la farine utilisée)
 * 30g de farine d'épeautre complète
 * 25g de levain liquide actif (nourri au préalable 8 à 12h avant)
 * 5g de sel
-* 3 càc de thé matcha "cooking""
+* 3 càc de thé matcha \"cooking\""
 slug: "pain-levain-matcha-cranberries"
 ---
 

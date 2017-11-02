@@ -1,1 +1,3 @@
-Recettes
+---
+pageTitle: 'Blog'
+---

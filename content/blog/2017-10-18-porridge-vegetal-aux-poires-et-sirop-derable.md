@@ -1,7 +1,7 @@
 ---
 date: "2017-10-18T17:38:34+02:00"
 title: "Porridge végétal aux poires et sirop d'érable"
-thumbnail: "https://crokmou.com/images/2017/09/porridge-poire-sirop-erable-crokmou-blog-belge-cuisine-voyage-01.jpg"
+thumbnail: "https://crokmou.com/images/porridge-poire-sirop-erable-crokmou-blog-belge-cuisine-voyage-01.jpg"
 categories:
   - "Desserts"
 tags:
@@ -16,8 +16,8 @@ tags:
   - "Sarrasin grillé"
   - "Sirop d'erable"
   - "Vanille"
-recette_qty: Pour une personne
-recette_temps: Préparation : 110 minutes | Cuisson : 60 minutes
+recette_qty: "Pour une personne"
+recette_temps: "Préparation : 110 minutes | Cuisson : 60 minutes"
 recette_ingredients: "* **Pour le porridge**
 * 40g de flocons d'avoine
 * 150g de lait d'amande non sucré

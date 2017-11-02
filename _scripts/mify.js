@@ -38,7 +38,7 @@
         return console.log(err);
       }
 
-      const html = /((---)[\s\S]*?(---\n))/g.exec(data)[1] + '\n' + replaceWeirdos(toMarkdown(/(---)[\s\S]*?(---\n)([\s\S]{0,})/g
+      const html = replaceWeirdos(/((---)[\s\S]*?(---\n))/g.exec(data)[1]) + '\n' + replaceWeirdos(toMarkdown(/(---)[\s\S]*?(---\n)([\s\S]{0,})/g
       .exec(data)[3])
       .replace(divRegex, '$2')
       .replace(divRegex, '$2')

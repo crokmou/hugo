@@ -24,7 +24,9 @@
     "commit": "git add -A && git diff-index --quiet HEAD || git commit -m 'Auto commit' && git push",
     "predeploy": "npm run commit && npm run clean && npm run build",
     "deploy": "gh-pages -d public",
-    "index": "hugo-algolia -i content/blog/**/* -o ./my-index.json -all"
+    "index": "hugo-algolia -i content/blog/**/* -o ./my-index.json -all",
+    "import": "ruby ./_scripts/import/wp-xml-hugo-import.rb ./_scripts/import/crokmou-blogcuisineampvoyages.wordpress.2017-11-01.xml ./_scripts/import/crokmou-blogcuisineampvoyages.wordpress.2017-11-01\\ \\(1\\).xml",
+    "postimport": "node ./_scripts/mify.js ./_scripts/post && rm -rf ./_scripts/post && rm -rf ./_scripts/page"
   },
   "eslintConfig": {
     "extends": [

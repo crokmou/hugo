@@ -5,6 +5,16 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width">
 
+  <title>Crokmou -
+    {{ if .Title }}
+      {{ .Title }}
+    {{ else }}
+      {{ with .Site.GetPage "section" .Section }}
+        {{ .Params.pageTitle }}
+      {{ end }}
+    {{ end }}
+  </title>
+
   <meta name="robots" content="noindex,nofollow"/>
 
   <link href="https://fonts.googleapis.com/css?family=Oswald:300|Roboto:300,400,500" rel="stylesheet">

@@ -1,7 +1,7 @@
 ---
 date: "2017-11-01T16:21:49+01:00"
 title: "Bao bang bang, restaurant taïwanais à Bruxelles"
-thumbnail: "https://crokmou.com/images/2017/11/bao-bang-bang-restaurant-taïwanais-bruxelles-crokmou-blog-belge-cuisine-voyage-3.jpg"
+thumbnail: "https://crokmou.com/images/bao-bang-bang-restaurant-taïwanais-bruxelles-crokmou-blog-belge-cuisine-voyage-3.jpg"
 categories:
   - "Lifestyle"
 tags:

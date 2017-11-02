@@ -1,7 +1,7 @@
 ---
 date: "2017-09-12T18:19:26+02:00"
 title: "San bol, une expérience culinaire unique à Bruxelles"
-thumbnail: "https://crokmou.com/images/2017/09/restaurant-san-bol-bruxelles-menu-vegan-belgique-crokmou-blog-belge-cuisine-voyage-17.jpg"
+thumbnail: "https://crokmou.com/images/restaurant-san-bol-bruxelles-menu-vegan-belgique-crokmou-blog-belge-cuisine-voyage-17.jpg"
 categories:
   - "Lifestyle"
 tags:
