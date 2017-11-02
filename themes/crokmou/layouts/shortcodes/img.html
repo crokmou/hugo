@@ -2,7 +2,8 @@
         itemscope
         itemtype="http://schema.org/ImageObject">
   <a href='{{.Get "src"}}' itemprop="contentUrl">
-    <img src='{{.Get "src"}}'
+    <img class="lazyload"
+         data-src='{{.Get "src"}}'
          itemprop="thumbnail"
          alt='{{.Get "alt"}}'/>
   </a>

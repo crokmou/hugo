@@ -1,0 +1,32 @@
+---
+date: "2017-09-12T18:19:26+02:00"
+title: "San bol, une expérience culinaire unique à Bruxelles"
+thumbnail: "https://crokmou.com/images/2017/09/restaurant-san-bol-bruxelles-menu-vegan-belgique-crokmou-blog-belge-cuisine-voyage-17.jpg"
+categories:
+  - "Lifestyle"
+tags:
+  - "Restaurant"
+slug: "san-bol-experience-culinaire-vegan-bruxelles"
+---
+
+**San Bol Bruxelles**
+Rue de Flandres, 191000 BruxellesBelgique
+[Site Internet](http://sanbxl.be/) // [Facebook](https://www.facebook.com/sanrestaurantbol)
+
+**San Bol**, un restaurant un peu particulier, **une adresse où je rêvais de mettre les pieds** ! J'ai toujours admiré le travail de Sang Hoon Degeimbre, en plus d'être un Chef humble et très gentil, il a su me charmer par sa **cuisine créative, gourmande et conviviale**. J'avais déjà goûté à ses plats lors de divers évènements comme [Culinaria](https://www.crokmou.com/?s=culinaria) ou le W Food Festival, je n'ai encore jamais été déçue ! Cet homme est ce qu'on appelle un passionné : il aime son produit, la cuisine et le partage. C'est assez fou de voir ce qu'il peut faire et transmettre comme saveurs avec des ingrédients et techniques simples (mais maitrisées).
+
+[**L'Air du temps****](http://airdutemps.be/), son restaurant principal semble être un très bel endroit, mais je t'avoue qu'il reste inaccessible à mes finances ! C'est pourquoi quand j'ai découvert l'existence de **San Bol à Bruxelles**, je me suis tout de suite dit qu'il fallait que je tente l'expérience. San bol c'est le bébé du restaurant étoilé. Le restaurant est basé sur **un concept simple, la découverte des saveurs du monde dans un contenant unique : le bol**. Un établissement "bistronomique" où se retrouve une équipe de cuisiniers du tonnerre dont l'ancien bras droit de San : Toshiro Fujii, qui se trouve être maintenant Chef de brigade. Chaque mois, la carte est revue en compagnie de Sang Hoon Degeimbre, au menu ? Mettre en valeur les produits locaux, de saison, faire vibrer les papilles des futurs clients.
+Autant vous dire que quand **mon amoureux a accepté de réserver une table** dans ce restaurant pour nos 8 ans, j'avais un sourire jusqu'aux oreilles !Comme tu le sais certainement (puisque j'ai posté [un petit article là dessus il y a quelques semaines](http://www.crokmou.com/2017/08/decision-murement-reflechie)), je suis passée végétarienne - vegan at home -. Connaissant un peu la maison, j'ai donc demandé quelques jours à l'avance si il était possible d'avoir un menu végétarien voire vegan. Ma demande a été accueillie avec grand plaisir et nous avons donc eu **un menu 100% VG** !
+
+![San bol, une expérience culinaire unique à Bruxelles](https://crokmou.com/images/2017/09/restaurant-san-bol-bruxelles-menu-vegan-belgique-crokmou-blog-belge-cuisine-voyage-01.jpg) ![](https://crokmou.com/images/2017/09/restaurant-san-bol-bruxelles-menu-vegan-belgique-crokmou-blog-belge-cuisine-voyage-03.jpg)
+
+C'est bête à dire, mais je crois que **j'ai rarement aussi bien mangé** ! Même si cela fait un bout de temps que je n'en mange plus, j'avoue sans problème que j'aime le goût de la viande et du poisson. En revanche je ne m'étais jamais vraiment rendue compte à quel point ces produits avaient une place dominante dans les saveurs d'un plat. **Ce dîner fût vraiment une belle expérience** en ce point : les saveurs de chaque élément étaient distinctes et terriblement alléchantes. Un très grand bravo aux cuisiniers, car tout était vraiment parfait !
+
+**Ce menu, servi uniquement le soir**, ce compose de 5 bols (+1 mise en bouche). J'ai bêtement cru qu'avec ces petites portions nous aurions faim à la fin de la soirée. Contre toute attente, même l'Hom était satisfait ! Je ne te fais plus attendre, voici un petit compte rendu de mes bols ce soir là :
+1 / Crème de fèves des marais, citron lime, feuilles capucine, nori et tofu2 / Chou fleur rôti caramélisé, jus de fenouil, pomme granny et herbes aromatiques3 / Tartare de tomate avec eau de tomate au gingembre, croustillant de pain, tapenade noire et herbes aromatiques / Mon bol chouchou /4 / Légumes du potager de San, jus lacto fermenté / Bol signature /5 / Chou fermanté, petits pois, yuzu avec pâte de piment, crème de fève des marais, champignons, pistil de poivre Sichuan6 / Crème de soja, granite de fruits rouges, feuille de shizu
+![](https://crokmou.com/images/2017/09/restaurant-san-bol-bruxelles-menu-vegan-belgique-crokmou-blog-belge-cuisine-voyage-05.jpg) ![](https://crokmou.com/images/2017/09/restaurant-san-bol-bruxelles-menu-vegan-belgique-crokmou-blog-belge-cuisine-voyage-07.jpg) ![](https://crokmou.com/images/2017/09/restaurant-san-bol-bruxelles-menu-vegan-belgique-crokmou-blog-belge-cuisine-voyage-09.jpg) ![](https://crokmou.com/images/2017/09/restaurant-san-bol-bruxelles-menu-vegan-belgique-crokmou-blog-belge-cuisine-voyage-11.jpg) ![](https://crokmou.com/images/2017/09/restaurant-san-bol-bruxelles-menu-vegan-belgique-crokmou-blog-belge-cuisine-voyage-13.jpg) ![](https://crokmou.com/images/2017/09/restaurant-san-bol-bruxelles-menu-vegan-belgique-crokmou-blog-belge-cuisine-voyage-15.jpg)
+
+**Je n'ai qu'un conseil à te donner : fonce tester cette adresse !**
+Le soir le menu 5 bols (sans boissons) est à 55€ mais le midi tu peux déguster le lunch pour 28€. Plus accessible, il se compose d'un bouillon/jus, d'un bol principal, de tempura, d'un cidre végétal et d'un dessert ou café. Un bon moyen de découvrir une cuisine un peu particulière, raffinée mais tellement gourmande. Ce que j'ai beaucoup aimé également c'est le service et l'ambiance du restaurant : décontracté, rien de pompeux, c'est chaleureux !
+J'y retournerai dès que j'en ai l'occasion, et pourquoi pas tester la deuxième adresse de [San Bol au Sablon](http://www.sansablon.be/) ?!
+Alors, tenté(e) ?

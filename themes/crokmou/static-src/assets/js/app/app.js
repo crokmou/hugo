@@ -56,11 +56,15 @@ $(document).ready(function() {
     });
 
     History.Adapter.bind(window, 'statechange', function() {
-      let state = History.getState();
+      const state = History.getState();
+      const $a = $('a');
+      $a.css('cursor', 'progress');
+      $bodyHtml.css('cursor', 'progress');
       $.get(state.url, function(res) {
+        $a.css('cursor', 'default');
+        $bodyHtml.css('cursor', 'default');
         $.each($(res), function(index, elem) {
           if ($pageContainer[0].id !== elem.id) {
-            $bodyHtml.fadeIn();
             return;
           }
           $pageContainer.html($(elem).html()).promise().done(function(res) {

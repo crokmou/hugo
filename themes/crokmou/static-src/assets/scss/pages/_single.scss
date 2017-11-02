@@ -1,13 +1,16 @@
 .single {
   display: flex; justify-content: space-between; flex-wrap: wrap; align-items: flex-start;
   max-width: $global-width; margin: 0 auto; padding: $global-spacing / 2;
+  &__content {
+    margin: 0 auto; padding: $global-spacing;
+    background-color: #fff;
+  }
   @include respond-to(medium) {
     flex-wrap: nowrap;
     padding: $global-spacing;
     &__content {
       @include tile-shadow();
-      width: $global-width - 300; max-width: 100%; margin: 0 auto; padding: $global-spacing;
-      background-color: #fff;
+      width: $global-width - 300; max-width: 100%;
       &--wide { width: 900px; }
     }
     .sidebar {
