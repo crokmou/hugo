@@ -18,7 +18,7 @@ _Goûter du jour, bonjour ! Ne sachant pas trop quoi faire aujourd'hui, si ce n'
 
 _Cela n'a pas loupé c'est très bon !_
 
-_![madeleines](http://storage.canalblog.com/15/78/825568/62805874_p.jpg)_
+_{{< img src="http://storage.canalblog.com/15/78/825568/62805874_p.jpg" alt="madeleines" >}}_
 
 *   _2 oeufs_
 *   100 g de farine
@@ -30,7 +30,7 @@ _![madeleines](http://storage.canalblog.com/15/78/825568/62805874_p.jpg)_
 *   1/2 cuillère d'arôme vanille (facultatif, j'aime juste le goût bien vanillé)
 *   2 càs de lait (facultatif selon consistance de la pâte)
 
-![preparation](http://storage.canalblog.com/48/15/825568/62806010_p.jpg)
+{{< img src="http://storage.canalblog.com/48/15/825568/62806010_p.jpg" alt="preparation" >}}
 
 1.  Battez les oeufs avec un fouet dans un saladier.
 2.  Incorporez la farine, la levure, le beurre fondu, le sucre, la vanille et l'arôme.

@@ -19,7 +19,7 @@ _Une recette très simple qui ravira toute la petite famille (si petite famille 
 
 _Passons donc aux choses sérieuse la réalisation !_
 
-![4pers](http://storage.canalblog.com/71/64/825568/62416184_p.jpeg)
+{{< img src="http://storage.canalblog.com/71/64/825568/62416184_p.jpeg" alt="4pers" >}}
 
 *   200 grammes de chocolat noir
 *   4 oeufs
@@ -27,7 +27,7 @@ _Passons donc aux choses sérieuse la réalisation !_
 *   un peu d'eau
 *   du liquide de fleur d'oranger
 
-![preparation](http://storage.canalblog.com/92/13/825568/62416201_p.jpeg)
+{{< img src="http://storage.canalblog.com/92/13/825568/62416201_p.jpeg" alt="preparation" >}}
 
 1.  Tout d'abord, mettre l'eau (elle doit seulement faire le fond du plat et non pas recouvrir le chocolat) et le chocolat dans un saladier et faire fondre le tout au micro-onde (environ  3min, mais touillez le mélange toutes les minutes ^^)
 2.  Ajoutez à votre préparation (une fois celle-ci fondante), les jaunes d'œufs et le sucre.
@@ -36,6 +36,6 @@ _Passons donc aux choses sérieuse la réalisation !_
 5.  Une fois votre mélange terminé, faites reposer celui-ci 1 à 2h au frigo.
 6.  Régalez vous !
 
-![Mousse_choco_2](http://storage.canalblog.com/96/27/825568/61894049_p.jpg)
+{{< img src="http://storage.canalblog.com/96/27/825568/61894049_p.jpg" alt="Mousse_choco_2" >}}
 
 _Dites m'en des nouvelles !_

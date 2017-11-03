@@ -74,7 +74,7 @@ Pour cette fois je vais donc vous faire cuisiner, oui, oui, mais rassurez vous v
 
 <span style="line-height: 20px;"></span>
 
-![](https://crokmou.com/images/logoRDC-300x1881-300x188.jpg)
+{{< img src="https://crokmou.com/images/logoRDC-300x1881-300x188.jpg" alt="" >}}
 
 Je ne suis pas certaine de devoir à nouveau vous le présenter néanmoins je vais vous rappeler les grandes lignes : [Rue du Commerce](http://www.rueducommerce.fr/) est un site de vente en ligne où vous trouverez de tout, de la déco, de l'électroménager, des téléviseurs, des machines à expresso... en bref tout ce dont vous aurez (peut être) besoin se trouve certainement sur le site !
 

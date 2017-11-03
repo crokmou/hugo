@@ -28,18 +28,20 @@ $(document).ready(function() {
         imgEl = linkEl.children[0]; // <img> element
         const img = await addImageProcess(linkEl.getAttribute('href'));
           // create slide object
-        item = {
-          src: img.src,
-          w: parseInt(img.naturalWidth, 10),
-          h: parseInt(img.naturalHeight, 10)
-        };
-        if(figureEl.children.length > 1) {
-          // <figcaption> content
-          item.title = figureEl.children[1].innerHTML;
-        }
+        if(!img.error) {
+          item = {
+            src: img.src,
+            w: parseInt(img.naturalWidth, 10),
+            h: parseInt(img.naturalHeight, 10)
+          };
+          if(figureEl.children.length > 1) {
+            // <figcaption> content
+            item.title = figureEl.children[1].innerHTML;
+          }
 
-        item.el = figureEl; // save link to element for getThumbBoundsFn
-        items.push(item);
+          item.el = figureEl; // save link to element for getThumbBoundsFn
+          items.push(item);
+        }
       }
       return items;
     };
@@ -199,7 +201,9 @@ $(document).ready(function() {
       img.onload = () => {
         resolve(img);
       };
-      img.onerror = reject;
+      img.onerror = () => {
+        resolve({error: 'error'});
+      };
       img.src = src;
     })
   }

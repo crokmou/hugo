@@ -92,4 +92,4 @@ Le 12 Juin dernier je suis allée à un atelier culinaire organisé chez [Mmmmh 
 
 {{< recette >}}
 
-![](https://crokmou.com/images/recette-falafels-pois-chiches-persil-plat-crokmou-blog-cuisine-voyage-belgique-pinterest-1.jpg "Falafels, une recette rapide à faire et délicieuse ! - Vegan")
+{{< img src="https://crokmou.com/images/recette-falafels-pois-chiches-persil-plat-crokmou-blog-cuisine-voyage-belgique-pinterest-1.jpg" >}}

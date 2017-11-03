@@ -45,6 +45,6 @@ Qu'il fasse chaud ou froid, je trouve qu'il n'y a rien de plus réconfortant qu'
 
 ###### Astuce :
 
-Tiède c'est encore meilleur, les pépites de chocolat goulinent encore huuuum. Et pour un effet encooooore plus gourmand, versez aussi des pépites de chocolat dans la pâte ! ![](https://crokmou.com/images/muffin-tout-chocolat-moelleux-2.jpg) ![](https://crokmou.com/images/muffin-tout-chocolat-moelleux.jpg) Et vous mes petits loups ? C'est quoi vos "gâteaux réconfort" ? Des poutoux et à très vite !
+Tiède c'est encore meilleur, les pépites de chocolat goulinent encore huuuum. Et pour un effet encooooore plus gourmand, versez aussi des pépites de chocolat dans la pâte ! {{< img src="https://crokmou.com/images/muffin-tout-chocolat-moelleux-2.jpg" alt="" >}} {{< img src="https://crokmou.com/images/muffin-tout-chocolat-moelleux.jpg" alt="" >}} Et vous mes petits loups ? C'est quoi vos "gâteaux réconfort" ? Des poutoux et à très vite !
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

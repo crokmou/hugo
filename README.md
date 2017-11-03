@@ -15,6 +15,5 @@ Pour mettre à jour une modification:
 
 ## Ajouter une image
 
-S'il s'agit d'une image externe:
-- `{{< img src="URL_IMAGE" >}}`
+- `{{< img src="URL_IMAGE" alt="EXPLICATION DE L'IMAGE" >}}`
 - `![](URL_IMAGE)`

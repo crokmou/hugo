@@ -16,7 +16,7 @@ Il y a quelques jours j'ai testé une nouvelle **box de pâtisserie nommée le C
 
 ## **Chef en box : Le contenu & le prix**
 
-J'avais demandé à recevoir la box de Mai : **Pavlova aux fraises et fleur de sureau**. Et j'ai été très surprise lorsque j'ai reçu un tout petit carton à la maison ! En effet la box est petite, et ce n'est pas pour me déplaire. Comme je l'ai mentionné un peu plus haut, **tous les ingrédients secs sont fournis**. Emballés dans de petites pochettes, je retrouve donc le chocolat blanc, le sucre, la gélatine... etc. Quelques _poches à douille et une grosse douille unie_ sont aussi là pour faciliter la préparation. Une **petite carte avec la recette** et une photo du produit fini nous est donnée, sans oublier une fiche d'explications et de petites astuces. C'est **plutôt complet**, et bien que toutes ces pesées représentent beaucoup d'emballages, cela reste très pratique pour la réalisation. Le tarif de la box est de 19,90€. Pour moi le prix des box m'ont toujours parues très élevées. Mais quand on y pense : la main d'oeuvre, les impressions, les produits de base, le packaging, la communication... Tout cela a un coût et cela est souvent fait par de petites entreprises. ![](https://crokmou.com/images/P_20170624_113044.jpg) ![](https://crokmou.com/images/P_20170624_113246.jpg)
+J'avais demandé à recevoir la box de Mai : **Pavlova aux fraises et fleur de sureau**. Et j'ai été très surprise lorsque j'ai reçu un tout petit carton à la maison ! En effet la box est petite, et ce n'est pas pour me déplaire. Comme je l'ai mentionné un peu plus haut, **tous les ingrédients secs sont fournis**. Emballés dans de petites pochettes, je retrouve donc le chocolat blanc, le sucre, la gélatine... etc. Quelques _poches à douille et une grosse douille unie_ sont aussi là pour faciliter la préparation. Une **petite carte avec la recette** et une photo du produit fini nous est donnée, sans oublier une fiche d'explications et de petites astuces. C'est **plutôt complet**, et bien que toutes ces pesées représentent beaucoup d'emballages, cela reste très pratique pour la réalisation. Le tarif de la box est de 19,90€. Pour moi le prix des box m'ont toujours parues très élevées. Mais quand on y pense : la main d'oeuvre, les impressions, les produits de base, le packaging, la communication... Tout cela a un coût et cela est souvent fait par de petites entreprises. {{< img src="https://crokmou.com/images/P_20170624_113044.jpg" alt="" >}} {{< img src="https://crokmou.com/images/P_20170624_113246.jpg" alt="" >}}
 
 ## **Chef en box : La réalisation de la recette **
 
@@ -38,8 +38,8 @@ Là encore **tout est inscrit dans la fiche recette**, il n'y a donc rien de vra
 *   Le prix : Comme je l'ai mentionné plus haut, le tarif est étudié. Mais néanmoins, selon la recette sur laquelle on tombe il faut parfois ajouter encore 5/10€ pour pouvoir tout réaliser comme il se doit. Ici j'ai acheté en complément de la crème, des fraises, de la mascarpone, un citron vert, des oeufs. Pour 4 à 6 personnes cela représente tout de même un coût.
 *   La petite faute de frappe un peu gravissime selon moi pour de la pâtisserie.
 
-![](https://crokmou.com/images/chef-en-box-patisserie-pavlova-fraise-crokmou-blog-cuisine-voyage-belgique-2.jpg)
+{{< img src="https://crokmou.com/images/chef-en-box-patisserie-pavlova-fraise-crokmou-blog-cuisine-voyage-belgique-2.jpg" alt="" >}}
 
 ## **Code de réduction**
 
-Vous souhaitez tester la box ? **Bénéficiez de 10%** de réduction sur abonnement ou carte cadeau : ![](https://crokmou.com/images/chef-en-box-patisserie-code-promotion-reduction-crokmou-blog-cuisine-voyage-belgique.jpg)
+Vous souhaitez tester la box ? **Bénéficiez de 10%** de réduction sur abonnement ou carte cadeau : {{< img src="https://crokmou.com/images/chef-en-box-patisserie-code-promotion-reduction-crokmou-blog-cuisine-voyage-belgique.jpg" alt="" >}}

@@ -790,7 +790,7 @@ En attendant voici un petit recap des participations :
 
 <tr>
 
-<td style="text-align: center;">![](https://crokmou.com/images/97772576-200x3001-200x300.jpg)</td>
+<td style="text-align: center;">{{< img src="https://crokmou.com/images/97772576-200x3001-200x300.jpg" alt="" >}}</td>
 
 </tr>
 

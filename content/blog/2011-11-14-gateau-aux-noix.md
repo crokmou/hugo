@@ -33,7 +33,7 @@ Connaissez-vous **Frédérique Chartrand** du blog **[Biorecettes](http://www
 
 **[CuisiCook.com](http://www.cuisicook.com/), Frédérique et **[Terre Vivante](http://boutique.terrevivante.org/librairie/livres/167/alimentation/facile-et-bio/458-je-brunche-bio.htm)**, vous proposent de GAGNER un des 5 exemplaires en jeu en participant à notre concours de recettes spéciales Brunch!**(Toutes les indications du concours ci-dessous)
 
-[![](http://cuisicook.com/blog/wp-content/uploads/2011/10/couv-finale.jpg "je brunche bio livre de recettes")](http://cuisicook.com/blog/wp-content/uploads/2011/10/couv-finale.jpg)
+[![](http://cuisicook.com/blog/wp-content/uploads/2011/10/couv-finale.jpg)](http://cuisicook.com/blog/wp-content/uploads/2011/10/couv-finale.jpg)
 
 Ne cherchez plus un restaurant où bruncher: ce dimanche, on brunche à la maison ! Faites le plein d’idées faciles pour préparer rapidement des recettes bio, saines et délicieuses.
 

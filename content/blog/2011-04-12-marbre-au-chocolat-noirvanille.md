@@ -22,7 +22,7 @@ slug: "marbre-au-chocolat-noirvanille"
 
 _Un petit gâteau assez connu, mais toujours fait de différentes manières, alors je vous propose la mienne. Parfait pour un goûter !_
 
-![6___8_personnes](http://storage.canalblog.com/66/33/825568/62416680_p.jpeg)
+{{< img src="http://storage.canalblog.com/66/33/825568/62416680_p.jpeg" alt="6___8_personnes" >}}
 
 *   3 oeufs
 *   150 grammes de sucre
@@ -35,7 +35,7 @@ _Un petit gâteau assez connu, mais toujours fait de différentes manières, alo
 *   120 grammes de chocolat noir râpé
 *   Arôme alimentaire à la vanille
 
-![preparation](http://storage.canalblog.com/22/70/825568/62416708_p.jpeg)
+{{< img src="http://storage.canalblog.com/22/70/825568/62416708_p.jpeg" alt="preparation" >}}
 
 1.  Séparez les blancs des jaunes d'œufs (réservez les blancs dans un saladier à part).
 2.  Battez les jaunes avec 75 grammes de sucre jusqu'à blanchissement du mélange. Ajoutez le lait, mélangez et obtenez un mélange assez fluide.

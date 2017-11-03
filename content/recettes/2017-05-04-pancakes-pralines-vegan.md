@@ -79,4 +79,4 @@ Oui oui oui, je vous parle encore de pancakes mais cette fois de pancakes pralin
 
 {{< recette >}}
 
-![Recette de pancakes pralinés vegan](https://crokmou.com/images/pancakes-vegan-vg-crokmou-blog-cuisine-voyage-1-1_uuzptg.jpg "Recette de pancakes pralinés vegan")
+{{< img src="https://crokmou.com/images/pancakes-vegan-vg-crokmou-blog-cuisine-voyage-1-1_uuzptg.jpg" alt="Recette de pancakes pralinés vegan" >}}

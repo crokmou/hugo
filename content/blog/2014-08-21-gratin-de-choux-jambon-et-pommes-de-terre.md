@@ -41,7 +41,7 @@ Je sais pas vous mais en ce moment je me les pèles comme personne depuis mon re
 
 Et puis peut être que vous l'avez déjà vu passer sur Facebook, mais voilà une petite photo de mon chat à son aise sur mes plateaux de shoot. En plus il a un air de pétasse, j'adore ❤
 
-![chat-plateau](https://crokmou.com/images/chat-plateau.jpg)
+{{< img src="https://crokmou.com/images/chat-plateau.jpg" alt="chat-plateau" >}}
 
 Passez une bonne fin de semaine et un bon week end mes petits maïs ! Bisous bisous
 

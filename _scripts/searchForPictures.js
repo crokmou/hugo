@@ -7,6 +7,8 @@ const path = require("path");
 const filesFolder = process.argv[2];
 
 const imgRegex = /([a-z]|\/)(.(?! |,|\)|\(|"|'))*(\.(jpe?g|png|gif|bmp))/gi;
+const imgRegexMd = /([^\[])\!\[(.*?)\]\(([^\n)]*?\.(png|gif|jpg|jpeg))\)/gi;
+const regexImg = /{{< img src="(.*?)"/gi;
 
 fs.readdir(filesFolder, function(err, files) {
   files
@@ -21,9 +23,9 @@ fs.readdir(filesFolder, function(err, files) {
 function inspectFile(content) {
     var m;
     do {
-      m =  imgRegex.exec(content);
+      m =  regexImg.exec(content);
       if (m) {
-        console.log(m[0]);
+        console.log(m[1].replace(/.*?([^\/]*$)/g, '$1'));
       }
     } while (m);
 }

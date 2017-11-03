@@ -19,7 +19,7 @@ Mais Bérangère ne fait pas que des cookies, non non, vous retrouverez aussi da
 
 Et parce que Bérangère en plus de faire des trucs à tomber, elle vous offre aussi l'occasion à vous Belges ou amis Bruxellois, de **gagner une boite de cookies** (Avec 12 cookies dont 4 pépites de chocolat, 4 double chocolat/fleur de sel et 4 chocolat blanc/cranberrys) à venir chercher directement à l'atelier !
 
-##### Pour participer![made by bake cookies](https://crokmou.com/images/made-by-bake-cookies.jpg)
+##### Pour participer{{< img src="https://crokmou.com/images/made-by-bake-cookies.jpg" alt="made by bake cookies" >}}
 
 1.  S'abonner à la [page Facebook de Bake](https://www.facebook.com/madebybake) et à [celle de Crokmou](https://www.facebook.com/crokmou.blog) et **répondre à cette question** : _Quel(s) parfum(s) de cookies aimeriez vous également trouver dans [sa boutique](http://www.madebybake.be/nos-produits.html) ?_
 2.  **Laissez un commentaire** sous cet article avec votre pseudo d'abonnement Facebook ainsi que la réponse à la question posée.

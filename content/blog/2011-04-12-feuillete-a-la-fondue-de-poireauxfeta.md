@@ -20,7 +20,7 @@ slug: "feuillete-a-la-fondue-de-poireauxfeta"
 
 _ Il me restait des poireaux dans mon frigo et un peu de feta, ne sachant pas quoi faire de tout cela au départ, en passant dans mon magasin je vois des carrés de pâte feuilleté (n'ayant pas encore essayé de faire la pâte toute seule, beh oui sans rouleau c'est plutôt compliqué), et là hop repas du soir trouvé !_
 
-![4pers](http://storage.canalblog.com/14/05/825568/62415917_p.jpeg)
+{{< img src="http://storage.canalblog.com/14/05/825568/62415917_p.jpeg" alt="4pers" >}}
 
 *   4 carrés de pâte feuilleté
 *   4 poireaux
@@ -29,7 +29,7 @@ _ Il me restait des poireaux dans mon frigo et un peu de feta, ne sachant pas q
 *   du sel & poivre
 *   de la noix de muscade
 
-![preparation](http://storage.canalblog.com/19/17/825568/62415941_p.jpeg)
+{{< img src="http://storage.canalblog.com/19/17/825568/62415941_p.jpeg" alt="preparation" >}}
 
 1.  Découpez vos poireaux en fines tranches (que le blanc des poireaux), une fois ceci fait faites les fondre avec un noisette de beurre dans une poêle, durant la cuisson, salez/poivrez et ajoutez de la noix de muscade.
 2.  Une fois les poireaux fondant à souhait, mettez vos carrés de pâte feuilleté à plat, et mettez au milieu une bonne couche de fondue de poireaux et par dessus des dés de feta.

@@ -21,14 +21,14 @@ slug: "pommes-au-coeur-fondant-tout-chocolat-sur-son-lit-de-pain-depices"
 
 _Il y a des jours où des envies nous viennent, mes envies sont la plupart du temps dirigées vers le chocolat... Des pommes dans le frigo, c'est parti, des pommes au coeur fondant tout choco, parfait pour le goûter du chéri revenant du travail !_
 
-_![2pers](http://storage.canalblog.com/77/88/825568/62415804_p.jpeg)_
+_{{< img src="http://storage.canalblog.com/77/88/825568/62415804_p.jpeg" alt="2pers" >}}_
 
 *   2 pommes
 *   6 carrés de chocolat
 *   2 tranches de pain d'épices
 *   cannelle
 
-![preparation](http://storage.canalblog.com/42/26/825568/62415811_p.jpeg)
+{{< img src="http://storage.canalblog.com/42/26/825568/62415811_p.jpeg" alt="preparation" >}}
 
 1.  Videz les pommes à l'aide d'un épluche-légumes (faire le tour du trognon et retirer celui-ci) ou d'un vide-pomme !
 2.  Coupez le cul des pommes pour qu'elles puissent tenir debout sans rouler dans toute la cuisine.

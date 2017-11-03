@@ -47,7 +47,7 @@ Alexia, créatrice de la boutique, m'a envoyé quelques [accessoires pour Hallow
 5.  Mélanger à l'aide d'une spatule en bois pour que tous les popcorns soient caramélisés.
 6.  Pour le sésame noir : dans une casserole, verser un peu de sucre et faire caraméliser à sec. Faire chauffer un peu de crème et un peu de pâte de sésame noir. Verser sur le caramel coloré et procéder comme pour le caramel ci-dessus.
 
-_Astuce_ : pour récupérer vos casseroles avec le caramel, il suffit de faire bouillir de l'eau dedans et le caramel va se dissoudre de lui même. ![décoration halloween Holly Party](https://crokmou.com/images/halloween-holly-party-decoration.jpg) ![décoration halloween Holly Party](https://crokmou.com/images/halloween-holly-party-decoration-1.jpg)
+_Astuce_ : pour récupérer vos casseroles avec le caramel, il suffit de faire bouillir de l'eau dedans et le caramel va se dissoudre de lui même. {{< img src="https://crokmou.com/images/halloween-holly-party-decoration.jpg" alt="décoration halloween Holly Party" >}} {{< img src="https://crokmou.com/images/halloween-holly-party-decoration-1.jpg" alt="décoration halloween Holly Party" >}}
 
 ## _Concours Holly Party_
 
@@ -61,4 +61,4 @@ Et parce qu'Alexia et moi-même souhaitions vous aussi vous faire découvrir les
 
 Vous avez jusqu’à **Dimanche 1 Novembre 2015, 00h**, pour participer ! Bonne chance mes citrouilles !
 
-![](https://media2.giphy.com/media/iqJ5CJ759gLLO/200.gif)
+{{< img src="https://media2.giphy.com/media/iqJ5CJ759gLLO/200.gif" alt="" >}}

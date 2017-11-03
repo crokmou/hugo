@@ -71,4 +71,8 @@ slug: tiramisu-classique-la-recette
 
 {{< recette >}}
 
-![Tiramisu classique - Mascarpone, café et marsala](https://crokmou.com/images/recette-tiramisu-mascarpone-cafe-crokmou-blog-cuisine-voyage-belgique-1_sj0f5k.jpg)![Tiramisu classique - Mascarpone, café et marsala](https://crokmou.com/images/recette-tiramisu-mascarpone-cafe-crokmou-blog-cuisine-voyage-belgique-3_bciaqh.jpg)
+{{< img
+src="https://crokmou.com/images/recette-tiramisu-mascarpone-cafe-crokmou-blog-cuisine-voyage-belgique-1.jpg"
+alt="Tiramisu classique - Mascarpone, café et marsala" >}}{{< img
+src="https://crokmou.com/images/recette-tiramisu-mascarpone-cafe-crokmou-blog-cuisine-voyage-belgique-3.jpg"
+alt="Tiramisu classique - Mascarpone, café et marsala" >}}

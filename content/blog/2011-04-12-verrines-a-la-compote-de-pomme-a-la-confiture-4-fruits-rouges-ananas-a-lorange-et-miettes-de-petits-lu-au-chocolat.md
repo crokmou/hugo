@@ -22,7 +22,7 @@ slug: "verrines-a-la-compote-de-pomme-a-la-confiture-4-fruits-rouges-ananas-a-lo
 
 _Petite envie du jour, faire des verrines... avec comme base les fruits (parce que des fois il faut bien en manger !). Recette très simple._
 
-![4pers](http://storage.canalblog.com/90/08/825568/62416284_p.jpeg)
+{{< img src="http://storage.canalblog.com/90/08/825568/62416284_p.jpeg" alt="4pers" >}}
 
 *   50 grammes de pommes
 *   15 grammes de sucre
@@ -33,9 +33,9 @@ _Petite envie du jour, faire des verrines... avec comme base les fruits (parce q
 *   jus d'orange
 *   boite de petits Lu au chocolat
 
-![Verrine_compote_pomme2](http://storage.canalblog.com/15/82/825568/61648692_p.jpg)
+{{< img src="http://storage.canalblog.com/15/82/825568/61648692_p.jpg" alt="Verrine_compote_pomme2" >}}
 
-![preparation](http://storage.canalblog.com/60/95/825568/62416305_p.jpeg)
+{{< img src="http://storage.canalblog.com/60/95/825568/62416305_p.jpeg" alt="preparation" >}}
 
 1.  Tout d'abord il va falloir faire la compote, pour cela rien de plus simple. Coupez vos pommes en petits morceaux (en enlevant la peau et le trognon), les mettre dans un casserole avec l'eau et les sucres. Faites chauffer jusqu'à ce que les pommes soient ramollies. Une fois celles-ci bien molles, mixez le tout et votre compote de pommes est prête !
 2.  Dans une verrine mettre la compote de pomme, superposez au dessus de la confiture de fruits rouges, puis superposez des petits morceaux d'ananas et enfin versez un peu de jus d'orange sur les ananas. Saupoudrez votre verrine pas des miettes de petits Lu au chocolat (ou autre gâteaux selon vos préférences)

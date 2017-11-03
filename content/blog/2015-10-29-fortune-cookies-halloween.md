@@ -37,13 +37,13 @@ La semaine dernière, on m'a proposé de réaliser un projet avec des fortune co
 6.  Une fois les ronds sortis du four cela va très vite : prendre un rond de pâte (dans tes mains ou à l'aide d'une moufle) y mettre le petit papier, refermer en deux puis plier sur le coin d'un verre ou d'un bol (voir 1ère photo ci-dessous) placer ensuite le fortune cookies dans un moule à cupcakes (ou autre) afin qu'il refroidisse en gardant sa forme.
 7.  Continuer jusqu'à ce qu'il n'y ai plus de pâte
 
-![fortune-cookies-halloween-crokmou-blog-culinaire](https://crokmou.com/images/fortune-cookies-halloween-crokmou-blog-culinaire.jpg) ![fortune-cookies-halloween-crokmou-blog-culinaire (2)](https://crokmou.com/images/fortune-cookies-halloween-crokmou-blog-culinaire-2.jpg)
+{{< img src="https://crokmou.com/images/fortune-cookies-halloween-crokmou-blog-culinaire.jpg" alt="fortune-cookies-halloween-crokmou-blog-culinaire" >}} {{< img src="https://crokmou.com/images/fortune-cookies-halloween-crokmou-blog-culinaire-2.jpg" alt="fortune-cookies-halloween-crokmou-blog-culinaire (2)" >}}
 
 Ce que je trouve chouette avec ces biscuits c'est que tu peux en faire pour n'importe quelle occasion : Halloween, Noël, Nouvel An, Saint-Valentin... et j'en passe. Avec des phrases trouvées sur le net ou des petits mots bien personnels. De différentes couleurs, de différents goûts... le biscuit parfait non ?
 
 Avec cette recette je participe au défi du mois sur [Recettes.de, le défi orange](http://recettes.de/defi-orange) ! Oui parce que même si ce n'est pas à l'orange, les biscuits en ont bien la couleur :p
 
-![](http://recettes.de/images/misc/defi-citrouille.400x300.png)
+{{< img src="http://recettes.de/images/misc/defi-citrouille.400x300.png" alt="" >}}
 
 On ne se reverra pas d'ici là je pense alors, bonne fête d'Halloween ! - Et n'oublie pas le joli [concours en partenariat avec Holly Party](http://www.crokmou.com/2015/10/popcorn-halloween-avec-holly-party) -
 

@@ -31,7 +31,7 @@ slug: "salade-de-chou-blanc-japonaise"
 
 Je sais pas vous, mais quand je vais au restaurant Japonais, j'adore leur petite salade de chou servie en entrée (et les edadames) ! Bien qu'en vérité ce ne soit pas Japonais du tout, je trouve le côté salé/sucré de l'assaisonnement tout simplement délicieux. Pour quelqu'un comme moi qui n'aime pas spécialement les légumes, ce genre de salade, je trouve ça top et quand il est possible d'en refaire soi-même à la maison c'est encooooore mieux ! C'est vraiment très simple à faire, il faut simplement se procurer les bons ingrédients ! J'ai pris comme base de recette celle du blog "Invitations aux voyages culinaires", j'ai ensuite modifier 2/3 petits trucs pour que ça conviennent parfaitement à mon palais :p
 
-##### Recette![salade de chou](http://gbre.cepegra-labs.be/crokmou/wp-content/uploads/2014/09/chou-blanc-restaurant-japonais-300x200.jpg)
+##### Recette{{< img src="http://gbre.cepegra-labs.be/crokmou/wp-content/uploads/2014/09/chou-blanc-restaurant-japonais-300x200.jpg" alt="salade de chou" >}}
 
 1.  Dans une passoire, versez le chou préalablement coupé en fines lamelles et saupoudrez d'une cuillère à soupe de sucre roux. Laissez le chou ramollir et égoutter pendant 20 minutes.
 2.  Dans un saladier, préparez votre assaisonnement avec le vinaigre de riz, l'eau, l'huile de sésame, 1 cuillère à soupe de sucre et le sel. Mélangez bien et ajoutez le chou, mettre au frigo et laissez reposer 20 minutes

@@ -34,7 +34,7 @@ Pour avoir déjà dégusté leurs produits je peux vous assurer que c'est du bon
 
     2)
 
-![](https://crokmou.com/images/nouveau-logo-rue-du-commerce-e1383845291399-300x1661-300x166.jpg)
+{{< img src="https://crokmou.com/images/nouveau-logo-rue-du-commerce-e1383845291399-300x1661-300x166.jpg" alt="" >}}
 
 Le deuxième partenaire à faire équipe avec moi n'est autre que mon plus vieil ami, [Rue du Commerce](http://www.rueducommerce.fr/) !
 
@@ -67,13 +67,13 @@ Il y aura en tout deux chanceux choisis par un jury de fins gourmets (des amis, 
 
 ** **
 
-![](https://crokmou.com/images/lot-1-casa-di-cecco-rue-du-commerce-300x1201-300x120.jpg)
+{{< img src="https://crokmou.com/images/lot-1-casa-di-cecco-rue-du-commerce-300x1201-300x120.jpg" alt="" >}}
 
 Un petit barbecue (d'une valeur d'environ 60€, produit non exhaustif, un article similaire peut être envoyé en cas de rupture de stock à la fin du concours) offert par [Rue du Commerce](http://www.rueducommerce.fr/). Mais aussi un [coffret Noël au Soleil](http://www.casadicecco.com/shop/fr/paniers-gourmands/136-coffr.html) par [Casa di Cecco](http://www.casadicecco.com/) comprenant : 1 pot de bruschetta méditerranéenne, 1 huile d'olive extra vierge aromatisée au basilic, 1 boite de rigatoni, 1 pot de crème d'asperges, 1 pot de crème d'olives noires,  1 sachet risotto aux tomates et basilic bio et une bouteille de sauce tomates aux légumes bio.
 
 **Pour le 2ème gagnant : **
 
-![](https://crokmou.com/images/lot-2-casa-di-cecco-rue-du-commerce-300x1201-300x120.jpg)
+{{< img src="https://crokmou.com/images/lot-2-casa-di-cecco-rue-du-commerce-300x1201-300x120.jpg" alt="" >}}
 
 Une [plancha](http://www.rueducommerce.fr/m/pl/malid:15123295) de table (d'une valeur d'environ 40€, produit non exhaustif, un article similaire peut être envoyé en cas de rupture de stock à la fin du concours) offerte par [Rue du Commerce](http://www.rueducommerce.fr/). Mais aussi un lot de trois huiles d'olives extra vierges aromatisées aux choix ([parmi la gamme lattina aluminium proposées sur l'eshop](http://www.casadicecco.com/shop/fr/6-huiles-et-sels)) offert par [Casa di Cecco](http://www.casadicecco.com/)
 

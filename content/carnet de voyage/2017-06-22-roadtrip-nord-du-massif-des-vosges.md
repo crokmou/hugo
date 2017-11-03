@@ -16,7 +16,7 @@ Un visite dans le Nord du Massif des Vosges, je n’y avais jamais pensé jusqu�
 
 De Bruxelles nous avons mis 4h30 en voiture pour arriver. Cela peut paraitre beaucoup mais en partant très tôt le matin, il est facile de profiter pleinement du weekend ! Si vous n’avez pas envie de faire de la route, pas de soucis, des TGV roulent aussi jusque là. Après il vous suffit de louer une voiture pour faire le tour 🙂
 
-![](https://crokmou.com/images/Carte-1-3.jpg)
+{{< img src="https://crokmou.com/images/Carte-1-3.jpg" alt="" >}}
 
 ## Maison Rurale de l’Outre-Forêt
 
@@ -46,7 +46,7 @@ Sur une étagère se trouvait une collection d’appareils anciens assez dingues
 
 Nous reprenons la route pour **Cleebourg**, c’est là que se trouve les caves à vin, très réputées dans la région, que nous allons visiter. N’étant pas du tout portée sur l’alcool (ceux qui me connaissent savent que je n’en bois jamais – oui tu as bien lu : jamais !), j’avoue que j’ai apprécié la visite mais moyennement la dégustation. Je n’avais encore jamais mi les pieds dans une cave à vin, c’est donc toute impressionnée que j’ai pu découvrir les énormes silos dans lesquels le breuvage fermente. C’est vraiment tout une technique le vin et un savoir faire qui demande patience et connaissances. **_Les caves de Cleebourg – [Site Internet](http://www.cave-cleebourg.com)_**
 
-![](https://crokmou.com/images/voyage-nord-massif-vosges-france-cave-cleebourg-crokmou-blog-cuisine-voyage-belgique.jpg)
+{{< img src="https://crokmou.com/images/voyage-nord-massif-vosges-france-cave-cleebourg-crokmou-blog-cuisine-voyage-belgique.jpg" alt="" >}}
 
 ## Hôtel \*\*\*\* – Restaurant du Cheval Blanc
 
@@ -77,7 +77,7 @@ Après ce repas gargantuesque, nous passons la matinée au **château de Schoene
 
 La visite est aussi passionnante que fascinante ! Au travers d’anciennes photos, on admire le travail réalisé, on s’étonne devant les vestiges retrouvés dans le vieux puits et pour finir on s’émerveille une fois en haut de la tour ! Après nous avoir transmis leur passion, les bénévoles nous invitent à mettre la main à la patte. Armés d’une palette, d’une brosse, d’un peu d’eau et de mortier, nous voilà prêts pour consolider les murs. Une belle expérience et un sacré coup de main à prendre ! Si vous passez par là je vous conseille vraiment d’y aller, c’est une belle aventure ! Et pour les amoureux de randonnée, il y a de nombreux sentiers aux alentours. **_Château de Schoeneck – [Site Internet](http://chateau.schoeneck.free.fr/)_**
 
-![](https://crokmou.com/images/voyage-nord-massif-vosges-france-chateau-sch%C5%93neck-crokmou-blog-cuisine-voyage-belgique-17.jpg)
+{{< img src="https://crokmou.com/images/voyage-nord-massif-vosges-france-chateau-sch%C5%93neck-crokmou-blog-cuisine-voyage-belgique-17.jpg" alt="" >}}
 
 ## Restaurant « Au grés du marché »
 

@@ -21,7 +21,7 @@ Me revoili, me revoilou ! Sincèrement désolée pour cette attente entre mes re
 
 Pour ce soir je vous présente des tartelettes aux pommes aux copeaux de chocolat (encore et toujours pour les mordus de chocolat)!
 
-![tartelettes](http://storage.canalblog.com/69/04/825568/63181837_p.jpg)
+{{< img src="http://storage.canalblog.com/69/04/825568/63181837_p.jpg" alt="tartelettes" >}}
 
 *   2 pommes
 *   1 à 2 sachet de sucre vanillé (selon vos goûts)
@@ -29,7 +29,7 @@ Pour ce soir je vous présente des tartelettes aux pommes aux copeaux de chocola
 *   4 carrés de pâte feuilletée
 *   1 gousse de vanille
 
-![preparation](http://storage.canalblog.com/28/58/825568/63181897_p.jpg)
+{{< img src="http://storage.canalblog.com/28/58/825568/63181897_p.jpg" alt="preparation" >}}
 
 1.  Rien de plus rapide et de plus simple que ces tartelettes (Oui oui croyez moi : j'avais simplement des pommes à finir dans mon frigo et voilà en 10 min c'est fait !)
 2.  Coupez vos pommes en quartiers, puis recoupez les quartiers en de plus fins quartiers (on se comprend hein =p).

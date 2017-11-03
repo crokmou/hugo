@@ -22,7 +22,7 @@ slug: "cups-au-chocolat-blanc-et-amandes-glacage-chocolat-copeaux-damandes"
 
 _Tout d'abord je vous explique comment je suis arrivée à cette recette, je surfais sur la toile des blogs de cuisine et je tombe sur un blog bien sympathique celui de [Cook'In](http://cookin.over-blog.com/210-index.html). Me voilà donc a rechercher des petites pâtisseries à confectionner pour le gouter, je tombe donc sur le "Gâteau fondant chocolat blanc/spéculoos et sa crème anglaise", cela semble bon, mais Spéculoos/chocolat blanc, un peu trop sucré à mon goût, je remplace donc les spéculoos par les amandes. Ne voulant pas non plus faire un gros gâteau, me voilà partie pour en faire des cups._<a name="more"></a>
 
-![25_cups](http://storage.canalblog.com/59/56/825568/62416357_p.jpeg)
+{{< img src="http://storage.canalblog.com/59/56/825568/62416357_p.jpeg" alt="25_cups" >}}
 
 *   3 oeufs
 *   60 grammes de sucre
@@ -33,7 +33,7 @@ _Tout d'abord je vous explique comment je suis arrivée à cette recette, je sur
 *   150 grammes de crème fraiche
 *   50 grammes de beurre
 
-![preparation](http://storage.canalblog.com/44/86/825568/62416386_p.jpeg)
+{{< img src="http://storage.canalblog.com/44/86/825568/62416386_p.jpeg" alt="preparation" >}}
 
 1.  Préchauffez le four à 180°C ou 200°C (selon votre four)
 2.  Faites fondre dans une casserole le chocolat blanc, le beurre et la crème fraiche.

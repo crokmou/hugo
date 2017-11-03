@@ -21,7 +21,7 @@ Choisir son reflex est un grand cap, à nous la photographie manuelle et ses ré
 
 ##### <a name="boitier"></a>Le boitier reflex
 
-![choisir son reflex](https://crokmou.com/images/reflex-600x345.jpg) _©Les10meilleurs.fr_
+{{< img src="https://crokmou.com/images/reflex-600x345.jpg" alt="choisir son reflex" >}} _©Les10meilleurs.fr_
 
 C'est dans cette partie de l'appareil qu'on insert la carte mémoire mais aussi la batterie. On y retrouve selon les modèles différents menus, une flopée de boutons mais aussi le système de visée indépendant dont je vous parlais dans le chapitre : Les appareils photos numériques. Ce système vous permet donc, grace à tout un système de miroirs, d'éviter les erreurs de parallaxe : ce que vous voyez dans votre viseur sera ce que vous verrez sur votre photographie. C'est sur ce boitier que vous allez intégrer un objectif mais je vous parlerai de ces petites bêtes par après mais sachez avant tout qu'il vaut mieux un bon objectif qu'un mega boitier ;) Pour faire simple il existe 3 grandes familles de reflex (avec encore d'autres familles entre deux) : **les entrées de gamme, les semi-professionnels et les professionnels.** Concernant la marque choisie, là c'est vraiment comme chacun le sens, c'est comme la lutte planétaire entre Apple et PC ou encore chat ou chien... Là c'est tout pareil, tu choisis l'appareil avec lequel tu te sens le mieux.
 
@@ -39,7 +39,7 @@ Là encore il y a une sous catégorie qui se situe entre les boitiers semi-pro e
 
 ##### <a name="objectif"></a>L'objectif
 
-![choisir son reflex](https://crokmou.com/images/Capture-d-----cran-2014-07-29----16.49.18.png)
+{{< img src="https://crokmou.com/images/Capture-d-----cran-2014-07-29----16.49.18.png" alt="choisir son reflex" >}}
 
 Comme je vous le disais en début d'article, il vaut mieux un bon objectif et un moins bon boitier que l'inverse. L'objectif se choisit selon vos attentes et vos envies, en effet quelqu'un souhaitant prendre en photo les insectes n'aura pas besoin du même objectif que la personne photographiant des paysages ! Il y a **deux catégories d'objectifs** : les objectifs à **focales fixes** et les **zooms**
 
@@ -48,13 +48,13 @@ Comme je vous le disais en début d'article, il vaut mieux un bon objectif et un
 
 Dans tout ça il y a beaucoup de familles d'objectifs mais deux se distinguent d'avantages : les **courtes focales** et les **longues focales**. Voyons un peu à quoi nous avons à faire avec un petit schéma, mais sachez tout d'abord que celui-ci a été dessiné pour un capteur full-frame (24x36) et que par conséquent avec un plus petit capteur il vous faudra diviser par le coefficient 1,5 environ afin de trouver la focale qu'il vous faut. Par exemple un 100mm pour un capteur full-frame équivaut à un objectif 70mm environ pour un petit capteur. Retenez aussi que les boitiers full-frame ne supportent que des objectifs full-frame soit des objectifs EF (Canon) ou FX (Nikon) contrairement au petits formats qui eux supportent les deux types d'objectifs EF et EF-S (DX chez Nikon). Avec ça, passons à mon fameux schéma :
 
-![choisir son reflex](https://crokmou.com/images/Capture-d-----cran-2014-07-29----17.38.01.png) _© Mon syllabus de cours_
+{{< img src="https://crokmou.com/images/Capture-d-----cran-2014-07-29----17.38.01.png" alt="choisir son reflex" >}} _© Mon syllabus de cours_
 
 Vous voyez donc que les **_courtes focales ou grands angles_** (et les très courtes notamment le fish-eye) sont particulièrement utiles pour le reportage ou lorsque vous ne disposez que de très peu d'espace pour vos photos malheureusement ce type d'objectif comporte aussi des défauts notamment l'effet de distortion (partie centrale de l'image moins rapetissée que les parties périphériques).
 
 Les **longues focales ou téléobjectifs**, eux sont souvent utilisées pour les portraits, le sport et les sujets plus éloignés. Ces objectifs disposent eux aussi de défauts, notamment l'aplanissement de perspectives mais aussi une faible profondeur de champ (plus de flou). Voyez plutôt :
 
-![choisir son reflex](https://crokmou.com/images/Focales-c-Nikon-School.jpg) © Eschon.com
+{{< img src="https://crokmou.com/images/Focales-c-Nikon-School.jpg" alt="choisir son reflex" >}} © Eschon.com
 
 Il existe aussi _d'autres objectifs spécialisés_, aussi bien en courte qu'en longue focale :
 

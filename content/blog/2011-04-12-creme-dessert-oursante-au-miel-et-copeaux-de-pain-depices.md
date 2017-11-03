@@ -19,7 +19,7 @@ _J'ai découvert cette recette de crème dessert sur le blog de [Chef Nini](http
 
 _Recette particulièrement simple à réaliser !_
 
-![2pers](http://storage.canalblog.com/55/06/825568/62415759_p.jpeg)
+{{< img src="http://storage.canalblog.com/55/06/825568/62415759_p.jpeg" alt="2pers" >}}
 
 *   40 g de miel (on est jamais trop gourmand !)
 *   4 càc de maïzena
@@ -27,9 +27,9 @@ _Recette particulièrement simple à réaliser !_
 *   du pain d'épices
 *   du sucre vanillé ou une gousse de vanille
 
-![Cr_me_oursante_au_miel_et_pain_d__pices_2](http://storage.canalblog.com/01/96/825568/62406630_p.jpg)
+{{< img src="http://storage.canalblog.com/01/96/825568/62406630_p.jpg" alt="Cr_me_oursante_au_miel_et_pain_d__pices_2" >}}
 
-![preparation](http://storage.canalblog.com/00/26/825568/62415778_p.jpeg)
+{{< img src="http://storage.canalblog.com/00/26/825568/62415778_p.jpeg" alt="preparation" >}}
 
 1.  Mélangez dans une casserole, le miel et la maïzena. Ajoutez le lait par petites doses en mélangeant bien pour éviter les grumeaux.
 2.  Mettez votre casserole à chauffer à feu moyen/fort (selon les plaques cela diffère) en ne cessant pas de remuer.

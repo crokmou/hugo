@@ -81,6 +81,27 @@ disqusId: 5432201970
 slug: spaghetti-bolognaise-vegan-legumes
 ---
 
-Des pâtes sans pâtes, quelle idée ! Il y a peu je me suis offerte le livre **_« Healthy Vegan » de Marie Laforêt._** Je l’ai feuilleté et je suis tombée sur cette recette de pâtes bolognaise sans pâtes, un vrai coup de coeur ! Par chance mon partenaire **Alice Délice** venait tout juste de m’envoyer le [fameux spiraliseur](https://www.alicedelice.com/mandoline-de-cuisine/spiraliseur-3-lames-1017011.html), idéal pour la réalisation de cette recette ! Non seulement le plat est top au goût mais en plus il est hyper simple à faire. Bon n’espérez pas retrouver le goût de la bolo telle qu’on la connait à base de viande mais c’est une très chouette alternative qui fait son petit effet. Sur des pâtes ou sur des spaghetti de légumes comme ici, le rendu est alléchant ! J’ai un peu modifié la recette originale en y apportant ma petite touche, notamment avec l’ail noir et l’huile de sésame… Parlons aussi du spiraliseur : Je ne connaissais absolument pas cet ustensile avant de le recevoir dans mon colis. Au départ je me suis dit que c’était encore une babiole qui allait trainer dans le fond de mes armoires… Mais finalement non. Ce gadget est vraiment top, il est vrai qu’une carotte reste une carotte, mais finalement transformée en spaghettis, la carotte parait différente (oui je sais dit comme ça c’est stupide). Moi qui ne suit pas fan de certains légumes comme la betterave ou le navet, cela m’a donné quelques idées sympa… Finalement ce spiraliseur va devenir un bon allié dans ma cuisine !   ![](https://crokmou.com/images/bolognaise-vegan-crokmou-blog-cuisine-voyage-belgique_ic6ijk.gif)
+Des pâtes sans pâtes, quelle idée ! Il y a peu je me suis offerte le livre
+**_« Healthy Vegan » de Marie Laforêt._** Je l’ai feuilleté et je suis tombée
+sur cette recette de pâtes bolognaise sans pâtes, un vrai coup de coeur ! Par
+chance mon partenaire **Alice Délice** venait tout juste de m’envoyer le
+[fameux spiraliseur](https://www.alicedelice.com/mandoline-de-cuisine/spiraliseur-3-lames-1017011.html),
+idéal pour la réalisation de cette recette ! Non seulement le plat est top au
+goût mais en plus il est hyper simple à faire. Bon n’espérez pas retrouver le
+goût de la bolo telle qu’on la connait à base de viande mais c’est une très
+chouette alternative qui fait son petit effet. Sur des pâtes ou sur des
+spaghetti de légumes comme ici, le rendu est alléchant ! J’ai un peu modifié la
+recette originale en y apportant ma petite touche, notamment avec l’ail noir et
+l’huile de sésame… Parlons aussi du spiraliseur : Je ne connaissais absolument
+pas cet ustensile avant de le recevoir dans mon colis. Au départ je me suis dit
+que c’était encore une babiole qui allait trainer dans le fond de mes armoires…
+Mais finalement non. Ce gadget est vraiment top, il est vrai qu’une carotte
+reste une carotte, mais finalement transformée en spaghettis, la carotte parait
+différente (oui je sais dit comme ça c’est stupide). Moi qui ne suit pas fan de
+certains légumes comme la betterave ou le navet, cela m’a donné quelques idées
+sympa… Finalement ce spiraliseur va devenir un bon allié dans ma cuisine !   {{<
+img
+src="https://crokmou.com/images/bolognaise-vegan-crokmou-blog-cuisine-voyage-belgique.gif"
+alt="" >}}
 
 {{< recette >}}

@@ -35,7 +35,7 @@ Loin de moi l'idée de vous dissuader de faire cette recette, néanmoins j'aurai
 
 Assez parlé nature maintenant passons à la cuisine !
 
-![Confiture de châtaignes / marrons maison](https://crokmou.com/images/photographie_confiture_chataigne_creme_marron.jpg "Confiture de châtaignes / marrons maison")![Confiture de châtaignes / marrons maison](https://crokmou.com/images/photographie_confiture_chataigne_creme_marron-5.jpg "Confiture de châtaignes / marrons maison")
+![Confiture de châtaignes / marrons maison](https://crokmou.com/images/photographie_confiture_chataigne_creme_marron.jpg)![Confiture de châtaignes / marrons maison](https://crokmou.com/images/photographie_confiture_chataigne_creme_marron-5.jpg)
 
 ## Recette de la confiture de châtaignes
 

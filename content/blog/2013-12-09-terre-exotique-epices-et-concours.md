@@ -10,7 +10,7 @@ description: ""
 slug: "terre-exotique-epices-et-concours"
 ---
 
-![](https://crokmou.com/images/concours_terre_exotique_crokmou-225x3001-225x300.jpg)
+{{< img src="https://crokmou.com/images/concours_terre_exotique_crokmou-225x3001-225x300.jpg" alt="" >}}
 
 Vous pensiez que j'allais vous oublier pour Noël ? Et bien non, je ne vous oublie pas petits (gros) gourmands ! Il y aura un concours avant et après les fêtes pour de chouettes cadeaux ! Avant les fêtes je vous propose de découvrir l'univers épicé de **[_Terre Exotique_](http://www.terreexotique.fr/)**. **[_Terre exotique_](http://www.terreexotique.fr/)** est une [epicerie fine](http://www.terreexotique.fr/) en ligne sur laquelle vous pouvez trouver non seulement de tout, mais aussi et surtout d'excellents produits !
 
