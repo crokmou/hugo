@@ -6,6 +6,7 @@ categories:
   - "Lifestyle"
 tags:
   - "Voyage"
+description: "Le 9Hotel Sablon, un havre de paix en plein coeur de Bruxelles ! ... celui-ci s'inscrit dans une ambiance luxueuse et artistique. "
 slug: "9hotel-sablon-piscine-sauna-coeur-de-bruxelles"
 ---
 

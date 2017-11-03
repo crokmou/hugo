@@ -1,20 +1,21 @@
 ---
+date: "2017-04-20T16:31:59+02:00"
 title: "Pâtes d'épeautre, artichauts poivrade, tomates cerises et burrata"
-date: 2017-04-20T16:31:59+00:00
-thumbnail: https://crokmou.com/images/recette-pate-epeautre-artichaut-tomate-burrata-crokmou-blog-cuisine-voyage-1-3.jpg
+thumbnail: "https://crokmou.com/images/recette-pate-epeautre-artichaut-tomate-burrata-crokmou-blog-cuisine-voyage-1-3.jpg"
 categories:
-  - Plats
+  - "Plats"
 tags:
-  - artichaut
-  - burrata
-  - épeautre
-  - fromage
-  - lait
-  - pâtes
-  - tomate
-  - tomate cerise
-  - sel
-  - poivre 
+  - "Artichaut"
+  - "Burrata"
+  - "épeautre"
+  - "Fromage"
+  - "Lactose"
+  - "Lait"
+  - "Pâtes"
+  - "Tomate"
+  - "Tomate cerise"
+  - "Vegetarien"
+description: "La saison des artichauts violet fait son retour et ce pour mon plus grand bonheur ! Je ne sais pas pourquoi mais j'adore ça..."
 recette_details:
   - Catégorie:
     - Pâtes, Salade

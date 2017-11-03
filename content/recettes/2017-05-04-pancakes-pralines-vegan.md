@@ -1,23 +1,21 @@
 ---
-title: Pancakes pralinés vegan, mon bonheur tous les Dimanches !
-date: 2017-05-04T17:48:12+00:00
-thumbnail: https://crokmou.com/images/pancakes-vegan-vg-crokmou-blog-cuisine-voyage-1.jpg
+date: "2017-05-04T17:48:12+02:00"
+title: "Pancakes pralinés vegan, mon bonheur tous les Dimanches !"
+thumbnail: "https://crokmou.com/images/pancakes-vegan-vg-crokmou-blog-cuisine-voyage-1.jpg"
 categories:
-  - Desserts
+  - "Desserts"
 tags:
-  - amande
-  - lait végétal
-  - poudre à lever
-  - "purée d'oléagineux"
-  - sucre
-  - "purée d'amande"
-  - praliné
-  - cassonade
-  - baking powder
-  - pomme
-  - mousseline de pomme
-  - compote de pomme
-  - "lait d'amande"
+  - "Amande"
+  - "Brunch"
+  - "Lait vegetal"
+  - "Pancake"
+  - "Petit dejeuner"
+  - "Poudre à lever"
+  - "Purée oléagineux"
+  - "Sucre"
+  - "Vegan"
+  - "Vegetalien"
+description: "Oui oui oui, je vous parle encore de pancakes mais cette fois de pancakes pralinés vegan ! Si vous me suivez sur Instagram, vous savez certainement..."
 recette_details:
   - Catégorie:
     - Crêpes

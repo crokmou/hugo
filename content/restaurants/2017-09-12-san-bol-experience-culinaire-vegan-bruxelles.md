@@ -6,6 +6,7 @@ categories:
   - "Lifestyle"
 tags:
   - "Restaurant"
+description: "San Bol, un restaurant un peu particulier, une adresse où je rêvais de mettre les pieds ! J'ai toujours admiré le travail de Sang Hoon Degeimbre..."
 slug: "san-bol-experience-culinaire-vegan-bruxelles"
 ---
 

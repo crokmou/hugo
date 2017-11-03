@@ -16,6 +16,7 @@ tags:
   - "Sarrasin grillé"
   - "Sirop d'erable"
   - "Vanille"
+description: "L'Automne est ses jolies couleurs... le meilleur moment pour vous proposer une délicieuse recette de porridge végétal aux poires et sirop d'érable."
 recette_details:
   - Catégorie:
     - Bowl

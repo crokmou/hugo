@@ -1,24 +1,19 @@
 ---
-title: Panna cotta au thé matcha et rhubarbe poêlée
-date: 2016-06-15T13:26:40+00:00
-thumbnail: https://crokmou.com/images/panna-cotta-the-matcha-rhubarbe-poelee-crokmou-blog-culinaire.jpg
+date: "2016-06-15T13:26:40+02:00"
+title: "Panna cotta au thé matcha et rhubarbe poêlée"
+thumbnail: "https://crokmou.com/images/panna-cotta-the-matcha-rhubarbe-poelee-crokmou-blog-culinaire.jpg"
 categories:
-  - Desserts
+  - "Desserts"
 tags:
-  - agar agar
-  - fruit
-  - matcha
-  - rhubarbe
-  - thé
-  - thé matcha
-  - thé vert
-  - crème fraîche
-  - sucre
-  - vanille
-  - sucre vanillé
-  - purée de cassis
-  - cassis
-  - purée de fruit
+  - "Agar agar"
+  - "Fruit"
+  - "Matcha"
+  - "Panna cotta"
+  - "Rhubarbe"
+  - "Thé"
+  - "The matcha"
+  - "Thé vert matcha"
+description: "Cette petite panna cotta au thé matcha et rhubarbe poêlée, j'en avais envie depuis quelques temps déjà et je dois dire que je n'ai pas été déçue du résultat"
 recette_details:
   - Catégorie:
     - Crème dessert
@@ -75,7 +70,7 @@ disqusId: 4912144010
 slug: panna-cotta-au-the-matcha-rhubarbe-poelee
 ---
 
-Oh Soleil, quand nous reviendras-tu ?! En ce moment la pluie et les orages sont notre quotidien, personnellement mon moral est assez bas, j’avoue que j’ai grand besoin de réconfort. Cuisiner et pâtisser cela aide quelque peu mais le mieux dans tout ça ? La dégustation ! Cette petite **panna cotta au thé matcha et rhubarbe poêlée**, j’en avais envie depuis quelques temps déjà et je dois dire que je n’ai pas été déçue du résultat. C’est _fondant, crémeux avec un poil d’amertume_, de sucré et d’acide en même temps. C’est pep’s, c’est sympa et cela change de ma tarte à la rhubarbe ! Soyez quand même vigilants quant à l’acidité voulue dans votre dessert, pour ma part j’y suis allée un peu fort en faisant mariner ma rhubarbe avec de la purée de cassis mais également du citron… combo gagnant quoi ! J’aime beaucoup la panna cotta car c’est un dessert très simple, très doux, qui correspond parfaitement bien à l’idée que je me fais d’un dessert : léger ! Le top c’est qu’_il y a des tas de recettes toutes plus différentes les unes des autres_, nul besoin de 50 ingrédients, et pour ceux qui ne souhaitent pas de produits laitiers, on peut même faire le tout en mode Vegan.
+Oh Soleil, quand nous reviendras-tu ?! En ce moment la pluie et les orages sont notre quotidien, personnellement mon moral est assez bas, j'avoue que j'ai grand besoin de réconfort. Cuisiner et pâtisser cela aide quelque peu mais le mieux dans tout ça ? La dégustation ! Cette petite **panna cotta au thé matcha et rhubarbe poêlée**, j'en avais envie depuis quelques temps déjà et je dois dire que je n'ai pas été déçue du résultat. C'est _fondant, crémeux avec un poil d'amertume_, de sucré et d'acide en même temps. C'est pep's, c'est sympa et cela change de ma tarte à la rhubarbe ! Soyez quand même vigilants quant à l'acidité voulue dans votre dessert, pour ma part j'y suis allée un peu fort en faisant mariner ma rhubarbe avec de la purée de cassis mais également du citron... combo gagnant quoi ! J'aime beaucoup la panna cotta car c'est un dessert très simple, très doux, qui correspond parfaitement bien à l'idée que je me fais d'un dessert : léger ! Le top c'est qu'_il y a des tas de recettes toutes plus différentes les unes des autres_, nul besoin de 50 ingrédients, et pour ceux qui ne souhaitent pas de produits laitiers, on peut même faire le tout en mode Vegan.
 
 {{< recette >}}
 

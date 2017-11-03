@@ -1,28 +1,18 @@
 ---
-title: Macarons Halloween, ganache cacao cru
-date: 2016-10-28T20:28:05+00:00
-thumbnail: https://crokmou.com/images/macaron-halloween-ganache-chocolat-grand-cru-crokmou-blog-culinaire-belge.jpg
+date: "2016-10-28T20:28:05+02:00"
+title: "Macarons Halloween, ganache cacao cru"
+thumbnail: "https://crokmou.com/images/macaron-halloween-ganache-chocolat-grand-cru-crokmou-blog-culinaire-belge.jpg"
 categories:
-  - Desserts
+  - "Desserts"
 tags:
-  - amande
-  - "blanc d'oeuf"
-  - oeuf
-  - "poudre d'amande"
-  - "blanc d'oeuf"
-  - sucre glace
-  - sucre
-  - eau
-  - glucose
-  - colorant
-  - soja
-  - crème végétale
-  - crème de soja
-  - pâte de cacao
-  - chocolat
-  - fève de tonka
-  - tonka
-  - beurre
+  - "Amande"
+  - "Blanc d'oeuf"
+  - "Halloween"
+  - "Macaron"
+  - "Mignardise"
+  - "Oeuf"
+  - "Sucre"
+description: "Laissez moi donc vous présenter mes petits macarons effrayants... Je vous avoue avoir eu bien du mal à les décorer et les photographier..."
 recette_details:
   - Catégorie:
     - Mignardise
@@ -88,6 +78,6 @@ disqusId: 5261183358
 slug: macarons-halloween-ganache-chocolat-grand-cru
 ---
 
-Je ne fête jamais Halloween comme je le souhaiterais, malheureusement en Europe ce n’est pas une fête très grandiose. Néanmoins chaque année je prend un réel plaisir à élaborer quelques petites recettes spécialement pour l’occasion ! Naturellement je n’oublie pas de fredonner mon air favoris « This is Halloween », bien que cette année c’est plutôt [le solo de piano](https://www.youtube.com/watch?v=kUfRtS1Swf4) du long métrage « The Corpse bride » qui me trottait dans la tête. Laissez moi donc vous présenter mes petits macarons effrayants – ou pas -. Je vous avoue avoir eu bien du mal à les décorer et les photographier car ce jour là je tenais à peine debout et bien qu’ils ne soient pas parfaits, je les trouve plutôt réussis, pas vous ? Ceux qui savent que je râle chaque année contre mon four de brin et mes macarons, ici j’ai réalisé les coques à l’école, le four étant nettement mieux, le rendu est donc plus joli 🙂
+Je ne fête jamais Halloween comme je le souhaiterais, malheureusement en Europe ce n'est pas une fête très grandiose. Néanmoins chaque année je prend un réel plaisir à élaborer quelques petites recettes spécialement pour l'occasion ! Naturellement je n'oublie pas de fredonner mon air favoris "This is Halloween", bien que cette année c'est plutôt [le solo de piano](https://www.youtube.com/watch?v=kUfRtS1Swf4) du long métrage "The Corpse bride" qui me trottait dans la tête. Laissez moi donc vous présenter mes petits macarons effrayants - ou pas -. Je vous avoue avoir eu bien du mal à les décorer et les photographier car ce jour là je tenais à peine debout et bien qu'ils ne soient pas parfaits, je les trouve plutôt réussis, pas vous ? Ceux qui savent que je râle chaque année contre mon four de brin et mes macarons, ici j’ai réalisé les coques à l'école, le four étant nettement mieux, le rendu est donc plus joli :)
 
 {{< recette >}}

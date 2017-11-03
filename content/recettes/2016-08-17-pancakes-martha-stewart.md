@@ -1,19 +1,27 @@
 ---
-title: Pancakes par Martha Stewart
-date: 2016-08-17T16:29:36+00:00
-thumbnail: https://crokmou.com/images/pancakes-moelleux-crokmou-blog-culinaire.jpg
+date: "2016-08-17T16:29:36+02:00"
+title: "Pancakes par Martha Stewart"
+thumbnail: "https://crokmou.com/images/pancakes-moelleux-crokmou-blog-culinaire.jpg"
 categories:
-  - Desserts
+  - "Desserts"
 tags:
-  - farine
-  - sucre
-  - sel
-  - levure chimique
-  - baking powder
-  - bicarbonate de soude
-  - oeuf
-  - lait
-  - beurre
+  - "Amérique"
+  - "Beurre"
+  - "Bicarbonate de soude"
+  - "Chandeleur"
+  - "Farine"
+  - "Lait"
+  - "Levure chimique"
+  - "Martha stewart"
+  - "Oeuf"
+  - "Pancake"
+  - "Pancakes"
+  - "Petit dejeuner"
+  - "Sel"
+  - "Sucre"
+  - "Usa"
+  - "Vegetarien"
+description: "Quand je suis à la maison, le Dimanche devient un jour sacré : the day of Pancakes ! J'adore ça, avec des fruits, du sirop d'érable, du sucre glace..."
 recette_details:
   - Catégorie:
     - Pancake
@@ -74,6 +82,8 @@ disqusId: 5072994928
 slug: pancakes-martha-stewart
 ---
 
-Quand je suis à la maison, le Dimanche devient un jour sacré : the day of Pancakes ! J’adore ça, avec des fruits, du sirop d’érable, du sucre glace, de la cassonade (autrefois du bacon) … C’est moelleux, fondant et ça change carrément du pain grillé ! J’essaye de faire un peu attention à ce que je mange dernièrement (bon sauf peut être en vacances je l’avoue), du coup le jour où je me fais ce royal petit déj est vraiment très attendu ! Pour cette fois j’ai testé une recette venant de Martha Stewart, petit billet trouvé sur le blog [C’est ma fournée](http://www.cestmafournee.com/2014/09/the-old-fashioned-pancakes-by-martha.html#)  _Cette préparation est top, en fait c’est comme les cakes, au moins on trifouille la pâte, meilleur est le résultat. Là c’est pareil au moins tu travailles ta préparation, au plus tes pancakes sont moelleux. A présent il ne me reste plus qu’à trouver les proportions pour échanger le lait de vache par du lait végétal (oui parce qu’ayant bien du mal à digérer le lait de vache, j’en achète toujours pour la pâtisserie mais je me retrouve toujours avec la moitié de ma bouteille périmée… inutile donc) Il est temps de s’attaquer à la recette, si si_
+Quand je suis à la maison, le Dimanche devient un jour sacré : the day of Pancakes ! J'adore ça, avec des fruits, du sirop d'érable, du sucre glace, de la cassonade (autrefois du bacon) ... C'est moelleux, fondant et ça change carrément du pain grillé ! J'essaye de faire un peu attention à ce que je mange dernièrement (bon sauf peut être en vacances je l'avoue), du coup le jour où je me fais ce royal petit déj est vraiment très attendu ! Pour cette fois j'ai testé une recette venant de Martha Stewart, petit billet trouvé sur le blog _[C'est ma fournée](http://www.cestmafournee.com/2014/09/the-old-fashioned-pancakes-by-martha.html#) _! Cette préparation est top, en fait c'est comme les cakes, au moins on trifouille la pâte, meilleur est le résultat. Là c'est pareil au moins tu travailles ta préparation, au plus tes pancakes sont moelleux. A présent il ne me reste plus qu'à trouver les proportions pour échanger le lait de vache par du lait végétal (oui parce qu'ayant bien du mal à digérer le lait de vache, j'en achète toujours pour la pâtisserie mais je me retrouve toujours avec la moitié de ma bouteille périmée... inutile donc) Il est temps de s'attaquer à la recette, si si
+
+## **Recette des pancakes par Martha Stewart**
 
 {{< recette >}}

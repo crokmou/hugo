@@ -10,6 +10,7 @@ tags:
   - eau
   - vanille
   - fève tonka
+description: "La compote de pommes, c'est facile, c'est bon et c'est sain, qui plus est quand tu n'ajoutes pas de sucre à ta recette ! Et c'est là toute la subtilité..."
 recette_details:
   - Catégorie:
     - Conserve

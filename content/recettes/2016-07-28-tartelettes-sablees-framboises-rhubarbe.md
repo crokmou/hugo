@@ -1,22 +1,25 @@
 ---
-title: Tartelettes sablées framboises et rhubarbe
-date: 2016-07-28T20:08:13+00:00
-thumbnail: https://crokmou.com/images/tartelette-sabl--e-framboises-conticini-crokmou-blog-culinaire.jpg
+date: "2016-07-28T20:08:13+02:00"
+title: "Tartelettes sablées framboises et rhubarbe"
+thumbnail: "https://crokmou.com/images/tartelette-sabl--e-framboises-conticini-crokmou-blog-culinaire.jpg"
 categories:
-  - Desserts
+  - "Desserts"
 tags:
-  - beurre
-  - biscuit
-  - farine de coco
-  - fleur de sel
-  - framboise
-  - fruit
-  - jaune oeuf
-  - poudre amande
-  - rhubarbe
-  - pâte sablée
-  - sucre glace
-  - farine
+  - "Beurre"
+  - "Biscuit"
+  - "Farine de coco"
+  - "Fleur de sel"
+  - "Framboise"
+  - "Fruit"
+  - "Jaune oeuf"
+  - "Poudre amande"
+  - "Rhubarbe"
+  - "Sable"
+  - "Sucre glace"
+  - "Tarte"
+  - "Tartelette"
+  - "Vegetarien"
+description: "Il y a quelques temps je suis tombée sur un live de Philippe Conticini via sa page Facebook : ce jour là une petite tartelette aux framboises..."
 recette_details:
   - Catégorie:
     - Tarte
@@ -67,7 +70,9 @@ disqusId: 5022149457
 slug: tartelettes-sablees-framboises-rhubarbe
 ---
 
-Il y a quelques temps je suis tombée sur un live de Philippe Conticini via sa page Facebook : ce jour là, une petite tartelette aux framboises était à l’honneur ! Je n’aime pourtant pas spécialement la framboise mais ce dessert était visuellement trop craquant, il ne pouvait donc être que bon. Ni une ni deux, j’ai été faire mes courses et j’ai pâtissé ! C’est simple, bon, frais, parfait pour terminer un repas. Déclinable avec d’autres fruits comme des fraises, des abricots… Vous remarquerez également que question simplicité, y’a pas mieux… La confection de biscuits est à la portée de tous, pour le reste ce n’est qu’une question de décoration ! Je trouve qu’elle en jette cette petite tartelette vous ne trouvez pas ?
+Il y a quelques temps je suis tombée sur un live de Philippe Conticini via sa page Facebook : ce jour là, une petite tartelette aux framboises était à l'honneur ! Je n'aime pourtant pas spécialement la framboise mais ce dessert était visuellement trop craquant, il ne pouvait donc être que bon. Ni une ni deux, j'ai été faire mes courses et j'ai pâtissé ! C'est simple, bon, frais, parfait pour terminer un repas. Déclinable avec d'autres fruits comme des fraises, des abricots... Vous remarquerez également que question simplicité, y'a pas mieux... La confection de biscuits est à la portée de tous, pour le reste ce n'est qu'une question de décoration ! Je trouve qu'elle en jette cette petite tartelette vous ne trouvez pas ?
+
+## **Recette des tartelettes sablées framboises et rhubarbe**
 
 {{< recette >}}
 

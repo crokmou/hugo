@@ -1,26 +1,27 @@
 ---
-title: Pancakes vegan, légers et moelleux
-date: 2016-12-08T19:28:33+00:00
-thumbnail: https://crokmou.com/images/pancakes-vegan-vg-crokmou-blog-culinaire-belge-1.jpg
+date: "2016-12-08T19:28:33+01:00"
+title: "Pancakes vegan, légers et moelleux"
+thumbnail: "https://crokmou.com/images/pancakes-vegan-vg-crokmou-blog-culinaire-belge-1.jpg"
 categories:
-  - Desserts
+  - "Desserts"
 tags:
-  - amande
-  - compote de pomme
-  - mousseline de pomme
-  - fruit
-  - lait végétal
-  - pomme
-  - sel
-  - farine
-  - sucre
-  - cassonade
-  - levure chimique
-  - baking powder
-  - bicarbonate de soude
-  - "lait d'amande"
-  - "purée d'amande"
-  - "purée d'oléagineux"
+  - "Amande"
+  - "Brunch"
+  - "Chandeleur"
+  - "Compote"
+  - "Fruit"
+  - "Lait vegetal"
+  - "Pancake"
+  - "Pancakes"
+  - "Petit dejeuner"
+  - "Pomme"
+  - "Sans beurre"
+  - "Sans lait"
+  - "Sans oeuf"
+  - "Vegan"
+  - "Vegetalien"
+  - "Vegetarien"
+description: "Tester les pancakes vegan fût ma plus grande réussite : ils sont encore plus moelleux qu'à leur habitude. En fin de compte cela n'a rien de bien compliqué.."
 recette_details:
   - Catégorie:
     - Pancake

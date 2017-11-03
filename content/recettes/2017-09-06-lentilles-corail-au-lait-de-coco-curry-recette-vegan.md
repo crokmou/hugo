@@ -14,11 +14,10 @@ tags:
   - "Lait de coco"
   - "Lentille"
   - "Lentille corail"
-  - "Carotte"
-  - "Courgette"
-  - "Oignon"
-  - "Tomate"
-  - "Ail"
+  - "Vegan"
+  - "Vegetalien"
+  - "Vegetarien"
+description: "Les lentilles corail au lait de coco sont devenues un de mes plats favoris ! Le dal à base de lentilles corail est appelé \"Masoor Dal\" et est généralement.."
 recette_details:
   - Catégorie:
     - Dal

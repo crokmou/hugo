@@ -6,15 +6,7 @@
     <article class="single__content markdown">
       {{with .Title}}<h1>{{.}}</h1>{{end}}
       {{if .Params.thumbnail}}
-      <div class="gallery gallery--no-grid" itemscope
-           itemtype="http://schema.org/ImageGallery">
-        <figure itemprop="associatedMedia" itemscope
-                itemtype="http://schema.org/ImageObject">
-          <a href="{{.Params.thumbnail}}" itemprop="contentUrl">
-            <img src="{{.Params.thumbnail}}" itemprop="thumbnail" alt="{{.Title}}"/>
-          </a>
-        </figure>
-      </div>
+      {{partial "molecules/img.html" (dict "src" .Params.Thumbnail "alt" .Title)}}
       {{end}}
       {{ .Content }}
     </article>

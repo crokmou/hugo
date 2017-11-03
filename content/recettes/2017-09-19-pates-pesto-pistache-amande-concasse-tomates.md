@@ -13,6 +13,10 @@ tags:
   - "Pesto"
   - "Pistache"
   - "Tomate"
+  - "Vegan"
+  - "Vegetalien"
+  - "Vegetarien"
+description: "Le pesto de basilic était pour moi le meilleur pesto, jusqu'à ce que je découvre le pesto de pistaches et d'amandes ! La semaine dernière je me suis..."
 recette_details:
   - Catégorie:
     - Pâtes

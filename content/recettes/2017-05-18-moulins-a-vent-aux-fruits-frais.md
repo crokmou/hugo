@@ -1,21 +1,22 @@
 ---
-title: Moulins à vent aux fruits frais
-date: 2017-05-18T18:30:46+00:00
-thumbnail: https://crokmou.com/images/moulins-aux-fruits-feuilletés-crokmou-blog-cuisine-voyage-1-9.jpg
+date: "2017-05-18T18:30:46+02:00"
+title: "Moulins à vent aux fruits frais"
+thumbnail: "https://crokmou.com/images/moulins-aux-fruits-feuilletés-crokmou-blog-cuisine-voyage-1-9.jpg"
 categories:
-  - Boulangerie
+  - "Boulangerie"
 tags:
-  - beurre
-  - fécule de maïs
-  - fruit
-  - levure
-  - levure boulangère
-  - levure fraiche
-  - maizena
-  - oeuf
-  - pâte levée feuilletée
-  - sucre
-  - lait 
+  - "Beurre"
+  - "Fécule de maïs"
+  - "Fruit"
+  - "Levure"
+  - "Levure boulangère"
+  - "Levure fraiche"
+  - "Maizena"
+  - "Oeuf"
+  - "Pâte levée feuilletée"
+  - "Sucre"
+  - "Vegetarien"
+description: "Les moulins à vent aux fruits frais se faisait beaucoup à une époque dans les boulangeries. Cela a peu a peu été oublié, pourquoi ..."
 recette_details:
   - Catégorie:
     - Viennoiserie

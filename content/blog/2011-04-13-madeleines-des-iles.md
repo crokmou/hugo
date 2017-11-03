@@ -1,21 +1,22 @@
 ---
-title: Madeleines des îles
-date: 2011-04-13T08:30:00+00:00
-thumbnail: https://crokmou.com/images/Madeleines-vanille.jpg
+date: "2011-04-13T08:30:00+02:00"
+title: "Madeleines des îles"
+thumbnail: "https://crokmou.com/images/Madeleines-vanille.jpg"
 categories:
-  - Desserts
+  - "Desserts"
 tags:
-  - lait
-  - madeleine
-  - mignardise
-  - oeuf
-disqusId: 3598017621
-slug: madeleines-des-iles
+  - "Lait"
+  - "Madeleine"
+  - "Mignardise"
+  - "Oeuf"
+  - "Vanille"
+description: ""
+slug: "madeleines-des-iles"
 ---
 
-_Goûter du jour, bonjour ! Ne sachant pas trop quoi faire aujourd’hui, si ce n’est que je voulais cuisiner, je me mets donc à chercher dans les nombreux bouquins de desserts, que pouvais-je bien faire… Après mûre réfléction : des madeleines, beh oui bien sûr, un sacré temps que je n’en ai pas mangé et à la vanille cela sera terrible !_
+_Goûter du jour, bonjour ! Ne sachant pas trop quoi faire aujourd'hui, si ce n'est que je voulais cuisiner, je me mets donc à chercher dans les nombreux bouquins de desserts, que pouvais-je bien faire... Après mûre réfléction : des madeleines, beh oui bien sûr, un sacré temps que je n'en ai pas mangé et à la vanille cela sera terrible !_
 
-_Cela n’a pas loupé c’est très bon !_
+_Cela n'a pas loupé c'est très bon !_
 
 _![madeleines](http://storage.canalblog.com/15/78/825568/62805874_p.jpg)_
 
@@ -26,13 +27,13 @@ _![madeleines](http://storage.canalblog.com/15/78/825568/62805874_p.jpg)_
 *   20 g de sucre en poudre
 *   1 sachet de sucre vanillé
 *   2 gousses de vanille
-*   1/2 cuillère d’arôme vanille (facultatif, j’aime juste le goût bien vanillé)
+*   1/2 cuillère d'arôme vanille (facultatif, j'aime juste le goût bien vanillé)
 *   2 càs de lait (facultatif selon consistance de la pâte)
 
 ![preparation](http://storage.canalblog.com/48/15/825568/62806010_p.jpg)
 
 1.  Battez les oeufs avec un fouet dans un saladier.
-2.  Incorporez la farine, la levure, le beurre fondu, le sucre, la vanille et l’arôme.
+2.  Incorporez la farine, la levure, le beurre fondu, le sucre, la vanille et l'arôme.
 3.  Laissez reposer 1h au réfrigérateur
 4.  Préchauffez votre four à 180°C. Sortez votre préparation du réfrigérateur (si la pâte est trop épaisse, ajoutez du lait et mélangez bien)
 5.  Répartissez la pâte dans les moules (en attendant les autres fournées, laissez le restant de pâte au frigo)

@@ -1,26 +1,30 @@
 ---
-title: Religieuse, pâtisserie Française élégante et gourmande
-date: 2017-03-02T17:23:57+00:00
-thumbnail: https://crokmou.com/images/religieuse-chocolat-vanille-patisserie-crokmou-blog-culinaire-belge-2.jpg
+date: "2017-03-02T17:23:57+01:00"
+title: "Religieuse, pâtisserie Française élégante et gourmande"
+thumbnail: "https://crokmou.com/images/religieuse-chocolat-vanille-patisserie-crokmou-blog-culinaire-belge-2.jpg"
 categories:
-  - Desserts
+  - "Desserts"
 tags:
-  - beurre
-  - cacao
-  - crème au beurre
-  - creme pâtissière
-  - farine
-  - fondant
-  - fondant blanc
-  - glucose
-  - lait
-  - maïzena
-  - oeuf
-  - pâte à choux
-  - sel
-  - sucre
-  - vanille
-  - cassonade 
+  - "Beurre"
+  - "Cacao"
+  - "Chou"
+  - "Crème au beurre"
+  - "Creme patissiere"
+  - "Farine"
+  - "Fondant"
+  - "Fondant blanc"
+  - "Glucose"
+  - "Lait"
+  - "Maizena"
+  - "Oeuf"
+  - "Pate a chou"
+  - "Pâtisserie"
+  - "Religieuse"
+  - "Sel"
+  - "Sucre"
+  - "Vanille"
+  - "Vegetarien"
+description: "La religieuse, pâtisserie Française emblématique. Ces petits choux garnis de crème pâtissière et de crème au beurre sont très élégants et ..."
 recette_details:
   - Catégorie:
     - Mignardise

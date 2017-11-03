@@ -1,23 +1,24 @@
 ---
-title: Feuilleté à la fondue de poireaux/fêta
-date: 2011-04-12T14:19:00+00:00
-thumbnail: https://crokmou.com/images/Feuillet---feta-poireaux.jpg
+date: "2011-04-12T14:19:00+02:00"
+title: "Feuilleté à la fondue de poireaux/fêta"
+thumbnail: "https://crokmou.com/images/Feuillet---feta-poireaux.jpg"
 categories:
-  - Plats
+  - "Plats"
 tags:
-  - epice
-  - feta
-  - fromage
-  - legume
-  - noix de muscade
-  - pate feuillete
-  - plat
-  - poireau
-disqusId: 3587684756
-slug: feuillete-a-la-fondue-de-poireauxfeta
+  - "Epice"
+  - "Feta"
+  - "Fromage"
+  - "Legume"
+  - "Noix de muscade"
+  - "Pate feuillete"
+  - "Plat"
+  - "Poireau"
+  - "Yaourt"
+description: ""
+slug: "feuillete-a-la-fondue-de-poireauxfeta"
 ---
 
-_ Il me restait des poireaux dans mon frigo et un peu de feta, ne sachant pas quoi faire de tout cela au départ, en passant dans mon magasin je vois des carrés de pâte feuilleté (n’ayant pas encore essayé de faire la pâte toute seule, beh oui sans rouleau c’est plutôt compliqué), et là hop repas du soir trouvé !_
+_ Il me restait des poireaux dans mon frigo et un peu de feta, ne sachant pas quoi faire de tout cela au départ, en passant dans mon magasin je vois des carrés de pâte feuilleté (n'ayant pas encore essayé de faire la pâte toute seule, beh oui sans rouleau c'est plutôt compliqué), et là hop repas du soir trouvé !_
 
 ![4pers](http://storage.canalblog.com/14/05/825568/62415917_p.jpeg)
 

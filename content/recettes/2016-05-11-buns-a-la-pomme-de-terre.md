@@ -1,18 +1,24 @@
 ---
-title: Buns à la pomme de terre
-date: 2016-05-11T15:29:09+00:00
-thumbnail: https://crokmou.com/images/buns-a-la-pomme-de-terre-crokmou-blog-culinaire.jpg
+date: "2016-05-11T15:29:09+02:00"
+title: "Buns à la pomme de terre"
+thumbnail: "https://crokmou.com/images/buns-a-la-pomme-de-terre-crokmou-blog-culinaire.jpg"
 categories:
-  - Boulangerie
+  - "Boulangerie"
 tags:
-  - pomme de terre
-  - farine
-  - sucre
-  - levure fraîche
-  - levure de boulanger
-  - sel
-  - oeuf
-  - sésame
+  - "Beurre"
+  - "Bun"
+  - "Buns"
+  - "Burger"
+  - "Farine"
+  - "Gluten"
+  - "Hamburger"
+  - "Levure"
+  - "Pain hamburger"
+  - "Pomme de terre"
+  - "Puree"
+  - "Sel"
+  - "Sucre"
+description: "J'ai posté une petite vidéo via mon compte Instagram afin de vous présenter le moelleux de ces buns à la pomme de terre, une sacrée découverte !"
 recette_details:
   - Catégorie:
     - Boulangerie
@@ -75,7 +81,7 @@ disqusId: 4818035495
 slug: buns-a-la-pomme-de-terre
 ---
 
-La semaine dernière j’ai posté une petite vidéo via [mon compte Instagram](https://www.instagram.com/p/BE1YdulQQ2O/) afin de vous présenter le moelleux de ces **buns à la pomme de terre :** une sacrée découverte ! Étant à l’arrêt question boulot en ce moment, j’essaye de me consacrer un peu plus à la cuisine, au fait maison (oui, il était temps que je reprenne un peu de service sur ce blog, vous ne trouvez pas ?)… après tout j’ai le temps, il vaut mieux en profiter ! Ce soir là j’avais envie d’hamburger, mais pas ceux que je commande habituellement, non, je voulais tout faire moi même, y compris les buns ! A la recherche d’une recette sympa et originale, je suis tombée sur le blog de [Pourquoi je grossis](http://pourquoijegrossis.com/2016/04/potato-burger-buns-ou-pains-brioches-a-la-pomme-de-terre-1-2/) avec sa fameuse recette de potato burger buns… Moi qui adore la boulange et tout ce qui peut se faire de plus dans ce milieu, j’ai tout de suite été conquise par l’idée ! De la pomme de terre dans du pain… ouai ouai ! Bon les miens sont gros, peut être un peu trop, j’ai pesé 125g de pâte cru pour chaque buns et je dirais que 90/100g c’est certainement bien mieux ! En tout cas ils étaient très réussis, très léger, une recette que je ferais certainement souvent en testant peut être 2 ou 3 changements avec la farine (de maïs par exemple).  
+La semaine dernière j'ai posté une petite vidéo via [mon compte Instagram](https://www.instagram.com/p/BE1YdulQQ2O/) afin de vous présenter le moelleux de ces **buns à la pomme de terre :** une sacrée découverte ! Étant à l'arrêt question boulot en ce moment, j'essaye de me consacrer un peu plus à la cuisine, au fait maison (oui, il était temps que je reprenne un peu de service sur ce blog, vous ne trouvez pas ?)... après tout j'ai le temps, il vaut mieux en profiter ! Ce soir là j'avais envie d'hamburger, mais pas ceux que je commande habituellement, non, je voulais tout faire moi même, y compris les buns ! A la recherche d'une recette sympa et originale, je suis tombée sur le blog de [Pourquoi je grossis](http://pourquoijegrossis.com/2016/04/potato-burger-buns-ou-pains-brioches-a-la-pomme-de-terre-1-2/) avec sa fameuse recette de potato burger buns... Moi qui adore la boulange et tout ce qui peut se faire de plus dans ce milieu, j'ai tout de suite été conquise par l'idée ! De la pomme de terre dans du pain... ouai ouai ! Bon les miens sont gros, peut être un peu trop, j'ai pesé 125g de pâte cru pour chaque buns et je dirais que 90/100g c'est certainement bien mieux ! En tout cas ils étaient très réussis, très léger, une recette que je ferais certainement souvent en testant peut être 2 ou 3 changements avec la farine (de maïs par exemple).
 
 {{< recette >}}
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

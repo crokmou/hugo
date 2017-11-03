@@ -1,20 +1,20 @@
 ---
-title: Tiramisu classique, la recette
-date: 2017-02-02T16:08:05+00:00
-thumbnail: https://crokmou.com/images/recette-tiramisu-mascarpone-cafe-crokmou-blog-cuisine-voyage-belgique-1_sj0f5k.jpg
+date: "2017-02-02T16:08:05+01:00"
+title: "Tiramisu classique, la recette"
+thumbnail: "https://crokmou.com/images/cinemagraph-recette-tiramisu-mascarpone-cafe-crokmou-blog-cuisine-voyage-belgique-1.gif"
 categories:
-  - Desserts
+  - "Desserts"
 tags:
-  - alcool
-  - "blanc d'oeuf"
-  - café
-  - "jaune d’œuf"
-  - marsala
-  - mascarpone
-  - oeuf
-  - biscuit cuiller
-  - cacao en poudre
-  - sucre
+  - "Alcool"
+  - "Blanc d'oeuf"
+  - "Cafe"
+  - "Dessert"
+  - "Jaune d’œuf"
+  - "Marsala"
+  - "Mascarpone"
+  - "Oeuf"
+  - "Vegetarien"
+description: "Le Tiramisu, je crois bien que c'est mon dessert préféré ! ... la formule « magique » de ma maman, un subtil mélange entre le café, le marsala et la crème."
 recette_details:
   - Catégorie:
     -

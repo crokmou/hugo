@@ -1,18 +1,20 @@
 ---
-title: Feuilletés à la tomate séchée et parmesan
-date: 2017-03-16T19:13:53+00:00
-thumbnail: https://crokmou.com/images/feuillete--s-tortillons-tomate-se--che--e-parmesan-recette-crokmou-blog-cuisine-voyage-1-9.jpg
+date: "2017-03-16T19:13:53+01:00"
+title: "Feuilletés à la tomate séchée et parmesan"
+thumbnail: "https://crokmou.com/images/feuillete--s-tortillons-tomate-se--che--e-parmesan-recette-crokmou-blog-cuisine-voyage-1-9.jpg"
 categories:
-  - Apéritifs
+  - "Apéritifs"
 tags:
-  - beurre
-  - fromage
-  - oeuf
-  - parmesan
-  - pâte feuilletée
-  - pate feuilletée inversée
-  - tomate
-  - tomate séchée
+  - "Beurre"
+  - "Fromage"
+  - "Oeufs"
+  - "Parmesan"
+  - "Pâte feuilletée"
+  - "Pate feuilletée inversée"
+  - "Tomate"
+  - "Tomate séchée"
+  - "Vegetarien"
+description: "Des feuilletés à la tomate séchée et parmesan, en voilà un bel apéritif pour le retour des beaux jours ! Depuis quelques temps, le printemps fait..."
 recette_details:
   - Catégorie:
     - Dips

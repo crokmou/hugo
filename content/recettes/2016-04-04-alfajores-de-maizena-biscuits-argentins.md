@@ -5,16 +5,15 @@ thumbnail: https://crokmou.com/images/alfajores-recette-crokmou-blog-culinaire.j
 categories:
   - Desserts
 tags:
-  - beurre
-  - sucre
-  - farine
-  - "jaune d'oeuf"
-  - levure chimique
-  - baking powder
-  - citron
-  - fécule de maïs
-  - noix de coco
-  - confiture de lait
+  - "Alfajores"
+  - "Alfajores de maizena"
+  - "Argentin"
+  - "Biscuit"
+  - "Confiture de lait"
+  - "Fécule de maïs"
+  - "Maizena"
+  - "Pâtisserie"
+description: "De nouveau, mon ami Argentin m'a drôlement gâtée avec de délicieuses petites pâtisseries bien de chez lui : des Alfajores de maïzena !"
 recette_details:
   - Catégorie:
     - Mignardises

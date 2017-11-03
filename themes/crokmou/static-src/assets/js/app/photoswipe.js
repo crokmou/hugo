@@ -65,11 +65,10 @@ $(document).ready(function() {
         return;
       }
 
-      // find index of clicked item by looping through all child nodes
-      // alternatively, you may define index via data- attribute
-      const clickedGallery = clickedListItem.parentNode,
-          childNodes = clickedGallery.querySelectorAll('figure'),
-          numChildNodes = childNodes.length;
+      const clickedGallery = closest(eTarget, (el) =>
+        el.classList.contains('single'));
+      const childNodes = clickedGallery.querySelectorAll('figure');
+      const numChildNodes = childNodes.length;
       let nodeIndex = 0,
           index;
 
@@ -84,8 +83,6 @@ $(document).ready(function() {
         }
         nodeIndex++;
       }
-
-
 
       if(index >= 0) {
         // open PhotoSwipe if valid index found
@@ -127,14 +124,14 @@ $(document).ready(function() {
       let gallery;
       let options;
       let items;
-
+      console.log('waiting...');
       items = await parseThumbnailElements(galleryElement);
-
+      console.log('ok')
       // define options (if needed)
       options = {
         showHideOpacity: true,
         // define gallery index (for URL)
-        galleryUID: galleryElement.getAttribute('data-pswp-uid'),
+        galleryUID: galleryElement.getAttribute('data-pswp-uid') || 1,
 
         getThumbBoundsFn: function(index) {
           // See Options -> getThumbBoundsFn section of documentation for more info
@@ -163,6 +160,7 @@ $(document).ready(function() {
           options.index = parseInt(index, 10) - 1;
         }
       } else {
+        console.log(options);
         options.index = parseInt(index, 10);
       }
 

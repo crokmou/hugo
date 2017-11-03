@@ -1,17 +1,18 @@
 ---
-title: Pâtes fraiches maison à la betterave
-date: 2017-03-24T19:46:26+00:00
-thumbnail: https://crokmou.com/images/recette-pates-fraiches-maison-betterave-crokmou-blog-cuisine-voyage-1-8.jpg
+date: "2017-03-24T19:46:26+01:00"
+title: "Pâtes fraiches maison à la betterave"
+thumbnail: "https://crokmou.com/images/recette-pates-fraiches-maison-betterave-crokmou-blog-cuisine-voyage-1-8.jpg"
 categories:
-  - Plats
+  - "Plats"
 tags:
-  - betterave
-  - farine
-  - "huile d'olive"
-  - légume
-  - oeuf
-  - farine 
-  - eau
+  - "Betterave"
+  - "Farine"
+  - "Huile d'olive"
+  - "Legume"
+  - "Oeuf"
+  - "Pate"
+  - "Pate fraiche"
+description: "Des pâtes fraiches maison à la betterave pour un repas simple et délicieusement coloré ! J'avais prévu de vous écrire une toute autre recette ce soir..."
 recette_details:
   - Catégorie:
     - Pâtes

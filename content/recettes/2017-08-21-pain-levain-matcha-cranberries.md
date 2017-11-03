@@ -9,10 +9,12 @@ tags:
   - "Cranberrie"
   - "Levain"
   - "Matcha"
+  - "Pain"
   - "Thé"
   - "The matcha"
   - "Thé vert"
   - "Thé vert matcha"
+description: "Le fameux pain au levain, Matcha et cranberries ! Je t'en ai souvent parlé ces derniers temps, pour cause : j'ai réveillé Gul'dan - mon levain."
 recette_details:
   - Catégorie:
     - Pain

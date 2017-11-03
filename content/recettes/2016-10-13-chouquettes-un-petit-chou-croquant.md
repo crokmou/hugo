@@ -1,18 +1,19 @@
 ---
-title: Chouquettes, un petit chou croquant
-date: 2016-10-13T18:47:15+00:00
-thumbnail: https://crokmou.com/images/chouquette-pate-a-choux-crokmou-blog-culinaire-03.jpg
+date: "2016-10-13T18:47:15+02:00"
+title: "Chouquettes, un petit chou croquant"
+thumbnail: "https://crokmou.com/images/chouquette-pate-a-choux-crokmou-blog-culinaire-03.jpg"
 categories:
-  - Boulangerie
+  - "Boulangerie"
 tags:
-  - beurre
-  - lait
-  - oeuf
-  - pâte à choux
-  - sel
-  - sucre perlé
-  - "lait d'amande"
-  - lait végétal
+  - "Beurre"
+  - "Chouquette"
+  - "Lait"
+  - "Oeuf"
+  - "Pâte à choux"
+  - "Pâtisserie"
+  - "Petit dejeuner"
+  - "Vegetarien"
+description: "Il faut dire qu'avec leur belle couleur dorée, leur côté croquant/moelleux et leur légèreté, ces chouquettes ont tout pour plaire !"
 recette_details:
   - Catégorie:
     - Mignardise
@@ -67,7 +68,7 @@ disqusId: 5220659193
 slug: chouquettes-un-petit-chou-croquant
 ---
 
-Il y a quelques années, j’avais déjà écrit un post sur les chouquettes mais après tout, pourquoi ne pas en faire un deuxième ? Lorsque l’on réalise ces petites gourmandises dans la boulangerie où je travaille actuellement, je ne peux pas m’empêcher d’en piquer une dès que je passe devant… J’y peu rien, c’est tellement bon ! Il faut dire qu’avec leur belle couleur dorée, leur côté croquant/moelleux et leur légèreté, ces chouquettes ont tout pour plaire ! Trempées dans le café, fourrées de crème chantilly, napées de chocolat, dévorées nature… Il y a tellement de façons de les manger ! Si vous n’avez donc pas envie de vous bouger les fesses jusqu’à la boulangerie ce weekend, je propose donc une petite recette, toute simple, qui vous permettra de passer un agréable petit déjeuner.   ![chouquettes](https://crokmou.com/images/chouquette-pate-a-choux-crokmou-blog-culinaire-01_egiteq.jpg)
+Il y a quelques années, j'avais déjà écrit un post sur les chouquettes mais après tout, pourquoi ne pas en faire un deuxième ? Lorsque l'on réalise ces petites gourmandises dans la boulangerie où je travaille actuellement, je ne peux pas m’empêcher d'en piquer une dès que je passe devant... J'y peu rien, c'est tellement bon ! Il faut dire qu'avec leur belle couleur dorée, leur côté croquant/moelleux et leur légèreté, ces chouquettes ont tout pour plaire ! Trempées dans le café, fourrées de crème chantilly, napées de chocolat, dévorées nature... Il y a tellement de façons de les manger ! Si vous n'avez donc pas envie de vous bouger les fesses jusqu'à la boulangerie ce weekend, je propose donc une petite recette, toute simple, qui vous permettra de passer un agréable petit déjeuner. ![chouquettes](https://crokmou.com/images/chouquette-pate-a-choux-crokmou-blog-culinaire-01.jpg)
 
 {{< recette >}}
 

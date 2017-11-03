@@ -8,11 +8,11 @@
 {{$cardId := index $card.Params "cardId"}}
 
 <article class="card{{ with $class }} {{ . }}{{ end }}" rel="js-card">
-  {{ $description := $card.Content | safeHTML }}
+  {{ $description := $card.Summary }}
   {{with $card.Description }}
     {{ $description := $card.Description }}
   {{end}}
-  {{ $description := $description | safeHTML | truncate 200 }}
+  {{ $description := $description | plainify | safeHTML }}
 
   <a class="card__thumbnail" href="{{$card.Permalink}}">
     {{$thumbnail := index $card.Params "thumbnail"}}

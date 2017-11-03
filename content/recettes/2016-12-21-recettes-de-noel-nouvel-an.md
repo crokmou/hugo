@@ -1,11 +1,14 @@
 ---
-title: Recettes de Noël et Nouvel An
-date: 2016-12-21T17:37:43+00:00
-thumbnail: https://crokmou.com/images/recette-noel-fin-annee-crokmou-blog-cuisine-voyage-belgique.jpg
+date: "2016-12-21T17:37:43+01:00"
+title: "Recettes de Noël et Nouvel An"
+thumbnail: "https://crokmou.com/images/recette-noel-fin-annee-crokmou-blog-cuisine-voyage-belgique.jpg"
 categories:
   - Plats
   - Apéritifs
   - Desserts
+tags:
+  - "Noel"
+description: ""
 recette_details:
   - Catégorie:
     - Tartes

@@ -1,17 +1,21 @@
 ---
-title: Bretzels ou pretzels au levain
-date: 2017-04-27T17:30:58+00:00
-thumbnail: https://crokmou.com/images/bretzel-ou-pretzel-levain-recette-crokmou-blog-cuisine-voyage-1-10.jpg
+date: "2017-04-27T17:30:58+02:00"
+title: "Bretzels ou pretzels au levain"
+thumbnail: "https://crokmou.com/images/bretzel-ou-pretzel-levain-recette-crokmou-blog-cuisine-voyage-1-10.jpg"
 categories:
-  - Boulangerie
+  - "Boulangerie"
 tags:
-  - beurre
-  - eau
-  - farine
-  - levain
-  - oeuf
-  - sel
-  - sucre
+  - "Boulange"
+  - "Bretzel"
+  - "Eau"
+  - "Farine"
+  - "Levain"
+  - "Oeuf"
+  - "Pretzel"
+  - "Sel"
+  - "Sucre"
+  - "Vegetarien"
+description: "J'ai découvert cette recette de Bretzels (ou plutôt Pretzels) sur le blog de ma copine Mouni du blog Floured . Les étapes de préparations étant simples..."
 recette_details:
   - Catégorie:
     - Boulangerie

@@ -1,10 +1,13 @@
 ---
-title: Un joli roadtrip dans le Nord du Massif des Vosges
-date: 2017-06-22T19:15:33+00:00
-thumbnail: https://crokmou.com/images/voyage-nord-massif-vosges-france-chateau-sch%C5%93neck-crokmou-blog-cuisine-voyage-belgique-10.jpg
+date: "2017-06-22T19:15:33+02:00"
+title: "Un joli roadtrip dans le Nord du Massif des Vosges"
+thumbnail: "https://crokmou.com/images/voyage-nord-massif-vosges-france-chateau-schœneck-crokmou-blog-cuisine-voyage-belgique-10.jpg"
 categories:
-  - Lifestyle
-slug: roadtrip-nord-du-massif-des-vosges
+  - "Lifestyle"
+tags:
+  - "Voyage"
+description: "Un visite dans le Nord du Massif des Vosges, je n'y avais jamais pensé jusqu'à ce que l'on mon propose de faire un roadtrip dans ces contrées..."
+slug: "roadtrip-nord-du-massif-des-vosges"
 ---
 
 Un visite dans le Nord du Massif des Vosges, je n’y avais jamais pensé jusqu’à ce que l’on mon propose de faire un roadtrip dans ces contrées il y a quelques semaines. Durant trois jours, en compagnie d’autres blogueurs, le [Massif des Vosges](http://www.massif-des-vosges.com) nous a donc invité à découvrir quelques endroits typiques de la région. Autant vous le dire de suite, vous découvrirez dans cet article qu’une toute petite partie des nombreuses choses qu’il est possible de visiter. Le Massif des Vosges est vaste. Situé dans l’est de la France dans la region de l’Alsace, Lorraine et Franche comté, le territoire s’étend sur plus de 7000 m2. Oui, comme je vous l’ai dit, ça fait beaucoup de choses à voir !
@@ -74,7 +77,7 @@ Après ce repas gargantuesque, nous passons la matinée au **château de Schoene
 
 La visite est aussi passionnante que fascinante ! Au travers d’anciennes photos, on admire le travail réalisé, on s’étonne devant les vestiges retrouvés dans le vieux puits et pour finir on s’émerveille une fois en haut de la tour ! Après nous avoir transmis leur passion, les bénévoles nous invitent à mettre la main à la patte. Armés d’une palette, d’une brosse, d’un peu d’eau et de mortier, nous voilà prêts pour consolider les murs. Une belle expérience et un sacré coup de main à prendre ! Si vous passez par là je vous conseille vraiment d’y aller, c’est une belle aventure ! Et pour les amoureux de randonnée, il y a de nombreux sentiers aux alentours. **_Château de Schoeneck – [Site Internet](http://chateau.schoeneck.free.fr/)_**
 
-![](https://crokmou.com/images/voyage-nord-massif-vosges-france-chateau-sch%C5%93neck-crokmou-blog-cuisine-voyage-belgique-17.jpg) 
+![](https://crokmou.com/images/voyage-nord-massif-vosges-france-chateau-sch%C5%93neck-crokmou-blog-cuisine-voyage-belgique-17.jpg)
 
 ## Restaurant « Au grés du marché »
 
@@ -87,7 +90,7 @@ Après de gros efforts, nous reprenons la route pour déjeuner dans un petit **r
 
 ## Le Ranch des bisons
 
-C’est au cours de l’après-midi que nous nous sommes rendus dans un **ranch de bisons** à « Petit Réderching ». Nous prenons place à bord d’un véhicule militaire pour un safari au coeur du troupeau ! C’est à ce moment là que l’on se rend compte qu’un bison n’est pas une vache, les précautions sont de rigueur. A voir de près, c’est très impressionnant, les bêtes sont imposantes et attachantes (surtout les petits qui se cachent dans les hautes herbes). L’éleveur nous explique tout ce qu’il y a à savoir sur l’élevage : la nourriture, la reproduction, la santé… Ce n’est pas de tout repos d’élever des bisons. La visite fût courte mais plutôt chouette, ils sont aux petits soins avec leurs bêtes et c’est selon moi ce qu’il y a de plus important ! _**Le « Ranch des bisons » – [Site Internet](http://www.ranchdesbisons.com)**_ 
+C’est au cours de l’après-midi que nous nous sommes rendus dans un **ranch de bisons** à « Petit Réderching ». Nous prenons place à bord d’un véhicule militaire pour un safari au coeur du troupeau ! C’est à ce moment là que l’on se rend compte qu’un bison n’est pas une vache, les précautions sont de rigueur. A voir de près, c’est très impressionnant, les bêtes sont imposantes et attachantes (surtout les petits qui se cachent dans les hautes herbes). L’éleveur nous explique tout ce qu’il y a à savoir sur l’élevage : la nourriture, la reproduction, la santé… Ce n’est pas de tout repos d’élever des bisons. La visite fût courte mais plutôt chouette, ils sont aux petits soins avec leurs bêtes et c’est selon moi ce qu’il y a de plus important ! _**Le « Ranch des bisons » – [Site Internet](http://www.ranchdesbisons.com)**_
 
 {{< gallery >}}
 {{< img src="https://crokmou.com/images/voyage-nord-massif-vosges-france-ranch-bisons-crokmou-blog-cuisine-voyage-belgique-1.jpg" >}}

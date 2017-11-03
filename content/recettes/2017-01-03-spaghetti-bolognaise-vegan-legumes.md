@@ -1,25 +1,26 @@
 ---
-title: Spaghetti bolognaise vegan aux légumes
-date: 2017-01-03T18:28:03+00:00
-thumbnail: https://crokmou.com/images/bolognaise-vegan-crokmou-blog-cuisine-voyage-belgique-3.jpg
+date: "2017-01-03T18:28:03+01:00"
+title: "Spaghetti bolognaise vegan aux légumes"
+thumbnail: "https://crokmou.com/images/bolognaise-vegan-crokmou-blog-cuisine-voyage-belgique-3.jpg"
 categories:
-  - Plats
+  - "Plats"
 tags:
-  - ail
-  - ail noir
-  - bolognaise
-  - carotte
-  - champignon
-  - haricot
-  - haricot rouge
-  - huile olive
-  - legume
-  - oignon
-  - patate douce
-  - spaghetti
-  - spiraliseur
-  - tamari
-  - thym
+  - "Ail"
+  - "Ail noir"
+  - "Bolognaise"
+  - "Carotte"
+  - "Champignon"
+  - "Haricot"
+  - "Haricot rouge"
+  - "Huile olive"
+  - "Legume"
+  - "Oignon"
+  - "Patate douce"
+  - "Spaghetti"
+  - "Spiraliseur"
+  - "Thym"
+  - "Vegan"
+description: ""
 recette_details:
   - Catégorie:
     - Pâtes

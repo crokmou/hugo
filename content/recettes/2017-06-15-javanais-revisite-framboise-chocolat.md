@@ -1,27 +1,23 @@
 ---
-title: Javanais revisité à la mousseline framboise et ganache chocolat
-date: 2017-06-15T17:40:36+00:00
-thumbnail: https://crokmou.com/images/javanais-revisité-framboise-chocolat-crokmou-blog-cuisine-voyage-belgique-1.jpg
+date: "2017-06-15T17:40:36+02:00"
+title: "Javanais revisité à la mousseline framboise et ganache chocolat"
+thumbnail: "https://crokmou.com/images/javanais-revisité-framboise-chocolat-crokmou-blog-cuisine-voyage-belgique-1.jpg"
 categories:
-  - Desserts
+  - "Desserts"
 tags:
-  - beurre
-  - chocolat
-  - crème liquide
-  - framboise
-  - fruit
-  - ganache
-  - glucose
-  - lait
-  - oeuf
-  - purée de fruit
-  - sucre
-  - farine
-  - massepain
-  - amande
-  - "blanc d'oeuf"
-  - maïzena
-  - fécule de maïs
+  - "Beurre"
+  - "Chocolat"
+  - "Creme fraiche"
+  - "Framboise"
+  - "Fruit"
+  - "Ganache"
+  - "Glucose"
+  - "Lait"
+  - "Oeuf"
+  - "Purée de fruit"
+  - "Sucre"
+  - "Vegetarien"
+description: "Je pense que vous avez vu passer de nombreuses fois sur mes réseaux ce fameux javanais revisité. Pour vous raconter toute la petite histoire..."
 recette_details:
   - Catégorie:
     - Gâteau

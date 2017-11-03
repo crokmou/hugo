@@ -1,28 +1,29 @@
 ---
-title: Gateau aux noix
-date: 2011-11-14T09:30:00+00:00
-thumbnail: https://crokmou.com/images/IMG_4510-final.jpg
+date: "2011-11-14T09:30:00+01:00"
+title: "Gateau aux noix"
+thumbnail: "https://crokmou.com/images/IMG_4510-final.jpg"
 categories:
-  - Desserts
+  - "Desserts"
 tags:
-  - automne
-  - dessert
-  - gateau
-  - huile
-  - noix
-  - oeuf
-  - vanille
-disqusId: 3587683573
-slug: gateau-aux-noix
+  - "Automne"
+  - "Dessert"
+  - "Gateau"
+  - "Huile"
+  - "Noix"
+  - "Oeuf"
+  - "Vanille"
+  - "Yaourt"
+description: ""
+slug: "gateau-aux-noix"
 ---
 
-En cet instant de nouveauté, je vous fais part d’une délicieuse recette avant de partir en vacances ! Vous mangez souvent des noix vous ? Personnellement je n’en mange jamais comme ca, c’est vraiment rare. De temps en temps peut être dans les salades mais sans plus, en revanche le gateau aux noix, j’adore ça ! Encore une recette de ma grand mère, qu’elle apportait à chaque Noël, peut être pour ça que je l’aime beaucoup ce gâteau ! Moelleux, pas écoeurant du tout, une juste dose de noix. En bref n’hésitez pas a tester ce gâteau !
+En cet instant de nouveauté, je vous fais part d'une délicieuse recette avant de partir en vacances ! Vous mangez souvent des noix vous ? Personnellement je n'en mange jamais comme ca, c'est vraiment rare. De temps en temps peut être dans les salades mais sans plus, en revanche le gateau aux noix, j'adore ça ! Encore une recette de ma grand mère, qu'elle apportait à chaque Noël, peut être pour ça que je l'aime beaucoup ce gâteau ! Moelleux, pas écoeurant du tout, une juste dose de noix. En bref n'hésitez pas a tester ce gâteau !
 
-![](http://2.bp.blogspot.com/-8ykB_pfMNEE/Tqmxpp5vllI/AAAAAAAABCU/Ajp-_6Nez5g/s1600/Gateau+aux+noix.jpg)
+[![](http://2.bp.blogspot.com/-8ykB_pfMNEE/Tqmxpp5vllI/AAAAAAAABCU/Ajp-_6Nez5g/s1600/Gateau+aux+noix.jpg)](http://2.bp.blogspot.com/-8ykB_pfMNEE/Tqmxpp5vllI/AAAAAAAABCU/Ajp-_6Nez5g/s1600/Gateau+aux+noix.jpg)
 
 En vous souhaitant de très bonnes vacances de Toussaint et je vous dis à très bientôt !
 
-Surtout n’hésitez pas à laisser des petits mots, c’est ce qui fait vivre le blog et ce qui me fait plaisir chaque jours depuis bientôt 8 mois !
+Surtout n'hésitez pas à laisser des petits mots, c'est ce qui fait vivre le blog et ce qui me fait plaisir chaque jours depuis bientôt 8 mois !
 
 __________
 
@@ -40,5 +41,6 @@ Ce n’est plus un «**breakfast**» et pas tout à fait un «**lunch**», c’e
 
 Un **livre **qui conjugue **plaisirs culinaires** et **bienfaits pour notre santé** : concoctez bagels au petit **épeautre **et **graines de lin**, **gelée de cerises** au **miel d’acacia** et à la menthe,**pâte à tartiner caroubes et noisettes**, **clémentines **poêlées au **caramel de gingembre**… accompagnés d‘un thé noir aux épices ou d’un citronnage au sirop de thym… **sain **et **savoureux** !
 
-![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)
+<div style="clear: both; text-align: center;">[![](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)](http://4.bp.blogspot.com/-2bLosyMFac4/TxhFg0sR2dI/AAAAAAAABec/Mzg1OnlXUmM/s1600/Signature+copie.jpg)
 
+</div>

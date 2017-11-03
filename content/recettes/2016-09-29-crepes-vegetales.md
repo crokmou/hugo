@@ -1,22 +1,27 @@
 ---
-title: Crêpes végétales
-date: 2016-09-29T16:44:46+00:00
-thumbnail: https://crokmou.com/images/crepe-vegan-vg-crokmou-blog-culinaire-01-1.jpg
+date: "2016-09-29T16:44:46+02:00"
+title: "Crêpes végétales"
+thumbnail: "https://crokmou.com/images/crepe-vegan-vg-crokmou-blog-culinaire-01-1.jpg"
 categories:
-  - Desserts
+  - "Desserts"
 tags:
-  - amande
-  - noix de coco
-  - fécule de maïs
-  - "lait d'amande"
-  - lait végétal
-  - "purée d'oléagineux"
-  - farine
-  - maïzena
-  - vanille
-  - "purée d'amande"
-  - sucre
-  - sucre de coco
+  - "Amande"
+  - "Chandeleur"
+  - "Coco"
+  - "Crepe"
+  - "Fécule de maïs"
+  - "Keimling"
+  - "Lait amande"
+  - "Lait vegetal"
+  - "Oléagineux"
+  - "Pate a crepe"
+  - "Purée oléagineux"
+  - "Sucre"
+  - "Sucre de coco"
+  - "Vegan"
+  - "Végétal"
+  - "Vg"
+description: "Pas d'oeufs ni de beurre sous la main ? Opte pour les crêpes végétales ! Moelleuses, facile et rapide à faire, un vrai bonheur !"
 recette_details:
   - Catégorie:
     - Crêpes
@@ -78,7 +83,9 @@ disqusId: 5183327579
 slug: crepes-vegetales
 ---
 
-Pendant les vacances d’été j’ai voulu faire des crêpes pour mon hom et sa mamie. Seul hic, ce jour là je n’avais ni oeufs, ni beurre … Sur le coup j’étais un peu dépitée avant de me rappeler que oui, **les crêpes végétales**, ça existe aussi ! Après quelques recherches, c’est la recette se trouvant sur [le blog d’Antigone XXI](https://antigonexxi.com/2015/01/31/crepes-veganes-sans-oeufs-ni-lait-ultra-faciles-avec-ou-sans-gluten/) qui m’a conquise, des crêpes qui semblent moelleuses, une recette simple et rapide, le top ! Pour les purées d’oléagineux, je fais totalement confiance à mon partenaire **[Keimling](http://www.keimling.fr/)** qui me fournit des produits de qualité ! Si vous avez un petit trou de mémoire, Keimling c’est le spécialiste en ligne du raw food ( = alimentation crue, on limite la cuisson pour obtenir un produit dont les propriétés ne sont pas altérées et dont le goût est généralement plus puissant), je vous en avais déjà parlé dans [un autre billet](http://www.crokmou.com/2014/08/keimling-specialiste-du-raw-food-concours) il y a déjà quelques années. Cette fois-ci ils m’ont envoyé un colis comprenant **de la purée d’amande, de la purée de noix de cajou, du thé matcha, de la pâte de cacao crue ainsi que du sucre de noix de coco** : autant vous dire que vous allez entendre parler de ces petits choses dans les mois à venir !
+Pendant les vacances d'été j'ai voulu faire des crêpes pour mon hom et sa mamie. Seul hic, ce jour là je n'avais ni oeufs, ni beurre ... Sur le coup j'étais un peu dépitée avant de me rappeler que oui, **les crêpes végétales**, ça existe aussi ! Après quelques recherches, c'est la recette se trouvant sur [le blog d'Antigone XXI](https://antigonexxi.com/2015/01/31/crepes-veganes-sans-oeufs-ni-lait-ultra-faciles-avec-ou-sans-gluten/) qui m'a conquise, des crêpes qui semblent moelleuses, une recette simple et rapide, le top ! Pour les purées d'oléagineux, je fais totalement confiance à mon partenaire **[Keimling](http://www.keimling.fr/)** qui me fournit des produits de qualité ! Si vous avez un petit trou de mémoire, Keimling c'est le spécialiste en ligne du raw food ( = alimentation crue, on limite la cuisson pour obtenir un produit dont les propriétés ne sont pas altérées et dont le goût est généralement plus puissant), je vous en avais déjà parlé dans [un autre billet](http://www.crokmou.com/2014/08/keimling-specialiste-du-raw-food-concours) il y a déjà quelques années. Cette fois-ci ils m'ont envoyé un colis comprenant **de la purée d'amande, de la purée de noix de cajou, du thé matcha, de la pâte de cacao crue ainsi que du sucre de noix de coco** : autant vous dire que vous allez entendre parler de ces petits choses dans les mois à venir !
+
+## **Recette des crêpes végétales **
 
 {{< recette >}}
 

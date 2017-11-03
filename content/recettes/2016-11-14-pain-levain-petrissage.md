@@ -1,14 +1,20 @@
 ---
-title: Pain au levain sans pétrissage
-date: 2016-11-14T18:00:02+00:00
-thumbnail: https://crokmou.com/images/pain-levain-sans-petrissage-boulangerie-crokmou-blog-culinaire-belge.jpg
+date: "2016-11-14T18:00:02+01:00"
+title: "Pain au levain sans pétrissage"
+thumbnail: "https://crokmou.com/images/pain-levain-sans-petrissage-boulangerie-crokmou-blog-culinaire-belge.jpg"
 categories:
-  - Boulangerie
+  - "Boulangerie"
 tags:
-  - eau
-  - farine
-  - levain
-  - sel
+  - "Eau"
+  - "Farine"
+  - "Levain"
+  - "Pain"
+  - "Sans pétrissage"
+  - "Sel"
+  - "Vegan"
+  - "Vegetalien"
+  - "Vegetarien"
+description: "Il y a une ou deux semaines j'avais posté sur la page Facebook du blog une recette de pain un peu particulière : réaliser un pain au levain sans pétrissage."
 recette_details:
   - Catégorie:
     - Pain au levain
@@ -66,6 +72,6 @@ disqusId: 5303742291
 slug: pain-levain-petrissage
 ---
 
-Il y a une ou deux semaines j’avais posté sur [la page Facebook du blog](https://www.facebook.com/crokmou.blog/posts/1214464865288572) une recette de pain un peu particulière. En effet celle-ci nous décrivait comment réaliser **un pain au levain sans pétrissage** : si si, vous avez bien entendu, SANS pétrissage ! Oubliez donc les crampes aux doigts, la douleur aux avants bras et le robot qui surchauffe, ici il vous faudra simplement vous armer de patience… L’idée est assez simple, _on mélange les ingrédients, on recouvre d’un film alimentaire, on place au frais et… et bien on attend_, 3/4 jours pour être précis ! Il est vrai qu’il ne faut pas être pressé et que si l’on souhaite du pain tous les jours il faut savoir faire des roulements mais cela reste une manière très pratique de faire son pain. Bien que je trouve la mie encore bien trop serrée à mon goût, ce pain au levain sans pétrissage reste **une de mes meilleures expériences en matière de résultats**. Avec pétrissage et peu d’attente me donne généralement un truc raplapla et visuellement moche, ici le pain a bien levé, la croûte est belle, la mie moelleuse et le goût au top ! Pour du pain il est préférable d’utiliser une farine forte en gluten : Type 45/55 que vous pouvez ensuite mélanger à d’autres farines plus faibles : T110, T150, Multi-céréales,  Épeautre. Je vous conseille quand même pour vos débuts une farine toute simple et de bonne qualité, si possible venant d’un meunier du coin qui n’ajoute pas d’additifs dans ses mélanges 😉 Concernant le levain, souvenez vous j’avais fait un petit post à ce sujet par [-ici-](http://www.crokmou.com/2014/06/levain-fait-maison) !   ![pain au levain sans pétrissage](https://crokmou.com/images/pain-levain-sans-petrissage-boulangerie-crokmou-blog-culinaire-belge-1_lusqd8.jpg)
+Il y a une ou deux semaines j'avais posté sur [la page Facebook du blog](https://www.facebook.com/crokmou.blog/posts/1214464865288572) une recette de pain un peu particulière. En effet celle-ci nous décrivait comment réaliser **un pain au levain sans pétrissage** : si si, vous avez bien entendu, SANS pétrissage ! Oubliez donc les crampes aux doigts, la douleur aux avants bras et le robot qui surchauffe, ici il vous faudra simplement vous armer de patience... L'idée est assez simple, _on mélange les ingrédients, on recouvre d'un film alimentaire, on place au frais et... et bien on attend_, 3/4 jours pour être précis ! Il est vrai qu'il ne faut pas être pressé et que si l'on souhaite du pain tous les jours il faut savoir faire des roulements mais cela reste une manière très pratique de faire son pain. Bien que je trouve la mie encore bien trop serrée à mon goût, ce pain au levain sans pétrissage reste **une de mes meilleures expériences en matière de résultats**. Avec pétrissage et peu d'attente me donne généralement un truc raplapla et visuellement moche, ici le pain a bien levé, la croûte est belle, la mie moelleuse et le goût au top ! Pour du pain il est préférable d'utiliser une farine forte en gluten : Type 45/55 que vous pouvez ensuite mélanger à d'autres farines plus faibles : T110, T150, Multi-céréales,  Épeautre. Je vous conseille quand même pour vos débuts une farine toute simple et de bonne qualité, si possible venant d'un meunier du coin qui n'ajoute pas d'additifs dans ses mélanges ;) Concernant le levain, souvenez vous j'avais fait un petit post à ce sujet par [-ici-](http://www.crokmou.com/2014/06/levain-fait-maison) ! ![pain au levain sans pétrissage](https://crokmou.com/images/pain-levain-sans-petrissage-boulangerie-crokmou-blog-culinaire-belge-1.jpg)
 
 {{< recette >}}

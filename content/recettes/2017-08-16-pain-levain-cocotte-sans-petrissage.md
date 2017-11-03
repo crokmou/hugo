@@ -8,7 +8,12 @@ tags:
   - "Eau"
   - "Farine"
   - "Levain"
+  - "Pain"
   - "Sel"
+  - "Vegan"
+  - "Vegetalien"
+  - "Vegetarien"
+description: "Le pain au levain en cocotte, un vrai régal ! Pour la plupart d'entre nous, notre four ne nous permet pas d'ajouter de la buée. Exit donc le pain ..."
 recette_details:
   - Catégorie:
     - Pain

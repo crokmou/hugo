@@ -1,15 +1,21 @@
 ---
+date: "2017-07-13T17:59:42+02:00"
 title: "Mousse au chocolat à l'aquafaba & sa touche de fleur d'oranger"
-date: 2017-07-13T17:59:42+00:00
-thumbnail: https://crokmou.com/images/recette-mousse-chocolat-aquafaba-sans-oeufs-fleur-oranger-crokmou-blog-cuisine-voyage-belgique-4.jpg
+thumbnail: "https://crokmou.com/images/recette-mousse-chocolat-aquafaba-sans-oeufs-fleur-oranger-crokmou-blog-cuisine-voyage-belgique-4.jpg"
 categories:
-  - Desserts
+  - "Desserts"
 tags:
-  - aquafaba
-  - chocolat
-  - "fleur d'oranger"
-  - jus de pois chiche
-  - pois chiche
+  - "Aquafaba"
+  - "Chocolat"
+  - "Fleur d'oranger"
+  - "Jus de pois chiche"
+  - "Pois chiche"
+  - "Vegan"
+  - "Végétal"
+  - "Vegetalien"
+  - "Vegetarien"
+  - "Vinaigre"
+description: "Il y a quelques jours je vous présentais le résultat de ma petite mousse au chocolat à l'aquafaba sur les réseaux sociaux ! Pour ceux ..."
 recette_details:
   - Catégorie:
     - Mousse

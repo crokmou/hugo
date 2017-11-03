@@ -37,6 +37,7 @@ doc.elements.each("rss/channel/item[wp:status = 'publish' and (wp:post_type = 'p
   content   = post['content:encoded'].text
   category  = ''
   tags  = ''
+  description  = ''
   thumbnail_id = ''
   thumbnail = ''
   recette_qty = ''
@@ -53,7 +54,10 @@ doc.elements.each("rss/channel/item[wp:status = 'publish' and (wp:post_type = 'p
         recette_temps = "\"#{meta.elements['wp:meta_value'].text.gsub(/&nbsp;/i, "").gsub(/\"/, "\\\"")}\""
       when "wpcf-ingredient-textarea" then
         value = meta.elements['wp:meta_value'].text.gsub(/&nbsp;/i, "").gsub(/\"/, "\\\"")
-        recette_ingredients = "\"#{Upmark.convert(value)}\""
+        recette_ingredients = "\"#{value}\""
+      when "_yoast_wpseo_metadesc" then
+        value = meta.elements['wp:meta_value'].text.gsub(/&nbsp;/i, "").gsub(/\"/, "\\\"")
+        description = meta.elements['wp:meta_value'].text.gsub(/\"/, "\\\"")
     end
   end
 
@@ -86,6 +90,7 @@ doc.elements.each("rss/channel/item[wp:status = 'publish' and (wp:post_type = 'p
     f.puts "thumbnail: \"#{thumbnail}\""
     f.puts "categories:\n#{category}"
     f.puts "tags:\n#{tags}"
+    f.puts "description: \"#{description}\""
     if defined?(recette_qty) && (recette_qty != '')
       f.puts "recette_qty: #{recette_qty}"
     end

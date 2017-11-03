@@ -1,9 +1,9 @@
 ---
-title: 'Brownie Vegan, une recette chocolatée & gourmande !'
-date: 2017-02-23T18:37:49+00:00
-thumbnail: https://crokmou.com/images/brownie-vegan-partenariat-generation-cooking-crokmou-blog-belge-cuisine-voyage-1.jpg
+date: "2017-02-23T18:37:49+01:00"
+title: "Brownie Vegan, une recette chocolatée & gourmande !"
+thumbnail: "https://crokmou.com/images/brownie-vegan-partenariat-generation-cooking-crokmou-blog-belge-cuisine-voyage-1.jpg"
 categories:
-  - Desserts
+  - "Desserts"
 tags:
   - chocolat
   - amande
@@ -23,6 +23,7 @@ tags:
   - noix
   - noix de pécan
   - cajou
+description: "Pour réaliser cette recette de brownie vegan, j'ai utilisé les ingrédients que m'a gentiment envoyé mon partenaire Génération Cooking ! Je vous ai posté ..."
 recette_details:
   - Catégorie:
     - Gâteau

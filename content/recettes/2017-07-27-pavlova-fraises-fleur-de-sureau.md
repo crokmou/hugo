@@ -1,26 +1,19 @@
 ---
-title: Pavlova fraises et fleur de sureau
-date: 2017-07-27T18:18:23+00:00
-thumbnail: https://crokmou.com/images/chef-en-box-patisserie-pavlova-fraise-crokmou-blog-cuisine-voyage-belgique.jpg
+date: "2017-07-27T18:18:23+02:00"
+title: "Pavlova fraises et fleur de sureau"
+thumbnail: "https://crokmou.com/images/chef-en-box-patisserie-pavlova-fraise-crokmou-blog-cuisine-voyage-belgique.jpg"
 categories:
-  - Desserts
+  - "Desserts"
 tags:
-  - citron
-  - citron vert
-  - creme
-  - fraise
-  - gélatine
-  - oeuf
-  - sucre
-  - sucre glace
-  - "blanc d'oeuf"
-  - chocolat blanc
-  - chocolat
-  - pectine
-  - crème liquide
-  - fleur de sureau
-  - mascarpone
-  - purée de fruit 
+  - "Citron"
+  - "Citron vert"
+  - "Creme"
+  - "Fraise"
+  - "Gelatine"
+  - "Oeuf"
+  - "Pâtisserie"
+  - "Pectine"
+description: "Il y a quelques semaines je te parlais de la box de Pâtisserie \"Le Chef en box\" !  J'avais eu l'occasion de réaliser une pavlova fraises et fleurs de sureau."
 recette_details:
   - Catégorie:
     - Tarte
@@ -93,8 +86,6 @@ Il y a quelques semaines je te parlais de [la box de Pâtisserie « Le Chef en 
 ## **Recette de la pavlova fraises et fleur de sureau**
 
 {{< recette >}}
-
-
 
 ## Concours
 

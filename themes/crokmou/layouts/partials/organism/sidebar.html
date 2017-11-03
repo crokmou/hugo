@@ -8,12 +8,10 @@
     <h1 class="sidebar__section__title" data-stroke="{{$title}}">{{$title}}</h1>
     {{if eq $id "breve" }}
     <ul>
-      {{ range first 3 (where (where $pages "Section" "eq" "carnet de route") "Title" "!=" "") }}
-      {{ $description := .Content | safeHTML }}
-      {{with .Description }}
-        {{ $description := .Description }}
-      {{end}}
-      {{ $description := $description | safeHTML | truncate 100 }}
+      {{ range first 3 (where (where $pages "Section" "eq" "carnet de voyage") "Title" "!=" "") }}
+      {{ $description := .Summary }}
+      {{with .Description }}{{ $description := . }}{{end}}
+      {{ $description := $description | truncate 100 }}
       <li class="sidebar__section__item">
         <h5><a class="sidebar__section__link" href="{{.Permalink}}">{{.Title}}</a></h5>
         <div class="sidebar__section__description">{{$description}}</div>

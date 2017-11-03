@@ -9,9 +9,32 @@ RemovePathAccents: true
 permalinks:
   blog: /:year/:month/:slug/
   recettes: /:year/:month/:slug/
-  saveur du monde: /:year/:month/:slug/
+  saveurs du monde: /:year/:month/:slug/
   restaurants: /:year/:month/:slug/
   carnet de voyage: /:year/:month/:slug/
+
+menu:
+  header:
+      - Name: "Blog"
+        Weight: 5
+        Identifier: "blog"
+        URL: "/blog/"
+      - Name: "Carnet de voyage"
+        Weight: 1
+        Identifier: "carnet-de-voyage"
+        URL: "/carnet-de-voyage/"
+      - Name: "Recettes"
+        Weight: 3
+        Identifier: "recettes"
+        URL: "/recettes/"
+      - Name: "Restaurants"
+        Weight: 4
+        Identifier: "restaurants"
+        URL: "/restaurants/"
+      - Name: "Saveurs du monde"
+        Weight: 2
+        Identifier: "saveurs-du-monde"
+        URL: "/saveurs-du-monde/"
 
 taxonomies:
   tag: ""

@@ -1,24 +1,23 @@
 ---
-title: 'Cake Banane, crème de Salidou & chocolat'
-date: 2016-11-28T18:22:21+00:00
-thumbnail: https://crokmou.com/images/cake-banane-salidou-chocolat-crokmou-blog-culinaire-belge.jpg
+date: "2016-11-28T18:22:21+01:00"
+title: "Cake Banane, crème de Salidou & chocolat"
+thumbnail: "https://crokmou.com/images/cake-banane-salidou-chocolat-crokmou-blog-culinaire-belge.jpg"
 categories:
-  - Desserts
+  - "Desserts"
 tags:
-  - amande
-  - banane
-  - cake
-  - caramel
-  - cassonade
-  - chocolat
-  - chocolat noir
-  - farine
-  - "lait d'amande"
-  - lait végétal
-  - levure chimique
-  - baking powder
-  - huile
-  - salidou
+  - "Amande"
+  - "Banane"
+  - "Cake"
+  - "Caramel"
+  - "Cassonade"
+  - "Chocolat"
+  - "Chocolat noir"
+  - "Farine"
+  - "Lait d'amande"
+  - "Lait vegetal"
+  - "Levure chimique"
+  - "Salidou"
+description: ""
 recette_details:
   - Catégorie:
     - Cake

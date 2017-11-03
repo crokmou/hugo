@@ -1,15 +1,17 @@
 ---
-title: Pâte levée feuilletée, un classique
-date: 2017-05-11T17:30:48+00:00
-thumbnail: https://crokmou.com/images/pâte-levée-feuilletée-plf-crokmou-blog-cuisine-voyage-1-14.jpg
+date: "2017-05-11T17:30:48+02:00"
+title: "Pâte levée feuilletée, un classique"
+thumbnail: "https://crokmou.com/images/pâte-levée-feuilletée-plf-crokmou-blog-cuisine-voyage-1-14.jpg"
 categories:
-  - Boulangerie
+  - "Boulangerie"
 tags:
-  - beurre
-  - farine
-  - levure
-  - levure boulangère
-  - pâte levée feuilletée
+  - "Beurre"
+  - "Farine"
+  - "Levure"
+  - "Levure boulangère"
+  - "Pâte levée feuilletée"
+  - "Sucre"
+description: "Aujourd'hui je vais vous parler de la pâte levée feuilletée ! Un classique, très utile pour réaliser vos plus belles viennoiseries ! Souvenez vous ..."
 recette_details:
   - Catégorie:
     - Les bases

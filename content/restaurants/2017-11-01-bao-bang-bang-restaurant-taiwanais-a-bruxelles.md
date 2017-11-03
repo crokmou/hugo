@@ -6,6 +6,7 @@ categories:
   - "Lifestyle"
 tags:
   - "Restaurant"
+description: ""
 slug: "bao-bang-bang-restaurant-taiwanais-a-bruxelles"
 ---
 

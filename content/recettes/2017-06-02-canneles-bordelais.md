@@ -1,20 +1,26 @@
 ---
-title: Cannelés bordelais
-date: 2017-06-02T15:12:17+00:00
-thumbnail: https://crokmou.com/images/recette-cannelés-bordelais-rhum-crokmou-blog-cuisine-voyage-1.jpg
+date: "2017-06-02T15:12:17+02:00"
+title: "Cannelés bordelais"
+thumbnail: "https://crokmou.com/images/recette-cannelés-bordelais-rhum-crokmou-blog-cuisine-voyage-1.jpg"
 categories:
-  - Desserts
+  - "Desserts"
 tags:
-  - beurre
-  - farine
-  - lait
-  - oeuf
-  - rhum
-  - sel
-  - sucre de canne
-  - vanille
-  - sucre
-  - "jaune d'oeuf"
+  - "Beurre"
+  - "Dessert"
+  - "Farine"
+  - "Gluten"
+  - "Gouter"
+  - "Lactose"
+  - "Lait"
+  - "Mignardise"
+  - "Oeuf"
+  - "Pâtisserie de voyage"
+  - "Rhum"
+  - "Sel"
+  - "Sucre de canne"
+  - "Vanille"
+  - "Vegetarien"
+description: ""
 recette_details:
   - Catégorie:
     - Mignardise

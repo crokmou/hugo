@@ -1,26 +1,19 @@
 ---
-title: Cake betterave et chocolat
-date: 2016-05-26T14:52:19+00:00
-thumbnail: https://crokmou.com/images/cake-betterave-chocolat-crokmou-blog-culinaire.jpg
+date: "2016-05-26T14:52:19+02:00"
+title: "Cake betterave et chocolat"
+thumbnail: "https://crokmou.com/images/cake-betterave-chocolat-crokmou-blog-culinaire.jpg"
 categories:
-  - Desserts
+  - "Desserts"
 tags:
-  - betterave
-  - cacao
-  - chocolat
-  - légume
-  - oeuf
-  - chocolat noir
-  - beurre
-  - sucre
-  - sucre de canne
-  - maïzena
-  - fécule de maïs
-  - "poudre d'amande"
-  - levure chimique
-  - baking powder
-  - noisette
-  - noix
+  - "Betterave"
+  - "Cacao"
+  - "Cake"
+  - "Chocolat"
+  - "Gouter"
+  - "Legume"
+  - "Oeuf"
+  - "Vegetarien"
+description: "Je sais pas vous mais pour le goûter j'avalerai bien un morceau de cake betterave et chocolat ! Oui oui vous m'avez bien entendu..."
 recette_details:
   - Catégorie:
     - Cake
@@ -82,10 +75,12 @@ disqusId: 4859406747
 slug: cake-betterave-et-chocolat
 ---
 
-Je sais pas vous mais pour le goûter j’avalerai bien un morceau de ce **cake betterave et chocolat** ! Oui oui vous m’avez bien entendu, de la betterave dans un cake chocolat ! J’avais déjà vu ce type de gâteaux sur la toile sans pour autant m’y intéresser, jusqu’à ce que mon petit livreur de paniers de légumes ([L’Heureux Nouveau](http://www.lheureuxnouveau.be) à Bruxelles) m’apporte de jolies betteraves. Damned, lorsque j’ai vu arrivé le panier… ce légume c’est vraiment pas mon truc. Fort heureusement pour moi, parmi leurs recette se trouvait celle du cake au chocolat, j’ai donc tenté le tout pour le tout avec cette préparation sucrée ! A mon grand étonnement, on ne sentait pas du tout la betterave, le cake était super moelleux, pas trop sucré et il a tenu la route pendant 2 jours sans montrer de signes de sécheresse, c’est pour dire ! La betterave a vraiment ajouté un petit plus à cette recette et je ne regrette vraiment pas d’avoir tenté le coup. Ça m’apprendra a avoir des aprioris sur ces fameux gâteaux légumes, la prochaine fois je tente le Carrot Cake !
+Je sais pas vous mais pour le goûter j'avalerai bien un morceau de ce **cake betterave et chocolat** ! Oui oui vous m'avez bien entendu, de la betterave dans un cake chocolat ! J'avais déjà vu ce type de gâteaux sur la toile sans pour autant m'y intéresser, jusqu'à ce que mon petit livreur de paniers de légumes ([L'Heureux Nouveau](http://www.lheureuxnouveau.be) à Bruxelles) m'apporte de jolies betteraves. Damned, lorsque j'ai vu arrivé le panier... ce légume c'est vraiment pas mon truc. Fort heureusement pour moi, parmi leurs recette se trouvait celle du cake au chocolat, j'ai donc tenté le tout pour le tout avec cette préparation sucrée ! A mon grand étonnement, on ne sentait pas du tout la betterave, le cake était super moelleux, pas trop sucré et il a tenu la route pendant 2 jours sans montrer de signes de sécheresse, c'est pour dire ! La betterave a vraiment ajouté un petit plus à cette recette et je ne regrette vraiment pas d'avoir tenté le coup. Ça m'apprendra a avoir des aprioris sur ces fameux gâteaux légumes, la prochaine fois je tente le Carrot Cake !
+
+## **Recette du Cake betterave et chocolat**
 
 {{< recette >}}
 
-Alors prêts pour le goûter ? Si vous avez des recettes alliant des légumes dans des pâtisseries, n’hésitez pas à m’en faire part je suis assez curieuse !
+* Ne pas hésiter à remplacer la farine par du cacao en poudre, cela aura le même effet sauf que votre gâteau ne sera pas tout blanc après cuisson. ** Enlever quelques minutes à la cuisson rendra le cake un peu plus humide et peut être moins cuit à l'intérieur, personnellement je le préfère comme ça ! Alors prêts pour le goûter ? Si vous avez des recettes alliant des légumes dans des pâtisseries, n'hésitez pas à m'en faire part je suis assez curieuse !
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

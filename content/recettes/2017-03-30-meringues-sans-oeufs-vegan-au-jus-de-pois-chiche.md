@@ -1,14 +1,20 @@
 ---
-title: 'Meringues sans oeufs – Vegan, au jus de pois chiche'
-date: 2017-03-30T19:15:38+00:00
-thumbnail: https://crokmou.com/images/recette-meringue-sans-oeufs-vegan-pois-chiche-crokmou-blog-cuisine-voyage-1.jpg
+date: "2017-03-30T19:15:38+02:00"
+title: "Meringues sans oeufs - Vegan, au jus de pois chiche"
+thumbnail: "https://crokmou.com/images/recette-meringue-sans-oeufs-vegan-pois-chiche-crokmou-blog-cuisine-voyage-1.jpg"
 categories:
-  - Desserts
+  - "Desserts"
 tags:
-  - aquafaba
-  - meringue
-  - pois chiche
-  - sucre
+  - "Anniversaire"
+  - "Gouter"
+  - "Meringue"
+  - "Pois chiche"
+  - "Sucre"
+  - "Tea time"
+  - "Vegan"
+  - "Vegetalien"
+  - "Vegetarien"
+description: "Des meringues sans oeufs, il y a quelques temps encore je n'y aurais jamais cru, et puis... j'ai tenté l'expérience ! Il y a quelques semaines..."
 recette_details:
   - Catégorie:
     - Mignardise

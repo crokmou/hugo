@@ -1,20 +1,20 @@
 ---
-title: Makis faits maison, recette en vidéo
-date: 2016-06-23T15:58:36+00:00
-thumbnail: https://crokmou.com/images/makis-vg-crokmou-blog-culinaire.jpg
+date: "2016-06-23T15:58:36+02:00"
+title: "Makis faits maison, recette en vidéo"
+thumbnail: "https://crokmou.com/images/makis-vg-crokmou-blog-culinaire.jpg"
 categories:
-  - Plats
+  - "Plats"
 tags:
-  - riz
-  - eau
-  - vinaigre de riz
-  - vinaigre
-  - sucre
-  - sel
-  - algue
-  - feuille de nori
-  - légume
-  - sesame
+  - "Algue"
+  - "Legume"
+  - "Maki"
+  - "Makis"
+  - "Nori"
+  - "Riz"
+  - "Vegan"
+  - "Vegetalien"
+  - "Vegetarien"
+description: "Les beaux jours reviennent doucement (*Touche du singe*) et notre envie de petits plats frais également, le top ? Des makis faits maison !"
 recette_details:
   - Catégorie:
     - Entrée
@@ -75,13 +75,16 @@ disqusId: 4933195497
 slug: makis-faits-maison-vg-recette-video
 ---
 
-Les beaux jours reviennent doucement (\*Touche du singe\*) et notre envie de petits plats frais également, le top ? Des makis faits maison ! Tout le monde (ou presque) en mange de nos jours, facile à déguster, simple à commander et vous savez quoi ? Leur réalisation est un jeu d’enfant une fois que l’on sait par où commencer. A la maison, mon Hom est un amoureux des makis, j’en fais donc généralement une fois par semaine / pour moi ce sont des [Gyozas](http://www.crokmou.com/2015/08/gyoza-au-porc-maison) /, c’est certes un peu long mais on attrape vite le coup de main et cela devient un vrai plaisir d’en réaliser !Encore une fois privilégier le simple et le bon, les makis peuvent être préparés à l’avance et ils peuvent être farcis avec tout, absolument tout, ce que vous souhaitez ! Non seulement vous gagnez de l’argent parce que cela coûte bien moins cher à faire qu’à acheter (surtout dans les Sushitrucetcompagnie). Vous apprenez également à cuisiner, vous garnissez les makis selon les goûts de chacun et vous épatez vos amis/votre amoureux(se)/votre famille. Top non ? Une pierre, pleins de coups ! Ici j’ai décidé de vous montrer une recette de makis faits maison VG, pour la simple et bonne raison que j’essaye de diminuer ma consommation de viande et de poisson. Après tout, les légumes cela ne fait de mal à personne. J’ai opté pour une recette à base de légumes cuits : aubergines et champignons ainsi qu’une autre à base de légumes crus : concombre et tomates, ça change et ce n’était pas mauvais du tout ! Je précise que la manière dont je réalise les makis n’est pas LA manière qu’il faut appliquer à la lettre, comprenons nous bien je ne suis pas maître en la matière, ceci est donc ma petite astuce, il en existe certainement bien d’autres 😉
+Les beaux jours reviennent doucement (*Touche du singe*) et notre envie de petits plats frais également, le top ? Des makis faits maison ! Tout le monde (ou presque) en mange de nos jours, facile à déguster, simple à commander et vous savez quoi ? Leur réalisation est un jeu d'enfant une fois que l'on sait par où commencer. A la maison, mon Hom est un amoureux des makis, j'en fais donc généralement une fois par semaine / pour moi ce sont des [Gyozas](http://www.crokmou.com/2015/08/gyoza-au-porc-maison) /, c'est certes un peu long mais on attrape vite le coup de main et cela devient un vrai plaisir d'en réaliser ! Encore une fois privilégier le simple et le bon, les makis peuvent être préparés à l'avance et ils peuvent être farcis avec tout, absolument tout, ce que vous souhaitez ! Non seulement vous gagnez de l'argent parce que cela coûte bien moins cher à faire qu'à acheter (surtout dans les Sushitrucetcompagnie). Vous apprenez également à cuisiner, vous garnissez les makis selon les goûts de chacun et vous épatez vos amis/votre amoureux(se)/votre famille. Top non ? <del>Une pierre, pleins de coups !</del> Ici j'ai décidé de vous montrer une recette de makis faits maison VG, pour la simple et bonne raison que j'essaye de diminuer ma consommation de viande et de poisson. Après tout, les légumes cela ne fait de mal à personne. J'ai opté pour une recette à base de légumes cuits : aubergines et champignons ainsi qu'une autre à base de légumes crus : concombre et tomates, ça change et ce n'était pas mauvais du tout ! Je précise que la manière dont je réalise les makis n'est pas LA manière qu'il faut appliquer à la lettre, comprenons nous bien je ne suis pas maître en la matière, ceci est donc ma petite astuce, il en existe certainement bien d'autres ;)
+
+## **Recette des makis faits maison**
 
 {{< recette >}}
 
-Facile non ? Une petite aprem makis en famille et tout le monde est heureux, vous verrez !
-En ce qui concerne la conservation, à la maison ils sont généralement mangés le jour même au maximum le lendemain. Je ne saurais donc vous dire combien de temps cela peut tenir ni même si cela peut être congelé. Quelqu’un saura peut être m’en dire plus là dessus ?
+<iframe src="https://www.youtube.com/embed/rovz1UswWVM" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-Sur ce mes crevettes, je retourne me prélasser au soleil pendant qu’il est encore là !
+Facile non ? Une petite aprem makis en famille et tout le monde est heureux, vous verrez ! En ce qui concerne la conservation, à la maison ils sont généralement mangés le jour même au maximum le lendemain. Je ne saurais donc vous dire combien de temps cela peut tenir ni même si cela peut être congelé. Quelqu'un saura peut être m'en dire plus là dessus ?
+
+Sur ce mes crevettes, je retourne me prélasser au soleil pendant qu'il est encore là !
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

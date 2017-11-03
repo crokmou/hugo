@@ -30,9 +30,9 @@
       <nav class="header__nav flex-12">
         <ul class="list list--inline flex align-items-center">
           {{ $currentPage := . }}
-          {{ range .Site.Menus.main }}
+          {{ range .Site.Menus.header }}
           <li class='{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}active{{end}}"'>
-            <a class="js-page-link" href="{{ .URL }}">{{ .Identifier }}</a>
+            <a class="js-page-link" href="{{ .URL }}">{{ .Name }}</a>
           </li>
           {{ end }}
         </ul>

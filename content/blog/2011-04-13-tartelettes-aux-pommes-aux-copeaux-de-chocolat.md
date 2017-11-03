@@ -1,22 +1,23 @@
 ---
-title: Tartelettes aux pommes aux copeaux de chocolat
-date: 2011-04-13T16:30:00+00:00
-thumbnail: https://crokmou.com/images/Tarte-aux-pommes.jpg
+date: "2011-04-13T16:30:00+02:00"
+title: "Tartelettes aux pommes aux copeaux de chocolat"
+thumbnail: "https://crokmou.com/images/Tarte-aux-pommes.jpg"
 categories:
-  - Desserts
+  - "Desserts"
 tags:
-  - chocolat
-  - chocolat noir
-  - dessert
-  - fruit
-  - pomme
-  - tarte
-  - tartelette
-disqusId: 3628177383
-slug: tartelettes-aux-pommes-aux-copeaux-de-chocolat
+  - "Chocolat"
+  - "Chocolat noir"
+  - "Dessert"
+  - "Fruit"
+  - "Pomme"
+  - "Tarte"
+  - "Tartelette"
+  - "Vanille"
+description: ""
+slug: "tartelettes-aux-pommes-aux-copeaux-de-chocolat"
 ---
 
-Me revoili, me revoilou ! Sincèrement désolée pour cette attente entre mes recettes, mais bientôt la fin de l’année, les grosses révisions pour passer en deuxième année vont arriver, plus la fin des projets photo et tout et tout… bref du boulot ! Malgré tout je vais essayer de vous mettre 1 à 2 recettes par semaine !
+Me revoili, me revoilou ! Sincèrement désolée pour cette attente entre mes recettes, mais bientôt la fin de l'année, les grosses révisions pour passer en deuxième année vont arriver, plus la fin des projets photo et tout et tout... bref du boulot ! Malgré tout je vais essayer de vous mettre 1 à 2 recettes par semaine !
 
 Pour ce soir je vous présente des tartelettes aux pommes aux copeaux de chocolat (encore et toujours pour les mordus de chocolat)!
 
@@ -30,7 +31,7 @@ Pour ce soir je vous présente des tartelettes aux pommes aux copeaux de chocola
 
 ![preparation](http://storage.canalblog.com/28/58/825568/63181897_p.jpg)
 
-1.  Rien de plus rapide et de plus simple que ces tartelettes (Oui oui croyez moi : j’avais simplement des pommes à finir dans mon frigo et voilà en 10 min c’est fait !)
+1.  Rien de plus rapide et de plus simple que ces tartelettes (Oui oui croyez moi : j'avais simplement des pommes à finir dans mon frigo et voilà en 10 min c'est fait !)
 2.  Coupez vos pommes en quartiers, puis recoupez les quartiers en de plus fins quartiers (on se comprend hein =p).
 3.  Disposez vos carrés de pâte feuilletée dans vos moules à tartelettes en ayant préalablement disposer du papier sulfurisé dans chaque moule.
 4.  Rapez du chocolat noir dans chaque fond de pâte feuilletée, placez par dessus les fins quartiers de pomme.
@@ -39,4 +40,4 @@ Pour ce soir je vous présente des tartelettes aux pommes aux copeaux de chocola
 7.  Enfournez vos tartelettes et faites cuire 20/25 min (selon votre four)
 8.  Dégustez chaud !
 
-Je vous l’avais bien dit : rapide et délicieux !
+Je vous l'avais bien dit : rapide et délicieux !

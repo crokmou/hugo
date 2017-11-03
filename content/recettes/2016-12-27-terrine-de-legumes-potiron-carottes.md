@@ -1,17 +1,23 @@
 ---
-title: 'Terrine de légumes, potiron & carottes'
-date: 2016-12-27T18:00:15+00:00
-thumbnail: https://crokmou.com/images/terrine-legume-potiron-carotte-crokmou-blog-cuisine-voyage-belgique-1.jpg
+date: "2016-12-27T18:00:15+01:00"
+title: "Terrine de légumes, potiron & carottes"
+thumbnail: "https://crokmou.com/images/terrine-legume-potiron-carotte-crokmou-blog-cuisine-voyage-belgique-1.jpg"
 categories:
-  - Entrées
+  - "Entrées"
 tags:
-  - carotte
-  - legume
-  - oeuf
-  - origan
-  - potiron
-  - terrine
-  - thym
+  - "Automne"
+  - "Carotte"
+  - "Hiver"
+  - "Legume"
+  - "Noel"
+  - "Nouvel an"
+  - "Oeuf"
+  - "Origan"
+  - "Potiron"
+  - "Terrine"
+  - "Thym"
+  - "Vegetarien"
+description: "Les festivités n'étant pas encore terminées je vous propose de cuisiner une petite entrée/plat aux légumes de saison. Cette terrine au potiron et carottes"
 recette_details:
   - Catégorie:
     - Terrine

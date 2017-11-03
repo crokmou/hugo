@@ -1,33 +1,22 @@
 ---
-title: Burgers savoyards végétariens
-date: 2017-01-13T18:30:19+00:00
-thumbnail: https://crokmou.com/images/burger-savoyard-vegetarien-crokmou-blog-culinaire-belge-2.jpg
+date: "2017-01-13T18:30:19+01:00"
+title: "Burgers savoyards végétariens"
+thumbnail: "https://crokmou.com/images/burger-savoyard-vegetarien-crokmou-blog-culinaire-belge-2.jpg"
 categories:
-  - Plats
+  - "Plats"
 tags:
-  - bun
-  - champignon
-  - fromage
-  - oignon
-  - reblochon
-  - roquette
-  - salade
-  - lait végétal
-  - farine
-  - levure fraîche
-  - levure de boulanger
-  - oeuf
-  - eau
-  - sel
-  - sucre
-  - beurre
-  - ail
-  - ail noir
-  - pois chiche
-  - tamari
-  - paprika
-  - mayonnaise
-  - ketchup 
+  - "Bun"
+  - "Buns"
+  - "Burger"
+  - "Champignon"
+  - "Fromage"
+  - "Hamburger"
+  - "Oignon"
+  - "Reblochon"
+  - "Roquette"
+  - "Salade"
+  - "Vegetarien"
+description: "J'aime le gras, les burgers à 5 étages et le goût, ouai ouai. Alors voilà, j'ai trouvé l'astuce pour assouvir mes envies de burger pas light : je cuisine."
 recette_details:
   - Catégorie:
     - Burgers

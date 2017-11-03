@@ -1,9 +1,9 @@
 ---
-title: Trio de confitures
-date: 2016-07-14T14:39:35+00:00
-thumbnail: https://crokmou.com/images/trio-confiture-crokmou-blog-culinaire.jpg
+date: "2016-07-14T14:39:35+02:00"
+title: "Trio de confitures"
+thumbnail: "https://crokmou.com/images/trio-confiture-crokmou-blog-culinaire.jpg"
 categories:
-  - Desserts
+  - "Sauces - confitures"
 tags:
   - abricot
   - "fleur d'oranger"
@@ -19,6 +19,7 @@ tags:
   - eau
   - muscovado
   - cassonade
+description: "La confiture, petite recette qui me ramène sans conteste à mon enfance. Cela me rappelle de très chouettes souvenirs, je vous l'ai certainement déjà dit ..."
 recette_details:
   - Catégorie:
     - Confiture
@@ -95,7 +96,9 @@ disqusId: 4985260613
 slug: trio-de-confitures
 ---
 
-La confiture, petite recette qui me ramène sans conteste à mon enfance. Cela me rappelle de très chouettes souvenirs, je vous l’ai certainement déjà dit mais mes grands parents avaient planté un arbre fruitier pour chaque membre de la famille (surtout les petits enfants). Pour ma part j’ai eu un mirabellier, ma cousine un poirier, si ma mémoire est bonne il y avait un pommier aussi, un prunier et certainement d’autres arbres tout aussi gourmands. Chaque année nous avions tellement de fruits que ma grand mère faisait des tas de confiture, et je dois dire que mes papilles en gardent un bon souvenir ! 20 ans après il m’arrive de faire des petits essais à la maison, rien de professionnel, pas de marmite en cuivre ni de thermomètre à confiture mais cela reste néanmoins très bon ! Aujourd’hui je vous propose un petit trio de confitures/pâte qui j’espère vous donnera quelques idées et permettra à vos pancakes (la recette arrive bientôt d’ailleurs) d’être bien garnis. Concernant la pâte de rhubarbe, j’ai utilisé la recette du chef Conticini, un vrai délice !
+La confiture, petite recette qui me ramène sans conteste à mon enfance. Cela me rappelle de très chouettes souvenirs, je vous l'ai certainement déjà dit mais mes grands parents avaient planté un arbre fruitier pour chaque membre de la famille (surtout les petits enfants). Pour ma part j'ai eu un mirabellier, ma cousine un poirier, si ma mémoire est bonne il y avait un pommier aussi, un prunier et certainement d'autres arbres tout aussi gourmands. Chaque année nous avions tellement de fruits que ma grand mère faisait des tas de confiture, et je dois dire que mes papilles en gardent un bon souvenir ! 20 ans après il m'arrive de faire des petits essais à la maison, rien de professionnel, pas de marmite en cuivre ni de thermomètre à confiture mais cela reste néanmoins très bon ! Aujourd'hui je vous propose un petit trio de confitures/pâte qui j'espère vous donnera quelques idées et permettra à vos pancakes (la recette arrive bientôt d'ailleurs) d'être bien garnis. Concernant la pâte de rhubarbe, j'ai utilisé la recette du chef Conticini, un vrai délice !
+
+## **Recette du trio de confitures**
 
 {{< recette >}}
 
