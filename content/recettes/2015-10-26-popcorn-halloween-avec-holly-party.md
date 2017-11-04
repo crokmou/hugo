@@ -5,24 +5,58 @@ thumbnail: "https://crokmou.com/images/pop-corn-halloween-recette-crokmou-blog-c
 categories:
   - "Desserts"
 tags:
-  - "Caramel"
-  - "Halloween"
-  - "Holly party"
-  - "Popcorn"
-  - "Popcorn halloween"
-  - "Sesame"
-  - "Sesame noir"
-  - "Shopping"
-description: ""
+  - "maïs"
+  - "huile végétale"
+  - "sésame noir"
+  - "sucre"
+  - "crème de soja"
+  - "soja"
+  - "margarine"
+description: "Des popcorns pour Halloween, une recette simple, gourmande et déclinable presque à l'infini !"
+recette_details:
+  - Catégorie:
+    - Mignardises
+  - Type de cuisine:
+    - Américaine
+  - Régime:
+    - Végétarien
+    - Vegan
+    - Sans lactose
+    - Sans oeufs
+  - Saison:
+    - Automne
+  - Évènement:
+    - Goûter
+    - En famille
+    - Entre amis
+    - En couple
+    - Pique-nique
+    - Halloween
 recette_qty: "Pour du pop corn d'Halloween"
-recette_ingredients: "<ul>
-	<li>huile végétale</li>
-	<li>maïs à pop corn</li>
-	<li>pâte de sésame noir</li>
-	<li>sucre</li>
-	<li>crème de soja (ou crème fraîche)</li>
-	<li>beurre</li>
-</ul>"
+recette_temps:
+  - schemaId: "prepTime"
+    schemaValue: "PT5M"
+    label: "Préparation"
+    duration: "5 minutes"
+  - schemaId: "cookTime"
+    label: "Cuisson"
+    duration: "5 minutes"
+    schemaValue: "PT5M"
+recette_ingredients:
+  - value:
+      - huile végétale
+      - maïs à pop corn
+      - pâte de sésame noir
+      - sucre
+      - crème de soja (ou crème fraîche)
+      - beurre
+recette:
+  - "Verser un peu d'huile végétale dans une poêle à frire ou comme moi, tu peux utiliser une machine à popcorn qui ne nécessite aucune matière grasse."
+  - "Lorsque l'huile est bien chaude, ajouter le maïs, recouvrir le faitout d'un couvercle et laisser le popcorn éclater (attention, tenir le couvercle sait-on jamais). Réserver"
+  - "Pour le caramel : verser du sucre dans une casserole et faire fondre à sec (c'est à dire avec du sucre uniquement). Une fois que le caramel est bien coloré (marron un peu foncé mais pas trop non plus sinon c'est amer), déglacer avec un peu de crème fraiche et de beurre chaud (personnellement je le fais à l’œil, je n'ai donc aucun dosage à vous communiquer mais pour 100g de sucre j'ai du mettre 2 càs de crème fraiche et 15g de beurre quelque chose comme ça)"
+  - "Bien mélanger et verser encore chaud sur les popcorn"
+  - "Mélanger à l'aide d'une spatule en bois pour que tous les popcorns soient caramélisés."
+  - "Pour le sésame noir : dans une casserole, verser un peu de sucre et faire caraméliser à sec. Faire chauffer un peu de crème et un peu de pâte de sésame noir. Verser sur le caramel coloré et procéder comme pour le caramel ci-dessus."
 slug: "popcorn-halloween-avec-holly-party"
 ---
 
@@ -38,14 +72,7 @@ Alexia, créatrice de la boutique, m'a envoyé quelques [accessoires pour Hallow
 
 Évidemment je n'oublie pas les boites à popcorns qui habillent ma petite recette du jour
 
-## Recette de popcorn d'Halloween au caramel et sésame noir
-
-1.  Verser un peu d'huile végétale dans une poêle à frire ou comme moi, tu peux utiliser une machine à popcorn qui ne nécessite aucune matière grasse.
-2.  Lorsque l'huile est bien chaude, ajouter le maïs, recouvrir le faitout d'un couvercle et laisser le popcorn éclater (attention, tenir le couvercle sait-on jamais). Réserver
-3.  Pour le caramel : verser du sucre dans une casserole et faire fondre à sec (c'est à dire avec du sucre uniquement). Une fois que le caramel est bien coloré (marron un peu foncé mais pas trop non plus sinon c'est amer), déglacer avec un peu de crème fraiche et de beurre chaud (personnellement je le fais à l’œil, je n'ai donc aucun dosage à vous communiquer mais pour 100g de sucre j'ai du mettre 2 càs de crème fraiche et 15g de beurre quelque chose comme ça)
-4.  Bien mélanger et verser encore chaud sur les popcorn
-5.  Mélanger à l'aide d'une spatule en bois pour que tous les popcorns soient caramélisés.
-6.  Pour le sésame noir : dans une casserole, verser un peu de sucre et faire caraméliser à sec. Faire chauffer un peu de crème et un peu de pâte de sésame noir. Verser sur le caramel coloré et procéder comme pour le caramel ci-dessus.
+{{< recette >}}
 
 _Astuce_ : pour récupérer vos casseroles avec le caramel, il suffit de faire bouillir de l'eau dedans et le caramel va se dissoudre de lui même. {{< img src="https://crokmou.com/images/halloween-holly-party-decoration.jpg" alt="décoration halloween Holly Party" >}} {{< img src="https://crokmou.com/images/halloween-holly-party-decoration-1.jpg" alt="décoration halloween Holly Party" >}}
 
