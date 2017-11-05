@@ -1,7 +1,7 @@
 ---
 date: "2011-07-22T21:43:00+02:00"
 title: "Tiramisu aux fruits rouges"
-thumbnail: "https://crokmou.com/images/Tiramisu-fruits.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/Tiramisu-fruits.jpg"
 categories:
   - "Desserts"
 tags:

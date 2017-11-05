@@ -1,7 +1,7 @@
 ---
 date: "2012-03-19T20:20:00+01:00"
 title: "Dips de poulet Indiens"
-thumbnail: "https://crokmou.com/images/20120318_Dips_Poulet_Indien_0034.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20120318_Dips_Poulet_Indien_0034.jpg"
 categories:
   - "Apéritifs"
 tags:

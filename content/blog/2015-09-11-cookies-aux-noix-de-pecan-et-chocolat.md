@@ -1,7 +1,7 @@
 ---
 date: "2015-09-11T13:19:18+02:00"
 title: "Cookies aux noix de pécan et chocolat"
-thumbnail: "https://crokmou.com/images/recette-cookies-noix-de-pecan-crokmou-blog-culinaire.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/recette-cookies-noix-de-pecan-crokmou-blog-culinaire.jpg"
 categories:
   - "Desserts"
 tags:

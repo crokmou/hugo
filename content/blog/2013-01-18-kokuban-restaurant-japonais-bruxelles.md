@@ -10,9 +10,9 @@ description: ""
 slug: "kokuban-restaurant-japonais-bruxelles"
 ---
 
-[![](https://crokmou.com/images/kokuban_restaurant_japonais_bruxelles-5014_bann-300x1791-300x179.jpg)](https://crokmou.com/images/kokuban_restaurant_japonais_bruxelles-5014_bann-300x1791.jpg)
+[![](https://s3.eu-west-2.amazonaws.com/crokmou/images/kokuban_restaurant_japonais_bruxelles-5014_bann-300x1791-300x179.jpg)](https://s3.eu-west-2.amazonaws.com/crokmou/images/kokuban_restaurant_japonais_bruxelles-5014_bann-300x1791.jpg)
 
-[![](https://crokmou.com/images/kokuban_restaurant_japonais_bruxelles-50141.jpg)](https://crokmou.com/images/kokuban_restaurant_japonais_bruxelles-50141.jpg)
+[![](https://s3.eu-west-2.amazonaws.com/crokmou/images/kokuban_restaurant_japonais_bruxelles-50141.jpg)](https://s3.eu-west-2.amazonaws.com/crokmou/images/kokuban_restaurant_japonais_bruxelles-50141.jpg)
 
 Un peu après le nouvel an, mon hom et moi voulions nous faire un petit restaurant Japonais, parce qu'on adoooooore ces restaurants ! Je ne savais pas trop comment trouver un bon resto, c'est donc tout naturellement que je suis allée sur le site [Brussel's Kitchen](http://www.brusselskitchen.com/?p=2237) et par chance j'y ai trouvé mon bonheur : un restaurant Japonais pas comme les autres, spécialisé dans les ramens (soupes de nouilles).
 
@@ -28,4 +28,4 @@ Kokuban
 
 Tel : 02 611 06 22 - [Site internet](http://www.kokuban.be/fr/index.php)
 
-[![](https://crokmou.com/images/kokuban_restaurant_japonais_bruxelles1.jpg)](https://crokmou.com/images/kokuban_restaurant_japonais_bruxelles1.jpg)
+[![](https://s3.eu-west-2.amazonaws.com/crokmou/images/kokuban_restaurant_japonais_bruxelles1.jpg)](https://s3.eu-west-2.amazonaws.com/crokmou/images/kokuban_restaurant_japonais_bruxelles1.jpg)

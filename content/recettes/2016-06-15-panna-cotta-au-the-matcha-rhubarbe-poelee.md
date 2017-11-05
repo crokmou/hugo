@@ -1,7 +1,7 @@
 ---
 date: "2016-06-15T13:26:40+02:00"
 title: "Panna cotta au thé matcha et rhubarbe poêlée"
-thumbnail: "https://crokmou.com/images/panna-cotta-the-matcha-rhubarbe-poelee-crokmou-blog-culinaire.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/panna-cotta-the-matcha-rhubarbe-poelee-crokmou-blog-culinaire.jpg"
 categories:
   - "Desserts"
 tags:

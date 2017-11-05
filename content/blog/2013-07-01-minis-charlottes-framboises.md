@@ -1,7 +1,7 @@
 ---
 date: "2013-07-01T19:49:00+02:00"
 title: "Minis charlottes framboises"
-thumbnail: "https://crokmou.com/images/20130701_mini_charlotte_framboise_agar_agar_0006.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20130701_mini_charlotte_framboise_agar_agar_0006.jpg"
 categories:
   - "Desserts"
 tags:

@@ -1,7 +1,7 @@
 ---
 date: "2011-05-11T13:10:00+02:00"
 title: "Smoothie du jour"
-thumbnail: "https://crokmou.com/images/Smoothie-1.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/Smoothie-1.jpg"
 categories:
   - "Boissons"
 tags:

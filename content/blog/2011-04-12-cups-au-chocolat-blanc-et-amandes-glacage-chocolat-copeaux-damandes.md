@@ -1,7 +1,7 @@
 ---
 date: "2011-04-12T10:11:00+02:00"
 title: "Cups au chocolat blanc et amandes, glaçage chocolat, copeaux d'amandes"
-thumbnail: "https://crokmou.com/images/IMG_8076.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/IMG_8076.jpg"
 categories:
   - "Desserts"
 tags:

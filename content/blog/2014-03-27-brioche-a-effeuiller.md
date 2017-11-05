@@ -1,7 +1,7 @@
 ---
 date: "2014-03-27T16:59:00+01:00"
 title: "Brioche à effeuiller"
-thumbnail: "https://crokmou.com/images/brioche-a-effeuiller.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/brioche-a-effeuiller.jpg"
 categories:
   - "Boulangerie"
 tags:

@@ -1,7 +1,7 @@
 ---
 date: "2015-02-08T15:44:00+01:00"
 title: "Bubble tea maison au thé matcha"
-thumbnail: "https://crokmou.com/images/bubble-tea-the-matcha-recette-blog-culinaire-crokmou.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/bubble-tea-the-matcha-recette-blog-culinaire-crokmou.jpg"
 categories:
   - "Boissons"
 tags:

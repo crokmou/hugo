@@ -1,7 +1,7 @@
 ---
 date: "2012-07-29T11:03:00+02:00"
 title: "Milkshake fraises, yaourt et citron vert"
-thumbnail: "https://crokmou.com/images/20120626_milkshake_fraise_yaourt_citron_0008.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20120626_milkshake_fraise_yaourt_citron_0008.jpg"
 categories:
   - "Boissons"
 tags:

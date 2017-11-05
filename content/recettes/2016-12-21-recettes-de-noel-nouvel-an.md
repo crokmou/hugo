@@ -1,7 +1,7 @@
 ---
 date: "2016-12-21T17:37:43+01:00"
 title: "Recettes de Noël et Nouvel An"
-thumbnail: "https://crokmou.com/images/recette-noel-fin-annee-crokmou-blog-cuisine-voyage-belgique.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/recette-noel-fin-annee-crokmou-blog-cuisine-voyage-belgique.jpg"
 categories:
   - Plats
   - Apéritifs
@@ -46,7 +46,7 @@ Les fêtes approchent à grands pas – et j’ai l’impression que cela va plu
 
 # Entrées /Plats
 
-{{< img src="https://crokmou.com/images/recette-noel-plat.jpg" alt="" >}}  
+{{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/recette-noel-plat.jpg" alt="" >}}  
 * [Tatin de magret de canard, pomme et foie gras](https://crokmou.com/2013/12/tatin-magret-canard-pomme-foie-gras)
 * [Coquilles de Saint-Jacques gratinées au speculoos](https://crokmou.com/2013/12/coquilles-saint-jacques-gratinees-speculoos)
 * [Crème brûlée à l’huile de truffe blanche ](https://crokmou.com/2016/11/creme-brulee-a-lhuile-de-truffe-blanche)
@@ -61,7 +61,7 @@ Les fêtes approchent à grands pas – et j’ai l’impression que cela va plu
 
 # Cadeaux gourmands
 
-{{< img src="https://crokmou.com/images/recette-noel-gourmandises.jpg" alt="" >}}
+{{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/recette-noel-gourmandises.jpg" alt="" >}}
 * [Caramels aux amandes et chocolat](https://crokmou.com/2012/01/caramels-aux-amandes-et-chocolat)
 * [Coquilles de la Saint-Nicolas](https://crokmou.com/2014/12/coquille-de-la-saint-nicolas)
 * [Meringues sapin au thé matcha](https://crokmou.com/2016/12/meringues-sapin-au-the-matcha-et-chocolat-chaud)

@@ -1,7 +1,7 @@
 ---
 date: "2014-08-14T15:21:00+02:00"
 title: "Glace au lait de noisettes"
-thumbnail: "https://crokmou.com/images/glace-lait-noisette-noisette-caramel.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/glace-lait-noisette-noisette-caramel.jpg"
 categories:
   - "Desserts"
 tags:

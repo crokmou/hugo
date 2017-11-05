@@ -1,7 +1,7 @@
 ---
 date: "2014-11-20T17:20:00+01:00"
 title: "Blanquette de veau maison"
-thumbnail: "https://crokmou.com/images/blanquette-veau-recette-crokmou-blog-culinaire.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/blanquette-veau-recette-crokmou-blog-culinaire.jpg"
 categories:
   - "Plats"
 tags:

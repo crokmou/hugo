@@ -10,7 +10,7 @@ description: ""
 slug: "culinaria-2013-pure-street"
 ---
 
-[![](https://crokmou.com/images/Culinaria_pure_street1.jpg)](https://crokmou.com/images/Culinaria_pure_street1.jpg)
+[![](https://s3.eu-west-2.amazonaws.com/crokmou/images/Culinaria_pure_street1.jpg)](https://s3.eu-west-2.amazonaws.com/crokmou/images/Culinaria_pure_street1.jpg)
 
 Culinaria vous connaissez non ? Un évenement gastronomique unique en son genre en Belgique ! Tout commence en 2009 lorsque Culinaria propose aux plus grands chefs Belges de sortir de leurs cuisines pour les faire cuisiner en plein coeur de Bruxelles afin de ravir les amateurs de gastronomie. Le succès est tel que la deuxième année, Culinaria s'installe sur le site Tour & Taxis afin de mieux organiser la chose. Pour ceux qui ont assistés à cet évenement les années précédentes (ce qui n'est pas mon cas), j'ai entendu beaucoup de choses à ce sujet : trop de monde, pas de places pour s'assoir et manger, pas assez de plats etc etc. Que je vous rassure cette année les organisateurs ont tout prévu et même plus encore!
 
@@ -28,7 +28,7 @@ Chaque jour, vous pourrez découvrir une recette gastronomique et originale insp
 
 <tr>
 
-<td>[![](https://crokmou.com/images/Arabelle-Meirlaen-300x2001-300x200.jpg)](https://crokmou.com/images/Arabelle-Meirlaen-300x2001.jpg)</td>
+<td>[![](https://s3.eu-west-2.amazonaws.com/crokmou/images/Arabelle-Meirlaen-300x2001-300x200.jpg)](https://s3.eu-west-2.amazonaws.com/crokmou/images/Arabelle-Meirlaen-300x2001.jpg)</td>
 
 </tr>
 
@@ -66,7 +66,7 @@ Pierre Marcolini ([MaisonPierre Marcolini](http://www.marcolini.be/)), Joost Ari
 
 <tr>
 
-<td>[![](https://crokmou.com/images/Marc-Ducobu-200x3001-200x300.jpg)](https://crokmou.com/images/Marc-Ducobu-200x3001.jpg)</td>
+<td>[![](https://s3.eu-west-2.amazonaws.com/crokmou/images/Marc-Ducobu-200x3001-200x300.jpg)](https://s3.eu-west-2.amazonaws.com/crokmou/images/Marc-Ducobu-200x3001.jpg)</td>
 
 </tr>
 
@@ -90,7 +90,7 @@ Il y aura aussi le retour de l'[Omnivore Tour](http://www.omnivore.com/)et sa sc
 
 Amusez vous et découvrez tout cela dans ce lieu hors-norme qu'est la Gare Maritime de Bruxelles, celle-ci sera entièrement décorée par plusieurs artistes qui s'occuperont de l'espace de chacun des chefs !
 
-<div style="clear: both; text-align: center;">[![](https://crokmou.com/images/JJ4_3765-300x2001-300x200.jpg)](https://crokmou.com/images/JJ4_3765-300x2001.jpg)
+<div style="clear: both; text-align: center;">[![](https://s3.eu-west-2.amazonaws.com/crokmou/images/JJ4_3765-300x2001-300x200.jpg)](https://s3.eu-west-2.amazonaws.com/crokmou/images/JJ4_3765-300x2001.jpg)
 
 Alors tentés par l'aventure[Culinaria](http://www.culinariasquare.com/)? Pour ma part j'ai la chance d'y avoir été invitée pour l'ouverture le Mercredi29 Mai, peut être aurais-je la chance de vous croiser ;)
 

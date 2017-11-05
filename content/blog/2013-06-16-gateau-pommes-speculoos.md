@@ -1,7 +1,7 @@
 ---
 date: "2013-06-16T16:43:00+02:00"
 title: "Gâteau pommes, speculoos"
-thumbnail: "https://crokmou.com/images/gateau_biscuit_speculoos_stephen_destree_BD_30x40.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/gateau_biscuit_speculoos_stephen_destree_BD_30x40.jpg"
 categories:
   - "Desserts"
 tags:
@@ -27,7 +27,7 @@ Enfin, passons la nostalgie de la jeunesse (un choc vous dis-je, je me sens "vie
 
 <tr>
 
-<td style="text-align: center;">[![](https://crokmou.com/images/stephen_destree_brochure-300x3001-300x300.jpg)](https://crokmou.com/images/stephen_destree_brochure-300x3001.jpg)</td>
+<td style="text-align: center;">[![](https://s3.eu-west-2.amazonaws.com/crokmou/images/stephen_destree_brochure-300x3001-300x300.jpg)](https://s3.eu-west-2.amazonaws.com/crokmou/images/stephen_destree_brochure-300x3001.jpg)</td>
 
 </tr>
 
@@ -61,7 +61,7 @@ _[English recipe ](https://lh5.googleusercontent.com/-OCBZtoiRj4Y/Uc8-v3WOlzI/A
 
 <tr>
 
-<td style="text-align: center;">[![](https://crokmou.com/images/softness_cake_apple_ginger_biscuit-300x2121-300x212.png)](https://crokmou.com/images/softness_cake_apple_ginger_biscuit-300x2121.png)</td>
+<td style="text-align: center;">[![](https://s3.eu-west-2.amazonaws.com/crokmou/images/softness_cake_apple_ginger_biscuit-300x2121-300x212.png)](https://s3.eu-west-2.amazonaws.com/crokmou/images/softness_cake_apple_ginger_biscuit-300x2121.png)</td>
 
 </tr>
 

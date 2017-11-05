@@ -1,7 +1,7 @@
 ---
 date: "2011-05-01T17:32:00+02:00"
 title: "Chouquettes"
-thumbnail: "https://crokmou.com/images/Chouquettes.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/Chouquettes.jpg"
 categories:
   - "Boulangerie"
 tags:

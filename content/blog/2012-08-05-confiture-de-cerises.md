@@ -1,7 +1,7 @@
 ---
 date: "2012-08-05T10:32:00+02:00"
 title: "Confiture de cerises"
-thumbnail: "https://crokmou.com/images/20120805_confiture_cerise_0016.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20120805_confiture_cerise_0016.jpg"
 categories:
   - "Sauces - confitures"
 tags:

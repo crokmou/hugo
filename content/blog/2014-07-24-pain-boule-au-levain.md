@@ -1,7 +1,7 @@
 ---
 date: "2014-07-24T16:54:00+02:00"
 title: "Pain boule au levain maison"
-thumbnail: "https://crokmou.com/images/pain-boule-levain.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/pain-boule-levain.jpg"
 categories:
   - "Boulangerie"
 tags:
@@ -26,9 +26,9 @@ slug: "pain-boule-au-levain"
 
 Comme beaucoup d'entre vous le savent, j'adore le pain je pourrais me nourrir qu'avec ça que cela ne me dérangerait pas ! Mais attention pas n'importe quel pain non plus, celui du commerce souvent tout raplapla et sans goût non merci ! J'aime le pain au levain avec une croûte bien dorée et craquante, une mie alvéolée et pleine d'odeur... huuuum un vrai régal. Il y a quelques semaines j'ai eu l'immense chance de gagner un [robot Kitchenaid](http://www.adhauc.com/fr/c13-bien-preparer/c70-preparateur-culinaire/c87-robots-multifonctions/p1560-robot-kitchenaid-artisan-rouge.html#.U9ELYI1_s74) grâce au blog [La cuisine de Josie](http://www.lacuisinedejosie.fr/) et au magasin [Ad'Hauc](http://www.adhauc.com/) (que je connaissais déjà puisqu'ils ont une très belle boutique du côté de Castres près de chez mon Pôpa). D'ailleurs j'en profite pour les remercier (malgré les petits problèmes récent rencontrés qui ne sont pas de leur fait) pour leur gentillesse, leur suivi mais aussi car je n'aurai jamais pensé avoir une bête pareille dans ma cuisine !!!
 
-{{< img src="https://crokmou.com/images/pain-boule-1.jpg" alt="pain boule au levain" >}}![pain boule au levain](https://crokmou.com/images/pain-boule-2.jpg){{< img src="https://crokmou.com/images/pain-boule-3.jpg" alt="pain-boule-3" >}}![pain-boule-4](https://crokmou.com/images/pain-boule-4.jpg)
+{{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/pain-boule-1.jpg" alt="pain boule au levain" >}}![pain boule au levain](https://s3.eu-west-2.amazonaws.com/crokmou/images/pain-boule-2.jpg){{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/pain-boule-3.jpg" alt="pain-boule-3" >}}![pain-boule-4](https://s3.eu-west-2.amazonaws.com/crokmou/images/pain-boule-4.jpg)
 
-La première recette que j'ai donc réalisé avec mon robot pétrin est celle du pain boule au levain d'après la recette d'Eric Kayser. Pour une première fois je suis vraiment très satisfaite ! L'odeur est là, la croûte aussi et le goût vous n'imaginez même pas ! Bien qu'il n'ai pas fort gonflé (mon levain n'étant pas assez fort à ce moment là apparemment) on comprend bien vite que le levain, ça change tout : le goût, la tenue, la mie, la conservation... c'est vraiment radical ! [![pain boule au levain](https://crokmou.com/images/pain-boule-levain-1.jpg)](https://crokmou.com/images/pain-boule-levain-1.jpg)
+La première recette que j'ai donc réalisé avec mon robot pétrin est celle du pain boule au levain d'après la recette d'Eric Kayser. Pour une première fois je suis vraiment très satisfaite ! L'odeur est là, la croûte aussi et le goût vous n'imaginez même pas ! Bien qu'il n'ai pas fort gonflé (mon levain n'étant pas assez fort à ce moment là apparemment) on comprend bien vite que le levain, ça change tout : le goût, la tenue, la mie, la conservation... c'est vraiment radical ! [![pain boule au levain](https://s3.eu-west-2.amazonaws.com/crokmou/images/pain-boule-levain-1.jpg)](https://s3.eu-west-2.amazonaws.com/crokmou/images/pain-boule-levain-1.jpg)
 
 ##### Recette
 

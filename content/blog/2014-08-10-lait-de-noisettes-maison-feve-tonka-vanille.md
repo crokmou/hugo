@@ -1,7 +1,7 @@
 ---
 date: "2014-08-10T10:00:00+02:00"
 title: "Lait de noisettes maison, fève tonka, vanille"
-thumbnail: "https://crokmou.com/images/lait-noisette-tonka-vanille.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/lait-noisette-tonka-vanille.jpg"
 categories:
   - "Boissons"
 tags:

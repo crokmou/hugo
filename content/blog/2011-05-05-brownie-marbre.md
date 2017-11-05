@@ -1,7 +1,7 @@
 ---
 date: "2011-05-05T14:40:00+02:00"
 title: "Brownie marbré"
-thumbnail: "https://crokmou.com/images/20110505_brownie_marbre_chocolat_vanille_1.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20110505_brownie_marbre_chocolat_vanille_1.jpg"
 categories:
   - "Desserts"
 tags:

@@ -1,7 +1,7 @@
 ---
 date: "2012-04-28T08:00:00+02:00"
 title: "Crème carambar au caramel"
-thumbnail: "https://crokmou.com/images/20120414_Creme_dessert_carambar_caramel_0028.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20120414_Creme_dessert_carambar_caramel_0028.jpg"
 categories:
   - "Desserts"
 tags:

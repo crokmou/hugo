@@ -1,7 +1,7 @@
 ---
 date: "2012-03-25T11:30:00+02:00"
 title: "Glace au yaourt"
-thumbnail: "https://crokmou.com/images/20120318_Glace_Yaourt_0013.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20120318_Glace_Yaourt_0013.jpg"
 categories:
   - "Desserts"
 tags:

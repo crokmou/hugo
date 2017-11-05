@@ -1,7 +1,7 @@
 ---
 date: "2013-04-01T20:32:00+02:00"
 title: "Tartelettes fraises"
-thumbnail: "https://crokmou.com/images/20130401_tartelette_fraise_strawberry_tart_0074.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20130401_tartelette_fraise_strawberry_tart_0074.jpg"
 categories:
   - "Desserts"
 tags:
@@ -43,7 +43,7 @@ _ _
 
 <tr>
 
-<td style="text-align: center;">[![](https://crokmou.com/images/strawberry_tartlet-300x2121-300x212.jpg)](https://crokmou.com/images/strawberry_tartlet-300x2121.jpg)</td>
+<td style="text-align: center;">[![](https://s3.eu-west-2.amazonaws.com/crokmou/images/strawberry_tartlet-300x2121-300x212.jpg)](https://s3.eu-west-2.amazonaws.com/crokmou/images/strawberry_tartlet-300x2121.jpg)</td>
 
 </tr>
 

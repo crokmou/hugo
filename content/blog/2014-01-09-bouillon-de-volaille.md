@@ -1,7 +1,7 @@
 ---
 date: "2014-01-09T19:50:00+01:00"
 title: "Bouillon de volaille"
-thumbnail: "https://crokmou.com/images/050114_bouillon_poule_2.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/050114_bouillon_poule_2.jpg"
 categories:
   - "Plats"
 tags:

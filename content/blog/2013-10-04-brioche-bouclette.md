@@ -1,7 +1,7 @@
 ---
 date: "2013-10-04T15:41:00+02:00"
 title: "Brioche bouclette, nuage de gourmandise !"
-thumbnail: "https://crokmou.com/images/20131004_brioche_bouclette_crokmou.com_.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20131004_brioche_bouclette_crokmou.com_.jpg"
 categories:
   - "Boulangerie"
 tags:

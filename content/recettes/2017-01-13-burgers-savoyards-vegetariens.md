@@ -1,7 +1,7 @@
 ---
 date: "2017-01-13T18:30:19+01:00"
 title: "Burgers savoyards végétariens"
-thumbnail: "https://crokmou.com/images/burger-savoyard-vegetarien-crokmou-blog-culinaire-belge-2.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/burger-savoyard-vegetarien-crokmou-blog-culinaire-belge-2.jpg"
 categories:
   - "Plats"
 tags:

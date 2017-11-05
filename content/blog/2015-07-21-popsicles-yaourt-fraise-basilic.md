@@ -1,7 +1,7 @@
 ---
 date: "2015-07-21T18:08:10+02:00"
 title: "Popsicles au yaourt, fraise et basilic"
-thumbnail: "https://crokmou.com/images/glace-popsicle-fraise-basilic-yaourt.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/glace-popsicle-fraise-basilic-yaourt.jpg"
 categories:
   - "Desserts"
 tags:

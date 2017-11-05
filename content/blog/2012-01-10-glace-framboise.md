@@ -1,7 +1,7 @@
 ---
 date: "2012-01-10T14:12:00+01:00"
 title: "Glace framboise"
-thumbnail: "https://crokmou.com/images/20120110_glace_framboise_1.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20120110_glace_framboise_1.jpg"
 categories:
   - "Desserts"
 tags:

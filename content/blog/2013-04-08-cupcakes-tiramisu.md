@@ -1,7 +1,7 @@
 ---
 date: "2013-04-08T11:49:00+02:00"
 title: "Cupcakes Tiramisu"
-thumbnail: "https://crokmou.com/images/20130407_cupcake_tiramisu_0035.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20130407_cupcake_tiramisu_0035.jpg"
 categories:
   - "Desserts"
 tags:
@@ -17,7 +17,7 @@ description: ""
 slug: "cupcakes-tiramisu"
 ---
 
-[![](https://crokmou.com/images/20130407_cupcake_tiramisu_0025-200x3001-200x300.jpg)](https://crokmou.com/images/20130407_cupcake_tiramisu_0025-200x3001.jpg)
+[![](https://s3.eu-west-2.amazonaws.com/crokmou/images/20130407_cupcake_tiramisu_0025-200x3001-200x300.jpg)](https://s3.eu-west-2.amazonaws.com/crokmou/images/20130407_cupcake_tiramisu_0025-200x3001.jpg)
 
 Un **cupcake Tiramisu**, depuis le temps que j'en ai rêvé ! Quoi ? Vous n'avez jamais rêvé de cupcake Tiramisu ? Même après avoir vu l'alléchante, la sublime, la merveilleuse vidéo de Carte noire ? Bon il va falloir remédier à tout cela alors ! Je vous donne l'occasion de vous rattraper :
 
@@ -29,7 +29,7 @@ Alors convaincus ? Pour ne pas vous mentir, à la base j'avais prévu une tout a
 
 _Then convinced? Not to lie to you, at the base I had planned a different recipe to present to you: a [mascarpone cake, strawberries and lime](http://www.cuisineculinaireamal.com/article-cake-moelleux-au-mascarpone-fraise-et-citron-vert-bio-116754547-comments.html#anchorComment) found on the blog Culinaire Amoula. Only here is I made it on my own way as usual. __For the small anecdote, I found that it's a pity to do not put strawberries everywhere in the gateau, I thus mixed pieces of strawberries in the dough instead of putting it only on the top. It is after cooking that I realized that strawberries flow into the dough and of this fact my cake never really cooked... That's so me! Thus finding me with an enormous jar of mascarpone to be ended, I realized these famous recipe of cupcakes!_
 
-[![](https://crokmou.com/images/20130407_cupcake_tiramisu_00251-200x3001-200x300.jpg)](https://crokmou.com/images/20130407_cupcake_tiramisu_00251-200x3001.jpg)[![](https://crokmou.com/images/20130407_cupcake_tiramisu_0035-200x3001-200x300.jpg)](https://crokmou.com/images/20130407_cupcake_tiramisu_0035-200x3001.jpg)
+[![](https://s3.eu-west-2.amazonaws.com/crokmou/images/20130407_cupcake_tiramisu_00251-200x3001-200x300.jpg)](https://s3.eu-west-2.amazonaws.com/crokmou/images/20130407_cupcake_tiramisu_00251-200x3001.jpg)[![](https://s3.eu-west-2.amazonaws.com/crokmou/images/20130407_cupcake_tiramisu_0035-200x3001-200x300.jpg)](https://s3.eu-west-2.amazonaws.com/crokmou/images/20130407_cupcake_tiramisu_0035-200x3001.jpg)
 
 Pour réaliser ces cupcakes, vous aurez besoin d'une [balance](http://www.rueducommerce.fr/m/pl/malid:92,254318) pour peser vos ingrédients, de votre [matériel à pâtisserie](http://www.rueducommerce.fr/m/pl/malid:12468605) dont un [fouet](http://www.rueducommerce.fr/index/ustensile%20Fouet%20inox) (super important), de [moules à muffins](http://www.rueducommerce.fr/index/moule%20a%20muffins) ou des [moules en silicone](http://www.rueducommerce.fr/index/Moule%20silicone), d'une [poche à douille](http://www.rueducommerce.fr/index/poche%20a%20douille) (et d'une [spatule](http://www.rueducommerce.fr/m/pl/malid:48515367) pour racler la pâte parce que c'est super bon)
 
@@ -53,7 +53,7 @@ _ _
 
 <tr>
 
-<td style="text-align: center;">[![](https://crokmou.com/images/tiramisu_cupcake-300x2121-300x212.jpg)](https://crokmou.com/images/tiramisu_cupcake-300x2121.jpg)</td>
+<td style="text-align: center;">[![](https://s3.eu-west-2.amazonaws.com/crokmou/images/tiramisu_cupcake-300x2121-300x212.jpg)](https://s3.eu-west-2.amazonaws.com/crokmou/images/tiramisu_cupcake-300x2121.jpg)</td>
 
 </tr>
 

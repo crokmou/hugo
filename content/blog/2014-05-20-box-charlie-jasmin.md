@@ -1,7 +1,7 @@
 ---
 date: "2014-05-20T15:17:00+02:00"
 title: "Box Charlie Jasmin"
-thumbnail: "https://crokmou.com/images/box-charlie-jasmin-pour-petits-et-grands.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/box-charlie-jasmin-pour-petits-et-grands.jpg"
 categories:
   - "Lifestyle"
 tags:
@@ -17,7 +17,7 @@ Il y a quelques temps, on m'a contacté pour tester une **Box culinaire** : [Cha
 *   Mix graines 5 minéraux et 5 vitamines de [Celnat](http://celnat.fr/) : Le petit livret fourni avec la box offre une recette de pain hyper facile afin d'utiliser ces graines. Idées plutôt intéressante pour travailler la boulange avec les enfants et leur faire découvrir autre chose que le pain de mie.
 *   Azukis bio de Celnat : La dernière fois que j'ai goûté ces haricots, c'était dans des pâtisserie Japonaise. J'avais tout simplement détesté ! Mais je ferais un effort de voir ce que cela donne au naturel !
 
-{{< img src="https://crokmou.com/images/box-charlie-jasmin-pour-petits-et-grands-1.jpg" alt="box charlie jasmin" >}} {{< img src="https://crokmou.com/images/box-charlie-jasmin-pour-petits-et-grands-2.jpg" alt="box charlie jasmin" >}}
+{{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/box-charlie-jasmin-pour-petits-et-grands-1.jpg" alt="box charlie jasmin" >}} {{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/box-charlie-jasmin-pour-petits-et-grands-2.jpg" alt="box charlie jasmin" >}}
 
 *   Fondant au chocolat aux pépites de chocolat bio de [Priméal](http://blog-primeal.fr/) : Bon et bien qui ne fond pas devant un gâteau au chocolat hein ?! Bien que d'habitude je préfère faire ma préparation moi même, ce systeme est peut être plus pratique avec des bambins. Le livret inclus dans la box nous livre une recette plutôt sympa pour mettre en valeur ce fondant avec le massepain !
 *   Massepain vert de Patisdécor
@@ -28,12 +28,12 @@ Il y a quelques temps, on m'a contacté pour tester une **Box culinaire** : [Cha
 
 Un magazine de 36 pages contenant 6 recettes pour réaliser un menu complet de l’apéritif au dessert, des jeux, des infos et astuces sur le thème. Et pour les parents : Retrouver la fiche nutrition du médecin Martine Cotinat, Gastro-entérologue, experte formée à la nutrition et à la micro-nutrition et auteurs de nombreux livres sur la nutrition et de la série de livres pour enfant «Moko»
 
-{{< img src="https://crokmou.com/images/box-charlie-jasmin-pour-petits-et-grands-3.jpg" alt="box charlie jasmin" >}}
+{{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/box-charlie-jasmin-pour-petits-et-grands-3.jpg" alt="box charlie jasmin" >}}
 
 Ce que j'aime dans cette box Charlie Jasmin, c'est le côté ludique pour les enfants, tout est fait soit pour que l'on cuisine avec eux, soit pour qu'on puisse leur faire manger de manière "facile" ce qu'ils ne mangeraient pas habituellement ! On retrouve aussi des petits jeux sympa dans la magazine, ainsi que des recettes bien illustrées !
 
 On est d'accord je n'ai pas d'enfants, mais je suis plutôt satisfaite des produits sains et simples dont la boite est constituée... et j'ai hâte de voir mes haricots pousser =D Le truc sympa aussi, en Belgique et au Luxembourg, la livraison est gratuite en Mondial Relay ! Retrouvez dès le mois prochain la box "Jasmine au pays des merveilles" qui promet d'être pleines de paillettes !
 
-{{< img src="https://crokmou.com/images/BANNIERE_PRESENTATION-JUIN.jpg" alt="box charlie jasmin" >}}
+{{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/BANNIERE_PRESENTATION-JUIN.jpg" alt="box charlie jasmin" >}}
 
 _Box offerte*_

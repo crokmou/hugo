@@ -1,7 +1,7 @@
 ---
 date: "2013-03-10T10:13:00+01:00"
 title: "Huile vanillée maison"
-thumbnail: "https://crokmou.com/images/20130302_huile_olive_vanille_0020.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20130302_huile_olive_vanille_0020.jpg"
 categories:
   - "Sauces - confitures"
 tags:
@@ -51,7 +51,7 @@ _ _
 
 <tr>
 
-<td style="text-align: center;">[![](https://crokmou.com/images/vanilla_oil-300x2121-300x212.jpg)](https://crokmou.com/images/vanilla_oil-300x2121.jpg)</td>
+<td style="text-align: center;">[![](https://s3.eu-west-2.amazonaws.com/crokmou/images/vanilla_oil-300x2121-300x212.jpg)](https://s3.eu-west-2.amazonaws.com/crokmou/images/vanilla_oil-300x2121.jpg)</td>
 
 </tr>
 

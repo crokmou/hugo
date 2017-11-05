@@ -1,7 +1,7 @@
 ---
 date: "2011-09-30T18:09:00+02:00"
 title: "Truffes des iles"
-thumbnail: "https://crokmou.com/images/Truffes-choco-blanc_fruit-passion.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/Truffes-choco-blanc_fruit-passion.jpg"
 categories:
   - "Desserts"
 tags:

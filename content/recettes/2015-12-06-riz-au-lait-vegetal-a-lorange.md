@@ -1,7 +1,7 @@
 ---
 date: "2015-12-06T17:06:09+01:00"
 title: "Riz au lait végétal à l'orange"
-thumbnail: "https://crokmou.com/images/riz-au-lait-v--g--tal-orange-crokmou-blog-culinaire.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/riz-au-lait-v--g--tal-orange-crokmou-blog-culinaire.jpg"
 categories:
   - "Desserts"
 tags:

@@ -1,7 +1,7 @@
 ---
 date: "2014-01-23T15:51:00+01:00"
 title: "Chaï latte"
-thumbnail: "https://crokmou.com/images/220114-chai-latte-tea.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/220114-chai-latte-tea.jpg"
 categories:
   - "Boissons"
 tags:

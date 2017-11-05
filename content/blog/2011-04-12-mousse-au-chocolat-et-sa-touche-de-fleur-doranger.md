@@ -1,7 +1,7 @@
 ---
 date: "2011-04-12T10:19:00+02:00"
 title: "Mousse au chocolat et sa touche de fleur d'oranger"
-thumbnail: "https://crokmou.com/images/Mousse-choco.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/Mousse-choco.jpg"
 categories:
   - "Desserts"
 tags:

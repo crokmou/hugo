@@ -1,7 +1,7 @@
 ---
 date: "2011-10-20T16:37:00+02:00"
 title: "Soupe de courgettes, chèvre et curcuma"
-thumbnail: "https://crokmou.com/images/IMG_4543.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/IMG_4543.jpg"
 categories:
   - "Plats"
 tags:

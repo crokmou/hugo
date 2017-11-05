@@ -1,7 +1,7 @@
 ---
 date: "2015-10-29T16:05:47+01:00"
 title: "Fortune cookies Halloween"
-thumbnail: "https://crokmou.com/images/fortune-cookies-halloween-crokmou-blog-culinaire-1.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/fortune-cookies-halloween-crokmou-blog-culinaire-1.jpg"
 categories:
   - "Desserts"
 tags:
@@ -67,7 +67,7 @@ La semaine dernière, on m'a proposé de réaliser un projet avec des fortune co
 
 {{< recette >}}
 
-{{< img src="https://crokmou.com/images/fortune-cookies-halloween-crokmou-blog-culinaire.jpg" alt="fortune-cookies-halloween-crokmou-blog-culinaire" >}} {{< img src="https://crokmou.com/images/fortune-cookies-halloween-crokmou-blog-culinaire-2.jpg" alt="fortune-cookies-halloween-crokmou-blog-culinaire (2)" >}}
+{{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/fortune-cookies-halloween-crokmou-blog-culinaire.jpg" alt="fortune-cookies-halloween-crokmou-blog-culinaire" >}} {{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/fortune-cookies-halloween-crokmou-blog-culinaire-2.jpg" alt="fortune-cookies-halloween-crokmou-blog-culinaire (2)" >}}
 
 Ce que je trouve chouette avec ces biscuits c'est que tu peux en faire pour n'importe quelle occasion : Halloween, Noël, Nouvel An, Saint-Valentin... et j'en passe. Avec des phrases trouvées sur le net ou des petits mots bien personnels. De différentes couleurs, de différents goûts... le biscuit parfait non ?
 

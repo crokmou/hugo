@@ -1,7 +1,7 @@
 ---
 date: "2011-04-12T09:49:00+02:00"
 title: "Marbré au chocolat noir/vanille"
-thumbnail: "https://crokmou.com/images/IMG_8083.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/IMG_8083.jpg"
 categories:
   - "Desserts"
 tags:

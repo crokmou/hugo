@@ -1,7 +1,7 @@
 ---
 date: "2015-05-25T17:04:44+02:00"
 title: "Tarte rhubarbe et crème pâtissière"
-thumbnail: "https://crokmou.com/images/tarte-bourgeoise-rhubarbe-recette-crokmou-blog-culinaire1.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/tarte-bourgeoise-rhubarbe-recette-crokmou-blog-culinaire1.jpg"
 categories:
   - "Desserts"
 tags:

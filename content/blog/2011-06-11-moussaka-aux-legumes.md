@@ -1,7 +1,7 @@
 ---
 date: "2011-06-11T23:41:00+02:00"
 title: "Moussaka aux légumes"
-thumbnail: "https://crokmou.com/images/Moussaka.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/Moussaka.jpg"
 categories:
   - "Plats"
 tags:

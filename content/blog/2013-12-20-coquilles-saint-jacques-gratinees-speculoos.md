@@ -1,7 +1,7 @@
 ---
 date: "2013-12-20T18:49:00+01:00"
 title: "Coquilles Saint-Jacques gratinées speculoos"
-thumbnail: "https://crokmou.com/images/081213_coquille_saint_jacques_gratin--e_speculoos_0002.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/081213_coquille_saint_jacques_gratin--e_speculoos_0002.jpg"
 categories:
   - "Plats"
 tags:

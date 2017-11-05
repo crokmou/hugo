@@ -1,7 +1,7 @@
 ---
 date: "2014-02-20T23:15:00+01:00"
 title: "Eclairs fève Tonka, chocolat noir"
-thumbnail: "https://crokmou.com/images/190214-eclair-creme-feve-tonka-10.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/190214-eclair-creme-feve-tonka-10.jpg"
 categories:
   - "Desserts"
 tags:

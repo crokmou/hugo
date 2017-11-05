@@ -1,7 +1,7 @@
 ---
 date: "2011-04-14T12:41:00+02:00"
 title: "Cake lardons/feta"
-thumbnail: "https://crokmou.com/images/cake-lardon-feta.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/cake-lardon-feta.jpg"
 categories:
   - "Apéritifs"
 tags:

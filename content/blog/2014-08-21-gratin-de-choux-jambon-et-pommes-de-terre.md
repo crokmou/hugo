@@ -1,7 +1,7 @@
 ---
 date: "2014-08-21T15:23:00+02:00"
 title: "Gratin de choux, jambon et pommes de terre"
-thumbnail: "https://crokmou.com/images/gratin-pomme-de-terre-chou-fleur-romanesco-brocoli.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/gratin-pomme-de-terre-chou-fleur-romanesco-brocoli.jpg"
 categories:
   - "Plats"
 tags:
@@ -41,7 +41,7 @@ Je sais pas vous mais en ce moment je me les pèles comme personne depuis mon re
 
 Et puis peut être que vous l'avez déjà vu passer sur Facebook, mais voilà une petite photo de mon chat à son aise sur mes plateaux de shoot. En plus il a un air de pétasse, j'adore ❤
 
-{{< img src="https://crokmou.com/images/chat-plateau.jpg" alt="chat-plateau" >}}
+{{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/chat-plateau.jpg" alt="chat-plateau" >}}
 
 Passez une bonne fin de semaine et un bon week end mes petits maïs ! Bisous bisous
 

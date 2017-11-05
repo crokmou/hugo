@@ -1,7 +1,7 @@
 ---
 date: "2012-08-30T18:46:00+02:00"
 title: "Crème glacée ourson guimauve Cémoi"
-thumbnail: "https://crokmou.com/images/20120830_glace_vanille_ourson_guimauve_0028.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20120830_glace_vanille_ourson_guimauve_0028.jpg"
 categories:
   - "Desserts"
 tags:

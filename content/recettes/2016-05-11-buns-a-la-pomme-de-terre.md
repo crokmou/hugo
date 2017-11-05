@@ -1,7 +1,7 @@
 ---
 date: "2016-05-11T15:29:09+02:00"
 title: "Buns à la pomme de terre"
-thumbnail: "https://crokmou.com/images/buns-a-la-pomme-de-terre-crokmou-blog-culinaire.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/buns-a-la-pomme-de-terre-crokmou-blog-culinaire.jpg"
 categories:
   - "Boulangerie"
 tags:

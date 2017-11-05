@@ -1,7 +1,7 @@
 ---
 date: "2017-04-03T18:50:22+02:00"
 title: "Blogueur dans un monde d'influenceurs."
-thumbnail: "https://crokmou.com/images/20120428_grand_projet_cube_bruxelles_centre_0128.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20120428_grand_projet_cube_bruxelles_centre_0128.jpg"
 categories:
   - "Lifestyle"
 tags:

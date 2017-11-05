@@ -1,7 +1,7 @@
 ---
 date: "2013-07-14T17:18:00+02:00"
 title: "Glace vanille maison"
-thumbnail: "https://crokmou.com/images/20130710_glace_vanille_0045.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20130710_glace_vanille_0045.jpg"
 categories:
   - "Desserts"
 tags:

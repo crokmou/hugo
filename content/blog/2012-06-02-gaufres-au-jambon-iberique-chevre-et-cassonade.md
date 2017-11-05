@@ -1,7 +1,7 @@
 ---
 date: "2012-06-02T14:55:00+02:00"
 title: "Gaufres au jambon Ibérique, chèvre et cassonade"
-thumbnail: "https://crokmou.com/images/20120528_gaufre_chevre_miel_jambon_hyberique_cassonade_0011.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20120528_gaufre_chevre_miel_jambon_hyberique_cassonade_0011.jpg"
 categories:
   - "Plats"
 tags:

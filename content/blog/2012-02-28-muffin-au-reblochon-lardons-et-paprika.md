@@ -1,7 +1,7 @@
 ---
 date: "2012-02-28T20:26:00+01:00"
 title: "Muffin au reblochon, lardons et paprika"
-thumbnail: "https://crokmou.com/images/20120226_Muffin_reblochon_lardons_paprika_0048.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20120226_Muffin_reblochon_lardons_paprika_0048.jpg"
 categories:
   - "Apéritifs"
 tags:

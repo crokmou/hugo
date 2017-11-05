@@ -1,7 +1,7 @@
 ---
 date: "2011-04-13T16:15:00+02:00"
 title: "Ravioles aux endives caramélisées"
-thumbnail: "https://crokmou.com/images/raviolis.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/raviolis.jpg"
 categories:
   - "Plats"
 tags:

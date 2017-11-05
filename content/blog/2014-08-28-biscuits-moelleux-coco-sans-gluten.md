@@ -1,7 +1,7 @@
 ---
 date: "2014-08-28T14:57:00+02:00"
 title: "Biscuits moelleux coco sans gluten"
-thumbnail: "https://crokmou.com/images/biscuit-moelleux-coco-sans-gluten-1.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/biscuit-moelleux-coco-sans-gluten-1.jpg"
 categories:
   - "Desserts"
 tags:

@@ -1,7 +1,7 @@
 ---
 date: "2016-10-28T20:28:05+02:00"
 title: "Macarons Halloween, ganache cacao cru"
-thumbnail: "https://crokmou.com/images/macaron-halloween-ganache-chocolat-grand-cru-crokmou-blog-culinaire-belge.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/macaron-halloween-ganache-chocolat-grand-cru-crokmou-blog-culinaire-belge.jpg"
 categories:
   - "Desserts"
 tags:

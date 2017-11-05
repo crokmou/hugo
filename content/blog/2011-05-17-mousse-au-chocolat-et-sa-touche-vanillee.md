@@ -1,7 +1,7 @@
 ---
 date: "2011-05-17T19:59:00+02:00"
 title: "Mousse au chocolat et sa touche vanillée"
-thumbnail: "https://crokmou.com/images/Mousse-au-chocolat-vanill--.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/Mousse-au-chocolat-vanill--.jpg"
 categories:
   - "Desserts"
 tags:

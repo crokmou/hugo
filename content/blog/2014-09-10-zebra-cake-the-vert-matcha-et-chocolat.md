@@ -1,7 +1,7 @@
 ---
 date: "2014-09-10T18:25:00+02:00"
 title: "Zebra cake thé vert matcha et chocolat"
-thumbnail: "https://crokmou.com/images/zebra-cake-the-matcha-chocolat-grue-2.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/zebra-cake-the-matcha-chocolat-grue-2.jpg"
 categories:
   - "Desserts"
 tags:

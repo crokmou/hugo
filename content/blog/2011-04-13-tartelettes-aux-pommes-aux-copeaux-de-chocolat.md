@@ -1,7 +1,7 @@
 ---
 date: "2011-04-13T16:30:00+02:00"
 title: "Tartelettes aux pommes aux copeaux de chocolat"
-thumbnail: "https://crokmou.com/images/Tarte-aux-pommes.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/Tarte-aux-pommes.jpg"
 categories:
   - "Desserts"
 tags:

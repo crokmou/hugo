@@ -1,7 +1,7 @@
 ---
 date: "2011-06-04T19:30:00+02:00"
 title: "Muffins lait de coco et éclats d'M&M's"
-thumbnail: "https://crokmou.com/images/Muffins-mms.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/Muffins-mms.jpg"
 categories:
   - "Desserts"
 tags:

@@ -1,7 +1,7 @@
 ---
 date: "2013-07-26T18:33:00+02:00"
 title: "Pesto au basilic, alla genovese"
-thumbnail: "https://crokmou.com/images/20130718_pesto_basilic_0023.jpg"
+thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20130718_pesto_basilic_0023.jpg"
 categories:
   - "Sauces - confitures"
 tags:
@@ -31,7 +31,7 @@ slug: "pesto-au-basilic-al-genovese"
 
 Depuis que ma belle soeur nous a emmené dans un petit resto de pâtes sur Lille je suis devenue une grande addict du pesto au basilic (ou pesto alla genovese). Cette petite chaine nommée [Francesca](http://www.francesca.com/) est située sur la grand place. Cela ne paye pourtant pas de mine et en général dans ce genre d'endroit on ne s'attend pas forcément à de la grande qualité mais là... le pesto était délicieux ! J'en avais déjà goûté quelques années avant cela j'avais détesté mais maintenant me voilà réconciliée avec cette délicieuse sauce ! C'est facile et rapide à réaliser et croyez moi fait maison cela fait toute la différence ! Dans vos pâtes, sur des pommes de terre au four, des grillades ou même sur une tartine... c'est un délice !
 
-{{< img src="https://crokmou.com/images/20130718_pesto_basilic_0034.jpg" alt="Pesto au basilic, alla genovese" >}}
+{{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/20130718_pesto_basilic_0034.jpg" alt="Pesto au basilic, alla genovese" >}}
 
 ## _**Recette du pesto au basilic, alla genovese**_
 
@@ -45,6 +45,6 @@ N'hésitez pas à m'envoyer vos recettes originales à base de pesto au basilic,
 
 Des bisous les gourmands et bon apéro ;)
 
-{{< img src="https://crokmou.com/images/linguini-pesto-genovese-blog-crokmou-cuisine.jpg" alt="Linguini au pesto au basilic, alla genovese" >}}
+{{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/linguini-pesto-genovese-blog-crokmou-cuisine.jpg" alt="Linguini au pesto au basilic, alla genovese" >}}
 
 [○ Facebook](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [Twitter](https://twitter.com/Crokmou) ○
