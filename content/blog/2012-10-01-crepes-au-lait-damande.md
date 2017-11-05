@@ -17,7 +17,7 @@ description: ""
 slug: "crepes-au-lait-damande"
 ---
 
-Je sais pas vous les gourmands, mais moi j'adore les crêpes ! Salées, sucrées, crêpes bretonnes,  au fromage, au jambon... crêpes au rhum, crêpes au sucre, à la cassonade, au miel etc etc Ce qui est magique avec les crêpes c'est qu'on peut mettre tout ce que qu'on veut dedans et comme ça pas de mécontents ! Pour cette fois, j'ai décidé de faire des crêpes avec du lait d'amande, pour la simple et bonne raison que j'en avais dans le frigo ([voir mon test produit sur l'article en question](http://www.crokmou.com/2012/09/lait-damande-alpro-vendrediiii-test.html)).
+Je sais pas vous les gourmands, mais moi j'adore les crêpes ! Salées, sucrées, crêpes bretonnes,  au fromage, au jambon... crêpes au rhum, crêpes au sucre, à la cassonade, au miel etc etc Ce qui est magique avec les crêpes c'est qu'on peut mettre tout ce que qu'on veut dedans et comme ça pas de mécontents ! Pour cette fois, j'ai décidé de faire des crêpes avec du lait d'amande, pour la simple et bonne raison que j'en avais dans le frigo ([voir mon test produit sur l'article en question](https://crokmou.com/2012/09/lait-damande-alpro-vendrediiii-test.html)).
 
 Pour ma part je n'ai pas vu de grandes différences avec les autres crêpes, si ce n'est peut être la texture et le léger goût d'amande. J'ai trouvé ma petite recette sur le blog de [Loloche et ses gourmandises](http://loloche-et-ses-gourmandises.over-blog.com/article-crepes-au-lait-d-amandes-100131844-comments.html#anchorComment), une recette simple, savoureuse, qui donne de jolies crêpes légères !
 
@@ -53,7 +53,7 @@ Samedi après-midi, je suis passée dans le journal "La Capitale" pour une petit
 
 A venir très bientôt ma réponse au tag de [Coco Cannelle](http://coco-cannelle.blogspot.be/) ainsi qu'un petit test produit ou la découverte d'un livre (ou d'un site internet), à voir selon l'humeur du jour =p
 
-Je vous souhaite à tous un très bon début de semaine, et n'oubliez pas [mon concours](http://www.crokmou.com/2012/09/gagnez-un-tablier-de-cuisine.html) !
+Je vous souhaite à tous un très bon début de semaine, et n'oubliez pas [mon concours](https://crokmou.com/2012/09/gagnez-un-tablier-de-cuisine.html) !
 
 Des bisous les amis !
 

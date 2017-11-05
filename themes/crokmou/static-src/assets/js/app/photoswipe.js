@@ -26,7 +26,8 @@ $(document).ready(function() {
         linkEl = figureEl.children[0]; // <a> element
 
         imgEl = linkEl.children[0]; // <img> element
-        const img = await addImageProcess(linkEl.getAttribute('href'));
+        const img = imgEl.naturalWidth ? imgEl : await addImageProcess(linkEl.getAttribute('href'));
+        imgEl.src = img.src;
           // create slide object
         if(!img.error) {
           item = {
@@ -54,8 +55,6 @@ $(document).ready(function() {
     // triggers when user clicks on thumbnail
     const onThumbnailsClick = function(e) {
       e = e || window.event;
-      e.preventDefault ? e.preventDefault() : e.returnValue = false;
-
       const eTarget = e.target || e.srcElement;
 
       // find root element of slide
@@ -65,6 +64,8 @@ $(document).ready(function() {
 
       if(!clickedListItem) {
         return;
+      } else {
+        e.preventDefault ? e.preventDefault() : e.returnValue = false;
       }
 
       const clickedGallery = closest(eTarget, (el) =>
@@ -162,7 +163,6 @@ $(document).ready(function() {
           options.index = parseInt(index, 10) - 1;
         }
       } else {
-        console.log(options);
         options.index = parseInt(index, 10);
       }
 

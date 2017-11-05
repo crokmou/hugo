@@ -43,7 +43,7 @@ _ _
 
 <tr>
 
-<td style="text-align: center;">[![](https://crokmou.com/images/strawberry_tartlet-300x2121-300x212.jpg)](http://www.crokmou.com/wp-content/uploads/2013/04/strawberry_tartlet-300x2121.jpg)</td>
+<td style="text-align: center;">[![](https://crokmou.com/images/strawberry_tartlet-300x2121-300x212.jpg)](https://crokmou.com/images/strawberry_tartlet-300x2121.jpg)</td>
 
 </tr>
 

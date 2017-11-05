@@ -10,12 +10,12 @@ description: ""
 slug: "concours-de-noel-en-partenariat-avec-rueducommerce-concours-commentaires"
 ---
 
-[![](https://crokmou.com/images/visuel-concours_2-300x1791-300x179.jpg)](http://www.crokmou.com/wp-content/uploads/2012/12/visuel-concours_2-300x1791.jpg)
+[![](https://crokmou.com/images/visuel-concours_2-300x1791-300x179.jpg)](https://crokmou.com/images/visuel-concours_2-300x1791.jpg)
 
 Comme mentionné dans mon précédent article, me voilà de retour avec un petit concours, qui je suis certaine en ravira plus d'un ! Mon partenaire [Rue du Commerce](http://www.rueducommerce.fr/) a fait appel à moi, ainsi qu'a plusieurs autres bloggeurs partenaires, afin de vous faire gagner un petit (gros) lot gourmand pour les fêtes de fin d'années !  
   Un petit rappel pour ceux qui ne connaissent pas encore (ou ceux qui ne s'en rappellent plus) les carnets de blogueurs dont fait parti "Ma table de [Noel](http://www.rueducommerce.fr/noel/)" (le livre que vous pouvez gagner) :  
 
-[![](https://crokmou.com/images/ma-table-de-Noa-CC-82l-300x2961-300x296.jpg)](http://www.crokmou.com/wp-content/uploads/2012/12/ma-table-de-Noa-CC-82l-300x2961.jpg)
+[![](https://crokmou.com/images/ma-table-de-Noa-CC-82l-300x2961-300x296.jpg)](https://crokmou.com/images/ma-table-de-Noa-CC-82l-300x2961.jpg)
 
 Carnets de Blogueurs est une collection d’e-books entièrement réalisée par des blogueurs, en partenariat avec[RueDuCommerce](http://www.rueducommerce.fr/home/index.htm)! Cuisine, déco, bricolage, tutos photos... En bref c'est un petit voyage assez sympathique !
 
@@ -29,7 +29,7 @@ Je suis d'autant plus heureuse de vous le faire gagner puisque j'ai eu l'honneur
 
 ### CONCOURS : Pour participer
 
-[![](https://crokmou.com/images/sapin-200x3001-200x300.jpg)](http://www.crokmou.com/wp-content/uploads/2012/12/sapin-200x3001.jpg)  
+[![](https://crokmou.com/images/sapin-200x3001-200x300.jpg)](https://crokmou.com/images/sapin-200x3001.jpg)
 
 Vous devrez écrire un commentaire sous cet article (à l'aide d'une adresse mail valide) en répondant à cette question :  
 **Qu'aimeriez vous vous acheter pour [Noël](http://www.rueducommerce.fr/noel/) sur [Rue du Commerce](http://www.rueducommerce.fr/) ?**

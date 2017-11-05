@@ -15,7 +15,7 @@ description: ""
 slug: "confiture-de-cerises"
 ---
 
-[![](http://4.bp.blogspot.com/-fSsPhwXLNp4/UCbjj1ot47I/AAAAAAAADDE/i1pr3OUPL3s/s320/20120805_confiture_cerise_bann.jpg)](http://www.crokmou.com/2012/08/confiture-cerise.html)
+[![](http://4.bp.blogspot.com/-fSsPhwXLNp4/UCbjj1ot47I/AAAAAAAADDE/i1pr3OUPL3s/s320/20120805_confiture_cerise_bann.jpg)](https://crokmou.com/2012/08/confiture-cerise.html)
 
 <table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
 

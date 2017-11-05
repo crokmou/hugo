@@ -63,7 +63,7 @@ recette:
   - "Verser dans la terrine et tasser avec la presse"
   - "Enfourner pour 5à/60 minutes tout en vérifiant de tant en tant avec un couteau si la terrine est cuite"
   - "Sortir du four et laisser refroidir"
-  - "Démouler et déguster avec une bonne petite [sauce au pesto maison](http://www.crokmou.com/2013/07/pesto-au-basilic-al-genovese)"
+  - "Démouler et déguster avec une bonne petite [sauce au pesto maison](https://crokmou.com/2013/07/pesto-au-basilic-al-genovese)"
 disqusId: 5414646773
 slug: terrine-de-legumes-potiron-carottes
 ---

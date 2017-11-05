@@ -11,15 +11,15 @@ description: ""
 slug: "la-boite-hortense-concours"
 ---
 
-[![](https://crokmou.com/images/boite_hortense_box_belge_crokmou.com_1.jpg)](http://www.crokmou.com/wp-content/uploads/2014/01/boite_hortense_box_belge_crokmou.com_1.jpg)
+[![](https://crokmou.com/images/boite_hortense_box_belge_crokmou.com_1.jpg)](https://crokmou.com/images/boite_hortense_box_belge_crokmou.com_1.jpg)
 
-Il y a quelques temps déjà [je vous avais parlé d'une nouvelle box Belge :](http://www.crokmou.com/2013/10/la-boite-dhortense-boite-the-belge.html) ["La Boite d'Hortense"](http://www.crokmou.com/2013/10/la-boite-dhortense-boite-the-belge.html) ! Cette fois ci je reviens vers vous non pas pour vous faire languir avec ma box mais pour vous donner l'occasion de **gagner une box Thé ou une box Bien Etre** !
+Il y a quelques temps déjà [je vous avais parlé d'une nouvelle box Belge :](https://crokmou.com/2013/10/la-boite-dhortense-boite-the-belge.html) ["La Boite d'Hortense"](https://crokmou.com/2013/10/la-boite-dhortense-boite-the-belge.html) ! Cette fois ci je reviens vers vous non pas pour vous faire languir avec ma box mais pour vous donner l'occasion de **gagner une box Thé ou une box Bien Etre** !
 
-[![](https://crokmou.com/images/579119_10151594801686582_741538929_n-300x2891-300x289.jpg)](http://www.crokmou.com/wp-content/uploads/2014/01/579119_10151594801686582_741538929_n-300x2891-300x289.jpg)Mais avant de vous parler du concours tout ça tout ça, je tiens à vous re-présenter la **créatrice de "[La boite d'Hortense](http://www.laboitedhortense.com/)"**, voici Marine : Buveuse de thé avérée, chipoteuse par nature, La boite d'Hortense était une évidence pour elle. Quand elle ne tient pas un crayon pour donner vie à Hortense, c´est un flacon d´eye-liner qu´elle a dans les mains. Avec Hortense, jeune femme d´encre et de papier soucieuse de répandre un peu de gaieté dans votre boite aux lettres, chaque mois, elles usent de magie pour dénicher et sélectionner les produits qui remplissent vos box ! Hortense est l´âme du projet, vous la retrouverez chaque mois sur et dans votre boite pour une nouvelle aventure bien-être et thés !  
+[![](https://crokmou.com/images/579119_10151594801686582_741538929_n-300x2891-300x289.jpg)](https://crokmou.com/images/579119_10151594801686582_741538929_n-300x2891-300x289.jpg)Mais avant de vous parler du concours tout ça tout ça, je tiens à vous re-présenter la **créatrice de "[La boite d'Hortense](http://www.laboitedhortense.com/)"**, voici Marine : Buveuse de thé avérée, chipoteuse par nature, La boite d'Hortense était une évidence pour elle. Quand elle ne tient pas un crayon pour donner vie à Hortense, c´est un flacon d´eye-liner qu´elle a dans les mains. Avec Hortense, jeune femme d´encre et de papier soucieuse de répandre un peu de gaieté dans votre boite aux lettres, chaque mois, elles usent de magie pour dénicher et sélectionner les produits qui remplissent vos box ! Hortense est l´âme du projet, vous la retrouverez chaque mois sur et dans votre boite pour une nouvelle aventure bien-être et thés !  
   Tellement séduite par cette box et toutes les bonnes intentions (et le courage aussi) de Marine, je me suis donc dit que cela pouvait être génial de vous faire découvrir en mains-propres ce joli concept !  
 Marine a eu la gentillesse de me proposer non pas une boite à vous faire gagner, mais deux. En effet dans vos commentaires vous aurez le choix de **participer pour la box Thé ou la box Bien Etre**de Janvier !  
 
-[![](https://crokmou.com/images/january-2014-tea-box1.jpg)](http://www.crokmou.com/wp-content/uploads/2014/01/january-2014-tea-box1.jpg)[![](https://crokmou.com/images/january-2014-wellness-box1.jpg)](http://www.crokmou.com/wp-content/uploads/2014/01/january-2014-wellness-box1.jpg)
+[![](https://crokmou.com/images/january-2014-tea-box1.jpg)](https://crokmou.com/images/january-2014-tea-box1.jpg)[![](https://crokmou.com/images/january-2014-wellness-box1.jpg)](https://crokmou.com/images/january-2014-wellness-box1.jpg)
 
 ### CONCOURS : POUR PARTICIPER
 
@@ -31,7 +31,7 @@ Marine a eu la gentillesse de me proposer non pas une boite à vous faire gagner
 
 - Aimer la page[Facebook La boite d'Hortense](https://www.facebook.com/LaBoiteDHortense?fref=ts)ou vous inscrire à[la Newsletter](http://www.laboitedhortense.com/)
 
-- Aimer la page[Facebook Crokmou](https://www.facebook.com/pages/CroKMou/148093255259077)ou vous inscrire à[ma Newsletter](http://www.crokmou.com/p/newsletter_18.html)
+- Aimer la page[Facebook Crokmou](https://www.facebook.com/pages/CroKMou/148093255259077)ou vous inscrire à[ma Newsletter](https://crokmou.com/p/newsletter_18.html)
 
 +1 chance (non cumulable):
 

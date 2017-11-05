@@ -39,7 +39,7 @@ recette_ingredients: "<ul>
 slug: "panna-cotta-vegan-vanille-rhubarbe"
 ---
 
-[![](https://crokmou.com/images/20130418_panna_cotta_vegan_vanille_gelee_rhubarbe__0044-200x3001-200x300.jpg)](http://www.crokmou.com/wp-content/uploads/2013/04/20130418_panna_cotta_vegan_vanille_gelee_rhubarbe__0044-200x3001.jpg)
+[![](https://crokmou.com/images/20130418_panna_cotta_vegan_vanille_gelee_rhubarbe__0044-200x3001-200x300.jpg)](https://crokmou.com/images/20130418_panna_cotta_vegan_vanille_gelee_rhubarbe__0044-200x3001.jpg)
 
 Rien de mieux que cette petite panna cotta vegan en dessert lorsqu'il fait chaud et que l'on recherche un peu de frais. J'ai l'habitude de faire de la panna cotta avec une bête confiture au dessus mais cette fois j'ai voulu tester la gelée. Ayant de la rhubarbe dans le frigo, j'ai donc été piquer [la recette de mes coupains du blog Un goût de trop peu](http://www.ungoutdetroppeu.com/tarte-fraise-rhubarbe/) pour réaliser cette douceur !
 

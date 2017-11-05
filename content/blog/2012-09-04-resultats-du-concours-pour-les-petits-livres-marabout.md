@@ -11,9 +11,9 @@ slug: "resultats-du-concours-pour-les-petits-livres-marabout"
 ---
 
   
-Je sais que vous attendiez ça depuis quelques temps et le jour est enfin venu ! Je vais vousrévélez ce Random.org m'a révélé avant vous : les 3 gagnants du [concours que j'avais organisé](http://www.crokmou.com/2012/08/concours-tirage-au-sort-pour-feter-la.html) en partenariat avec Rue du Commerce.  
+Je sais que vous attendiez ça depuis quelques temps et le jour est enfin venu ! Je vais vousrévélez ce Random.org m'a révélé avant vous : les 3 gagnants du [concours que j'avais organisé](https://crokmou.com/2012/08/concours-tirage-au-sort-pour-feter-la.html) en partenariat avec Rue du Commerce.
 
-[![](http://1.bp.blogspot.com/-O4HP4nuUPfc/UCkFCYjUKKI/AAAAAAAADKY/0Cxf4_P5i_w/s400/les+tout+petits+marabout_bann.jpg)](http://www.crokmou.com/2012/08/concours-tirage-au-sort-pour-feter-la.html)
+[![](http://1.bp.blogspot.com/-O4HP4nuUPfc/UCkFCYjUKKI/AAAAAAAADKY/0Cxf4_P5i_w/s400/les+tout+petits+marabout_bann.jpg)](https://crokmou.com/2012/08/concours-tirage-au-sort-pour-feter-la.html)
 
 Rappelez vous, vous aviez l'occasion de gagner 2 petits livres Marabout de votre choix parmi la liste proposée. Et je n'ai qu'une seule chose à dire, en voyant les demandes, vous êtes de sacrés gourmands !  
 

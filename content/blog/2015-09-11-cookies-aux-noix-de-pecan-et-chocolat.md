@@ -44,6 +44,6 @@ Je sais pas vous, mais les cookies et moi c'est une grande histoire d'amour, et 
 7.  Enfourner environ 10/15 minutes jusqu'à ce que le cookies soit légèrement doré mais encore moelleux
 8.  Faire refroidir sur une grille avant de déguster
 
-_Petite astuce pour des cookies avec un peu de volume :_ lorsque vous faites des boules de pâte pour les disposer sur votre papier sulfurisé, prenez une boule un peu plus grosse que vous "arracherez" en deux, ce qui vous donnera deux cookies, et mettre le côté rugueux de la pâte vers le haut sur le plaque, ainsi la surface sera moins lisse à la cuisson et vos cookies plus jolis ! Et toi, quel est ton biscuit favoris ? J'avoue avoir un petit faible pour les [palmiers](http://www.crokmou.com/2012/06/palmiers-biscuits-feuilletes) aussi, le petit côté feuilleté mais cassant un même temps, je trouve ça top !
+_Petite astuce pour des cookies avec un peu de volume :_ lorsque vous faites des boules de pâte pour les disposer sur votre papier sulfurisé, prenez une boule un peu plus grosse que vous "arracherez" en deux, ce qui vous donnera deux cookies, et mettre le côté rugueux de la pâte vers le haut sur le plaque, ainsi la surface sera moins lisse à la cuisson et vos cookies plus jolis ! Et toi, quel est ton biscuit favoris ? J'avoue avoir un petit faible pour les [palmiers](https://crokmou.com/2012/06/palmiers-biscuits-feuilletes) aussi, le petit côté feuilleté mais cassant un même temps, je trouve ça top !
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

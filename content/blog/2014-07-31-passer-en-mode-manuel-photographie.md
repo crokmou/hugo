@@ -63,7 +63,7 @@ Le mieux est donc, lorsque cela est possible, de choisir la plus petite valeur d
 
 C'est ce genre de raisonnement qui va vous permettre de comprendre vos erreurs et de savoir comment les rectifier.
 
-[![passer en mode manuel](https://crokmou.com/images/recap-mode-manuel-vitesse-diaph-iso.jpg)](http://www.crokmou.com/wp-content/uploads/2014/07/recap-mode-manuel-vitesse-diaph-iso.jpg) Après ce tableau n'est pas à prendre au pied de la lettre, chaque cas photographique est différent, tout dépend des performances de votre appareil, de votre bon vouloir créatif, de votre sujet, de votre lumière ambiante...
+[![passer en mode manuel](https://crokmou.com/images/recap-mode-manuel-vitesse-diaph-iso.jpg)](https://crokmou.com/images/recap-mode-manuel-vitesse-diaph-iso.jpg) Après ce tableau n'est pas à prendre au pied de la lettre, chaque cas photographique est différent, tout dépend des performances de votre appareil, de votre bon vouloir créatif, de votre sujet, de votre lumière ambiante...
 
 Vous avez maintenant les bases pour comprendre le système, à vous ensuite de vous entraîner pour le maîtriser !
 

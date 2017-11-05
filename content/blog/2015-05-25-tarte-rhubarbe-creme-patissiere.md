@@ -31,7 +31,7 @@ recette_ingredients: "<ul>
 </ul>
 
 <ul>
-	<li> rhubarbe au sirop (voir <a href=\"http://www.crokmou.com/panna-cotta-vegan-a-la-vanille-et-sa-gelee-de-rhubarbe-vegan-vanilla-panna-cotta-with-rhubarb-jelly/\" target=\"_blank\">Panna Cotta à la rhubarbe</a>)</li>
+	<li> rhubarbe au sirop (voir <a href=\"https://crokmou.com/panna-cotta-vegan-a-la-vanille-et-sa-gelee-de-rhubarbe-vegan-vanilla-panna-cotta-with-rhubarb-jelly/\" target=\"_blank\">Panna Cotta à la rhubarbe</a>)</li>
 </ul>
 "
 slug: "tarte-rhubarbe-creme-patissiere"

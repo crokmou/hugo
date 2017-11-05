@@ -98,9 +98,9 @@ refait mon stock de
 le top pour des réalisations gourmande. J’ai longuement hésité à prendre un
 [couteau Global](http://generationcooking.com/12-couteaux-global) pour couper
 efficacement mes
-[petits légumes bio](http://www.crokmou.com/2016/12/lheureux-nouveau-paniers-de-fruits-legumes-a-bruxelles)
+[petits légumes bio](https://crokmou.com/2016/12/lheureux-nouveau-paniers-de-fruits-legumes-a-bruxelles)
 mais mon attrait pour les bannetons et les moules a pris le dessus.
-[Génération Cooking](http://www.crokmou.com/2014/02/generation-cooking)
+[Génération Cooking](https://crokmou.com/2014/02/generation-cooking)
 a légèrement modifié son Site Web depuis mon dernier article. Le tout est plus
 clair, plus concis, mais on y retrouve toujours tout le matériel nécéssaire à la
 confection de plats et pâtisseries. Ce que je trouve top ? **Du matériel de pro

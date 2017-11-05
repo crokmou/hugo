@@ -84,7 +84,7 @@ recette:
   - "**Préparation de la sauce** : Vous connaissez le système de mesure « à l’oeil » ? Bien, c’est cette unité que l’on va utiliser ici ! Mélanger le yaourt, ajouter du jus de citron, du sel, du poivre et le piment. Mélanger et ajuster. – Avec le produit Alpro, j’ai dû ajouter beaucoup de jus de citron pour casser ce côté sucré encore bien trop présent -. Réserver au frais"
   - "**Préparation du coleslow** : Laver, éplucher et râper les carottes râpées. Ajouter ensuite le chou finement ciselé. Mélanger les crudités avec un peu de sauce au yaourt"
   - "Chauffer une poêle avec de l’huile neutre et mettre à cuire les falafels"
-  - "Une fois les palets de pois chiches bien dorés, servir avec un peu de sauce yaourt et les crudités !     Rien ne vous empêche également de manger vos falafels avec une petite [salade de chou blanc à la Japonaise](http://www.crokmou.com/2014/09/salade-de-chou-blanc-japonaise), c’est frais et absolument parfait pour l’été !"
+  - "Une fois les palets de pois chiches bien dorés, servir avec un peu de sauce yaourt et les crudités !     Rien ne vous empêche également de manger vos falafels avec une petite [salade de chou blanc à la Japonaise](https://crokmou.com/2014/09/salade-de-chou-blanc-japonaise), c’est frais et absolument parfait pour l’été !"
 slug: falafels-vegan-rapides-delicieux
 ---
 

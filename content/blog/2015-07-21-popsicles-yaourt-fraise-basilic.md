@@ -32,6 +32,6 @@ Les vacances, qu'est ce que cela fait du bien ! Les miennes viennent malheureuse
 4.  Couler dans des moules à glaces
 5.  Mettre au congélateur au minimum pour 3h
 
-Et les ingrédients ne sont pas du tout exhaustifs, tu peux t'amuser à mettre du thé matcha à la place des fraises ou encore de l'ananas ou de la banane, c'est comme que tu veux et selon ce que tu as dans le frigo ! Et dans l'idée si tu ne veux pas mixer les fruits, tu peux tout aussi bien réaliser une bonne [Salade de fruits](http://www.crokmou.com/2015/05/salade-de-fruits-que-calor) frais !
+Et les ingrédients ne sont pas du tout exhaustifs, tu peux t'amuser à mettre du thé matcha à la place des fraises ou encore de l'ananas ou de la banane, c'est comme que tu veux et selon ce que tu as dans le frigo ! Et dans l'idée si tu ne veux pas mixer les fruits, tu peux tout aussi bien réaliser une bonne [Salade de fruits](https://crokmou.com/2015/05/salade-de-fruits-que-calor) frais !
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

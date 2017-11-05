@@ -17,7 +17,7 @@ recette_temps: "Pétrissage : 10 min | Pointage : 1h30 | Seconde pousse : 2h | C
 recette_ingredients: "<ul>
 	<li>500g de farine de blé T65</li>
 	<li>350g d'eau à tiède</li>
-	<li>100g de <a title=\"Levain fait maison\" href=\"http://www.crokmou.com/levain-fait-maison/\" target=\"_blank\">levain liquide</a></li>
+	<li>100g de <a title=\"Levain fait maison\" href=\"https://crokmou.com/levain-fait-maison/\" target=\"_blank\">levain liquide</a></li>
 	<li>2g de levure de boulanger fraîche</li>
 	<li>8g de sel</li>
 </ul>"
@@ -28,7 +28,7 @@ Comme beaucoup d'entre vous le savent, j'adore le pain je pourrais me nourrir qu
 
 {{< img src="https://crokmou.com/images/pain-boule-1.jpg" alt="pain boule au levain" >}}![pain boule au levain](https://crokmou.com/images/pain-boule-2.jpg){{< img src="https://crokmou.com/images/pain-boule-3.jpg" alt="pain-boule-3" >}}![pain-boule-4](https://crokmou.com/images/pain-boule-4.jpg)
 
-La première recette que j'ai donc réalisé avec mon robot pétrin est celle du pain boule au levain d'après la recette d'Eric Kayser. Pour une première fois je suis vraiment très satisfaite ! L'odeur est là, la croûte aussi et le goût vous n'imaginez même pas ! Bien qu'il n'ai pas fort gonflé (mon levain n'étant pas assez fort à ce moment là apparemment) on comprend bien vite que le levain, ça change tout : le goût, la tenue, la mie, la conservation... c'est vraiment radical ! [![pain boule au levain](https://crokmou.com/images/pain-boule-levain-1.jpg)](http://www.crokmou.com/wp-content/uploads/2015/03/pain-boule-levain-1.jpg)
+La première recette que j'ai donc réalisé avec mon robot pétrin est celle du pain boule au levain d'après la recette d'Eric Kayser. Pour une première fois je suis vraiment très satisfaite ! L'odeur est là, la croûte aussi et le goût vous n'imaginez même pas ! Bien qu'il n'ai pas fort gonflé (mon levain n'étant pas assez fort à ce moment là apparemment) on comprend bien vite que le levain, ça change tout : le goût, la tenue, la mie, la conservation... c'est vraiment radical ! [![pain boule au levain](https://crokmou.com/images/pain-boule-levain-1.jpg)](https://crokmou.com/images/pain-boule-levain-1.jpg)
 
 ##### Recette
 

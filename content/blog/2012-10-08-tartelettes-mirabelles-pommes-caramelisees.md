@@ -58,7 +58,7 @@ Léon se retrouve donc dans la bannière du blog mais aussi dans le nouveau logo
 
 Qu'en pensez vous ? Sympa non ? En tout cas je tiens à remercier Tom Haidopoulo (bientôt un petit article sur la présentation de son site et ses illustrations) pour son travail et son talent ! Et merci à vous, lecteurs, d'avoir voté pour votre logo préféré sur les réseaux sociaux !
 
-On oublie pas non plus que dans 2 jours, [le concours qui vous permet de gagner un tablier personnalisé](http://www.crokmou.com/2012/09/gagnez-un-tablier-de-cuisine.html) se termine ! N'hésitez pas à participer, c'est facile et ouvert à tous !
+On oublie pas non plus que dans 2 jours, [le concours qui vous permet de gagner un tablier personnalisé](https://crokmou.com/2012/09/gagnez-un-tablier-de-cuisine.html) se termine ! N'hésitez pas à participer, c'est facile et ouvert à tous !
 
 Des bisous les amis !
 

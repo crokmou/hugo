@@ -40,7 +40,7 @@ _[English recipe](https://lh6.googleusercontent.com/-dXqjAPGHMNU/UQ_57DwSeKI/AAA
 
 <tr>
 
-<td style="text-align: center;">[![](https://crokmou.com/images/soup_of_zucchinis_with_the_laughing_cow-300x2121-300x212.jpg)](http://www.crokmou.com/wp-content/uploads/2013/02/soup_of_zucchinis_with_the_laughing_cow-300x2121.jpg)</td>
+<td style="text-align: center;">[![](https://crokmou.com/images/soup_of_zucchinis_with_the_laughing_cow-300x2121-300x212.jpg)](https://crokmou.com/images/soup_of_zucchinis_with_the_laughing_cow-300x2121.jpg)</td>
 
 </tr>
 

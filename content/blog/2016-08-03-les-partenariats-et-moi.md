@@ -10,7 +10,7 @@ description: "Bonjour mes petits moldus ! Je vous avais déjà un peu parlé de 
 slug: "les-partenariats-et-moi"
 ---
 
-Bonjour mes petits moldus ! Je vous avais déjà un peu parlé de **la magie des partenariats** il y a quelques temps avec l'article "[Un blog c'est aussi...](http://www.crokmou.com/2015/07/un-blog-cest-aussi)" mais cette fois j'ai envie d'approfondir un peu le sujet afin de _vous éclairer un peu sur un univers souvent caché et décrié_. Lorsque tu créés un blog (qui ce soit pour la gloire, l'argent ou le simple plaisir), tu es amené à un moment donné à parler partenariat et échange avec diverses marques et agences. Au début c'est parfois la cata, tu acceptes un peu tout ce qui te tombe sous la main, et puis avec le temps tu apprends. Je vais donc comme je peux vous décrire les différents partenariats abordés et la manière dont se passent les choses pour moi :
+Bonjour mes petits moldus ! Je vous avais déjà un peu parlé de **la magie des partenariats** il y a quelques temps avec l'article "[Un blog c'est aussi...](https://crokmou.com/2015/07/un-blog-cest-aussi)" mais cette fois j'ai envie d'approfondir un peu le sujet afin de _vous éclairer un peu sur un univers souvent caché et décrié_. Lorsque tu créés un blog (qui ce soit pour la gloire, l'argent ou le simple plaisir), tu es amené à un moment donné à parler partenariat et échange avec diverses marques et agences. Au début c'est parfois la cata, tu acceptes un peu tout ce qui te tombe sous la main, et puis avec le temps tu apprends. Je vais donc comme je peux vous décrire les différents partenariats abordés et la manière dont se passent les choses pour moi :
 
 ## Obtenir un partenariat
 

@@ -36,7 +36,7 @@ A la maison pas de couronne dorée, j'ai donc réalisé ma propre couronne, hey 
 
 Pour ce faire, rien de bien compliqué : Trouvez un patron de couronne sur internet (Google est votre ami), à l'aide de Paint, Gimp, Photo Filtre, Photoshop ou autre logiciel de retouche/dessin, ajoutez tout ce qu'il vous plait sur votre couronne. Imprimez et collez ensuite la feuille sur du papier carton (canson pour ma part). Découpez ensuite selon les contours de la couronne, agrafez et le tour est joué ! Simple non ? De plus votre couronne sera unique en son genre !
 
-[![](https://crokmou.com/images/20130102_galette_roi_amande_torrefie_0050-200x3001-200x300.jpg)](http://www.crokmou.com/wp-content/uploads/2013/01/20130102_galette_roi_amande_torrefie_0050-200x3001.jpg)
+[![](https://crokmou.com/images/20130102_galette_roi_amande_torrefie_0050-200x3001-200x300.jpg)](https://crokmou.com/images/20130102_galette_roi_amande_torrefie_0050-200x3001.jpg)
 
 A l'avance je vous souhaite donc une belle Epiphanie et un bon dimanche ! Des bisous mes loulous (oui ca change un peu des gourmands) !
 

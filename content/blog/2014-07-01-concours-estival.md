@@ -10,7 +10,7 @@ description: ""
 slug: "concours-estival"
 ---
 
-[![](https://crokmou.com/images/concours-ete11.jpg)](http://www.crokmou.com/wp-content/uploads/2014/07/concours-ete11.jpg)
+[![](https://crokmou.com/images/concours-ete11.jpg)](https://crokmou.com/images/concours-ete11.jpg)
 
 Il y a quelques jours j'ai précisé sur la page Facebook du blog qu'un concours se préparait pour l'été, et bien nous voici ! Demain je vais fêter mes 23 été et j'en profite donc pour vous donner l'occasion de peut être gagner de superbes cadeaux _(Oui je sais je suis trop sympa)_!
 
@@ -20,11 +20,11 @@ Mais avant de tout vous expliquer, j'aimerai vous présenter les partenaires san
 
  1 )
 
-[![](https://crokmou.com/images/logo1.png)](http://www.crokmou.com/wp-content/uploads/2014/07/logo1.png)
+[![](https://crokmou.com/images/logo1.png)](https://crokmou.com/images/logo1.png)
 
-[Casa di Cecco](http://www.casadicecco.com/), je vous ai présenté cette petite entreprise lorsque j'ai publié un article sur leur [polenta aux cèpes](http://www.crokmou.com/2013/11/polenta-aux-cepes-casa-di-cecco.html) en novembre dernier.  Pour ceux qui ne s'en souviennes pas je vais donc vous rappeler de quoi il s'agit par ici.
+[Casa di Cecco](http://www.casadicecco.com/), je vous ai présenté cette petite entreprise lorsque j'ai publié un article sur leur [polenta aux cèpes](https://crokmou.com/2013/11/polenta-aux-cepes-casa-di-cecco.html) en novembre dernier.  Pour ceux qui ne s'en souviennes pas je vais donc vous rappeler de quoi il s'agit par ici.
 
-[![](https://crokmou.com/images/1391622_544453588962730_1728755809_n1.jpg)](http://www.crokmou.com/wp-content/uploads/2014/07/1391622_544453588962730_1728755809_n1.jpg)
+[![](https://crokmou.com/images/1391622_544453588962730_1728755809_n1.jpg)](https://crokmou.com/images/1391622_544453588962730_1728755809_n1.jpg)
 
 [Casa di Cecco](http://www.casadicecco.com/) c'est l'aventure de Marco et Marion, un couple Franco-Italien. Marco est originaire des Abruzzes, et issu d'une famille de plusieurs générations de pastai (entendez par là ceux qui fabriquent des pâtes), Marion, elle est Française et à découvert toute cette gastronomie grâce à son mari. Tous deux passionnés de cuisine, ils se sont lancés il y a un an environ dans l'idée de partager le savoir faire lié à la pasta artisanale en France. Installés en Haute-Savoie ils commercialisent alors des produits Italiens (venant notamment des Abruzzes) de qualités sous leur propre marque "[Casa di Cecco](http://www.casadicecco.com/)". C'est une petite entreprise remplie de joie et de bonne humeur avec pour choix une marque fondée sur le responsable et le durable.
 
@@ -86,5 +86,5 @@ Une [plancha](http://www.rueducommerce.fr/m/pl/malid:15123295) de table (d'une 
 
 #### FIN DU CONCOURS LE 1 AOUT 2014 À 00H
 
-[![](https://crokmou.com/images/crab51.gif)](http://www.crokmou.com/wp-content/uploads/2014/07/crab51.gif)
+[![](https://crokmou.com/images/crab51.gif)](https://crokmou.com/images/crab51.gif)
 

@@ -62,7 +62,7 @@ Je l'ai dit plus haut et n'hésite pas à vous le dire une seconde fois, perdez-
 
 {{< img src="https://crokmou.com/images/fontaine-trevi-cinemagraph-crokmou.gif" alt="Fontaine de trévi cinemagraph - Citytrip à Rome" >}}
 
-*   Juste derrière notre Hôtel se trouvait le **Parc de la Villa Borghese,** un coin de Paradis en plein coeur de la ville. Je ne vais pas tout vous raconter ici, [un article tout entier](http://www.crokmou.com/2017/01/visiter-jardins-villa-borghese-rome) est dédié à ce parc enchanteur !
+*   Juste derrière notre Hôtel se trouvait le **Parc de la Villa Borghese,** un coin de Paradis en plein coeur de la ville. Je ne vais pas tout vous raconter ici, [un article tout entier](https://crokmou.com/2017/01/visiter-jardins-villa-borghese-rome) est dédié à ce parc enchanteur !
 
 {{< img src="https://crokmou.com/images/weekend-rome-italie-crokmou-blog-cuisine-voyage-belgique-29.jpg" alt="Villa Borghese - Citytrip à Rome" >}}
 
@@ -74,13 +74,13 @@ Je l'ai dit plus haut et n'hésite pas à vous le dire une seconde fois, perdez-
 
 {{< img src="https://crokmou.com/images/weekend-rome-italie-crokmou-blog-cuisine-voyage-belgique-43.jpg" alt="Place Saint Pierre Vatican - Citytrip à Rome" >}}
 
-*   Non loin du Vatican se trouve le **Château Saint-Ange**. Un monument à voir sans hésitations ! Je vous en parle [au travers d'un autre billet](http://www.crokmou.com/2017/04/visite-chateau-saint-ange-rome) puisque j'ai visité le mausolée de l'intérieur et se fût une belle découverte.
+*   Non loin du Vatican se trouve le **Château Saint-Ange**. Un monument à voir sans hésitations ! Je vous en parle [au travers d'un autre billet](https://crokmou.com/2017/04/visite-chateau-saint-ange-rome) puisque j'ai visité le mausolée de l'intérieur et se fût une belle découverte.
 
 {{< img src="https://crokmou.com/images/weekend-rome-italie-crokmou-blog-cuisine-voyage-belgique-68.jpg" alt="Vue chateau Saint-Ange - Citytrip à Rome" >}}
 
 ## 2 - Se loger à Rome
 
-*   Tout comme mon [Citytrip à Rotterdam](http://www.crokmou.com/2016/11/citytrip-a-rotterdam), là encore je n'ai fait qu'un Hôtel. Ayant gagné une box dans laquelle je pouvais choisir parmi 2 établissements à Rome, j'ai choisi l'**Hôtel Savoy**. Celui-ci se trouve non loin du parc de la villa Borghese. Il y a tout le confort demandé pour un Hôtel : chambre correcte, petit déjeuner avec un bel assortiments composé de produits basiques. Malgré tout cela fait un peu vieillot, mais pas vieillot voulu, vieillot pas rafraichi depuis quelques années... C'est un peu dommage vu le prix des chambres à l'origine.Le restaurant de l'Hôtel dispose d'une très belle vue sur la Capitale. Les plats sont bons mais d'un mauvais rapport qualité/prix. Très peu dans l'assiette pour une addition assez salée (quand on compare avec les trattoria du coin)Petit plus, et pas des moindres, les chambres de l'Hôtel Savoy disposent d'un téléphone portable avec 4G. Cela nous a permis durant notre séjour de nous repérer et d'un regarder un peu ce qui se faisait de bon dans le coin où nous étions. _Via Ludovisi, 15, 00187 Roma_ - _[Site Internet](http://www.savoy.it/)_
+*   Tout comme mon [Citytrip à Rotterdam](https://crokmou.com/2016/11/citytrip-a-rotterdam), là encore je n'ai fait qu'un Hôtel. Ayant gagné une box dans laquelle je pouvais choisir parmi 2 établissements à Rome, j'ai choisi l'**Hôtel Savoy**. Celui-ci se trouve non loin du parc de la villa Borghese. Il y a tout le confort demandé pour un Hôtel : chambre correcte, petit déjeuner avec un bel assortiments composé de produits basiques. Malgré tout cela fait un peu vieillot, mais pas vieillot voulu, vieillot pas rafraichi depuis quelques années... C'est un peu dommage vu le prix des chambres à l'origine.Le restaurant de l'Hôtel dispose d'une très belle vue sur la Capitale. Les plats sont bons mais d'un mauvais rapport qualité/prix. Très peu dans l'assiette pour une addition assez salée (quand on compare avec les trattoria du coin)Petit plus, et pas des moindres, les chambres de l'Hôtel Savoy disposent d'un téléphone portable avec 4G. Cela nous a permis durant notre séjour de nous repérer et d'un regarder un peu ce qui se faisait de bon dans le coin où nous étions. _Via Ludovisi, 15, 00187 Roma_ - _[Site Internet](http://www.savoy.it/)_
 
 {{< img src="https://crokmou.com/images/weekend-rome-italie-crokmou-blog-cuisine-voyage-belgique-22.jpg" alt="" >}} {{< img src="https://crokmou.com/images/weekend-rome-italie-crokmou-blog-cuisine-voyage-belgique-18.jpg" alt="" >}} {{< img src="https://crokmou.com/images/weekend-rome-italie-crokmou-blog-cuisine-voyage-belgique-21.jpg" alt="" >}}
 

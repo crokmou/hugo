@@ -14,7 +14,7 @@
   {{end}}
   {{ $description := $description | plainify | safeHTML }}
 
-  <a class="card__thumbnail" href="{{$card.Permalink}}">
+  <a class="card__thumbnail" href="{{$card.Permalink}}" rel="xhr">
     {{$thumbnail := index $card.Params "thumbnail"}}
     {{$resizedThumbnail := replace $thumbnail "/upload/" "/upload/c_fill,h_460,w_768/" }}
     {{ partial "molecules/picture.html" (dict "src" $resizedThumbnail "alt" $card.Title "pb" "59.9%") }}

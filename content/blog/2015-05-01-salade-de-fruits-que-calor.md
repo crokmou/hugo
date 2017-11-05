@@ -42,6 +42,6 @@ J'ai longtemps détesté la salade de fruits, tout simplement parce que j'ai tou
 3.  Versez le sirop sur les fruits, couvrez d'un film plastique et réservez au frigo (lorsque la salade aura légèrement refroidie)
 4.  Dégustez bien frais, avec un peu d'amandes concassées sur le dessus !
 
-Et vous, quels sont vos fruits préférés dans vos salades ? Bon weekend mes pastèques ! Et n'oubliez pas, la semaine prochaine aura lieu [Culinaria](http://www.crokmou.com/culinaria-2014-un-sacre-festin/) ! Un événement gastronomique à ne pas rater !
+Et vous, quels sont vos fruits préférés dans vos salades ? Bon weekend mes pastèques ! Et n'oubliez pas, la semaine prochaine aura lieu [Culinaria](https://crokmou.com/culinaria-2014-un-sacre-festin/) ! Un événement gastronomique à ne pas rater !
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

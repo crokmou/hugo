@@ -14,7 +14,7 @@ En Belgique, les sauces naturelles [Natura](http://www.natura.be), 100% Belges,�
 
 {{< img src="https://crokmou.com/images/concours-natura-crokmou-blog-2.jpg" alt="sauces naturelles natura" >}}
 
-Et peut être que vous aussi vous avez prévu un barbecue dans les semaines à venir, je vous propose alors de gagner 4 Kit Découverte pour tester les sauces Natura sur votre bon morceau de viande (ou poisson)! Ça vous tente ? [![http://www.natura.be/uploads/produit/32/packsiteok-jpg](https://crokmou.com/images/packsiteok-jpg-e1434640308701.jpg)](http://www.crokmou.com/wp-content/uploads/2015/06/packsiteok-jpg-e1434640308701.jpg)**Laissez moi un petit commentaire sous cet article et répondez à cette question : qu'est ce qui fait selon vous une bonne mayonnaise ?**
+Et peut être que vous aussi vous avez prévu un barbecue dans les semaines à venir, je vous propose alors de gagner 4 Kit Découverte pour tester les sauces Natura sur votre bon morceau de viande (ou poisson)! Ça vous tente ? [![http://www.natura.be/uploads/produit/32/packsiteok-jpg](https://crokmou.com/images/packsiteok-jpg-e1434640308701.jpg)](https://crokmou.com/images/packsiteok-jpg-e1434640308701.jpg)**Laissez moi un petit commentaire sous cet article et répondez à cette question : qu'est ce qui fait selon vous une bonne mayonnaise ?**
 
 *   Une seule participation par personne. Toute personne susceptible de tricher sera automatiquement exclue du concours.
 *   Concours réservé aux personnes ayant **une adresse postale en Belgique**

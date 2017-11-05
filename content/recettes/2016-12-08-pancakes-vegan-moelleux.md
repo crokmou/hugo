@@ -70,7 +70,7 @@ recette_ingredients:
        - 11g de levure chimique + 2g de bicarbonate de soude
        - 50g de compote de pommes (ou de banane)
        - 300g de lait d'amande à température ambiante
-       - "40g de purée d'amandes (ma préférée se trouve chez [Keimling](http://www.crokmou.com/2014/08/keimling-specialiste-du-raw-food-concours))"
+       - "40g de purée d'amandes (ma préférée se trouve chez [Keimling](https://crokmou.com/2014/08/keimling-specialiste-du-raw-food-concours))"
 recette:
   - "Mélanger tous les ingrédients secs dans un cul de poule"
   - "Mélanger ensuite tous les ingrédients liquides (la compote avec la purée puis on ajoute le lait) dans un autre récipient"

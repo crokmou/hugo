@@ -39,9 +39,9 @@ Afin de servir toute la marmaille ou tout simplement les amis, vous n'aurez pas 
 
 **Et vous quels sont vos repas favoris durant ces longs mois d'hiver ?**
 
-(Je ne vous ai pas tout dit, j'aime aussi beaucoup la tartiflette et les [crozets savoyards](http://www.crokmou.com/2011/04/du-fromage-du-fromage-et-encore-du.html))
+(Je ne vous ai pas tout dit, j'aime aussi beaucoup la tartiflette et les [crozets savoyards](https://crokmou.com/2011/04/du-fromage-du-fromage-et-encore-du.html))
 
-[![](https://crokmou.com/images/20121201_raclette-savoie_MG_4556_e-CC-81-300x2001-300x200.jpg)](http://www.crokmou.com/wp-content/uploads/2012/12/20121201_raclette-savoie_MG_4556_e-CC-81-300x2001.jpg)
+[![](https://crokmou.com/images/20121201_raclette-savoie_MG_4556_e-CC-81-300x2001-300x200.jpg)](https://crokmou.com/images/20121201_raclette-savoie_MG_4556_e-CC-81-300x2001.jpg)
 
 Des bisous et faites attention à ne pas prendre froid !
 

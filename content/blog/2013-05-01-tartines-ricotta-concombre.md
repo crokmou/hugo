@@ -57,7 +57,7 @@ _[Recipe in English :](https://lh4.googleusercontent.com/-Qrj3EPIMDyw/UYD6eEeHHz
 
 <tr>
 
-<td style="text-align: center;">[![](https://crokmou.com/images/spring_tartine_ricotta_chive_radish_cucumber-300x2121-300x212.jpg)](http://www.crokmou.com/wp-content/uploads/2013/05/spring_tartine_ricotta_chive_radish_cucumber-300x2121.jpg)</td>
+<td style="text-align: center;">[![](https://crokmou.com/images/spring_tartine_ricotta_chive_radish_cucumber-300x2121-300x212.jpg)](https://crokmou.com/images/spring_tartine_ricotta_chive_radish_cucumber-300x2121.jpg)</td>
 
 </tr>
 
@@ -73,7 +73,7 @@ _[Recipe in English :](https://lh4.googleusercontent.com/-Qrj3EPIMDyw/UYD6eEeHHz
 
 Je m'excuse aussi pour le peu de choses sur le blog en ce moment, je suis en plein déménagement, les cartons tout ça, donc pas évident de cuisiner et de prendre des photos. En revanche comme vous l'avez certainement constaté, il m'est toujours possible de modifier le design du blog quand j'ai du temps hihi ! Profitez bien du retour du soleil, et bon 1er Mai à tous !
 
-Et n'oubliez pas [le concours](http://www.crokmou.com/2013/04/concours-anniversaire-2-ans-crokmou.html) !
+Et n'oubliez pas [le concours](https://crokmou.com/2013/04/concours-anniversaire-2-ans-crokmou.html) !
 
 _I apologize for the few articles on the blog at the moment. I am in moving, this not obvious to cook and take photos with all moving box. On the other hand how you certainly noticed it, it is always possible to me to modify the design of the blog when I have time hihi! Take advantage, please, of the return of the sun, and in good May 1st to all!_
 

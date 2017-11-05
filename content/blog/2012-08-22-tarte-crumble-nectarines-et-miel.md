@@ -30,11 +30,11 @@ Pour 6/8 personnes
 
 -1 pâte feuilletée -8 à 10 nectarines -2 càs de miel de lavande -100g de farine -100g de sucre -beurre salé (pommade)
 
-1- Préchauffez votre four à 180°C 2- Lavez, épluchez et dénoyautez vos nectarines, puis, coupez les en petits morceaux. 3- Faites caraméliser vos morceaux de fruits dans une poêle avec le miel de lavande 4- Tout en remuant vos fruits de temps en temps, préparez votre crumble : pour cela mélangez le sucre et la farine, ajoutez par petites touches des morceaux de beurre. Malaxez le tout, en rajoutant petit à petit du beurre jusqu'à ce que cela ressemble à des miettes (plus au moins grosses). Du crumble quoi ! 5- Une fois les nectarines caramélisées, disposez les sur votre pâte feuilletée, puis saupoudrez le tout de crumble. 6- Enfournez environ 30 à 40 min 7- Dégustez tiède ou froid, avec éventuellement une petit boule de [glace au yaourt](http://www.crokmou.com/2012/03/glace-au-yaourt.html) (ou à ce que vous voulez !)
+1- Préchauffez votre four à 180°C 2- Lavez, épluchez et dénoyautez vos nectarines, puis, coupez les en petits morceaux. 3- Faites caraméliser vos morceaux de fruits dans une poêle avec le miel de lavande 4- Tout en remuant vos fruits de temps en temps, préparez votre crumble : pour cela mélangez le sucre et la farine, ajoutez par petites touches des morceaux de beurre. Malaxez le tout, en rajoutant petit à petit du beurre jusqu'à ce que cela ressemble à des miettes (plus au moins grosses). Du crumble quoi ! 5- Une fois les nectarines caramélisées, disposez les sur votre pâte feuilletée, puis saupoudrez le tout de crumble. 6- Enfournez environ 30 à 40 min 7- Dégustez tiède ou froid, avec éventuellement une petit boule de [glace au yaourt](https://crokmou.com/2012/03/glace-au-yaourt.html) (ou à ce que vous voulez !)
 
-N'oubliez pas le [petit concours](http://www.crokmou.com/2012/08/concours-tirage-au-sort-pour-feter-la.html) organisé en partenariat avec [Rue du Commerce](http://rueducommerce.fr/), afin de peut être gagner deux petits livres Marabout. Vous n'avez rien à perdre, et tout à y gagner ! Cliquez sur l'image ci-dessous pour acceder au concours !
+N'oubliez pas le [petit concours](https://crokmou.com/2012/08/concours-tirage-au-sort-pour-feter-la.html) organisé en partenariat avec [Rue du Commerce](http://rueducommerce.fr/), afin de peut être gagner deux petits livres Marabout. Vous n'avez rien à perdre, et tout à y gagner ! Cliquez sur l'image ci-dessous pour acceder au concours !
 
-[![](http://1.bp.blogspot.com/-O4HP4nuUPfc/UCkFCYjUKKI/AAAAAAAADKY/0Cxf4_P5i_w/s320/les+tout+petits+marabout_bann.jpg)](http://www.crokmou.com/2012/08/concours-tirage-au-sort-pour-feter-la.html)
+[![](http://1.bp.blogspot.com/-O4HP4nuUPfc/UCkFCYjUKKI/AAAAAAAADKY/0Cxf4_P5i_w/s320/les+tout+petits+marabout_bann.jpg)](https://crokmou.com/2012/08/concours-tirage-au-sort-pour-feter-la.html)
 
 Je vous souhaite à tous une très belle journée, profitez en bien !
 

@@ -73,7 +73,7 @@ Il y a quelques temps, Fanny du blog Geek&Food m'a contacté pour participer à 
 
 La demande était assez simple, je devais choisir entre différents coffrets aux couleurs des packaging et réaliser une recette en gardant le ton du pack choisi. J'ai opté pour le vert en faisant une escale à Chandernagor. Je n'avais encore jamais mangé de riz parfumé, j'avoue que c'est une grande première pour moi... Le côté délicat et boisé de ce riz, il se sent bien, cela amène une note subtile au plat et c'est plutôt chouette !
 
-J'ai donc décidé de faire un petit plat simple aux saveurs Asiatiques : Du saumon à la sauce Teriyaki et un riz "cantonnais" avec des [edamames](http://www.crokmou.com/2013/01/edamame-feve-de-soya). Parfait pour se réconforter une froide soirée d'Hiver.  La sauce Teriyaki ajoute une délicieuse petite touche sucrée au plat ainsi qu'une belle caramélisation du saumon.
+J'ai donc décidé de faire un petit plat simple aux saveurs Asiatiques : Du saumon à la sauce Teriyaki et un riz "cantonnais" avec des [edamames](https://crokmou.com/2013/01/edamame-feve-de-soya). Parfait pour se réconforter une froide soirée d'Hiver.  La sauce Teriyaki ajoute une délicieuse petite touche sucrée au plat ainsi qu'une belle caramélisation du saumon.
 
 {{< recette >}}
 

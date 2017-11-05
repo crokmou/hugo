@@ -17,7 +17,7 @@ description: "... J'ai opté pour le plus simple mais pas pour autant moins gour
 recette_qty: "Pour 1l de glace"
 recette_temps: "Préparation : 10 minutes | Attente : 12 heures | Cuisson : 10 minutes"
 recette_ingredients: "<ul>
-	<li>900ml de <a title=\"Lait de noisettes maison, fève tonka, vanille\" href=\"http://www.crokmou.com/lait-de-noisettes-maison-feve-tonka-vanille/\" target=\"_blank\">lait de noisettes, fève tonka, vanille</a></li>
+	<li>900ml de <a title=\"Lait de noisettes maison, fève tonka, vanille\" href=\"https://crokmou.com/lait-de-noisettes-maison-feve-tonka-vanille/\" target=\"_blank\">lait de noisettes, fève tonka, vanille</a></li>
 	<li>60g de glucose atomisé</li>
 	<li>3 jaunes d'oeuf</li>
 	<li>noisettes concassées</li>
@@ -27,7 +27,7 @@ recette_ingredients: "<ul>
 slug: "glace-au-lait-de-noisettes"
 ---
 
-La semaine dernière j'ai publié une petite recette de [lait de noisettes maison à la vanille et fève Tonka](http://www.crokmou.com/lait-de-noisettes-maison-feve-tonka-vanille/ "Lait de noisettes maison, fève tonka, vanille"). Cette boisson ne se gardant que quelques jours au frigo je me suis dit qu'il serait peut être pas mal de vous proposer une recette avec ce lait végétal. J'ai opté pour le plus simple mais pas pour autant moins gourmand : la glace au lait de noisettes en y ajoutant quelques éclats de noisettes caramélisés. Une tuerie ! Naturellement rien ne vous empêche de remplacer le lait de noisette par du lait d'amande ou tout autre lait végétal, il en est de même pour les fruits à coque.
+La semaine dernière j'ai publié une petite recette de [lait de noisettes maison à la vanille et fève Tonka](https://crokmou.com/lait-de-noisettes-maison-feve-tonka-vanille/ "Lait de noisettes maison, fève tonka, vanille"). Cette boisson ne se gardant que quelques jours au frigo je me suis dit qu'il serait peut être pas mal de vous proposer une recette avec ce lait végétal. J'ai opté pour le plus simple mais pas pour autant moins gourmand : la glace au lait de noisettes en y ajoutant quelques éclats de noisettes caramélisés. Une tuerie ! Naturellement rien ne vous empêche de remplacer le lait de noisette par du lait d'amande ou tout autre lait végétal, il en est de même pour les fruits à coque.
 
 ##### Recette
 

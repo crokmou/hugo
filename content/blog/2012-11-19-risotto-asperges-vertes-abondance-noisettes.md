@@ -38,16 +38,16 @@ Qu'en dites vous ? Pour ma part cela change un peu de la raclette et de la tarti
 
 Dans la semaine je vous ferez un petit compte rendu de mon voyage à Paris, avec mon petit parcours gourmands, mes achats, mes découvertes (expositions, magasins...) etc etc
 
-Mais en attendant j'ai ajouté une petite nouveauté sur le blog (chose que j'ai vu sur je ne sais plus bien quel blog) : [Une carte avec les différents endroits que je vous recommande](http://www.crokmou.com/p/bonnes-adresses_18.html), tels que des restaurants ou des magasins gourmands ! Retrouvez le lien pour acceder à la carte dans la sidebar de droite sous cette forme :
+Mais en attendant j'ai ajouté une petite nouveauté sur le blog (chose que j'ai vu sur je ne sais plus bien quel blog) : [Une carte avec les différents endroits que je vous recommande](https://crokmou.com/p/bonnes-adresses_18.html), tels que des restaurants ou des magasins gourmands ! Retrouvez le lien pour acceder à la carte dans la sidebar de droite sous cette forme :
 
 Bonnes adresses :
 
-[![](http://4.bp.blogspot.com/-LyIjND5tRgY/UKlYirvssvI/AAAAAAAAFPk/wKhXkdau1Tg/s1600/carte_bonnes_adresses.png)](http://www.crokmou.com/p/bonnes-adresses_18.html)
+[![](http://4.bp.blogspot.com/-LyIjND5tRgY/UKlYirvssvI/AAAAAAAAFPk/wKhXkdau1Tg/s1600/carte_bonnes_adresses.png)](https://crokmou.com/p/bonnes-adresses_18.html)
 
 Selon vous c'est une bonne idée ?
 
-Une bonne soirée à tous et n'oubliez pas [mon concours de cuisine cupcakes](http://www.crokmou.com/2012/10/concours-recette-cupcake-partenaire-petitplat.fr.html) qui se termine à la fin de la semaine ! Si vous aviez prévu de m'envoyer une recette, mettez vous donc vite en cuisine ;)
+Une bonne soirée à tous et n'oubliez pas [mon concours de cuisine cupcakes](https://crokmou.com/2012/10/concours-recette-cupcake-partenaire-petitplat.fr.html) qui se termine à la fin de la semaine ! Si vous aviez prévu de m'envoyer une recette, mettez vous donc vite en cuisine ;)
 
-[![](http://1.bp.blogspot.com/-sCWuqO1aUns/UIztj8sr84I/AAAAAAAAE5Y/KI6wtOp2oxg/s640/concours_recettes_cupcakes_crokmou_partenaire_petitplat.fr_bann.jpg)](http://www.crokmou.com/2012/10/concours-recette-cupcake-partenaire-petitplat.fr.html)
+[![](http://1.bp.blogspot.com/-sCWuqO1aUns/UIztj8sr84I/AAAAAAAAE5Y/KI6wtOp2oxg/s640/concours_recettes_cupcakes_crokmou_partenaire_petitplat.fr_bann.jpg)](https://crokmou.com/2012/10/concours-recette-cupcake-partenaire-petitplat.fr.html)
 
 [**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○

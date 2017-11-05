@@ -20,7 +20,7 @@ description: ""
 slug: "eclairs-feve-tonka-chocolat-noir"
 ---
 
-Salut les gourmands ! J'espère que vous vous portez bien ! Comme je l'ai dit sur [mon Facebook](https://www.facebook.com/pages/CroKMou/148093255259077) il y a quelques temps, j'ai décidé de me mettre aux **bases de la boulangerie/pâtisserie** une fois par semaine. Jeudi dernier c'était la [baguette tradition](http://www.crokmou.com/2014/02/baguette-tradition.html), cette semaine j'avais envie de me mettre à la pâte à choux et plus spécifiquement aux **éclairs**.
+Salut les gourmands ! J'espère que vous vous portez bien ! Comme je l'ai dit sur [mon Facebook](https://www.facebook.com/pages/CroKMou/148093255259077) il y a quelques temps, j'ai décidé de me mettre aux **bases de la boulangerie/pâtisserie** une fois par semaine. Jeudi dernier c'était la [baguette tradition](https://crokmou.com/2014/02/baguette-tradition.html), cette semaine j'avais envie de me mettre à la pâte à choux et plus spécifiquement aux **éclairs**.
 
 Certains vous dirons qu'il n'y a rien de plus simple que la pâte à choux, moi je vous dirais qu'il faut de l'entrainement et de la persévérance. J'avais tenté il y a déjà un an, sans succès, j'ai donc recommencé (un jour je ferais de même avec ces foutus macarons) et cette fois le résultat est bien meilleur. Enfin oui et non, j'ai quand même réalisé deux fois ma pâte à choux, au premier essai celle-ci ne s'était pas décidé à gonfler, les éclairs étaient donc tout plats. Mais il en faut plus pour me décourager, oui oui oui !
 

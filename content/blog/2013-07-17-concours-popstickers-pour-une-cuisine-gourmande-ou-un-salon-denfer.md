@@ -34,7 +34,7 @@ Je sais que cela ne correspond pas tout à fait à ce que je peux vous faire gag
 
   - Vous devrez écrire un commentaire sous cet article (à l'aide d'une adresse mail valide) en répondant à cette question :**Qu'aimeriez vous voir de plus sur [Popstickers](http://www.popstickers.fr/) (stickers, fonctionnalités...) ?**
 
-- Aimer la page[Facebook Crokmou](https://www.facebook.com/pages/CroKMou/148093255259077)ou vous inscrire à [ma newsletter](http://www.crokmou.com/p/newsletter_18.html)  
+- Aimer la page[Facebook Crokmou](https://www.facebook.com/pages/CroKMou/148093255259077)ou vous inscrire à [ma newsletter](https://crokmou.com/p/newsletter_18.html)  
   +1 chance :
 
 - Aimer la page[<span style="list-style-image: initial; list-style-position: initial;">FacebookPopstickers](https://www.facebook.com/pages/Popstickers/125529234290742?ref=hl)</span>

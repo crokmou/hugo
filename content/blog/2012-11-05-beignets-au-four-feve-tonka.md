@@ -40,7 +40,7 @@ Environ 20 beignets
 
 Ces petits beignets sont un délice, mais il est vrai qu'ils ne tiennent pas très longtemps, ils deviennent vite durs. C'est très bon mais la texture avec le beignet frit est encore bien différente, ici cela ressemble plus à des petits pains moelleux ! Néanmoins cela se mange toujours sans faim, avec un peu de confiture ou de pâte à tartiner... je vous laisse imaginer ce que vous voulez !
 
-**Avez vous déjà testé ce genre de beignets au four ?** Je vous souhaite bon courage pour cette nouvelle semaine à venir et régalez vous bien ! Des bisous (et on n'oublie surtout pas [mon petit concours cupcakes](http://www.crokmou.com/2012/10/concours-recette-cupcake-partenaire-petitplat.fr.html) oui oui ouiiii !)
+**Avez vous déjà testé ce genre de beignets au four ?** Je vous souhaite bon courage pour cette nouvelle semaine à venir et régalez vous bien ! Des bisous (et on n'oublie surtout pas [mon petit concours cupcakes](https://crokmou.com/2012/10/concours-recette-cupcake-partenaire-petitplat.fr.html) oui oui ouiiii !)
 
 [![](http://www.deviantart.com/download/40823647/Sprinkley_Cupcake_icon_by_u_smell_like_inu_poo.gif)](http://www.deviantart.com/download/40823647/Sprinkley_Cupcake_icon_by_u_smell_like_inu_poo.gif)
 

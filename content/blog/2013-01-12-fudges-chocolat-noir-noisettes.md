@@ -26,7 +26,7 @@ Pour 1 moule carré de 15x15cm
 
 **Avez vous déjà goûté les fudges ?** Pour ma part c'était la première fois et je ne suis pas déçue ! Conservez ces petites friandises au frais, au risque qu'ils deviennent mous très mous. Vous pouvez aussi changer les ingrédients comme par exemple sur le blog [Les yeux plus gros que le ventre](http://www.lesyeuxplusgrosqueleventre.com/le-fudge-cest-anglais-mais-cest-bon/) (là où j'ai trouvé la recette): chocolat blanc/cranberrie/noix de pécan, praliné/amande/noisette, chocolat noir/noix ou encore des fudges au spéculoos, à la vanille... des tas d'idées à disposition !
 
-[![](https://crokmou.com/images/20130109_fudge_chocolat_noir_noisette_0004-200x3001-200x300.jpg)](http://www.crokmou.com/wp-content/uploads/2013/01/20130109_fudge_chocolat_noir_noisette_0004-200x3001.jpg)
+[![](https://crokmou.com/images/20130109_fudge_chocolat_noir_noisette_0004-200x3001-200x300.jpg)](https://crokmou.com/images/20130109_fudge_chocolat_noir_noisette_0004-200x3001.jpg)
 
 Je vous souhaite à tous de passer un très bon week end, profitez bien ! Mon week end à moi c'est courses, recettes, photos, repos... un bon petit week end quoi, et le votre ?
 

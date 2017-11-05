@@ -14,7 +14,7 @@ tags:
 description: "Une petite recette de galette aux pommes toute croquante/fondante pour réchauffer votre Dimanche et faire plaisir à tous les gourmands !"
 recette_qty: "Pour une galette"
 recette_temps: "Préparation : 10 minutes  | Cuisson : 50 minutes"
-recette_ingredients: "- 400g de <a title=\"Pâte feuilletée inversée de Pierre Hermé\" href=\"http://www.crokmou.com/pate-feuilletee-inversee-de-pierre-herme/\" target=\"_blank\">pâte feuilletée inversée </a>
+recette_ingredients: "- 400g de <a title=\"Pâte feuilletée inversée de Pierre Hermé\" href=\"https://crokmou.com/pate-feuilletee-inversee-de-pierre-herme/\" target=\"_blank\">pâte feuilletée inversée </a>
 
 - 2/3 pommes Janagold
 

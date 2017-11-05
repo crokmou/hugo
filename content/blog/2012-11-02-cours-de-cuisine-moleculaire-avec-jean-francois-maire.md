@@ -66,7 +66,7 @@ Tel : 03 81 80 03 90
 
 [contact@academieculinaire.fr](mailto:contact@academieculinaire.fr)
 
-[Site Internet](http://www.academieculinaire.fr/) Bon vendredi à toutes et à tous ! Passez un bon week end (et n'oubliez pas [mon concours cupcakes](http://www.crokmou.com/2012/10/concours-recette-cupcake-partenaire-petitplat.fr.html) !)
+[Site Internet](http://www.academieculinaire.fr/) Bon vendredi à toutes et à tous ! Passez un bon week end (et n'oubliez pas [mon concours cupcakes](https://crokmou.com/2012/10/concours-recette-cupcake-partenaire-petitplat.fr.html) !)
 
 [**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○
 

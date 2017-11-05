@@ -37,6 +37,6 @@ Décidément en ce moment je ne fais que des recettes de mon chez moi ! Voici do
 4.  Versez votre pâte (un peu liquide encore c'est normal) dans un moule à cake préalablement beurré et fariné.
 5.  Enfournez pour 1h/1h15 environ, comme pour un cake, le dessus du pudding doit être doré et lorsque vous enfoncez une lame de couteau dans la préparation, celui-ci doit ressortir sec
 
-Avez vous déjà réalisé ce petit dessert ? Si oui qu'en avez vous pensé et si non êtes vous tentés ? J'en profites aussi pour vous communiquer les résultats du concours en **[partenariat avec Bake](http://www.crokmou.com/made-by-bake-des-cookies-a-tomber/ "Made by Bake, des cookies à tomber !")** : La gagnante est donc Hong-Nhi Diep ! Bravo à elle et merci à tout ceux qui ont participé ! Je vous souhaite une bonne journée mes petits donuts, et une bonne fin de semaine !
+Avez vous déjà réalisé ce petit dessert ? Si oui qu'en avez vous pensé et si non êtes vous tentés ? J'en profites aussi pour vous communiquer les résultats du concours en **[partenariat avec Bake](https://crokmou.com/made-by-bake-des-cookies-a-tomber/ "Made by Bake, des cookies à tomber !")** : La gagnante est donc Hong-Nhi Diep ! Bravo à elle et merci à tout ceux qui ont participé ! Je vous souhaite une bonne journée mes petits donuts, et une bonne fin de semaine !
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

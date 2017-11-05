@@ -49,7 +49,7 @@ $(document).ready(function() {
       return false;
     }
 
-    $pageContainer.on('click', '.js-page-link, .pagination a', function(event) {
+    $pageContainer.on('click', '[rel="xhr"], .pagination a', function(event) {
       event.preventDefault();
       if (window.location === this.href) {
         return;

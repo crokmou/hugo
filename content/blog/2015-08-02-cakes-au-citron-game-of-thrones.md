@@ -51,6 +51,6 @@ En effet à travers le film et les différents écrits de Mr Martin, les cakes o
 8.  Une fois les cakes sortis du four, les démouler et les badigeonner de jus de citron. Laisser refroidir
 9.  Dans un bol, faire un mélange de sucre glace et d'eau (ou de jus de citron pour un goût encore plus prononcé). Le dosage se fait à l’œil cela doit faire une pâte ni trop coulante ni trop épaisse. Couler le glaçage sur les cakes, parsemer de zestes de citrons.
 
-Et si vous aimez les recettes imaginées à partir de films, séries etc je vous conseille de lire [Gastronogeek](http://www.crokmou.com/2015/01/gastronogeek-le-livre-parfait-pour-moi) ! pâtiss
+Et si vous aimez les recettes imaginées à partir de films, séries etc je vous conseille de lire [Gastronogeek](https://crokmou.com/2015/01/gastronogeek-le-livre-parfait-pour-moi) ! pâtiss
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

@@ -17,7 +17,7 @@ slug: "mais-grille-au-four"
 
 Bonjour les gourmands ! En ce lundi pluvieux je vous présente une recette simple et rapide qui vous emmènera tout droit en Amérique : du **maïs grillé au [four](http://www.rueducommerce.fr/m/pl/malid:9404136)** (ou [mini four](http://www.rueducommerce.fr/m/pl/malid:34567022))! Bon je suis d'accord c'est encore meilleur au barbecue, néanmoins au [four](http://www.rueducommerce.fr/m/pl/malid:9404136) cela reste délicieux. Cette recette est parfaite pour une soirée entre amis ou tout simplement un plateau télé, pas besoin de [couverts de table](http://www.rueducommerce.fr/m/pl/malid:43774575), on grignotte et c'est tout !
 
-Quand j'était petite mon papa faisait souvent du maïs aux barbecues du Dimanche (l'été naturellement), on invitait la famille tout ça, c'était festif ! Bien que la période du maïs se termine déjà, il était primordial pour moi de vous caser cette recette avant l'année prochaine ! Et si vous désirez plus de renseignements sur le maïs, je vous invite à [lire mon précédent article sur la question](http://www.crokmou.com/2012/10/legume-de-saison-le-mais-resultats-du.html)
+Quand j'était petite mon papa faisait souvent du maïs aux barbecues du Dimanche (l'été naturellement), on invitait la famille tout ça, c'était festif ! Bien que la période du maïs se termine déjà, il était primordial pour moi de vous caser cette recette avant l'année prochaine ! Et si vous désirez plus de renseignements sur le maïs, je vous invite à [lire mon précédent article sur la question](https://crokmou.com/2012/10/legume-de-saison-le-mais-resultats-du.html)
 
 Voici donc la recette :
 

@@ -21,7 +21,7 @@ description: ""
 slug: "feuilletes-boudin-blanc-figues-poires"
 ---
 
-[![](https://crokmou.com/images/20121203_amuse_bouche_noel_boudin_blanc_figue_poire_cannelle_thym_0017_bann-300x1791-300x179.jpg)](http://www.crokmou.com/wp-content/uploads/2012/12/20121203_amuse_bouche_noel_boudin_blanc_figue_poire_cannelle_thym_0017_bann-300x1791.jpg)
+[![](https://crokmou.com/images/20121203_amuse_bouche_noel_boudin_blanc_figue_poire_cannelle_thym_0017_bann-300x1791-300x179.jpg)](https://crokmou.com/images/20121203_amuse_bouche_noel_boudin_blanc_figue_poire_cannelle_thym_0017_bann-300x1791.jpg)
 
 Bonsoir les gourmands ! Me voilà de retour avec une autre petite recette spéciale fêtes de Noël ! Je crois qu'au réveillon ce que j'aime le plus manger, ce sont les petits amuses bouche ! C'est rapide, facile à manger, et il y'en a pour tous les goûts : fromage, champignons, jambon, tomates, feuilleté, craquant, croquant, sucré/salé, moelleux... et j'en passe ! Pour ma part j'aime beaucoup les alliances sucrées/salées, et c'est ce que j'ai voulu vous faire ce soir !
 

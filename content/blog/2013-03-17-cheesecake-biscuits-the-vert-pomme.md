@@ -40,7 +40,7 @@ _For those who do not still know the Destree cookie factory: " Stephen Destree, 
 
 _I can assure you that his biscuits are really delicious! The first time when I tasted them, I have to admit that I had never taste a texture similar, it is soft and crisp at the same time, it is light, it is plainly the best biscuits that I have never eaten (especially the salted butter fudge). If you wish to know the range of products I invite you to go on [the website of the cookie factory](http://www.biscuiteriedestree.be/index-en.php)._
 
-[![](https://crokmou.com/images/backstage_cheesecake_biscuit_the_vert_pomme_biscuiterie_destree1.jpg)](http://www.crokmou.com/wp-content/uploads/2013/03/backstage_cheesecake_biscuit_the_vert_pomme_biscuiterie_destree1.jpg)
+[![](https://crokmou.com/images/backstage_cheesecake_biscuit_the_vert_pomme_biscuiterie_destree1.jpg)](https://crokmou.com/images/backstage_cheesecake_biscuit_the_vert_pomme_biscuiterie_destree1.jpg)
 
 Pour réaliser cette recette vous aurez besoin d'une [casserole](http://www.rueducommerce.fr/index/casserole%20fonte), d'un [cul de poule](http://www.rueducommerce.fr/m/pl/malid:48515370) (ou saladier), d'un [fouet](http://www.rueducommerce.fr/index/ustensile%20Fouet%20inox) tout droit sorti de votre [matériel à pâtisserie](http://www.rueducommerce.fr/m/pl/malid:12468605), d'une [feuille de cuisson](http://www.rueducommerce.fr/index/feuille%20de%20cuisson), de 4 [cercles de présentation](http://www.rueducommerce.fr/index/cercle%20de%20presentation) d'environ 7cm de diamètre et d'un [couteau](http://www.rueducommerce.fr/m/pl/malid:12468606) (fort utile pour démouler ici).
 
@@ -66,7 +66,7 @@ _ _
 
 <tr>
 
-<td style="text-align: center;">[![](https://crokmou.com/images/cheesecakes_green_tea_apple_biscuits-300x2121-300x212.jpg)](http://www.crokmou.com/wp-content/uploads/2013/03/cheesecakes_green_tea_apple_biscuits-300x2121.jpg)</td>
+<td style="text-align: center;">[![](https://crokmou.com/images/cheesecakes_green_tea_apple_biscuits-300x2121-300x212.jpg)](https://crokmou.com/images/cheesecakes_green_tea_apple_biscuits-300x2121.jpg)</td>
 
 </tr>
 

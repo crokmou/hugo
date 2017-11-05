@@ -23,9 +23,9 @@ recette_ingredients: "<ul>
 slug: "confiture-de-chataignes"
 ---
 
-[ ](http://www.crokmou.com/wp-content/uploads/2013/11/photographie_confiture_chataigne_creme_marron-5-1.jpg)
+[ ](https://crokmou.com/images/photographie_confiture_chataigne_creme_marron-5-1.jpg)
 
-Un an, un an que je suis tombée amoureuse de la châtaigne ! Avant cela, c'était fictif pour moi... j'avais déjà vu et revu les marchands de marrons chauds, j'étais passé des centaines de fois devant de la crème de marrons, mais jamais je n'avais pris le temps d'en déguster... Jusqu'au jour où Delhaize m'a offert mon premier [paquet de marrons glacés](http://www.crokmou.com/2013/01/marron-glace-artisan-provencal-delhaize.html)... et là se fût... une révélation ! L'année dernière j'ai par la suite acheté 2/3 paquets de ces délicieuses cochoncetés pour être certaine de tenir jusqu'à l'année d'après !
+Un an, un an que je suis tombée amoureuse de la châtaigne ! Avant cela, c'était fictif pour moi... j'avais déjà vu et revu les marchands de marrons chauds, j'étais passé des centaines de fois devant de la crème de marrons, mais jamais je n'avais pris le temps d'en déguster... Jusqu'au jour où Delhaize m'a offert mon premier [paquet de marrons glacés](https://crokmou.com/2013/01/marron-glace-artisan-provencal-delhaize.html)... et là se fût... une révélation ! L'année dernière j'ai par la suite acheté 2/3 paquets de ces délicieuses cochoncetés pour être certaine de tenir jusqu'à l'année d'après !
 
 Me voilà donc de retour avec les châtaignes : oui je dis bien châtaignes car j'ai appris il y a quelques jours que les marrons ne se mangeaient pas et qu'en fait ce que l'on appelle marron c'est une variété de châtaignes... Cette fois pas (encore) de marrons glacés mais une petite confiture automnale qui réconfortera vos tartines (faute de confiture de fraises).
 
@@ -47,4 +47,4 @@ Assez parlé nature maintenant passons à la cuisine !
 6.  Stérilisez vos pots à confiture : Pour cela plongez les quelques minutes dans l'eau bouillante et laissez sécher à l'air libre.
 7.  Remplissez vos bocaux de confiture, refermez bien et retournez vos pots. Vous pouvez ensuite soit les entreposer dans un endroit frais et sec, soit faire comme moi et déguster votre récompense à la petite cuillère !
 
-Vous pouvez aussi utiliser cette confiture pour [des gâteaux](https://www.crokmou.com/?s=gateau), dans des yaourts et peut être même bien [en glace](https://www.crokmou.com/?s=glace) tiens ! En tout cas sachez que tout ce travail vaut vraiment le coup parce que hum qu’est ce que c'est bon ! Et vous, avez vous déjà tenté l'aventure châtaignes ? Pour ma part si j’ai le courage j’essaierai peut être les marrons glacés maison ! Je vous souhaite une très bonne fin de week end et un bon début de semaine prochaine! Des poutoux les gourmands
+Vous pouvez aussi utiliser cette confiture pour [des gâteaux](https://crokmou.com/?s=gateau), dans des yaourts et peut être même bien [en glace](https://crokmou.com/?s=glace) tiens ! En tout cas sachez que tout ce travail vaut vraiment le coup parce que hum qu’est ce que c'est bon ! Et vous, avez vous déjà tenté l'aventure châtaignes ? Pour ma part si j’ai le courage j’essaierai peut être les marrons glacés maison ! Je vous souhaite une très bonne fin de week end et un bon début de semaine prochaine! Des poutoux les gourmands

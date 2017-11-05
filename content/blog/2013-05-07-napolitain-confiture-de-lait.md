@@ -42,7 +42,7 @@ _[Recipe in English :](https://lh6.googleusercontent.com/-IylE9pdElY8/UYkhPztNct
 
 <tr>
 
-<td style="text-align: center;">[![](https://crokmou.com/images/neapolitan_cake_with_dulce_de_leche-212x3001-212x300.jpg)](http://www.crokmou.com/wp-content/uploads/2013/05/neapolitan_cake_with_dulce_de_leche-212x3001.jpg)</td>
+<td style="text-align: center;">[![](https://crokmou.com/images/neapolitan_cake_with_dulce_de_leche-212x3001-212x300.jpg)](https://crokmou.com/images/neapolitan_cake_with_dulce_de_leche-212x3001.jpg)</td>
 
 </tr>
 

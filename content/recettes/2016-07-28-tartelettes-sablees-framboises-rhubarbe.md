@@ -61,7 +61,7 @@ recette_ingredients:
   - label: ""
     value:
       - 2 barquettes de framboises
-      - "De la [pâte de rhubarbe](http://www.crokmou.com/2016/07/trio-de-confitures)"
+      - "De la [pâte de rhubarbe](https://crokmou.com/2016/07/trio-de-confitures)"
       - Pistaches, amandes concassées (facultatif)
 recette:
   - "**Pour les biscuits :** Préchauffer le four à 170°C. Dans un saladier, mélanger énergiquement à l’aide d’un fouet : le beurre pommade, le sucre glace et la poudre d’amandes. Ajouter ensuite le jaune d’oeuf, la farine et la fleur de sel, mélanger au fouet mais pas trop longtemps. Dresser dans des cercles beurrés et farinés sur 0,5cm d’épaisseur environ (Aidez vous d’une poche à douille) Enfourner pendant 15/20 minutes, ils doivent être légèrement dorés. Sortir du four et décercler aussitôt, laisser refroidir."

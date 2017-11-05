@@ -38,7 +38,7 @@ Recette hivernale
 
 4- Dégustez seul, en famille, devant un bon film ou tout simplement en rêvassant !
 
-[![](https://crokmou.com/images/20130120_chocolat_chaud_espagnol_pop_corn_chocolat_00541.jpg)](http://www.crokmou.com/wp-content/uploads/2013/01/20130120_chocolat_chaud_espagnol_pop_corn_chocolat_00541.jpg)
+[![](https://crokmou.com/images/20130120_chocolat_chaud_espagnol_pop_corn_chocolat_00541.jpg)](https://crokmou.com/images/20130120_chocolat_chaud_espagnol_pop_corn_chocolat_00541.jpg)
 
 _Mug hibou trouvé chez Monoprix_
 
@@ -46,7 +46,7 @@ _Mug hibou trouvé chez Monoprix_
 
 Vous avez des bisous de mon moumou des neiges ! N'est-il pas beau comme ça ? A braver la tempête et tout hihi
 
-[![](https://crokmou.com/images/moumou_des_neiges1.jpg)](http://www.crokmou.com/wp-content/uploads/2013/01/moumou_des_neiges1.jpg)
+[![](https://crokmou.com/images/moumou_des_neiges1.jpg)](https://crokmou.com/images/moumou_des_neiges1.jpg)
 
 Je vous souhaite une très bonne semaine les gourmands !
 
@@ -60,7 +60,7 @@ _[English recipe](https://lh6.googleusercontent.com/-Te1N21EHJhc/UQkrHRIHEFI/AAA
 
 <tr>
 
-<td style="text-align: center;">[![](https://crokmou.com/images/spanish_hot_chocolate-300x2121-300x212.jpg)](http://www.crokmou.com/wp-content/uploads/2013/01/spanish_hot_chocolate-300x2121.jpg)</td>
+<td style="text-align: center;">[![](https://crokmou.com/images/spanish_hot_chocolate-300x2121-300x212.jpg)](https://crokmou.com/images/spanish_hot_chocolate-300x2121.jpg)</td>
 
 </tr>
 

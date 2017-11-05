@@ -32,7 +32,7 @@
           {{ $currentPage := . }}
           {{ range .Site.Menus.header }}
           <li class='{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}active{{end}}"'>
-            <a class="js-page-link" href="{{ .URL }}">{{ .Name }}</a>
+            <a rel="xhr" href="{{ .URL }}">{{ .Name }}</a>
           </li>
           {{ end }}
         </ul>

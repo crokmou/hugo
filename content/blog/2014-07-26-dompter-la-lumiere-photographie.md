@@ -40,7 +40,7 @@ Le rôle d'un diffuseur est d'**atténuer la lumière directe.** Celui-ci va per
 
 Placé plus ou moins près de votre sujet le résultat en sera différent :
 
-[![photo-maitriser-eclairage-lumiere-jour-diffuseur-loin](https://crokmou.com/images/photo-maitriser-eclairage-lumiere-jour-diffuseur-loin.jpg)](http://www.crokmou.com/wp-content/uploads/2014/07/photo-maitriser-eclairage-lumiere-jour-diffuseur-loin.jpg) {{< img src="https://crokmou.com/images/photo-maitriser-eclairage-lumiere-jour-diffuseur-pres.jpg" alt="photo-maitriser-eclairage-lumiere-jour-diffuseur-pres" >}}
+[![photo-maitriser-eclairage-lumiere-jour-diffuseur-loin](https://crokmou.com/images/photo-maitriser-eclairage-lumiere-jour-diffuseur-loin.jpg)](https://crokmou.com/images/photo-maitriser-eclairage-lumiere-jour-diffuseur-loin.jpg) {{< img src="https://crokmou.com/images/photo-maitriser-eclairage-lumiere-jour-diffuseur-pres.jpg" alt="photo-maitriser-eclairage-lumiere-jour-diffuseur-pres" >}}
 
 Il existe des diffuseurs tout fait (notamment pour les flashs cobra des reflex ou pour les flashs de studio), mais vous pouvez tout aussi bien **utiliser un voilage blanc ou encore une feuille de calque**.
 

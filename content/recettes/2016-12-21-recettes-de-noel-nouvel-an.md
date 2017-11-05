@@ -41,29 +41,29 @@ Les fêtes approchent à grands pas – et j’ai l’impression que cela va plu
 
 # Apéritifs
 
-* [Feuilletés boudin blanc, figues et poire](http://www.crokmou.com/2012/12/feuilletes-boudin-blanc-figues-poires)
-* [Brochettes de tomates cerise caramélisées et boursin](http://www.crokmou.com/2012/06/brochettes-de-tomates-cerise-caramelisees-boursin)
+* [Feuilletés boudin blanc, figues et poire](https://crokmou.com/2012/12/feuilletes-boudin-blanc-figues-poires)
+* [Brochettes de tomates cerise caramélisées et boursin](https://crokmou.com/2012/06/brochettes-de-tomates-cerise-caramelisees-boursin)
 
 # Entrées /Plats
 
 {{< img src="https://crokmou.com/images/recette-noel-plat.jpg" alt="" >}}  
-* [Tatin de magret de canard, pomme et foie gras](http://www.crokmou.com/2013/12/tatin-magret-canard-pomme-foie-gras)
-* [Coquilles de Saint-Jacques gratinées au speculoos](http://www.crokmou.com/2013/12/coquilles-saint-jacques-gratinees-speculoos)
-* [Crème brûlée à l’huile de truffe blanche ](http://www.crokmou.com/2016/11/creme-brulee-a-lhuile-de-truffe-blanche)
+* [Tatin de magret de canard, pomme et foie gras](https://crokmou.com/2013/12/tatin-magret-canard-pomme-foie-gras)
+* [Coquilles de Saint-Jacques gratinées au speculoos](https://crokmou.com/2013/12/coquilles-saint-jacques-gratinees-speculoos)
+* [Crème brûlée à l’huile de truffe blanche ](https://crokmou.com/2016/11/creme-brulee-a-lhuile-de-truffe-blanche)
 
 # # Desserts
 
-* [Ananas mariné aux épices](http://www.crokmou.com/2013/03/ananas-marine-aux-epices)
-* [Bûche à la crème de marron](http://www.crokmou.com/2014/12/buche-a-la-creme-de-marrons-poire-gingembre)
-* [Cupcakes 4 épices, mascarpone, citron vert](http://www.crokmou.com/2012/12/cupcakes-4-epices-mascarpone-citron-vert)
-* [Coquilles de la Saint-Nicolas](http://www.crokmou.com/2014/12/coquille-de-la-saint-nicolas)
-* [Verrines à la mousse de marron](http://www.crokmou.com/2014/12/verrines-a-la-mousse-de-marrons)
+* [Ananas mariné aux épices](https://crokmou.com/2013/03/ananas-marine-aux-epices)
+* [Bûche à la crème de marron](https://crokmou.com/2014/12/buche-a-la-creme-de-marrons-poire-gingembre)
+* [Cupcakes 4 épices, mascarpone, citron vert](https://crokmou.com/2012/12/cupcakes-4-epices-mascarpone-citron-vert)
+* [Coquilles de la Saint-Nicolas](https://crokmou.com/2014/12/coquille-de-la-saint-nicolas)
+* [Verrines à la mousse de marron](https://crokmou.com/2014/12/verrines-a-la-mousse-de-marrons)
 
 # Cadeaux gourmands
 
 {{< img src="https://crokmou.com/images/recette-noel-gourmandises.jpg" alt="" >}}
-* [Caramels aux amandes et chocolat](http://www.crokmou.com/2012/01/caramels-aux-amandes-et-chocolat)
-* [Coquilles de la Saint-Nicolas](http://www.crokmou.com/2014/12/coquille-de-la-saint-nicolas)
-* [Meringues sapin au thé matcha](http://www.crokmou.com/2016/12/meringues-sapin-au-the-matcha-et-chocolat-chaud)
-* [Mon beau sapin, roi des sablés](http://www.crokmou.com/2012/11/sapin-sable)
-* [Sablés de Noël](http://www.crokmou.com/2011/12/sables-de-noyel)
+* [Caramels aux amandes et chocolat](https://crokmou.com/2012/01/caramels-aux-amandes-et-chocolat)
+* [Coquilles de la Saint-Nicolas](https://crokmou.com/2014/12/coquille-de-la-saint-nicolas)
+* [Meringues sapin au thé matcha](https://crokmou.com/2016/12/meringues-sapin-au-the-matcha-et-chocolat-chaud)
+* [Mon beau sapin, roi des sablés](https://crokmou.com/2012/11/sapin-sable)
+* [Sablés de Noël](https://crokmou.com/2011/12/sables-de-noyel)
