@@ -4,17 +4,17 @@ $(document).ready(function() {
   const SPRITE_URL = '/assets/images/svg/sprite.svg';
 
   const $pageContainer = $('#page-container');
-  const $bodyHtml = $('body, html');
+  const $bodyHtml      = $('body, html');
 
   const App = (function App() {
     new IOlazy({
-      threshold: 0
+      threshold: 0,
     });
     (function CARDS() {
       $('[rel="js-card"]').each(function() {
-        let $this      = $(this);
-        let $share     = $this.find('[rel="js-share"]');
-        let $toggle    = $share.find('[rel="js-toggle"]');
+        let $this   = $(this);
+        let $share  = $this.find('[rel="js-share"]');
+        let $toggle = $share.find('[rel="js-toggle"]');
 
         $toggle.on('click', toggleShare);
 
@@ -34,44 +34,30 @@ $(document).ready(function() {
       // parse slide data (url, title, size ...) from DOM elements
       // (children of gallerySelector)
       const parseThumbnailElements = async function(el) {
-        let thumbElements = el.querySelectorAll('figure'),
-            numNodes      = thumbElements.length,
-            items         = [],
-            figureEl,
-            linkEl,
-            imgEl,
-            item;
+        let thumbElements = el.querySelectorAll('figure');
+        let items         = [];
+        let $figure;
+        let $img;
+        let item;
 
-        for (let i = 0; i < numNodes; i++) {
+        const images = await addImageProcess(thumbElements);
 
-          figureEl = thumbElements[i]; // <figure> element
-
-          // include only element nodes
-          if (figureEl.nodeType !== 1) {
+        for (let i = 0; i < images.length; i++) {
+          $figure = thumbElements[i];
+          $img = images[i];
+          if ($figure.nodeType !== 1 || $img.error) {
             continue;
           }
-
-          linkEl = figureEl.children[0]; // <a> element
-
-          imgEl     = linkEl.children[0]; // <img> element
-          const img = imgEl.naturalWidth ? imgEl : await addImageProcess(
-              linkEl.getAttribute('href'));
-          imgEl.src = img.src;
-          // create slide object
-          if (!img.error) {
-            item = {
-              src: img.src,
-              w  : parseInt(img.naturalWidth, 10),
-              h  : parseInt(img.naturalHeight, 10),
-            };
-            if (figureEl.children.length > 1) {
-              // <figcaption> content
-              item.title = figureEl.children[1].innerHTML;
-            }
-
-            item.el = figureEl; // save link to element for getThumbBoundsFn
-            items.push(item);
+          item = {
+            src: $img.src,
+            w  : parseInt(($img.naturalWidth || $img.width), 10),
+            h  : parseInt(($img.naturalHeight || $img.height), 10),
+          };
+          if ($figure.children.length > 1) {
+            item.title = $figure.children[1].innerHTML;
           }
+          item.el = $figure;
+          items.push(item);
         }
         return items;
       };
@@ -228,16 +214,31 @@ $(document).ready(function() {
       }
     };
 
-    function addImageProcess(src) {
-      return new Promise((resolve, reject) => {
-        let img     = new Image();
-        img.onload  = () => {
-          resolve(img);
-        };
-        img.onerror = () => {
-          resolve({error: 'error'});
-        };
-        img.src     = src;
+    function addImageProcess(figures) {
+      const images = [];
+      let number   = 1;
+      return new Promise((resolve) => {
+        for (let i = 0; i < figures.length; i++) {
+          const fig   = figures[i];
+          const a     = fig.children[0];
+          const src   = a.href;
+          const img   = a.children[0];
+          img.onload  = () => {
+            number++;
+            images.push(img);
+            if (number === figures.length) {
+              resolve(images);
+            }
+          };
+          img.onerror = () => {
+            number++;
+            images.push({error: ''});
+            if (number === figures.length) {
+              resolve(images);
+            }
+          };
+          img.src     = src;
+        }
       });
     }
 
@@ -279,7 +280,7 @@ $(document).ready(function() {
 
     History.Adapter.bind(window, 'statechange', function() {
       const state = History.getState();
-      const $a = $('a');
+      const $a    = $('a');
       $a.css('cursor', 'progress');
       $bodyHtml.css('cursor', 'progress');
       $.get(state.url, function(res) {
