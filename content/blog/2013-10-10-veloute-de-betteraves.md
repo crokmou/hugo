@@ -1,7 +1,7 @@
 ---
 date: "2013-10-10T17:45:00+02:00"
 title: "Velouté de betteraves et chips {Octobre rose}"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/crokmou.com_soupe_rose_betterave_chips_octobre_rose.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/crokmou.com_soupe_rose_betterave_chips_octobre_rose.jpg"
 categories:
   - "Plats"
 tags:

@@ -1,7 +1,7 @@
 ---
 date: "2014-11-13T16:37:00+01:00"
 title: "Madeleines au yuzu et mûres blanches"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/madeleine-yuzu-mure-blanche-recette-crokmou-blog-culinaire.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/madeleine-yuzu-mure-blanche-recette-crokmou-blog-culinaire.jpg"
 categories:
   - "Desserts"
 tags:

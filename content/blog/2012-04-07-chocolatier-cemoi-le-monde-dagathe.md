@@ -40,7 +40,7 @@ J'aime beaucoup les illustrations de ce livre qui sont très colorées et enfant
 
 <tr>
 
-<td style="text-align: center;">[![Cémoi, chocolatier Français - Le monde d'Agathe](http://2.bp.blogspot.com/-lgYGeKr3Kcs/T4AHrONfzaI/AAAAAAAACCc/ZjOvJhGEyMA/s640/Le_monde_d'agathe_Ce%CC%81moi_Chocolatier.jpg)](http://2.bp.blogspot.com/-lgYGeKr3Kcs/T4AHrONfzaI/AAAAAAAACCc/ZjOvJhGEyMA/s1600/Le_monde_d'agathe_Ce%CC%81moi_Chocolatier.jpg)</td>
+<td style="text-align: center;">[![Cémoi, chocolatier Français - Le monde d'Agathe](http://2.bp.blogspot.com/-lgYGeKr3Kcs/T4AHrONfzaI/AAAAAAAACCc/ZjOvJhGEyMA/s640/Le_monde_d'agathe_Cémoi_Chocolatier.jpg)](http://2.bp.blogspot.com/-lgYGeKr3Kcs/T4AHrONfzaI/AAAAAAAACCc/ZjOvJhGEyMA/s1600/Le_monde_d'agathe_Cémoi_Chocolatier.jpg)</td>
 
 </tr>
 

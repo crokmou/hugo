@@ -1,7 +1,7 @@
 ---
 date: "2014-11-27T17:22:00+01:00"
 title: "Crème à tartiner caramel, cardamome et safran"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/creme-tartiner-caramel-cardamome-safran-recette.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/creme-tartiner-caramel-cardamome-safran-recette.jpg"
 categories:
   - "Sauces - confitures"
 tags:
@@ -35,7 +35,7 @@ Il y a quelques semaines, j'ai reçu un petit colis gourmand de le part de l'Age
 
 Et parce que chez Nestlé ils sont super sympa, ils vous offrent l'opportunité de gagner quelques cadeaux gourmands avant même le lancement du produit en magasin (prévu courant Décembre 2014/Janvier 2015) !
 
-##### Pour participer[![creme-tartiner-caramel-cardamome-safran-recette (1)](https://s3.eu-west-2.amazonaws.com/crokmou/images/creme-tartiner-caramel-cardamome-safran-recette-1.jpg)](https://s3.eu-west-2.amazonaws.com/crokmou/images/creme-tartiner-caramel-cardamome-safran-recette-1.jpg)
+##### Pour participer[![creme-tartiner-caramel-cardamome-safran-recette (1)](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/creme-tartiner-caramel-cardamome-safran-recette-1.jpg)](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/creme-tartiner-caramel-cardamome-safran-recette-1.jpg)
 
 S'abonner à la [page Crokmou](https://www.facebook.com/crokmou.blog) et répondre à ces deux questions : Quels sont vos plus beaux souvenirs avec le lait concentré sucré ? Quelle recette cuisineriez vous avec ce lait concentré caramel ? Laissez un commentaire sous cet article avec votre pseudo d'abonnement Facebook ainsi que les réponse aux questions posées.
 

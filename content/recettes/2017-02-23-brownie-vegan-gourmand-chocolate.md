@@ -1,7 +1,7 @@
 ---
 date: "2017-02-23T18:37:49+01:00"
 title: "Brownie Vegan, une recette chocolatée & gourmande !"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/brownie-vegan-partenariat-generation-cooking-crokmou-blog-belge-cuisine-voyage-1.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/brownie-vegan-partenariat-generation-cooking-crokmou-blog-belge-cuisine-voyage-1.jpg"
 categories:
   - "Desserts"
 tags:
@@ -117,7 +117,7 @@ l’intérieur, plutôt que de le sortir du four et de le laisser cuire encore u
 peu avec le chaleur du plat j’ai préféré le remettre au chaud… grossière erreur
 car en refroidissant il était un peu sec. Niveau goût par contre c’est top !  
 {{< img
-src="https://s3.eu-west-2.amazonaws.com/crokmou/images/brownie-vegan-partenariat-generation-cooking-crokmou-blog-belge-cuisine-voyage-4.jpg"
+src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/brownie-vegan-partenariat-generation-cooking-crokmou-blog-belge-cuisine-voyage-4.jpg"
 alt="Brownie vegan" >}}
 
 {{< recette >}}

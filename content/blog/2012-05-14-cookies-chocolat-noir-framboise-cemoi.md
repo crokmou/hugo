@@ -1,7 +1,7 @@
 ---
 date: "2012-05-14T17:58:00+02:00"
 title: "Cookies chocolat noir framboise Cémoi"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20120513_Cookies_Framboise_Chocolat_C--moi_Nature_0003.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20120513_Cookies_Framboise_Chocolat_C--moi_Nature_0003.jpg"
 categories:
   - "Desserts"
 tags:

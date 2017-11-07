@@ -16,15 +16,15 @@ Bonjour mes gourmands !
 
 En attendant le concours des 1000 abonnés Facebook, je vous propose aujourd'hui un concours "déco" en partenariat avec [Popstickers](http://www.popstickers.fr/) !
 
-[![](https://s3.eu-west-2.amazonaws.com/crokmou/images/cupcake-238x3001-238x300.png)](http://www.popstickers.fr/)
+[![](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/cupcake-238x3001-238x300.png)](http://www.popstickers.fr/)
 
 [Popstickers](http://www.popstickers.fr/) est un site internet de vente en ligne de stickers. Ils ont vraiment de tout : de la [musique](http://www.popstickers.fr/12-stickers-musique) en passant par les [animaux](http://www.popstickers.fr/3-stickers-animaux), les [jeux vidéos](http://www.popstickers.fr/10-stickers-jeux) (ouiiiii y'a [Kirby](http://www.popstickers.fr/stickers-jeux/454-kirby.html) *_*) ainsi que la [cuisine](http://www.popstickers.fr/5-stickers-cuisine). De quoi faire de votre intérieur un endroit original ! Oui parce qu'entre nous, on ne trouve pas ce type de stickers en vente tous les jours.
 
-[![](https://s3.eu-west-2.amazonaws.com/crokmou/images/Capture-d-E2-80-99e-CC-81cran-2013-07-17-a-CC-80-12.34.44-300x2131-300x213.png)](http://www.popstickers.fr/)
+[![](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/Capture-d-E2-80-99e-CC-81cran-2013-07-17-a-CC-80-12.34.44-300x2131-300x213.png)](http://www.popstickers.fr/)
 
 Ce qu'il y a de super aussi avec [Popstickers](http://www.popstickers.fr/) c'est que l'on peut personnaliser son sticker selon nos envies : Cliquez sur le sticker de votre choix et vous vous retrouverez sur une page qui vous permettra de choisir la taille de celui-ci ainsi que sa couleur en fonction de la couleur éventuelle de votre mur. Génial non ? Comme une illustration vaut mieux que milles mots je vous ai fait un print screen du système :
 
-[![](https://s3.eu-west-2.amazonaws.com/crokmou/images/Capture-d-E2-80-99e-CC-81cran-2013-07-17-a-CC-80-12.17.45-187x3001-187x300.png)](http://www.popstickers.fr/)
+[![](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/Capture-d-E2-80-99e-CC-81cran-2013-07-17-a-CC-80-12.17.45-187x3001-187x300.png)](http://www.popstickers.fr/)
 
 Je sais que cela ne correspond pas tout à fait à ce que je peux vous faire gagner habituellement mais j'ai trouvé que cela pouvait être une bonne idée d'embellir votre maison et votre cuisine. Parce que dans une belle cuisine, on est encore plus content de cuisiner ! Non ?  
 

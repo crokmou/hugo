@@ -1,7 +1,7 @@
 ---
 date: "2014-06-12T17:35:00+02:00"
 title: "Feta marinée à l'huile d'olive"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/feta-marin--e-aperitif.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/feta-marin--e-aperitif.jpg"
 categories:
   - "Apéritifs"
 tags:

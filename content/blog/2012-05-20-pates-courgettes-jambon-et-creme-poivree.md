@@ -1,7 +1,7 @@
 ---
 date: "2012-05-20T17:52:00+02:00"
 title: "Pâtes, courgettes, jambon et crème poivrée"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20120512_pates_fraiches_courgettes_jambon_sauce_boursin_poivre_35.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20120512_pates_fraiches_courgettes_jambon_sauce_boursin_poivre_35.jpg"
 categories:
   - "Plats"
 tags:

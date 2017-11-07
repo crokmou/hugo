@@ -1,7 +1,7 @@
 ---
 date: "2012-11-12T17:12:00+01:00"
 title: "Tartelettes au citron meringuées"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20121104_tartelette_citron_meringu--es_1.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20121104_tartelette_citron_meringu--es_1.jpg"
 categories:
   - "Desserts"
 tags:

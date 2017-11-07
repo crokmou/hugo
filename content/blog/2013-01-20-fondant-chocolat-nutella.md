@@ -1,7 +1,7 @@
 ---
 date: "2013-01-20T12:00:00+01:00"
 title: "Fondant chocolat, nutella"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20120623_fondant_coeur_coulant_chocolat_noir_nutella_0033.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20120623_fondant_coeur_coulant_chocolat_noir_nutella_0033.jpg"
 categories:
   - "Desserts"
 tags:

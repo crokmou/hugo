@@ -1,7 +1,7 @@
 ---
 date: "2013-02-04T19:14:00+01:00"
 title: "Velouté de courgettes, vache qui rit"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20130203_velout--_soupe_courgette_vache_qui_rit_0006.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20130203_velout--_soupe_courgette_vache_qui_rit_0006.jpg"
 categories:
   - "Plats"
 tags:
@@ -40,7 +40,7 @@ _[English recipe](https://lh6.googleusercontent.com/-dXqjAPGHMNU/UQ_57DwSeKI/AAA
 
 <tr>
 
-<td style="text-align: center;">[![](https://s3.eu-west-2.amazonaws.com/crokmou/images/soup_of_zucchinis_with_the_laughing_cow-300x2121-300x212.jpg)](https://s3.eu-west-2.amazonaws.com/crokmou/images/soup_of_zucchinis_with_the_laughing_cow-300x2121.jpg)</td>
+<td style="text-align: center;">[![](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/soup_of_zucchinis_with_the_laughing_cow-300x2121-300x212.jpg)](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/soup_of_zucchinis_with_the_laughing_cow-300x2121.jpg)</td>
 
 </tr>
 

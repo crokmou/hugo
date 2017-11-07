@@ -10,7 +10,7 @@ description: ""
 slug: "mon-travail-pour-epicurien-belgique"
 ---
 
-{{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/epicurien.be_terrine_travail-300x2001-300x200.jpg" alt="" >}}
+{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/epicurien.be_terrine_travail-300x2001-300x200.jpg" alt="" >}}
 
 Me voilà de retour pour un nouvel article concernant mon travail professionnel. Il y a quelques mois j'ai travaillé en tant que Photographe et Styliste culinaire pour le site [Epicurien.Be](http://www.epicurien.be/)[](http://www.blogger.com/).
 
@@ -20,26 +20,26 @@ Comme expliqué lors de mon précédent article pour mon travail avec Alpro, une
 
 **2) Plats en sauce (pour carbonnade et boeuf bourguignon)**
 
-{{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/Capture-d-25E2-2580-2599e-25CC-2581cran-2013-11-24-a-25CC-2580-08.25.22-211x3001-211x300.png" alt="" >}}
+{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/Capture-d-25E2-2580-2599e-25CC-2581cran-2013-11-24-a-25CC-2580-08.25.22-211x3001-211x300.png" alt="" >}}
 
-{{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/Capture-d-25E2-2580-2599e-25CC-2581cran-2013-11-24-a-25CC-2580-08.27.03-300x2481-300x248.png" alt="" >}}![](https://s3.eu-west-2.amazonaws.com/crokmou/images/Capture-d-25E2-2580-2599e-25CC-2581cran-2013-11-24-a-25CC-2580-08.26.40-300x2451-300x245.png)
+{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/Capture-d-25E2-2580-2599e-25CC-2581cran-2013-11-24-a-25CC-2580-08.27.03-300x2481-300x248.png" alt="" >}}![](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/Capture-d-25E2-2580-2599e-25CC-2581cran-2013-11-24-a-25CC-2580-08.26.40-300x2451-300x245.png)
 
 Une fois le premier jet envoyé à Laurent, il m'a fait part de ses remarques concernant tel ou tel angle de vue, ambiance etc... Une fois que nous étions d'accord sur toutes les recettes, je suis partie en shopping. Comme pour ce boulot il était question de cuisiner, mettre en scène et photographier, j'ai donc fait un shopping vaisselle et un shopping alimentaire.  
 Autant vous l'avouer cela a été un peu compliqué : 7/8 feuilles de courses, une organisation au poil pour ne pas perdre de temps, courir dans tel ou tel magasin car on a pas trouvé tel ou tel truc dans un autre, mais néanmoins j'adore ça !
 
-{{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/1234151_549714238416980_1957940315_n-300x1691-300x169.jpg" alt="" >}}![](https://s3.eu-west-2.amazonaws.com/crokmou/images/1236955_551427491578988_551814868_n-300x3001-300x300.jpg)
+{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/1234151_549714238416980_1957940315_n-300x1691-300x169.jpg" alt="" >}}![](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/1236955_551427491578988_551814868_n-300x3001-300x300.jpg)
 
 Lorsque tout fût en ordre, j'ai donc commencé le travail à proprement parlé : cuisine, photographie et stylisme au menu ! Mon planning était fait, je devais maintenir le rythme à 5 recettes par jour soit en tout 8 jours de boulot pour 40 recettes.  
 
-{{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/MG_8590-300x2001-300x200.jpg" alt="" >}}
+{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/MG_8590-300x2001-300x200.jpg" alt="" >}}
 
-{{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/MG_8582-300x2001-300x200.jpg" alt="" >}}
+{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/MG_8582-300x2001-300x200.jpg" alt="" >}}
 
 Une fois les retouches terminées voici donc le résultat :  
 
-{{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/20130928_epicurien.be_sabayon_italien-300x2001-300x200.jpg" alt="" >}}![](https://s3.eu-west-2.amazonaws.com/crokmou/images/20130928_epicurien.be_mousse_chocolat_facile-300x2001-300x200.jpg)
+{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20130928_epicurien.be_sabayon_italien-300x2001-300x200.jpg" alt="" >}}![](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20130928_epicurien.be_mousse_chocolat_facile-300x2001-300x200.jpg)
 
-{{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/20130928_epicurien.be_souris_agneau_vin_blanc_romarin-300x2001-300x200.jpg" alt="" >}}![](https://s3.eu-west-2.amazonaws.com/crokmou/images/20130928_epicurien.be_poire_pochee_vin_rouge_epice-300x2001-300x200.jpg)
+{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20130928_epicurien.be_souris_agneau_vin_blanc_romarin-300x2001-300x200.jpg" alt="" >}}![](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20130928_epicurien.be_poire_pochee_vin_rouge_epice-300x2001-300x200.jpg)
 
 N'hésitez pas à aller faire un tour sur le site [Epicurien](http://www.epicurien.be/) aussi, de bien belles recettes à découvrir !  
 

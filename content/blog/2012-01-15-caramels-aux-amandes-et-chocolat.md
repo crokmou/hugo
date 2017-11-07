@@ -1,7 +1,7 @@
 ---
 date: "2012-01-15T12:41:00+01:00"
 title: "Caramels aux amandes et chocolat"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20120115_caramel_chocolat_miel_amande_1.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20120115_caramel_chocolat_miel_amande_1.jpg"
 categories:
   - "Desserts"
 tags:

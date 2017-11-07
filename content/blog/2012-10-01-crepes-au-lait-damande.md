@@ -1,7 +1,7 @@
 ---
 date: "2012-10-01T13:59:00+02:00"
 title: "Crepes au lait d'amande"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/crepe_lait_amande_vanille.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/crepe_lait_amande_vanille.jpg"
 categories:
   - "Desserts"
 tags:

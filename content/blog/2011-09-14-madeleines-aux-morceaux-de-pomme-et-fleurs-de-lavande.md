@@ -1,7 +1,7 @@
 ---
 date: "2011-09-14T15:06:00+02:00"
 title: "Madeleines aux morceaux de pomme et fleurs de lavande"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/Madeleine-pomme-lavande.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/Madeleine-pomme-lavande.jpg"
 categories:
   - "Desserts"
 tags:

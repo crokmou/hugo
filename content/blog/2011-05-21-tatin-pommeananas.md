@@ -1,7 +1,7 @@
 ---
 date: "2011-05-21T14:46:00+02:00"
 title: "Tatin pomme/ananas"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/Tatin-pomme-ananas.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/Tatin-pomme-ananas.jpg"
 categories:
   - "Desserts"
 tags:

@@ -1,7 +1,7 @@
 ---
 date: "2011-09-27T18:03:00+02:00"
 title: "Mini cakes figues fraiches, chèvre et noix"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/Mini-cake-figue-3.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/Mini-cake-figue-3.jpg"
 categories:
   - "Apéritifs"
 tags:

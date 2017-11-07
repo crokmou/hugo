@@ -1,7 +1,7 @@
 ---
 date: "2017-07-05T17:30:36+02:00"
 title: "Falafels, une recette rapide à faire et délicieuse ! - Vegan"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/recette-falafels-pois-chiches-persil-plat-crokmou-blog-cuisine-voyage-belgique.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/recette-falafels-pois-chiches-persil-plat-crokmou-blog-cuisine-voyage-belgique.jpg"
 categories:
   - "Entrées"
   - "Plats"
@@ -92,4 +92,4 @@ Le 12 Juin dernier je suis allée à un atelier culinaire organisé chez [Mmmmh 
 
 {{< recette >}}
 
-{{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/recette-falafels-pois-chiches-persil-plat-crokmou-blog-cuisine-voyage-belgique-pinterest-1.jpg" >}}
+{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/recette-falafels-pois-chiches-persil-plat-crokmou-blog-cuisine-voyage-belgique-pinterest-1.jpg" >}}

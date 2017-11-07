@@ -1,7 +1,7 @@
 ---
 date: "2012-06-20T10:15:00+02:00"
 title: "Ravioles au Boursin champignons et jambon Iberique"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20120531_ravioles_boursin_cuisine_champignon_jambon_iberique_0026.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20120531_ravioles_boursin_cuisine_champignon_jambon_iberique_0026.jpg"
 categories:
   - "Plats"
 tags:

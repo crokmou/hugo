@@ -1,7 +1,7 @@
 ---
 date: "2011-09-06T19:22:00+02:00"
 title: "Farfalles aux champignons au thym et sa crème de ricotta"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/Farfalle-aux-champignons.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/Farfalle-aux-champignons.jpg"
 categories:
   - "Plats"
 tags:

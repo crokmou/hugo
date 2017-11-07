@@ -1,7 +1,7 @@
 ---
 date: "2012-08-16T17:16:00+02:00"
 title: "Risotto aux champignons"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20120815_risotto_champignon_vin_blanc_0017.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20120815_risotto_champignon_vin_blanc_0017.jpg"
 categories:
   - "Plats"
 tags:

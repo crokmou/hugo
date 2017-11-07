@@ -1,7 +1,7 @@
 ---
 date: "2015-04-09T17:12:14+02:00"
 title: "Macarons glacés vanille et framboise"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/macaron-glac---vanille-framboise-recette-crokmou-blog-culinaire-2.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/macaron-glac---vanille-framboise-recette-crokmou-blog-culinaire-2.jpg"
 categories:
   - "Desserts"
 tags:
@@ -39,7 +39,7 @@ slug: "macarons-glaces-vanille-et-framboise"
 
 Le beau temps revient, à Bruxelles il fait grand soleil et chaud, le bonheur, ça faisait tellement longtemps ! Et vous connaissez la meilleure ? Cela va durer tout le weekend !!! Et quoi de mieux pour ces beaux jours que de petits **macarons glacés vanille et framboise** ? Un dessert rafraîchissant qui nous permettra d'attendre un peu jusqu'à la salade de fruits frais ! Bon c'est pas forcément évident, les macarons c'est tout un art mais avec une meringue Italienne (au sucre cuit) c'est déjà nettement plus simple pour les réussir ! En ce qui concerne la crème glacé aux œufs, le mieux c'est d'avoir une petite sorbetière (ou carrément une turbine) à la maison, si vous n'en avez pas cela vous fera simplement un peu plus de travail : gratter la glace toutes les heures à l'aide d'une fourchette !
 
-{{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/macaron-glac---vanille-framboise-recette-crokmou-blog-culinaire-1.jpg" alt="macarons glacés vanille et framboise" >}}![macarons glacés vanille et framboise](https://s3.eu-west-2.amazonaws.com/crokmou/images/macaron-glac---vanille-framboise-recette-crokmou-blog-culinaire.jpg)
+{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/macaron-glac---vanille-framboise-recette-crokmou-blog-culinaire-1.jpg" alt="macarons glacés vanille et framboise" >}}![macarons glacés vanille et framboise](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/macaron-glac---vanille-framboise-recette-crokmou-blog-culinaire.jpg)
 
 ## Recette des macarons glacés vanille
 

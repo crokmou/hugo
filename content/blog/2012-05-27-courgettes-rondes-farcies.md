@@ -1,7 +1,7 @@
 ---
 date: "2012-05-27T14:10:00+02:00"
 title: "Courgettes rondes farcies"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20120519_Courgettes_rondes_farcies_poivron_0024.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20120519_Courgettes_rondes_farcies_poivron_0024.jpg"
 categories:
   - "Plats"
 tags:

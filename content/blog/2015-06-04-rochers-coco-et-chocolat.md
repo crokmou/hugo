@@ -1,7 +1,7 @@
 ---
 date: "2015-06-04T16:15:12+02:00"
 title: "Rochers coco et chocolat"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/rochers-coco-recette-crokmou-blog-culinaire.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/rochers-coco-recette-crokmou-blog-culinaire.jpg"
 categories:
   - "Desserts"
 tags:

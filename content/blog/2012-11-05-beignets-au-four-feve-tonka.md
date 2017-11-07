@@ -1,7 +1,7 @@
 ---
 date: "2012-11-05T13:12:00+01:00"
 title: "Beignets au four, fève tonka"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20121101_beignet_four_feve_tonka_0027.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20121101_beignet_four_feve_tonka_0027.jpg"
 categories:
   - "Desserts"
 tags:

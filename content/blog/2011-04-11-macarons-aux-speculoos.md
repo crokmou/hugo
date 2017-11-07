@@ -1,7 +1,7 @@
 ---
 date: "2011-04-11T22:37:00+02:00"
 title: "Macarons aux spéculoos"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/Macaron-sp--culoos.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/Macaron-sp--culoos.jpg"
 categories:
   - "Desserts"
 tags:

@@ -1,7 +1,7 @@
 ---
 date: "2016-12-27T18:00:15+01:00"
 title: "Terrine de légumes, potiron & carottes"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/terrine-legume-potiron-carotte-crokmou-blog-cuisine-voyage-belgique-1.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/terrine-legume-potiron-carotte-crokmou-blog-cuisine-voyage-belgique-1.jpg"
 categories:
   - "Entrées"
 tags:
@@ -89,7 +89,7 @@ horrible pour autant. Contrairement à la recette initiale du blog, j’ai
 également moins bien mixé mes aliments afin d’avoir un peu plus de mâche. Le
 tout avec une bonne petite sauce au pesto (si si tu as bien lu, au pesto), c’est
 terrible !  {{< img
-src="https://s3.eu-west-2.amazonaws.com/crokmou/images/terrine-legume-potiron-carotte-crokmou-blog-cuisine-voyage-belgique.jpg"
+src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/terrine-legume-potiron-carotte-crokmou-blog-cuisine-voyage-belgique.jpg"
 alt="Terrine de légumes, potiron & carottes" >}}
 
 {{< recette >}}

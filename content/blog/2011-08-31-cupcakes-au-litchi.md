@@ -1,7 +1,7 @@
 ---
 date: "2011-08-31T20:30:00+02:00"
 title: "Cupcakes au litchi"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/Cupcake-litchi.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/Cupcake-litchi.jpg"
 categories:
   - "Desserts"
 tags:

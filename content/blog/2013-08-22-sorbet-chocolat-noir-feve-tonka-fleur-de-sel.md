@@ -1,7 +1,7 @@
 ---
 date: "2013-08-22T15:30:00+02:00"
 title: "Sorbet chocolat noir, fève tonka, fleur de sel"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20130717_glace_chocolat_fleur_sel_feve_tonka_0005.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20130717_glace_chocolat_fleur_sel_feve_tonka_0005.jpg"
 categories:
   - "Desserts"
 tags:

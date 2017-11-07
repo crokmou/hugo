@@ -1,7 +1,7 @@
 ---
 date: "2011-10-21T16:30:00+02:00"
 title: "Crumble aubergines, jambon, mozzarella"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/Crumble-daubergines.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/Crumble-daubergines.jpg"
 categories:
   - "Plats"
 tags:

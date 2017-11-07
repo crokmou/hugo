@@ -1,7 +1,7 @@
 ---
 date: "2012-10-11T17:29:00+02:00"
 title: "Légume de saison : le Maïs {+ résultats du concours}"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20121001_epi_mais_grill--_four_0014.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20121001_epi_mais_grill--_four_0014.jpg"
 categories:
   - "Plats"
 tags:
@@ -13,7 +13,7 @@ description: ""
 slug: "legume-de-saison-le-mais-resultats-du-concours"
 ---
 
-[![](http://2.bp.blogspot.com/-yluseSIqQQ4/UHbxT7xoUxI/AAAAAAAAExE/tuRnRrekVyg/s320/20121001_epi_mais_grille%CC%81_four_0014_bann.jpg)](http://2.bp.blogspot.com/-yluseSIqQQ4/UHbxT7xoUxI/AAAAAAAAExE/tuRnRrekVyg/s1600/20121001_epi_mais_grille%CC%81_four_0014_bann.jpg)
+[![](http://2.bp.blogspot.com/-yluseSIqQQ4/UHbxT7xoUxI/AAAAAAAAExE/tuRnRrekVyg/s320/20121001_epi_mais_grillé_four_0014_bann.jpg)](http://2.bp.blogspot.com/-yluseSIqQQ4/UHbxT7xoUxI/AAAAAAAAExE/tuRnRrekVyg/s1600/20121001_epi_mais_grillé_four_0014_bann.jpg)
 
 Parce qu'aujourd'hui j'aimerai vous présenter à vous mes chers gourmands, un légume de saison qui n'est autre que : le Maïs ! Personnellement j'adore ce "légume", tout d'abord pour sa couleur qui me rappelle sans cesse les beaux jours mais aussi pour son petit goût sucré ! Dans des salades, nature, dans les sandwichs, les plats cuisinés etc etc le maïs est partout !
 

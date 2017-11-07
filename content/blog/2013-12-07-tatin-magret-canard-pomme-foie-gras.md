@@ -1,7 +1,7 @@
 ---
 date: "2013-12-07T11:13:00+01:00"
 title: "Tatin de magret de canard, pomme, foie gras"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20130928_epicurien.be_tatin_foie_gras_magret_canard.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20130928_epicurien.be_tatin_foie_gras_magret_canard.jpg"
 categories:
   - "Entrées"
 tags:

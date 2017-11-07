@@ -1,7 +1,7 @@
 ---
 date: "2013-07-08T19:45:00+02:00"
 title: "Brochettes apéro melon, jambon"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20130708_brochette_aperitif_melon_vert_jambon_sec_fromage_tomme_savoie_0025.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20130708_brochette_aperitif_melon_vert_jambon_sec_fromage_tomme_savoie_0025.jpg"
 categories:
   - "Apéritifs"
 tags:

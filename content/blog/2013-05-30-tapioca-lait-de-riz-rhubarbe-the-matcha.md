@@ -1,7 +1,7 @@
 ---
 date: "2013-05-30T21:39:00+02:00"
 title: "Tapioca lait de riz, rhubarbe, thé matcha"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20130527_tapioca_lait_riz_rhubarbe_the_vert_matcha_0014.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20130527_tapioca_lait_riz_rhubarbe_the_vert_matcha_0014.jpg"
 categories:
   - "Boissons"
 tags:
@@ -72,7 +72,7 @@ _ _
 
 <a name="more"></a>Pour finir cet article, je suis heureuse de vous présenter la fin, le résultat de mes 3 années d'études en photographie : une exposition (Le pourquoi du comment je suis très occupée en ce moment). Comme j'ai déjà dû vous l'expliquer dans un autre post, mes camarades de troisième année et moi même organisons une exposition de fin d'études avec différents travaux élaborés tout au long de cette année 2012/2013\. Pour ma part comme vous vous en doutez certainement, je me suis dirigée dans le domaine culinaire mais pas seulement, j'ai aussi collaboré avec un artisan Belge : le biscuitier Stephen Destrée !
 
-[![](https://s3.eu-west-2.amazonaws.com/crokmou/images/Capture-d-E2-80-99e-CC-81cran-2013-05-30-a-CC-80-22.28.06-300x3001-300x300.png)](https://s3.eu-west-2.amazonaws.com/crokmou/images/Capture-d-E2-80-99e-CC-81cran-2013-05-30-a-CC-80-22.28.06-300x3001.png)[![](https://s3.eu-west-2.amazonaws.com/crokmou/images/Capture-d-E2-80-99e-CC-81cran-2013-05-30-a-CC-80-22.28.20-300x3001-300x300.png)](https://s3.eu-west-2.amazonaws.com/crokmou/images/Capture-d-E2-80-99e-CC-81cran-2013-05-30-a-CC-80-22.28.20-300x3001.png)
+[![](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/Capture-d-E2-80-99e-CC-81cran-2013-05-30-a-CC-80-22.28.06-300x3001-300x300.png)](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/Capture-d-E2-80-99e-CC-81cran-2013-05-30-a-CC-80-22.28.06-300x3001.png)[![](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/Capture-d-E2-80-99e-CC-81cran-2013-05-30-a-CC-80-22.28.20-300x3001-300x300.png)](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/Capture-d-E2-80-99e-CC-81cran-2013-05-30-a-CC-80-22.28.20-300x3001.png)
 
 Vous trouverez les informations concernant les dates et le lieu de l'exposition sur notre site internet : expophotohelb.com ! Je me doute bien que beaucoup d'entre vous n'habitez pas Bruxelles, mais sait-on jamais si vous passez par là ! En tout cas je me ferais le plaisir après l'exposition de vous faire part des différentes photographies réalisées ! Je vous souhaite à tous un bon week end et à très bientôt !
 

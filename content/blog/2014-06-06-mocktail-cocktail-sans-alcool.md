@@ -1,7 +1,7 @@
 ---
 date: "2014-06-06T19:12:00+02:00"
 title: "Mocktail, le cocktail sans alcool"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/mocktail-cocktail-sans-alcool-passion-peche-orange-citron-vert.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/mocktail-cocktail-sans-alcool-passion-peche-orange-citron-vert.jpg"
 categories:
   - "Boissons"
 tags:

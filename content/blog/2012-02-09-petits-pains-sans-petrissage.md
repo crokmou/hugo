@@ -1,7 +1,7 @@
 ---
 date: "2012-02-09T20:30:00+01:00"
 title: "Petits pains sans pétrissage"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20120209_Pain_sans_petrissage_0050.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20120209_Pain_sans_petrissage_0050.jpg"
 categories:
   - "Boulangerie"
 tags:

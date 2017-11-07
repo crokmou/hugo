@@ -1,7 +1,7 @@
 ---
 date: "2012-04-01T15:00:00+02:00"
 title: "Cornes de gazelle"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20120321_Corne_de_gazelle_001.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20120321_Corne_de_gazelle_001.jpg"
 categories:
   - "Desserts"
 tags:

@@ -1,7 +1,7 @@
 ---
 date: "2013-11-18T12:32:00+01:00"
 title: "Riz au lait vanillé, caramel beurre salé"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/riz_lait_vanille_caramel_beurre_sale_0026.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/riz_lait_vanille_caramel_beurre_sale_0026.jpg"
 categories:
   - "Desserts"
 tags:

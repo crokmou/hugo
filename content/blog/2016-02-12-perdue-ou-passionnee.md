@@ -1,7 +1,7 @@
 ---
 date: "2016-02-12T15:33:45+01:00"
 title: "Perdue ou simplement passionnée ?"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/stock-photo-85087405.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/stock-photo-85087405.jpg"
 categories:
   - "Lifestyle"
 tags:

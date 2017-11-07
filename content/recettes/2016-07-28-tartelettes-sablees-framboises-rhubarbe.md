@@ -1,7 +1,7 @@
 ---
 date: "2016-07-28T20:08:13+02:00"
 title: "Tartelettes sablées framboises et rhubarbe"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/tartelette-sabl--e-framboises-conticini-crokmou-blog-culinaire.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/tartelette-sabl--e-framboises-conticini-crokmou-blog-culinaire.jpg"
 categories:
   - "Desserts"
 tags:

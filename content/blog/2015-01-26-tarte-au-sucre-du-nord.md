@@ -1,7 +1,7 @@
 ---
 date: "2015-01-26T17:43:00+01:00"
 title: "Tarte au sucre du Nord"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/tarte-sucre-nord-recette-blog-crokmou.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/tarte-sucre-nord-recette-blog-crokmou.jpg"
 categories:
   - "Boulangerie"
 tags:

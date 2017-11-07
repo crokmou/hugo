@@ -1,7 +1,7 @@
 ---
 date: "2014-08-23T09:00:00+02:00"
 title: "Keimling spécialiste du raw food {Concours}"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/partenariat-keimling-row-food.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/partenariat-keimling-row-food.jpg"
 categories:
   - "Lifestyle"
 tags:
@@ -12,11 +12,11 @@ slug: "keimling-specialiste-du-raw-food-concours"
 
 Je suis heureuse de vous présenter mon nouveau partenaire : [Keimling](http://www.keimling.fr/). Autrefois un petit magasin implantée en Allemagne, Keimling spécialiste du raw food ou alimentation crue, dispose maintenant d'une boutique en ligne. Etants crus les aliments gardent donc toutes leurs propriétés : vitamines, minéraux... top non ? Tous leurs produits sont **bio et naturels**, choisis avec la plus grande attention afin de vous faire parvenir des denrées de qualité crudité sans traitements chimiques et modifications étranges, ouai ouai, si je vous le dis ! Mais il n'y a pas que ça, sur leur site Internet vous pourrez aussi retrouver de l'électroménager bien utile pour ce mode d'alimentation : blenders, extracteurs de jus, deshydrateurs... Pour avoir déjà ouvert mon petit paquet cadeau, je peux vous affirmer que les produits sont très bons et sans sucres ajoutés s'viouplait ! La mousse d'amande elle est crue de chez crue et en fin de compte c'est aussi bon comme ça ! Voici ce que j'ai reçu dans mon colis : - De la mousse d'amande [❤](http://www.keimling.fr/mousse-d-amande-crue-1.html) - De la purée de sésame noir [❤](http://www.keimling.fr/puree-de-sesame-noir-tahini.html) (ma grande passion, mais siiiiiii, va voir [-là-](https://crokmou.com/?s=s%C3%A9same) tu verras) - Des mûres de mûrier blanc séchées [❤](http://www.keimling.fr/les-mures-du-murier-blanc.html) - De l'huile de coco [❤](http://www.keimling.fr/huile-de-noix-de-coco.html) - De la farine de coco [❤](http://www.keimling.fr/farine-de-coco-1.html) Gâtée vous ne trouvez pas ? Je pense que je vais faire de sacrées choses avec tout ça, bien entendu je vous posterai toutes mes petites recettes ! Vous souhaitez découvrir ces produits aussi ? Psssst, lisez en dessous des photos, il y a une petite surprise là plus bas !
 
-{{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/partenariat-keimling-row-food-4.jpg" alt="Keimling spécialiste du raw food" >}}
+{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/partenariat-keimling-row-food-4.jpg" alt="Keimling spécialiste du raw food" >}}
 
 Keimling et moi même vous proposons de gagner **un petit colis contenant des aliments crus** afin que vous puissiez vous faire votre avis sur ces produits peu communs ! Le lot contient : un pot de mousse d'amandes crues (250g), un sachet de farine de coco (1kg), un pot d'huile de coco (200ml) et un pot de purée de sésame noir (250g)
 
-[![Keimling spécialiste du raw food](https://s3.eu-west-2.amazonaws.com/crokmou/images/lot.jpg)](https://s3.eu-west-2.amazonaws.com/crokmou/images/lot.jpg)
+[![Keimling spécialiste du raw food](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/lot.jpg)](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/lot.jpg)
 
 ##### Pour participer, rien de plus simple :
 
@@ -33,4 +33,4 @@ Keimling et moi même vous proposons de gagner **un petit colis contenant des al
 
 EDIT DU 02/09/2014 : Cette fois nous n'avons pas une gagnante mais un gagnant, Grégory ! Bravo à lui !
 
-{{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/liste-keimling.jpg" alt="liste-keimling" >}} {{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/random-keimling.jpg" alt="random-keimling" >}}
+{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/liste-keimling.jpg" alt="liste-keimling" >}} {{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/random-keimling.jpg" alt="random-keimling" >}}

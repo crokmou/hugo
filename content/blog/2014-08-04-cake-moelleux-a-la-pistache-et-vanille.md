@@ -1,7 +1,7 @@
 ---
 date: "2014-08-04T07:59:00+02:00"
 title: "Cake moelleux à la pistache et vanille"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/cake-moelleux-pistache-vanille.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/cake-moelleux-pistache-vanille.jpg"
 categories:
   - "Desserts"
 tags:
@@ -32,7 +32,7 @@ slug: "cake-moelleux-a-la-pistache-et-vanille"
 
 Hey non ceci n'est pas un cake marbré au thé matcha mais bien un cake moelleux à la pistache et vanille ! Lors de mon partenariat avec Terre Exotique, j'avais en effet commandé de la pâte de pistache naturelle et j'ai eu envie de la tester dans un petit cake tout moelleux ! J'ai beaucoup aimé, c'est typiquement le genre de recette "comfort food" que j'aime ! Le goût de la pistache était peut être un peu trop subtil à mon goût, mais la prochaine fois je n'hésiterai pas à ajouter un peu plus de pâte à la recette, et même pourquoi pas quelques éclats de pistaches !
 
-{{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/cake-moelleux-pistache-vanille-2.jpg" alt="cake moelleux à la pistache" >}} {{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/cake-moelleux-pistache-vanille-1.jpg" alt="cake moelleux à la pistache" >}}
+{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/cake-moelleux-pistache-vanille-2.jpg" alt="cake moelleux à la pistache" >}} {{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/cake-moelleux-pistache-vanille-1.jpg" alt="cake moelleux à la pistache" >}}
 
 Et contrairement à ce que l'on peut croire, non non, la pâte de pistache c'est pas vert fluo, ça c'est juste pour faire vendre, si si je t'assure !
 

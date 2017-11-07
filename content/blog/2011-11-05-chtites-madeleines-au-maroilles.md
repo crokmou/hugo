@@ -1,7 +1,7 @@
 ---
 date: "2011-11-05T21:46:00+01:00"
 title: "Ch'tites madeleines au Maroilles"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20111103_madeleine_maroille_1.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20111103_madeleine_maroille_1.jpg"
 categories:
   - "Apéritifs"
 tags:

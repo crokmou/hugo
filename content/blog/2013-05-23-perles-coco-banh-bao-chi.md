@@ -1,7 +1,7 @@
 ---
 date: "2013-05-23T21:23:00+02:00"
 title: "Perles coco {Bánh bao chỉ}"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20130521_perle_coco_b--nh_bao_ch---_0012.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20130521_perle_coco_b--nh_bao_ch---_0012.jpg"
 categories:
   - "Desserts"
 tags:

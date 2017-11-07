@@ -1,7 +1,7 @@
 ---
 date: "2012-10-25T14:19:00+02:00"
 title: "Heinz Tomato Ketchup Primeur 2012 { Jeudi test produiiit }"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20121001_ketchup_heinz_primeur_0027_ok.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20121001_ketchup_heinz_primeur_0027_ok.jpg"
 categories:
   - "Sauces - confitures"
 tags:

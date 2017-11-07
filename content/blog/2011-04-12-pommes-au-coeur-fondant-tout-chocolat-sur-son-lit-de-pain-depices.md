@@ -1,7 +1,7 @@
 ---
 date: "2011-04-12T14:26:00+02:00"
 title: "Pommes au cœur fondant tout chocolat sur son lit de pain d'épices"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/Pommes-coeur-chocolat.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/Pommes-coeur-chocolat.jpg"
 categories:
   - "Desserts"
 tags:

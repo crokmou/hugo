@@ -1,7 +1,7 @@
 ---
 date: "2014-09-18T12:13:00+02:00"
 title: "Palets de dame, pâtisserie du Nord"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/palets-de-dame-recette-crokmou-blog-culinaire.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/palets-de-dame-recette-crokmou-blog-culinaire.jpg"
 categories:
   - "Desserts"
 tags:

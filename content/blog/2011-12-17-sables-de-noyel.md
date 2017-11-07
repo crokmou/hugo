@@ -1,7 +1,7 @@
 ---
 date: "2011-12-17T21:25:00+01:00"
 title: "Sablés de Noyel"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20111217_sable_noel_chocolat1.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20111217_sable_noel_chocolat1.jpg"
 categories:
   - "Desserts"
 tags:

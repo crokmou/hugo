@@ -1,7 +1,7 @@
 ---
 date: "2012-08-28T15:29:00+02:00"
 title: "Mikado maison"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/20120827_mikado_home_made_0023.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20120827_mikado_home_made_0023.jpg"
 categories:
   - "Desserts"
 tags:

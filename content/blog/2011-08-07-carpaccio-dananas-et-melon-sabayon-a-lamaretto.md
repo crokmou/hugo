@@ -1,7 +1,7 @@
 ---
 date: "2011-08-07T11:22:00+02:00"
 title: "Carpaccio d'ananas et melon, sabayon à l'amaretto"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/IMG_2786.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/IMG_2786.jpg"
 categories:
   - "Desserts"
 tags:

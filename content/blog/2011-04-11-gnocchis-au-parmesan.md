@@ -1,7 +1,7 @@
 ---
 date: "2011-04-11T22:11:00+02:00"
 title: "Gnocchis au parmesan"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/Gnocchis.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/Gnocchis.jpg"
 categories:
   - "Plats"
 tags:

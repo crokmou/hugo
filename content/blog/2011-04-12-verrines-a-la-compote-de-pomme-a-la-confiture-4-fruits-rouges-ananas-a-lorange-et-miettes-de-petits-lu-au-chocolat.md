@@ -1,7 +1,7 @@
 ---
 date: "2011-04-12T10:15:00+02:00"
 title: "Verrines à la compote de pomme, à la confiture 4 fruits rouges, ananas à l'orange et miettes de petits Lu au chocolat"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/Verrine-compote-pomme.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/Verrine-compote-pomme.jpg"
 categories:
   - "Desserts"
 tags:

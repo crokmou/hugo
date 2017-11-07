@@ -1,7 +1,7 @@
 ---
 date: "2015-01-11T16:09:00+01:00"
 title: "Bodding au chocolat et noisettes"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/bodding-chocolat-noisette-recette-blog-crokmou.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/bodding-chocolat-noisette-recette-blog-crokmou.jpg"
 categories:
   - "Desserts"
 tags:

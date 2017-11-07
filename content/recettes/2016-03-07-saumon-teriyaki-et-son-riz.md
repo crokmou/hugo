@@ -1,7 +1,7 @@
 ---
 date: "2016-03-07T16:20:29+01:00"
 title: "Saumon Teriyaki et son riz Basmati"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/saumon-teriyaki-riz-crokmou-blog-culinaire.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/saumon-teriyaki-riz-crokmou-blog-culinaire.jpg"
 categories:
   - "Plats"
 tags:
@@ -69,7 +69,7 @@ disqusId: 4641879915
 slug: saumon-teriyaki-et-son-riz
 ---
 
-Il y a quelques temps, Fanny du blog Geek&Food m'a contacté pour participer à une petite création de recette avec la nouvelle collection de riz Taureau Ailé. En effet la marque a récemment commercialisé 3 riz aux notes envoûtantes : le Basmati escale à Chandernagor, le Thaï à l'heure de Bangkok et le Basmati comptoir de Pondichery. {{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/taureau-ail--.jpg" alt="taureau ailé" >}}{{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/inconnu-1.png" alt="inconnu" >}}
+Il y a quelques temps, Fanny du blog Geek&Food m'a contacté pour participer à une petite création de recette avec la nouvelle collection de riz Taureau Ailé. En effet la marque a récemment commercialisé 3 riz aux notes envoûtantes : le Basmati escale à Chandernagor, le Thaï à l'heure de Bangkok et le Basmati comptoir de Pondichery. {{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/taureau-ail--.jpg" alt="taureau ailé" >}}{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/inconnu-1.png" alt="inconnu" >}}
 
 La demande était assez simple, je devais choisir entre différents coffrets aux couleurs des packaging et réaliser une recette en gardant le ton du pack choisi. J'ai opté pour le vert en faisant une escale à Chandernagor. Je n'avais encore jamais mangé de riz parfumé, j'avoue que c'est une grande première pour moi... Le côté délicat et boisé de ce riz, il se sent bien, cela amène une note subtile au plat et c'est plutôt chouette !
 

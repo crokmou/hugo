@@ -1,7 +1,7 @@
 ---
 date: "2011-10-09T17:09:00+02:00"
 title: "Choco chaud"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/Chocolat-chaud.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/Chocolat-chaud.jpg"
 categories:
   - "Boissons"
 tags:

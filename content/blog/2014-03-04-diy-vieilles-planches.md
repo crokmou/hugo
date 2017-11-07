@@ -1,7 +1,7 @@
 ---
 date: "2014-03-04T13:49:00+01:00"
 title: "DIY (Très) vieilles planches"
-thumbnail: "https://s3.eu-west-2.amazonaws.com/crokmou/images/diy-vieille-planche.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/diy-vieille-planche.jpg"
 categories:
   - "Lifestyle"
 tags:
@@ -10,7 +10,7 @@ description: ""
 slug: "diy-vieilles-planches"
 ---
 
-Aaah les fameuses vieilles planches usées, on en rêverait tout(e)s [ou presque !]. Oui parce que ces vieilles planches qu'on soit tous bien d'accord ça donne quand même un certain style, un certain cachet à nos photos mais entre nous c'est vraiment pas facile à trouver. Bon soit certains me diront mais si dans les maisons abandonnées, quand tu refais ta baraque ou encore dans le jardin du voisin... oui mais bon, il y a aussi la déchetterie, seulement voilà c'est un coup de chance pour tomber sur celle qui t'apportera des étoiles dans les yeux ! {{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/diy-vieille-planche-1.jpg" alt="diy-vieille-planche-1" >}} {{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/diy-vieille-planche-2.jpg" alt="diy-vieille-planche-2" >}} Il y a quelques jours j'ai eu une commande de la part d'un client [Mr. [Anthony Florio, photographe culinaire](http://www.florioanthony.be/). Oui oui, le monsieur qui fait des trucs peu conventionnels et de très jolis clichés !] pour ses futures photos. La demande bien évidemment : de vieilles planches déglinguées. Ma semaine étant déjà bien chargée, pas le temps d'aller poireauter à la décharge en attendant LA planche parfaite il me fallait donc trouver une autre solution. Internet étant très [très très très] utile, j'ai déniché un [petit tuto](http://makethebestofthings.blogspot.be/2010/05/crackle-finish-with-elmers-glue.html) pour la réalisation de planches vieillies. Rien de bien compliqué, il faut juste vous armer d'un peu de patience, de créativité et d'un tas de couleurs. Notez donc impérativement :
+Aaah les fameuses vieilles planches usées, on en rêverait tout(e)s [ou presque !]. Oui parce que ces vieilles planches qu'on soit tous bien d'accord ça donne quand même un certain style, un certain cachet à nos photos mais entre nous c'est vraiment pas facile à trouver. Bon soit certains me diront mais si dans les maisons abandonnées, quand tu refais ta baraque ou encore dans le jardin du voisin... oui mais bon, il y a aussi la déchetterie, seulement voilà c'est un coup de chance pour tomber sur celle qui t'apportera des étoiles dans les yeux ! {{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/diy-vieille-planche-1.jpg" alt="diy-vieille-planche-1" >}} {{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/diy-vieille-planche-2.jpg" alt="diy-vieille-planche-2" >}} Il y a quelques jours j'ai eu une commande de la part d'un client [Mr. [Anthony Florio, photographe culinaire](http://www.florioanthony.be/). Oui oui, le monsieur qui fait des trucs peu conventionnels et de très jolis clichés !] pour ses futures photos. La demande bien évidemment : de vieilles planches déglinguées. Ma semaine étant déjà bien chargée, pas le temps d'aller poireauter à la décharge en attendant LA planche parfaite il me fallait donc trouver une autre solution. Internet étant très [très très très] utile, j'ai déniché un [petit tuto](http://makethebestofthings.blogspot.be/2010/05/crackle-finish-with-elmers-glue.html) pour la réalisation de planches vieillies. Rien de bien compliqué, il faut juste vous armer d'un peu de patience, de créativité et d'un tas de couleurs. Notez donc impérativement :
 
 *   Planches (même du mdf ça fonctionne)
 *   Peintures acryliques ou gouache
@@ -29,6 +29,6 @@ Aaah les fameuses vieilles planches usées, on en rêverait tout(e)s [ou presque
 
 TADAAA ! La colle apporte un peu de matière et permet de faire craqueler la peinture. Après rien ne vous empêche de tester d'autre manière ou d'appliquer d'autres couches pour un aspect encore plus vieilli ! Pas d'inquiétudes quant à la colle qui reste blanche, après quelques heures de séchage elle va devenir transparente et vous verrez donc votre sous couche apparaître.
 
-{{< img src="https://s3.eu-west-2.amazonaws.com/crokmou/images/diy-vieille-planche-4.jpg" alt="diy-vieille-planche-4" >}}
+{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/diy-vieille-planche-4.jpg" alt="diy-vieille-planche-4" >}}
 
 Alors qu'en pensez vous ? Sympa non ? Et puis c'est un bon atelier pour les week end tout gris ! Des bisous les loulous !
