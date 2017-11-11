@@ -4,7 +4,25 @@
 <section class="single flex flex-wrap align-items-start">
   <div class="flex-12 flex-med-9">
     <article class="single__content markdown">
-      {{with .Title}}<h1>{{.}}</h1>{{end}}
+      <header class="single__content__header flex align-items-center">
+        <a class="prev flex align-items-center{{if .NextInSection}} hoverable{{end}}" rel="xhr" href="{{with .NextInSection}}{{.Permalink}}{{end}}">
+          {{ with .NextInSection }}
+          <img class="current" src="/assets/images/svg/as-picture/arrow.svg" alt="">
+          <span class="thumbnail" style="background-image: url({{.Params.Thumbnail}});"></span>
+          {{ end }}
+        </a>
+        <a class="next flex align-items-center flex-last{{if .PrevInSection}} hoverable{{end}}" rel="xhr" href="{{with .PrevInSection}}{{.Permalink}}{{end}}">
+          {{ with .PrevInSection }}
+            <img class="current" src="/assets/images/svg/as-picture/arrow.svg" alt="">
+            <span class="thumbnail" style="background-image: url({{.Params.Thumbnail}});"></span>
+          {{ end }}
+        </a>
+        <h1 class="title" rel="single-header-title">
+          <div class="title__prev flex align-items-center justify-center">{{with .PrevInSection}}{{.Title}}{{end}}</div>
+          <div class="title__current flex align-items-center justify-center">{{with .Title}}{{.}}{{end}}</div>
+          <div class="title__next flex align-items-center justify-center">{{with .NextInSection}}{{.Title}}{{end}}</div>
+        </h1>
+      </header>
       {{if .Params.thumbnail}}
       {{partial "molecules/img.html" (dict "src" .Params.Thumbnail "alt" .Title)}}
       {{end}}

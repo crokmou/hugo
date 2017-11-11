@@ -2,6 +2,7 @@
 *.iml
 .idea
 .DS_Store
+.env
 
 #Generated
 .tmp

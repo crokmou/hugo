@@ -22,7 +22,7 @@ $brand-secondary: #e9487a;
 $brand-danger: hsl(0, 67%, 50%);
 
 // Fonts
-$oswald: 'Oswald', sans-serif;
+$oswald: 'Oswald', Palatino, 'Palatino Linotype', sans-serif;
 $roboto: 'Roboto', sans-serif;
 
 // Spaces
@@ -53,7 +53,7 @@ $breakpoints: (
 }
 
 @mixin tile-shadow() {
-  box-shadow: 0 20px 60px -25px rgba(0, 0, 0, .8);
+  box-shadow: 0 2px 4px rgba(5,15,44,0.1);
 }
 
 @mixin text-shadow($width, $color) {
@@ -90,4 +90,16 @@ $breakpoints: (
     text-shadow: none;
     -webkit-text-stroke: #{$width}px $color;
   }
+}
+
+@function pow($number, $exponent) {
+  $value: 1;
+
+  @if $exponent > 0 {
+    @for $i from 1 through $exponent {
+      $value: $value * $number;
+    }
+  }
+
+  @return $value;
 }

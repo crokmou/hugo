@@ -46,11 +46,11 @@ Je l'ai dit plus haut et n'hésite pas à vous le dire une seconde fois, perdez-
 
 *   Si il y a une chose que j'aurais aimé visiter, mais évidemment j'ai loupé les heures de visites, ce sont la **Galerie** et le **Palais Colonna.** Ces lieux semblent être assez magiques ! Attention, visite libre possible les samedis de 9h à 13h. [_Site Internet _](http://www.galleriacolonna.it/fr/)
 
-*   **Piazza Colonna**
+* **Piazza Colonna**
 
-*   **Palazzo Farnese**
+* **Palazzo Farnese**
 
-*   Il y a évidemment le célèbre **Panthéon**. En plein coeur du centre historique, il est l'une des destinations préférée des touristes. Il y a du monde c'est vrai, mais c'est grandiose à voir : La coupole est l'une des plus grande voûtes jamais réalisée.
+* Il y a évidemment le célèbre **Panthéon**. En plein coeur du centre historique, il est l'une des destinations préférée des touristes. Il y a du monde c'est vrai, mais c'est grandiose à voir : La coupole est l'une des plus grande voûtes jamais réalisée.
 
 {{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/weekend-rome-italie-crokmou-blog-cuisine-voyage-belgique-76.jpg" alt="Panthéon - Citytrip à Rome" >}}
 

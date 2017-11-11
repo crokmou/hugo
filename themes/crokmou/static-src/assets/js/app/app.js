@@ -7,10 +7,59 @@ $(document).ready(function() {
   const $bodyHtml      = $('body, html');
 
   const App = (function App() {
-    new IOlazy({
-      threshold: 0,
-    });
-    (function CARDS() {
+    Algolia();
+    Photoswipe();
+    LazyLoad();
+    Single();
+    ResizeVideos();
+    Card();
+
+    function LazyLoad() {
+      new IOlazy({
+        threshold: 0,
+      });
+      $('.lazyload').each(function() {
+        const $this = $(this);
+        $this.on('load',function() {
+          $this.removeClass('loading');
+        })
+      });
+    }
+
+    function Single() {
+      const $headerTitle = $('[rel="single-header-title"]');
+      const $children = $headerTitle.children();
+      let height = 0;
+      $children.each(function() {
+        const $this = $(this);
+        const newHeight = $this.height();
+        if(newHeight > height) {
+          height = newHeight;
+        }
+      });
+      $children.height('100%');
+      $headerTitle.height(height + 30);
+    }
+
+    function ResizeVideos() {
+      const $allVideos = $('iframe[src*="youtube.com"]');
+      const $fluidEl = $('.markdown');
+
+      $allVideos.each(function() {
+        $(this).data('aspectRatio', this.height / this.width)
+        .removeAttr('height').removeAttr('width');
+      });
+
+      $(window).resize(function() {
+        const newWidth = $fluidEl.width();
+        $allVideos.each(function() {
+          const $el = $(this);
+          $el.width(newWidth).height(newWidth * $el.data('aspectRatio'));
+        });
+      }).resize();
+    }
+
+    function Card() {
       $('[rel="js-card"]').each(function() {
         let $this   = $(this);
         let $share  = $this.find('[rel="js-share"]');
@@ -22,12 +71,62 @@ $(document).ready(function() {
           $share.toggleClass('visible');
         }
       });
-    })();
+    }
 
     return {init: App};
   })();
 
-  const Photoswipe = (function Photoswipe() {
+
+
+  function Algolia() {
+    try {
+      const client = algoliasearch('7GZHV5CIYF',
+          'c2dcc32aadead636824c3f969c3adc53');
+      const index  = client.initIndex('blog');
+      $('#search-input').autocomplete({
+        openOnFocus: true,
+        templates  : {
+          dropdownMenu: '#global-search',
+        },
+      }, [
+        {
+          source   : $.fn.autocomplete.sources.hits(index, {hitsPerPage: 5}),
+          templates: {
+            suggestion: function(suggestion) {
+              const props   = {};
+              const content = suggestion.content;
+              Object.keys(suggestion._highlightResult).map((prop) => {
+                const value = suggestion._highlightResult[prop].value;
+                if (value) {
+                  const nb        = 25;
+                  const before    = value.substring(value.indexOf('<em>') - nb,
+                      value.indexOf('<em>'));
+                  const highlight = (/(\<em>.*\<\/em\>)/.exec(value) ||
+                      [])[0] || '';
+                  const after     = value.substring(value.lastIndexOf('<\em>') +
+                      highlight.length, value.lastIndexOf('<\em>') +
+                      highlight.length + nb);
+                  props[prop]     = (before.length >= nb ? '...' : '') +
+                      before + highlight + after +
+                      (after.length >= nb ? '...' : '');
+                }
+              });
+              return `<div class="row">
+                        <h2>${suggestion.title}</h2>
+                        <p>${(suggestion.description ||
+                  content.substring(0, 100))}</p>
+                      </div>`;
+            },
+          },
+        },
+      ]).on('autocomplete:selected', function(event, suggestion, dataset) {
+        window.location = suggestion.uri;
+      });
+    } catch (e) {
+      setTimeout(Algolia, 300);
+    }
+  }
+  function Photoswipe() {
 
     const initPhotoSwipeFromDOM = function(gallerySelector) {
 
@@ -44,7 +143,7 @@ $(document).ready(function() {
 
         for (let i = 0; i < images.length; i++) {
           $figure = thumbElements[i];
-          $img = images[i];
+          $img    = images[i];
           if ($figure.nodeType !== 1 || $img.error) {
             continue;
           }
@@ -243,10 +342,7 @@ $(document).ready(function() {
     }
 
     initPhotoSwipeFromDOM('.single');
-    return {
-      init: Photoswipe,
-    };
-  })();
+  }
 
   /**
    * Ajax loader to insert the sprite svg dynamically at the bottom of the document
@@ -293,7 +389,6 @@ $(document).ready(function() {
           $pageContainer.html($(elem).html()).promise().done(function(res) {
             $bodyHtml.animate({scrollTop: 0}, 300);
             App.init();
-            Photoswipe.init();
             analytics(res, state.title);
           });
         });

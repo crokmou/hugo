@@ -24,7 +24,7 @@
     "commit": "git add -A && git diff-index --quiet HEAD || git commit -m 'Auto commit' && git push",
     "predeploy": "npm run commit && npm run clean && npm run build",
     "deploy": "gh-pages -d public",
-    "index": "hugo-algolia -i content/blog/**/* -o ./my-index.json -all",
+    "index": "hugo-algolia -i \"content/**\" -o \"./my-index.json\"",
     "import": "ruby ./_scripts/import/wp-xml-hugo-import.rb ./_scripts/import/crokmou-blogcuisineampvoyages.wordpress.2017-11-03.xml ./_scripts/import/crokmou-blogcuisineampvoyages.wordpress.2017-11-03\\ \\(1\\).xml",
     "postimport": "node ./_scripts/mify.js ./_scripts/post && rm -rf ./_scripts/post && rm -rf ./_scripts/page"
   },
@@ -69,18 +69,22 @@
     }
   },
   "devDependencies": {
+    "algoliasearch": "^3.24.5",
     "autoprefixer": "^7.1.2",
     "babel": "^6.23.0",
     "babel-cli": "^6.24.1",
     "babel-eslint": "^7.2.3",
+    "dotenv": "^4.0.0",
     "eslint": "^4.1.1",
     "eslint-config-google": "^0.8.0 ",
     "gh-pages": "^1.0.0",
-    "hugo-algolia": "^1.2.2",
+    "hugo-algolia": "^1.2.9",
     "image-size": "^0.6.1",
+    "markdown-resume": "^0.1.0",
     "node-sass": "^4.5.3",
     "onchange": "^3.2.1",
     "parallelshell": "^3.0.1",
+    "remove-markdown": "^0.2.2",
     "to-markdown": "^3.1.0"
   }
 }

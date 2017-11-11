@@ -16,7 +16,6 @@
 }
 svg, svg * { box-sizing: content-box; }
 img { max-width: 100%; }
-body, html { height: 100%; }
 html { font-size: 62.5%; }
 body {
   background: $brand-primary-light;
@@ -58,6 +57,7 @@ figure { margin: 0; }
 @import "molecule/pagination";
 @import "molecule/picture";
 @import "molecule/selectric";
+@import "molecule/algolia";
 
 // Blocks
 @import "markdown";

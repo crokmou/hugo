@@ -11,7 +11,7 @@
     object-fit: cover;
     &:before {
       position: absolute; top: 50%; left: 50%; z-index: 1;
-      width: 10%; height: 10%; transform: translate(-50%, -50%);
+      width: 10%; height: 10%; transform: translate(-50%, -50%); padding-bottom: 67%;
       background: url('') no-repeat 50% 50%; background-size: contain;
       content: "";
     }

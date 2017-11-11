@@ -2,10 +2,14 @@
         itemscope
         itemtype="http://schema.org/ImageObject">
   <a href='{{.Get "src"}}' itemprop="contentUrl" target="_blank" rel="noopener">
-    <img class="lazyload"
+    <img class="lazyload loading"
          data-src='{{.Get "src"}}'
          itemprop="thumbnail"
+         src=""
          alt='{{.Get "alt"}}'/>
+    <noscript>
+      <img src='{{.Get "src"}}' itemprop="thumbnail" alt='{{.Get "alt"}}'/>
+    </noscript>
   </a>
   {{with .Get "caption"}}<figcaption itemprop="caption description">{{.}}</figcaption>{{end}}
 </figure>

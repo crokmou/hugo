@@ -1,22 +1,30 @@
+$fontSize: 1em;
+$goldenRatio: 1.333;
 body {
-  font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; color: #333333; line-height: 1; font-size: 18px;
+  font-family: $roboto; font-weight: 300; color: #333333; line-height: 1.45; font-size: 18px;
 }
 a {
   color: $brand-secondary; text-decoration: none;
   &:hover, &:focus { text-decoration: underline; }
 }
 
-h1, h2, h3, h4, h5, h6 { font-family: sans-serif; }
-h1 { font-size: 1.4em; }
-h2 { font-size: 1.3em; }
-h3 { font-size: 1.2em; }
-h4 { font-size: 1.1em; }
-h5 { font-size: 1em; }
-h6 { font-size: .9em; }
+h1, h2, h3, h4, h5, h6 {
+  margin: #{$goldenRatio}em 0 0.5em;
+  font-family: $oswald; font-weight: inherit; line-height: 1.2; text-transform: inherit;
+}
 
+@for $i from 1 through 6 {
+  h#{$i} {
+    @if (6 - $i) > 2 {
+      font-size: $fontSize * pow($goldenRatio, 4 - $i);
+    } @else {
+      font-size: $fontSize * (1 / pow($goldenRatio, 6 - $i));
+    }
+  }
+}
 h1,
 h5 { text-transform: uppercase; }
 
 p {
-  color: $gray-45; line-height: 1.4em;
+  color: $gray-45;
 }
