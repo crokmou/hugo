@@ -12,7 +12,9 @@
         <div class="header__ss__search flex-2 flex-med-12 flex-shrink flex-med-shrink">
           <div class="input input--search">
             <input id="search-input" type="text" placeholder="Rechercher">
-            {{ partial "molecules/icon.html" (dict "id" "magnifier" "href" "#" "attrs" "type=submit") }}
+            <a href="#" type="type=submit">
+              <svg class="s-icon"><use xlink:href="#magnifier"></use></svg>
+            </a>
           </div>
         </div>
         <nav class="header__ss__social">
@@ -21,18 +23,21 @@
             <li class="flex justify-center align-items-center">
               {{$id := index . "id"}}
               {{$href := index . "href"}}
-              {{ partial "molecules/icon.html" (dict "id" $id "href" $href) }}
+              <a href="{{$href}}">
+                <svg class="s-icon"><use xlink:href="#{{$id}}"></use></svg>
+              </a>
             </li>
             {{ end }}
           </ul>
         </nav>
       </section>
       <nav class="header__nav flex-12">
-        <ul class="list list--inline flex align-items-center">
+        <ul class="flex align-items-center">
           {{ $currentPage := . }}
           {{ range .Site.Menus.header }}
-          <li class='{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}active{{end}}"'>
-            <a rel="xhr" href="{{ .URL }}">{{ .Name }}</a>
+          <li>
+            <a class='{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) (eq (lower $currentPage.Section) (lower .Name)) }}active{{end}}'
+               rel="xhr" href="{{ .URL }}">{{ .Name }}</a>
           </li>
           {{ end }}
         </ul>
