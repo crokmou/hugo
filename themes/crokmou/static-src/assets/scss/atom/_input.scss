@@ -1,11 +1,13 @@
 .input {
+  $padding: .4em;
   position: relative;
   input {
     display: inline-block;
-    width: 100%; padding: .8rem;
-    background-color: $white; border: 1px solid $gray-60; box-shadow: none;
+    width: 100%; padding: $padding;
+    background-color: $white; border: 1px solid $gray-60; border-radius: 5px; box-shadow: none;
     outline:none; text-align: left; color: $brand-primary; line-height: 1.4rem;
     appearance: none;
+    &:focus { outline: none; }
     &::-webkit-input-placeholder { color: $gray-60; }
     &:-moz-placeholder { color: $gray-60; }
     &::-moz-placeholder { color: $gray-60; }
