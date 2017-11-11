@@ -5,7 +5,7 @@
   {{$title := index . "title"}}
   {{$articles := index . "articles"}}
   <article class="sidebar__section sidebar__section--{{$id}}">
-    <h1 class="sidebar__section__title" data-stroke="{{$title}}">{{$title}}</h1>
+    <h2 class="sidebar__section__title" data-stroke="{{$title}}">{{$title}}</h2>
     {{if eq $id "breve" }}
     <ul>
       {{ range first 3 (where (where $pages "Section" "eq" "carnet de voyage") "Title" "!=" "") }}
@@ -13,10 +13,12 @@
       {{with .Description }}{{ $description := . }}{{end}}
       {{ $description := $description | truncate 100 }}
       <li class="sidebar__section__item">
-        <h5><a class="sidebar__section__link"
-               rel="xhr"
-               href="{{.Permalink}}">{{.Title}}</a></h5>
-        <div class="sidebar__section__description">{{$description}}</div>
+        <a class="link"
+           rel="xhr"
+           href="{{.Permalink}}">
+          <h3 class="link__title">{{.Title}}</h3>
+          <div class="link__description">{{$description}}</div>
+        </a>
       </li>
       {{ end }}
     </ul>
@@ -25,14 +27,10 @@
       {{ range $articles }}
       <li class="sidebar__section__item">
         {{range (where $pages "Slug" "eq" .)}}
-        <h5>
-          <a class="sidebar__section__link" href="{{.Permalink}}" rel="xhr">
-            {{.Title}}
-            <div class="sidebar__section__description">
-              {{ partial "molecules/picture.html" (dict "src" .Params.Thumbnail "alt" .Title "pb" "40%") }}
-            </div>
+          <a class="link" href="{{.Permalink}}" rel="xhr">
+            <h3 class="link__title">{{.Title}}</h3>
+            <div class="link__img">{{ partial "molecules/picture.html" (dict "src" .Params.Thumbnail "alt" .Title "pb" "40%") }}</div>
           </a>
-        </h5>
         {{end}}
       </li>
       {{ end }}

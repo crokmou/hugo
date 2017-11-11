@@ -1,30 +1,19 @@
 $fontSize: 1em;
 $goldenRatio: 1.333;
 body {
-  font-family: $roboto; font-weight: 300; color: #333333; line-height: 1.45; font-size: 18px;
+  font-family: $roboto; font-weight: 300; color: $gray-60; line-height: 1.45;
 }
+h1, h2, h3, h4, h5, h6 {
+  font-family: $oswald; font-weight: inherit; line-height: 1.2; text-transform: inherit; color: $gray-15;
+}
+h1 { font-size: $fontSize * pow($goldenRatio, 3)}
+h2 { font-size: $fontSize * pow($goldenRatio, 2)}
+h3 { font-size: $fontSize * pow($goldenRatio, 1)}
+h4, h5, h6 { font-size: $fontSize }
+h1, h5 { text-transform: uppercase; }
+
 a {
   color: $brand-secondary; text-decoration: none;
   &:hover, &:focus { text-decoration: underline; }
 }
-
-h1, h2, h3, h4, h5, h6 {
-  margin: #{$goldenRatio}em 0 0.5em;
-  font-family: $oswald; font-weight: inherit; line-height: 1.2; text-transform: inherit;
-}
-
-@for $i from 1 through 6 {
-  h#{$i} {
-    @if (6 - $i) > 2 {
-      font-size: $fontSize * pow($goldenRatio, 4 - $i);
-    } @else {
-      font-size: $fontSize * (1 / pow($goldenRatio, 6 - $i));
-    }
-  }
-}
-h1,
-h5 { text-transform: uppercase; }
-
-p {
-  color: $gray-45;
-}
+strong { color: $gray-45; }

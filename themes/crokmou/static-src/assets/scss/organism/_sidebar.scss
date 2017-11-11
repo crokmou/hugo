@@ -8,17 +8,28 @@
       margin-top: 15px;
       &:first-child { margin-top: 0; }
     }
-    &__link {
+    .link {
+      display: block;
       text-transform: uppercase;
-    }
-    &__description {
-      margin-top: 10px;
-      p, strong, em {
-        color: $gray-60; font-weight: normal!important;
+      &__title { color: $brand-secondary; }
+      &__description {
+        margin-top: 10px;
+        color: $gray-60; text-transform: none;
+      }
+      &__img { margin-top: 1em; }
+      &:hover {
+        text-decoration: none;
+        .link__title {
+          text-decoration: underline;
+        }
       }
     }
+    &__title {
+      margin: 1em 0 .6em;
+      font-weight: 600;
+    }
     &:first-child &__title {
-      transform: translateY(-.4em);
+      transform: translateY(-.6em);
       margin-bottom: -.1em; margin-top: 0;
     }
   }

@@ -8,7 +8,7 @@
   border-radius: inherit;
   color: inherit;
   &:not(script) + *:not(body):not(.flex-*) { margin-top: $global-spacing; }
-  &:focus {
+  &:not(.pswp):focus {
     outline: 1px dashed $brand-primary-darkest;
     background-color: lighten($brand-primary-darkest, 50%);
   }
@@ -16,13 +16,8 @@
 }
 svg, svg * { box-sizing: content-box; }
 img { max-width: 100%; }
-html { font-size: 62.5%; }
 body {
   background: $brand-primary-light;
-  > div,
-  > header {
-    font-size: 18px;
-  }
 }
 
 [data-stroke] {
@@ -34,13 +29,7 @@ body {
     content: attr(data-stroke);
   }
 }
-
-figure { margin: 0; }
-.container { max-width: rem(1200); margin: 0 auto; width: 100%; }
-
-.pswp {
-  &:focus, *:focus { background-color: transparent; }
-}
+.container { max-width: 1200px; margin: 0 auto; width: 100%; }
 
 // Utils
 @import "utils";
