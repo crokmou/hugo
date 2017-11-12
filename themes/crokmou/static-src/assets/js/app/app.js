@@ -1,12 +1,13 @@
 $(document).ready(function() {
   'use strict';
 
-  const SPRITE_URL = '/assets/images/svg/sprite.svg';
+  const SPRITE_URL = '/assets/images/svg/Crokmou.min.svg';
 
   const $pageContainer = $('#page-container');
   const $bodyHtml      = $('body, html');
 
   const App = (function App() {
+    Nav();
     Algolia();
     Photoswipe();
     LazyLoad();
@@ -14,26 +15,51 @@ $(document).ready(function() {
     ResizeVideos();
     Card();
 
+    function Nav() {
+      const $window = $(window);
+      const $logo   = $('[rel="logo"]');
+      const $nav    = $('[rel="nav"]');
+      const $active = $nav.find('.active');
+      if ($active.length) {
+        const scrollLeftPos = $active.offset().left - $nav.offset().left - 40;
+        $nav.scrollLeft(scrollLeftPos);
+      }
+      ResizeWindow(() => {
+        updateLogoShape();
+        ScrollWindow(() => {
+          updateLogoShape(true)
+        });
+      });
+      function updateLogoShape(transition) {
+        const isDesktop = $window.width() >= 768;
+        const topMax = $window.scrollTop() >= 60;
+        $logo.css({
+          'transition': transition ? '.3s ease transform' : 'none',
+          'transform': 'translateY('+ ((topMax && isDesktop) ? '30' : '0') + 'px) scale('+ ((topMax && isDesktop) ? '.6' : '1')+')',
+        });
+      }
+    }
+
     function LazyLoad() {
       new IOlazy({
         threshold: 0,
       });
       $('.lazyload').each(function() {
         const $this = $(this);
-        $this.on('load',function() {
+        $this.on('load', function() {
           $this.removeClass('loading');
-        })
+        });
       });
     }
 
     function Single() {
       const $headerTitle = $('[rel="single-header-title"]');
-      const $children = $headerTitle.children();
-      let height = 0;
+      const $children    = $headerTitle.children();
+      let height         = 0;
       $children.each(function() {
-        const $this = $(this);
+        const $this     = $(this);
         const newHeight = $this.height();
-        if(newHeight > height) {
+        if (newHeight > height) {
           height = newHeight;
         }
       });
@@ -43,20 +69,30 @@ $(document).ready(function() {
 
     function ResizeVideos() {
       const $allVideos = $('iframe[src*="youtube.com"]');
-      const $fluidEl = $('.markdown');
+      const $fluidEl   = $('.markdown');
 
       $allVideos.each(function() {
-        $(this).data('aspectRatio', this.height / this.width)
-        .removeAttr('height').removeAttr('width');
+        $(this).
+        data('aspectRatio', this.height / this.width).
+        removeAttr('height').
+        removeAttr('width');
       });
 
-      $(window).resize(function() {
+      ResizeWindow(function() {
         const newWidth = $fluidEl.width();
         $allVideos.each(function() {
           const $el = $(this);
           $el.width(newWidth).height(newWidth * $el.data('aspectRatio'));
         });
-      }).resize();
+      });
+    }
+
+    function ResizeWindow(cb) {
+      $(window).resize(cb).resize();
+    }
+
+    function ScrollWindow(cb) {
+      $(window).scroll(cb).scroll();
     }
 
     function Card() {
@@ -75,8 +111,6 @@ $(document).ready(function() {
 
     return {init: App};
   })();
-
-
 
   function Algolia() {
     try {
@@ -126,6 +160,7 @@ $(document).ready(function() {
       setTimeout(Algolia, 300);
     }
   }
+
   function Photoswipe() {
 
     const initPhotoSwipeFromDOM = function(gallerySelector) {
@@ -352,8 +387,10 @@ $(document).ready(function() {
     let ajax = new XMLHttpRequest();
     ajax.open('GET', SPRITE_URL, true);
     ajax.onload = function() {
-      let div       = document.createElement('div');
-      div.innerHTML = ajax.responseText;
+      let div          = document.createElement('div');
+      div.style.width  = 0;
+      div.style.height = 0;
+      div.innerHTML    = ajax.responseText;
       document.body.insertBefore(div, document.body.childNodes[0]);
     };
     ajax.send();
@@ -387,7 +424,9 @@ $(document).ready(function() {
             return;
           }
           $pageContainer.html($(elem).html()).promise().done(function(res) {
-            $bodyHtml.animate({scrollTop: 0}, 300);
+            if($(window).scrollTop() >= $('[rel="header"]').height()) {
+              $bodyHtml.animate({scrollTop: $('[rel="header"] + *').offset().top - 60}, 300);
+            }
             App.init();
             analytics(res, state.title);
           });

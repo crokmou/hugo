@@ -5,7 +5,7 @@
     display: inline-block;
     width: 100%; padding: $padding;
     background-color: $white; border: 1px solid $gray-60; border-radius: 5px; box-shadow: none;
-    outline:none; text-align: left; color: $brand-primary; line-height: 1.4rem;
+    outline:none; text-align: left; line-height: 1.4rem; font-family: $oswald;
     appearance: none;
     &:focus { outline: none; }
     &::-webkit-input-placeholder { color: $gray-60; }

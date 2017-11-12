@@ -1,9 +1,11 @@
 .header {
-  padding: $global-spacing;
+  position: sticky; top: -165px; z-index: 1000;
+  padding: $global-spacing $global-spacing 0;
   border-bottom: 8px solid $brand-primary; background: #fff;
   &__logo {
-    display: inline-block;
-    max-width: 200px; width: 100%;
+    display: block;
+    margin: 0 auto; max-width: 200px; width: 100%;
+    transform-origin: 0 50%;
   }
   &__ss {
     &__search {
@@ -23,7 +25,11 @@
       &__search {
         display: block;
         margin-right: $global-spacing;
-        a { display: block; }
+        .icon {
+          display: block;
+          border-radius: 0;
+          font-size: 1.4em;
+        }
         input { width: 100%; }
       }
     }
@@ -35,10 +41,18 @@
     ul { list-style-type: none; }
     li {
       a {
+        position: relative;
         display: inline-block;
-        border: 3px solid transparent;
+        padding-bottom: 15px;
         &:hover, &:focus, &.active {
-          border-bottom-color: $gray-30; background-color: transparent;
+          &:after {
+            position: absolute; top: 100%;
+            display: block;
+            width: 100%; height: 8px;
+            background-color: darken($brand-primary-dark, 5%);
+            content: "";
+          }
+          background-color: transparent;
           outline: none;
         }
       }
@@ -48,6 +62,12 @@
         text-align: center;
         content: "•";
       }
+    }
+  }
+  @include respond-to(medium) {
+    top: -75px;
+    &__logo {
+      margin-left: 0;
     }
   }
 }

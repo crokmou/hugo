@@ -1,7 +1,7 @@
-<header class="header">
+<header class="header" rel="header">
   <div class="container flex flex-wrap flex-med-nowrap align-items-center">
-    <section class="flex-12 flex-med-3 text--center">
-      <a class="header__logo" href="/">
+    <section class="flex-12 flex-med-3">
+      <a class="header__logo" href="/" rel="logo">
         <picture class="picture picture--no-background" style="padding-bottom: 42.53%;">
         	<img class="picture__item" src="/assets/images/jpg/logo.png" alt="Crokmou">
         </picture>
@@ -12,9 +12,7 @@
         <div class="header__ss__search flex-2 flex-med-12 flex-shrink flex-med-shrink">
           <div class="input input--search">
             <input id="search-input" type="text" placeholder="Rechercher">
-            <a href="#" type="type=submit">
-              <svg class="s-icon"><use xlink:href="#magnifier"></use></svg>
-            </a>
+            <svg class="icon s-icon"><use xlink:href="#icon-algolia"></use></svg>
           </div>
         </div>
         <nav class="header__ss__social">
@@ -24,14 +22,14 @@
               {{$id := index . "id"}}
               {{$href := index . "href"}}
               <a href="{{$href}}">
-                <svg class="s-icon"><use xlink:href="#{{$id}}"></use></svg>
+                <svg class="s-icon"><use xlink:href="#icon-{{$id}}"></use></svg>
               </a>
             </li>
             {{ end }}
           </ul>
         </nav>
       </section>
-      <nav class="header__nav flex-12">
+      <nav class="header__nav flex-12" rel="nav">
         <ul class="flex align-items-center">
           {{ $currentPage := . }}
           {{ range .Site.Menus.header }}
