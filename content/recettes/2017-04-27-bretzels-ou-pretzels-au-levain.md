@@ -21,7 +21,7 @@ recette_details:
     - Boulangerie
   - Type de cuisine:
     - Allemande
-    - Française  
+    - Française
   - Régime:
     - Végétarien
     - Sans lactose

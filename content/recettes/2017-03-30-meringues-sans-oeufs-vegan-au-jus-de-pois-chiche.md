@@ -19,7 +19,7 @@ recette_details:
   - Catégorie:
     - Mignardise
   - Type de cuisine:
-    - Française  
+    - Française
   - Régime:
     - Végétarien
     - Vegan

@@ -10,8 +10,6 @@ description: ""
 slug: "un-concours-moelleux-pour-souffler-la-2eme-bougie-partenariat-apluches"
 ---
 
-  
-
 [![](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/concours_bloganniversaire-300x1421-300x142.jpg)](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/concours_bloganniversaire-300x1421.jpg)
 
 2 ans, oui oui dans une semaine cela fera 2 ans que Cro'K'Mou est né ! Autant vous dire que je suis plus qu'heureuse de voir que chaque jour le blog vous plait un peu plus ! Au départ je n'étais pas vraiment certaine de pouvoir tenir un blog, ni même d'avoir des lecteurs un jour... Mais voilà, deux années ont passées et je suis toujours là... et vous aussi ! La [page Facebook du blog](https://www.facebook.com/pages/CroKMou/148093255259077) compte maintenant plus de 600 abonnés, [la newsletter](https://crokmou.com/p/newsletter_18.html) est de plus en plus distribuée, les commentaires de plus en plus adorables... Et pour tout le bonheur et le soutien que vous m'apportez je souhaiterai vous dire Merci !

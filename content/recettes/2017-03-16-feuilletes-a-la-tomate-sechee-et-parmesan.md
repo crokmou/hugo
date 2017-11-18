@@ -21,7 +21,7 @@ recette_details:
     - Amuses bouche
   - Type de cuisine:
     - Française
-    - Italienne  
+    - Italienne
   - Régime:
     -
   - Saison:

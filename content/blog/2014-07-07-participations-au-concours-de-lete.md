@@ -10,9 +10,9 @@ description: ""
 slug: "participations-au-concours-de-lete"
 ---
 
-  
 
-Rappelez vous, il y a quelques jours j'ai lancé un concours gourmand ! Le but ? Créer une recette de saison (oui oui aussi facile que ça !) et prendre une jolie photo ! Il y a de beaux cadeaux à remporter mais aussi tout un tas de recettes à partager !  
+
+Rappelez vous, il y a quelques jours j'ai lancé un concours gourmand ! Le but ? Créer une recette de saison (oui oui aussi facile que ça !) et prendre une jolie photo ! Il y a de beaux cadeaux à remporter mais aussi tout un tas de recettes à partager !
 
 [![](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/concours-ete2.jpg)](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/concours-ete2.jpg)
 

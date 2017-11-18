@@ -16,7 +16,7 @@ Me voilà de retour pour un nouvel article concernant mon travail professionnel.
 
 Laurent créateur du [site Internet](http://www.epicurien.be/) de recettes m'a demandé de mettre en forme une quarantaine de plats pour débuter notre collaboration. Comme tout travail de cette envergure, cela a nécessité quelques préparations en amont afin d'être d'accord avec mon client sur la marche à suivre et surtout sur le rendu final.
 
-Comme expliqué lors de mon précédent article pour mon travail avec Alpro, une fois la liste des recettes en mains j'ai commencé mon travail par l'élaboration d'un moodboard (tableau de photographies trouvées sur la toile, qui permet d'avoir une vue globale de l'ambiance du futur cliché). Bien évidemment je n'ai pas fait un moodboard pour chaque recette mais plus pour des petits groupes. Ci-dessous un petit aperçu :  
+Comme expliqué lors de mon précédent article pour mon travail avec Alpro, une fois la liste des recettes en mains j'ai commencé mon travail par l'élaboration d'un moodboard (tableau de photographies trouvées sur la toile, qui permet d'avoir une vue globale de l'ambiance du futur cliché). Bien évidemment je n'ai pas fait un moodboard pour chaque recette mais plus pour des petits groupes. Ci-dessous un petit aperçu :
 
 **2) Plats en sauce (pour carbonnade et boeuf bourguignon)**
 
