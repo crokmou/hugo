@@ -63,5 +63,6 @@ params:
         - "tarte-aux-peches-ylang-ylang-et-romarin"
     - id: "tips"
       title: "Astuce d'une blogueuse"
+      thumbnail: "https://raw.githubusercontent.com/crokmou/images/v1.0.1/i/pate-pesto-pistache-amande-huile-concass%C3%A9-tomate-crokmou-blog-belge-cuisine-voyage-01.jpg"
       articles:
         - "feta-marinee"

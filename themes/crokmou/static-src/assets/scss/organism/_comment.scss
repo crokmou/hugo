@@ -1,0 +1,13 @@
+.comment {
+  @include tile-shadow();
+  margin: $global-spacing * 2 auto 0; padding: 0 $global-spacing / 2 $global-spacing / 2; width: 100%;
+  background-color: $white;
+  &__title {
+    transform: translateY(-.6em);
+    margin-top: 0;
+    font-weight: 600;
+  }
+  @include respond-to(medium) {
+    padding: 0 $global-spacing $global-spacing;
+  }
+}

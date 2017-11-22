@@ -6,6 +6,9 @@
   {{$articles := index . "articles"}}
   <article class="sidebar__section sidebar__section--{{$id}}">
     <h2 class="sidebar__section__title" data-stroke="{{$title}}">{{$title}}</h2>
+    {{ with index . "thumbnail" }}
+      <div class="sidebar__section__thumbnail">{{ partial "molecules/picture.html" (dict "src" . "alt" $title "pb" "40%") }}</div>
+    {{end}}
     {{if eq $id "breve" }}
     <ul>
       {{ range first 3 (where (where $pages "Section" "eq" "carnet de voyage") "Title" "!=" "") }}
@@ -29,7 +32,7 @@
         {{range (where $pages "Slug" "eq" .)}}
           <a class="link" href="{{.Permalink}}" rel="xhr">
             <h3 class="link__title">{{.Title}}</h3>
-            <div class="link__img">{{ partial "molecules/picture.html" (dict "src" .Params.Thumbnail "alt" .Title "pb" "40%") }}</div>
+            <div class="link__img">{{ partial "molecules/picture.html" (dict "src" .Params.Thumbnail "alt" .Title "pb" "30%") }}</div>
           </a>
         {{end}}
       </li>

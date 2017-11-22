@@ -50,10 +50,7 @@ body {
 // Blocks
 @import "markdown";
 
-// Includes
-@import "organism/header";
-@import "organism/footer";
-@import "organism/sidebar";
+@import "organism/style";
 
 // Shortcodes
 @import "shortcodes/gallery";

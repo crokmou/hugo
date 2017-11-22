@@ -13,7 +13,6 @@ $(document).ready(function() {
     LazyLoad();
     Single();
     ResizeVideos();
-    Card();
 
     function Nav() {
       const $window = $(window);
@@ -95,20 +94,6 @@ $(document).ready(function() {
       $(window).scroll(cb).scroll();
     }
 
-    function Card() {
-      $('[rel="js-card"]').each(function() {
-        let $this   = $(this);
-        let $share  = $this.find('[rel="js-share"]');
-        let $toggle = $share.find('[rel="js-toggle"]');
-
-        $toggle.on('click', toggleShare);
-
-        function toggleShare() {
-          $share.toggleClass('visible');
-        }
-      });
-    }
-
     return {init: App};
   })();
 
@@ -119,6 +104,7 @@ $(document).ready(function() {
       const index  = client.initIndex('blog');
       $('#search-input').autocomplete({
         openOnFocus: true,
+        debug: true,
         templates  : {
           dropdownMenu: '#global-search',
         },
@@ -145,9 +131,9 @@ $(document).ready(function() {
                       (after.length >= nb ? '...' : '');
                 }
               });
-              return `<div class="row">
-                        <h2>${suggestion.title}</h2>
-                        <p>${(suggestion.description ||
+              return `<div class="global-search__content">
+                        <h2 class="global-search__content__title">${suggestion.title}</h2>
+                        <p class="global-search__content__desc">${(suggestion.description ||
                   content.substring(0, 100))}</p>
                       </div>`;
             },
