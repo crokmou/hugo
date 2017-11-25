@@ -6,6 +6,7 @@
     margin: 0 auto; padding: $global-spacing / 2;
     background-color: #fff;
     &__header {
+      padding: 15px 0;
       overflow: hidden;
       .next, .prev {
         position: relative;

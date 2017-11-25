@@ -336,7 +336,7 @@ $(document).ready(function() {
 
     function addImageProcess(figures) {
       const images = [];
-      let number   = 1;
+      let number   = 0;
       return new Promise((resolve) => {
         for (let i = 0; i < figures.length; i++) {
           const fig   = figures[i];
