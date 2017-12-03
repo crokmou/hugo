@@ -1,6 +1,6 @@
 ---
 title: Tarte au riz Belge
-date: 2015-01-18T13:35:00+00:00
+date: "2015-01-18T13:35:00+00:00"
 thumbnail: https://cdn.rawgit.com/crokmou/images/v1.0.1/i/tarte-riz-belge-recette-blog-crokmou-1.jpg
 categories:
   - Desserts

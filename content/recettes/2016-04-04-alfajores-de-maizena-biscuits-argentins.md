@@ -1,6 +1,6 @@
 ---
 title: Alfajores de maïzena, biscuits Argentins
-date: 2016-04-04T14:59:47+00:00
+date: "2016-04-04T14:59:47+00:00"
 thumbnail: https://cdn.rawgit.com/crokmou/images/v1.0.1/i/alfajores-recette-crokmou-blog-culinaire.jpg
 categories:
   - Desserts

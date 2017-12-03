@@ -120,28 +120,15 @@ $(document).ready(function() {
           source   : $.fn.autocomplete.sources.hits(index, {hitsPerPage: 5}),
           templates: {
             suggestion: function(suggestion) {
-              const props   = {};
-              const content = suggestion.content;
-              Object.keys(suggestion._highlightResult).map((prop) => {
-                const value = suggestion._highlightResult[prop].value;
-                if (value) {
-                  const nb        = 25;
-                  const before    = value.substring(value.indexOf('<em>') - nb,
-                      value.indexOf('<em>'));
-                  const highlight = (/(\<em>.*\<\/em\>)/.exec(value) ||
-                      [])[0] || '';
-                  const after     = value.substring(value.lastIndexOf('<\em>') +
-                      highlight.length, value.lastIndexOf('<\em>') +
-                      highlight.length + nb);
-                  props[prop]     = (before.length >= nb ? '...' : '') +
-                      before + highlight + after +
-                      (after.length >= nb ? '...' : '');
-                }
-              });
+              const result = suggestion._highlightResult;
+              const title = result.title.value;
+              const section = result.section.value;
+              const categories = result.categories.map((c) => c.value);
+
               return `<div class="global-search__content">
-                        <h2 class="global-search__content__title">${suggestion.title}</h2>
-                        <p class="global-search__content__desc">${(suggestion.description ||
-                  content.substring(0, 100))}</p>
+                        <h2 class="global-search__content__title">${title}</h2>
+                        <p class="global-search__content__desc">
+                          ${section} > ${categories.join('-')}</p>
                       </div>`;
             },
           },

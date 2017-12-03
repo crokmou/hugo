@@ -2,8 +2,28 @@ $padding: .8em;
 .global-search {
   width: 100%;
   &__content {
+    padding: $global-spacing;
     &__title {
-      font-size: 1.2em;
+      margin-bottom: $global-spacing / 2;
+      font-size: 1em; color: $brand-secondary; text-transform: uppercase; font-family: $roboto; font-weight: 500;
+    }
+    &__desc {
+      text-transform: uppercase; color: $gray-45; font-size: .9em;
+      em {
+        font-weight: 300!important;
+      }
+    }
+    &:before {
+      display: block;
+      height: 1px; max-width: 70%; width: 100%; margin: -$global-spacing auto $global-spacing;
+      background-color: $gray-85;
+      content: "";
+    }
+    .aa-suggestion:first-child &:before {
+      display: none;
+    }
+    em {
+      text-decoration: underline;
     }
   }
 }
@@ -16,9 +36,10 @@ $padding: .8em;
     color: #999;
   }
   .aa-dropdown-menu {
-    width: 100%; margin-top: -4px;
+    width: 100%; margin-top: -4px; max-height: calc(100vh - 80px);
     background-color: #fff;
     border: 1px solid $black;
+    overflow: auto;
     &:before {
       position: absolute; bottom: 100%; left: -1px; right: -1px;
       display: block;
@@ -29,10 +50,9 @@ $padding: .8em;
   }
   .aa-dropdown-menu .aa-suggestion {
     cursor: pointer;
-    padding: 5px 4px;
   }
   .aa-dropdown-menu .aa-suggestion.aa-cursor {
-    background-color: #B2D7FF;
+    background-color: #f8f8f8;
   }
   .aa-dropdown-menu .aa-suggestion em {
     font-weight: bold;

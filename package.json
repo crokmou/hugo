@@ -78,6 +78,7 @@
     "babel-eslint": "^7.2.3",
     "babel-plugin-transform-regenerator": "^6.26.0",
     "babel-preset-es2017": "^6.24.1",
+    "deep-diff": "^0.3.8",
     "dotenv": "^4.0.0",
     "eslint": "^4.1.1",
     "eslint-config-google": "^0.8.0 ",
@@ -85,10 +86,12 @@
     "hugo-algolia": "^1.2.9",
     "image-size": "^0.6.1",
     "markdown-resume": "^0.1.0",
-    "node-sass": "^4.5.3",
+    "node-sass": "^4.7.2",
     "onchange": "^3.2.1",
     "parallelshell": "^3.0.1",
     "remove-markdown": "^0.2.2",
-    "to-markdown": "^3.1.0"
+    "to-markdown": "^3.1.0",
+    "underscore": "^1.8.3",
+    "yamljs": "^0.3.0"
   }
 }

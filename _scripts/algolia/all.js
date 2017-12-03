@@ -1,8 +1,9 @@
 const fs = require('fs');
+const _ = require('underscore');
 const dotenv = require('dotenv').config();
 const path = require("path");
-const removeMd = require('remove-markdown');
 const algoliasearch = require('algoliasearch');
+const yaml = require('yamljs');
 
 const filesFolder = './content';
 const fileToIndex = process.argv[2];
@@ -10,15 +11,11 @@ const api_key = dotenv.parsed.ALGOLIA_API_KEY;
 const app_id = dotenv.parsed.ALGOLIA_ID;
 const client = algoliasearch(app_id, api_key);
 const index = client.initIndex('blog');
+const observableDiff = require('deep-diff').observableDiff;
 
-const json = [];
+let json = [];
 
-const descRegex = /---[\s\S]*?description\: ?(.*)/;
-const titleRegex = /---[\s\S]*?title\: ?(.*)/;
-const thumbnailRegex = /---[\s\S]*?thumbnail\: ?(.*)/;
-const slugRegex = /---[\s\S]*?slug\: ?(.*)/;
-const dateRegex = /---[\s\S]*?date\: ?(.*)/;
-const contentRegex = /---[\s\S]*?---([\s\S]*)/;
+const yamlRegex = /---([\s\S]*?)---\n/;
 
 fs.readdir(filesFolder, function(err, folder) {
   folder = folder.filter(f => f !== '.DS_Store');
@@ -39,9 +36,38 @@ fs.readdir(filesFolder, function(err, folder) {
           if(idx >= files.length - 1 && nbFolder >= 0) {
             nbFolder -= 1;
           }
-          json.push(inspectFile(contents));
+          json.push(inspectFile(contents, f));
           if(!nbFolder) {
-            index.addObjects(JSON.parse(JSON.stringify(json)), function(err, content) {
+            fs.readFile(path.join(__dirname, 'all.json'), 'utf-8', function(err, backup) {
+              const newJson = [];
+              const deletedJSon = [];
+              let content = _.sortBy(JSON.parse(backup), 'objectID');
+              json = _.sortBy(json, 'objectID');
+
+              const arrayOfContentIds = content.map((item) => item.objectID);
+              const arrayOfJsonIds = json.map((item) => item.objectID);
+
+              if(content.length !== json.length) {
+                arrayOfContentIds.diff(arrayOfJsonIds).map((item) => {
+                  deletedJSon.push(content.filter((c) => c.objectID === item)[0]);
+                  content = content.filter((c) => c.objectID !== item);
+                });
+              }
+
+              observableDiff(content, json, function (d) {
+                const index = d.kind !== 'A' ? d.path[0] : d.index;
+                const jsonItem = json[index];
+                if(newJson.filter((item) => item.objectID === jsonItem.objectID).length > 0) {
+                  return;
+                }
+                newJson.push(jsonItem);
+              });
+              if (fs.existsSync('./_scripts/algolia/') || fs.mkdirSync('./_scripts/algolia/')) {
+                fs.writeFileSync(path.join('./_scripts/algolia/', 'all.json'), (JSON.stringify(json)));
+              }
+              if(newJson.length) {
+                index.addObjects(newJson);
+              }
             });
           }
         });
@@ -50,21 +76,23 @@ fs.readdir(filesFolder, function(err, folder) {
   });
 });
 
-function inspectFile(content) {
-  const body = removeMd(((content.match(contentRegex) || [])[1] || '').replace(/\"/g, '')).replace(/\{\{\}\}/g, '').replace(/\n/g, '');
-  const title = ((content.match(titleRegex) || [])[1] || '').replace(/\"/g, '');
-  const description = ((content.match(descRegex) || [])[1] || '').replace(/\"/g, '');
-  const thumbnail = ((content.match(thumbnailRegex) || [])[1] || '').replace(/\"/g, '');
-
-  const slug = ((content.match(slugRegex) || [])[1] || '').replace(/\"/g, '');
+function inspectFile(content, folderName) {
+  const yml = yaml.parse(((content.match(yamlRegex) || [])[1] || ''));
+  const thumbnail = yml.thumbnail || '';
+  const slug = yml.slug || '';
   const objectID = slug;
-  const unParsedDate = ((content.match(dateRegex) || [])[1] || '').replace(/\"/g, '');
+  const unParsedDate = yml.date;
   const date = new Date(unParsedDate);
   const month = (date.getUTCMonth(unParsedDate) + 1);
   const parsedDate = date.getUTCFullYear(unParsedDate) + '/' + (month < 10 ? '0' : '') + month;
+  const uri =  (unParsedDate ? ('/' + parsedDate + '/') : '/') + slug;
 
-  const uri =  '/' + parsedDate + '/' + slug;
-
-  return ({objectID, title, description, thumbnail: thumbnail.split('/')[thumbnail.split('/').length - 1], uri, content: body})
+  if(yml.slug) {
+    delete yml.slug;
+  }
+  return ({...yml, objectID, section: folderName, thumbnail: thumbnail.split('/')[thumbnail.split('/').length - 1], uri})
 }
 
+Array.prototype.diff = function(a) {
+  return this.filter(function(i) {return a.indexOf(i) < 0;});
+};

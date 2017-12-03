@@ -1,5 +1,5 @@
 ---
-slug: "/a-propos"
+slug: "a-propos"
 ---
 
 blabla
