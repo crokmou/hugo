@@ -1,0 +1,55 @@
+﻿@import "variables";
+@import "reset";
+@import "grid";
+
+#page-container * {
+  display: none;
+}
+.single {
+  &, > *, &__content, .recette, .recette * {
+    display: block!important;
+  }
+}
+
+.recette {
+
+  * + * {
+    margin: 0 auto!important;
+  }
+  h3 { margin: 0 auto .5em!important; }
+  ul, li, li ul {
+    margin: 0; padding: 0;
+    list-style-type: none;
+  }
+  &__header {
+    padding-bottom: $global-spacing;
+    border-bottom: 1px solid $brand-primary-dark;
+    h2 { margin: 0 auto 10px; }
+    button { margin-top: $global-spacing!important; }
+  }
+  &__duration {
+    padding: $global-spacing 0;
+    border-bottom: 1px solid $brand-primary-dark;
+  }
+  &__ingredients, &__steps, &__header {
+    li + li { margin-top: $global-spacing / 2!important; }
+  }
+  &__ingredients, &__steps {
+    padding-top: $global-spacing;
+  }
+  &__ingredients {
+    > ul {
+      margin-bottom: $global-spacing;
+      ul {
+        margin-left: $global-spacing / 2;
+        li {
+          list-style-type: circle;
+        }
+      }
+    }
+  }
+  &__steps {
+    li { text-align: justify;}
+    li + li { margin-top: $global-spacing; }
+  }
+}
