@@ -1,0 +1,32 @@
+.infos {
+  position: relative;
+  padding: $global-spacing; margin: $global-spacing * 2 auto; max-width: 750px;
+  border: 1px solid $gray-60;
+  &__header {
+    position: absolute; bottom: 100%; left: 0;
+    width: 100%; transform: translateY(50%);
+    text-align: center;
+    h2 {
+      display: inline-block;
+      margin: -.2em 0 0; padding: 0 $global-spacing;
+      background-color: $white;
+      text-transform: uppercase; font-size: 1.4em;
+    }
+  }
+  &__list {
+    margin: 0;
+    text-align: left;
+    ul {
+      width: 100%; margin: 0!important;
+      list-style-type: none;
+      column-count: 1;
+      column-gap: $global-spacing;
+      @include respond-to(medium) {
+        column-count: 2;
+      }
+      li {
+        padding: $global-spacing / 4 0; margin: 0;
+      }
+    }
+  }
+}

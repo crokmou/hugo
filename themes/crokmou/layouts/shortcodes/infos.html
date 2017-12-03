@@ -1,0 +1,12 @@
+<section class="infos">
+  <header class="infos__header">
+    <h2 class="infos__header__title">{{.Page.Params.infos.title}}</h2>
+  </header>
+  <article class="infos__list">
+    <ul>
+      {{range .Page.Params.infos.list}}
+      <li><strong>{{.label}}:</strong>&nbsp;{{.value}}</li>
+      {{end}}
+    </ul>
+  </article>
+</section>

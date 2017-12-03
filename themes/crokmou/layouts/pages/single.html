@@ -1,0 +1,19 @@
+{{ partial "head.html" . }}
+{{ partial "organism/header.html" . }}
+
+<section class="single flex flex-wrap align-items-start">
+  <div class="flex-12 flex-med-9">
+    <article class="single__content markdown">
+      {{if .Params.thumbnail}}
+      {{partial "molecules/img.html" (dict "src" .Params.Thumbnail "alt" .Title)}}
+      {{end}}
+      {{ .Content }}
+    </article>
+    {{partial "organism/comment.html" . }}
+  </div>
+  <aside class="flex-12 flex-med-3">
+    {{ partial "organism/sidebar.html" . }}
+  </aside>
+</section>
+
+{{ partial "organism/footer.html" . }}

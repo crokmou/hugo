@@ -12,6 +12,7 @@ permalinks:
   saveurs du monde: /:year/:month/:slug/
   restaurants: /:year/:month/:slug/
   carnet de voyage: /:year/:month/:slug/
+  pages: /:slug/
 
 menu:
   header:
@@ -35,6 +36,10 @@ menu:
         Weight: 2
         Identifier: "saveurs-du-monde"
         URL: "/saveurs-du-monde/"
+      - Name: "A propos"
+        Weight: 6
+        Identifier: "a-propos"
+        URL: "/a-propos/"
 
 taxonomies:
   tag: ""

@@ -6,9 +6,26 @@ categories:
   - "Lifestyle"
 tags:
   - "Voyage"
+infos:
+  title: "A savoir"
+  list:
+    - label: "Continent"
+      value: "Europe"
+    - label: "Pays"
+      value: "Andorre"
+    - label: "Capitale"
+      value: "Andorre-la-vieille"
+    - label: "Langue principale"
+      value: "Catalan"
+    - label: "Langue parlée"
+      value: "Catalan, Espagnol, Français, Anglais"
+    - label: "Monnaie locale"
+      value: "Euro"
 description: "L'Andorre, un pays qui m'était encore inconnu jusqu'à cet hiver 2016. L'Hom et moi-même avions une grande envie de partir au ski..."
 slug: "citytrip-en-andorre"
 ---
+
+{{< infos >}}
 
 **L'Andorre,** un pays qui m'était encore inconnu jusqu'à cet hiver 2016\. L'Hom et moi-même avions une grande envie de partir au ski, s'échapper un peu du désordre constant Bruxellois pour un y trouver un peu de nature et de découverte. Avec ma belle famille nous avons donc opté pour l'Andorre en dernière minute, et le moins que l'on puisse dire c'est que nous n'avons pas été déçus ! Andorre, ou Andorra, est le plus petit état souverain d'Europe, il se parcourt très facilement de long en large en moins d'une heure (quand tout va bien et que les vacanciers ne sont pas de sortie). Nous avons visités les 7 paroisses en quelques jours mais il y a, j'en suis certaine, bien des petites choses que nous n'avons pas encore vu ! L'Andorre est assez riche en matière d'architecture, du moderne au plus ancien, on y retrouve un peu de tout et c'est ce qui fait toute la richesses des différents villages, pas un seul ne ressemble à l'autre. Ci-dessous vous trouverez une partie de notre périple, j'espère que celui-ci vous plaira et vous donnera quelques bonnes idées pour vos vacances. {{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/global-map-andorre.png" alt="" >}} [1 – Visiter (musées, quartiers…)](https://crokmou.com/2017/01/citytrip-a-rome-italie#visiter) [2 – Se loger](https://crokmou.com/2017/01/citytrip-a-rome-italie#loger) [3 – Se restaurer](https://crokmou.com/2017/01/citytrip-a-rome-italie#restaurer) [4 – Accessibilité & choses utiles à savoir](https://crokmou.com/2017/01/citytrip-a-rome-italie#acces)
 
