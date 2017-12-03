@@ -7,6 +7,9 @@
     margin-top: 0;
     font-weight: 600;
   }
+  &__comments {
+    width: 100%;
+  }
   @include respond-to(medium) {
     padding: 0 $global-spacing $global-spacing;
   }

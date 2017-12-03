@@ -13,6 +13,7 @@ $(document).ready(function() {
     LazyLoad();
     Single();
     ResizeVideos();
+    initFbComment();
 
     function Nav() {
       const $window = $(window);
@@ -94,6 +95,12 @@ $(document).ready(function() {
       $(window).scroll(cb).scroll();
     }
 
+    function initFbComment() {
+      if(!window.FB || typeof FB !== 'object') {
+        return;
+      }
+      FB.XFBML.parse();
+    }
     return {init: App};
   })();
 
