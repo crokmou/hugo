@@ -1,7 +1,13 @@
-<aside class="comment" id="comments">
-  <h2 class="comment__title" data-stroke="Commentaires">Un petit mot ?</h2>
-  <div class="comment__comments fb-comments"
-       width="100%"
-       data-href="{{.Permalink}}" data-numposts="5">
+<aside class="comment">
+  <h2 class="comment__title" data-stroke="Un petit mot ?">Un petit mot ?</h2>
+  <div class="comment__comments" id="comments">
+    <div class="fb-comments"
+         width="100%"
+         data-href="{{.Permalink}}" data-numposts="5"></div>
+    <div class="comment__comments--error">
+      On dirait que Facebook a été bloqué par un plugin de type adBlock. Ce
+      n'est pas grave ! Mais pour pouvoir utiliser le système de commentaire, il
+      faut désactiver ces plugins.
+    </div>
   </div>
 </aside>

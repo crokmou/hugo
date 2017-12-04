@@ -9,6 +9,10 @@
   }
   &__comments {
     width: 100%;
+    &--error { display: none; }
+    .facebook-error &--error {
+      display: block;
+    }
   }
   @include respond-to(medium) {
     padding: 0 $global-spacing $global-spacing;

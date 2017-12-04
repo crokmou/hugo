@@ -1,6 +1,6 @@
 .header {
-  position: sticky; top: -165px; z-index: 1000;
-  padding: $global-spacing $global-spacing 0;
+  position: sticky; top: -210px; z-index: 1000;
+  padding: $global-spacing $global-spacing 0; margin-bottom: $global-spacing / 2;
   border-bottom: 8px solid $brand-primary; background: #fff;
   &__logo {
     display: block;
@@ -8,9 +8,6 @@
     transform-origin: 0 50%;
   }
   &__ss {
-    &__search {
-      display: none;
-    }
     &__social {
       margin: 1em auto;
       a {
@@ -21,16 +18,17 @@
         svg { height: .6em; }
       }
     }
-    @include respond-to(medium) {
-      &__search {
+    &__search {
+      display: block; order: 1;
+      margin-right: $global-spacing; margin-bottom: 5px;
+      .icon {
         display: block;
-        margin-right: $global-spacing;
-        .icon {
-          display: block;
-          border-radius: 0;
-          font-size: 1.4em;
-        }
-        input { width: 100%; }
+        border-radius: 0;
+        font-size: 1.4em;
+      }
+      input { width: 100%; }
+      @include respond-to(medium) {
+        order: 0; margin-bottom: 0;
       }
     }
   }

@@ -36,7 +36,7 @@ $padding: .8em;
     color: #999;
   }
   .aa-dropdown-menu {
-    width: 100%; margin-top: -4px; max-height: calc(100vh - 80px);
+    width: 100%; margin-top: -4px; max-height: calc(100vh - 220px);
     background-color: #fff;
     border: 1px solid $black;
     overflow: auto;
@@ -46,6 +46,9 @@ $padding: .8em;
       height: 4px;
       background-color: $white; border-left: 1px solid $black; border-right: 1px solid $black;
       content: "";
+    }
+    @include respond-to(medium) {
+      max-height: calc(100vh - 80px);
     }
   }
   .aa-dropdown-menu .aa-suggestion {

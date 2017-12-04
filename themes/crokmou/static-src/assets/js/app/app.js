@@ -96,10 +96,19 @@ $(document).ready(function() {
     }
 
     function initFbComment() {
-      if(!window.FB || typeof FB !== 'object') {
-        return;
-      }
-      FB.XFBML.parse();
+      let tries = 0;
+      (function tryLoadingFacebook() {
+        if(tries > 30 && (!window.FB || typeof FB !== 'object')) {
+          $('body').addClass('facebook-error');
+        } else {
+          try {
+            FB.XFBML.parse();
+          } catch(e) {
+            tries++;
+            setTimeout(tryLoadingFacebook, 100)
+          }
+        }
+      }());
     }
     return {init: App};
   })();

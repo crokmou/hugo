@@ -35,23 +35,17 @@
     }
   }
   &--search {
-    input { display: none; }
+    input {
+      display: block;
+      padding-right: 2em;
+    }
     > .s-icon,
     > a {
       display: inline-block;
+      position: absolute; top: 50%; right: .5em;
+      transform: translateY(-50%);
       color: inherit;
       -webkit-appearance: none;
-    }
-    @include respond-to(medium) {
-      input {
-        display: block;
-        padding-right: 2em;
-      }
-      > a,
-      > .s-icon {
-        position: absolute; top: 50%; right: .5em;
-        transform: translateY(-50%);
-      }
     }
   }
 }

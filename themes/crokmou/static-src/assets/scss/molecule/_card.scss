@@ -24,6 +24,9 @@
         margin-right: 10px;
         font-size: 1.1em;
       }
+      .facebook-error & {
+        display: none;
+      }
     }
     &__share {
       position: absolute; top: 0; right: 0; left: 90%; bottom: 0;

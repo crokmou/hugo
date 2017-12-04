@@ -3,7 +3,6 @@
 {{$hideDescription := index . "hideDescription"}}
 
 {{$description := $card.Description }}
-{{$breadcrumb := index $card.Params "breadcrumb"}}
 {{$categories := index $card.Params "categories"}}
 {{$cardId := index $card.Params "cardId"}}
 
@@ -19,12 +18,8 @@
     {{ partial "molecules/picture.html" (dict "src" $thumbnail "alt" $card.Title "pb" "59.9%") }}
   </a>
   <div class="card__content">
-    {{ if $breadcrumb }}
-    {{ range $breadcrumb }}
-    <a class="card__tag" href="/tag/{{.}}">{{.}}</a>
-    {{ end }}
-    {{ else if $categories }}
-    <a class="card__tag" href="/category/{{index $categories 0}}">{{index $categories 0}}</a>
+    {{ if $categories }}
+    <span class="card__tag">{{index $categories 0}}</span>
     {{ end }}
     <h2 class="card__title"><a href="{{$card.Permalink}}" rel="xhr">{{$card.Title}}</a></h2>
     {{if $hideDescription}}{{else}}<p>{{ $description }}</p>{{end}}
@@ -33,7 +28,7 @@
     <div class="card__footer__comment">
       <div class="flex align-items-center justify-start">
         <svg class="s-icon"><use xlink:href="#icon-comments"></use></svg>
-        <a href="{{$card.Permalink}}#comments"data-id="{{$cardId}}">
+        <a href="{{$card.Permalink}}#comments">
           <span class="fb-comments-count" data-href="{{$card.Permalink}}"></span>
           &nbsp;commentaires</a>
       </div>
