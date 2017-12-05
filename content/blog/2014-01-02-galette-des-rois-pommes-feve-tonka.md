@@ -1,7 +1,7 @@
 ---
 date: "2014-01-02T17:24:00+01:00"
 title: "Galette des Rois pommes, fève Tonka"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/020114_galette_roi_pomme_feve_tonka_0001.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/020114_galette_roi_pomme_feve_tonka_0001.jpg"
 categories:
   - "Desserts"
 tags:

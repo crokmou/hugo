@@ -1,7 +1,7 @@
 ---
 date: "2011-08-27T14:09:00+02:00"
 title: "Penne aux épinards frais, ricotta et crème fraîche"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/IMG_3031.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/IMG_3031.jpg"
 categories:
   - "Plats"
 tags:

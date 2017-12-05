@@ -1,7 +1,7 @@
 ---
 date: "2011-05-14T17:48:00+02:00"
 title: "Moelleux choco/rhubarbe"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/Moelleux-choco-rhubarbe-2.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/Moelleux-choco-rhubarbe-2.jpg"
 categories:
   - "Desserts"
 tags:

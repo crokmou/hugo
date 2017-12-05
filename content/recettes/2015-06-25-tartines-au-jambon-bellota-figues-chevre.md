@@ -1,7 +1,7 @@
 ---
 date: "2015-06-25T09:50:21+02:00"
 title: "Tartines au jambon Bellota, figue, chèvre"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/tartines-jambon-bellota-figue-chevre-grenade-crokmou-blog-3.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/tartines-jambon-bellota-figue-chevre-grenade-crokmou-blog-3.jpg"
 categories:
   - "Plats"
 tags:

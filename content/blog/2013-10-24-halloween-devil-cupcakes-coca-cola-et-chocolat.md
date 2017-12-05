@@ -1,7 +1,7 @@
 ---
 date: "2013-10-24T18:49:00+02:00"
 title: "Halloween Devil cupcakes {Coca cola et chocolat}"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/cupcake_halloween_coca_cola_0018.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/cupcake_halloween_coca_cola_0018.jpg"
 categories:
   - "Desserts"
 tags:

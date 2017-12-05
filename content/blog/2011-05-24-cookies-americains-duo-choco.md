@@ -1,7 +1,7 @@
 ---
 date: "2011-05-24T22:15:00+02:00"
 title: "Cookies Américains duo choco"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/Cookies-Noisettes-5.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/Cookies-Noisettes-5.jpg"
 categories:
   - "Desserts"
 tags:

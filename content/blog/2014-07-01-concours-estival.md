@@ -10,7 +10,7 @@ description: ""
 slug: "concours-estival"
 ---
 
-[![](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/concours-ete11.jpg)](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/concours-ete11.jpg)
+[![](https://cdn.rawgit.com/crokmou/images/1.0.6/i/concours-ete11.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/concours-ete11.jpg)
 
 Il y a quelques jours j'ai précisé sur la page Facebook du blog qu'un concours se préparait pour l'été, et bien nous voici ! Demain je vais fêter mes 23 été et j'en profite donc pour vous donner l'occasion de peut être gagner de superbes cadeaux _(Oui je sais je suis trop sympa)_!
 
@@ -20,11 +20,11 @@ Mais avant de tout vous expliquer, j'aimerai vous présenter les partenaires san
 
  1 )
 
-[![](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/logo1.png)](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/logo1.png)
+[![](https://cdn.rawgit.com/crokmou/images/1.0.6/i/logo1.png)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/logo1.png)
 
 [Casa di Cecco](http://www.casadicecco.com/), je vous ai présenté cette petite entreprise lorsque j'ai publié un article sur leur [polenta aux cèpes](https://crokmou.com/2013/11/polenta-aux-cepes-casa-di-cecco.html) en novembre dernier.  Pour ceux qui ne s'en souviennes pas je vais donc vous rappeler de quoi il s'agit par ici.
 
-[![](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/1391622_544453588962730_1728755809_n1.jpg)](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/1391622_544453588962730_1728755809_n1.jpg)
+[![](https://cdn.rawgit.com/crokmou/images/1.0.6/i/1391622_544453588962730_1728755809_n1.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/1391622_544453588962730_1728755809_n1.jpg)
 
 [Casa di Cecco](http://www.casadicecco.com/) c'est l'aventure de Marco et Marion, un couple Franco-Italien. Marco est originaire des Abruzzes, et issu d'une famille de plusieurs générations de pastai (entendez par là ceux qui fabriquent des pâtes), Marion, elle est Française et à découvert toute cette gastronomie grâce à son mari. Tous deux passionnés de cuisine, ils se sont lancés il y a un an environ dans l'idée de partager le savoir faire lié à la pasta artisanale en France. Installés en Haute-Savoie ils commercialisent alors des produits Italiens (venant notamment des Abruzzes) de qualités sous leur propre marque "[Casa di Cecco](http://www.casadicecco.com/)". C'est une petite entreprise remplie de joie et de bonne humeur avec pour choix une marque fondée sur le responsable et le durable.
 
@@ -34,7 +34,7 @@ Pour avoir déjà dégusté leurs produits je peux vous assurer que c'est du bon
 
     2)
 
-{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/nouveau-logo-rue-du-commerce-e1383845291399-300x1661-300x166.jpg" alt="" >}}
+{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/nouveau-logo-rue-du-commerce-e1383845291399-300x1661-300x166.jpg" alt="" >}}
 
 Le deuxième partenaire à faire équipe avec moi n'est autre que mon plus vieil ami, [Rue du Commerce](http://www.rueducommerce.fr/) !
 
@@ -67,13 +67,13 @@ Il y aura en tout deux chanceux choisis par un jury de fins gourmets (des amis, 
 
 ** **
 
-{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/lot-1-casa-di-cecco-rue-du-commerce-300x1201-300x120.jpg" alt="" >}}
+{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/lot-1-casa-di-cecco-rue-du-commerce-300x1201-300x120.jpg" alt="" >}}
 
 Un petit barbecue (d'une valeur d'environ 60€, produit non exhaustif, un article similaire peut être envoyé en cas de rupture de stock à la fin du concours) offert par [Rue du Commerce](http://www.rueducommerce.fr/). Mais aussi un [coffret Noël au Soleil](http://www.casadicecco.com/shop/fr/paniers-gourmands/136-coffr.html) par [Casa di Cecco](http://www.casadicecco.com/) comprenant : 1 pot de bruschetta méditerranéenne, 1 huile d'olive extra vierge aromatisée au basilic, 1 boite de rigatoni, 1 pot de crème d'asperges, 1 pot de crème d'olives noires,  1 sachet risotto aux tomates et basilic bio et une bouteille de sauce tomates aux légumes bio.
 
 **Pour le 2ème gagnant : **
 
-{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/lot-2-casa-di-cecco-rue-du-commerce-300x1201-300x120.jpg" alt="" >}}
+{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/lot-2-casa-di-cecco-rue-du-commerce-300x1201-300x120.jpg" alt="" >}}
 
 Une [plancha](http://www.rueducommerce.fr/m/pl/malid:15123295) de table (d'une valeur d'environ 40€, produit non exhaustif, un article similaire peut être envoyé en cas de rupture de stock à la fin du concours) offerte par [Rue du Commerce](http://www.rueducommerce.fr/). Mais aussi un lot de trois huiles d'olives extra vierges aromatisées aux choix ([parmi la gamme lattina aluminium proposées sur l'eshop](http://www.casadicecco.com/shop/fr/6-huiles-et-sels)) offert par [Casa di Cecco](http://www.casadicecco.com/)
 
@@ -86,5 +86,5 @@ Une [plancha](http://www.rueducommerce.fr/m/pl/malid:15123295) de table (d'une 
 
 #### FIN DU CONCOURS LE 1 AOUT 2014 À 00H
 
-[![](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/crab51.gif)](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/crab51.gif)
+[![](https://cdn.rawgit.com/crokmou/images/1.0.6/i/crab51.gif)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/crab51.gif)
 

@@ -1,7 +1,7 @@
 ---
 date: "2012-07-22T10:27:00+02:00"
 title: "Scones fleur d'oranger"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20120614_scones_fleur_doranger_0035.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/20120614_scones_fleur_doranger_0035.jpg"
 categories:
   - "Desserts"
 tags:

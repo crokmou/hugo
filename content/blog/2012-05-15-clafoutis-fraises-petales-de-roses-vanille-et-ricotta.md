@@ -1,7 +1,7 @@
 ---
 date: "2012-05-15T14:30:00+02:00"
 title: "Clafoutis fraises, pétales de roses, vanille et ricotta"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20120411_clafouti_fraise_confit_petale_rose_vanille_0006.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/20120411_clafouti_fraise_confit_petale_rose_vanille_0006.jpg"
 categories:
   - "Desserts"
 tags:

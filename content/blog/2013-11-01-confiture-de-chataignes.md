@@ -1,7 +1,7 @@
 ---
 date: "2013-11-01T22:04:00+01:00"
 title: "Confiture de châtaignes"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/photographie_confiture_chataigne_creme_marron-1.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/photographie_confiture_chataigne_creme_marron-1.jpg"
 categories:
   - "Sauces - confitures"
 tags:
@@ -23,7 +23,7 @@ recette_ingredients: "<ul>
 slug: "confiture-de-chataignes"
 ---
 
-[ ](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/photographie_confiture_chataigne_creme_marron-5-1.jpg)
+[ ](https://cdn.rawgit.com/crokmou/images/1.0.6/i/photographie_confiture_chataigne_creme_marron-5-1.jpg)
 
 Un an, un an que je suis tombée amoureuse de la châtaigne ! Avant cela, c'était fictif pour moi... j'avais déjà vu et revu les marchands de marrons chauds, j'étais passé des centaines de fois devant de la crème de marrons, mais jamais je n'avais pris le temps d'en déguster... Jusqu'au jour où Delhaize m'a offert mon premier [paquet de marrons glacés](https://crokmou.com/2013/01/marron-glace-artisan-provencal-delhaize.html)... et là se fût... une révélation ! L'année dernière j'ai par la suite acheté 2/3 paquets de ces délicieuses cochoncetés pour être certaine de tenir jusqu'à l'année d'après !
 
@@ -35,7 +35,7 @@ Loin de moi l'idée de vous dissuader de faire cette recette, néanmoins j'aurai
 
 Assez parlé nature maintenant passons à la cuisine !
 
-![Confiture de châtaignes / marrons maison](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/photographie_confiture_chataigne_creme_marron.jpg)![Confiture de châtaignes / marrons maison](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/photographie_confiture_chataigne_creme_marron-5.jpg)
+![Confiture de châtaignes / marrons maison](https://cdn.rawgit.com/crokmou/images/1.0.6/i/photographie_confiture_chataigne_creme_marron.jpg)![Confiture de châtaignes / marrons maison](https://cdn.rawgit.com/crokmou/images/1.0.6/i/photographie_confiture_chataigne_creme_marron-5.jpg)
 
 ## Recette de la confiture de châtaignes
 

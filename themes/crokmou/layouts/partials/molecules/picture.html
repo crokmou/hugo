@@ -2,10 +2,11 @@
 {{$src := index . "src"}}
 {{$alt := index . "alt"}}
 {{$pb := index . "pb"}}
-
+{{$srcSvg := replace $src "/i/" "/svg/" }}
+{{$srcSvg := $srcSvg | replaceRE "(https://cdn.rawgit.com/crokmou/images/.*/svg/.*.)(jpe?g|JPE?G|png|PNG|gif|GIF)" "$1" }}
 <picture class='picture{{ with $class }} {{ . }}{{ end }}'
-         style='padding-bottom: {{ $pb }}'>
-  <img class='picture__item lazyload' data-src='{{ $src }}' alt='{{ $alt }}'>
+         style='padding-bottom: {{ $pb }};'>
+  <img class='picture__item lazyload' data-src='{{ $src }}' alt='{{ $alt }}' src='{{$srcSvg}}svg'>
   <noscript>
     <img class='picture__item' src='{{ $src }}' alt='{{ $alt }}'>
   </noscript>

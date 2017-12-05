@@ -1,7 +1,7 @@
 ---
 title: Cheesecake sans cuisson citron vert et speculoos
 date: "2016-01-22T11:28:10+00:00"
-thumbnail: https://cdn.rawgit.com/crokmou/images/v1.0.1/i/cheesecake-sans-cuisson-citron-vert-crokmou-blog-culinaire.jpg
+thumbnail: https://cdn.rawgit.com/crokmou/images/1.0.6/i/cheesecake-sans-cuisson-citron-vert-crokmou-blog-culinaire.jpg
 categories:
   - Desserts
 tags:
@@ -91,7 +91,7 @@ slug: cheesecake-sans-cuisson-citron-vert-et-speculoos
 
 Il y a quelques jours j’ai posté la recette de ce fameux _cheesecake sans cuisson citron vert et speculoos_ sur Instagram ! Je ne m’attendais pas à ce que cela vous plaise autant, j’ai donc changé un peu mon planning et j’ai décidé de vous poster la recette assez rapidement. D’ailleurs pour tout vous avouer, je n’ai pas fait ce gâteau de moi même, c’est un ami pâtissier qui me l’a apporté pour une petite soirée… Le cheesecake étant tellement bon, je me suis dit que cela pouvait être sympa de partager, c’est donc avec l’accord de mon Argentin préféré (mais si rappelle toi, le même Monsieur qui m’a donné la recette des [Empanadas](https://crokmou.com/2015/04/empanadas-au-poulet)) que je te transmets le secret d’un dessert à tomber !
 
-{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/cheesecake-sans-cuisson-citron-vert-crokmou-blog-culinaire-1.jpg" alt="cheesecake-sans-cuisson-citron-vert-crokmou-blog-culinaire (1)" >}}
+{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/cheesecake-sans-cuisson-citron-vert-crokmou-blog-culinaire-1.jpg" alt="cheesecake-sans-cuisson-citron-vert-crokmou-blog-culinaire (1)" >}}
 
 {{< recette >}}
 

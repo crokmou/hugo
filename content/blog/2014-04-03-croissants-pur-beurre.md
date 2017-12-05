@@ -1,7 +1,7 @@
 ---
 date: "2014-04-03T15:18:00+02:00"
 title: "Croissants pur beurre"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/crokmou-blog-croissant-feuillet---1.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/crokmou-blog-croissant-feuillet---1.jpg"
 categories:
   - "Boulangerie"
 tags:

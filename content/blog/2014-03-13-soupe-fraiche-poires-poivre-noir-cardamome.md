@@ -1,7 +1,7 @@
 ---
 date: "2014-03-13T13:42:00+01:00"
 title: "Soupe fraîche de poires, poivre noir et cardamome"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/soupe-poire-poivre-noir-cardamome.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/soupe-poire-poivre-noir-cardamome.jpg"
 categories:
   - "Desserts"
 tags:

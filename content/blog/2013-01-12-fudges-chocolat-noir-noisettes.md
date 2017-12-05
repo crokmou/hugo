@@ -1,7 +1,7 @@
 ---
 date: "2013-01-12T11:06:00+01:00"
 title: "Fudges chocolat noir, noisettes"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20130109_fudge_chocolat_noir_noisette_0013.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/20130109_fudge_chocolat_noir_noisette_0013.jpg"
 categories:
   - "Desserts"
 tags:
@@ -26,7 +26,7 @@ Pour 1 moule carré de 15x15cm
 
 **Avez vous déjà goûté les fudges ?** Pour ma part c'était la première fois et je ne suis pas déçue ! Conservez ces petites friandises au frais, au risque qu'ils deviennent mous très mous. Vous pouvez aussi changer les ingrédients comme par exemple sur le blog [Les yeux plus gros que le ventre](http://www.lesyeuxplusgrosqueleventre.com/le-fudge-cest-anglais-mais-cest-bon/) (là où j'ai trouvé la recette): chocolat blanc/cranberrie/noix de pécan, praliné/amande/noisette, chocolat noir/noix ou encore des fudges au spéculoos, à la vanille... des tas d'idées à disposition !
 
-[![](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20130109_fudge_chocolat_noir_noisette_0004-200x3001-200x300.jpg)](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20130109_fudge_chocolat_noir_noisette_0004-200x3001.jpg)
+[![](https://cdn.rawgit.com/crokmou/images/1.0.6/i/20130109_fudge_chocolat_noir_noisette_0004-200x3001-200x300.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/20130109_fudge_chocolat_noir_noisette_0004-200x3001.jpg)
 
 Je vous souhaite à tous de passer un très bon week end, profitez bien ! Mon week end à moi c'est courses, recettes, photos, repos... un bon petit week end quoi, et le votre ?
 

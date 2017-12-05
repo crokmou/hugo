@@ -1,7 +1,7 @@
 ---
 date: "2015-05-16T19:43:47+02:00"
 title: "Une vie simple"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/1379259_566901950031542_1187450050_n.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/1379259_566901950031542_1187450050_n.jpg"
 categories:
   - "Lifestyle"
 tags:

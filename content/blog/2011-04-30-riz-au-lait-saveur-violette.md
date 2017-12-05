@@ -1,7 +1,7 @@
 ---
 date: "2011-04-30T17:04:00+02:00"
 title: "Riz au lait saveur violette"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/Riz-au-lait----la-violette.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/Riz-au-lait----la-violette.jpg"
 categories:
   - "Desserts"
 tags:

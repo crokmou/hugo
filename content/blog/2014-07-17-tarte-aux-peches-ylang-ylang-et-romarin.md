@@ -1,7 +1,7 @@
 ---
 date: "2014-07-17T19:45:00+02:00"
 title: "Tarte aux pêches, ylang ylang et romarin"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/tartelette-peche-ylang-ylang-creme-romarin.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/tartelette-peche-ylang-ylang-creme-romarin.jpg"
 categories:
   - "Desserts"
 tags:

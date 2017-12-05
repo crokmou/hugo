@@ -1,7 +1,7 @@
 ---
 date: "2011-04-11T21:55:00+02:00"
 title: "Petits pains chèvre/jambon"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/Pains-ch--vre.jambon.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/Pains-ch--vre.jambon.jpg"
 categories:
   - "Apéritifs"
 tags:

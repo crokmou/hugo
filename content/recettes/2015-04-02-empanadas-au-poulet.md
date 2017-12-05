@@ -1,7 +1,7 @@
 ---
 date: "2015-04-02T17:18:48+02:00"
 title: "Empanadas au poulet"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/empanadas-poulet-recette-crokmou-blog-culinaire.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/empanadas-poulet-recette-crokmou-blog-culinaire.jpg"
 categories:
   - "Plats"
 tags:

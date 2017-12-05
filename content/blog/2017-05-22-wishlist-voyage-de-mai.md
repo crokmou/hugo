@@ -1,7 +1,7 @@
 ---
 date: "2017-05-22T17:30:22+02:00"
 title: "Wishlist de Mai - Et si on voyageait ?"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/citytrip-andorre-andorra-crokmou-blog-cuisine-voyage-belgique-11.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/citytrip-andorre-andorra-crokmou-blog-cuisine-voyage-belgique-11.jpg"
 categories:
   - "Lifestyle"
 tags:
@@ -10,7 +10,7 @@ description: "Il y a un petit bout de temps maintenant que je ne vous avais pas 
 slug: "wishlist-voyage-de-mai"
 ---
 
-Il y a un petit bout de temps maintenant que je ne vous avais pas proposé de petite wishlist. Comme vous l'avez certainement remarqué, le blog change peu à peu. Je me tourne un peu plus vers le voyage, la découverte, parce que finalement dans ma vie le même changement s'opère. La cuisine a toujours une place importante dans mon quotidien, mais bientôt - je touche du bois - j'entamerai un changement de vie assez conséquent. J'ai pour projet d'aller voyager autours du Monde avec mon compagnon - mais ça je vous en parlerai en tant voulu ! Pour le moment je m'offre donc des petites périples à droite, à gauche... Ainsi donc la wishlist prendra également un nouveau tournant : un peu de food, un peu de voyage, un peu des deux et surtout quelques découvertes ! Je pense débuter par une petite sélection par mois histoire de voir si ce type d'article vous plait ;) ![Wishlist voyage de Mai - Gastronogeek, Huawei, Minaal](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/wishlist-voyage-equipement-gadget.jpg)
+Il y a un petit bout de temps maintenant que je ne vous avais pas proposé de petite wishlist. Comme vous l'avez certainement remarqué, le blog change peu à peu. Je me tourne un peu plus vers le voyage, la découverte, parce que finalement dans ma vie le même changement s'opère. La cuisine a toujours une place importante dans mon quotidien, mais bientôt - je touche du bois - j'entamerai un changement de vie assez conséquent. J'ai pour projet d'aller voyager autours du Monde avec mon compagnon - mais ça je vous en parlerai en tant voulu ! Pour le moment je m'offre donc des petites périples à droite, à gauche... Ainsi donc la wishlist prendra également un nouveau tournant : un peu de food, un peu de voyage, un peu des deux et surtout quelques découvertes ! Je pense débuter par une petite sélection par mois histoire de voir si ce type d'article vous plait ;) ![Wishlist voyage de Mai - Gastronogeek, Huawei, Minaal](https://cdn.rawgit.com/crokmou/images/1.0.6/i/wishlist-voyage-equipement-gadget.jpg)
 
 **1** • Une jolie [lampe de table : aGlow](https://www.madeindesign.com/prod-lampe-de-table-aglow-lampe-de-table-a-led-portable-kreafunk-refkfhs09.html) ! 20h d'autonomie, parfait pour les petites soirées d'été, un petit plus avec l'enceinte et le chargeur de portable. Je trouve son design assez chouette et plutôt élégant. // 130 € sur Made In Design
 

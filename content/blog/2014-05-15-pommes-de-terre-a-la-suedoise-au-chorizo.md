@@ -1,7 +1,7 @@
 ---
 date: "2014-05-15T17:04:00+02:00"
 title: "Pommes de terre à la Suèdoise au chorizo"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/pomme-de-terre-hasselback-suedoise.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/pomme-de-terre-hasselback-suedoise.jpg"
 categories:
   - "Plats"
 tags:

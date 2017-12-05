@@ -1,7 +1,7 @@
 ---
 date: "2015-01-04T19:19:00+01:00"
 title: "Galette des rois pistache et chocolat"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/galette-rois-pistache-chocolat-recette-blog-crokmou-1.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/galette-rois-pistache-chocolat-recette-blog-crokmou-1.jpg"
 categories:
   - "Desserts"
 tags:
@@ -43,7 +43,7 @@ slug: "galette-des-rois-pistache-chocolat"
 
 Bonsoir mes petits chocolats ! Nous voilà en plein période de galettes, et cette année vous l'aurez certainement compris en voyant toutes les photos Instagram, j'ai souhaité vous présenter une galette des rois pistache et chocolat entièrement faite maison ! Pas toujours évident me direz vous, beaucoup appréhendent la pâte feuilletée, mais essayez, avec un peu de patience et en respectant la recette c'est assez simple (et le résultat est totalement génial !). Ce que j'aime dans la galette c'est ce côté très convivial, amusant et surtout très gourmand ! Il y en a vraiment pour tous les goûts (bien que ma préférence repose encore et toujours sur la frangipane) et selon les régions et la culture différentes formes et textures (exemple avec la brioche des Rois chez Framboises et Bergamote)! De mon côté pour changer un peu de la traditionnelle frangipane, j'y ai ajouté un peu de pâte de pistache et quelques pépites de chocolat. Et bien c'était très bon !
 
-[![galette-rois-pistache-chocolat-recette-blog-crokmou](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/galette-rois-pistache-chocolat-recette-blog-crokmou.jpg)](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/galette-rois-pistache-chocolat-recette-blog-crokmou.jpg) [![galette-rois-pistache-chocolat-recette-blog-crokmou (2)](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/galette-rois-pistache-chocolat-recette-blog-crokmou-2.jpg)](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/galette-rois-pistache-chocolat-recette-blog-crokmou-2.jpg)
+[![galette-rois-pistache-chocolat-recette-blog-crokmou](https://cdn.rawgit.com/crokmou/images/1.0.6/i/galette-rois-pistache-chocolat-recette-blog-crokmou.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/galette-rois-pistache-chocolat-recette-blog-crokmou.jpg) [![galette-rois-pistache-chocolat-recette-blog-crokmou (2)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/galette-rois-pistache-chocolat-recette-blog-crokmou-2.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/galette-rois-pistache-chocolat-recette-blog-crokmou-2.jpg)
 
 ##### Recette
 
@@ -51,7 +51,7 @@ Bonsoir mes petits chocolats ! Nous voilà en plein période de galettes, et cet
 2.  Pour la crème d'amande : Dans le bol de votre robot à l'aide de la feuille ou dans un grand bol (et cette fois en utilisant vos mimines), mélangez le beurre pommade, le sucre, la poudre d'amande, la pâte de pistache et la maïzena. Ajoutez les œufs un à un. La crème doit être homogène.
 3.  La frangipane : Mélangez à l'aide d'une cuillère en bois ou de la feuille de votre robot 200g de crème pâtissière à la crème d'amande. Une fois le tout homogène, votre frangipane est prête !4 | Préchauffez votre four à 200°C
 4.  Étalez votre pâte feuilletée sur 1,5mm environ et découpez deux cercles de 20cm de diamètre environ (et d'autres petits cercles du diamètre d'un verre si il vous reste de la pâte).
-5.  Remplissez une poche à douille de frangipane. Placez un des cercles de pâte sur une plaque allant au four préalablement recouverte de papier sulfurisé. Garnissez le cercle de frangipane tout en prenant soin de laisser au moins 2cm de marge au niveau des bords. Parsemez quelques pépites de chocolat sur le dessus de la crème et placez la fève.[![10897119_814538848614511_5603079522901817681_n](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/10897119_814538848614511_5603079522901817681_n.jpg)](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/10897119_814538848614511_5603079522901817681_n.jpg)
+5.  Remplissez une poche à douille de frangipane. Placez un des cercles de pâte sur une plaque allant au four préalablement recouverte de papier sulfurisé. Garnissez le cercle de frangipane tout en prenant soin de laisser au moins 2cm de marge au niveau des bords. Parsemez quelques pépites de chocolat sur le dessus de la crème et placez la fève.[![10897119_814538848614511_5603079522901817681_n](https://cdn.rawgit.com/crokmou/images/1.0.6/i/10897119_814538848614511_5603079522901817681_n.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/10897119_814538848614511_5603079522901817681_n.jpg)
 6.  A l'aide d'un pinceau, humidifiez un peu les bords de la galette à l'aide d'un peu d'eau. Recouvrez ensuite à l'aide du deuxième disque et appuyez bien au niveau des bords pour souder correctement la galette afin que la frangipane ne s'échappe pas.
 7.  Dorez la galette avec un peu d'oeuf battu et décorez la (idéalement avec la pointe d'un couteau)
 8.  Enfournez pour 35 minutes, la galette doit être bien dorée et doit pouvoir se décoller de la feuille de cuisson (sinon c'est pas cuit ;)). Si vous constatez que votre galette est déjà bien dorée mais pas encore assez cuite, baissez votre four à 180°C et poursuivez la cuisson.

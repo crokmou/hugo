@@ -1,7 +1,7 @@
 ---
 date: "2014-09-05T13:15:00+02:00"
 title: "Salade de chou blanc Japonaise"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/chou-blanc-restaurant-japonais-1.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/chou-blanc-restaurant-japonais-1.jpg"
 categories:
   - "Entrées"
 tags:

@@ -1,14 +1,16 @@
 <figure itemprop="associatedMedia"
         itemscope
         itemtype="http://schema.org/ImageObject">
-  <a href='{{.Get "src"}}' itemprop="contentUrl" target="_blank" rel="noopener">
+  {{$src := .Get "src"}}
+  <a href='{{$src}}' itemprop="contentUrl" target="_blank" rel="noopener">
     <img class="lazyload loading"
+         style='{background-image: url({{replace (.Get "src") "/i/" "/svg/"}})}'
          data-src='{{.Get "src"}}'
          itemprop="thumbnail"
          src=""
          alt='{{.Get "alt"}}'/>
     <noscript>
-      <img src='{{.Get "src"}}' itemprop="thumbnail" alt='{{.Get "alt"}}'/>
+      <img src='{{$src}}' itemprop="thumbnail" alt='{{.Get "alt"}}'/>
     </noscript>
   </a>
   {{with .Get "caption"}}<figcaption itemprop="caption description">{{.}}</figcaption>{{end}}

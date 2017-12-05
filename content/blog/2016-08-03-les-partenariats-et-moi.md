@@ -1,7 +1,7 @@
 ---
 date: "2016-08-03T15:46:24+02:00"
 title: "Lumière sur... les partenariats"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/ExtremeIncantations.png"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/ExtremeIncantations.png"
 categories:
   - "Lifestyle"
 tags:
@@ -16,7 +16,7 @@ Bonjour mes petits moldus ! Je vous avais déjà un peu parlé de **la magie des
 
 LA question que tout le monde se pose ! Pour tout vous dire, avec Crokmou, j'ai toujours eu un peu de chance de ce côté là, j'ai très rarement pris les devant. Souvent ce sont les marques ou les agences de com/de presse qui viennent à moi mais rien ne t'empêche, au départ surtout, de faire toi même tes petites recherches et de contacter diverses entreprises. Le tout est de **savoir se mettre soi et son blog en avant**, et les statistiques ne font pas tout, je ne les ai moi même données que 2 ou 3 fois. En revanche _je met toujours l'accent sur le fait que je prends du temps a élaborer mon article_: j'essaye de le photographier au mieux, de faire des recherches sur la marque et d'écrire un billet conséquent et réfléchi, parfois j'intègre un petit concours et je relais le tout sur mes différents réseaux sociaux. Cela peut paraître normal dit comme ça mais c'est important pour les enseignes de savoir qu'il y aura un suivi derrière l'échange. Pour pouvoir entreprendre ces démarches, voici les deux sources principales d'échanges sur la blogo :
 
-{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/giphy-1.gif" alt="giphy (1)" >}}
+{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/giphy-1.gif" alt="giphy (1)" >}}
 
 ### Les marques :
 
@@ -26,7 +26,7 @@ _Il y a celles qui te chouchoutent, et celles qui te prennent pour une affiche p
 
 De communication, de presse... là encore on trouve du bon et du moins bon. Les marques font appel aux agences (en y mettant le prix évidemment) pour promouvoir leur produits, leurs nouveautés... Une fois que toi, petit blogueur, tu te retrouves dans leur répertoire, _attends toi à recevoir des communiqués de presse 5x par jour_. Le seul hic là dedans, c'est qu'il ne va jamais te venir à l'esprit de faire un billet simplement pour annoncer que machin a mi en vente un nouveau paquet de sucre, parce que quoi qu'on en dise, et bien non tu n'es pas journaliste ! Ecrire 300 mots à propos d'un paquet de sucre c'est pas du gâteau qui plus est quand tu as des news comme ça tous les jours ! **Quand les marques te proposent des produits, les agences t'offrent le plus souvent des petites sorties** : au restaurant, dans un hôtel, chez un producteur... C'est plus ludique et cela te permet de dénicher des petits adresses sympa auxquelles tu n'aurais jamais pensé !
 
-{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/giphy.gif" alt="giphy" >}}
+{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/giphy.gif" alt="giphy" >}}
 
 ## Les types de partenariat
 
@@ -48,7 +48,7 @@ Généralement les articles se situent plus dans le domaine de l’électroména
 
 Cela m'arrive souvent de recevoir un petit colis par la poste contenant du chocolat, du beurre, du fromage ou que sais-je... Ces petites attentions là ne sont pas distribuées pour rien non plus, évidemment l'avantage ici pour les agences c'est que tu fasses un petit coup de pub pour ces articles de marques. Mais pour ma part, je pars du principe que je n'ai rien demandé, donc si le produit me plait je vais simplement en faire une petite photo sur Instagram mais rien de plus, comme je l'expliquai plus haut, on ne peut pas faire un article entier sur toutes les nouveautés qui nous arrivent par la poste, sinon on en ferait notre métier  !
 
-{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/806_Gaby_Bree.png" alt="806_Gaby_Bree" >}}
+{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/806_Gaby_Bree.png" alt="806_Gaby_Bree" >}}
 
 ### Les sorties bucoliques
 
@@ -65,4 +65,4 @@ La partie dont je vous parlerez le moins car je ne fais pas ce genre d'échanges
 *   Vous n'êtes pas journalistes, vous avez créé votre blog par plaisir mais cela reste une charge de travail considérable, alors ne soyez pas honteux de profiter de ce qu'on vous offre gracieusement de temps en temps ! En parlant de travail, la photographie en est un aussi, ce n'est pas parce que vous faites des photos d'articles pour présenter la marque sur votre blog que ces photos vont appartenir à la marque en question ! Surveillez donc bien comment celles-ci peuvent être utilisées par la suite !
 *   La notoriété d'un blog créé uniquement pour les cadeaux ne dure qu'un temps, préférez donc ouvrir un blog par passion, les échanges viendront avec le temps et seront bien plus gratifiants ;)
 
-{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/Zootopia-Trailer-Paresseux-1.png" alt="Zootopia-Trailer-Paresseux-1" >}} J'espère vous avoir un peu éclairé sur cette mystérieuse affaire et n'hésitez pas à m'envoyer un petit message si vous avez des questions ! Je ne suis pas pro, je ne pourrais donc peut être par répondre à tout mais néanmoins si je peux vous aider, cela sera avec plaisir ! Belle fin de journée !
+{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/Zootopia-Trailer-Paresseux-1.png" alt="Zootopia-Trailer-Paresseux-1" >}} J'espère vous avoir un peu éclairé sur cette mystérieuse affaire et n'hésitez pas à m'envoyer un petit message si vous avez des questions ! Je ne suis pas pro, je ne pourrais donc peut être par répondre à tout mais néanmoins si je peux vous aider, cela sera avec plaisir ! Belle fin de journée !

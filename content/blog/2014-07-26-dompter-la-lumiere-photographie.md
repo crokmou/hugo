@@ -1,7 +1,7 @@
 ---
 date: "2014-07-26T08:20:00+02:00"
 title: "Dompter la lumière {Photographie}"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/photomaitriser-eclairage-lumiere-jour-brute-plan.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/photomaitriser-eclairage-lumiere-jour-brute-plan.jpg"
 categories:
   - "Lifestyle"
 tags:
@@ -30,7 +30,7 @@ Parlons aujourd'hui de l'éclairage et comment dans votre petit chez vous il vou
 
 Nous allons voir la différence entre ces deux options mais tout d'abord voyons ce que donne la lumière telle quelle avec cet exemple :
 
-{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/photomaitriser-eclairage-lumiere-jour-brute-photo.jpg" alt="photomaitriser-eclairage-lumiere-jour-brute-photo" >}}
+{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/photomaitriser-eclairage-lumiere-jour-brute-photo.jpg" alt="photomaitriser-eclairage-lumiere-jour-brute-photo" >}}
 
 La lumière étant directe (rien n'interfère entre le sujet et ma fenêtre) et assez forte, l'image est contrastée et les ombres sont donc assez marquées, nettes, précises, ce qui donne à l'image de la profondeur et du volume.
 
@@ -40,13 +40,13 @@ Le rôle d'un diffuseur est d'**atténuer la lumière directe.** Celui-ci va per
 
 Placé plus ou moins près de votre sujet le résultat en sera différent :
 
-[![photo-maitriser-eclairage-lumiere-jour-diffuseur-loin](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/photo-maitriser-eclairage-lumiere-jour-diffuseur-loin.jpg)](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/photo-maitriser-eclairage-lumiere-jour-diffuseur-loin.jpg) {{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/photo-maitriser-eclairage-lumiere-jour-diffuseur-pres.jpg" alt="photo-maitriser-eclairage-lumiere-jour-diffuseur-pres" >}}
+[![photo-maitriser-eclairage-lumiere-jour-diffuseur-loin](https://cdn.rawgit.com/crokmou/images/1.0.6/i/photo-maitriser-eclairage-lumiere-jour-diffuseur-loin.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/photo-maitriser-eclairage-lumiere-jour-diffuseur-loin.jpg) {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/photo-maitriser-eclairage-lumiere-jour-diffuseur-pres.jpg" alt="photo-maitriser-eclairage-lumiere-jour-diffuseur-pres" >}}
 
 Il existe des diffuseurs tout fait (notamment pour les flashs cobra des reflex ou pour les flashs de studio), mais vous pouvez tout aussi bien **utiliser un voilage blanc ou encore une feuille de calque**.
 
 ##### <a name="reflecteur"></a>LES REFLECTEURS :
 
-Les réflecteurs servent eux aussi à **atténuer les ombres et donc le contraste** mais contrairement au diffuseur, **on joue cette fois avec ce qu'on appelle la lumière "indirecte"**. La source principale va "taper" sur le réflecteur et va donc rediriger celle-ci vers un autre point. Placé plus ou moins près de votre sujet et selon l'inclinaison et le pouvoir réfléchissant du réflecteur, la réflexion sera plus ou moins forte, les ombres plus ou moins présentes. Par exemple avec un miroir, la réflexion sera forte et plus ciblée. Si votre réflecteur fait 1m de haut, il va réfléchir bien plus qu'un réflecteur de 10cm. Il existe plusieurs types de réflecteurs : les basiques, blancs, qui débouchent les ombres sans modifier la teinte globale de la photo. Il y a aussi des réflecteurs dorés et argentés qui ajouterons une certaine ambiance à votre photo (on aime ou on aime pas) {{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/photo-maitriser-eclairage-lumiere-jour-brute-diffusion-reflecteur.jpg" alt="photo-maitriser-eclairage-lumiere-jour-brute-diffusion-reflecteur" >}} L'effet du réflecteur est moins flagrant ici que si j'avais enlevé le diffuseur. Vous pouvez utiliser toutes sortes de réflecteurs, voici une petite liste non exhaustive : une planche de frigolyte (polystyrène pour les Français), du carton plume blanc lissé ou non, un miroir, un bout de verre...
+Les réflecteurs servent eux aussi à **atténuer les ombres et donc le contraste** mais contrairement au diffuseur, **on joue cette fois avec ce qu'on appelle la lumière "indirecte"**. La source principale va "taper" sur le réflecteur et va donc rediriger celle-ci vers un autre point. Placé plus ou moins près de votre sujet et selon l'inclinaison et le pouvoir réfléchissant du réflecteur, la réflexion sera plus ou moins forte, les ombres plus ou moins présentes. Par exemple avec un miroir, la réflexion sera forte et plus ciblée. Si votre réflecteur fait 1m de haut, il va réfléchir bien plus qu'un réflecteur de 10cm. Il existe plusieurs types de réflecteurs : les basiques, blancs, qui débouchent les ombres sans modifier la teinte globale de la photo. Il y a aussi des réflecteurs dorés et argentés qui ajouterons une certaine ambiance à votre photo (on aime ou on aime pas) {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/photo-maitriser-eclairage-lumiere-jour-brute-diffusion-reflecteur.jpg" alt="photo-maitriser-eclairage-lumiere-jour-brute-diffusion-reflecteur" >}} L'effet du réflecteur est moins flagrant ici que si j'avais enlevé le diffuseur. Vous pouvez utiliser toutes sortes de réflecteurs, voici une petite liste non exhaustive : une planche de frigolyte (polystyrène pour les Français), du carton plume blanc lissé ou non, un miroir, un bout de verre...
 
 ##### <a name="coupe"></a>LES COUPES-FLUX :
 

@@ -1,7 +1,7 @@
 ---
 date: "2012-11-19T16:54:00+01:00"
 title: "Risotto asperges vertes, abondance, noisettes"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20121119_risotto_asperge_verte_abondance_noisette_0031.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/20121119_risotto_asperge_verte_abondance_noisette_0031.jpg"
 categories:
   - "Plats"
 tags:

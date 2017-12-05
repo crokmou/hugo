@@ -1,7 +1,7 @@
 ---
 date: "2012-12-17T12:09:00+01:00"
 title: "Udon poulet curry, patates douces, soja"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20121216_soba_poulet_curry_soja_patate_douce_0008.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/20121216_soba_poulet_curry_soja_patate_douce_0008.jpg"
 categories:
   - "Plats"
 tags:
@@ -20,13 +20,13 @@ description: ""
 slug: "udon-poulet-curry-patates-douces-soja"
 ---
 
-[![](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20121216_soba_poulet_curry_soja_patate_douce_0008_bann-300x1791-300x179.jpg)](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20121216_soba_poulet_curry_soja_patate_douce_0008_bann-300x1791.jpg)
+[![](https://cdn.rawgit.com/crokmou/images/1.0.6/i/20121216_soba_poulet_curry_soja_patate_douce_0008_bann-300x1791-300x179.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/20121216_soba_poulet_curry_soja_patate_douce_0008_bann-300x1791.jpg)
 
 Bonjour les gourmands ! Comme vous pouvez le constater, pas de recette Noël pour aujourd'hui (beh oui c'est pas Noël tous les jours, sinon ce serait trop beau !), mais une recette simple et gourmande pour les soirées sans idées : **Udon au poulet curry, patates douces et soja**
 
 Il y a des semaines comme ça, où quand je fais ma liste de courses je ne sais jamais quoi acheter, ni quoi préparer, alors j'élabore des plats simples à base de pates (parce que j'adore ça), mais pas n'importe quelles pates : des Udon !
 
-[![](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/41QTmMPHWmL._SL500_SS500_1.jpg)](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/41QTmMPHWmL._SL500_SS500_1.jpg)
+[![](https://cdn.rawgit.com/crokmou/images/1.0.6/i/41QTmMPHWmL._SL500_SS500_1.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/41QTmMPHWmL._SL500_SS500_1.jpg)
 
 Les udon sont des nouilles Japonaise à base de farine de blé, de sel et d'eau. Cela ressemble quelque peu a des spaghetti plats mais en bouche c'est totalement différent ! Les udon sont un peu "visqueuses", dans le bon sens du terme, je ne sais meme pas comment vous décrire ça, c'est simplement délicieux !
 

@@ -1,7 +1,7 @@
 ---
 date: "2014-03-20T18:06:00+01:00"
 title: "Glaces thé vert Matcha et sésame noir"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/glace-sesame-noir-et-the-vert-matcha.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/glace-sesame-noir-et-the-vert-matcha.jpg"
 categories:
   - "Desserts"
 tags:

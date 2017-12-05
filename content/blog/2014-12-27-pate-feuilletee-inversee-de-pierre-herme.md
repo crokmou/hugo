@@ -1,7 +1,7 @@
 ---
 date: "2014-12-27T17:55:00+01:00"
 title: "Pâte feuilletée inversée"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/pate-feuillet--e-invers--e-recette-blog-crokmou.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/pate-feuillet--e-invers--e-recette-blog-crokmou.jpg"
 categories:
   - "Desserts"
 tags:
@@ -35,10 +35,10 @@ Bonjour mes pommes de pin ! Aujourd'hui j'ai voulu m'essayer à la fameuse pâte
 
 1.  Pour la 1ère détrempe : Mélangez bien le beurre mou et la farine jusqu'à ce que cela forme une pâte homogène. Aplatissez là en un rectangle de 2cm d'épaisseur environ, entourez la de film alimentaire. Placez au réfrigérateur pendant 2h.
 2.  Pour la 2ème détrempe : Mélangez la farine et le beurre fondu. Ajoutez ensuite le sel puis l'eau petit à petit pour former une pâte homogène ni trop dure ni trop molle. Aplatissez en un rectangle de 2cm d'épaisseur environ, entourez de papier film et réservez au frais durant 2h.
-3.  Le tourrage : Vous verrez que la plupart intègrent la 2ème détrempe dans la 1ère en faisant un cercle et en rabattant les "coins". Mais à mon centre de formation on m'a dit que je pouvais directement faire un tour double tout en intégrant les 2 détrempe. Faites donc votre 1er tour double comme marqué sur le schéma ci-dessous :{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/tour-double-pate-feuillet--e-invers--e.jpg" alt="pâte feuilletée inversée tour double" >}}
+3.  Le tourrage : Vous verrez que la plupart intègrent la 2ème détrempe dans la 1ère en faisant un cercle et en rabattant les "coins". Mais à mon centre de formation on m'a dit que je pouvais directement faire un tour double tout en intégrant les 2 détrempe. Faites donc votre 1er tour double comme marqué sur le schéma ci-dessous :{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/tour-double-pate-feuillet--e-invers--e.jpg" alt="pâte feuilletée inversée tour double" >}}
 4.  Remettre dans du film alimentaire et réservez au frais pendant 30min.
 5.  Effectuez un deuxième tour double, tout en prenant soin de commencer avec la couture de la pâte à votre gauche (comme un livre en fait). A partir de là vous pouvez étalez votre pâte dans la longueur et procéder au tour portefeuille. Filmez et mettre au frais 30 minutes.
-6.  A partir de là deux choix s'offrent à vous : diviser votre pâte en pâtons afin de congeler la pâte (et ainsi effectuer le dernier tour simple après décongélation) ou faire le tour simple et utiliser la pâte de suite (en prenant soin de laisser celle-ci au frigo avant utilisation naturellement){{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/tour-simple-pate-feuillet--e-invers--e.jpg" alt="pâte feuilletée inversée tour simple" >}}
+6.  A partir de là deux choix s'offrent à vous : diviser votre pâte en pâtons afin de congeler la pâte (et ainsi effectuer le dernier tour simple après décongélation) ou faire le tour simple et utiliser la pâte de suite (en prenant soin de laisser celle-ci au frigo avant utilisation naturellement){{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/tour-simple-pate-feuillet--e-invers--e.jpg" alt="pâte feuilletée inversée tour simple" >}}
 7.  Une fois vos tours effectués, abaissez la pâte sur 3mm environ avant de l'utiliser comme bon vous semble, en salé comme en sucré !
 
 Vous devinez très certainement qu'une recette de galette fera bientôt son apparition avec cette petite recette de pâte feuilletée inversée :p Je vous dis donc à très bientôt !

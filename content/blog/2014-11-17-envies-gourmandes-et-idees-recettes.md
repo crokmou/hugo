@@ -1,7 +1,7 @@
 ---
 date: "2014-11-17T14:29:00+01:00"
 title: "Envies gourmandes / Wishlist"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/idee-achat-crokmou-blog.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/idee-achat-crokmou-blog.jpg"
 categories:
   - "Lifestyle"
 tags:

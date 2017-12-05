@@ -1,7 +1,7 @@
 ---
 date: "2012-03-04T18:25:00+01:00"
 title: "Flans carottes, comté"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20120304_Flan_Carotte_Comte_0028.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/20120304_Flan_Carotte_Comte_0028.jpg"
 categories:
   - "Entrées"
 tags:

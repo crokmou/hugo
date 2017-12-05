@@ -1,7 +1,7 @@
 ---
 date: "2013-01-16T10:25:00+01:00"
 title: "Tarte tatin Pierre Hermé"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20130113_tarte_tatin_pomme_0050.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/20130113_tarte_tatin_pomme_0050.jpg"
 categories:
   - "Desserts"
 tags:
@@ -40,7 +40,7 @@ _[In english](https://lh3.googleusercontent.com/-9TRn4owwTco/UQ2X0C3ZrDI/AAAAAAA
 
 <tr>
 
-<td style="text-align: center;">[![](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/tatin_pie_by_pierre_herme-300x2121-300x212.jpg)](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/tatin_pie_by_pierre_herme-300x2121.jpg)</td>
+<td style="text-align: center;">[![](https://cdn.rawgit.com/crokmou/images/1.0.6/i/tatin_pie_by_pierre_herme-300x2121-300x212.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/tatin_pie_by_pierre_herme-300x2121.jpg)</td>
 
 </tr>
 

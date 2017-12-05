@@ -1,7 +1,7 @@
 ---
 date: "2011-12-29T12:42:00+01:00"
 title: "Muffins au chocolat, Starbucks Coffee"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20111229_muffin_chocolat_starbuck_1.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/20111229_muffin_chocolat_starbuck_1.jpg"
 categories:
   - "Desserts"
 tags:

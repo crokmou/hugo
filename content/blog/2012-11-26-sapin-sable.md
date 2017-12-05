@@ -1,7 +1,7 @@
 ---
 date: "2012-11-26T16:50:00+01:00"
 title: "Mon beau sapin, roi des sablés"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20121125_sapin_noel_sable--s_the_vert_matcha_cine--magraph_2.gif"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/20121125_sapin_noel_sable--s_the_vert_matcha_cine--magraph_2.gif"
 categories:
   - "Desserts"
 tags:
@@ -59,7 +59,7 @@ Moi j'aimerai bien en apprendre un peu plus sur ce que vous comptez faire à No�
 
 Avec cette recette et ces petits sapins je participe au concours de [Suis moi en cuisine et Sucr and Chic](http://suismoiencuisine.canalblog.com/archives/2012/11/07/25368683.html) :
 
-[![](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/80207099_p-183x3001-183x300.jpg)](http://suismoiencuisine.canalblog.com/archives/2012/11/07/25368683.html)
+[![](https://cdn.rawgit.com/crokmou/images/1.0.6/i/80207099_p-183x3001-183x300.jpg)](http://suismoiencuisine.canalblog.com/archives/2012/11/07/25368683.html)
 
 ainsi qu'au concours organisé sur le blog "[Dans la cuisine de Mickéla](http://danslacuisinedemickela.blogspot.fr/2012/12/les-participations-au-concours-le-pere.html)"
 

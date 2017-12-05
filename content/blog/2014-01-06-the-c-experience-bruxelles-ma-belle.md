@@ -1,7 +1,7 @@
 ---
 date: "2014-01-06T18:22:00+01:00"
 title: "The C Experience {Bruxelles ma Belle}"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/051213_the_c_experience_0014.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/051213_the_c_experience_0014.jpg"
 categories:
   - "Lifestyle"
 tags:
@@ -12,23 +12,23 @@ slug: "the-c-experience-bruxelles-ma-belle"
 
 The C Experience c'est un restaurant-happening en verre éphémère qui se trouve être actuellement perché en haut de l'IT Tower avenue Louise à Bruxelles ! Lieu insolite pouvant accueillir jusqu'à 24 gourmands et gourmets par service, de quoi se régaler mais aussi de redécouvrir Bruxelles avec une vue imprenable ! Pour l'occasion 3 Chefs : Claude Bosi**, Sat Bains**, Anthony Demetre */*, se relaient au fil des semaines pour nous proposer une cuisine en fonction de leur inspiration et des produits de saison. J'ai eu le privilège d'être invité courant Décembre pour participer à cette belle aventure, et que dire d'autre à part "Huuum"...
 
-{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/051213_the_c_experience_0037.jpg" alt="the c experience" >}}
+{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/051213_the_c_experience_0037.jpg" alt="the c experience" >}}
 
 Le chef du jour : Claude Bosi** chef du restaurant l'Hibiscus à Londres. Un menu délicieux en 5/6 services avec des produits simples mais combinés pour former un tout exceptionnel ! Ce jour là nous avons, quelques blogueurs et moi même, dégusté ceci : - Courges oignons/fromage - Croquettes de polenta et d'ail noir
 
-{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/051213_the_c_experience_0029.jpg" alt="the c experience" >}} _Cornet croustillant, crème de miso et yuzu_
+{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/051213_the_c_experience_0029.jpg" alt="the c experience" >}} _Cornet croustillant, crème de miso et yuzu_
 
-{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/051213_the_c_experience_0040.jpg" alt="the c experience" >}} _Crème de foie gras au pain brûlé_
+{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/051213_the_c_experience_0040.jpg" alt="the c experience" >}} _Crème de foie gras au pain brûlé_
 
 Suivi de :
 
-{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/051213_the_c_experience_0050.jpg" alt="the c experience" >}} _Cabillaud d'Ecosse, mousse de raifort, réduction de poires au vin rouge, fricassée de choux de Bruxelles_
+{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/051213_the_c_experience_0050.jpg" alt="the c experience" >}} _Cabillaud d'Ecosse, mousse de raifort, réduction de poires au vin rouge, fricassée de choux de Bruxelles_
 
-_{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/051213_the_c_experience_0055.jpg" alt="the c experience" >}}_ _Perdreau en deux cuissons, semoule de choux fleur aux graines de courge et grenade, chou fleur au curry, sauce câpres et raisins_
+_{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/051213_the_c_experience_0055.jpg" alt="the c experience" >}}_ _Perdreau en deux cuissons, semoule de choux fleur aux graines de courge et grenade, chou fleur au curry, sauce câpres et raisins_
 
 Et pour finir : - Une part de tarte au chocolat 75% de Pérou (moi qui adoooore le chocolat noir j'ai été RA-VIE !) avec une glace au fromage de chèvre et chocolat blanc, pointe de yuzu. Cela peut paraitre étrange mais personnelment j'ai adoré, et le tout ensemble c'est encore meilleur - Chocolats soufflés : chocolat blanc/menthe, caramel et intense chocolat
 
-{{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/051213_the_c_experience_0059.jpg" alt="the c experience" >}} {{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/051213_the_c_experience_0064.jpg" alt="the c experience" >}}
+{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/051213_the_c_experience_0059.jpg" alt="the c experience" >}} {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/051213_the_c_experience_0064.jpg" alt="the c experience" >}}
 
 Pour conclure ce repas je dois dire encore une fois que j'ai été fort surprise, beaucoup de chose que je n'ai pas l'habitude de manger et d'autres que je ne goûterai même pas chez moi et pourtant là... quand c'est bien cuisiné faut avouer que c'est tout de suite bien différent (sauf pour le perdreau que je n'aime toujours pas) ! Manger avec une vue pareil cela reste assez incroyable et même par temps gris !
 

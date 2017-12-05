@@ -1,7 +1,7 @@
 ---
 date: "2012-03-08T18:39:00+01:00"
 title: "Brioche moelleuse sucre et chocolat"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20120307_Cramique_Escargot_Chocolat_Sucre_0012.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/20120307_Cramique_Escargot_Chocolat_Sucre_0012.jpg"
 categories:
   - "Boulangerie"
 tags:

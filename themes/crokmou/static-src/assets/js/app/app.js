@@ -46,6 +46,7 @@ $(document).ready(function() {
       });
       $('.lazyload').each(function() {
         const $this = $(this);
+        $this.attr('src', $this.data('src').replace(/\.(jpe?g|png|gif)/i, '.svg').replace('/i/', '/svg/').replace(/\/v.{1,6}\//, '\/aa593b66\/'));
         $this.on('load', function() {
           $this.removeClass('loading');
         });

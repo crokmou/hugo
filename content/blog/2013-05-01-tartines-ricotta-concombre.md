@@ -1,7 +1,7 @@
 ---
 date: "2013-05-01T12:35:00+02:00"
 title: "Tartines ricotta, concombre"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20130429_tartine_ricotta_radis_concombre_ciboulette_0020.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/20130429_tartine_ricotta_radis_concombre_ciboulette_0020.jpg"
 categories:
   - "Plats"
 tags:
@@ -57,7 +57,7 @@ _[Recipe in English :](https://lh4.googleusercontent.com/-Qrj3EPIMDyw/UYD6eEeHHz
 
 <tr>
 
-<td style="text-align: center;">[![](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/spring_tartine_ricotta_chive_radish_cucumber-300x2121-300x212.jpg)](https://cdn.rawgit.com/crokmou/images/v1.0.1/i/spring_tartine_ricotta_chive_radish_cucumber-300x2121.jpg)</td>
+<td style="text-align: center;">[![](https://cdn.rawgit.com/crokmou/images/1.0.6/i/spring_tartine_ricotta_chive_radish_cucumber-300x2121-300x212.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/spring_tartine_ricotta_chive_radish_cucumber-300x2121.jpg)</td>
 
 </tr>
 

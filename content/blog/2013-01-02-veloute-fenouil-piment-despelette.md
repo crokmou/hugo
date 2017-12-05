@@ -1,7 +1,7 @@
 ---
 date: "2013-01-02T12:04:00+01:00"
 title: "Velouté fenouil, piment d'Espelette"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20130101_veloute_potage_fenouil_piment_espelette_0015.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/20130101_veloute_potage_fenouil_piment_espelette_0015.jpg"
 categories:
   - "Plats"
 tags:

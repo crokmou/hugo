@@ -1,7 +1,7 @@
 ---
 date: "2016-09-29T16:44:46+02:00"
 title: "Crêpes végétales"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/crepe-vegan-vg-crokmou-blog-culinaire-01-1.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/crepe-vegan-vg-crokmou-blog-culinaire-01-1.jpg"
 categories:
   - "Desserts"
 tags:

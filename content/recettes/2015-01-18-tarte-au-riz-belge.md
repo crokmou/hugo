@@ -1,7 +1,7 @@
 ---
 title: Tarte au riz Belge
 date: "2015-01-18T13:35:00+00:00"
-thumbnail: https://cdn.rawgit.com/crokmou/images/v1.0.1/i/tarte-riz-belge-recette-blog-crokmou-1.jpg
+thumbnail: https://cdn.rawgit.com/crokmou/images/1.0.6/i/tarte-riz-belge-recette-blog-crokmou-1.jpg
 categories:
   - Desserts
 tags:
@@ -92,8 +92,8 @@ A base de pâte levée (ça peut paraître étonnant pour nous petits Français 
 Ici je vous présente une recette avec un ajout de crème pâtissière (c’est comme ça qu’on me l’a enseignée à l’école) mais vous retrouverez plus souvent une recette sans. Au cas où vous souhaiteriez faire sans crème pât’ dans ce cas là il vous suffira d’ajuster la recette de riz au lait pour 1L de lait !
 
 {{< gallery >}}
-    {{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/tarte-riz-belge-recette-blog-crokmou-2.jpg" alt="tarte au riz belge recette">}}
-    {{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/tarte-riz-belge-recette-blog-crokmou.jpg" alt="tarte au riz belge recette" >}}
+    {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/tarte-riz-belge-recette-blog-crokmou-2.jpg" alt="tarte au riz belge recette">}}
+    {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/tarte-riz-belge-recette-blog-crokmou.jpg" alt="tarte au riz belge recette" >}}
 {{< /gallery >}}
 
 

@@ -8,6 +8,7 @@
         itemtype="http://schema.org/ImageObject">
   <a href="{{$src}}" itemprop="contentUrl" target="_blank" rel="noopener">
     <img class="lazyload"
+         style='{background-image: url({{replace $src "/i/" "/svg/"}})}'
          data-src='{{$src}}'
          itemprop="thumbnail"
          alt='{{$alt}}'/>

@@ -1,7 +1,7 @@
 ---
 date: "2012-10-08T14:43:00+02:00"
 title: "Tartelettes mirabelles, pommes caramélisées"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/20120926_tartelette_pomme_confiture_mirabelle_0018.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/20120926_tartelette_pomme_confiture_mirabelle_0018.jpg"
 categories:
   - "Desserts"
 tags:

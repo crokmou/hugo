@@ -1,7 +1,7 @@
 ---
 date: "2016-05-26T14:52:19+02:00"
 title: "Cake betterave et chocolat"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/cake-betterave-chocolat-crokmou-blog-culinaire.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/cake-betterave-chocolat-crokmou-blog-culinaire.jpg"
 categories:
   - "Desserts"
 tags:

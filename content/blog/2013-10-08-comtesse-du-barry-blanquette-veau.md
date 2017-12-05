@@ -1,7 +1,7 @@
 ---
 date: "2013-10-08T12:38:00+02:00"
 title: "Blanquette de veau - Comtesse du Barry"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/v1.0.1/i/comtesse_du_barry_blanquette_veau.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/comtesse_du_barry_blanquette_veau.jpg"
 categories:
   - "Lifestyle"
 tags:
@@ -10,7 +10,7 @@ description: "J'ai reçu un colis de la part de la jolie boutique Comtesse du Ba
 slug: "comtesse-du-barry-blanquette-veau"
 ---
 
-Il y a quelques mois déjà (je ne serais même plus vous dire quand exactement), j'ai reçu un colis de la part de la jolie boutique [Comtesse du Barry](http://www.comtessedubarry.com/). On m'a gentiment proposé de goûter un de leurs **plats préparés individuels nommés "[Les Egoïstes](http://www.comtessedubarry.com/les-egoistes-plats-individuels.html)"**. Pour la petite histoire l'entreprise Comtesse du Barry est une entreprise familiale qui a débuté dans les années 1900\. Leur engagement : des produits de qualités et des recettes étudiées afin de mettre en avant le savoir faire et la gastronomie Française. Pour ma part j'ai décidé de tester _la blanquette de veau_, pourquoi la blanquette alors que je pouvais goûter des [tortellinis au foie gras](http://www.comtessedubarry.com/tortellini-sauce-au-foie-gras-de-canard-4.html) ou encore un [cassoulet à la saucisse de Toulouse](http://www.comtessedubarry.com/cassoulet-gimontois-a-la-saucisse-de-toulouse-grillee-3.html) ? Pour la simple et bonne raison que pour moi la blanquette c'est sacré, je garde encore le goût en bouche de celui de ma grand mère et de ma mère alors autant vous dire que pour égaler ces recettes là, il faut y aller ! {{< img src="https://cdn.rawgit.com/crokmou/images/v1.0.1/i/comtesse_du_barry_blanquette_veau-3.jpg" alt="comtesse du barry" >}}
+Il y a quelques mois déjà (je ne serais même plus vous dire quand exactement), j'ai reçu un colis de la part de la jolie boutique [Comtesse du Barry](http://www.comtessedubarry.com/). On m'a gentiment proposé de goûter un de leurs **plats préparés individuels nommés "[Les Egoïstes](http://www.comtessedubarry.com/les-egoistes-plats-individuels.html)"**. Pour la petite histoire l'entreprise Comtesse du Barry est une entreprise familiale qui a débuté dans les années 1900\. Leur engagement : des produits de qualités et des recettes étudiées afin de mettre en avant le savoir faire et la gastronomie Française. Pour ma part j'ai décidé de tester _la blanquette de veau_, pourquoi la blanquette alors que je pouvais goûter des [tortellinis au foie gras](http://www.comtessedubarry.com/tortellini-sauce-au-foie-gras-de-canard-4.html) ou encore un [cassoulet à la saucisse de Toulouse](http://www.comtessedubarry.com/cassoulet-gimontois-a-la-saucisse-de-toulouse-grillee-3.html) ? Pour la simple et bonne raison que pour moi la blanquette c'est sacré, je garde encore le goût en bouche de celui de ma grand mère et de ma mère alors autant vous dire que pour égaler ces recettes là, il faut y aller ! {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/comtesse_du_barry_blanquette_veau-3.jpg" alt="comtesse du barry" >}}
 
 Laissez moi donc vous dire que la Comtesse du Barry ne s'en est pas trop mal sorti :
 
