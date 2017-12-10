@@ -1,7 +1,7 @@
 ---
 date: "2011-04-12T14:15:00+02:00"
 title: "Carré Provencal"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/Samoussa-provencal-2.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/Samoussa-provencal-2.jpg"
 categories:
   - "Plats"
 tags:

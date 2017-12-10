@@ -1,7 +1,7 @@
 ---
 date: "2011-05-14T13:26:00+02:00"
 title: "Cassolettes du soleil"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/Cassolettes-du-soleil.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/Cassolettes-du-soleil.jpg"
 categories:
   - "Plats"
 tags:
@@ -44,7 +44,7 @@ Je n'ai jamais su comprendre pourquoi, les poivrons me font penser au Sud, au so
 
 [![](http://4.bp.blogspot.com/-jD2raKy-t_w/Tabb3lV3eGI/AAAAAAAAAEk/G2RYajmhinM/s320/preparation.jpg)](http://4.bp.blogspot.com/-jD2raKy-t_w/Tabb3lV3eGI/AAAAAAAAAEk/G2RYajmhinM/s1600/preparation.jpg)
 
-1.  Épluchez et coupez vos légumes en petits cubes. Dans une sauteuse, mettez un peu de beurre, ainsi que vos légumes coupés en petits morceaux et un filet d'huile d'olive. Faites fondre vos légumes une bonne demi heure dans votre sauteuse (à feu moyen), remuez de temps en temps.
+1.  épluchez et coupez vos légumes en petits cubes. Dans une sauteuse, mettez un peu de beurre, ainsi que vos légumes coupés en petits morceaux et un filet d'huile d'olive. Faites fondre vos légumes une bonne demi heure dans votre sauteuse (à feu moyen), remuez de temps en temps.
 2.  Une fois les légumes cuits réservez les dans un saladier. Dans votre sauteuse maintenant vide, mettez une noisette de beurre, votre oignon préalablement émincé et votre carré de bouillon de viande. Faites fondre un peu votre oignon avant d'ajouter le boeuf haché dans votre sauteuse. 
 3.  Une fois le bœuf presque cuit, ajoutez votre purée de tomate, et assaisonnez avec du paprika, du sel et du poivre.
 4.  Lorsque la viande est cuite comme vous le souhaitez, mélangez la viande aux légumes.

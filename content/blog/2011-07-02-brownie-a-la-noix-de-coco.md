@@ -1,7 +1,7 @@
 ---
 date: "2011-07-02T08:04:00+02:00"
 title: "Brownie à la noix de coco"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/20110628_brownie_noix_coco_1.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20110628_brownie_noix_coco_1.jpg"
 categories:
   - "Desserts"
 tags:

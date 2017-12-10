@@ -40,6 +40,40 @@ menu:
         Weight: 6
         Identifier: "a-propos"
         URL: "/a-propos/"
+  footer:
+      - Name: "Blog"
+        Weight: 5
+        Identifier: "blog"
+        URL: "/blog/"
+      - Name: "Carnet de voyage"
+        Weight: 1
+        Identifier: "carnet-de-voyage"
+        URL: "/carnet-de-voyage/"
+      - Name: "Recettes"
+        Weight: 3
+        Identifier: "recettes"
+        URL: "/recettes/"
+      - Name: "Restaurants"
+        Weight: 4
+        Identifier: "restaurants"
+        URL: "/restaurants/"
+      - Name: "Saveurs du monde"
+        Weight: 2
+        Identifier: "saveurs-du-monde"
+        URL: "/saveurs-du-monde/"
+  divers:
+      - Name: "Archives"
+        Weight: 1
+        Identifier: "blog"
+        URL: "/archives/"
+      - Name: "A propos"
+        Weight: 2
+        Identifier: "a-propos"
+        URL: "/a-propos/"
+      - Name: "Partenariats"
+        Weight: 2
+        Identifier: "partenariats"
+        URL: "/partenariats/"
 
 taxonomies:
   tag: ""
@@ -68,6 +102,6 @@ params:
         - "tarte-aux-peches-ylang-ylang-et-romarin"
     - id: "tips"
       title: "Astuce d'une blogueuse"
-      thumbnail: "https://raw.githubusercontent.com/crokmou/images/v1.0.1/i/pate-pesto-pistache-amande-huile-concass%C3%A9-tomate-crokmou-blog-belge-cuisine-voyage-01.jpg"
+      thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/pate-pesto-pistache-amande-huile-concass%C3%A9-tomate-crokmou-blog-belge-cuisine-voyage-01.jpg"
       articles:
         - "feta-marinee"

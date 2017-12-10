@@ -1,7 +1,7 @@
 ---
 date: "2017-03-30T19:15:38+02:00"
 title: "Meringues sans oeufs - Vegan, au jus de pois chiche"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/recette-meringue-sans-oeufs-vegan-pois-chiche-crokmou-blog-cuisine-voyage-1.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/recette-meringue-sans-oeufs-vegan-pois-chiche-crokmou-blog-cuisine-voyage-1.jpg"
 categories:
   - "Desserts"
 tags:
@@ -28,10 +28,10 @@ recette_details:
     - Sans gluten
   - Saison:
     - Printemps
-    - Été
+    - été
     - Automne
     - Hiver
-  - Évènement:
+  - évènement:
     - Goûter
     - Anniversaire
     - Petit-dejeuner
@@ -73,6 +73,6 @@ Des meringues sans oeufs, il y a quelques temps encore je n’y aurais jamais cr
 
 {{< recette >}}
 
-{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/recette-meringue-sans-oeufs-vegan-pois-chiche-crokmou-blog-cuisine-voyage-1-2.jpg" alt="Meringues sans oeufs - Vegan, au jus de pois chiche" >}}![Meringues sans oeufs - Vegan, au jus de pois chiche](https://cdn.rawgit.com/crokmou/images/1.0.6/i/recette-meringue-sans-oeufs-vegan-pois-chiche-crokmou-blog-cuisine-voyage-1-3.jpg)  
+{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/recette-meringue-sans-oeufs-vegan-pois-chiche-crokmou-blog-cuisine-voyage-1-2.jpg" alt="Meringues sans oeufs - Vegan, au jus de pois chiche" >}}![Meringues sans oeufs - Vegan, au jus de pois chiche](https://cdn.rawgit.com/crokmou/images/1.0.7/i/recette-meringue-sans-oeufs-vegan-pois-chiche-crokmou-blog-cuisine-voyage-1-3.jpg)  
 
 Une expérience vegan réussie ! J’espère qu’il en sera de même avec de prochaines recettes ! Et vous, avez vous déjà tenté l’expérience ?

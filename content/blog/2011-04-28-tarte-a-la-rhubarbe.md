@@ -1,7 +1,7 @@
 ---
 date: "2011-04-28T17:15:00+02:00"
 title: "Tarte à la rhubarbe"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/Tarte-rhubarbe.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/Tarte-rhubarbe.jpg"
 categories:
   - "Desserts"
 tags:
@@ -34,7 +34,7 @@ _Recette très rapide, et très simple à réaliser :)_
 
 1.  Préchauffez votre four à 180°C
 2.  Dans un moule à tarte, étalez le pâte brisée et piquez la à l'aide d'une fourchette (pour éviter le sur-gonflement de la pâte dans le four =D)
-3.  Épluchez vos tiges de rhubarbe et coupez les en petits morceaux (du moins la taille des morceaux cela reste selon vous), disposez les cubes sur la pâte brisée
+3.  épluchez vos tiges de rhubarbe et coupez les en petits morceaux (du moins la taille des morceaux cela reste selon vous), disposez les cubes sur la pâte brisée
 4.  Dans un saladier, mélangez dans cet ordre : les oeufs, le sucre (un coup de mélange), la maïzena puis pour finir le yaourt nature.
 5.  Ajouter ce mélange par dessus la rhubarbe
 6.  Votre tarte est prête pour aller au four 30 à 40 min (la tarte est cuite quand la préparation ne coule plus) 

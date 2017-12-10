@@ -1,7 +1,7 @@
 ---
 date: "2012-09-17T14:07:00+02:00"
 title: "Petits-Beurre maison aux cranberries"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/20120915_petits_beurre_cranberries_crokmou_0013_BD-e1426253919597.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20120915_petits_beurre_cranberries_crokmou_0013_BD-e1426253919597.jpg"
 categories:
   - "Desserts"
 tags:

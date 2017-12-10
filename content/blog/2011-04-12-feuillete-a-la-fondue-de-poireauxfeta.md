@@ -1,7 +1,7 @@
 ---
 date: "2011-04-12T14:19:00+02:00"
 title: "Feuilleté à la fondue de poireaux/fêta"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/Feuillet---feta-poireaux.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/Feuillet---feta-poireaux.jpg"
 categories:
   - "Plats"
 tags:

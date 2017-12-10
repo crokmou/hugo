@@ -1,7 +1,7 @@
 ---
 date: "2015-06-25T09:50:21+02:00"
 title: "Tartines au jambon Bellota, figue, chèvre"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/tartines-jambon-bellota-figue-chevre-grenade-crokmou-blog-3.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/tartines-jambon-bellota-figue-chevre-grenade-crokmou-blog-3.jpg"
 categories:
   - "Plats"
 tags:
@@ -27,9 +27,9 @@ recette_details:
     - Sans oeufs
   - Saison:
     - Printemps
-    - Été
+    - été
     - Automne
-  - Évènement:
+  - évènement:
     - Lunch
     - Diner
     - Brunch
@@ -62,7 +62,7 @@ recette:
 slug: "tartines-au-jambon-bellota-figues-chevre"
 ---
 
-Il y a quelques semaines, l'épicerie fine en ligne [Edelices](http://www.edelices.com) est venue me trouver en me proposant de tester un de leur produit phare : le [jambon Ibérique Bellota](http://www.edelices.com/viandes-salaisons/jambon-iberique-bellota.html). Étant une grande amatrice de jambon, c'est donc avec grand plaisir que j'ai accepté le partenariat et que je me suis attelé aux fourneaux pour réaliser une petite recette avec cette viande d'exception : tartines au jambon Bellota, figue et chèvre. Étant un peu flemmarde en ce moment, je dois te dire que je n'avais pas envie de partir sur une recette pompeuse et longue à la réalisation, c'est pourquoi j'ai opté pour de jolies tartines. Travaillant dans une bonne boulangerie, c'est d'autant plus simple de me fournir en pain de qualité, j'ai donc choisi un pain au levain et céréales pour le côté crousti/croquant. Ajoute à cela des morceaux de chèvre, des figues séchées (pas encore la saison des figues fraîches, il va encore falloir attendre un peu !), des lamelles de jambon Bellota, des graines de grenade pour le sucré/salé que j'aime tant (ça donne du peps c'est top !), un peu de salade et une larmichette d'[huile d'argan torréfiée](http://www.edelices.com/huile-argan-torrefiee-argania.html). D'ailleurs, que je te parle de cette huile d'argan, un autre petit cadeau de mon partenaire, je ne connaissais pas du tout cette huile en cuisine mais j'en suis tombée raide dingue ! Ce petit goût de noisettes avec une salade de tomates ou un peu de salade c'est vraiment le top ! Sans compter tous les bienfaits que cela t'apporte (en plus de te faire une belle peau héhé) La recette est vraiment très simple, mais les saveurs te changeront un peu des tartines classiques.
+Il y a quelques semaines, l'épicerie fine en ligne [Edelices](http://www.edelices.com) est venue me trouver en me proposant de tester un de leur produit phare : le [jambon Ibérique Bellota](http://www.edelices.com/viandes-salaisons/jambon-iberique-bellota.html). étant une grande amatrice de jambon, c'est donc avec grand plaisir que j'ai accepté le partenariat et que je me suis attelé aux fourneaux pour réaliser une petite recette avec cette viande d'exception : tartines au jambon Bellota, figue et chèvre. étant un peu flemmarde en ce moment, je dois te dire que je n'avais pas envie de partir sur une recette pompeuse et longue à la réalisation, c'est pourquoi j'ai opté pour de jolies tartines. Travaillant dans une bonne boulangerie, c'est d'autant plus simple de me fournir en pain de qualité, j'ai donc choisi un pain au levain et céréales pour le côté crousti/croquant. Ajoute à cela des morceaux de chèvre, des figues séchées (pas encore la saison des figues fraîches, il va encore falloir attendre un peu !), des lamelles de jambon Bellota, des graines de grenade pour le sucré/salé que j'aime tant (ça donne du peps c'est top !), un peu de salade et une larmichette d'[huile d'argan torréfiée](http://www.edelices.com/huile-argan-torrefiee-argania.html). D'ailleurs, que je te parle de cette huile d'argan, un autre petit cadeau de mon partenaire, je ne connaissais pas du tout cette huile en cuisine mais j'en suis tombée raide dingue ! Ce petit goût de noisettes avec une salade de tomates ou un peu de salade c'est vraiment le top ! Sans compter tous les bienfaits que cela t'apporte (en plus de te faire une belle peau héhé) La recette est vraiment très simple, mais les saveurs te changeront un peu des tartines classiques.
 
 {{< recette >}}
 

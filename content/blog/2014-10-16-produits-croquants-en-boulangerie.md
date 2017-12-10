@@ -1,7 +1,7 @@
 ---
 date: "2014-10-16T16:08:00+02:00"
 title: "Produits croquants en boulangerie"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/petit-croquant-pain-recette-crokmou-blog-culinaire-2.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/petit-croquant-pain-recette-crokmou-blog-culinaire-2.jpg"
 categories:
   - "Boulangerie"
 tags:

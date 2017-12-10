@@ -1,7 +1,7 @@
 ---
 date: "2012-10-11T17:29:00+02:00"
 title: "Légume de saison : le Maïs {+ résultats du concours}"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/20121001_epi_mais_grill--_four_0014.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20121001_epi_mais_grill--_four_0014.jpg"
 categories:
   - "Plats"
 tags:

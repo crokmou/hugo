@@ -1,7 +1,7 @@
 ---
 date: "2014-12-04T16:14:00+01:00"
 title: "Coquille de la Saint-Nicolas"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/cougnou-couque-saint-nicolas-recette-blog-crokmou.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/cougnou-couque-saint-nicolas-recette-blog-crokmou.jpg"
 categories:
   - "Boulangerie"
 tags:
@@ -34,7 +34,7 @@ slug: "coquille-de-la-saint-nicolas"
 
 Saint Nicolas arrive très vite et la célèbre coquille également ! Cette petite brioche prend différents noms selon les régions de la Belgique (oui parce que c'est typique de chez nous ce machin là !). Du côté de la frontière Française c'est plutôt coquille, mais dans toute la Belgique vous entendrez parler de cougnole, de cougnou, de Jesus et j'en passe. Cette viennoiserie est donnée aux enfants principalement lors des fêtes de la Saint Nicolas et de la Noël. Lorsque j'étais enfant, mon école nous donnait toujours une coquille de la Saint-Nicolas avant le départ en vacances pour les fêtes, une tradition des plus gourmande, parce que ce pain au lait est un sacré délice ! La coquille a une forme assez caractéristique qui représente (en théorie) l'enfant Jésus emmailloté. On ajoute généralement à la pâte, des raisins secs ou des pépites de chocolat, parfois du gros sucre. Pour cette recette je l'ai réalisé nature avec un peu de sucre à chouquette par dessus, oui parce que comme ça tu peux tartiner ta brioche avec ce que tu veux (et même du camembert le matin parce que c'est trop bon #nonjesuispasimmondec'estpasvrai) Si toi aussi tu aimerais offrir ce cougnou alors voici la recette, je l'ai trouvé sur la blog La popote de Manue et je dois dire qu'elle est vraiment parfaite ! Le moelleux, le goût léger du lait, du beurre... une tuerie !
 
-[![coquille de la saint-nicolas](https://cdn.rawgit.com/crokmou/images/1.0.6/i/cougnou-couque-saint-nicolas-recette-blog-crokmou-1.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/cougnou-couque-saint-nicolas-recette-blog-crokmou-1.jpg) [![coquille de la saint-nicolas](https://cdn.rawgit.com/crokmou/images/1.0.6/i/cougnou-couque-saint-nicolas-recette-blog-crokmou-2.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/cougnou-couque-saint-nicolas-recette-blog-crokmou-2.jpg)
+[![coquille de la saint-nicolas](https://cdn.rawgit.com/crokmou/images/1.0.7/i/cougnou-couque-saint-nicolas-recette-blog-crokmou-1.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/cougnou-couque-saint-nicolas-recette-blog-crokmou-1.jpg) [![coquille de la saint-nicolas](https://cdn.rawgit.com/crokmou/images/1.0.7/i/cougnou-couque-saint-nicolas-recette-blog-crokmou-2.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/cougnou-couque-saint-nicolas-recette-blog-crokmou-2.jpg)
 
 ### Recette
 

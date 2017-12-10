@@ -1,7 +1,7 @@
 ---
 date: "2011-05-14T17:48:00+02:00"
 title: "Moelleux choco/rhubarbe"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/Moelleux-choco-rhubarbe-2.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/Moelleux-choco-rhubarbe-2.jpg"
 categories:
   - "Desserts"
 tags:
@@ -38,7 +38,7 @@ _J'ai testé et c'est délicieux (même si je n'ai pas fait le glaçage et ai qu
 
 **Ingrédients :**
 
-1.  Épluchez et coupez votre rhubarbe en petits dés. Dans une casserole faites "fondre" un peu vos dés de rhubarbe pendant environ 5 min (en remuant de temps en temps). Une fois la rhubarbe "cuite", laissez refroidir.
+1.  épluchez et coupez votre rhubarbe en petits dés. Dans une casserole faites "fondre" un peu vos dés de rhubarbe pendant environ 5 min (en remuant de temps en temps). Une fois la rhubarbe "cuite", laissez refroidir.
 2.   Faites préchauffer votre four à 180°C
 3.  Dans un saladier, mélangez le beurre mou, les œufs, les sucres et une pincée de sel, battez bien le tout pour que cela "blanchisse"
 4.  Ajoutez vos dés de rhubarbe et votre cacao puis mélangez

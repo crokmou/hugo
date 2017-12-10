@@ -32,7 +32,7 @@ Il n'est pas évident du tout de trouver des astuces, des notes ou ne serais ce 
 [![](http://3.bp.blogspot.com/-dHVddTaZ_ks/TbnM8UsZT_I/AAAAAAAAAFo/kIFIUBZvFwE/s320/screen-capture-4.png)](http://3.bp.blogspot.com/-dHVddTaZ_ks/TbnM8UsZT_I/AAAAAAAAAFo/kIFIUBZvFwE/s1600/screen-capture-4.png)  
 Ce livre se compose de différentes parties très instructives comme l'éclairage, la couleur, pour qui fait on de la photographie culinaire... etc etc. Le tout est très bien expliqué pour ceux qui aimeraient en savoir plus sur ce domaine. Personnellement, ce petit trésor m'aide beaucoup à comprendre certaines choses et à mieux évaluer le travail à faire.
 
-Bien d'autres livres ont été publiés comme "<u>Le comtois en cuisine</u>" (revue), <u>Éric Fréchon</u>...
+Bien d'autres livres ont été publiés comme "<u>Le comtois en cuisine</u>" (revue), <u>éric Fréchon</u>...
 
 N'hésitez pas à aller faire un petit tour sur son site internet : [Philippe Barret](http://www.philippebarret.com/). Cet homme est d'ailleurs une personne très sympathique, accordant un peu de temps (même aux personnes qu'il ne connait pas !).
 

@@ -1,7 +1,7 @@
 ---
 date: "2012-07-02T13:23:00+02:00"
 title: "Dulce de Leche - Confiture de Lait"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/20120611_dulce_de_leche_confiture_de_lait_0028.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20120611_dulce_de_leche_confiture_de_lait_0028.jpg"
 categories:
   - "Sauces - confitures"
 tags:

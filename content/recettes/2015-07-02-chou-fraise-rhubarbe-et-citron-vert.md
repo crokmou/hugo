@@ -1,7 +1,7 @@
 ---
 date: "2015-07-02T14:42:38+02:00"
 title: "Chou fraise, rhubarbe et citron vert"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/chou-diplomate-fraise-rhubarbe-citron-vert-crokmou-blog.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/chou-diplomate-fraise-rhubarbe-citron-vert-crokmou-blog.jpg"
 categories:
   - "Desserts"
 tags:
@@ -31,8 +31,8 @@ recette_details:
     - ""
   - Saison:
     - Printemps
-    - Été
-  - Évènement:
+    - été
+  - évènement:
     - Goûter
     - Lunch
     - Anniversaire
@@ -97,7 +97,7 @@ recette:
 slug: "chou-fraise-rhubarbe-et-citron-vert"
 ---
 
-Aujourd'hui c'est mon annibirthday et parce que j'aime bien me faire plaisir, j'ai réalisé mon petit gâteau d'anniversaire : un chou fraise, rhubarbe et citron vert. C'est plutôt simple, et ca évite les multiples préparations pour gâteaux multicouches alors que nous ne sommes que deux à la maison. Ces choux (bon d'accord, peut être un poilinou trop gros, mais c'est plus gourmand non ?) sont assez frais et plutôt léger, des fruits frais, une petite compotée sans sucre et une crème légère qui n'est autre qu'une diplomate - un mélange tant pour tant de crème pâtissière et de crème fraiche -. Pour celles et ceux d'entre vous qui se demandaient en voyant [les photos Instagram](https://instagram.com/crokmou.blog/) ce qu'était le truc rouge au dessus des choux, on appelle ça un craquelin, cela permet au chou de pousser de manière plus régulière mais aussi de l'habiller un petit peu si tu ne mets pas de fondant par exemple. ![chou fraise, rhubarbe et citron vert ](https://cdn.rawgit.com/crokmou/images/1.0.6/i/chou-diplomate-fraise-rhubarbe-citron-vert-crokmou-blog-2.jpg)![chou fraise rhubarbe et citron vert](https://cdn.rawgit.com/crokmou/images/1.0.6/i/chou-diplomate-fraise-rhubarbe-citron-vert-crokmou-blog-1.jpg)
+Aujourd'hui c'est mon annibirthday et parce que j'aime bien me faire plaisir, j'ai réalisé mon petit gâteau d'anniversaire : un chou fraise, rhubarbe et citron vert. C'est plutôt simple, et ca évite les multiples préparations pour gâteaux multicouches alors que nous ne sommes que deux à la maison. Ces choux (bon d'accord, peut être un poilinou trop gros, mais c'est plus gourmand non ?) sont assez frais et plutôt léger, des fruits frais, une petite compotée sans sucre et une crème légère qui n'est autre qu'une diplomate - un mélange tant pour tant de crème pâtissière et de crème fraiche -. Pour celles et ceux d'entre vous qui se demandaient en voyant [les photos Instagram](https://instagram.com/crokmou.blog/) ce qu'était le truc rouge au dessus des choux, on appelle ça un craquelin, cela permet au chou de pousser de manière plus régulière mais aussi de l'habiller un petit peu si tu ne mets pas de fondant par exemple. ![chou fraise, rhubarbe et citron vert ](https://cdn.rawgit.com/crokmou/images/1.0.7/i/chou-diplomate-fraise-rhubarbe-citron-vert-crokmou-blog-2.jpg)![chou fraise rhubarbe et citron vert](https://cdn.rawgit.com/crokmou/images/1.0.7/i/chou-diplomate-fraise-rhubarbe-citron-vert-crokmou-blog-1.jpg)
 
 {{< recette >}}
 

@@ -1,7 +1,7 @@
 ---
 date: "2015-10-29T16:05:47+01:00"
 title: "Fortune cookies Halloween"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/fortune-cookies-halloween-crokmou-blog-culinaire-1.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/fortune-cookies-halloween-crokmou-blog-culinaire-1.jpg"
 categories:
   - "Desserts"
 tags:
@@ -25,7 +25,7 @@ recette_details:
     - Sans lactose
   - Saison:
     - Automne
-  - Évènement:
+  - évènement:
     - Goûter
     - Anniversaire
     - En famille
@@ -57,7 +57,7 @@ recette:
   - "Dans un saladier, fouetter les blancs d'oeufs, l'extrait de vanille et l'huile jusqu'à ce que la préparation devienne bien mousseuse -on a pas dit des blancs en neige hein-"
   - "Ajouter ensuite à l'aide d'une spatule la farine, la fécule, le sel et le sucre préalablement tamisés. La pâte doit être lisse, si celle ci vous semble trop épaisse pour être étalée correctement ajouter petit à petit un peu d'eau."
   - "Selon ce que tu souhaites faire tu peux colorer ta pâte à l'aide de colorants en poudre -naturels c'est mieux- : pour ma part j'ai fait une grosse partie de la pâte avec un peu de colorant pistache et un peu de rouge pour arriver à un orange et un tout petit peu de pâte mélangée avec de la pâte de sésame noir."
-  - "Étaler la pâte en faisant de jolis ronds ni trop fins ni trop épais - Je te conseille de les cuire 2 par 2 car cela durci très vite une fois sortis du four - tu peux faire des dessins sur tes ronds à l'aide de la deuxième couleur, ici le noir, laisse libre ton imagination ! Enfourner 10/12 minutes, la pâte va légèrement changer de couleur sur les bords lorsque cela est cuit mais cela doit rester mou au centre."
+  - "étaler la pâte en faisant de jolis ronds ni trop fins ni trop épais - Je te conseille de les cuire 2 par 2 car cela durci très vite une fois sortis du four - tu peux faire des dessins sur tes ronds à l'aide de la deuxième couleur, ici le noir, laisse libre ton imagination ! Enfourner 10/12 minutes, la pâte va légèrement changer de couleur sur les bords lorsque cela est cuit mais cela doit rester mou au centre."
   - "Une fois les ronds sortis du four cela va très vite : prendre un rond de pâte (dans tes mains ou à l'aide d'une moufle) y mettre le petit papier, refermer en deux puis plier sur le coin d'un verre ou d'un bol (voir 1ère photo ci-dessous) placer ensuite le fortune cookies dans un moule à cupcakes (ou autre) afin qu'il refroidisse en gardant sa forme."
   - "Continuer jusqu'à ce qu'il n'y ai plus de pâte"
 slug: "fortune-cookies-halloween"
@@ -67,7 +67,7 @@ La semaine dernière, on m'a proposé de réaliser un projet avec des fortune co
 
 {{< recette >}}
 
-{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/fortune-cookies-halloween-crokmou-blog-culinaire.jpg" alt="fortune-cookies-halloween-crokmou-blog-culinaire" >}} {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/fortune-cookies-halloween-crokmou-blog-culinaire-2.jpg" alt="fortune-cookies-halloween-crokmou-blog-culinaire (2)" >}}
+{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/fortune-cookies-halloween-crokmou-blog-culinaire.jpg" alt="fortune-cookies-halloween-crokmou-blog-culinaire" >}} {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/fortune-cookies-halloween-crokmou-blog-culinaire-2.jpg" alt="fortune-cookies-halloween-crokmou-blog-culinaire (2)" >}}
 
 Ce que je trouve chouette avec ces biscuits c'est que tu peux en faire pour n'importe quelle occasion : Halloween, Noël, Nouvel An, Saint-Valentin... et j'en passe. Avec des phrases trouvées sur le net ou des petits mots bien personnels. De différentes couleurs, de différents goûts... le biscuit parfait non ?
 

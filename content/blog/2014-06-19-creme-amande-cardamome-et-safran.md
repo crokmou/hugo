@@ -1,7 +1,7 @@
 ---
 date: "2014-06-19T11:39:00+02:00"
 title: "Crème d'amande cardamome et safran"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/creme-amande-badam-halwa-cardamome-safran.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/creme-amande-badam-halwa-cardamome-safran.jpg"
 categories:
   - "Desserts"
 tags:
@@ -34,7 +34,7 @@ recette_ingredients: "<ul>
 slug: "creme-amande-cardamome-et-safran"
 ---
 
-J'aime beaucoup ce petit dessert qu'est la crème d'amande, cardamome et safran ou aussi appelé Badam Halwa. C'est crémeux, doux et relevé à la fois, ça fait voyager et par dessus tout ça change des gourmandises habituelles ! On pourrait presque comparer cela à de la semoule au lait, en bouche c'est un peu pâteux mais tellement délicieux ! Je m'attendais au départ à quelque chose de bien trop sucré et assez écœurant, mais finalement non, il y a un très bon équilibre et ça se mange sans faim ! Une petite recette Indienne qui m'a été apprise lors d'un cours de cuisine donné par Apolina du blog [Bombay-Bruxelles](http://bombay-bruxelles.blogspot.fr/) (profitez en pour visiter son blog c'est un régal pour les papilles !). Je ne sais jamais comment utiliser mes épices ni même dans quelles quantités, se fût donc un cours très instructif ! Ce petit dessert est très rapide à réaliser et plaira, je l'espère, à bon nombre d'entre vous ! {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/creme-amande-badam-halwa-cardamome-safran-2.jpg" alt="" >}} {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/creme-amande-badam-halwa-cardamome-safran-1.jpg" alt="" >}}
+J'aime beaucoup ce petit dessert qu'est la crème d'amande, cardamome et safran ou aussi appelé Badam Halwa. C'est crémeux, doux et relevé à la fois, ça fait voyager et par dessus tout ça change des gourmandises habituelles ! On pourrait presque comparer cela à de la semoule au lait, en bouche c'est un peu pâteux mais tellement délicieux ! Je m'attendais au départ à quelque chose de bien trop sucré et assez écœurant, mais finalement non, il y a un très bon équilibre et ça se mange sans faim ! Une petite recette Indienne qui m'a été apprise lors d'un cours de cuisine donné par Apolina du blog [Bombay-Bruxelles](http://bombay-bruxelles.blogspot.fr/) (profitez en pour visiter son blog c'est un régal pour les papilles !). Je ne sais jamais comment utiliser mes épices ni même dans quelles quantités, se fût donc un cours très instructif ! Ce petit dessert est très rapide à réaliser et plaira, je l'espère, à bon nombre d'entre vous ! {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/creme-amande-badam-halwa-cardamome-safran-2.jpg" alt="" >}} {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/creme-amande-badam-halwa-cardamome-safran-1.jpg" alt="" >}}
 
 ##### Recette
 

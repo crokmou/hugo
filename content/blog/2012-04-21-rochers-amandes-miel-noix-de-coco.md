@@ -1,7 +1,7 @@
 ---
 date: "2012-04-21T09:00:00+02:00"
 title: "Rochers amandes, miel, noix de coco"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/20120401_Rocher_coco_amande_15.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20120401_Rocher_coco_amande_15.jpg"
 categories:
   - "Desserts"
 tags:

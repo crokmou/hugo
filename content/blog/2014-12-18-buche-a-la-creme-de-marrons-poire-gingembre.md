@@ -1,7 +1,7 @@
 ---
 date: "2014-12-18T21:07:00+01:00"
 title: "Bûche à la crème de marrons poire/gingembre"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/buchette-demi-sphere-mousse-marron-poire-gingembre-chocolat-recette-blog-crokmou.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/buchette-demi-sphere-mousse-marron-poire-gingembre-chocolat-recette-blog-crokmou.jpg"
 categories:
   - "Desserts"
 tags:
@@ -59,7 +59,7 @@ slug: "buche-a-la-creme-de-marrons-poire-gingembre"
 
 Bonsoir mes tartines ! J'espère que vos préparations pour les fêtes se passent bien ! De mon côté j'ai fini l'achat des cadeaux et j'ai préparé tout ce qui devait être fait pour amener à la famille. Cette année je vous ai préparé une version mini de bûche à la crème de marrons poire/gingembre, une manière pour moi de débuter dans ce genre de pâtisserie mais à petite échelle =p Je me suis inspirée de quelques préparations faites au travail et j'ai fait un petit mix de bûchettes individuelles. L'alliance des saveurs et des textures est assez sympathique, même si le chocolat et la poire prennent le dessus sur le marron (je dirais que quelques éclats de marrons dans la mousse renforcerait un petit peu son goût).Ca reste quand même vachement gourmand! Bien que j'ai galéré pour mon premier glaçage je suis plutôt satisfaite du résultat, mon hom et moi nous nous sommes régalés !
 
-##### [![bûche à la crème de marrons poire/gingembre](https://cdn.rawgit.com/crokmou/images/1.0.6/i/buchette-demi-sphere-mousse-marron-poire-gingembre-chocolat-recette-blog-crokmou-1.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/buchette-demi-sphere-mousse-marron-poire-gingembre-chocolat-recette-blog-crokmou-1.jpg)
+##### [![bûche à la crème de marrons poire/gingembre](https://cdn.rawgit.com/crokmou/images/1.0.7/i/buchette-demi-sphere-mousse-marron-poire-gingembre-chocolat-recette-blog-crokmou-1.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/buchette-demi-sphere-mousse-marron-poire-gingembre-chocolat-recette-blog-crokmou-1.jpg)
 
 ##### Recette
 

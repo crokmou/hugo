@@ -1,7 +1,7 @@
 ---
 date: "2016-12-08T19:28:33+01:00"
 title: "Pancakes vegan, légers et moelleux"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/pancakes-vegan-vg-crokmou-blog-culinaire-belge-1.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/pancakes-vegan-vg-crokmou-blog-culinaire-belge-1.jpg"
 categories:
   - "Desserts"
 tags:
@@ -36,10 +36,10 @@ recette_details:
     - Sans lactose
   - Saison:
     - Printemps
-    - Été
+    - été
     - Automne
     - Hiver
-  - Évènement:
+  - évènement:
     - Goûter
     - Brunch
     - Petit-dejeuner

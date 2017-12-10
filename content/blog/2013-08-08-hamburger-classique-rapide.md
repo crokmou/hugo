@@ -1,7 +1,7 @@
 ---
 date: "2013-08-08T17:22:00+02:00"
 title: "Hamburger classique rapide"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/20130629_hamburger_0041.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20130629_hamburger_0041.jpg"
 categories:
   - "Plats"
 tags:
@@ -23,7 +23,7 @@ Bonjour les gourmands, j'espère que vos vacances ou votre mois d'Août se passe
 
 Comme certains d'entre vous le savent déjà, j'ai terminé mes 3 ans d'études en photographies il y a quelques mois. J'hésitai à la rentrée à reprendre des études en pâtisserie/boulangerie mais j'ai finalement pris la décision de me lancer dans le monde du travail. C'est donc avec une grande joie que je vous annonce **mes débuts en tant que photographe et styliste culinaire indépendante** ! Je ne sais pas encore comment cela va se passer mais on verra bien, au moins je fais ce que j'aime et c'est le plus important !
 
-[![](https://cdn.rawgit.com/crokmou/images/1.0.6/i/fb-300x1281-300x128.jpg)](http://www.blogger.com/blogger.g?blogID=8651192907650572976)
+[![](https://cdn.rawgit.com/crokmou/images/1.0.7/i/fb-300x1281-300x128.jpg)](http://www.blogger.com/blogger.g?blogID=8651192907650572976)
 
 Vous pouvez dès à présent me retrouver sur **mon portfolio** en ligne ainsi que sur ma **nouvelle page Facebook pro.** Comme vous le savez certainement, ce n'est pas toujours évident de se faire connaître donc n'hésitez pas si mon travail vous plait, à **aimer et partager** ma pageFacebook ou mon book en ligne, cela me ferait vraiment plaisir !
 

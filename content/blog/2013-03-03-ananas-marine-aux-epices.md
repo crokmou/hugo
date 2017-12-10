@@ -1,7 +1,7 @@
 ---
 date: "2013-03-03T14:32:00+01:00"
 title: "Ananas mariné aux épices, une recette fraîche et rapide"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/20130302_ananas_marin--_epices_0024.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20130302_ananas_marin--_epices_0024.jpg"
 categories:
   - "Desserts"
 tags:

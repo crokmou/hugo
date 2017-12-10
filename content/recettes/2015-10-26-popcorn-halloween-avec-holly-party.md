@@ -1,7 +1,7 @@
 ---
 date: "2015-10-26T10:03:16+01:00"
 title: "Popcorn d'Halloween avec Holly Party {+ concours}"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/pop-corn-halloween-recette-crokmou-blog-culinaire.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/pop-corn-halloween-recette-crokmou-blog-culinaire.jpg"
 categories:
   - "Desserts"
 tags:
@@ -25,7 +25,7 @@ recette_details:
     - Sans oeufs
   - Saison:
     - Automne
-  - Évènement:
+  - évènement:
     - Goûter
     - En famille
     - Entre amis
@@ -70,11 +70,11 @@ Mon _partenaire pour cet article_ n'est autre qu'**[Holly Party](http://www.holl
 
 Alexia, créatrice de la boutique, m'a envoyé quelques [accessoires pour Halloween](http://www.hollyparty.com/cat-halloween-163.htm) afin que je puisse rendre mon appart' totalement effrayant. Voici ce que j'ai reçu : des araignées, des confettis effrayants, des caissettes a cupcakes, une nappe toile d'araignée et de jolies pailles squelettiques.
 
-Évidemment je n'oublie pas les boites à popcorns qui habillent ma petite recette du jour
+évidemment je n'oublie pas les boites à popcorns qui habillent ma petite recette du jour
 
 {{< recette >}}
 
-_Astuce_ : pour récupérer vos casseroles avec le caramel, il suffit de faire bouillir de l'eau dedans et le caramel va se dissoudre de lui même. {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/halloween-holly-party-decoration.jpg" alt="décoration halloween Holly Party" >}} {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/halloween-holly-party-decoration-1.jpg" alt="décoration halloween Holly Party" >}}
+_Astuce_ : pour récupérer vos casseroles avec le caramel, il suffit de faire bouillir de l'eau dedans et le caramel va se dissoudre de lui même. {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/halloween-holly-party-decoration.jpg" alt="décoration halloween Holly Party" >}} {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/halloween-holly-party-decoration-1.jpg" alt="décoration halloween Holly Party" >}}
 
 ## _Concours Holly Party_
 

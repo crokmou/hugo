@@ -1,7 +1,7 @@
 ---
 date: "2017-09-06T17:13:43+02:00"
 title: "Comme un dal de lentilles corail au lait de coco et curry"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/recette-simple-lentille-corail-lait-coco-curry-vegetal-vegan-crokmou-blog-cuisine-voyage-1-1.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/recette-simple-lentille-corail-lait-coco-curry-vegetal-vegan-crokmou-blog-cuisine-voyage-1-1.jpg"
 categories:
   - "Plats"
 tags:
@@ -31,8 +31,8 @@ recette_details:
     - Sans gluten
   - Saison:
     - Printemps
-    - Été
-  - Évènement:
+    - été
+  - évènement:
     - Diner
     - Lunch
     - Brunch

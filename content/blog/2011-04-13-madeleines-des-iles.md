@@ -1,7 +1,7 @@
 ---
 date: "2011-04-13T08:30:00+02:00"
 title: "Madeleines des îles"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/Madeleines-vanille.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/Madeleines-vanille.jpg"
 categories:
   - "Desserts"
 tags:

@@ -1,7 +1,7 @@
 ---
 date: "2017-03-24T19:46:26+01:00"
 title: "Pâtes fraiches maison à la betterave"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/recette-pates-fraiches-maison-betterave-crokmou-blog-cuisine-voyage-1-8.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/recette-pates-fraiches-maison-betterave-crokmou-blog-cuisine-voyage-1-8.jpg"
 categories:
   - "Plats"
 tags:
@@ -24,9 +24,9 @@ recette_details:
     - Sans lactose
   - Saison:
     - Printemps
-    - Été
+    - été
     - Automne
-  - Évènement:
+  - évènement:
     - Lunch
     - Diner
     - Entre amis
@@ -67,6 +67,6 @@ Des **pâtes fraiches maison à la betterave** pour un repas simple et délicieu
 
 {{< recette >}}
 
-{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/recette-pates-fraiches-maison-betterave-crokmou-blog-cuisine-voyage-1.jpg" alt="" >}} {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/recette-pates-fraiches-maison-betterave-crokmou-blog-cuisine-voyage-1-1.jpg" alt="" >}} {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/recette-pates-fraiches-maison-betterave-crokmou-blog-cuisine-voyage-1-2.jpg" alt="" >}} {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/recette-pates-fraiches-maison-betterave-crokmou-blog-cuisine-voyage-1-10.jpg" alt="" >}}{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/recette-pates-fraiches-maison-betterave-crokmou-blog-cuisine-voyage-1-4.jpg" alt="" >}} {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/recette-pates-fraiches-maison-betterave-crokmou-blog-cuisine-voyage-1-3.jpg" alt="" >}}  
+{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/recette-pates-fraiches-maison-betterave-crokmou-blog-cuisine-voyage-1.jpg" alt="" >}} {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/recette-pates-fraiches-maison-betterave-crokmou-blog-cuisine-voyage-1-1.jpg" alt="" >}} {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/recette-pates-fraiches-maison-betterave-crokmou-blog-cuisine-voyage-1-2.jpg" alt="" >}} {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/recette-pates-fraiches-maison-betterave-crokmou-blog-cuisine-voyage-1-10.jpg" alt="" >}}{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/recette-pates-fraiches-maison-betterave-crokmou-blog-cuisine-voyage-1-4.jpg" alt="" >}} {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/recette-pates-fraiches-maison-betterave-crokmou-blog-cuisine-voyage-1-3.jpg" alt="" >}}  
 
-C’est **une recette vraiment très simple**, bien qu’il est vrai cela peu prendre un peu de temps lorsqu’on n’est pas habitué. Après cela il vous sera difficile d’avaler des Panzani croyez moi… En ce qui concerne _la betterave, le goût n’est pas trop imposant_, cela reste léger, ce qui n’est pas plus mal car cela peut donc s’accompagner avec pas mal de choses. J’ai hâte de retenter l’expérience avec de l’ail des ours, ou encore un peu de curry… **Et vous avez vous déjà tenté les pâtes fraiches maison ?**   {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/recette-pates-fraiches-maison-betterave-crokmou-blog-cuisine-voyage-1-6.jpg" alt="Recette de pâtes fraiches maison à la betterave" >}} {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/recette-pates-fraiches-maison-betterave-crokmou-blog-cuisine-voyage-1-5.jpg" alt="Recette de pâtes fraiches maison à la betterave" >}}{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/recette-pates-fraiches-maison-betterave-crokmou-blog-cuisine-voyage-1-7.jpg" alt="Recette de pâtes fraiches maison à la betterave" >}}
+C’est **une recette vraiment très simple**, bien qu’il est vrai cela peu prendre un peu de temps lorsqu’on n’est pas habitué. Après cela il vous sera difficile d’avaler des Panzani croyez moi… En ce qui concerne _la betterave, le goût n’est pas trop imposant_, cela reste léger, ce qui n’est pas plus mal car cela peut donc s’accompagner avec pas mal de choses. J’ai hâte de retenter l’expérience avec de l’ail des ours, ou encore un peu de curry… **Et vous avez vous déjà tenté les pâtes fraiches maison ?**   {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/recette-pates-fraiches-maison-betterave-crokmou-blog-cuisine-voyage-1-6.jpg" alt="Recette de pâtes fraiches maison à la betterave" >}} {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/recette-pates-fraiches-maison-betterave-crokmou-blog-cuisine-voyage-1-5.jpg" alt="Recette de pâtes fraiches maison à la betterave" >}}{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/recette-pates-fraiches-maison-betterave-crokmou-blog-cuisine-voyage-1-7.jpg" alt="Recette de pâtes fraiches maison à la betterave" >}}

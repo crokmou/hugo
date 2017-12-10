@@ -1,7 +1,7 @@
 ---
 date: "2016-06-23T15:58:36+02:00"
 title: "Makis faits maison, recette en vidéo"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/makis-vg-crokmou-blog-culinaire.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/makis-vg-crokmou-blog-culinaire.jpg"
 categories:
   - "Plats"
 tags:
@@ -30,10 +30,10 @@ recette_details:
     - Sans gluten
   - Saison:
     - Printemps
-    - Été
+    - été
     - Automne
     - Hiver
-  - Évènement:
+  - évènement:
     - Lunch
     - Brunch
     - Diner
@@ -69,7 +69,7 @@ recette:
   - "Pendant ce temps, détailler et préparer les légumes qui garniront les makis."
   - "Après ces 12 minutes, retirer la casserole du feu et laisser reposer 10 minutes à couvert"
   - "En attendant, préparer assaisonnement au vinaigre : Dans une casserole, faire bouillir le vinaigre, le sucre et le sel. Retirer du feu."
-  - "Étaler le riz sur une grande planche en bois (ou un grand récipient non métallique comme ceux dans lesquels on prépare le couscous). A l’aide d’un cuillère en bois plate, trancher le riz délicatement tout en l’humidifiant avec assaisonnement. Le but étant de séparer les gains de riz délicatement afin de ne pas se retrouver avec de grosses masses agglutinées. Cette étape est technique mais l’habitude vient avec la pratique ! Le riz ne doit pas trop refroidir sinon il va durcir, le conserver sous un torchon humide en attendant la confection des makis."
+  - "étaler le riz sur une grande planche en bois (ou un grand récipient non métallique comme ceux dans lesquels on prépare le couscous). A l’aide d’un cuillère en bois plate, trancher le riz délicatement tout en l’humidifiant avec assaisonnement. Le but étant de séparer les gains de riz délicatement afin de ne pas se retrouver avec de grosses masses agglutinées. Cette étape est technique mais l’habitude vient avec la pratique ! Le riz ne doit pas trop refroidir sinon il va durcir, le conserver sous un torchon humide en attendant la confection des makis."
   - "Vient ensuite la confection des makis et pour cela je vous ai réalisé une petite vidéo, parce que pour le coup des images valent mieux que des mots"
 disqusId: 4933195497
 slug: makis-faits-maison-vg-recette-video

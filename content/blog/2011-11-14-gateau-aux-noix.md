@@ -1,7 +1,7 @@
 ---
 date: "2011-11-14T09:30:00+01:00"
 title: "Gateau aux noix"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/IMG_4510-final.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/IMG_4510-final.jpg"
 categories:
   - "Desserts"
 tags:

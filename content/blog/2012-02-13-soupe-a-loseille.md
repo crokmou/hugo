@@ -1,7 +1,7 @@
 ---
 date: "2012-02-13T20:05:00+01:00"
 title: "Soupe à l'oseille"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/20120212_Soupe_oseille_0013.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20120212_Soupe_oseille_0013.jpg"
 categories:
   - "Plats"
 tags:

@@ -1,7 +1,7 @@
 ---
 date: "2013-09-14T18:07:00+02:00"
 title: "Moelleux au sésame noir, thé vert matcha"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/MG_8117.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/MG_8117.jpg"
 categories:
   - "Desserts"
 tags:

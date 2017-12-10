@@ -1,7 +1,7 @@
 ---
 date: "2017-01-03T18:28:03+01:00"
 title: "Spaghetti bolognaise vegan aux légumes"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/bolognaise-vegan-crokmou-blog-cuisine-voyage-belgique-3.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/bolognaise-vegan-crokmou-blog-cuisine-voyage-belgique-3.jpg"
 categories:
   - "Plats"
 tags:
@@ -36,10 +36,10 @@ recette_details:
     - Sans oeufs
   - Saison:
     - Printemps
-    - Été
+    - été
     - Automne
     - Hiver
-  - Évènement:
+  - évènement:
     - Lunch
     - Diner
     - Entre amis
@@ -101,7 +101,7 @@ différente (oui je sais dit comme ça c’est stupide). Moi qui ne suit pas fan
 certains légumes comme la betterave ou le navet, cela m’a donné quelques idées
 sympa… Finalement ce spiraliseur va devenir un bon allié dans ma cuisine !   {{<
 img
-src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/bolognaise-vegan-crokmou-blog-cuisine-voyage-belgique.gif"
+src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/bolognaise-vegan-crokmou-blog-cuisine-voyage-belgique.gif"
 alt="" >}}
 
 {{< recette >}}

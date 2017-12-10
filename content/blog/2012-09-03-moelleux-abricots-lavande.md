@@ -1,7 +1,7 @@
 ---
 date: "2012-09-03T17:19:00+02:00"
 title: "Moelleux abricots, lavande"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/20120822_petit_moelleux_abricot_lavande_0055.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20120822_petit_moelleux_abricot_lavande_0055.jpg"
 categories:
   - "Desserts"
 tags:

@@ -1,7 +1,7 @@
 ---
 date: "2012-08-22T09:40:00+02:00"
 title: "Tarte crumble nectarines et miel"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/20120815_tarte_crumble_nectarine_miel_0010.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20120815_tarte_crumble_nectarine_miel_0010.jpg"
 categories:
   - "Desserts"
 tags:

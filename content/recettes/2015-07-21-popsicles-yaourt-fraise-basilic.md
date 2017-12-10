@@ -1,7 +1,7 @@
 ---
 date: "2015-07-21T18:08:10+02:00"
 title: "Popsicles au yaourt, fraise et basilic"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/glace-popsicle-fraise-basilic-yaourt.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/glace-popsicle-fraise-basilic-yaourt.jpg"
 categories:
   - "Desserts"
 tags:
@@ -21,9 +21,9 @@ recette_details:
   - Régime:
     - Sans oeufs
   - Saison:
-    - Été
+    - été
     - Printemps
-  - Évènement:
+  - évènement:
     - Goûter
     - Lunch
     - Dîner

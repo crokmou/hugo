@@ -1,7 +1,7 @@
 ---
 date: "2015-03-15T18:25:12+01:00"
 title: "Galette aux pommes vanillées"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/galette-feuillet--e-pomme-vanille.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/galette-feuillet--e-pomme-vanille.jpg"
 categories:
   - "Desserts"
 tags:
@@ -30,7 +30,7 @@ Me voilà de retour après quelques semaines d'absence. Le blog a bien changé, 
 
 ## Recette de la galette aux pommes
 
-1.  Épluchez vos pommes et coupez les en morceaux. Versez le tout dans une casserole avec un peu d'eau, le sucre et la gousse de vanille fendue. Recouvrer d'un papier sulfurisé au contact en laissant un petit trou au milieu du papier (ce système va permettre à vos fruits de bien compoter et de garder toutes leurs saveurs), faites cuire à feu doux environ 20/30 minutes. Lorsque la compote est prête, laissez refroidir
+1.  épluchez vos pommes et coupez les en morceaux. Versez le tout dans une casserole avec un peu d'eau, le sucre et la gousse de vanille fendue. Recouvrer d'un papier sulfurisé au contact en laissant un petit trou au milieu du papier (ce système va permettre à vos fruits de bien compoter et de garder toutes leurs saveurs), faites cuire à feu doux environ 20/30 minutes. Lorsque la compote est prête, laissez refroidir
 2.  Préchauffez votre four à 200°C
 3.  Etalez votre pâte feuilletée sur environ 1,5mm d'épaisseur et détaillez ensuite deux ronds de 20cm de diamètre
 4.  Au milieu d'un des cercles, déposez une bonne couche de compote tout en prenant soin de laisser au moins 2/3cm de bords pour pouvoir refermer la galette.

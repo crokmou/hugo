@@ -1,7 +1,7 @@
 ---
 date: "2017-08-16T17:04:16+02:00"
 title: "Pain au levain en cocotte et sans pétrissage - Recette facile"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/recette-pain-levain-cocotte-crokmou-blog-cuisine-voyage-belgique-4.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/recette-pain-levain-cocotte-crokmou-blog-cuisine-voyage-belgique-4.jpg"
 categories:
   - "Boulangerie"
 tags:
@@ -27,10 +27,10 @@ recette_details:
     - Sans oeufs
   - Saison:
     - Printemps
-    - Été
+    - été
     - Automne
     - Hiver
-  - Évènement:
+  - évènement:
     - Goûter
     - Lunch
     - Petit-dejeuner

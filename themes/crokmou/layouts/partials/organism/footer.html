@@ -1,14 +1,59 @@
 </div>
+
+<footer class="footer">
+  <div class="container">
+    <section class="flex">
+      <article class="flex-3">
+        <ul>
+          {{ range .Site.Menus.footer }}
+          <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      </article>
+      <article class="flex-3">
+        <h1>Divers</h1>
+        <ul>
+          {{ range .Site.Menus.divers }}
+          <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+          {{ end }}
+          <li>
+            <a href="mailto:contact@crokmou.com">Contact</a>
+          </li>
+        </ul>
+      </article>
+      <article class="flex-6">
+        <h1>Newsletter</h1>
+        <div class="footer__newsletter">
+          <!-- Begin MailChimp Signup Form -->
+          <div id="mc_embed_signup">
+            <form action="https://crokmou.us3.list-manage.com/subscribe/post?u=391f3c167634b4ded03dcf45e&amp;id=7138445d80" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+              <div class="flex" id="mc_embed_signup_scroll">
+                <div class="mc-field-group input flex-8">
+                  <input type="email" placeholder="E-mail" value="" name="EMAIL" class="required email" id="mce-EMAIL"/>
+                </div>
+                <div class="flex-4">
+                  <input class="button" type="submit" value="Souscrire" name="subscribe" id="mc-embedded-subscribe">
+                </div>
+                <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                  <input type="text" name="b_391f3c167634b4ded03dcf45e_7138445d80" tabindex="-1" value="">
+                </div>
+              </div>
+            </form>
+          </div>
+          <!--End mc_embed_signup-->
+        </div>
+      </article>
+    </section>
+  </div>
+</footer>
+
 <!-- Root element of PhotoSwipe. Must have class pswp. -->
 <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
-
   <!-- Background of PhotoSwipe.
      It's a separate element as animating opacity is faster than rgba(). -->
   <div class="pswp__bg"></div>
-
   <!-- Slides wrapper with overflow:hidden. -->
   <div class="pswp__scroll-wrap">
-
     <!-- Container that holds slides.
       PhotoSwipe keeps only 3 of them in the DOM to save memory.
       Don't modify these 3 pswp__item elements, data is added later on. -->
@@ -17,24 +62,15 @@
       <div class="pswp__item"></div>
       <div class="pswp__item"></div>
     </div>
-
     <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
     <div class="pswp__ui pswp__ui--hidden">
-
       <div class="pswp__top-bar">
-
         <!--  Controls are self-explanatory. Order can be changed. -->
-
         <div class="pswp__counter"></div>
-
         <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
-
         <button class="pswp__button pswp__button--share" title="Share"></button>
-
         <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
-
         <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
-
         <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
         <!-- element will get class pswp__preloader--active when preloader is running -->
         <div class="pswp__preloader">
@@ -45,41 +81,26 @@
           </div>
         </div>
       </div>
-
       <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
         <div class="pswp__share-tooltip"></div>
       </div>
-
       <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
       </button>
-
       <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
       </button>
-
       <div class="pswp__caption">
         <div class="pswp__caption__center"></div>
       </div>
-
     </div>
-
   </div>
-
 </div>
 
-<script type="text/javascript">
-  injectCss('https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css');
-  injectCss('https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css');
-  injectCss('https://fonts.googleapis.com/css?family=Oswald:300|Roboto:300,500');
+<!-- ASYNC css -->
+<link rel="stylesheet" href='https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css' media="screen, projection" />
+<link rel="stylesheet" href='https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css' media="screen, projection" />
+<link rel="stylesheet" href='https://fonts.googleapis.com/css?family=Oswald:300|Roboto:300,500' media="screen, projection" />
+<link rel="stylesheet" href='{{ "/assets/print.css" | relURL }}?v=5' media="print" />
 
-  function injectCss(href) {
-    var element = document.createElement('link');
-    element.rel = 'stylesheet';
-    element.href = href;
-    element.type = 'text/css';
-    var godefer = document.getElementsByTagName('link')[0];
-    godefer.parentNode.insertBefore(element, godefer);
-  }
-</script>
 <script defer src="https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/6.26.0/polyfill.min.js"></script>
 <script defer src="https://code.jquery.com/jquery-3.2.1.min.js"
   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="

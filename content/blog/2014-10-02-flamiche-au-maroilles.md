@@ -1,7 +1,7 @@
 ---
 date: "2014-10-02T17:44:00+02:00"
 title: "Flamiche au Maroilles du Nord"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/flamiche-maroilles-blog-culinaire-crokmou.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/flamiche-maroilles-blog-culinaire-crokmou.jpg"
 categories:
   - "Plats"
 tags:
@@ -41,7 +41,7 @@ La fameuse flamiche au Maroilles, ça pue mais c'est tellement bon ! Depuis que 
 
 1.  Préparation de la focaccia : Délayez la levure dans un peu de l'eau tiède pendant 5/10 minutes.2 |      Dans un saladier ou dans un robot, versez la farine et faites un petit puits. Versez au milieu, le reste d'eau, la levure et l'huile d'olive. Mélangez petit à petit avec les doigts (ou le pétrin de votre robot) jusqu'à ce que votre pâte soit bien mélangée, ajoutez le sel et mélangez à nouveau. Pétrissez ensuite pendant 8/10 minutes.
 2.  Laissez reposer votre pâte sous un torchon humide pendant 20/30 minutes, celle-ci va pousser un petit peu.
-3.  Étalez votre pâte selon la forme de votre plat (préalablement recouvert de papier sulfurisé) puis laissez de nouveau reposer 15/20 minutes
+3.  étalez votre pâte selon la forme de votre plat (préalablement recouvert de papier sulfurisé) puis laissez de nouveau reposer 15/20 minutes
 4.  Préchauffez votre four à 200°C
 5.  Disposez sur votre pâte levée des tranches de Maroilles et un peu de crème fraîche. Saupoudrez d'un peu de muscade, salez, poivrez.
 6.  Enfournez une trentaine de minutes, lorsque la pâte est bien cuite et le fromage tout goulinant, c'est prêt !!!

@@ -1,7 +1,7 @@
 ---
 date: "2011-09-23T17:38:00+02:00"
 title: "Palets bretons à la fleur d'oranger"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/Palets-bretons-fleur-doranger.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/Palets-bretons-fleur-doranger.jpg"
 categories:
   - "Desserts"
 tags:

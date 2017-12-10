@@ -1,7 +1,7 @@
 ---
 date: "2013-06-08T16:48:00+02:00"
 title: "Beurre à l'ail des ours"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/20130608_beurre_demi_sel_ail_des_ours_0028.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20130608_beurre_demi_sel_ail_des_ours_0028.jpg"
 categories:
   - "Apéritifs"
 tags:
@@ -18,7 +18,7 @@ slug: "beurre-a-lail-des-ours"
 
 L'ail des ours, un grand amour depuis peu ! Pour ceux qui ne connaissent pas, l'ail des ours est une plante appelée aussi ail sauvage. Vous ne trouverez pas cette herbe en grande surface ni même sur les marchés (quoi que peut être les petits), il vous faudra vous déplacer dans les sous bois. L'ail des ours sent l'ail (noooon c'est vrai ?!) et c'est d'ailleurs grâce à l'odeur que vous pourrez différencier la feuille d'ail des ours des feuilles de muguet, oui parce que cela se ressemble fort !
 
-[![](https://cdn.rawgit.com/crokmou/images/1.0.6/i/cueillette-ail-des-ours-2-1.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/cueillette-ail-des-ours-2-1.jpg)
+[![](https://cdn.rawgit.com/crokmou/images/1.0.7/i/cueillette-ail-des-ours-2-1.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/cueillette-ail-des-ours-2-1.jpg)
 
 Je ne pourrais pas vous aider quant au "Comment en trouver dans les sous bois ?" puisque moi même, j'ai échoué =D (un ami qui s'y connait mieux m'en a gentiment rapporté). En revanche je vous conseille un blog (dont est issue la photo ci-contre) qui sera vous expliquer la plante en détail et avec des recettes en prime : [Food & Fashion](http://www.foodandfashion.eu/article-utiliser-l-ail-des-ours-en-cuisine-quelques-suggestions-118133660.html) !
 
@@ -46,7 +46,7 @@ _[Recipe in English ](https://lh5.googleusercontent.com/-HPxChO8DNP8/Uc84PqYbXa
 
 <tr>
 
-<td style="text-align: center;">[![](https://cdn.rawgit.com/crokmou/images/1.0.6/i/bear_garlic_butter-300x2121-300x212.png)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/bear_garlic_butter-300x2121.png)</td>
+<td style="text-align: center;">[![](https://cdn.rawgit.com/crokmou/images/1.0.7/i/bear_garlic_butter-300x2121-300x212.png)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/bear_garlic_butter-300x2121.png)</td>
 
 </tr>
 

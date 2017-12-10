@@ -1,7 +1,7 @@
 ---
 date: "2012-02-03T21:20:00+01:00"
 title: "Muffins double chocolat"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/20120130_muffin_chocolat_coeur_chocolat_blanc_1.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20120130_muffin_chocolat_coeur_chocolat_blanc_1.jpg"
 categories:
   - "Desserts"
 tags:

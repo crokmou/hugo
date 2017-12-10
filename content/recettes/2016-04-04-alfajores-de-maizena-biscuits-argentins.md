@@ -1,7 +1,7 @@
 ---
 title: Alfajores de maïzena, biscuits Argentins
 date: "2016-04-04T14:59:47+00:00"
-thumbnail: https://cdn.rawgit.com/crokmou/images/1.0.6/i/alfajores-recette-crokmou-blog-culinaire.jpg
+thumbnail: https://cdn.rawgit.com/crokmou/images/1.0.7/i/alfajores-recette-crokmou-blog-culinaire.jpg
 categories:
   - Desserts
 tags:
@@ -23,10 +23,10 @@ recette_details:
     - Végétarien
   - Saison:
     - Printemps
-    - Été
+    - été
     - Automne
     - Hiver
-  - Évènement:
+  - évènement:
     - Goûter
     - Anniversaire
     - Fêtes de fin d'année
@@ -65,7 +65,7 @@ recette:
   - "Tamiser la farine avec la levure chimique et ajouter avec la maïzena"
   - "Mélanger ensuite les deux préparations jusqu’à obtenir une pâte lisse et homogène, filmer puis laisser reposer au frigo pendant une heure environ pour que la pâte durcisse un peu"
   - "Préchauffer le four à 170/175°C"
-  - "Étaler la pâte avec un rouleau jusqu’à 5/8 mm d’épaisseur et découper avec un emporte pièces rond de 4 cm de diamètre"
+  - "étaler la pâte avec un rouleau jusqu’à 5/8 mm d’épaisseur et découper avec un emporte pièces rond de 4 cm de diamètre"
   - "Mettre sur une plaque préalablement recouverte de papier cuisson, écarter légèrement les ronds de pâte et faire cuire environ 5 minutes sans coloration."
 disqusId: 4719176272
 slug: alfajores-de-maizena-biscuits-argentins
@@ -73,7 +73,7 @@ slug: alfajores-de-maizena-biscuits-argentins
 
 De retour de Savoie, des vacances dont j’ai grandement profité. Je me sentais bien dans les montagnes, ça fait un bien fou de respirer de l’air pur et d’être face à la nature toute la journée. Autant te l’avouer je n’ai rien mangé de bien sain durant une semaine, j’ai eu la chance de déguster toutes les spécialités fromagères possibles : tartiflette, croziflette, fondue au fromage, vacherin, raclette… Je reviens donc le ventre plein, la tête encore dans les nuages et les yeux pleins d’étoiles.
 
-{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/12592269_1059784767422048_3039977996356596909_n.jpg" alt="@sarahblieux" >}}
+{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/12592269_1059784767422048_3039977996356596909_n.jpg" alt="@sarahblieux" >}}
 
 Je devais vous poster cette recette avant mon départ mais j’avais tellement de petits trucs à régler que j’ai oublié. De nouveau, mon ami Argentin m’a drôlement gâtée avec de délicieuses petites pâtisseries bien de chez lui : des Alfajores de maïzena ! C’est une sorte de petit macaron tout doux fourré à la confiture de lait, c’est vraiment délicieux et très gourmand.
 

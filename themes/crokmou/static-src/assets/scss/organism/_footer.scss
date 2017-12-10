@@ -1,2 +1,11 @@
 .footer {
+  padding: $global-spacing; margin-top: $global-spacing * 2;
+  border-top: 8px solid $brand-primary; background: #fff;
+  font-family: $oswald; font-size: 1.2em;
+  h1 { margin: 0 0 $global-spacing / 2 0; font-size: 1.2em; color: $gray-30; }
+  ul { padding: 0; }
+  li { list-style-type: none; }
+  &__newsletter {
+    font-size: .8em;
+  }
 }

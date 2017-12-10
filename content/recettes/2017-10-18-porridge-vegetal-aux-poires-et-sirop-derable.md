@@ -1,7 +1,7 @@
 ---
 date: "2017-10-18T17:38:34+02:00"
 title: "Porridge végétal aux poires et sirop d'érable"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/porridge-poire-sirop-erable-crokmou-blog-belge-cuisine-voyage-01.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/porridge-poire-sirop-erable-crokmou-blog-belge-cuisine-voyage-01.jpg"
 categories:
   - "Desserts"
 tags:
@@ -32,7 +32,7 @@ recette_details:
   - Saison:
     - Automne
     - Hiver
-  - Évènement:
+  - évènement:
     - Goûter
     - Petit-dejeuner
 recette_qty: "Pour une personne"

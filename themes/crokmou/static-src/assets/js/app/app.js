@@ -46,7 +46,6 @@ $(document).ready(function() {
       });
       $('.lazyload').each(function() {
         const $this = $(this);
-        $this.attr('src', $this.data('src').replace(/\.(jpe?g|png|gif)/i, '.svg').replace('/i/', '/svg/').replace(/\/v.{1,6}\//, '\/aa593b66\/'));
         $this.on('load', function() {
           $this.removeClass('loading');
         });
@@ -65,7 +64,7 @@ $(document).ready(function() {
         }
       });
       $children.height('100%');
-      $headerTitle.height(height + 30);
+      $headerTitle.height(Math.max(height + 30, 110));
     }
 
     function ResizeVideos() {
@@ -149,6 +148,11 @@ $(document).ready(function() {
     } catch (e) {
       setTimeout(Algolia, 300);
     }
+  }
+
+  function clearWindowsEvent() {
+    $(window).off("resize");
+    $(window).off('scroll');
   }
 
   function Photoswipe() {
@@ -415,8 +419,9 @@ $(document).ready(function() {
           }
           $pageContainer.html($(elem).html()).promise().done(function(res) {
             if($(window).scrollTop() >= $('[rel="header"]').height()) {
-              $bodyHtml.animate({scrollTop: $('[rel="header"] + *').offset().top - 60}, 300);
+              $bodyHtml.scrollTop($('[rel="header"] + *').offset().top - 60);
             }
+            clearWindowsEvent();
             App.init();
             analytics(res, state.title);
           });

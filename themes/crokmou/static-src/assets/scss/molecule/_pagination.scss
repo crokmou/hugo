@@ -1,11 +1,11 @@
 .pagination {
   margin-top: 30px;
-  text-align: center;
+  text-align: center; font-size: 0;
   li {
     display: inline-block;
-    width: 40px; height: 40px;
+    width: 40px; height: 40px; margin: 0 5px;
     background-color: $white; border: 1px solid $brand-primary-darker;
-    text-align: center; line-height: 40px;
+    font-size: 1rem; text-align: center; line-height: 40px;
     list-style-type: none;
     a {
       display: block;

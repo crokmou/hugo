@@ -1,7 +1,7 @@
 ---
 date: "2012-03-19T20:20:00+01:00"
 title: "Dips de poulet Indiens"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/20120318_Dips_Poulet_Indien_0034.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20120318_Dips_Poulet_Indien_0034.jpg"
 categories:
   - "Apéritifs"
 tags:

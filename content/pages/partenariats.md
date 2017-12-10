@@ -1,0 +1,5 @@
+---
+slug: "partenariats"
+---
+
+Partenariats

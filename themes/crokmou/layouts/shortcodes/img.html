@@ -2,12 +2,13 @@
         itemscope
         itemtype="http://schema.org/ImageObject">
   {{$src := .Get "src"}}
+  {{$srcSvg := replace $src "/i/" "/svg/" }}
+  {{$srcSvg := $srcSvg | replaceRE "(https://cdn.rawgit.com/crokmou/images/.*/svg/.*.)(jpe?g|JPE?G|png|PNG|gif|GIF)" "$1" }}
   <a href='{{$src}}' itemprop="contentUrl" target="_blank" rel="noopener">
     <img class="lazyload loading"
-         style='{background-image: url({{replace (.Get "src") "/i/" "/svg/"}})}'
          data-src='{{.Get "src"}}'
          itemprop="thumbnail"
-         src=""
+         src="{{$srcSvg}}svg"
          alt='{{.Get "alt"}}'/>
     <noscript>
       <img src='{{$src}}' itemprop="thumbnail" alt='{{.Get "alt"}}'/>

@@ -1,7 +1,7 @@
 ---
 date: "2015-05-25T17:04:44+02:00"
 title: "Tarte rhubarbe et crème pâtissière"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/tarte-bourgeoise-rhubarbe-recette-crokmou-blog-culinaire1.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/tarte-bourgeoise-rhubarbe-recette-crokmou-blog-culinaire1.jpg"
 categories:
   - "Desserts"
 tags:
@@ -28,8 +28,8 @@ recette_details:
     - Végétarien
   - Saison:
     - Printemps
-    - Été
-  - Évènement:
+    - été
+  - évènement:
     - Goûter
     - Lunch
     - Diner
@@ -77,7 +77,7 @@ recette:
   - "**Pour la crème pâtissière:** Faire bouillir le lait et le 1<sup>er</sup> sucre. Mélanger le 2<sup>ème</sup> sucre et la maïzena. Ajoutez l’œuf et mélanger de nouveau. Verser un peu de lait bouilli dans le mélange sucre/maïzena/œuf. Mélanger et reverser dans le reste de lait encore sur la casserole Lorsque le mélange commence à faire des bulles, continuer de mélanger et stériliser l’appareil encore 2 minutes Ajouter le beurre, mélanger et verser la crème pâtissière sur une plaque préalablement recouverte de papier film Filmer la crème pâtissière au contact et faire refroidir rapidement"
   - "Faire égoutter vos morceaux de rhubarbe au sirop"
   - "Sortir la pâte à tarte et l'étaler sur environ 3mm, la placer dans votre moule à tarte préalablement (bien) beurré et foncer (c'est à dire ajuster votre pâte selon le moule, couper les bords tout ça)."
-  - "Étaler un fond de crème pâtissière, disposer les morceaux de rhubarbe comme il vous semble et laisser 'pousser' la tarte pendant environ 30 minutes à l'air libre"
+  - "étaler un fond de crème pâtissière, disposer les morceaux de rhubarbe comme il vous semble et laisser 'pousser' la tarte pendant environ 30 minutes à l'air libre"
   - "Préchauffer votre four à 230°C"
   - "Dorer les bords de la tarte et enfourner pour 20/25 minutes"
   - "Défourner sur grille et déguster encore tiède (c'est tellement meilleur !!!)"

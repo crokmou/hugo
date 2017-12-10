@@ -32,27 +32,27 @@ A la suite des résultats je noterai les choix (j'ai demandé à ce que chacun f
 
 1) Le **grand gagnant** est donc *TADADAAAAAAM* : [**La tarte de Metz** par "CC-cuisine"](http://cc-cuisine.blogspot.fr/2013/10/tarte-de-metz-aux-raisins.html) avec un total de 8 votes (+ 1), qui remporte donc : Un set fondue pour vousréchauffercet hiver offert par [Rue du Commerce](http://www.rueducommerce.fr/) d'une valeur d'environ 50€
 
-[![](https://cdn.rawgit.com/crokmou/images/1.0.6/i/tarte_raisins_01-199x3001-199x300.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/tarte_raisins_01-199x3001.jpg)
+[![](https://cdn.rawgit.com/crokmou/images/1.0.7/i/tarte_raisins_01-199x3001-199x300.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/tarte_raisins_01-199x3001.jpg)
 
 2) Le deuxième gagnant ou plutôt **deuxième gagnante** avec un total de 8 votes n'est autre que **[Sihem du blog Miel et Epices avec sa recette de tortilla](http://www.mieletepices.blogspot.be/2013/10/tortilla-de-pommes-de-terre-aux-oignons.html#more)**. Elle remporte : Un appareil à crêpes et une boite Pause Gourmande Speculoos. Cadeaux offerts par [Rue du Commerce](http://www.rueducommerce.fr/) et la [Maison Dandoy](http://www.maisondandoy.com/) d'une valeur totale d'environ 40€.
 
-[![](https://cdn.rawgit.com/crokmou/images/1.0.6/i/IMG_6920-195x3001-195x300.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/IMG_6920-195x3001.jpg)
+[![](https://cdn.rawgit.com/crokmou/images/1.0.7/i/IMG_6920-195x3001-195x300.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/IMG_6920-195x3001.jpg)
 
 3) La **troisième place** revient à **["Ma p'tite campagne" et son macaroné du Poitou](http://www.map-titecampagne.net/2013/10/05/le-macarone-du-poitou-concours-crokmou/)** avec 6 votes. Celle-ci remporte : Un coffret grande dégustation de la part de notre partenaire la [conserverie "Au Bec Fin"](http://www.au-bec-fin.com/), d'une valeur approximative de 30€.Ce coffret comprend une soupe de poisson de Roche, un paquet de croûtons, un coffret de caviar d'aubergines et de tomates séchées et une bouteille de ketchup Provençal.
 
-[![](https://cdn.rawgit.com/crokmou/images/1.0.6/i/Capture-d-25E2-2580-2599e-25CC-2581cran-2013-10-06-a-25CC-2580-12.43.16-199x3001-199x300.png)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/Capture-d-25E2-2580-2599e-25CC-2581cran-2013-10-06-a-25CC-2580-12.43.16-199x3001.png)
+[![](https://cdn.rawgit.com/crokmou/images/1.0.7/i/Capture-d-25E2-2580-2599e-25CC-2581cran-2013-10-06-a-25CC-2580-12.43.16-199x3001-199x300.png)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/Capture-d-25E2-2580-2599e-25CC-2581cran-2013-10-06-a-25CC-2580-12.43.16-199x3001.png)
 
 4) La **quatrième place** est attribuée à **["Délice-yeux" et son gâteau Arboisien](http://www.delice-yeux.over-blog.com/article-gateau-arboisien-noix-amandes-nappe-de-caramel-120636371.html)** avec 5 votes. Celle-ci remporte un coffret carré gourmet typiquement Belge offert par notre partenaire la [Maison Dandoy](http://www.maisondandoy.com/) d'une valeur d'environ 28€.
 
-[![](https://cdn.rawgit.com/crokmou/images/1.0.6/i/Arboisien031.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/Arboisien031.jpg)
+[![](https://cdn.rawgit.com/crokmou/images/1.0.7/i/Arboisien031.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/Arboisien031.jpg)
 
 5) La dernière et **cinquième place** est décernée à une recette qui nous vient tout droit du Sud avec 4 votes : Les **[navettes à la fleur d'oranger par le blog "Gourmand'Iz"](http://gourmandiz.hautetfort.com/archive/2013/09/03/navettes-5155284.html).** Elle remporte un coffret dégustation offert par notre partenaire la [conserverie "Au Bec Fin"](http://www.au-bec-fin.com/) d'une valeur approximative de 18€. Ce coffret comprend une soupe de poisson de Roche, un paquet de croûtons ainsi qu'un coffret tapenades.
 
-[![](https://cdn.rawgit.com/crokmou/images/1.0.6/i/8346944591.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/8346944591.jpg)
+[![](https://cdn.rawgit.com/crokmou/images/1.0.7/i/8346944591.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/8346944591.jpg)
 
 Bravo, bravo ! Kampaï !
 
-[![](https://cdn.rawgit.com/crokmou/images/1.0.6/i/pikachu___gangnam_style_by_mnrart-d5hdd261.gif)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/pikachu___gangnam_style_by_mnrart-d5hdd261.gif)
+[![](https://cdn.rawgit.com/crokmou/images/1.0.7/i/pikachu___gangnam_style_by_mnrart-d5hdd261.gif)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/pikachu___gangnam_style_by_mnrart-d5hdd261.gif)
 
 **Pour ceux qui désirent voir les votes par jury, voici donc :**
 

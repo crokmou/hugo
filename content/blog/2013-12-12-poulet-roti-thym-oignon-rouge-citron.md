@@ -1,7 +1,7 @@
 ---
 date: "2013-12-12T16:06:00+01:00"
 title: "Poulet rôti thym, oignon rouge, citron"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/101213_poulet_roti_thym_0001.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/101213_poulet_roti_thym_0001.jpg"
 categories:
   - "Plats"
 tags:

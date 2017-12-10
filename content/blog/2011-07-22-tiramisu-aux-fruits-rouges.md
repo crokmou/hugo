@@ -1,7 +1,7 @@
 ---
 date: "2011-07-22T21:43:00+02:00"
 title: "Tiramisu aux fruits rouges"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/Tiramisu-fruits.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/Tiramisu-fruits.jpg"
 categories:
   - "Desserts"
 tags:

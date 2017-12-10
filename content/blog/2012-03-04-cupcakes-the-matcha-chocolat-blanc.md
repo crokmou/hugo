@@ -1,7 +1,7 @@
 ---
 date: "2012-03-04T11:00:00+01:00"
 title: "Cupcakes thé matcha, chocolat blanc"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/20120211_Cupcake_The_Matcha_0001.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20120211_Cupcake_The_Matcha_0001.jpg"
 categories:
   - "Desserts"
 tags:

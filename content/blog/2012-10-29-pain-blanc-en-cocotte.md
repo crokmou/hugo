@@ -1,7 +1,7 @@
 ---
 date: "2012-10-29T15:40:00+01:00"
 title: "Pain blanc en cocotte"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/20121029_pain_blanc_cuisson_cocotte_fonte_0002.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20121029_pain_blanc_cuisson_cocotte_fonte_0002.jpg"
 categories:
   - "Boulangerie"
 tags:

@@ -26,10 +26,6 @@
   img {
     display: block;
     width: 100%;
-    &.loading {
-      padding-bottom: 67%; height: 1px;
-      background-color: $gray-85;
-    }
   }
   a {
     &[href*=".jpg"],

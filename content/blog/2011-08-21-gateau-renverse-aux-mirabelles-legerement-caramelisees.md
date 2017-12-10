@@ -1,7 +1,7 @@
 ---
 date: "2011-08-21T18:41:00+02:00"
 title: "Gâteau renversé aux mirabelles légèrement caramélisées"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/Gateau-renvers---2.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/Gateau-renvers---2.jpg"
 categories:
   - "Desserts"
 tags:

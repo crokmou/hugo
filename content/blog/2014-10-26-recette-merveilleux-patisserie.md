@@ -1,7 +1,7 @@
 ---
 date: "2014-10-26T15:31:00+01:00"
 title: "Un merveilleux dessert, le merveilleux !"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/merveilleux-patisserie-recette-crokmou-blog-culinaire.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/merveilleux-patisserie-recette-crokmou-blog-culinaire.jpg"
 categories:
   - "Desserts"
 tags:

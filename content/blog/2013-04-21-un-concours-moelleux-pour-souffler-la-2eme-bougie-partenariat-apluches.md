@@ -10,7 +10,7 @@ description: ""
 slug: "un-concours-moelleux-pour-souffler-la-2eme-bougie-partenariat-apluches"
 ---
 
-[![](https://cdn.rawgit.com/crokmou/images/1.0.6/i/concours_bloganniversaire-300x1421-300x142.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/concours_bloganniversaire-300x1421.jpg)
+[![](https://cdn.rawgit.com/crokmou/images/1.0.7/i/concours_bloganniversaire-300x1421-300x142.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/concours_bloganniversaire-300x1421.jpg)
 
 2 ans, oui oui dans une semaine cela fera 2 ans que Cro'K'Mou est né ! Autant vous dire que je suis plus qu'heureuse de voir que chaque jour le blog vous plait un peu plus ! Au départ je n'étais pas vraiment certaine de pouvoir tenir un blog, ni même d'avoir des lecteurs un jour... Mais voilà, deux années ont passées et je suis toujours là... et vous aussi ! La [page Facebook du blog](https://www.facebook.com/pages/CroKMou/148093255259077) compte maintenant plus de 600 abonnés, [la newsletter](https://crokmou.com/p/newsletter_18.html) est de plus en plus distribuée, les commentaires de plus en plus adorables... Et pour tout le bonheur et le soutien que vous m'apportez je souhaiterai vous dire Merci !
 
@@ -22,7 +22,7 @@ Et pour vous remercier d'autant plus, j'organise en partenariat avec [Apluches](
 
 Son passe temps favori est donc la création de petites peluches artisanales avec comme but premier, la satisfaction de la personne qui va la recevoir. La particularité de ses peluches est justement la personnalisation de celles-ci afin qu'elles deviennent uniques.
 
-[![](https://cdn.rawgit.com/crokmou/images/1.0.6/i/poulpy_bleu-300x2251-300x225.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/poulpy_bleu-300x2251.jpg)[![](https://cdn.rawgit.com/crokmou/images/1.0.6/i/plante-300x2251-300x225.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/plante-300x2251.jpg)
+[![](https://cdn.rawgit.com/crokmou/images/1.0.7/i/poulpy_bleu-300x2251-300x225.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/poulpy_bleu-300x2251.jpg)[![](https://cdn.rawgit.com/crokmou/images/1.0.7/i/plante-300x2251-300x225.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/plante-300x2251.jpg)
 
 Apluches est né de son imagination et de sa passion pour la couture depuis son tout jeune âge. La création de ses peluches a commencé réellement en 2008 lors de ses études en Arts, où elle avait un simple blog comme galerie.
 
@@ -34,7 +34,7 @@ J'ai été voir Sophie car je trouvais que cela pouvait être bien de mettre en 
 
 Avec Apluches, nous nous sommes donc dit, comme Crokmou est un blog culinaire, qu'il serait peut être bien de vous faire gagner : un Cookies p'luche de la taille d'un coussin !
 
-[![](https://cdn.rawgit.com/crokmou/images/1.0.6/i/cookie-225x3001-225x300.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/cookie-225x3001.jpg)
+[![](https://cdn.rawgit.com/crokmou/images/1.0.7/i/cookie-225x3001-225x300.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/cookie-225x3001.jpg)
 
 Super non ? Je trouve qu'un coussin comme ça sur le canap' hey beh ça fait tout de suite son effet !
 
@@ -81,7 +81,7 @@ Sandrine
 
 de Cuisine et Cigares
 
-[![](https://cdn.rawgit.com/crokmou/images/1.0.6/i/Capture-d-E2-80-99e-CC-81cran-2013-05-06-a-CC-80-11.49.321.png)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/Capture-d-E2-80-99e-CC-81cran-2013-05-06-a-CC-80-11.49.321.png)[![](https://cdn.rawgit.com/crokmou/images/1.0.6/i/Capture-d-E2-80-99e-CC-81cran-2013-05-06-a-CC-80-11.49.501.png)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/Capture-d-E2-80-99e-CC-81cran-2013-05-06-a-CC-80-11.49.501.png)
+[![](https://cdn.rawgit.com/crokmou/images/1.0.7/i/Capture-d-E2-80-99e-CC-81cran-2013-05-06-a-CC-80-11.49.321.png)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/Capture-d-E2-80-99e-CC-81cran-2013-05-06-a-CC-80-11.49.321.png)[![](https://cdn.rawgit.com/crokmou/images/1.0.7/i/Capture-d-E2-80-99e-CC-81cran-2013-05-06-a-CC-80-11.49.501.png)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/Capture-d-E2-80-99e-CC-81cran-2013-05-06-a-CC-80-11.49.501.png)
 
 Tu as gagné un joli coussin cookies ! Tu peux me contacter à cette adresse contact{at}sarahblieux.com (ou via facebook) afin que je puisse te mettre en contact avec Apluches :)
 

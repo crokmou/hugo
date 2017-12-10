@@ -1,7 +1,7 @@
 ---
 date: "2011-04-11T22:37:00+02:00"
 title: "Macarons aux spéculoos"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/Macaron-sp--culoos.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/Macaron-sp--culoos.jpg"
 categories:
   - "Desserts"
 tags:
@@ -17,7 +17,7 @@ description: ""
 slug: "macarons-aux-speculoos"
 ---
 
-Et bien nous y voilà, les fameux Macarons... Honnêtement, vraiment pas simple, les miens n'ont pas de collerettes, et ne sont pas tout lisse non plus, mais ce sont mes premiers et je pense que c'est un coup de main à prendre ^^, alors accrochez vous et persévérez =) Recette tirée du livre "Macarons, recettes classiques" au Éditions ESI Je vous conseille de commencer par faire la farce, afin de la laisser refroidir le temps de faire les macarons (voir 2ème partie de l'article pour la farce)
+Et bien nous y voilà, les fameux Macarons... Honnêtement, vraiment pas simple, les miens n'ont pas de collerettes, et ne sont pas tout lisse non plus, mais ce sont mes premiers et je pense que c'est un coup de main à prendre ^^, alors accrochez vous et persévérez =) Recette tirée du livre "Macarons, recettes classiques" au éditions ESI Je vous conseille de commencer par faire la farce, afin de la laisser refroidir le temps de faire les macarons (voir 2ème partie de l'article pour la farce)
 
 [![](http://4.bp.blogspot.com/-Jz7H4x8mPAA/TxiZxp0xcnI/AAAAAAAABpc/Jc6TWpvKNfk/s1600/Macarons+speculoos.jpg)](http://4.bp.blogspot.com/-Jz7H4x8mPAA/TxiZxp0xcnI/AAAAAAAABpc/Jc6TWpvKNfk/s1600/Macarons+speculoos.jpg)
 

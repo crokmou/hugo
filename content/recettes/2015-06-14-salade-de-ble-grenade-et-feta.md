@@ -1,7 +1,7 @@
 ---
 date: "2015-06-14T14:38:45+02:00"
 title: "Salade de blé, grenade et feta"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/recette-salade-bl---grenade-feta-crokmou-blog.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/recette-salade-bl---grenade-feta-crokmou-blog.jpg"
 categories:
   - "Plats"
 tags:
@@ -25,9 +25,9 @@ recette_details:
     - Sans oeufs
   - Saison:
     - Printemps
-    - Été
+    - été
     - Automne
-  - Évènement:
+  - évènement:
     - Lunch
     - Diner
     - Brunch
@@ -56,7 +56,7 @@ recette_ingredients:
     - sel & poivre
 recette:
   - "Dans une casserole d'eau bouillante, faire cuire le blé pendant une dizaine de minute. Egouter et réserver au frais (pour refroidir le tout plus rapidement il te suffit de passer le blé sous de l'eau froide)"
-  - "Égrainer la grenade, couper la feta en petits dès et ciseler la tige d'oignon (en ayant pris soin de laver la tige avant, on ne sait jamais !)"
+  - "égrainer la grenade, couper la feta en petits dès et ciseler la tige d'oignon (en ayant pris soin de laver la tige avant, on ne sait jamais !)"
   - "Mélanger ensemble le blé, les grains de grenade, la feta et l'oignon. Assaisonner avec l'huile, le vinaigre, le sel et le poivre"
   - "Réserver au frais avant de servir"
 slug: "salade-de-ble-grenade-et-feta"

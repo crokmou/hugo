@@ -1,7 +1,7 @@
 ---
 date: "2017-05-04T17:48:12+02:00"
 title: "Pancakes pralinés vegan, mon bonheur tous les Dimanches !"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/pancakes-vegan-vg-crokmou-blog-cuisine-voyage-1.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/pancakes-vegan-vg-crokmou-blog-cuisine-voyage-1.jpg"
 categories:
   - "Desserts"
 tags:
@@ -30,10 +30,10 @@ recette_details:
     - Sans lactose
   - Saison:
     - Printemps
-    - Été
+    - été
     - Automne
     - Hiver
-  - Évènement:
+  - évènement:
     - Goûter
     - Brunch
     - Petit-dejeuner
@@ -79,4 +79,4 @@ Oui oui oui, je vous parle encore de pancakes mais cette fois de pancakes pralin
 
 {{< recette >}}
 
-{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/pancakes-vegan-vg-crokmou-blog-cuisine-voyage-1-1.jpg" alt="Recette de pancakes pralinés vegan" >}}
+{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/pancakes-vegan-vg-crokmou-blog-cuisine-voyage-1-1.jpg" alt="Recette de pancakes pralinés vegan" >}}

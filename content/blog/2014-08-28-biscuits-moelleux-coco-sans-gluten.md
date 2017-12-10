@@ -1,7 +1,7 @@
 ---
 date: "2014-08-28T14:57:00+02:00"
 title: "Biscuits moelleux coco sans gluten"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/biscuit-moelleux-coco-sans-gluten-1.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/biscuit-moelleux-coco-sans-gluten-1.jpg"
 categories:
   - "Desserts"
 tags:
@@ -39,7 +39,7 @@ Il y a quelques jours j'ai reçu un petit colis de mon partenaire Keimling avec 
 1.  Dans un saladier, mélangez les farines, le sucre et le sel. Ajoutez ensuite l'huile de coco et pétrissez le tout avec les doigts.
 2.  Versez ensuite petit à petit l'eau chaude tout en continuant de malaxer votre pâte. Celle-ci doit former une boule un peu friable, il est possible que vous n'ayez pas besoin de toute l'eau.
 3.  Préchauffez votre four à 180°C
-4.  Étalez votre pâte sur 5mm environ, attention la réparation est très difficile à manier, pour ma part j'étale d'abord avec la paume de la main puis au rouleau (on voit petit à petit que cela s'étale mieux dans un sens que dans l'autre). A l'aide d'emporte-pièces, découpez vos biscuits et déposez les sur une plaque à four préalablement recouverte de papier sulfurisé. Continuez jusqu'à ce qu'il n'y ai plus de pâte.
+4.  étalez votre pâte sur 5mm environ, attention la réparation est très difficile à manier, pour ma part j'étale d'abord avec la paume de la main puis au rouleau (on voit petit à petit que cela s'étale mieux dans un sens que dans l'autre). A l'aide d'emporte-pièces, découpez vos biscuits et déposez les sur une plaque à four préalablement recouverte de papier sulfurisé. Continuez jusqu'à ce qu'il n'y ai plus de pâte.
 5.  Enfournez 15 minutes environ, jusqu'à ce que les biscuits commencent à dorer puis retirer du four et laissez refroidir sur une grille. Dégustez avec un bon petit thé et les yeux fermés, vous verrez les saveurs vont faire que vos vacances au soleil vous reviendrons en mémoire !
 
 Nature ou avec un peu de confiture ils vous plairont je n'en doute pas ! Des poutoux mes petits sucres, et n'oubliez pas le concours Keimling afin de gagner quelques uns des produits utilisés dans la recette, c'est jusque Dimanche et c'est par -ici-

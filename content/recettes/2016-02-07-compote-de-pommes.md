@@ -1,7 +1,7 @@
 ---
 title: Compote de pommes en toute simplicité
 date: "2016-02-07T11:11:49+00:00"
-thumbnail: https://cdn.rawgit.com/crokmou/images/1.0.6/i/compote-pomme-poire-maison-crokmou-blog-culinaire.jpg
+thumbnail: https://cdn.rawgit.com/crokmou/images/1.0.7/i/compote-pomme-poire-maison-crokmou-blog-culinaire.jpg
 categories:
   - Desserts
   - 'Sauces - Confitures'
@@ -27,7 +27,7 @@ recette_details:
   - Saison:
     - Automne
     - Hiver
-  - Évènement:
+  - évènement:
     - Goûter
     - Brunch
     - Petit-dejeuner

@@ -1,7 +1,7 @@
 ---
 date: "2014-04-24T18:19:00+02:00"
 title: "Meringues au yuzu et grué de cacao"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/meringue-francaise-nature-yuzu-gru--.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/meringue-francaise-nature-yuzu-gru--.jpg"
 categories:
   - "Desserts"
 tags:

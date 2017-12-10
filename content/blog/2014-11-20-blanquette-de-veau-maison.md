@@ -1,7 +1,7 @@
 ---
 date: "2014-11-20T17:20:00+01:00"
 title: "Blanquette de veau maison"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/blanquette-veau-recette-crokmou-blog-culinaire.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/blanquette-veau-recette-crokmou-blog-culinaire.jpg"
 categories:
   - "Plats"
 tags:
@@ -43,13 +43,13 @@ J'adore la blanquette de veau maison, c'est pour moi un plat très "cocoon". Cet
 
 ##### Recette
 
-1.  Préparez la viande : Dégraissez et découpez votre morceaux de viande en dès de tailles égales (+/- 50g). Dans une casserole versez 1 à 2 cm d'eau froide et plongez y la viande. Faites bouillir quelques minutes. Éliminez l'écume qui se forme à la surface. Une fois votre viande blanchie, rincez soigneusement les morceaux sous l’eau froide et réservez.
-2.  Épluchez vos carottes, l'ail et le gros oignon. Coupez vos carottes en rondelles, écrasez l'ail à l'aide de votre paume de main et coupez l'oignon en 4\. Piquez un quartier d'oignon avec les clous de girofle.
+1.  Préparez la viande : Dégraissez et découpez votre morceaux de viande en dès de tailles égales (+/- 50g). Dans une casserole versez 1 à 2 cm d'eau froide et plongez y la viande. Faites bouillir quelques minutes. éliminez l'écume qui se forme à la surface. Une fois votre viande blanchie, rincez soigneusement les morceaux sous l’eau froide et réservez.
+2.  épluchez vos carottes, l'ail et le gros oignon. Coupez vos carottes en rondelles, écrasez l'ail à l'aide de votre paume de main et coupez l'oignon en 4\. Piquez un quartier d'oignon avec les clous de girofle.
 3.  Formez votre bouquet garni : pour cela ficelez bien le laurier, le thym et le céleri.
 4.  La cuisson : Dans une grand casserole ou une marmite (c'et encore meilleur dans une marmite en fonte si si !), déposez la viande et ajoutez de l'eau froide jusqu'à 3cm au dessus des morceaux de veau. Ajoutez un peu de gros sel et portez le tout à ébullition.
 5.  Ajoutez ensuite le bouquet garni, le gros oignon, l'ail et les carottes et laissez mijotez à feu doux et à couvert pendant 1h/1h30.
-6.  Préparez la garniture : Épluchez, lavez et égouttez les petits oignons et les glacer à blanc. Pour cela mettre 15g de beurre dans une poêle, un peu d'eau, les petits oignons, un peu de sucre et de sel. Cuire jusqu'à évaporation de l'eau.
-7.  Épluchez, lavez et égouttez les champignons de Paris. Coupez les en quatre et les cuire à feu vif dans une poêle durant 5 bonnes minutes avec 10g de beurre et le jus de citron.
+6.  Préparez la garniture : épluchez, lavez et égouttez les petits oignons et les glacer à blanc. Pour cela mettre 15g de beurre dans une poêle, un peu d'eau, les petits oignons, un peu de sucre et de sel. Cuire jusqu'à évaporation de l'eau.
+7.  épluchez, lavez et égouttez les champignons de Paris. Coupez les en quatre et les cuire à feu vif dans une poêle durant 5 bonnes minutes avec 10g de beurre et le jus de citron.
 8.  Préparation du velouté : Dans une petite casserole, faites fondre 50g de beurre puis ajoutez la farine. Fouettez bien jusqu'à ce que le mélange roussisse puis laissez refroidir rapidement.
 9.  Une fois la viande cuite, sortez les morceaux de la casserole et réservez. Récupérez 800ml d'eau de cuisson (bouillon) et passez le au chinois. Versez ensuite dans le roux blanc (mélange beurre/farine) et faites bouillir tout en mélangeant bien. Laissez ensuite cuire à feu doux pendant 10 minutes.
 10.  Préparation de la sauce à blanquette : Fouettez les jaunes d'oeufs à la crème fraîche puis hors du feu ajoutez ce mélange au velouté et mélangez bien. Portez à ébullition quelques secondes.

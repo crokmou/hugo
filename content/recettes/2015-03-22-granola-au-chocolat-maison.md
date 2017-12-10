@@ -1,7 +1,7 @@
 ---
 date: "2015-03-22T17:24:42+01:00"
 title: "Granola au chocolat maison"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/granola-au-chocolat-maison-5.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/granola-au-chocolat-maison-5.jpg"
 categories:
   - "Desserts"
 tags:
@@ -33,10 +33,10 @@ recette_details:
     - Sans oeufs
   - Saison:
     - Printemps
-    - Été
+    - été
     - Automne
     - Hiver
-  - Évènement:
+  - évènement:
     - Petit-dejeuner
     - Brunch
     - En famille
@@ -78,7 +78,7 @@ slug: "granola-au-chocolat-maison"
 
 Aujourd'hui je me suis régalée avec du granola au chocolat maison ! Hey ouai, vous avez bien entendu, du granola fabriqué dans ma petite cuisine ! En ce moment je me fais ma petite crise existentielle, je fais attention à moi (je me suis mise au sport yeaaaaaaah), à ce que je mange et d'où cela provient (je vais finir bobo Bruxelloise à ce rythme). Bien que cela peut paraitre normal pour certains, pour moi c'est étrange d'être attentive à tout ça mais pas pour autant mauvais, j'ai un nouveau regard sur ce qui m'entoure et ce n'est peut être pas plus mal. Il est clair que je ne suis pas prête à laisser tomber mon steak et mes raviolis en boite néanmoins je peux quand même faire un effort sur certaines choses.
 
-{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/granola-au-chocolat-maison-3.jpg" alt="granola au chocolat maison" >}} {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.6/i/granola-au-chocolat-maison-1.jpg" alt="granola au chocolat maison" >}}
+{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/granola-au-chocolat-maison-3.jpg" alt="granola au chocolat maison" >}} {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/granola-au-chocolat-maison-1.jpg" alt="granola au chocolat maison" >}}
 
 Cette semaine je vais parler de céréales: parce que celles du commerce sont bien trop chères, trop sucrées et qu'on se le dise dans les "Lions" il y a de tout sauf des céréales et des fibres ! J'avais craqué sur une recette de granola sur le blog [Les bonheurs d'Anne & Alex](http://www.lesbonheurs.fr/2014/09/granola-double-chocolat-et-amandes-v.html), du coup je suis partie dans le même esprit, du chocolat, des céréales et des fruits secs! Rien de bien difficile, on fait son mélange un peu comme on le sent, on passe au four, on laisse sécher et hop là dans un bon bol de fromage blanc, un vrai délice ! C'est croquant sous la dent, ça à du goût et c'est bon pour mon petit corps, oui oui oui !
 

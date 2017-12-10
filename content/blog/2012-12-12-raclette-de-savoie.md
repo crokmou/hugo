@@ -1,7 +1,7 @@
 ---
 date: "2012-12-12T09:42:00+01:00"
 title: "Raclette de Savoie"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/20121201_raclette-savoie_MVI_4564.gif"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20121201_raclette-savoie_MVI_4564.gif"
 categories:
   - "Plats"
 tags:
@@ -41,7 +41,7 @@ Afin de servir toute la marmaille ou tout simplement les amis, vous n'aurez pas 
 
 (Je ne vous ai pas tout dit, j'aime aussi beaucoup la tartiflette et les [crozets savoyards](https://crokmou.com/2011/04/du-fromage-du-fromage-et-encore-du.html))
 
-[![](https://cdn.rawgit.com/crokmou/images/1.0.6/i/20121201_raclette-savoie_MG_4556_e-CC-81-300x2001-300x200.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.6/i/20121201_raclette-savoie_MG_4556_e-CC-81-300x2001.jpg)
+[![](https://cdn.rawgit.com/crokmou/images/1.0.7/i/20121201_raclette-savoie_MG_4556_e-CC-81-300x2001-300x200.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/20121201_raclette-savoie_MG_4556_e-CC-81-300x2001.jpg)
 
 Des bisous et faites attention à ne pas prendre froid !
 

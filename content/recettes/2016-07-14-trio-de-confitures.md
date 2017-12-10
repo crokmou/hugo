@@ -1,7 +1,7 @@
 ---
 date: "2016-07-14T14:39:35+02:00"
 title: "Trio de confitures"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/trio-confiture-crokmou-blog-culinaire.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/trio-confiture-crokmou-blog-culinaire.jpg"
 categories:
   - "Sauces - confitures"
 tags:
@@ -35,8 +35,8 @@ recette_details:
     - Sans lactose
   - Saison:
     - Printemps
-    - Été
-  - Évènement:
+    - été
+  - évènement:
     - Goûter
     - Anniversaire
     - Tea-time
@@ -89,7 +89,7 @@ recette:
   - "**Pour la confiture abricot/fleur d’oranger et la confiture prune/abricot/vanille :** laver les fruits, les couper en deux et enlever le noyau. Dans un saladier, verser le sucre sur les fruits et ajouter la fleur d’oranger et/ou la vanille selon la recette. Mélanger avec les mains et laisser macérer pendant 2/3h à température ambiante."
   - "Ajouter la pectine en poudre, bien mélanger. Verser les fruits dans une casserole et faire cuire à feu doux pendant 20/30 minutes environ. Enlever la mousse au fur et à mesure qu’elle se forme. Pour vérifier si votre confiture est prête, verser une petite goutte sur une soucoupe préalablement mise au frais, si lorsque vous penchez la soucoupe la goutte ne coule pas, votre confiture est prête ! (Pour ceux qui n’aiment pas les morceaux, comme moi, mixer avant de mettre en pots)"
   -  "Mettre en pots préalablement stérilisés pendant 15 minutes dans l’eau bouillante. Bien fermer et retourner le pot."
-  - "**Pour la pâte de rhubarbe :** Éplucher et couper la rhubarbe en tronçons, eux même coupés en deux dans le sens de la longueur par après."
+  - "**Pour la pâte de rhubarbe :** éplucher et couper la rhubarbe en tronçons, eux même coupés en deux dans le sens de la longueur par après."
   - "Faire cuire dans une casserole avec l’eau, le sucre, le jus de citron et la fleur de sel pendant 25/30 minutes environ. Remuer régulièrement et ne pas hésiter à écraser un peu la rhubarbe avec la spatule. La compotée doit rester humide/crémeuse mais toute l’eau doit être évaporée. La texture doit être assez ferme."
   - "Mettre en pot puis conserver au frais pendant 4/5 jours."
 disqusId: 4985260613

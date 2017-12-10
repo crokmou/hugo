@@ -1,7 +1,7 @@
 ---
 date: "2016-06-15T13:26:40+02:00"
 title: "Panna cotta au thé matcha et rhubarbe poêlée"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/panna-cotta-the-matcha-rhubarbe-poelee-crokmou-blog-culinaire.jpg"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/panna-cotta-the-matcha-rhubarbe-poelee-crokmou-blog-culinaire.jpg"
 categories:
   - "Desserts"
 tags:
@@ -27,8 +27,8 @@ recette_details:
     - Végétarien
   - Saison:
     - Printemps
-    - Été
-  - Évènement:
+    - été
+  - évènement:
     - Goûter
     - Lunch
     - Brunch
@@ -62,7 +62,7 @@ recette_ingredients:
 recette:
   - "Diluer l’agar-agar dans un peu de crème fraiche froide, mélanger puis ajouter au reste de crème, mélanger à nouveau."
   - "Porter à ébullition durant 1 à 2 minutes la crème, le sucre et le thé vert matcha. Mélanger bien puis verser dans des pots. Laisser refroidir au réfrigérateur durant 3h minimum."
-  - "Éplucher et couper la rhubarbe en tronçons fins. Mettre les tronçons dans un bol, ajouter un peu de purée de cassis et laisser macérer 30 minutes (Étape facultative)."
+  - "éplucher et couper la rhubarbe en tronçons fins. Mettre les tronçons dans un bol, ajouter un peu de purée de cassis et laisser macérer 30 minutes (étape facultative)."
   - "Faire revenir la rhubarbe à feu doux dans une poêle, lorsque l’eau rejetée par la rhubarbe a été en partie évaporée, saupoudrer de sucre vanillé et laisser de nouveau poêler. La rhubarbe va caraméliser. Laisser refroidir"
   - "Ajouter les tronçons de rhubarbe sur la panna cotta"
   - "Déguster avec un bon petit thé !"
