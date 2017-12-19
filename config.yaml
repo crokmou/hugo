@@ -92,6 +92,10 @@ params:
       href: "/twitter/"
     - id: "youtube"
       href: "/youtube/"
+  highlight:
+    - "feta-marinee"
+    - "tarte-aux-peches-ylang-ylang-et-romarin"
+    - "tarte-aux-peches-ylang-ylang-et-romarin"
   sidebar:
     - id: "breve"
       title: "Brèves"

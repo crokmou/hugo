@@ -1,3 +1,6 @@
 .page {
-  min-height: 100%; padding: $global-spacing;
+  min-height: 100%; padding: 0 $global-spacing / 2 $global-spacing / 2;
+  @include respond-to(medium) {
+    padding: $global-spacing / 2 $global-spacing $global-spacing;
+  }
 }

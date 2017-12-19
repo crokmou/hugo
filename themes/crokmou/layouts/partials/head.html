@@ -4,9 +4,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width">
-  {{$title := "Blog cuisine & Voyage"}}
-  {{with .Title}}{{$title := .}}{{end}}
-  {{ with .Params.pageTitle }}{{$title := .}}{{ end }}
+  {{$title := or (or .Title .Params.pageTitle) "Blog cuisine & Voyage"}}
   <title>Crokmou - {{$title}}</title>
   <!-- to remove when production -->
   <meta name="robots" content="noindex,nofollow"/>

@@ -9,4 +9,10 @@
   &--wide {
     width: 100%;
   }
+  &--dark {
+    background-color: $brand-primary-dark; border-color: $brand-primary-darker;
+    &:hover, &:focus {
+      background-color: darken($brand-primary-dark, 5%);
+    }
+  }
 }

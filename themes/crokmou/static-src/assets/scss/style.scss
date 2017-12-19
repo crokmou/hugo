@@ -17,7 +17,7 @@
 svg, svg * { box-sizing: content-box; }
 img { max-width: 100%; }
 body {
-  background: $brand-primary-light;
+  background: $brand-primary-light url('/assets/images/svg/as-picture/wave.svg') repeat;
 }
 
 [data-stroke] {

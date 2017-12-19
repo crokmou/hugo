@@ -1,22 +1,28 @@
-{{ partial "head.html"}}
+{{ partial "head.html" }}
 {{ partial "organism/header.html" .}}
 
 <div class="page">
   <div class="page__container container">
-      <div class="home flex flex-wrap align-items-start">
-        <section class="home__content flex-12 flex-med-9">
-          <div class="flex flex-wrap">
-            {{ $paginator := .Paginate (where .Data.Pages "Section" "!=" "pages")}}
-            {{ range $paginator.Pages }}
-            {{ partial "molecules/card.html" (dict "card" . "class" "flex flex-column flex-12 flex-med-6")}}
-            {{ end }}
-          </div>
-          {{ template "_internal/pagination.html" . }}
-        </section>
-        <aside class="flex-12 flex-med-3">
-          {{ partial "organism/sidebar.html" . }}
-        </aside>
-      </div>
+    <div class="home flex flex-wrap align-items-start">
+      <section class="home__highlight flex-12">
+        {{partial "organism/highlight.html" .}}
+      </section>
+      <section class="home__newsletter flex-12">
+        {{partial "organism/newsletter.html" .}}
+      </section>
+      <section class="home__content flex-12 flex-med-9">
+        <div class="flex flex-wrap">
+          {{ $paginator := .Paginate (where .Data.Pages "Section" "!=" "pages")}}
+          {{ range $paginator.Pages }}
+          {{ partial "molecules/card.html" (dict "card" . "class" "flex flex-column flex-12 flex-med-6")}}
+          {{ end }}
+        </div>
+        {{ template "_internal/pagination.html" . }}
+      </section>
+      <aside class="home__sidebar flex-12 flex-med-3">
+        {{ partial "organism/sidebar.html" . }}
+      </aside>
+    </div>
   </div>
 </div>
 

@@ -1,5 +1,23 @@
 .home {
+  &__content {
+    .card {
+      margin-top: $global-spacing / 2;
+      &:first-child { margin-top: 0; }
+    }
+  }
+  &__highlight {
+    margin-top: $global-spacing / 2;
+  }
+  &__newsletter {
+    margin: $global-spacing auto;
+  }
   @include respond-to(medium) {
+    &__highlight {
+      margin-top: $global-spacing;
+    }
+    &__newsletter {
+      margin: $global-spacing * 1.5 auto;
+    }
     &__content .card {
       margin: 0;
       &:nth-child(n+3) {

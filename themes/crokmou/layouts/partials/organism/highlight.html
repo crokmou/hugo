@@ -1,0 +1,21 @@
+<section class="highlight">
+  <h2 class="highlight__title" data-stroke="Articles mis en avant">Articles mis en avant</h2>
+  <main class="flex flex-wrap">
+    {{$pages := .Site.Pages}}
+    {{ range .Site.Params.highlight }}
+    <article class="highlight__item flex-12 flex-med-4">
+      {{range (where $pages "Slug" "eq" .)}}
+      <a class="link" href="{{.Permalink}}" rel="xhr"
+         style="background-image: url('{{.Params.Thumbnail}}');">
+        <main class="link__overlay">
+          <ul class="link__overlay__categories">
+            {{range .Params.Categories}}<li>{{.}}</li>{{end}}
+          </ul>
+          <h1 class="link__overlay__title">{{.Title}}</h1>
+        </main>
+      </a>
+      {{end}}
+    </article>
+    {{ end }}
+  </main>
+</section>

@@ -18,7 +18,7 @@
       background-color: $gray-15;
     }
     &:focus {
-      border-color: $black;
+      border-color: $brand-primary-darker; background-color: $white;
       color: $gray-15;
     }
   }

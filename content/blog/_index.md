@@ -1,0 +1,3 @@
+---
+pageTitle: Tous les articles
+---

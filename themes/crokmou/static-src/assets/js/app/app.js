@@ -414,6 +414,10 @@ $(document).ready(function() {
         $a.css('cursor', 'default');
         $bodyHtml.css('cursor', 'default');
         $.each($(res), function(index, elem) {
+          const $this = $(this);
+          if($this[0].nodeName.toUpperCase() === 'TITLE') {
+            $('head title').html($this.html());
+          }
           if ($pageContainer[0].id !== elem.id) {
             return;
           }

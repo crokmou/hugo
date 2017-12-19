@@ -1,0 +1,46 @@
+.highlight {
+  @include tile-shadow();
+  padding: 0 $global-spacing / 2 $global-spacing / 2;
+  background-color: $white;
+  &__title {
+    margin: 0; transform: translateY(-.6em);
+    font-weight: 600; line-height: 1;
+  }
+  &__item {
+    margin-top: $global-spacing / 2;
+    &:first-child { margin-top: 0; }
+    .link {
+      position: relative;
+      display: block;
+      height: 1px; padding-bottom: 50%;
+      background-size: cover; background-repeat: no-repeat; background-position: 50% 50%;
+      &__overlay {
+        position: absolute; left: $global-spacing / 2; bottom: $global-spacing / 2; right: $global-spacing / 2;
+        padding: $global-spacing / 2;
+        background-color: rgba(255,255,255,.8);
+        text-align: center;
+        &__categories {
+          color: $gray-30; font-size: .9em; text-transform: uppercase;
+          li { display: inline-block; }
+        }
+        &__title {
+          margin: $global-spacing / 4 0 0;
+          color: $brand-secondary; font-size: 1.2em; line-height: 1.4;
+        }
+      }
+    }
+  }
+  @include respond-to(medium) {
+    padding: 0 $global-spacing $global-spacing;
+    &__item {
+      margin-top: 0;
+      .link {
+        padding-bottom: 125%;
+        &__overlay {
+          left: $global-spacing; bottom: $global-spacing; right: $global-spacing;
+          padding: $global-spacing / 2;
+        }
+      }
+    }
+  }
+}
