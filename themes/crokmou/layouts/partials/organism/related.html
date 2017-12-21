@@ -1,0 +1,19 @@
+<aside class="related">
+  <h2 class="related__title" data-stroke="Ces articles sont aussi très sympas !">Ces articles sont aussi très sympas !</h2>
+  <main class="flex flex-wrap">
+  {{ range first 1 (where (where .Site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
+  {{ $.Scratch.Set "has_related" true }}
+  {{ end }}
+  {{ if $.Scratch.Get "has_related" }}
+    {{ range first 3 (where (where .Site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) | shuffle }}
+      <a class="related__article flex-12 flex-med-4"
+         href="{{ .RelPermalink }}" rel="xhr">
+        <header>
+          {{ partial "molecules/picture.html" (dict "src" .Params.thumbnail "alt" .Title "pb" "59.9%") }}
+        </header>
+        <h3 class="related__article__title">{{ .Title }}</h3>
+      </a>
+    {{ end }}
+  {{ end }}
+  </main>
+</aside>

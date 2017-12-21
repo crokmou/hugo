@@ -51,14 +51,5 @@ body {
 @import "markdown";
 
 @import "organism/style";
-
-// Shortcodes
-
 @import "shortcodes/style";
-
-// Pages
-@import "pages/page";
-@import "pages/home";
-@import "pages/decouverte";
-@import "pages/single";
-@import "pages/404";
+@import "pages/style";

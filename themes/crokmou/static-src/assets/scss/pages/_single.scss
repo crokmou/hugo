@@ -1,6 +1,6 @@
 .single {
   display: flex; justify-content: space-between; flex-wrap: wrap; align-items: flex-start;
-  max-width: $global-width; margin: 0 auto; padding: $global-spacing / 2;
+  max-width: $global-width; margin: $global-spacing / 2 auto 0; padding: $global-spacing / 2;
   &__content {
     @include tile-shadow();
     margin: 0 auto; padding: $global-spacing / 2;
@@ -47,7 +47,24 @@
         }
       }
     }
+    &__footer {
+      margin: $global-spacing / 2 * 2 -#{$global-spacing / 2} 0; padding: $global-spacing / 2 $global-spacing / 2 0;
+      border-top: 1px solid $gray-85;
+      font-style: italic;
+      strong { color: $gray-30; }
+      ul {
+        display: inline-block;
+        font-size: 0;
+        li {
+          display: inline-block;
+          margin: 0 $global-spacing / 2;
+          font-size: 1rem;
+          list-style-type: none;
+        }
+      }
+    }
   }
+  &--wide { margin-top: 0; }
   @include respond-to(medium) {
     flex-wrap: nowrap;
     &__content {
@@ -63,6 +80,9 @@
         .title {
           font-size: 1em * pow(1.33, 3);
         }
+      }
+      &__footer {
+        margin: $global-spacing * 2 -#{$global-spacing} 0; padding: $global-spacing $global-spacing 0;
       }
     }
     &--wide {

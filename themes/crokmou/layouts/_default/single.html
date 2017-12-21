@@ -27,7 +27,14 @@
       {{partial "molecules/img.html" (dict "src" .Params.Thumbnail "alt" .Title)}}
       {{end}}
       {{ .Content }}
+      <footer class="single__content__footer">
+        <strong>Tags :</strong>
+        <ul>
+          {{range .Params.tags}}<li>{{.}}</li>{{end}}
+        </ul>
+      </footer>
     </article>
+    {{partial "organism/related.html" . }}
     {{partial "organism/comment.html" . }}
   </div>
   <aside class="flex-12 flex-med-3">
