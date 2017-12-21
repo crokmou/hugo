@@ -120,7 +120,6 @@ $(document).ready(function() {
       const index  = client.initIndex('blog');
       $('#search-input').autocomplete({
         openOnFocus: true,
-        debug: true,
         templates  : {
           dropdownMenu: '#global-search',
         },
