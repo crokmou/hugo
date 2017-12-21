@@ -2,15 +2,15 @@
 
 <footer class="footer">
   <div class="container">
-    <section class="flex">
-      <article class="flex-3">
+    <section class="flex flex-wrap">
+      <article class="flex-6 flex-med-3">
         <ul>
           {{ range .Site.Menus.footer }}
           <li><a href="{{ .URL }}">{{ .Name }}</a></li>
           {{ end }}
         </ul>
       </article>
-      <article class="flex-3">
+      <article class="flex-6 flex-med-3">
         <h1>Divers</h1>
         <ul>
           {{ range .Site.Menus.divers }}
@@ -21,7 +21,7 @@
           </li>
         </ul>
       </article>
-      <article class="flex-6">
+      <article class="flex-12 flex-med-6">
         <h1>Newsletter</h1>
         <div class="footer__newsletter">
           <!-- Begin MailChimp Signup Form -->

@@ -5,6 +5,10 @@
   h1 { margin: 0 0 $global-spacing / 2 0; font-size: 1.2em; color: $gray-30; }
   ul { padding: 0; }
   li { list-style-type: none; }
+  article:last-child {
+    margin-top: $global-spacing;
+    @include respond-to(medium) { margin-top: 0; }
+  }
   &__newsletter {
     font-size: .8em;
   }
