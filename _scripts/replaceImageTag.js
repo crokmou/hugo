@@ -18,6 +18,7 @@ fetch(url).then(function(res) {
     return 0;
   });
   const tag = versions[versions.length - 1].name.replace('v', '');
+  console.log(tag, __dirname.replace('\/_scripts', '')+'/content/**/*.md');
   replace.sync({
     files: __dirname.replace('\/_scripts', '')+'/content/**/*.md',
     from: 'GIT_TAG',

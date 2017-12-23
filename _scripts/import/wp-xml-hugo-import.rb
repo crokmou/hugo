@@ -19,10 +19,10 @@ class Time
   end
 end
 
-doc = Document.new File.new(ARGV[0])
+doc = Document.new File.new('./_scripts/import/crokmou-blogcuisineampvoyages.wordpress.2017-12-23.xml')
 FileUtils.mkdir_p './_scripts/post'
 FileUtils.mkdir_p './_scripts/page'
-images = Document.new File.new(ARGV[1])
+images = Document.new File.new('./_scripts/import/crokmou-blogcuisineampvoyages.wordpress.2017-12-23 (1).xml')
 
 doc.elements.each("rss/channel/item[wp:status = 'publish' and (wp:post_type = 'post' or wp:post_type = 'page')]") do |e|
   post = e.elements
