@@ -1,18 +1,13 @@
 ﻿@import "variables";
 @import "reset";
 @import "grid";
+@import "molecule/picture";
 
-#page-container * {
+.header, .footer, .pswp, .single aside, .single__content > *:not(.recette), .button, .picture {
   display: none;
-}
-.single {
-  &, > *, &__content, .recette, .recette * {
-    display: block!important;
-  }
 }
 
 .recette {
-
   * + * {
     margin: 0 auto!important;
   }

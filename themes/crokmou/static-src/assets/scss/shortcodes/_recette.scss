@@ -11,7 +11,10 @@
     padding-bottom: $global-spacing;
     border-bottom: 1px solid $brand-primary-dark;
     h2 { margin: 0 auto 10px; }
-    button { margin-top: $global-spacing!important; }
+    .button {
+      display: inline-block;
+      margin-top: $global-spacing!important;
+    }
   }
   &__duration {
     padding: $global-spacing 0;
