@@ -48,6 +48,7 @@
       }
     }
     &__footer {
+      display: flex;
       margin: $global-spacing / 2 * 2 -#{$global-spacing / 2} 0; padding: $global-spacing / 2 $global-spacing / 2 0;
       border-top: 1px solid $gray-85;
       font-style: italic;
@@ -57,7 +58,7 @@
         font-size: 0;
         li {
           display: inline-block;
-          margin: 0 $global-spacing / 2;
+          margin: 0 $global-spacing / 4;
           font-size: 1rem;
           list-style-type: none;
         }
