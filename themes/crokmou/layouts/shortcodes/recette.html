@@ -34,7 +34,7 @@
       {{end}}
     </ul>
   </div>
-  <div class="recette__ingredients flex-4">
+  <div class="recette__ingredients flex-12 flex-med-4">
     <h3>Ingrédients</h3>
     {{ range $value := .Page.Params.recette_ingredients }}
     <ul>
@@ -49,7 +49,7 @@
     </ul>
     {{ end }}
   </div>
-  <div class="recette__steps flex-8">
+  <div class="recette__steps flex-12 flex-med-8">
     <h3>Recettes</h3>
     <ul>
       {{range $index, $value:= .Page.Params.recette}}

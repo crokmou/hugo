@@ -68,8 +68,7 @@ $(document).ready(function() {
     }
 
     function ResizeVideos() {
-      const $allVideos = $('iframe[src*="youtube.com"]');
-      const $fluidEl   = $('.markdown');
+      const $allVideos = $('iframe[src*="youtube.com"], iframe[src*="facebook.com"]');
 
       $allVideos.each(function() {
         $(this).
@@ -79,9 +78,10 @@ $(document).ready(function() {
       });
 
       ResizeWindow(function() {
-        const newWidth = $fluidEl.width();
         $allVideos.each(function() {
           const $el = $(this);
+          const $parent = $el.parent();
+          const newWidth = $parent.width();
           $el.width(newWidth).height(newWidth * $el.data('aspectRatio'));
         });
       });
