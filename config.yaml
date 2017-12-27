@@ -81,17 +81,13 @@ taxonomies:
 params:
   socials:
     - id: "facebook"
-      href: "/facebook/"
-    - id: "gplus"
-      href: "/gplus/"
+      href: "https://www.facebook.com/crokmou.blog/"
     - id: "instagram"
-      href: "/instagram/"
+      href: "https://www.instagram.com/crokmou.blog/"
     - id: "pinterest"
-      href: "/pinterest/"
-    - id: "twitter"
-      href: "/twitter/"
+      href: "https://www.pinterest.com/blogcrokmou/"
     - id: "youtube"
-      href: "/youtube/"
+      href: "https://www.youtube.com/channel/UCI2nEqc0lxItG3iNDBd9Umw"
   highlight:
     - "feta-marinee"
     - "tarte-aux-peches-ylang-ylang-et-romarin"
