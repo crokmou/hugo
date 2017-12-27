@@ -17,7 +17,7 @@ tags:
   - "Sel"
   - "Sucre"
   - "Vanille"
-description: ""
+description: "J'aime beaucoup offrir des petits sachets de biscuits à la famille et aux amis. Pour cette fois j'ai décidé d'innover et de partir sur ce qui se fait de mieux maintenant à la maison : une recette 100% végétale."
 recette_details:
   - Catégorie:
     - Biscuits
