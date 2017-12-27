@@ -3,7 +3,7 @@ date: "2016-11-24T16:00:28+01:00"
 title: "Citytrip à Rotterdam"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/rotterdam-citytrip-octobre-2016-crokmou-blog-culinaire-belge-8.jpg"
 categories:
-  - "Lifestyle"
+  - "Saveurs du Monde"
 tags:
   - "Voyage"
 description: "Rotterdam c'est ma ville chouchou ! C'est une ville agréable, où tout change en permanence, l’innovation et l'architecture..."

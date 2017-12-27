@@ -3,7 +3,7 @@ date: "2017-02-26T17:50:43+01:00"
 title: "Citytrip en Andorre"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/citytrip-andorre-andorra-crokmou-blog-cuisine-voyage-belgique-1.jpg"
 categories:
-  - "Lifestyle"
+  - "Saveurs du Monde"
 tags:
   - "Voyage"
 infos:

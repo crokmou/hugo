@@ -3,7 +3,7 @@ date: "2017-01-10T18:22:59+01:00"
 title: "Citytrip à Rome - Italie"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/weekend-rome-italie-crokmou-blog-cuisine-voyage-belgique-19.jpg"
 categories:
-  - "Lifestyle"
+  - "Saveurs du Monde"
 tags:
   - "Voyage"
 description: "Rome est une ville bien singulière, il y a tellement de choses à découvrir, j'ai passé 2 jours le nez levé à regarder l'architecture, les peintures..."
