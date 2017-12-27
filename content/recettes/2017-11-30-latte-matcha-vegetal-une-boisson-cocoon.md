@@ -70,8 +70,8 @@ Konnichiwa mes petits biscuits ! Me voilà enfin de retour avec ma recette chouc
   {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.8/i/recette-latte-matcha-vegetal-vegan-crokmou-blog-belge-cuisine-voyage-03.jpg" alt="Recette de latte matcha végétal au lait de riz" >}}
   {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.8/i/recette-latte-matcha-vegetal-vegan-crokmou-blog-belge-cuisine-voyage-05.jpg" alt="Recette de latte matcha végétal au lait de riz" >}}
   {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.8/i/recette-latte-matcha-vegetal-vegan-crokmou-blog-belge-cuisine-voyage-04.jpg" alt="Recette de latte matcha végétal au lait de riz" >}}
-  {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.8/i/recette-latte-matcha-vegetal-vegan-crokmou-blog-belge-cuisine-voyage-06.jpg" alt="Recette de latte matcha végétal au lait de riz" >}}
 {{< /gallery >}}
+{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.8/i/recette-latte-matcha-vegetal-vegan-crokmou-blog-belge-cuisine-voyage-06.jpg" alt="Recette de latte matcha végétal au lait de riz" >}}
 {{< recette >}}
 
 Quand je vous dis que la recette est très simple ! A boire sans modération, le matcha c'est très bon pour la santé ! Bon et pour le lait, la gamme Alpro comporte des boissons sans sucres ajoutés, et je dois dire que les produits sont délicieux.
