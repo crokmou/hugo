@@ -89,7 +89,7 @@
     &--wide {
       flex-wrap: wrap;
       .single__content,
-      .comment  {
+      .related, .comment  {
         width: $global-width - 300; max-width: 100%;
       }
     }
