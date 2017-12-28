@@ -6,26 +6,21 @@ categories:
   - "Desserts"
 tags:
   - "Amande"
-  - "Brunch"
-  - "Chandeleur"
   - "Compote"
   - "Fruit"
   - "Lait vegetal"
-  - "Pancake"
-  - "Pancakes"
-  - "Petit dejeuner"
   - "Pomme"
-  - "Sans beurre"
-  - "Sans lait"
-  - "Sans oeuf"
-  - "Vegan"
-  - "Vegetalien"
-  - "Vegetarien"
+  - "Farine"
+  - "Sucre"
+  - "Levure chimique"
+  - "Baking powder"
+  - "Purée d'oléagineux"
+  - "Purée d'amande"
 description: "Tester les pancakes vegan fût ma plus grande réussite : ils sont encore plus moelleux qu'à leur habitude. En fin de compte cela n'a rien de bien compliqué.."
 recette_details:
   - Catégorie:
     - Pancake
-    - Crêpes 
+    - Crêpes
   - Type de cuisine:
     - Américaine
     - Canadienne  
