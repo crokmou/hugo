@@ -58,7 +58,7 @@ recette_temps:
 recette_ingredients:
   - value:
     - '500g de <a title=\"Pâte feuilletée inversée de Pierre Hermé\" href=\"https://crokmou.com/pate-feuilletee-inversee-de-pierre-herme/\" target=\"_blank\">pâte feuilletée inversée </a>'
-    
+
   - label: "**Pour la crème pâtissière**"
     value:
       - 125g de lait
@@ -81,7 +81,8 @@ recette:
   - "**La frangipane :** Mélangez à l'aide d'une cuillère en bois ou de la feuille de votre robot 200g de crème pâtissière à la crème d'amande. Une fois le tout homogène, votre frangipane est prête !"
   - "Préchauffez votre four à 200°C"
   - "Étalez votre pâte feuilletée sur 1,5mm environ et découpez deux cercles de 20cm de diamètre environ (et d'autres petits cercles du diamètre d'un verre si il vous reste de la pâte)."
-  - "Remplissez une poche à douille de frangipane. Placez un des cercles de pâte sur une plaque allant au four préalablement recouverte de papier sulfurisé. Garnissez le cercle de frangipane tout en prenant soin de laisser au moins 2cm de marge au niveau des bords. Parsemez quelques pépites de chocolat sur le dessus de la crème et placez la fève.[![10897119_814538848614511_5603079522901817681_n](https://cdn.rawgit.com/crokmou/images/1.0.7/i/10897119_814538848614511_5603079522901817681_n.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/10897119_814538848614511_5603079522901817681_n.jpg)"
+  - "Remplissez une poche à douille de frangipane. Placez un des cercles de pâte sur une plaque allant au four préalablement recouverte de papier sulfurisé. Garnissez le cercle de frangipane tout en prenant soin de laisser au moins 2cm de marge au niveau des bords. Parsemez quelques pépites de chocolat sur le dessus de la crème et placez la fève.
+  <center>[![10897119_814538848614511_5603079522901817681_n](https://cdn.rawgit.com/crokmou/images/1.0.7/i/10897119_814538848614511_5603079522901817681_n.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/10897119_814538848614511_5603079522901817681_n.jpg)</center>"
   - "A l'aide d'un pinceau, humidifiez un peu les bords de la galette à l'aide d'un peu d'eau. Recouvrez ensuite à l'aide du deuxième disque et appuyez bien au niveau des bords pour souder correctement la galette afin que la frangipane ne s'échappe pas."
   - "Dorez la galette avec un peu d'oeuf battu et décorez la (idéalement avec la pointe d'un couteau)"
   - "Enfournez pour 35 minutes, la galette doit être bien dorée et doit pouvoir se décoller de la feuille de cuisson (sinon c'est pas cuit ;)). Si vous constatez que votre galette est déjà bien dorée mais pas encore assez cuite, baissez votre four à 180°C et poursuivez la cuisson."

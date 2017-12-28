@@ -35,6 +35,7 @@ recette_details:
     - Entre amis
     - En famille
     - Fêtes de fin d'année
+    - Saint-Nicolas
 recette_qty: "Pour 6/8 manneles ou manalas"
 recette_temps:
   - schemaId: "prepTime"
