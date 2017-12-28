@@ -57,7 +57,8 @@ recette_temps:
     schemaValue: "PT25M"
 recette_ingredients:
   - value:
-    - '500g de p<a title=\"Pâte feuilletée inversée de Pierre Hermé\" href=\"https://crokmou.com/pate-feuilletee-inversee-de-pierre-herme/\" target=\"_blank\">pâte feuilletée inversée </a>'
+    - '500g de <a title=\"Pâte feuilletée inversée de Pierre Hermé\" href=\"https://crokmou.com/pate-feuilletee-inversee-de-pierre-herme/\" target=\"_blank\">pâte feuilletée inversée </a>'
+    
   - label: "**Pour la crème pâtissière**"
     value:
       - 125g de lait
@@ -65,6 +66,7 @@ recette_ingredients:
       - 25g d'oeuf (soit 1/2 gardez l'autre moitié pour la dorure de la galette)
       - 13g de maïzena
       - 18g de beurre
+
   - label : "**Pour la crème d'amande et pistache**"
     value:
       - 135g de beurre pommade
