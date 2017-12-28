@@ -57,7 +57,7 @@ recette_temps:
     schemaValue: "PT25M"
 recette_ingredients:
   - value:
-    - "500g de pâte <a title=\"Pâte feuilletée inversée de Pierre Hermé\" href=\"http://gbre.cepegra-labs.be/crokmou/pate-feuilletee-inversee-de-pierre-herme/\">feuilletée inversée"
+    - '500g de pâte <a title=\"Pâte feuilletée inversée de Pierre Hermé\" href=\"http://gbre.cepegra-labs.be/crokmou/pate-feuilletee-inversee-de-pierre-herme/\">feuilletée inversée'
   - label: "**our la crème pâtissière**"
     value:
       - 125g de lait
