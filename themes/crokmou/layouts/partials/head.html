@@ -9,7 +9,7 @@
   <!-- to remove when production -->
   <meta name="robots" content="noindex,nofollow"/>
   <!-- Meta data -->
-  {{$description := or .Description (or (.Summary | truncate 200) "") }}
+  {{$description := or .Description (or (.Summary | truncate 200) ".") }}
   {{with $description}}<meta name="description" content="{{. | markdownify | plainify | safeHTML}}" />{{end}}
   <link rel="canonical" href="{{.Permalink}}" />
   <link rel="manifest" href='{{ "/assets/manifest.json" | relURL }}'>
