@@ -30,7 +30,7 @@
     "predeploy": "npm run replaceImageTag && npm run commit && npm run clean && npm run build",
     "deploy": "gh-pages -d public",
     "postdeploy": "npm run index",
-    "index": "hugo-algolia -i \"content/**\" -o \"./my-index.json\"",
+    "index": "node run ./_scripts/algolia/all.js",
     "import": "ruby ./_scripts/import/wp-xml-hugo-import.rb ./_scripts/import/crokmou-blogcuisineampvoyages.wordpress.2017-11-03.xml ./_scripts/import/crokmou-blogcuisineampvoyages.wordpress.2017-11-03\\ \\(1\\).xml",
     "postimport": "node ./_scripts/mify.js ./_scripts/post && rm -rf ./_scripts/post && rm -rf ./_scripts/page"
   },
@@ -89,7 +89,6 @@
     "eslint-config-google": "^0.8.0 ",
     "gh-pages": "^1.0.0",
     "html-minifier": "^3.5.7",
-    "hugo-algolia": "^1.2.9",
     "image-size": "^0.6.1",
     "markdown-resume": "^0.1.0",
     "node-fetch": "^1.7.3",
