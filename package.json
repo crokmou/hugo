@@ -30,7 +30,7 @@
     "predeploy": "npm run replaceImageTag && npm run commit && npm run clean && npm run build",
     "deploy": "gh-pages -d public",
     "postdeploy": "npm run index",
-    "index": "node run ./_scripts/algolia/all.js",
+    "index": "node ./_scripts/algolia/all.js",
     "import": "ruby ./_scripts/import/wp-xml-hugo-import.rb ./_scripts/import/crokmou-blogcuisineampvoyages.wordpress.2017-11-03.xml ./_scripts/import/crokmou-blogcuisineampvoyages.wordpress.2017-11-03\\ \\(1\\).xml",
     "postimport": "node ./_scripts/mify.js ./_scripts/post && rm -rf ./_scripts/post && rm -rf ./_scripts/page"
   },
