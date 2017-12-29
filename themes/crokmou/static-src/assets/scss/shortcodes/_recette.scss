@@ -41,7 +41,11 @@
     iframe { margin-top: $global-spacing / 2; }
     ul { margin-left: 0!important; }
     li {
-      center { display: block; }
+      center {
+        display: block;
+        font-size: 0;
+        > * { font-size: 1rem; }
+      }
       img {
         display: inline-block; vertical-align: middle;
         padding-top: $global-spacing / 4;
