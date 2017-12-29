@@ -9,10 +9,8 @@
   <!-- to remove when production -->
   <meta name="robots" content="noindex,nofollow"/>
   <!-- Meta data -->
-  {{$description := .Summary }}
-  {{with .Description }}{{ $description := . }}{{end}}
-  {{with $description}}{{ $description := $description | plainify | truncate 200 }}{{end}}
-  {{with $description}}<meta name="description" content="{{. | safeHTML}}" />{{end}}
+  {{$description := or .Description (or (.Summary | truncate 200) "") }}
+  {{with $description}}<meta name="description" content="{{. | markdownify | plainify | safeHTML}}" />{{end}}
   <link rel="canonical" href="{{.Permalink}}" />
   <link rel="manifest" href='{{ "/assets/manifest.json" | relURL }}'>
   <meta property="og:locale" content="fr_FR" />

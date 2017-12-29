@@ -2,17 +2,11 @@
 {{$card := index . "card"}}
 {{$hideDescription := index . "hideDescription"}}
 
-{{$description := $card.Description }}
+{{$description := or $card.Description ($card.Summary | truncate 200) }}
 {{$categories := index $card.Params "categories"}}
 {{$cardId := index $card.Params "cardId"}}
 
 <article class="card{{ with $class }} {{ . }}{{ end }}" rel="js-card">
-  {{ $description := $card.Summary }}
-  {{with $card.Description }}
-    {{ $description := $card.Description }}
-  {{end}}
-  {{ $description := $description | plainify | safeHTML }}
-
   <a class="card__thumbnail" href="{{$card.Permalink}}" rel="xhr">
     {{$thumbnail := index $card.Params "thumbnail"}}
     {{ partial "molecules/picture.html" (dict "src" $thumbnail "alt" $card.Title "pb" "59.9%") }}
@@ -22,7 +16,7 @@
     <span class="card__tag">{{index $categories 0}}</span>
     {{ end }}
     <h2 class="card__title"><a href="{{$card.Permalink}}" rel="xhr">{{$card.Title}}</a></h2>
-    {{if $hideDescription}}{{else}}<p>{{ $description }}</p>{{end}}
+    {{if $hideDescription}}{{else}}<p>{{ $description | markdownify | plainify | safeHTML }}</p>{{end}}
   </div>
   <footer class="card__footer">
     <div class="card__footer__comment">
