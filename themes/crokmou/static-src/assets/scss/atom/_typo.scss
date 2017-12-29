@@ -1,10 +1,10 @@
 $fontSize: 1em;
 $goldenRatio: 1.333;
 body {
-  font-family: $roboto; font-weight: 300; color: $gray-60; line-height: 1.45;
+  font-family: $roboto; font-weight: 300; color: $gray-45; line-height: 1.45;
 }
 h1, h2, h3, h4, h5, h6 {
-  font-family: $oswald; font-weight: inherit; line-height: 1.2; text-transform: inherit; color: $gray-15;
+  font-family: $oswald; font-weight: 400; line-height: 1.2; text-transform: inherit; color: $gray-15;
 }
 h1 { font-size: $fontSize * pow($goldenRatio, 3)}
 h2 { font-size: $fontSize * pow($goldenRatio, 2)}

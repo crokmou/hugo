@@ -25,21 +25,29 @@
         <h1>Newsletter</h1>
         <div class="footer__newsletter">
           <!-- Begin MailChimp Signup Form -->
-          <div id="mc_embed_signup">
-            <form action="https://crokmou.us3.list-manage.com/subscribe/post?u=391f3c167634b4ded03dcf45e&amp;id=7138445d80" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-              <div class="flex" id="mc_embed_signup_scroll">
-                <div class="mc-field-group input flex-8">
-                  <input type="email" placeholder="E-mail" value="" name="EMAIL" class="required email" id="mce-EMAIL"/>
-                </div>
-                <div class="flex-4">
-                  <input class="button" type="submit" value="Souscrire" name="subscribe" id="mc-embedded-subscribe">
-                </div>
-                <div style="position: absolute; left: -5000px;" aria-hidden="true">
-                  <input type="text" name="b_391f3c167634b4ded03dcf45e_7138445d80" tabindex="-1" value="">
-                </div>
+          <form
+            action="https://crokmou.us3.list-manage.com/subscribe/post?u=391f3c167634b4ded03dcf45e&amp;id=7138445d80"
+            method="post" name="mc-embedded-subscribe-form" class="validate"
+            target="_blank" novalidate>
+            <div class="flex">
+              <div class="mc-field-group input flex-8">
+                <label class="input__label input__label--hide">
+                  <input type="email" placeholder="Email" value="" name="EMAIL"
+                         class="required email"/>
+                  <span>Email</span>
+                </label>
               </div>
-            </form>
-          </div>
+              <div class="flex-4">
+                <input class="button button--dark" type="submit" value="Souscrire"
+                       name="subscribe">
+              </div>
+              <div style="position: absolute; left: -5000px;"
+                   aria-hidden="true">
+                <input type="text" name="b_391f3c167634b4ded03dcf45e_7138445d80"
+                       tabindex="-1" value="">
+              </div>
+            </div>
+          </form>
           <!--End mc_embed_signup-->
         </div>
       </article>
@@ -67,10 +75,13 @@
       <div class="pswp__top-bar">
         <!--  Controls are self-explanatory. Order can be changed. -->
         <div class="pswp__counter"></div>
-        <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+        <button class="pswp__button pswp__button--close"
+                title="Close (Esc)"></button>
         <button class="pswp__button pswp__button--share" title="Share"></button>
-        <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
-        <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+        <button class="pswp__button pswp__button--fs"
+                title="Toggle fullscreen"></button>
+        <button class="pswp__button pswp__button--zoom"
+                title="Zoom in/out"></button>
         <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
         <!-- element will get class pswp__preloader--active when preloader is running -->
         <div class="pswp__preloader">
@@ -84,9 +95,11 @@
       <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
         <div class="pswp__share-tooltip"></div>
       </div>
-      <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+      <button class="pswp__button pswp__button--arrow--left"
+              title="Previous (arrow left)">
       </button>
-      <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+      <button class="pswp__button pswp__button--arrow--right"
+              title="Next (arrow right)">
       </button>
       <div class="pswp__caption">
         <div class="pswp__caption__center"></div>
@@ -94,24 +107,17 @@
     </div>
   </div>
 </div>
-
-<!-- ASYNC css -->
-<link rel="stylesheet" href='https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css' media="screen, projection" />
-<link rel="stylesheet" href='https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css' media="screen, projection" />
-<link rel="stylesheet" href='https://fonts.googleapis.com/css?family=Oswald:300|Roboto:300,500' media="screen, projection" />
-<link rel="stylesheet" href='{{ "/assets/print.css" | relURL }}?v=1' media="print" />
-
 <script defer src="https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/6.26.0/polyfill.min.js"></script>
 <script defer src="https://code.jquery.com/jquery-3.2.1.min.js"
-  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
-  crossorigin="anonymous"></script>
+        integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        crossorigin="anonymous"></script>
 <script defer src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe-ui-default.min.js"></script>
 <script defer src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.js"></script>
 <script defer src="https://cdn.polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
 <script defer src='{{"/assets/app.js" | relURL }}?v=4'></script>
-
 <script defer src="https://cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
 <script defer src="https://cdn.jsdelivr.net/autocomplete.js/0/autocomplete.jquery.min.js"></script>
+<script src='{{"/service-worker.js" | relURL }}'></script>
 <script type="text/template" id="global-search">
   <div class="global-search">
     <div class="aa-dataset-d1"></div>
@@ -121,9 +127,33 @@
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
+  js     = d.createElement(s);
+  js.id  = id;
   js.src = 'https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.11&appId=553644794978102';
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- ASYNC css -->
+<script type="text/javascript">
+  injectCss(
+      'https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css',
+      'screen, projection');
+  injectCss(
+      'https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css',
+      'screen, projection');
+  injectCss(
+      'https://fonts.googleapis.com/css?family=Oswald:300|Roboto:300,400,500');
+  injectCss('{{ "/assets/print.css" | relURL }}?v=1', 'print');
+
+  function injectCss(href, media) {
+    var element  = document.createElement('link');
+    element.rel  = 'stylesheet';
+    element.href = href;
+    element.setAttribute('media', media);
+    element.type = 'text/css';
+    var godefer  = document.getElementsByTagName('link')[0];
+    godefer.parentNode.insertBefore(element, godefer);
+  }
+</script>
 </body>
 </html>

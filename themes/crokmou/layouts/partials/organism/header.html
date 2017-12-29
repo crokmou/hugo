@@ -12,6 +12,7 @@
         <div class="header__ss__search flex-12 flex-med-shrink">
           <div class="input input--search">
             <input id="search-input" type="text" placeholder="Rechercher">
+            <label class="input__label input__label--hide" for="search-input">Rechercher</label>
             <svg class="icon s-icon"><use xlink:href="#icon-algolia"></use></svg>
           </div>
         </div>
@@ -21,8 +22,9 @@
             <li class="flex justify-center align-items-center">
               {{$id := index . "id"}}
               {{$href := index . "href"}}
-              <a href="{{$href}}" target="_blank">
+              <a href="{{$href}}" target="_blank" rel="noopener">
                 <svg class="s-icon"><use xlink:href="#icon-{{$id}}"></use></svg>
+                <span>{{$id}}</span>
               </a>
             </li>
             {{ end }}

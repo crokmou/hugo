@@ -1,12 +1,13 @@
 .card {
   @include tile-shadow();
-  background-color: #fff;
+  background-color: $white;
   &__thumbnail { display: block; }
   &__content {
     padding: $global-spacing; margin-bottom: auto;
   }
   &__tag { text-transform: uppercase; font-size: .9em; color: $gray-45; }
   &__title {
+    margin-bottom: $global-spacing / 2;
     font-size: 1.4em; line-height: 1.4;
     a { color: $brand-secondary; text-transform: uppercase; }
   }
@@ -14,10 +15,11 @@
     position: relative;
     padding: 10px; margin-top: auto;
     background-color: $brand-primary;
+    color: darken($brand-primary-darkest, 5%);
     a {
       display: inherit;
+      color: inherit; line-height: 1;
     }
-    &, a { color: $brand-primary-darkest; line-height: 1; }
     &__comment {
       padding-left: 10px;
       .s-icon {

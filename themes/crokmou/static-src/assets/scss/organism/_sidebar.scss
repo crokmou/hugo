@@ -17,7 +17,7 @@
       text-transform: uppercase;
       &__title { color: $brand-secondary; font-size: 1.1em; line-height: 1.6; }
       &__description {
-        color: $gray-60; text-transform: none;
+        color: $gray-45; text-transform: none;
       }
       &:hover {
         text-decoration: none;
@@ -28,7 +28,6 @@
     }
     &__title {
       margin: 1em 0 .6em;
-      font-weight: 600;
     }
     &:first-child &__title {
       transform: translateY(-.6em);

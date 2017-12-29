@@ -12,14 +12,18 @@
     &:-moz-placeholder { color: $gray-60; }
     &::-moz-placeholder { color: $gray-60; }
     &:-ms-input-placeholder { color: $gray-60; opacity: 0.5; }
-    + span {
-      position: absolute; left: 0; bottom: -1px;
-      width: 100%; height: 1px; margin-top: 10px;
-      background-color: $gray-15;
-    }
     &:focus {
       border-color: $brand-primary-darker; background-color: $white;
       color: $gray-15;
+    }
+  }
+  &__label {
+    &--hide {
+      span, &[for] {
+        position: absolute; left: 0;
+        width: 1px; height: 1px;
+        clip: rect(1px, 1px, 1px, 1px);
+      }
     }
   }
   &--error {
@@ -30,8 +34,6 @@
       &:-moz-placeholder { color: $brand-danger; }
       &::-moz-placeholder { color: $brand-danger; }
       &:-ms-input-placeholder { color: $brand-danger; opacity: 0.5; }
-      + span { background-color: $brand-danger;}
-      &:focus + span { background-color: $brand-danger; }
     }
   }
   &--search {

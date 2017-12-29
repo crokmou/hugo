@@ -71,10 +71,6 @@ menu:
         URL: "/photo/"
         Pre: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/pate-pesto-pistache-amande-huile-concass%C3%A9-tomate-crokmou-blog-belge-cuisine-voyage-01.jpg"
   divers:
-      - Name: "Archives"
-        Weight: 1
-        Identifier: "blog"
-        URL: "/archives/"
       - Name: "A propos"
         Weight: 2
         Identifier: "a-propos"

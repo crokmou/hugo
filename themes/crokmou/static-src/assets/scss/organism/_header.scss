@@ -16,6 +16,11 @@
         color: $brand-primary-darker; font-size: 3em; line-height: 0;
         &:hover { color: $brand-primary-darkest; }
         svg { height: .6em; }
+        span {
+          position: absolute; left: 0;
+          width: 1px; height: 1px;
+          clip: rect(1px, 1px, 1px, 1px);
+        }
       }
     }
     &__search {
@@ -26,7 +31,7 @@
         border-radius: 0;
         font-size: 1.4em;
       }
-      input { width: 100%; }
+      label { width: 100%; }
       @include respond-to(medium) {
         order: 0; margin-bottom: 0;
       }

@@ -4,8 +4,9 @@
   font-family: $oswald; font-size: 1.2em;
   h1 {
     margin: 0 0 $global-spacing / 2 0;
-    font-size: 1.2em; color: $gray-30; font-weight: 600;
+    font-size: 1.2em; color: $gray-30;
   }
+  a { font-weight: 400; }
   ul { padding: 0; }
   li { list-style-type: none; }
   article:last-child {

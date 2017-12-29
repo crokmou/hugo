@@ -44,7 +44,27 @@
     }
   }
   &__steps {
-    li { text-align: justify;}
+    iframe { display: none; }
+    ul { margin-left: 0!important; }
+    li {
+      center {
+        display: block;
+        font-size: 0;
+        > * { font-size: 1rem; }
+      }
+      img {
+        display: inline-block; vertical-align: middle;
+        padding-top: $global-spacing / 4;
+      }
+    }
     li + li { margin-top: $global-spacing; }
+    @include respond-to(medium) {
+      ul { padding-left: 1.2em; }
+      li img {
+        @include respond-to(medium) {
+          max-width: 50%; padding: $global-spacing / 4;
+        }
+      }
+    }
   }
 }

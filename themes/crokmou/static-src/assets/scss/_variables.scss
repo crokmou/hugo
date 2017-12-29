@@ -17,8 +17,9 @@ $brand-primary: #f5f6e5;
 $brand-primary-light: #fafaf2;
 $brand-primary-dark: darken($brand-primary, 5%);
 $brand-primary-darker: #a2a495;
-$brand-primary-darkest: #8b7861;
-$brand-secondary: #e9487a;
+$brand-primary-darkest: #6e5f46;
+$brand-secondary: darken(#e9487a, 10%);
+$brand-secondary-dark: darken(#e9487a, 5%);
 $brand-danger: hsl(0, 67%, 50%);
 
 // Fonts
