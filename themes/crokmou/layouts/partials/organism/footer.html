@@ -149,7 +149,9 @@
     var element  = document.createElement('link');
     element.rel  = 'stylesheet';
     element.href = href;
-    element.setAttribute('media', media);
+    if (media) {
+      element.setAttribute('media', media);
+    }
     element.type = 'text/css';
     var godefer  = document.getElementsByTagName('link')[0];
     godefer.parentNode.insertBefore(element, godefer);
