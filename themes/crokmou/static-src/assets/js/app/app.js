@@ -491,7 +491,7 @@ $(document).ready(function() {
   })();
 
   (function InjectCss() {
-    injectCss('{{ "/assets/style.css" | relURL }}', 'screen, projection');
+    injectCss('/assets/style.css?v=1', 'screen, projection');
     injectCss(
         'https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css',
         'screen, projection');
@@ -500,7 +500,7 @@ $(document).ready(function() {
         'screen, projection');
     injectCss(
         'https://fonts.googleapis.com/css?family=Oswald:300|Roboto:300,400,500');
-    injectCss('{{ "/assets/print.css" | relURL }}?v=1', 'print');
+    injectCss('/assets/print.css?v=1', 'print');
 
     function injectCss(href, media) {
       var element  = document.createElement('link');
