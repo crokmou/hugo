@@ -491,7 +491,7 @@ $(document).ready(function() {
   })();
 
   (function InjectCss() {
-    //injectCss('/assets/style.css?v=1', 'screen, projection');
+    injectCss('/assets/style.css?v=2', 'screen, projection');
     injectCss(
         'https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css',
         'screen, projection');
