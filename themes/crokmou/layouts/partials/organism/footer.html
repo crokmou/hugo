@@ -133,30 +133,5 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<!-- ASYNC css -->
-<script type="text/javascript">
-  injectCss('{{ "/assets/style.css" | relURL }}', 'screen, projection');
-  injectCss(
-      'https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css',
-      'screen, projection');
-  injectCss(
-      'https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css',
-      'screen, projection');
-  injectCss(
-      'https://fonts.googleapis.com/css?family=Oswald:300|Roboto:300,400,500');
-  injectCss('{{ "/assets/print.css" | relURL }}?v=1', 'print');
-
-  function injectCss(href, media) {
-    var element  = document.createElement('link');
-    element.rel  = 'stylesheet';
-    element.href = href;
-    if (media) {
-      element.setAttribute('media', media);
-    }
-    element.type = 'text/css';
-    var godefer  = document.getElementsByTagName('link')[0];
-    godefer.parentNode.insertBefore(element, godefer);
-  }
-</script>
 </body>
 </html>
