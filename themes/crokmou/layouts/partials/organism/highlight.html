@@ -4,10 +4,8 @@
   <article class="highlight__item flex-12 flex-med-4">
     {{range (where $pages "Slug" "eq" .)}}
     <a class="link" href="{{.Permalink}}" rel="xhr">
-      {{$srcSvg := replace .Params.Thumbnail "/i/" "/svg/" }}
-      {{$srcSvg := $srcSvg | replaceRE "(https://cdn.rawgit.com/crokmou/images/.*/svg/.*.)(jpe?g|JPE?G|png|PNG|gif|GIF)" "$1" }}
       <picture class="picture">
-      	<img class="picture__item lazyload" src="{{$srcSvg}}svg" data-src="{{.Params.Thumbnail}}">
+      	<img class="picture__item" src="{{.Params.Thumbnail}}" alt="{{.Params.Title}}">
       </picture>
       <main class="link__overlay">
         <ul class="link__overlay__categories">
