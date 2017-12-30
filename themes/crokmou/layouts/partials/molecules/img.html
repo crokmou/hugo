@@ -5,8 +5,8 @@
 {{$srcSvg := replace $src "/i/" "/svg/" }}
 {{$srcSvg := $srcSvg | replaceRE "(https://cdn.rawgit.com/crokmou/images/.*/svg/.*.)(jpe?g|JPE?G|png|PNG|gif|GIF)" "$1" }}
 <figure itemprop="associatedMedia"
-        itemscope
-        itemtype="http://schema.org/ImageObject">
+                 itemscope
+                 itemtype="http://schema.org/ImageObject">
   <a href="{{$src}}" itemprop="contentUrl" target="_blank" rel="noopener">
     <img class="lazyload"
          src="{{$srcSvg}}svg"
