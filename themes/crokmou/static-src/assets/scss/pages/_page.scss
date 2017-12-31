@@ -1,5 +1,8 @@
 .page {
   min-height: 100%; padding: 0 $global-spacing / 2 $global-spacing / 2; margin-top: $global-spacing / 2;
+  &__container {
+    display: block;
+  }
   @include respond-to(medium) {
     padding: $global-spacing / 2 $global-spacing $global-spacing;
   }

@@ -1,7 +1,5 @@
 // Init
 @import "variables";
-@import "reset";
-@import "grid";
 
 * {
   margin: 0; padding: 0;
@@ -29,7 +27,6 @@ body {
     content: attr(data-stroke);
   }
 }
-.container { max-width: 1200px; margin: 0 auto; width: 100%; }
 
 // Utils
 @import "utils";
@@ -39,11 +36,9 @@ body {
 
 // Molecules
 @import "molecule/card";
-@import "molecule/icon";
 @import "molecule/pagination";
 @import "molecule/picture";
 @import "molecule/selectric";
-@import "molecule/algolia";
 
 // Blocks
 @import "markdown";

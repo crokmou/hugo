@@ -2,7 +2,7 @@ const sass = require('node-sass');
 const path = require('path');
 const fs = require('fs');
 
-const filesToRender = ['style', 'print'];
+const filesToRender = ['style', 'print', 'critical'];
 
 filesToRender.map((f) => {
   'use strict';

@@ -491,7 +491,10 @@ $(document).ready(function() {
   })();
 
   (function InjectCss() {
-    injectCss('/assets/style.css?v=2', 'screen, projection');
+    if(isDev()) {
+      injectCss('/assets/critical.css');
+    }
+    injectCss('/assets/style.css', 'screen, projection');
     injectCss(
         'https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css',
         'screen, projection');
@@ -510,8 +513,10 @@ $(document).ready(function() {
         element.setAttribute('media', media);
       }
       element.type = 'text/css';
-      var godefer  = document.getElementsByTagName('link')[0];
-      godefer.parentNode.insertBefore(element, godefer);
+      $('head').append($(element));
     }
-  })()
+  })();
+  function isDev() {
+    return /local.crokmou.com|localhost/.test(location.href);
+  }
 });
