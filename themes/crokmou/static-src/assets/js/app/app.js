@@ -492,9 +492,9 @@ $(document).ready(function() {
 
   (function InjectCss() {
     if(isDev()) {
-      injectCss('/assets/critical.css?v=10');
+      injectCss('/assets/critical.css?v=11');
     }
-    injectCss('/assets/style.css?v=10', 'screen, projection');
+    injectCss('/assets/style.css?v=11', 'screen, projection');
     injectCss(
         'https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css',
         'screen, projection');
