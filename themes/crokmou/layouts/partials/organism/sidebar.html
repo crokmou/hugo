@@ -11,7 +11,7 @@
     {{end}}
     {{if eq $id "breve" }}
     <ul>
-      {{ range first 3 (where (where $pages "Section" "eq" "carnet de voyage") "Title" "!=" "") }}
+      {{ range first 3 (where (where $pages "Section" "eq" "blog") "Title" "!=" "") }}
       {{ $description := .Summary }}
       {{with .Description }}{{ $description := . }}{{end}}
       {{ $description := $description | truncate 100 }}

@@ -33,3 +33,8 @@ Ensuite, l'url ressemblera à: `https://cdn.rawgit.com/crokmou/images/1.0.7/i/no
 ## Mettre à jour l'index de recherche
 
 Dans le terminal `cd && cd Documents/Blog/ && npm run index`
+
+## Créer un nouvel article
+
+- Ouvrir un nouveau terminal (pomme + T) et taper: `cd Document/Blog`
+- Ensuite taper: `hugo new SECTION/aaaa-mm-dd-slug-de-l-article.md` (ex: `hugo new blog/2017-01-07-mon-nouveau-blog.md` ou s'il  y a un espace dans la section, il faut les prefixer par un `\` - `hugo new carnet\ de\ voyage/2017-01-07-mon-nouveau-voyage.md`
