@@ -1,3 +1,6 @@
+# **Despite being open sourced, all the content remain copyright of Sarah Blieux@Crokmou. So please don't steal/use/sell whatever and ask first so we can find an arrangment.**
+
+
 Pour démarrer le projet:
 - Ouvrir Atom
 - Ouvrir le terminal
