@@ -95,8 +95,8 @@ params:
       href: "https://www.youtube.com/channel/UCI2nEqc0lxItG3iNDBd9Umw"
   highlight:
     - "pain-levain-cocotte-sans-petrissage"
-    - "san-bol-experience-culinaire-vegan-bruxelles"
     - "citytrip-en-andorre"
+    - "san-bol-experience-culinaire-vegan-bruxelles"
   sidebar:
     - id: "breve"
       title: "Brèves"
