@@ -1,0 +1,40 @@
+<!doctype html>
+<html itemtype="http://schema.org/Product" lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width">
+  <title>Crokmou - Page introuvable</title>
+  <meta name="robots" content="noindex,nofollow"/>
+  <meta http-equiv="refresh" content='0; url={{"/" | relURL}}' />
+  <style media="screen, projection">REPLACE_CRITICAL</style>
+
+  <!--Start Google Analytics-->
+  <script>
+    window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+    ga('create', 'CONF_KEY_GA', 'auto');
+  </script>
+  <script async src='https://www.google-analytics.com/analytics.js'></script>
+  <!--End Google Analytics-->
+</head>
+<body>
+<div id="page-container">
+
+{{ partial "organism/header.html" . }}
+
+  <div class="page">
+  <div class="page__container container">
+    <div class="home flex flex-wrap align-items-start">
+      <section class="home__content flex-12 flex-med-9">
+        <article>
+          <p>Malheureusement, cette page n'existe pas, vous allez être redirigez vers la <a href='{{ "/" | relURL}}'>page principale...</a></p>
+        </article>
+      </section>
+      <aside class="home__sidebar flex-12 flex-med-3">
+        {{ partial "organism/sidebar.html" . }}
+      </aside>
+    </div>
+  </div>
+</div>
+
+{{ partial "organism/footer.html" .}}

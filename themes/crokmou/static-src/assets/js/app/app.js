@@ -115,8 +115,8 @@ $(document).ready(function() {
 
   function Algolia() {
     try {
-      const client = algoliasearch('7GZHV5CIYF',
-          'c2dcc32aadead636824c3f969c3adc53');
+      const client = algoliasearch(window.CROKMOU_CONF_ALGOLIA_ID,
+          window.CROKMOU_CONF_ALGOLIA_API_KEY);
       const index  = client.initIndex('blog');
       $('#search-input').autocomplete({
         openOnFocus: true,

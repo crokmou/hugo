@@ -7,8 +7,8 @@ const yaml = require('yamljs');
 
 const filesFolder = './content';
 const fileToIndex = process.argv[2];
-const api_key = dotenv.parsed.ALGOLIA_API_KEY;
-const app_id = dotenv.parsed.ALGOLIA_ID;
+const api_key = dotenv.parsed.CROKMOU_CONF_ALGOLIA_API_KEY;
+const app_id = dotenv.parsed.CROKMOU_CONF_ALGOLIA_ID;
 const client = algoliasearch(app_id, api_key);
 const index = client.initIndex('blog');
 const observableDiff = require('deep-diff').observableDiff;

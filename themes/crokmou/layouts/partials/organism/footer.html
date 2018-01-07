@@ -129,7 +129,7 @@
   if (d.getElementById(id)) return;
   js     = d.createElement(s);
   js.id  = id;
-  js.src = 'https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.11&appId=553644794978102';
+  js.src = 'https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.11&appId={{getenv "CROKMOU_CONF_FB_ID" }}';
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 

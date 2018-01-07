@@ -31,17 +31,21 @@
   <meta property="og:image" content="{{.Params.thumbnail}}" />
 
   <!-- Facebook -->
-  <meta property="fb:app_id" content="553644794978102"/>
+  <meta property="fb:app_id" content='{{getenv "CROKMOU_CONF_FB_ID" }}'/>
 
   <style media="screen, projection">REPLACE_CRITICAL</style>
 
   <!--Start Google Analytics-->
   <script>
     window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-    ga('create', 'CONF_KEY_GA', 'auto');
+    ga('create', '{{getenv "CROKMOU_CONF_KEY_GA" }}', 'auto');
   </script>
   <script async src='https://www.google-analytics.com/analytics.js'></script>
   <!--End Google Analytics-->
+  <script>
+    window.CROKMOU_CONF_ALGOLIA_API_KEY = '{{getenv "CROKMOU_CONF_ALGOLIA_API_KEY" }}';
+    window.CROKMOU_CONF_ALGOLIA_ID = '{{getenv "CROKMOU_CONF_ALGOLIA_ID" }}';
+  </script>
 </head>
 <body>
 <div id="page-container">
