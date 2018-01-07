@@ -72,7 +72,7 @@ $(document).ready(function() {
 
       $allVideos.each(function() {
         $(this).
-        data('aspectRatio', this.height / this.width).
+        data('aspectRatio', (this.height || 16) / (this.width || 10)).
         removeAttr('height').
         removeAttr('width');
       });
@@ -88,7 +88,7 @@ $(document).ready(function() {
     }
 
     function ResizeWindow(cb) {
-      $(window).resize(cb).resize();
+      setTimeout(()=> $(window).resize(cb).resize(), 100);
     }
 
     function ScrollWindow(cb) {
