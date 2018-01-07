@@ -6,9 +6,6 @@
   <meta name="viewport" content="width=device-width">
   {{$title := or (or .Title .Params.pageTitle) "Blog cuisine & Voyage"}}
   <title>Crokmou - {{$title}}</title>
-  <!-- to remove when production -->
-  <meta name="robots" content="noindex,nofollow"/>
-  <!-- Meta data -->
   {{$description := or .Description ((or .Summary "") | truncate 200) }}
   {{with $description}}<meta name="description" content="{{. | markdownify | plainify | safeHTML}}" />{{end}}
   <link rel="canonical" href="{{.Permalink}}" />
