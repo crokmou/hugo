@@ -3,7 +3,7 @@ Pour démarrer le projet:
 - Ouvrir le terminal
 - Ouvrir github-desktop
 - Fetch les modifications depuis github-desktop
-- $ `cd && cd Documents/Blog/ && npm run serve`
+- $ `cd && cd Documents/Crokmou/Blog/ && npm run serve`
 - Ouvrir `localhost:1313` dans chrome
 
 Pour mettre à jour une modification:

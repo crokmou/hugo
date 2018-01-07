@@ -110,6 +110,9 @@ params:
         - "galette-des-rois-frangipane-fleur-doranger"
     - id: "tips"
       title: "Astuce d'une blogueuse"
-      thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/pate-pesto-pistache-amande-huile-concass%C3%A9-tomate-crokmou-blog-belge-cuisine-voyage-01.jpg"
+      thumbnail: ""
       articles:
-        - "feta-marinee"
+        - "les-appareils-photos-numeriques-ou-apn"
+        - "choisir-son-reflex-photographie"
+        - "passer-en-mode-manuel-photographie"
+        - "dompter-la-lumiere-photographie"
