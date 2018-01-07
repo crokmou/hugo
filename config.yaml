@@ -94,9 +94,9 @@ params:
     - id: "youtube"
       href: "https://www.youtube.com/channel/UCI2nEqc0lxItG3iNDBd9Umw"
   highlight:
-    - "feta-marinee"
-    - "tarte-aux-peches-ylang-ylang-et-romarin"
-    - "tarte-aux-peches-ylang-ylang-et-romarin"
+    - "pate-feuilletee-inversee-de-pierre-herme"
+    - "san-bol-experience-culinaire-vegan-bruxelles"
+    - "citytrip-en-andorre"
   sidebar:
     - id: "breve"
       title: "Brèves"
