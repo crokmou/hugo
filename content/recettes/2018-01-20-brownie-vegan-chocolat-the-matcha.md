@@ -1,7 +1,7 @@
 ---
 title: "2018 01 20 Brownie Vegan Chocolat the Matcha"
 date: 2018-01-20T18:11:28+01:00
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.10/i/recette-brownie-chocolat-matcha-vegan-vegetalien-crokmou-blog-belge-cuisine-voyage-.gif"
+thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.12/i/recette-brownie-chocolat-matcha-vegan-vegetalien-crokmou-blog-belge-cuisine-voyage-.gif"
 categories:
   - ""
 tags:
@@ -47,6 +47,8 @@ recette:
 ---
 
 Konnichiwa, minna ! Il est vrai que cela fait un sacré bout de temps que je dois poster cette **recette de brownie vegan au chocolat et thé matcha**. Ne me demandez pas pourquoi cela à pris tant de temps, moi même je ne le sais pas... Les photos brutes trainaient dans mon disque dur, flemme immense de les retoucher. Et puis il y a quelques jours je me suis dit qu'**il serait peut être temps de faire ce cinémagraph**.
+
+{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.12/i/recette-brownie-chocolat-matcha-vegan-vegetalien-crokmou-blog-belge-cuisine-voyage-.jpg" >}}
 
 Voilà donc le résultat, un bon petit **coulis de framboise** qui se verse en continue O_o ! Alléchant non ?
 
