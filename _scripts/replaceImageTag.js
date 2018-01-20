@@ -12,7 +12,7 @@ fetch(url).then(function(res) {
   console.log(tag, __dirname.replace('\/_scripts', '')+'/content/**/*.md');
   replace.sync({
     files: __dirname.replace('\/_scripts', '')+'/content/**/*.md',
-    from: 'GIT_TAG',
+    from: /GIT_TAG/g,
     to: tag,
   });
 });

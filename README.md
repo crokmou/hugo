@@ -17,8 +17,11 @@ Pour mettre à jour une modification:
 - $ `npm run deploy`
 
 ## Ajouter une image
-Pour rajouter une image sur github, il faut d'abord se rendre sur l'autre repo.
-Ensuite, l'url ressemblera à: `https://cdn.rawgit.com/crokmou/images/1.0.7/i/nom_de_l_image.jpg` pour uliser la bonne version, il faut remplacer `1.0.7` par `GIT_TAG` et la commande de build s'occupera de remplacer par le bon tag (ex: `https://cdn.rawgit.com/crokmou/images/GIT_TAG/i/nom_de_l_image.jpg`.
+- Kill le server avec `ctrl + c`
+- Ajoute l'image dans le dossier i du repo images
+- Ensuite, l'url ressemblera à: `https://cdn.rawgit.com/crokmou/images/1.0.7/i/nom_de_l_image.jpg` pour uliser la bonne version, il faut remplacer `1.0.7` par `GIT_TAG` et la commande de build s'occupera de remplacer par le bon tag (ex: `https://cdn.rawgit.com/crokmou/images/GIT_TAG/i/nom_de_l_image.jpg`.
+- Lancer `npm run updateImage && npm run serve`
+
 ### Dans le contenu d'un article
  `{{< img src="URL_IMAGE" alt="EXPLICATION DE L'IMAGE" >}}`
 ### Dans le front matter d'un article (pour les recettes par exemple)

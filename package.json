@@ -32,7 +32,8 @@
     "postdeploy": "npm run index",
     "index": "node ./_scripts/algolia/all.js",
     "import": "ruby ./_scripts/import/wp-xml-hugo-import.rb ./_scripts/import/crokmou-blogcuisineampvoyages.wordpress.2017-11-03.xml ./_scripts/import/crokmou-blogcuisineampvoyages.wordpress.2017-11-03\\ \\(1\\).xml",
-    "postimport": "node ./_scripts/mify.js ./_scripts/post && rm -rf ./_scripts/post && rm -rf ./_scripts/page"
+    "postimport": "node ./_scripts/mify.js ./_scripts/post && rm -rf ./_scripts/post && rm -rf ./_scripts/page",
+    "updateImage": "cd ../images && npm run deploy && cd ../blog"
   },
   "eslintConfig": {
     "extends": [
