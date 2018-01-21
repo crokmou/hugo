@@ -10,7 +10,7 @@
         <a class="button button--with-icon button--wide" href="javascript:window.print()">Imprimer</a>
       </div>
       <div class="flex-12 flex-sm-9">
-        <h2>{{.Page.Params.title}}</h2>
+        <h2 itemprop="name">{{.Page.Params.title}}</h2>
         <ul>
           {{range .Page.Params.recette_details}}
             {{range $label, $value := .}}
@@ -39,7 +39,7 @@
     {{ range $value := .Page.Params.recette_ingredients }}
     <ul>
       <li>
-        {{with $value.label}}<strong>{{ . | markdownify }}</strong>{{end}}
+        {{with $value.label}}<strong itemprop="recipeYield">{{ . | markdownify }}</strong>{{end}}
         <ul>
           {{range $value := $value.value}}
             <li itemprop="recipeIngredient">{{$value | markdownify}}</li>
@@ -53,7 +53,7 @@
     <h3>Recettes</h3>
     <ul>
       {{range $index, $value:= .Page.Params.recette}}
-        <li>
+        <li itemprop="recipeInstructions">
          {{add $index 1}}) {{$value | markdownify}}
         </li>
       {{end}}
