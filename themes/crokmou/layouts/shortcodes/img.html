@@ -1,18 +1,21 @@
-<figure itemprop="associatedMedia"
-        itemscope
-        itemtype="http://schema.org/ImageObject">
-  {{$src := .Get "src"}}
-  {{$srcSvg := replace $src "/i/" "/svg/" }}
-  {{$srcSvg := $srcSvg | replaceRE "(https://cdn.rawgit.com/crokmou/images/.*/svg/.*.)(jpe?g|JPE?G|png|PNG|gif|GIF)" "$1" }}
-  <a href='{{$src}}' itemprop="contentUrl" target="_blank" rel="noopener">
-    <img class="lazyload loading"
-         data-src='{{.Get "src"}}'
-         itemprop="thumbnail"
-         src="{{$srcSvg}}svg"
-         alt='{{.Get "alt"}}'/>
-    <noscript>
-      <img src='{{$src}}' itemprop="thumbnail" alt='{{.Get "alt"}}'/>
-    </noscript>
-  </a>
-  {{with .Get "caption"}}<figcaption itemprop="caption description">{{.}}</figcaption>{{end}}
-</figure>
+<div class="figure">
+  <a data-pin-do="buttonBookmark" data-pin-lang="fr" href="https://fr.pinterest.com/pin/create/button/"></a>
+  <figure itemprop="associatedMedia"
+          itemscope
+          itemtype="http://schema.org/ImageObject">
+    {{$src := .Get "src"}}
+    {{$srcSvg := replace $src "/i/" "/svg/" }}
+    {{$srcSvg := $srcSvg | replaceRE "(https://cdn.rawgit.com/crokmou/images/.*/svg/.*.)(jpe?g|JPE?G|png|PNG|gif|GIF)" "$1" }}
+    <a href='{{$src}}' itemprop="contentUrl" target="_blank" rel="noopener">
+      <img class="lazyload loading"
+           data-src='{{.Get "src"}}'
+           itemprop="thumbnail"
+           src="{{$srcSvg}}svg"
+           alt='{{.Get "alt"}}'/>
+      <noscript>
+        <img src='{{$src}}' itemprop="thumbnail" alt='{{.Get "alt"}}'/>
+      </noscript>
+    </a>
+    {{with .Get "caption"}}<figcaption itemprop="caption description">{{.}}</figcaption>{{end}}
+  </figure>
+</div>

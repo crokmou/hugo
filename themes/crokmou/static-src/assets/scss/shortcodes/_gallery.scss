@@ -1,6 +1,7 @@
 .gallery {
   > * {
     width: 100%; margin: 5px 0 0;
+    * + * { margin: 0; }
   }
   @include respond-to(medium) {
     &:not(.gallery--no-grid) {

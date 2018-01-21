@@ -1,5 +1,7 @@
 // Init
 @import "variables";
+@import "reset";
+@import "grid";
 
 * {
   margin: 0; padding: 0;
@@ -18,6 +20,13 @@ body {
   background: $brand-primary-light url('/assets/images/svg/as-picture/wave.svg') repeat;
 }
 
+.figure {
+  position: relative;
+  [data-pin-href] {
+    position: absolute; top: 15px; left: 15px;
+    border-radius: 3px;
+  }
+}
 [data-stroke] {
   position: relative;
   display: inline-block;
@@ -35,6 +44,8 @@ body {
 @import "atom/style";
 
 // Molecules
+@import "molecule/icon";
+@import "molecule/algolia";
 @import "molecule/card";
 @import "molecule/pagination";
 @import "molecule/picture";

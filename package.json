@@ -20,7 +20,7 @@
     "manifest:build": "cp -R ./themes/crokmou/static-src/assets/manifest.json ./themes/crokmou/static/assets/manifest.json",
     "statics:build": "cp ./{robots.txt,CNAME} ./themes/crokmou/static/",
     "build": "npm run clean && mkdir -p ./themes/crokmou/static/assets/ && npm run sass:build && npm run babel:build && npm run img:build && npm run manifest:build && npm run statics:build",
-    "postbuild": "hugo && npm run htmlmin && npm run precache && npm run critical",
+    "postbuild": "hugo && npm run htmlmin && npm run precache",
     "precache": "sw-precache --config=sw-precache-config.js --verbose",
     "htmlmin": "html-minifier --collapse-whitespace --input-dir ./public/ --output-dir ./public/ --file-ext html",
     "htmlminhelp": "html-minifier --help",

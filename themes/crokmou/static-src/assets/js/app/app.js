@@ -14,6 +14,7 @@ $(document).ready(function() {
     Single();
     ResizeVideos();
     initFbComment();
+    parsePinButtons();
 
     function Nav() {
       const $window = $(window);
@@ -109,6 +110,20 @@ $(document).ready(function() {
           }
         }
       }());
+    }
+
+    function parsePinButtons() {
+      let tries = 0;
+      (function tryParse() {
+        try {
+          window.parsePinBtns();
+        } catch(e) {
+          tries++;
+          if(tries < 500) {
+            setTimeout(tryParse, 100)
+          }
+        }
+      })()
     }
     return {init: App};
   })();
@@ -267,12 +282,13 @@ $(document).ready(function() {
       const openPhotoSwipe = async function(
           index, galleryElement, disableAnimation, fromURL) {
         const pswpElement = document.querySelectorAll('.pswp')[0];
+        const $loadingPswp = $('[rel=js-loading-pswp]');
         let gallery;
         let options;
         let items;
-        console.log('waiting...');
+        $loadingPswp.addClass('footer__loading-pswp--active');
         items = await parseThumbnailElements(galleryElement);
-        console.log('ok');
+        $loadingPswp.removeClass('footer__loading-pswp--active');
         // define options (if needed)
         options = {
           showHideOpacity: true,
@@ -351,10 +367,17 @@ $(document).ready(function() {
       let number   = 0;
       return new Promise((resolve) => {
         for (let i = 0; i < figures.length; i++) {
-          const fig   = figures[i];
-          const a     = fig.children[0];
-          const src   = a.href;
-          const img   = a.children[0];
+          const $fig   = $(figures[i]);
+          const $a     = $fig.find('[itemprop="contentUrl"]');
+          const src   = $a.attr('href');
+          const img   = $a.find('img')[0];
+          if(!img) {
+            number++;
+            if (number === figures.length) {
+              resolve(images);
+            }
+            return;
+          }
           img.onload  = () => {
             number++;
             images.push(img);
@@ -491,9 +514,6 @@ $(document).ready(function() {
   })();
 
   (function InjectCss() {
-    if(isDev()) {
-      injectCss('/assets/critical.css?v=11');
-    }
     injectCss('/assets/style.css?v=11', 'screen, projection');
     injectCss(
         'https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css',
@@ -516,7 +536,4 @@ $(document).ready(function() {
       $('head').append($(element));
     }
   })();
-  function isDev() {
-    return /local.crokmou.com|localhost/.test(location.href);
-  }
 });
