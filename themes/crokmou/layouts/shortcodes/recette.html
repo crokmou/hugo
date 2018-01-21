@@ -27,9 +27,8 @@
     <ul>
       {{ with.Page.Params.recette_qty }}
       <li>
-        <strong>Portion :</strong>
-        <meta itemprop="recipeYield" content="{{.}}">
-        {{.}}
+        <strong>Portion&nbsp;:</strong>
+        <span itemprop="recipeYield">{{.}}</span>
       </li>
       {{end}}
     </ul>
