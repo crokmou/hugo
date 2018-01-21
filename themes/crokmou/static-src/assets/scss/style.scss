@@ -20,6 +20,9 @@ body {
   background: $brand-primary-light url('/assets/images/svg/as-picture/wave.svg') repeat;
 }
 
+
+.container { max-width: 1200px; margin: 0 auto; width: 100%; }
+
 .figure {
   position: relative;
   [data-pin-href] {
