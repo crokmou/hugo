@@ -37,14 +37,14 @@ recette_details:
     - Pique-nique
 recette_qty: "Pour 6/8 personnes"
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT10M"
+  - schema_id: "prepTime"
+    schema_value: "PT10M"
     label: "Préparation"
     duration: "10 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "30 minutes"
-    schemaValue: "PT30M"
+    schema_value: "PT30M"
 recette_ingredients:
   - value:
       - 500g de fruits rouges (ou autres fruits)

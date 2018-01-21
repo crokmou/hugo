@@ -35,14 +35,14 @@ recette_details:
     - En couple
 recette_qty: "Pour 4 personnes"
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT10M"
+  - schema_id: "prepTime"
+    schema_value: "PT10M"
     label: "Préparation"
     duration: "10 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "1 heure et 30 minutes"
-    schemaValue: "PT1H30M"
+    schema_value: "PT1H30M"
 recette_ingredients:
   - value:
       - chou fleur

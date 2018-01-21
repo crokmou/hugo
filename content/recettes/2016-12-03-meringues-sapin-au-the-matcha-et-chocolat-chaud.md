@@ -42,14 +42,14 @@ recette_details:
 recette_qty:
   - Pour une cinquantaine de sapins
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT10M"
+  - schema_id: "prepTime"
+    schema_value: "PT10M"
     label: "Préparation"
     duration: "10 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "3 heures"
-    schemaValue: "PT3H"
+    schema_value: "PT3H"
 recette_ingredients:
   - value:
       - 200g de blancs d'oeufs

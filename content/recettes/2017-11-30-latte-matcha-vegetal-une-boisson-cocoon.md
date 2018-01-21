@@ -41,14 +41,14 @@ recette_details:
     - Tea-time
 recette_qty: "Pour 1 bol de 200ml"
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT3M"
+  - schema_id: "prepTime"
+    schema_value: "PT3M"
     label: "Préparation"
     duration: "3 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "3 minutes"
-    schemaValue: "PT3M"
+    schema_value: "PT3M"
 recette_ingredients:
   - value:
     - 2 chashaku de thé Matcha (soit environ 5g)

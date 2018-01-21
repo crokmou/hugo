@@ -42,14 +42,14 @@ recette_details:
 recette_qty:
   - Pour 6 personnes
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT15M"
+  - schema_id: "prepTime"
+    schema_value: "PT15M"
     label: "Préparation"
     duration: "15 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "20 minutes"
-    schemaValue: "PT20M"
+    schema_value: "PT20M"
 recette_ingredients:
   - value:
       - 1 pâte à tarte brisée (maison ou du commerce)

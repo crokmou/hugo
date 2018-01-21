@@ -44,14 +44,14 @@ recette_details:
     - En couple
 recette_qty: "Pour 600g de granola au chocolat maison"
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT10M"
+  - schema_id: "prepTime"
+    schema_value: "PT10M"
     label: "Préparation"
     duration: "10 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "20 minutes"
-    schemaValue: "PT20M"
+    schema_value: "PT20M"
 recette_ingredients:
   - value:
       - 200g de gros flocons d'avoine

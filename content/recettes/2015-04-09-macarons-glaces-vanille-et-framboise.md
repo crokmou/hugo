@@ -40,18 +40,18 @@ recette_details:
     - Reception
 recette_qty: "Pour 4/6 personnes"
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT30M"
+  - schema_id: "prepTime"
+    schema_value: "PT30M"
     label: "Préparation"
     duration: "30 minutes"
-  - schemaId: "performTime"
+  - schema_id: "performTime"
     label: "Pose"
     duration: "30 minutes"
-    schemaValue: "PT30M"
-  - schemaId: "cookTime"
+    schema_value: "PT30M"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "12 minutes"
-    schemaValue: "PT12M"
+    schema_value: "PT12M"
 recette_ingredients:
   - label: "**Pour les coques de macarons:**"
     value:

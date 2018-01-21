@@ -40,14 +40,14 @@ recette_details:
 recette_qty:
   - Pour 1 terrine
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT30M"
+  - schema_id: "prepTime"
+    schema_value: "PT30M"
     label: "Préparation"
     duration: "30 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "60 minutes"
-    schemaValue: "PT60M"
+    schema_value: "PT60M"
 recette_ingredients:
   - value :
       - 500g de potimarron cuit

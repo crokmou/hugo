@@ -46,18 +46,18 @@ recette_details:
     - En couple
     - Tea time
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT10M"
+  - schema_id: "prepTime"
+    schema_value: "PT10M"
     label: "Préparation"
     duration: "10 minutes"
-  - schemaId: "performTime"
+  - schema_id: "performTime"
     label: "Pose"
     duration: "24 heures"
-    schemaValue: "P1D"
-  - schemaId: "cookTime"
+    schema_value: "P1D"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "60 minutes"
-    schemaValue: "PT60M"
+    schema_value: "PT60M"
 recette_qty:
   - Pour une quizaine de cannelés bordelais
 recette_ingredients:

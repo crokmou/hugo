@@ -45,14 +45,14 @@ recette_details:
 recette_qty:
     - Pour une quinzaine de biscuits
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT10M"
+  - schema_id: "prepTime"
+    schema_value: "PT10M"
     label: "Préparation"
     duration: "10 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "15 minutes"
-    schemaValue: "PT15M"
+    schema_value: "PT15M"
 recette_ingredients:
   - value:
     - 50 g d'huile de tournesol (ou margarine)

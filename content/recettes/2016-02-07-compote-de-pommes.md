@@ -39,14 +39,14 @@ recette_details:
     - Pique-nique
     - Fêtes de fin d'année
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT10M"
+  - schema_id: "prepTime"
+    schema_value: "PT10M"
     label: "Préparation"
     duration: "10 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "1 heure"
-    schemaValue: "PT1H"
+    schema_value: "PT1H"
 recette_ingredients:
   - value:
       - pommes Janagold

@@ -34,14 +34,14 @@ recette_details:
     - Halloween
 recette_qty: "Pour du pop corn d'Halloween"
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT5M"
+  - schema_id: "prepTime"
+    schema_value: "PT5M"
     label: "Préparation"
     duration: "5 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "5 minutes"
-    schemaValue: "PT5M"
+    schema_value: "PT5M"
 recette_ingredients:
   - value:
       - huile végétale

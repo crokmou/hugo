@@ -43,18 +43,18 @@ recette_details:
     - Fêtes de fin d'année
 recette_qty: "Pour 6 demi-sphères"
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT30M"
+  - schema_id: "prepTime"
+    schema_value: "PT30M"
     label: "Préparation"
     duration: "30 minutes"
-  - schemaId: "performTime"
+  - schema_id: "performTime"
     label: "Pose"
     duration: "26 heures"
-    schemaValue: "PT26H"
-  - schemaId: "cookTime"
+    schema_value: "PT26H"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "20 minutes"
-    schemaValue: "PT20M"
+    schema_value: "PT20M"
 recette_ingredients:
   - label: "**Pour la mousse légère :**"
     value:

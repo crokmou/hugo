@@ -46,18 +46,18 @@ recette_details:
 recette_qty:
   - Pour 4 buns
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT15M"
+  - schema_id: "prepTime"
+    schema_value: "PT15M"
     label: "Préparation"
     duration: "15 minutes"
-  - schemaId: "performTime"
+  - schema_id: "performTime"
     label: "Pose"
     duration: "2 heures"
-    schemaValue: "PT2H"
-  - schemaId: "cookTime"
+    schema_value: "PT2H"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "30 minutes"
-    schemaValue: "PT30M"
+    schema_value: "PT30M"
 recette_ingredients:
   - value:
       - 160g de purée de pomme de terre

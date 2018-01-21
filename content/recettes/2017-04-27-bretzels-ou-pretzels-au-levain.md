@@ -38,18 +38,18 @@ recette_details:
 recette_qty:
   - Pour 6/8 Bretzels ou Pretzels au levain
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT15M"
+  - schema_id: "prepTime"
+    schema_value: "PT15M"
     label: "Préparation"
     duration: "15 minutes"
-  - schemaId: "performTime"
+  - schema_id: "performTime"
     label: "Pose"
     duration: "25 heures"
-    schemaValue: "P1DT1H"
-  - schemaId: "cookTime"
+    schema_value: "P1DT1H"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "20 minutes"
-    schemaValue: "PT20M"
+    schema_value: "PT20M"
 recette_ingredients:
   - label: "Pour la pâte :"
     value:

@@ -38,18 +38,18 @@ recette_details:
 recette_qty:
   - Pour 2 verrines
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT15M"
+  - schema_id: "prepTime"
+    schema_value: "PT15M"
     label: "Préparation"
     duration: "15 minutes"
-  - schemaId: "performTime"
+  - schema_id: "performTime"
     label: "Pose"
     duration: "3 heures"
-    schemaValue: "PT1H"
-  - schemaId: "cookTime"
+    schema_value: "PT1H"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "10 minutes"
-    schemaValue: "PT10M"
+    schema_value: "PT10M"
 recette_ingredients:
   - value:
       - 250g de crème fraîche liquide entière

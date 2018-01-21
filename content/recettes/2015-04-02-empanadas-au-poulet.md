@@ -42,14 +42,14 @@ recette_details:
     - Pique-nique
 recette_qty: "Pour 4/6 personnes"
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT20M"
+  - schema_id: "prepTime"
+    schema_value: "PT20M"
     label: "Préparation"
     duration: "20 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "20 minutes"
-    schemaValue: "PT20M"
+    schema_value: "PT20M"
 recette_ingredients:
   - label: "**Pâte:**"
     value:

@@ -43,18 +43,18 @@ recette_details:
     - Fêtes de fin d'année
 recette_qty: "Pour un pain au levain en cocotte"
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT5M"
+  - schema_id: "prepTime"
+    schema_value: "PT5M"
     label: "Préparation"
     duration: "5 minutes"
-  - schemaId: "performTime"
+  - schema_id: "performTime"
     label: "Pose"
     duration: "30 heures"
-    schemaValue: "PT30H"
-  - schemaId: "cookTime"
+    schema_value: "PT30H"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "45 minutes"
-    schemaValue: "PT45M"
+    schema_value: "PT45M"
 recette_ingredients:
   - value:
       - 250g de levain actif

@@ -34,14 +34,14 @@ recette_details:
     - Halloween
 recette_qty: "Pour une quizaine de fortune cookies"
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT10M"
+  - schema_id: "prepTime"
+    schema_value: "PT10M"
     label: "Préparation"
     duration: "10 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "12 minutes"
-    schemaValue: "PT12M"
+    schema_value: "PT12M"
 recette_ingredients:
   - value:
       - 2 blancs d'oeufs

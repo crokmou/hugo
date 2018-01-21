@@ -32,14 +32,14 @@ recette_details:
     - Entre amis
     - En couple
 recette_temps:
-    - schemaId: "prepTime"
-      schemaValue: "PT5M"
+    - schema_id: "prepTime"
+      schema_value: "PT5M"
       label: "Préparation"
       duration: "5 minutes"
-    - schemaId: "performTime"
+    - schema_id: "performTime"
       label: "Pose"
       duration: "3 heures"
-      schemaValue: "PT3H"
+      schema_value: "PT3H"
 recette_ingredients:
   - value:
       - yaourt à la grecque

@@ -39,14 +39,14 @@ recette_details:
 recette_qty:
   - Pour 4 personnes
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT5M"
+  - schema_id: "prepTime"
+    schema_value: "PT5M"
     label: "Préparation"
     duration: "5 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "60 minutes"
-    schemaValue: "PT60M"
+    schema_value: "PT60M"
 recette_ingredients:
   - value:
       - 40ml de crème fraîche 35% de m.g

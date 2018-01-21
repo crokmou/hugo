@@ -38,14 +38,14 @@ recette_details:
 recette_qty:
   - Pour une quizaine de chouquettes
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT15M"
+  - schema_id: "prepTime"
+    schema_value: "PT15M"
     label: "Préparation"
     duration: "15 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "25 minutes"
-    schemaValue: "PT25M"
+    schema_value: "PT25M"
 recette_ingredients:
   - value:
       - 75g de lait d'amande

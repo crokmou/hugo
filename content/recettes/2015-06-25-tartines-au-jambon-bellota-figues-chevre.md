@@ -39,8 +39,8 @@ recette_details:
     - Pique-nique
 recette_qty: "Pour 4 tartines"
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT10M"
+  - schema_id: "prepTime"
+    schema_value: "PT10M"
     label: "Préparation"
     duration: "10 minutes"
 recette_ingredients:

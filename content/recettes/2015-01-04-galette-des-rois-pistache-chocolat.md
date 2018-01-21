@@ -43,18 +43,18 @@ recette_details:
     - Épiphanie
 recette_qty: "Pour 1 galette de 4 personnes (et quelques individuelles)"
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT20M"
+  - schema_id: "prepTime"
+    schema_value: "PT20M"
     label: "Préparation"
     duration: "20 minutes"
-  - schemaId: "performTime"
+  - schema_id: "performTime"
     label: "Pose"
     duration: "3 heures 30 minutes"
-    schemaValue: "PT3H30M"
-  - schemaId: "cookTime"
+    schema_value: "PT3H30M"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "25 minutes"
-    schemaValue: "PT25M"
+    schema_value: "PT25M"
 recette_ingredients:
   - value:
     - '500g de <a title="Pâte feuilletée inversée de Pierre Hermé" href="https://crokmou.com/pate-feuilletee-inversee-de-pierre-herme/" target="_blank">pâte feuilletée inversée </a>'

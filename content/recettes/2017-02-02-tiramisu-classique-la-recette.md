@@ -38,14 +38,14 @@ recette_details:
 recette_qty:
   - Pour 4 personnes
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT15M"
+  - schema_id: "prepTime"
+    schema_value: "PT15M"
     label: "Préparation"
     duration: "15 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "1 heure"
-    schemaValue: "PT1H"
+    schema_value: "PT1H"
 recette_ingredients:
   - value :
       - 200 g de biscuit cuiller

@@ -49,14 +49,14 @@ recette_details:
 recette_qty:
   - Pour une douzaine de religieuses
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT50M"
+  - schema_id: "prepTime"
+    schema_value: "PT50M"
     label: "Préparation"
     duration: "50 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "40 minutes"
-    schemaValue: "PT40M"
+    schema_value: "PT40M"
 recette_ingredients:
   - label: "**Pâte à choux**"
     value:

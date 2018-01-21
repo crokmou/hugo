@@ -33,14 +33,14 @@ recette_details:
 recette_qty:
   - Pour 800g environ
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT15M"
+  - schema_id: "prepTime"
+    schema_value: "PT15M"
     label: "Préparation"
     duration: "15 minutes"
-  - schemaId: "performTime"
+  - schema_id: "performTime"
     label: "Pose"
     duration: "4 heures"
-    schemaValue: "PT1H"
+    schema_value: "PT1H"
 recette_ingredients:
   - label: "**Pour la détrempe :**"
     value :

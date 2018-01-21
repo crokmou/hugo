@@ -40,18 +40,18 @@ recette_details:
 recette_qty:
   - Pour 4 personnes
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT40M"
+  - schema_id: "prepTime"
+    schema_value: "PT40M"
     label: "Préparation"
     duration: "40 minutes"
-  - schemaId: "performTime"
+  - schema_id: "performTime"
     label: "Pose"
     duration: "2 heures 40 minutes"
-    schemaValue: "PT2H40M"
-  - schemaId: "cookTime"
+    schema_value: "PT2H40M"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "30 minutes"
-    schemaValue: "PT30M"
+    schema_value: "PT30M"
 recette_ingredients:
   - label: "**Pour les buns**"
     value:

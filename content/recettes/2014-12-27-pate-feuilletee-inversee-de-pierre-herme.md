@@ -40,14 +40,14 @@ recette_details:
     - Lunch
 recette_qty: "Pour 1kg de pâte"
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT20M"
+  - schema_id: "prepTime"
+    schema_value: "PT20M"
     label: "Préparation"
     duration: "20 minutes"
-  - schemaId: "performTime"
+  - schema_id: "performTime"
     label: "Pose"
     duration: "3 heures 30 minutes"
-    schemaValue: "PT3H30M"
+    schema_value: "PT3H30M"
 recette_ingredients:
   - label: "**Pour la 1ère détrempe ou 'beurre manié' :**"
     value:

@@ -37,18 +37,18 @@ recette_details:
     - En famille
 recette_qty: "Pour 6 personnes"
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT10M"
+  - schema_id: "prepTime"
+    schema_value: "PT10M"
     label: "Préparation"
     duration: "10 minutes"
-  - schemaId: "performTime"
+  - schema_id: "performTime"
     label: "Pose"
     duration: "2 heures"
-    schemaValue: "PT2H"
-  - schemaId: "cookTime"
+    schema_value: "PT2H"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "1 heure"
-    schemaValue: "PT1H"
+    schema_value: "PT1H"
 recette_ingredients:
   - value:
     - 300g de pain rassis

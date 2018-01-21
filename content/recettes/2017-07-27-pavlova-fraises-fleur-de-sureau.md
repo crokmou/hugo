@@ -30,18 +30,18 @@ recette_details:
     - Anniversaire
     - Fêtes de fin d'année
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT30M"
+  - schema_id: "prepTime"
+    schema_value: "PT30M"
     label: "Préparation"
     duration: "30 minutes"
-  - schemaId: "performTime"
+  - schema_id: "performTime"
     label: "Pause"
     duration: "120 minutes"
-    schemaValue: "PT2H"
-  - schemaId: "cookTime"
+    schema_value: "PT2H"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "90 minutes"
-    schemaValue: "PT1H30M"
+    schema_value: "PT1H30M"
 recette_qty:
   - Pour 4/6 personnes
 recette_ingredients:

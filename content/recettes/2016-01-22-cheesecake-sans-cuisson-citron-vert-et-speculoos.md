@@ -43,18 +43,18 @@ recette_details:
 recette_qty:
   - Pour 6/8 personnes
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT35M"
+  - schema_id: "prepTime"
+    schema_value: "PT35M"
     label: "Préparation"
     duration: "35 minutes"
-  - schemaId: "performTime"
+  - schema_id: "performTime"
     label: "Pose"
     duration: "2 heures"
-    schemaValue: "PT2H"
-  - schemaId: "cookTime"
+    schema_value: "PT2H"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "10 minutes"
-    schemaValue: "PT10M"
+    schema_value: "PT10M"
 recette_ingredients:
   - label: "**Pour le biscuit**"
     value:

@@ -38,14 +38,14 @@ recette_details:
 recette_qty:
   - Pour 4 personnes
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT15M"
+  - schema_id: "prepTime"
+    schema_value: "PT15M"
     label: "Préparation"
     duration: "15 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "10 minutes"
-    schemaValue: "PT10M"
+    schema_value: "PT10M"
 recette_ingredients:
   - value:
       - 8 artichauts poivrade

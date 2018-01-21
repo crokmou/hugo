@@ -44,14 +44,14 @@ recette_details:
 recette_qty:
   - Pour 1 cake
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT10M"
+  - schema_id: "prepTime"
+    schema_value: "PT10M"
     label: "Préparation"
     duration: "10 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "50 minutes"
-    schemaValue: "PT50M"
+    schema_value: "PT50M"
 recette_ingredients:
   - value:
       - 450g de bananes bien mûres

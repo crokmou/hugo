@@ -44,14 +44,14 @@ recette_details:
 recette_qty:
   - Pour 8 grosses meringues
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT10M"
+  - schema_id: "prepTime"
+    schema_value: "PT10M"
     label: "Préparation"
     duration: "10 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "5 heures"
-    schemaValue: "PT5H"
+    schema_value: "PT5H"
 recette_ingredients:
   - value:
       - 100g de jus de pois chiche

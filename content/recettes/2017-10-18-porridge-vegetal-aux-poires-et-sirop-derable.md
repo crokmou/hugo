@@ -37,14 +37,14 @@ recette_details:
     - Petit-dejeuner
 recette_qty: "Pour une personne"
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT10M"
+  - schema_id: "prepTime"
+    schema_value: "PT10M"
     label: "Préparation"
     duration: "10 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "60 minutes"
-    schemaValue: "PT60M"
+    schema_value: "PT60M"
 recette_ingredients:
   - label: "**Pour le porridge**"
     value :

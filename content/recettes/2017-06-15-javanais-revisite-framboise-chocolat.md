@@ -37,8 +37,8 @@ recette_details:
 recette_qty:
   - Pour 1 Javanais de 8 personnes environ
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT1H"
+  - schema_id: "prepTime"
+    schema_value: "PT1H"
     label: "Préparation"
     duration: "1 heure"
 recette_ingredients:

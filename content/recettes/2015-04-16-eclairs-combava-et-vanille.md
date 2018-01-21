@@ -44,14 +44,14 @@ recette_details:
     - Pique-nique
 recette_qty: "Pour 12 éclairs"
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT30M"
+  - schema_id: "prepTime"
+    schema_value: "PT30M"
     label: "Préparation"
     duration: "30 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "1 heure 10 minutes"
-    schemaValue: "PT1H10M"
+    schema_value: "PT1H10M"
 recette_ingredients:
   - label: "**Pour la pâte à choux:**"
     value:

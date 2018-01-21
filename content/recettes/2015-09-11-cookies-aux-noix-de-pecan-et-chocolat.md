@@ -40,14 +40,14 @@ recette_details:
     - Fêtes de fin d'année
 recette_qty: "Pour 25 cookies environ"
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT20M"
+  - schema_id: "prepTime"
+    schema_value: "PT20M"
     label: "Préparation"
     duration: "20 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "12 minutes"
-    schemaValue: "PT12M"
+    schema_value: "PT12M"
 recette_ingredients:
   - value:
       - 260g de farine

@@ -39,14 +39,14 @@ recette_details:
 recette_qty:
   - Pour 6/8 personnes
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT15M"
+  - schema_id: "prepTime"
+    schema_value: "PT15M"
     label: "Préparation"
     duration: "15 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "3 heures"
-    schemaValue: "PT3H"
+    schema_value: "PT3H"
 recette_ingredients:
   - value:
       - 300g de purée de betterave

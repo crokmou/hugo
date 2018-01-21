@@ -41,18 +41,18 @@ recette_details:
 recette_qty:
   - Pour une quinzaine de pancakes
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT10M"
+  - schema_id: "prepTime"
+    schema_value: "PT10M"
     label: "Préparation"
     duration: "10 minutes"
-  - schemaId: "performTime"
+  - schema_id: "performTime"
     label: "Pose"
     duration: "30 minutes"
-    schemaValue: "PT30M"
-  - schemaId: "cookTime"
+    schema_value: "PT30M"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "3 minutes"
-    schemaValue: "PT3M"
+    schema_value: "PT3M"
 recette_ingredients:
   - value :
       - 250g de farine

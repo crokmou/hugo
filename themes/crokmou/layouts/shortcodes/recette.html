@@ -24,11 +24,20 @@
     </div>
   </header>
   <div class="recette__duration flex-12">
+    <ul>
+      {{ with.Page.Params.recette_qty }}
+      <li>
+        <strong>Portion :</strong>
+        <meta itemprop="recipeYield" content="{{.}}">
+        {{.}}
+      </li>
+      {{end}}
+    </ul>
     <ul class="flex">
       {{ range $value := .Page.Params.recette_temps }}
         <li>
           <strong>{{$value.label}}:</strong>
-          <meta itemprop="{{$value.schemaId}}" content="{{$value.schemaValue}}">
+          <meta itemprop="{{$value.schema_id}}" content="{{$value.schema_value}}">
           {{$value.duration}}
         </li>
       {{end}}
@@ -39,7 +48,7 @@
     {{ range $value := .Page.Params.recette_ingredients }}
     <ul>
       <li>
-        {{with $value.label}}<strong itemprop="recipeYield">{{ . | markdownify }}</strong>{{end}}
+        {{with $value.label}}<strong>{{ . | markdownify }}</strong>{{end}}
         <ul>
           {{range $value := $value.value}}
             <li itemprop="recipeIngredient">{{$value | markdownify}}</li>

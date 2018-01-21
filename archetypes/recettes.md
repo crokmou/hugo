@@ -22,18 +22,18 @@ recette_details:
     - Saint-Nicolas
 recette_qty: "Pour 4 personnes"
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT30M"
+  - schema_id: "prepTime"
+    schema_value: "PT30M"
     label: "Préparation"
     duration: "30 minutes"
-  - schemaId: "performTime"
+  - schema_id: "performTime"
     label: "Pose"
     duration: "2 heures"
-    schemaValue: "PT2H"
-  - schemaId: "cookTime"
+    schema_value: "PT2H"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "30 minutes"
-    schemaValue: "PT30M"
+    schema_value: "PT30M"
 recette_ingredients:
   - label: "Première partie",
     value:

@@ -38,18 +38,18 @@ recette_details:
 recette_qty:
   - Pour 2 personnes
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT10M"
+  - schema_id: "prepTime"
+    schema_value: "PT10M"
     label: "Préparation"
     duration: "10 minutes"
-  - schemaId: "performTime"
+  - schema_id: "performTime"
     label: "Pose"
     duration: "4 heures"
-    schemaValue: "PT4H"
-  - schemaId: "cookTime"
+    schema_value: "PT4H"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "30 minutes"
-    schemaValue: "PT30M"
+    schema_value: "PT30M"
 recette_ingredients:
   - value:
       - 300g de saumon frais

@@ -50,18 +50,18 @@ recette_details:
 recette_qty:
   - Pour une quinzaine de crêpes
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT15M"
+  - schema_id: "prepTime"
+    schema_value: "PT15M"
     label: "Préparation"
     duration: "15 minutes"
-  - schemaId: "performTime"
+  - schema_id: "performTime"
     label: "Pose"
     duration: "24 heures"
-    schemaValue: "P1D"
-  - schemaId: "cookTime"
+    schema_value: "P1D"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "3 minutes"
-    schemaValue: "PT3M"
+    schema_value: "PT3M"
 recette_ingredients:
   - value:
       - 200 g de farine de blé T65

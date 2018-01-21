@@ -40,14 +40,14 @@ recette_details:
     - En famille
 recette_qty: "Pour 4/6 verrines (selon la gourmandise)"
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT30M"
+  - schema_id: "prepTime"
+    schema_value: "PT30M"
     label: "Préparation"
     duration: "30 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "20 minutes"
-    schemaValue: "PT20M"
+    schema_value: "PT20M"
 recette_ingredients:
   - label: "**Pour la mousse légère :**"
     value:

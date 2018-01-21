@@ -39,14 +39,14 @@ recette_details:
     - Pique-nique
 recette_qty: "Pour 6/8 personnes"
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT15M"
+  - schema_id: "prepTime"
+    schema_value: "PT15M"
     label: "Préparation"
     duration: "15 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "1 heure 15 minutes"
-    schemaValue: "PT1H15M"
+    schema_value: "PT1H15M"
 recette_ingredients:
   - value:
       - 150g de farine

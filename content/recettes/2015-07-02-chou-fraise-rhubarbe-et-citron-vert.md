@@ -43,14 +43,14 @@ recette_details:
     - En couple
 recette_qty: "Pour 4/5 gros choux"
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT60M"
+  - schema_id: "prepTime"
+    schema_value: "PT60M"
     label: "Préparation"
     duration: "60 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "45 minutes"
-    schemaValue: "PT45M"
+    schema_value: "PT45M"
 recette_ingredients:
   - label: "**Pour le craquelin:**"
     value:

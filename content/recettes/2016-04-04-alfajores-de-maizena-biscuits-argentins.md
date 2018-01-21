@@ -37,18 +37,18 @@ recette_details:
 recette_qty:
   - Pour 20/25 biscuits
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT10M"
+  - schema_id: "prepTime"
+    schema_value: "PT10M"
     label: "Préparation"
     duration: "10 minutes"
-  - schemaId: "performTime"
+  - schema_id: "performTime"
     label: "Pose"
     duration: "21 heures"
-    schemaValue: "PT1H"
-  - schemaId: "cookTime"
+    schema_value: "PT1H"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "5 minutes"
-    schemaValue: "PT5M"
+    schema_value: "PT5M"
 recette_ingredients:
   - value:
       - 100 g de beurre

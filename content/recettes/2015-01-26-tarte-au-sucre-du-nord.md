@@ -35,18 +35,18 @@ recette_details:
     - En famille
 recette_qty: "Pour 6 tartelettes de 90g environ"
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT20M"
+  - schema_id: "prepTime"
+    schema_value: "PT20M"
     label: "Préparation"
     duration: "20 minutes"
-  - schemaId: "performTime"
+  - schema_id: "performTime"
     label: "Pose"
     duration: "1 heure"
-    schemaValue: "PT1H"
-  - schemaId: "cookTime"
+    schema_value: "PT1H"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "12 minutes"
-    schemaValue: "PT12M"
+    schema_value: "PT12M"
 recette_ingredients:
   - label: "**Pour la pâte à brioches :**"
     value:

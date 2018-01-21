@@ -39,18 +39,18 @@ recette_details:
     - Pique-nique
 recette_qty: "Pour 4/6 personnes"
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT30M"
+  - schema_id: "prepTime"
+    schema_value: "PT30M"
     label: "Préparation"
     duration: "30 minutes"
-  - schemaId: "performTime"
+  - schema_id: "performTime"
     label: "Pose"
     duration: "2 heures"
-    schemaValue: "PT2H"
-  - schemaId: "cookTime"
+    schema_value: "PT2H"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "25 minutes"
-    schemaValue: "PT25M"
+    schema_value: "PT25M"
 recette_ingredients:
   - label: "**Pour la pâte à tarte (Bourgeoise)**"
     value:

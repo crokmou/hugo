@@ -41,14 +41,14 @@ recette_details:
     - En famille
 recette_qty: "Pour 2/3 personnes"
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT20M"
+  - schema_id: "prepTime"
+    schema_value: "PT20M"
     label: "Préparation"
     duration: "20 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "40 minutes"
-    schemaValue: "PT40M"
+    schema_value: "PT40M"
 recette_ingredients:
   - value:
       - 150g de lentilles corail

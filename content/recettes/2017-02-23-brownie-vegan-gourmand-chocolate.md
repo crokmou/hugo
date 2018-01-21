@@ -51,14 +51,14 @@ recette_details:
 recette_qty:
   - Pour 6/8 personnes
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT10M"
+  - schema_id: "prepTime"
+    schema_value: "PT10M"
     label: "Préparation"
     duration: "10 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "35 minutes"
-    schemaValue: "PT35M"
+    schema_value: "PT35M"
 recette_ingredients:
   - value:
       - 140g de [chocolat noir Inaya](http://generationcooking.com/chocolat-de-couvertures-de-grandes-origines/3232-chocolat-noir-65-inaya-1-kg.html)

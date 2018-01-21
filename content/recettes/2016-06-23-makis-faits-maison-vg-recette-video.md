@@ -44,14 +44,14 @@ recette_details:
 recette_qty:
   - Pour 30 makis environ
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT30M"
+  - schema_id: "prepTime"
+    schema_value: "PT30M"
     label: "Préparation"
     duration: "30 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "12 minutes"
-    schemaValue: "PT12M"
+    schema_value: "PT12M"
 recette_ingredients:
   - value:
       - 200g de riz à sushis

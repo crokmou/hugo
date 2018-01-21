@@ -39,14 +39,14 @@ recette_details:
 recette_qty:
   - "Pour 4 verrines de mousse au chocolat à l'aquafaba"
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT10M"
+  - schema_id: "prepTime"
+    schema_value: "PT10M"
     label: "Préparation"
     duration: "10 minutes"
-  - schemaId: "performTime"
+  - schema_id: "performTime"
     label: "Pause"
     duration: "3 heures"
-    schemaValue: "PT3H"
+    schema_value: "PT3H"
 recette_ingredients:
   - label: ""
     value:

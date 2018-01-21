@@ -37,14 +37,14 @@ recette_details:
 recette_qty:
   - Pour 8 moulins environ
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT10M"
+  - schema_id: "prepTime"
+    schema_value: "PT10M"
     label: "Préparation"
     duration: "10 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "17 minutes"
-    schemaValue: "PT17M"
+    schema_value: "PT17M"
 recette_ingredients:
   - label: ""
     value:

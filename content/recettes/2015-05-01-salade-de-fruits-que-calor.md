@@ -43,14 +43,14 @@ recette_details:
     - Pique-nique
 recette_qty: "Pour 4 personnes"
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT15M"
+  - schema_id: "prepTime"
+    schema_value: "PT15M"
     label: "Préparation"
     duration: "15 minutes"
-  - schemaId: "performTime"
+  - schema_id: "performTime"
     label: "Pose"
     duration: "2 heures"
-    schemaValue: "PT2H"
+    schema_value: "PT2H"
 recette_ingredients:
   - value:
       - 20 fraises Belges

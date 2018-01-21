@@ -41,18 +41,18 @@ recette_details:
 recette_qty:
   - "Pour un pain d'environ 600g"
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT10M"
+  - schema_id: "prepTime"
+    schema_value: "PT10M"
     label: "Préparation"
     duration: "10 minutes"
-  - schemaId: "performTime"
+  - schema_id: "performTime"
     label: "Pose"
     duration: "4 jours"
-    schemaValue: "P4D"
-  - schemaId: "cookTime"
+    schema_value: "P4D"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "45 minutes"
-    schemaValue: "PT45M"
+    schema_value: "PT45M"
 recette_ingredients:
   - value:
       - 430g de farine T45/55 (si vraiment pas le choix 65)

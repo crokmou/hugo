@@ -39,18 +39,18 @@ recette_details:
 recette_qty:
   - Pour 1 tarte de 6/8 personnes
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT40M"
+  - schema_id: "prepTime"
+    schema_value: "PT40M"
     label: "Préparation"
     duration: "40 minutes"
-  - schemaId: "performTime"
+  - schema_id: "performTime"
     label: "Pose"
     duration: "24 heures"
-    schemaValue: "P1D"
-  - schemaId: "cookTime"
+    schema_value: "P1D"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "35 minutes"
-    schemaValue: "PT35M"
+    schema_value: "PT35M"
 recette_ingredients:
   - label: "**Pour la pâte à tarte levée**"
     value:

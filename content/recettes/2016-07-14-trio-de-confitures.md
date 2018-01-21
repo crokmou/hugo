@@ -49,18 +49,18 @@ recette_details:
 recette_qty:
   - Pour 2/3 pots de confitures
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT10M"
+  - schema_id: "prepTime"
+    schema_value: "PT10M"
     label: "Préparation"
     duration: "15 minutes"
-  - schemaId: "performTime"
+  - schema_id: "performTime"
     label: "Pause"
     duration: "4 heures"
-    schemaValue: "PT4H"
-  - schemaId: "cookTime"
+    schema_value: "PT4H"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "20 minutes"
-    schemaValue: "PT20M"
+    schema_value: "PT20M"
 recette_ingredients:
   - label: "**Pour la confiture abricot/fleur d'oranger**"
     value:

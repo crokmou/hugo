@@ -44,18 +44,18 @@ recette_details:
     - Fêtes de fin d'année
 recette_qty: "Pour un pain au levain, matcha et cranberries"
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT15M"
+  - schema_id: "prepTime"
+    schema_value: "PT15M"
     label: "Préparation"
     duration: "15 minutes"
-  - schemaId: "performTime"
+  - schema_id: "performTime"
     label: "Pose"
     duration: "32 heures"
-    schemaValue: "PT32H"
-  - schemaId: "cookTime"
+    schema_value: "PT32H"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "40 minutes"
-    schemaValue: "PT40M"
+    schema_value: "PT40M"
 recette_ingredients:
   - value:
       - 190g de farine T45 ou T65

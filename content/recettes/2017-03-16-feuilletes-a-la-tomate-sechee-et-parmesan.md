@@ -39,14 +39,14 @@ recette_details:
 recette_qty:
   - Pour une vingtaine de feuilletés
 recette_temps:
-  - schemaId: "prepTime"
-    schemaValue: "PT10M"
+  - schema_id: "prepTime"
+    schema_value: "PT10M"
     label: "Préparation"
     duration: "10 minutes"
-  - schemaId: "cookTime"
+  - schema_id: "cookTime"
     label: "Cuisson"
     duration: "15 minutes"
-    schemaValue: "PT15M"
+    schema_value: "PT15M"
 recette_ingredients:
   - value:
       - 250g de [pâte feuilletée](https://crokmou.com/2014/12/pate-feuilletee-inversee-de-pierre-herme)
