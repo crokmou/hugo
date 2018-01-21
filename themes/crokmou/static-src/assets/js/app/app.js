@@ -13,8 +13,6 @@ $(document).ready(function() {
     LazyLoad();
     Single();
     ResizeVideos();
-    initFbComment();
-    parsePinButtons();
 
     function Nav() {
       const $window = $(window);
@@ -125,7 +123,14 @@ $(document).ready(function() {
         }
       })()
     }
-    return {init: App};
+    return {
+      init: App,
+      update: () => {
+        App();
+        initFbComment();
+        parsePinButtons();
+      }
+    };
   })();
 
   function Algolia() {
@@ -453,7 +458,7 @@ $(document).ready(function() {
               $bodyHtml.scrollTop($('[rel="header"] + *').offset().top - 60);
             }
             clearWindowsEvent();
-            App.init();
+            App.update();
             analytics(res, state.title);
           });
         });
