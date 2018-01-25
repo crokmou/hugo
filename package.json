@@ -18,7 +18,7 @@
     "postsass:build": "postcss './themes/crokmou/static/assets/**/*.css' --use autoprefixer -b 'last 2 versions' -d './themes/crokmou/static/assets/'",
     "img:build": "cp -R ./themes/crokmou/static-src/assets/images ./themes/crokmou/static/assets/images",
     "manifest:build": "cp -R ./themes/crokmou/static-src/assets/manifest.json ./themes/crokmou/static/assets/manifest.json",
-    "statics:build": "cp ./{robots.txt} ./themes/crokmou/static/",
+    "statics:build": "cp ./robots.txt ./themes/crokmou/static/ && cp ./CNAME ./themes/crokmou/static/",
     "build": "npm run clean && mkdir -p ./themes/crokmou/static/assets/ && npm run sass:build && npm run babel:build && npm run img:build && npm run manifest:build && npm run statics:build",
     "postbuild": "hugo && npm run htmlmin && npm run precache",
     "precache": "sw-precache --config=sw-precache-config.js --verbose",
