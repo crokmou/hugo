@@ -3,9 +3,12 @@ date: "2016-08-10T16:37:22+02:00"
 title: "Bloempot, cantine flamande"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/restaurant-bloempot-cantine-flamande-lille-crokmou-blog-culinaire-8.jpg"
 categories:
-  - "Lifestyle"
+  - "Cantine bistronomique"
 tags:
-  - "Restaurant"
+  - "Lille"
+  - "France"
+  - "Ladeyn"
+  - "Terroir"
 description: "Je ne vais pas y aller par quatre chemins, le Bloempot, c'est ma révélation de l'année ! En Juin dernier, j'ai fais un aller-retour à Lille..."
 slug: "bloempot-cantine-flamande"
 ---

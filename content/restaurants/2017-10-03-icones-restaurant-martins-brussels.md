@@ -3,10 +3,13 @@ date: "2017-10-03T17:28:24+02:00"
 title: "Icones, le restaurant du Martin's Brussels EU"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/hotel-martins-brussels-eu-bruxelles-belgique-crokmou-blog-belge-cuisine-voyage-02.jpg"
 categories:
-  - "Lifestyle"
+  - "Restaurant Belge - Lounge Bar"
 tags:
-  - "Voyage"
-description: ""
+  - "Belge"
+  - "Bruxelles"
+  - "Belgique"
+  - "Végétarien"
+description: "Au début du mois de Septembre, mon Hom et moi même, avons été invité à découvrir **Icones, le restaurant du Martin's Brussels EU**."
 slug: "icones-restaurant-martins-brussels"
 ---
 

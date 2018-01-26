@@ -3,9 +3,12 @@ date: "2015-07-11T17:41:32+02:00"
 title: "Stekerlapatte brasserie Belge"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/stekerlapatte-brasserie-belge-crokmou-blog-1.jpg"
 categories:
-  - "Lifestyle"
+  - "Brasserie Belge"
 tags:
-  - "Restaurant"
+  - "Restaurant typique"
+  - "Belge"
+  - "Belgique"
+  - "Cuisine"
 description: "J'ai fais la découverte de ce restaurant : le Stekerlapatte brasserie Belge depuis 1976... cet établissement est très connu du quartier des Marolles..."
 slug: "stekerlapatte-brasserie-belge-bruxelles"
 ---

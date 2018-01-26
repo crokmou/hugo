@@ -3,9 +3,13 @@ date: "2017-09-12T18:19:26+02:00"
 title: "San bol, une expérience culinaire unique à Bruxelles"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/restaurant-san-bol-bruxelles-menu-vegan-belgique-crokmou-blog-belge-cuisine-voyage-17.jpg"
 categories:
-  - "Lifestyle"
+  - "Restaurant Bistronomique"
 tags:
-  - "Restaurant"
+  - "Belge"
+  - "Bruxelles"
+  - "Belgique"
+  - "Végan"
+  - "Sang Hoon Degeimbre"
 description: "San Bol, un restaurant un peu particulier, une adresse où je rêvais de mettre les pieds ! J'ai toujours admiré le travail de Sang Hoon Degeimbre..."
 slug: "san-bol-experience-culinaire-vegan-bruxelles"
 ---

@@ -3,9 +3,11 @@ date: "2016-09-20T15:44:46+02:00"
 title: "Maxime Colin, une cuisine d'exception en Belgique !"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/restaurant-maxime-colin-belgique-kraainem-crokmou-blog-culinaire-14.jpg"
 categories:
-  - "Lifestyle"
+  - "Restaurant Gastronomique"
 tags:
-  - "Restaurant"
+  - "Belge"
+  - "Belgique"
+  - "Gastronomique"
 description: "Je reconnais toute suite la différence entre cuisine et Cuisine : chez Maxime Colin cette particularité prend tout son sens..."
 slug: "maxime-colin-cuisine-dexception"
 ---
