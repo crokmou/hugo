@@ -14,6 +14,16 @@
         <h3 class="related__article__title">{{ .Title }}</h3>
       </a>
     {{ end }}
+  {{ else }}
+    {{ range first 3 (where (where (where .Site.Pages "Section" "eq" .Section) "Permalink" "!=" .Permalink) "Title" "!=" "") | shuffle }}
+    <a class="related__article flex-12 flex-med-4"
+       href="{{ .RelPermalink }}" rel="xhr">
+      <header>
+        {{ partial "molecules/picture.html" (dict "src" .Params.thumbnail "alt" .Title "pb" "59.9%") }}
+      </header>
+      <h3 class="related__article__title">{{ .Title }}</h3>
+    </a>
+    {{ end }}
   {{ end }}
   </main>
 </aside>

@@ -6,9 +6,7 @@
   "scripts": {
     "critical": "node ./_scripts/critical.js",
     "getSize": "node ./_scripts/getSize.js",
-    "test": "parallelshell 'npm run lint:js' &> lint",
     "lint:js": "eslint ./themes/crokmou/static-src/assets/js/app",
-    "help": "npm run remark --help",
     "fix-lint": "eslint ./themes/crokmou/static-src/assets/js/app/** --fix",
     "clean": "rm -rf ./themes/crokmou/static ./public",
     "babel:build": "babel ./themes/crokmou/static-src/assets/js --out-file ./themes/crokmou/static/assets/app.js --source-maps",

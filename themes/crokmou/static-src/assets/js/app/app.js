@@ -94,22 +94,6 @@ $(document).ready(function() {
       $(window).scroll(cb).scroll();
     }
 
-    function initFbComment() {
-      let tries = 0;
-      (function tryLoadingFacebook() {
-        if(tries > 30 && (!window.FB || typeof FB !== 'object')) {
-          $('body').addClass('facebook-error');
-        } else {
-          try {
-            FB.XFBML.parse();
-          } catch(e) {
-            tries++;
-            setTimeout(tryLoadingFacebook, 100)
-          }
-        }
-      }());
-    }
-
     function parsePinButtons() {
       let tries = 0;
       (function tryParse() {
@@ -127,7 +111,6 @@ $(document).ready(function() {
       init: App,
       update: () => {
         App();
-        initFbComment();
         parsePinButtons();
       }
     };
