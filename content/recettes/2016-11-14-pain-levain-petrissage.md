@@ -5,15 +5,10 @@ thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/pain-levain-sans-petri
 categories:
   - "Boulangerie"
 tags:
-  - "Eau"
-  - "Farine"
   - "Levain"
   - "Pain"
   - "Sans pétrissage"
-  - "Sel"
-  - "Vegan"
-  - "Vegetalien"
-  - "Vegetarien"
+  - "Boulange"
 description: "Il y a une ou deux semaines j'avais posté sur la page Facebook du blog une recette de pain un peu particulière : réaliser un pain au levain sans pétrissage."
 recette_details:
   - Catégorie:
