@@ -3,9 +3,12 @@ date: "2017-07-11T18:05:47+02:00"
 title: "Good Hotel London, favoriser la communauté locale."
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/good-hotel-londres-london-crokmou-blog-cuisine-voyage-belgique-5.jpg"
 categories:
-  - "Lifestyle"
+  - "Hôtel"
 tags:
-  - "Voyage"
+  - "Londres"
+  - "Angleterre"
+  - "Éthique"
+  - "Local"
 description: "Trouver un hôtel pas cher en dernière minute à Londres, c'est vraiment galère ! Notre choix s'est porté sur le Good Hotel London..."
 slug: "good-hotel-london-londres"
 ---
