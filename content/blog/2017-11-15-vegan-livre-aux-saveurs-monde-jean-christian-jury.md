@@ -3,9 +3,12 @@ date: "2017-11-15T18:27:11+01:00"
 title: "Végan, un livre aux saveurs du Monde par Jean-Christian Jury"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.8/i/livre-vegan-jean-christian-jury-phaidon-crokmou-blog-belge-cuisine-voyage-01.jpg"
 categories:
-  - "Lifestyle"
-tags:
-description: ""
+  - "Shopping"
+tags :
+  - "Test produit"
+  - "Partenariat"
+  - "Livre"
+description: "Aujourd'hui je vais  te présenter un livre qui rend ma vie plus facile depuis deux semaines : **Végan par Jean-Christian Jury**."
 slug: "vegan-livre-aux-saveurs-monde-jean-christian-jury"
 ---
 

@@ -3,9 +3,11 @@ date: "2016-09-01T14:54:47+02:00"
 title: "Vêtements de travail - Laveste2cuisine.fr"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/partenariat-laveste2cuisine-crokmou-blog-culinaire-01.jpg"
 categories:
-  - "Lifestyle"
-tags:
   - "Shopping"
+tags:
+  - "Partenariat"
+  - "Vêtement de travail"
+  - "Pâtisserie"
 description: "Travailler avec des vêtements dans lesquels on se sent bien, c'est important ! Qui plus est dans le domaine de la restauration ... Laveste2cuisine ..."
 slug: "vetements-de-travail-laveste2cuisine-fr"
 ---

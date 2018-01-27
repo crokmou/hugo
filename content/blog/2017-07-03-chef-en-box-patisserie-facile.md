@@ -3,9 +3,11 @@ date: "2017-07-03T16:16:39+02:00"
 title: "J'ai testé le Chef en box, la pâtisserie facile !"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/chef-en-box-patisserie-pavlova-fraise-crokmou-blog-cuisine-voyage-belgique-1.jpg"
 categories:
-  - "Lifestyle"
-tags:
   - "Shopping"
+tags:
+  - "Partenariat"
+  - "Patisserie"
+  - "Box"
 description: "Il y a quelques jours j'ai testé une nouvelle box de pâtisserie nommée le Chef en box. Il y a quelques mois, Anaïs pâtissière et créatrice de la box..."
 slug: "chef-en-box-patisserie-facile"
 ---

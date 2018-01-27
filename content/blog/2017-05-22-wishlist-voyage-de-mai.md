@@ -3,9 +3,9 @@ date: "2017-05-22T17:30:22+02:00"
 title: "Wishlist de Mai - Et si on voyageait ?"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/citytrip-andorre-andorra-crokmou-blog-cuisine-voyage-belgique-11.jpg"
 categories:
-  - "Lifestyle"
-tags:
   - "Shopping"
+tags:
+  - "Wishlist"
 description: "Il y a un petit bout de temps maintenant que je ne vous avais pas proposé de petite wishlist. Comme vous l'avez certainement remarqué, le blog change..."
 slug: "wishlist-voyage-de-mai"
 ---

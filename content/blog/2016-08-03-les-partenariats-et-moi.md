@@ -3,9 +3,10 @@ date: "2016-08-03T15:46:24+02:00"
 title: "Lumière sur... les partenariats"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/ExtremeIncantations.png"
 categories:
-  - "Lifestyle"
+  - "Humeur"
 tags:
   - "Aide au blogging"
+  - "Partenariat"
 description: "Bonjour mes petits moldus ! Je vous avais déjà un peu parlé de la magie des partenariats il y a quelques temps avec l'article \"Un blog c'est aussi...\""
 slug: "les-partenariats-et-moi"
 ---

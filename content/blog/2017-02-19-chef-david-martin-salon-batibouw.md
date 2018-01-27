@@ -3,9 +3,11 @@ date: "2017-02-19T19:36:42+01:00"
 title: "Le Chef David Martin au salon Batibouw"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/chef-david-martin-la-paix-batibouw-Bauknecht-2017-1.jpg"
 categories:
-  - "Lifestyle"
+  - "Découverte"
 tags:
-  - "Shopping"
+  - "Chef"
+  - "batibouw"
+  - "Bruxelles"
 description: ""
 slug: "chef-david-martin-salon-batibouw"
 ---

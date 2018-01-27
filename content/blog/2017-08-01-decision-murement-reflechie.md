@@ -3,7 +3,7 @@ date: "2017-08-01T19:57:20+02:00"
 title: "Une décision mûrement réfléchie"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/background-1516231_1280.jpg"
 categories:
-  - "Lifestyle"
+  - "Humeur"
 tags:
   - "Aide au blogging"
 description: ""
