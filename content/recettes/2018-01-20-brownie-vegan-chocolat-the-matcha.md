@@ -1,6 +1,6 @@
 ---
 title: "Brownie Vegan Chocolat the Matcha"
-date: 2018-01-20T18:11:28+01:00
+date: "2018-01-20T18:11:28+01:00"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.12/i/recette-brownie-chocolat-matcha-vegan-vegetalien-crokmou-blog-belge-cuisine-voyage-.gif"
 categories:
   - "Desserts"

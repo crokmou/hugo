@@ -6,7 +6,7 @@ Pour démarrer le projet:
 - Ouvrir le terminal
 - Ouvrir github-desktop
 - Fetch les modifications depuis github-desktop
-- $ `cd && cd Documents/Crokmou/Blog/ && npm run serve`
+- $ `cd && cd Documents/Crokmou/Blog/ && npm run dev`
 - Ouvrir `localhost:1313` dans chrome
 
 Pour mettre à jour une modification:
@@ -20,7 +20,7 @@ Pour mettre à jour une modification:
 - Kill le server avec `ctrl + c`
 - Ajoute l'image dans le dossier i du repo images
 - Ensuite, l'url ressemblera à: `https://cdn.rawgit.com/crokmou/images/1.0.7/i/nom_de_l_image.jpg` pour uliser la bonne version, il faut remplacer `1.0.7` par `GIT_TAG` et la commande de build s'occupera de remplacer par le bon tag (ex: `https://cdn.rawgit.com/crokmou/images/GIT_TAG/i/nom_de_l_image.jpg`.
-- Lancer `npm run updateImage && npm run serve`
+- Lancer `npm run updateImage && npm run dev`
 
 ### Dans le contenu d'un article
  `{{< img src="URL_IMAGE" alt="EXPLICATION DE L'IMAGE" >}}`
