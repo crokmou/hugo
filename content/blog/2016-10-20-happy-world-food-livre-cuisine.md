@@ -3,9 +3,11 @@ date: "2016-10-20T18:21:28+02:00"
 title: "Happy World Food - Le livre qui te donne envie de voyager !"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/livre-happy-world-food-anne-coppin-crokmou-blog-culinaire-01.jpg"
 categories:
-  - "Lifestyle"
-tags:
   - "Shopping"
+tags:
+  - "Livre"
+  - "Cuisine"
+  - "Partenariat"
 description: "Aujourd'hui, un nouveau livre sur la cuisine du monde fait son apparition dans les librairies : Happy World Food, le premier livre d'Anne Coppin..."
 slug: "happy-world-food-livre-cuisine"
 ---

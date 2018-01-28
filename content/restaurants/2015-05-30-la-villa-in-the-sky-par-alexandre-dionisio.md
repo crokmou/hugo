@@ -3,9 +3,13 @@ date: "2015-05-30T15:13:56+02:00"
 title: "La Villa in the Sky par Alexandre Dionisio"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/lunch-la-villa-in-the-sky-brussels-crokmou-blog-culinaire-8.jpg"
 categories:
-  - "Lifestyle"
+  - "Restaurant Gastronomique Étoilé"
 tags:
-  - "Restaurant"
+  - "Belge"
+  - "Belgique"
+  - "Étoilé"
+  - "Bruxelles"
+  - "Gastronomique"
 description: "Qui n'a pas un jour rêvé d'assister à une expérience culinaire étoilée à plus de 120m de haut ? C'est à Bruxelles que se dresse \"La Villa in the sky\"."
 slug: "la-villa-in-the-sky-par-alexandre-dionisio"
 ---

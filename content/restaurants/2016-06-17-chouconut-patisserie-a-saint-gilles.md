@@ -3,10 +3,13 @@ date: "2016-06-17T18:10:18+02:00"
 title: "Chouconut, pâtisserie à Saint-Gilles"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/chouconut-bruxelles-crokmou-blog-culinaire-3.jpg"
 categories:
-  - "Lifestyle"
+  - "Pâtisserie spécialisée"
 tags:
-  - "Restaurant"
-description: ""
+  - "Belge"
+  - "Belgique"
+  - "Bruxelles"
+  - "Chou"
+description: "Une petite note sur cette adorable adresse de Saint-Gilles était à faire : Chouconut c'est une pâtisserie dédiée aux choux, aux cookies et aux donuts"
 slug: "chouconut-patisserie-a-saint-gilles"
 ---
 

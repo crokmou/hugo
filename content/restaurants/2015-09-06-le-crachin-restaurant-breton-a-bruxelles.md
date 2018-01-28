@@ -3,9 +3,13 @@ date: "2015-09-06T14:05:40+02:00"
 title: "Le crachin, restaurant Breton à Bruxelles"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/le-crachin-restaurant-breton-bruxelles-crokmou-blog-culinaire-1.jpg"
 categories:
-  - "Lifestyle"
+  - "Crêperie Bretonne"
 tags:
-  - "Restaurant"
+  - "Restaurant Breton"
+  - "Crêpes"
+  - "Végétarien"
+  - "Bruxelles"
+  - "Belgique"
 description: "Le Crachin, restaurant Breton à Bruxelles est un endroit tout petit, cosy, où on s'entend parler et dans lequel on y mange bien !"
 slug: "le-crachin-restaurant-breton-a-bruxelles"
 ---

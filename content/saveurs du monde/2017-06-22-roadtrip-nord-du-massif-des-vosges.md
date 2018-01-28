@@ -3,9 +3,11 @@ date: "2017-06-22T19:15:33+02:00"
 title: "Un joli roadtrip dans le Nord du Massif des Vosges"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/voyage-nord-massif-vosges-france-chateau-schœneck-crokmou-blog-cuisine-voyage-belgique-10.jpg"
 categories:
-  - "Lifestyle"
+  - "Roadtrip"
 tags:
-  - "Voyage"
+  - "Vosges"
+  - "Massif des vosges"
+  - "France"
 description: "Un visite dans le Nord du Massif des Vosges, je n'y avais jamais pensé jusqu'à ce que l'on mon propose de faire un roadtrip dans ces contrées..."
 slug: "roadtrip-nord-du-massif-des-vosges"
 ---

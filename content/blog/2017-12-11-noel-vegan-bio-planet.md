@@ -3,7 +3,7 @@ date: "2017-12-11T17:42:54+01:00"
 title: "Un Noël vegan avec Bio Planet"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.8/i/BP_EOY_2017_INFLUENCER_SARAH_MENU_4_OVERZICHT.jpg"
 categories:
-  - "Plats"
+  - "Découverte"
 tags:
   - "Noel"
   - "Vegan"

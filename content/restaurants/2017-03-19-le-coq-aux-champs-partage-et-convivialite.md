@@ -3,9 +3,12 @@ date: "2017-03-19T20:14:44+01:00"
 title: "Le coq aux champs*, partage et convivialité"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/restaurant-gastronomique-le-coq-aux-champs-tinlot-belgique-crokmou-blog-cuisine-voyage-1.jpg"
 categories:
-  - "Lifestyle"
+  - "Restaurant Gastronomique Étoilé"
 tags:
-  - "Restaurant"
+  - "Belge"
+  - "Belgique"
+  - "Étoilé"
+  - "Gastronomique"
 description: "Le coq aux champs*, un restaurant étoilé où se mêle partage, convivialité et saveurs. Situé dans la province de Liège, non loin de Huy, la bâtisse..."
 slug: "le-coq-aux-champs-partage-et-convivialite"
 ---

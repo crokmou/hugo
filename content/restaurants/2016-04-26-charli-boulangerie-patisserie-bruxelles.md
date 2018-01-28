@@ -3,10 +3,14 @@ date: "2016-04-26T18:07:28+02:00"
 title: "Charli Boulangerie, que de bons produits"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/charli-boulangerie-bruxelles-crokmou-blog-culinaire-12.jpg"
 categories:
-  - "Lifestyle"
+  - "Boulangerie Française"
 tags:
-  - "Restaurant"
-description: "Discrète mais réputée il est difficile de passer devant l’enseigne sans s’arrêter tant les délices proposés vous feront de l’œil"
+  - "Boulangerie"
+  - "Pâtisserie"
+  - "Bruxelles"
+  - "Belgique"
+  - "Pain au levain"
+description: "Discrète mais réputée il est difficile de passer devant cette boulangerie Charli sans s’arrêter tant les délices proposés vous feront de l’œil"
 slug: "charli-boulangerie-patisserie-bruxelles"
 ---
 

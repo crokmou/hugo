@@ -3,9 +3,13 @@ date: "2017-02-12T20:46:42+01:00"
 title: "La villa in the sky** après la deuxième étoile - Alexandre Dionisio"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/restaurant-la-villa-in-the-sky-alexandre-dionisio-bruxelles-gastronomique-crokmou-blog-cuisine-voyage-belgique-18.jpg"
 categories:
-  - "Lifestyle"
+  - "Restaurant Gastronomique Étoilé"
 tags:
-  - "Restaurant"
+  - "Belge"
+  - "Belgique"
+  - "Étoilé"
+  - "Bruxelles"
+  - "Gastronomique"
 description: "Il y a quelques semaines, j'ai été invitée Feodora du blog Broccolicious, à déjeuner dans un des plus beau restaurant de Bruxelles : La villa in the sky**"
 slug: "villa-in-the-sky-apres-deuxieme-etoile-alexandre-dionisio"
 ---

@@ -3,9 +3,9 @@ date: "2016-06-06T10:00:03+02:00"
 title: "Thalys fête ses 20 ans avec le Cake Contest"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/H6A1766.jpg"
 categories:
-  - "Lifestyle"
+  - "Découverte"
 tags:
-  - "Evenement"
+  - "Évenement"
 description: ""
 slug: "thalys-fete-20-ans-cake-contest"
 ---

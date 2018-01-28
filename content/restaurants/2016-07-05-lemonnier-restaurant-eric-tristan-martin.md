@@ -3,9 +3,11 @@ date: "2016-07-05T17:18:53+02:00"
 title: "Lemonnier, Restaurant d'Eric & Tristan Martin"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/lemonnier-restaurant-belgique-crokmou-blog-culinaire-1.jpg"
 categories:
-  - "Lifestyle"
+  - "Restaurant Gastronomique"
 tags:
-  - "Restaurant"
+  - "Belge"
+  - "Belgique"
+  - "Gastronomique"
 description: "Se poser, profiter et découvrir, ce sont les trois mots qui me viennent à l'esprit lorsque l'on parle du Restaurant Lemonnier."
 slug: "lemonnier-restaurant-eric-tristan-martin"
 ---

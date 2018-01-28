@@ -3,10 +3,11 @@ date: "2017-01-21T19:01:50+01:00"
 title: "Photographie - Mon travail pour Kalios"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/packshot-kalios-fruits-secs-HD-TIFF.png"
 categories:
-  - "Lifestyle"
-tags:
   - "Aide au blogging"
-description: ""
+tags:
+  - "Travail"
+  - "Kalios"
+description: "Voilà plus de 3 ans que je travaille pour les producteurs d'huile d'olives <a href='http://mykalios.com/' rel='nofollow'>Kalios</a> ! 3 ans ce n'est pas rien, et j'avoue que j'aurais pu vous parler de tout cela bien plus tôt."
 slug: "photographie-travail-kalios"
 ---
 

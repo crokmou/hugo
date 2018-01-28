@@ -3,10 +3,12 @@ date: "2017-02-06T19:09:51+01:00"
 title: "Croque François - Restaurant à Lille"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/croque-francois-restaurant-lille-france-crokmou-blog-cuisine-voyage-belgique-4.jpg"
 categories:
-  - "Lifestyle"
+  - "Restaurant Snack"
 tags:
-  - "Restaurant"
-description: ""
+  - "Végétarien"
+  - "Lille"
+  - "France"
+description: "Laissez moi vous présenter un petit resto Lillois fort sympa : **Croque-François**. La spécialité ici ? Vous l'aurez deviné : **les croques** !"
 slug: "croque-francois-restaurant-a-lille"
 ---
 

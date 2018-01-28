@@ -6,6 +6,7 @@ categories:
   - "Humeur"
 tags:
   - "humeur"
+  - "2017"
 description: "Cette année 2017 fût riche en rebondissement de mon côté : du bon et du moins bon, comme n’importe qui je suppose !"
 slug: "2017-meilleur-depart-2018"
 ---

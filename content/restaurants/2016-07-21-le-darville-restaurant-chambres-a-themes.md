@@ -3,10 +3,11 @@ date: "2016-07-21T17:22:10+02:00"
 title: "Le D'Arville, Restaurant & Chambres à thèmes"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/le-d-arville-restaurant-belgique-crokmou-blog-culinaire-15.jpg"
 categories:
-  - "Lifestyle"
+  - "Restaurant Gastronomique"
 tags:
-  - "Restaurant"
-  - "Voyage"
+  - "Belge"
+  - "Belgique"
+  - "Gastronomique"
 description: "Un petit coin de Paradis en plein coeur de la province Namuroise, c'est ce que vous propose le restaurant le d'Arville et sa suite Barabas."
 slug: "le-darville-restaurant-chambres-a-themes"
 ---

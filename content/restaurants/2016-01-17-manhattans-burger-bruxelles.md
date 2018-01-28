@@ -3,9 +3,12 @@ date: "2016-01-17T16:36:19+01:00"
 title: "Manhattn's Burgers : New York à Bruxelles"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/manhattans-burger-bruxelles-crokmou-blog-culinaire.jpg"
 categories:
-  - "Lifestyle"
+  - "Restaurant Fast food"
 tags:
-  - "Restaurant"
+  - "Burger"
+  - "Hamburger"
+  - "Bruxelles"
+  - "Belgique"
 description: "Il y a quelques jours, j'ai été invitée par l'agence Sparkies à découvrir le restaurant Manhattan's Burger, fraîchement installé à côté de la Bourse... "
 slug: "manhattans-burger-bruxelles"
 ---

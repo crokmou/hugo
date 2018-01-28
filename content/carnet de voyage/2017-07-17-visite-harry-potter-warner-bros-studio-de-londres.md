@@ -3,9 +3,12 @@ date: "2017-07-17T18:27:21+02:00"
 title: "Visite au Harry Potter Warner Bros Studio de Londres"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/harry-potter-warner-bros-studio-londres-crokmou-blog-cuisine-voyage-belgique.jpg"
 categories:
-  - "Lifestyle"
+  - "Attraction"
 tags:
-  - "Voyage"
+  - "Londres"
+  - "Harry Potter"
+  - "Studio Warner Bros"
+  - "Angleterre"
 description: "La visite au Harry Potter Warner Bros Studio de Londres, des années que je voulais y aller. En Juin dernier, un de mes petits rêves s'est réalisé !"
 slug: "visite-harry-potter-warner-bros-studio-de-londres"
 ---

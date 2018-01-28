@@ -3,9 +3,11 @@ date: "2017-06-12T17:01:28+02:00"
 title: "La cŏcīna - Restaurant Italien à Bruxelles"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/restaurant-italien-bruxelles-la-cocina-crokmou-blog-cuisine-voyage-belgique-5.jpg"
 categories:
-  - "Lifestyle"
+  - "Trattoria"
 tags:
-  - "Restaurant"
+  - "Italien"
+  - "Bruxelles"
+  - "Belgique"
 description: "Les Italiens savent cuisiner la pasta comme personne ! C'est d'ailleurs pourquoi j'ai de suite était séduite par La Cŏcīna à Bruxelles."
 slug: "cocina-restaurant-italien-bruxelles"
 ---

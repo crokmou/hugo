@@ -3,10 +3,11 @@ date: "2017-04-03T18:50:22+02:00"
 title: "Blogueur dans un monde d'influenceurs."
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20120428_grand_projet_cube_bruxelles_centre_0128.jpg"
 categories:
-  - "Lifestyle"
-tags:
   - "Humeur"
-description: ""
+tags:
+  - "Influenceur"
+  - "Blogueur"
+description: "J'ai par habitude d'utiliser le 'vous' pour écrire mes articles, aujourd'hui je vais simplement dire tu. Parce que oui tu vois, autant être franche et te le dire : le monde du blogging m'étouffe complètement !"
 slug: "blogueur-monde-dinfluenceurs"
 ---
 

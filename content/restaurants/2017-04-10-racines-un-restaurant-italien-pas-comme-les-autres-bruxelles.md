@@ -3,9 +3,11 @@ date: "2017-04-10T17:40:39+02:00"
 title: "Racines, un restaurant Italien pas comme les autres - Bruxelles"
 thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/racines-restaurant-italien-bruxelles-crokmou-blog-cuisine-voyage-1-6.jpg"
 categories:
-  - "Lifestyle"
+  - "Restaurant Italien"
 tags:
-  - "Restaurant"
+  - "Italien"
+  - "Bruxelles"
+  - "Belgique"
 description: "Laissez moi vous présenter : Racines, mon restaurant coup de coeur de ce début d'année... une cuisine Italienne qui change de ce que l'on peut voir..."
 slug: "racines-un-restaurant-italien-pas-comme-les-autres-bruxelles"
 ---
