@@ -7,7 +7,7 @@ module.exports = {
     urlPattern: /^https:\/\/cdn.rawgit.com\/crokmou\/images\//,
     handler: 'fastest'
   }, {
-    urlPattern: /^https:\/\/www.crokmou.com\//,
+    urlPattern: /^https:\/\/crokmou.com\//,
     handler: 'networkFirst'
   }]
 };
