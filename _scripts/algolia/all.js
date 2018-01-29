@@ -78,10 +78,12 @@ fs.readdir(filesFolder, function(err, folder) {
                         if (err) {
                           throw new Error(err);
                         }
+                        console.log('Removed object: ' + JSON.stringify(deletedContent));
                         algolia.addObjects(addedContent, (err) => {
                           if (err) {
                             throw new Error(err);
                           }
+                          console.log('Added object: ' + JSON.stringify(addedContent));
                           const objectsToUpdate = [];
                           diff.observableDiff(oldContent, newContent,
                               function(d) {
@@ -97,6 +99,7 @@ fs.readdir(filesFolder, function(err, folder) {
                                 objectsToUpdate.push(diffItem);
                               });
                           if (objectsToUpdate.length) {
+                            console.log('Updated object: ' + JSON.stringify(objectsToUpdate));
                             algolia.saveObjects(objectsToUpdate);
                           }
                         });
