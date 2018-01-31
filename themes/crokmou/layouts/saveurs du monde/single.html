@@ -22,14 +22,7 @@
         <div class="title__next flex align-items-center justify-center">{{with .NextInSection}}{{.Title}}{{end}}</div>
       </h1>
     </header>
-    {{if .Params.thumbnail}}
-    <figure itemprop="associatedMedia" itemscope
-            itemtype="http://schema.org/ImageObject">
-      <a href="{{.Params.thumbnail}}" itemprop="contentUrl">
-        <img src="{{.Params.thumbnail}}" itemprop="thumbnail" alt="{{.Title}}"/>
-      </a>
-    </figure>
-    {{end}}
+    {{ partial "molecules/img.html" (dict "src" .Params.thumbnail "alt" .Title) }}
     {{ .Content }}
   </article>
   {{partial "organism/related.html" . }}

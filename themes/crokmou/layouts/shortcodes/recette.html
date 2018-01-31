@@ -5,7 +5,11 @@
     <div class="flex flex-wrap">
       <div class="flex-12 flex-sm-3">
         <picture class="picture">
-        	<img class="picture__item" src="{{.Page.Params.thumbnail}}">
+          {{$src := .Page.Params.thumbnail}}
+          {{$baseUrl := "https://images.crokmou.com/" }}
+          {{$replace := replaceRE "(https://images.crokmou.com/|https://cdn.rawgit.com/crokmou/images/.*/i/|/)(.*.(jpe?g|JPE?G|png|PNG|gif|GIF))" "$2" $src}}
+          {{$src := delimit (slice $baseUrl $replace) ""}}
+        	<img class="picture__item" src="{{$src}}">
         </picture>
         <a class="button button--with-icon button--wide" href="javascript:window.print()">Imprimer</a>
       </div>

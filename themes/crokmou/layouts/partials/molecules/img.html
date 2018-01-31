@@ -2,8 +2,11 @@
 {{$src := index . "src"}}
 {{$alt := index . "alt"}}
 {{$caption := index . "caption"}}
-{{$srcSvg := replace $src "/i/" "/svg/" }}
-{{$srcSvg := $srcSvg | replaceRE "(https://cdn.rawgit.com/crokmou/images/.*/svg/.*.)(jpe?g|JPE?G|png|PNG|gif|GIF)" "$1" }}
+{{$baseUrl := "https://images.crokmou.com/" }}
+{{$ext := replaceRE "(https://images.crokmou.com/|https://cdn.rawgit.com/crokmou/images/.*/i/|/).*.(jpe?g|JPE?G|png|PNG|gif|GIF)" "$2" $src}}
+{{$imageId := replaceRE "(https://images.crokmou.com/|https://cdn.rawgit.com/crokmou/images/.*/i/|/)(.*).(jpe?g|JPE?G|png|PNG|gif|GIF)" "$2" $src}}
+{{$src := delimit (slice $baseUrl $imageId "." $ext) ""}}
+{{$srcSvg := delimit (slice $baseUrl "/svg/" $imageId "." "svg") ""}}
 <div class="figure">
   <a data-pin-do="buttonBookmark" data-pin-lang="fr" href="https://fr.pinterest.com/pin/create/button/"></a>
   <figure itemprop="associatedMedia"
@@ -11,7 +14,7 @@
           itemtype="http://schema.org/ImageObject">
     <a href="{{$src}}" itemprop="contentUrl" target="_blank" rel="noopener">
       <img class="lazyload"
-           src="{{$srcSvg}}svg"
+           src="{{$srcSvg}}"
            data-src='{{$src}}'
            itemprop="thumbnail"
            alt='{{$alt}}'/>
