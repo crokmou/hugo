@@ -23,7 +23,8 @@
     "htmlmin": "html-minifier --collapse-whitespace --input-dir ./public/ --output-dir ./public/ --file-ext html",
     "htmlminhelp": "html-minifier --help",
     "dev": "npm run build && parallelshell 'npm run sass:watch' 'npm run babel:watch' 'hugo serve'",
-    "deploy": "npm run build && node ./_scripts/algolia/all.js",
+    "deploy": "git checkout netlify && git pull --rebase && git merge master && git push origin netlify && git checkout master",
+    "netlify": "npm run build && node ./_scripts/algolia/all.js",
     "updateImage": "cd ../images && npm run deploy && cd ../blog"
   },
   "eslintConfig": {
