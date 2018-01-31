@@ -19,7 +19,7 @@ Pour mettre à jour une modification:
 ## Ajouter une image
 - Kill le server avec `ctrl + c`
 - Ajoute l'image dans le dossier i du repo images
-- Ensuite, l'url ressemblera à: `https://cdn.rawgit.com/crokmou/images/1.0.7/i/nom_de_l_image.jpg` pour uliser la bonne version, il faut remplacer `1.0.7` par `GIT_TAG` et la commande de build s'occupera de remplacer par le bon tag (ex: `https://cdn.rawgit.com/crokmou/images/GIT_TAG/i/nom_de_l_image.jpg`.
+- Utilise le lien: `https://images.crokmou.com/NOM_DE_L_IMAGE`
 - Lancer `npm run updateImage && npm run dev`
 
 ### Dans le contenu d'un article
@@ -31,14 +31,10 @@ Pour mettre à jour une modification:
 
 ```
 {{< gallery >}}
-  {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/voyage-nord-massif-vosges-france-chateau-sch%C5%93neck-crokmou-blog-cuisine-voyage-belgique-2.jpg" >}}
-  {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/voyage-nord-massif-vosges-france-chateau-sch%C5%93neck-crokmou-blog-cuisine-voyage-belgique-1.jpg" >}}
+  {{< img src="/voyage-nord-massif-vosges-france-chateau-sch%C5%93neck-crokmou-blog-cuisine-voyage-belgique-2.jpg" >}}
+  {{< img src="/voyage-nord-massif-vosges-france-chateau-sch%C5%93neck-crokmou-blog-cuisine-voyage-belgique-1.jpg" >}}
 {{< /gallery >}}
 ```
-
-## Mettre à jour l'index de recherche
-
-Dans le terminal `cd && cd Documents/Blog/ && npm run index`
 
 ## Créer un nouvel article
 
