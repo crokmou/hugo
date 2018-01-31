@@ -1,7 +1,7 @@
 ---
 date: "2017-07-27T18:18:23+02:00"
 title: "Pavlova fraises et fleur de sureau"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/chef-en-box-patisserie-pavlova-fraise-crokmou-blog-cuisine-voyage-belgique.jpg"
+thumbnail: "https://images.crokmou.com/chef-en-box-patisserie-pavlova-fraise-crokmou-blog-cuisine-voyage-belgique.jpg"
 categories:
   - "Desserts"
 tags:

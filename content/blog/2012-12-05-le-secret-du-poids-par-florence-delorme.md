@@ -1,7 +1,7 @@
 ---
 date: "2012-12-05T17:52:00+01:00"
 title: "Le secret du poids par Florence Delorme"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/le_secret_du_poids_florence_delorme_gif_crokmou.gif"
+thumbnail: "https://images.crokmou.com/le_secret_du_poids_florence_delorme_gif_crokmou.gif"
 categories:
   - "Lifestyle"
 tags:

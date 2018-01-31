@@ -1,7 +1,7 @@
 ---
 date: "2011-09-19T17:25:00+02:00"
 title: "Pain d'épices"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/Pain-d--pices.jpg"
+thumbnail: "https://images.crokmou.com/Pain-d--pices.jpg"
 categories:
   - "Desserts"
 tags:

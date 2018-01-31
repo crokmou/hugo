@@ -1,7 +1,7 @@
 ---
 date: "2011-05-17T19:59:00+02:00"
 title: "Mousse au chocolat et sa touche vanillée"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/Mousse-au-chocolat-vanill--.jpg"
+thumbnail: "https://images.crokmou.com/Mousse-au-chocolat-vanill--.jpg"
 categories:
   - "Desserts"
 tags:

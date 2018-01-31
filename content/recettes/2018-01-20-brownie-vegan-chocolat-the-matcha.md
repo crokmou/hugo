@@ -1,7 +1,7 @@
 ---
 title: "Brownie Vegan Chocolat the Matcha"
 date: "2018-01-20T18:11:28+01:00"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.12/i/recette-brownie-chocolat-matcha-vegan-vegetalien-crokmou-blog-belge-cuisine-voyage-.gif"
+thumbnail: "https://images.crokmou.com/recette-brownie-chocolat-matcha-vegan-vegetalien-crokmou-blog-belge-cuisine-voyage-.gif"
 categories:
   - "Desserts"
 tags:
@@ -80,4 +80,4 @@ Bref je vais m'arrêter là pour te donner la recette !
 
 {{< recette >}}
 
-{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.13/i/recette-brownie-chocolat-matcha-vegan-vegetalien-crokmou-blog-belge-cuisine-voyage-.jpg" >}}
+{{< img src="https://images.crokmou.com/recette-brownie-chocolat-matcha-vegan-vegetalien-crokmou-blog-belge-cuisine-voyage-.jpg" >}}

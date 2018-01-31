@@ -1,7 +1,7 @@
 ---
 date: "2011-10-24T18:46:00+02:00"
 title: "Tartelettes poires, chocolat et greumeuleu"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/IMG_4703.jpg"
+thumbnail: "https://images.crokmou.com/IMG_4703.jpg"
 categories:
   - "Desserts"
 tags:

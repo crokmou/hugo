@@ -1,7 +1,7 @@
 ---
 date: "2011-05-01T17:32:00+02:00"
 title: "Chouquettes"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/Chouquettes.jpg"
+thumbnail: "https://images.crokmou.com/Chouquettes.jpg"
 categories:
   - "Boulangerie"
 tags:

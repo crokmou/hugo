@@ -1,7 +1,7 @@
 ---
 date: "2012-10-22T12:10:00+02:00"
 title: "Maïs grillé au four"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20121001_epi_mais_grill--_four_0059.jpg"
+thumbnail: "https://images.crokmou.com/20121001_epi_mais_grill--_four_0059.jpg"
 categories:
   - "Plats"
 tags:

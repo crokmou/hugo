@@ -1,7 +1,7 @@
 ---
 date: "2016-05-19T15:07:36+02:00"
 title: "Gnocchis à l'ail des ours, écume de fleur et chèvre"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/gnocchi-a-l-ail-des-ours-crokmou-blog-culinaire-1.jpg"
+thumbnail: "https://images.crokmou.com/gnocchi-a-l-ail-des-ours-crokmou-blog-culinaire-1.jpg"
 categories:
   - "Plats"
 tags:
@@ -70,11 +70,11 @@ disqusId: 4840599355
 slug: gnocchis-a-l-ail-des-ours
 ---
 
-La saison de l'ail des ours touche bientôt à sa fin mais il n'est pas rare d'en trouver encore quelques plants dans les sous bois voisins. Cet ail sauvage ressemble de part ses feuilles à du muguet, mais ne vous y trompez pas, le muguet est toxique lui. Il y a un moyen très simple de distinguer cette petite plante dans les bois, elle dégage une forte odeur d'ail et lors de sa floraison, tapisse la forêt d'un joli manteau blanc. N'hésitez pas à couper une feuille en deux et sentir la plante pour être sûr de votre cueillette ! J'ai goûté mes premiers gnocchis à l'ail des ours au restaurant [la Buvette](http://www.la-buvette.be/) à Bruxelles, ils étaient servis avec une sauce légèrement sucrée, c'était tout simplement délicieux... Tellement bon que je ne pense qu'à en refaire depuis. J'ai trouvé une chouette recette sur le [blog SquisitoO!](http://squisitoo.blogspot.be/2011/04/gnocchi-lail-des-ours-et-ecume-de.html), sa sauce m'a également bien inspirée ! {{< img src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/2016-05-19-15-07-55.jpg" alt="tapis ail des ours" >}}
+La saison de l'ail des ours touche bientôt à sa fin mais il n'est pas rare d'en trouver encore quelques plants dans les sous bois voisins. Cet ail sauvage ressemble de part ses feuilles à du muguet, mais ne vous y trompez pas, le muguet est toxique lui. Il y a un moyen très simple de distinguer cette petite plante dans les bois, elle dégage une forte odeur d'ail et lors de sa floraison, tapisse la forêt d'un joli manteau blanc. N'hésitez pas à couper une feuille en deux et sentir la plante pour être sûr de votre cueillette ! J'ai goûté mes premiers gnocchis à l'ail des ours au restaurant [la Buvette](http://www.la-buvette.be/) à Bruxelles, ils étaient servis avec une sauce légèrement sucrée, c'était tout simplement délicieux... Tellement bon que je ne pense qu'à en refaire depuis. J'ai trouvé une chouette recette sur le [blog SquisitoO!](http://squisitoo.blogspot.be/2011/04/gnocchi-lail-des-ours-et-ecume-de.html), sa sauce m'a également bien inspirée ! {{< img src="https://images.crokmou.com/2016-05-19-15-07-55.jpg" alt="tapis ail des ours" >}}
 
 {{< recette >}}
 
-{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/gnocchi-a-l-ail-des-ours-crokmou-blog-culinaire.jpg" alt="gnocchi-a-l-ail-des-ours-crokmou-blog-culinaire" >}}{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/gnocchi-a-l-ail-des-ours-crokmou-blog-culinaire-3.jpg" alt="gnocchi-a-l-ail-des-ours-crokmou-blog-culinaire (3)" >}}
+{{< img src="https://images.crokmou.com/gnocchi-a-l-ail-des-ours-crokmou-blog-culinaire.jpg" alt="gnocchi-a-l-ail-des-ours-crokmou-blog-culinaire" >}}{{< img src="https://images.crokmou.com/gnocchi-a-l-ail-des-ours-crokmou-blog-culinaire-3.jpg" alt="gnocchi-a-l-ail-des-ours-crokmou-blog-culinaire (3)" >}}
 
 
 ○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

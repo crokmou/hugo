@@ -1,7 +1,7 @@
 ---
 date: "2011-11-17T16:20:00+01:00"
 title: "Velouté de potiron, carottes, pommes de terre et noisettes."
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20111117_soupe_potiron_carotte_noisette_1.jpg"
+thumbnail: "https://images.crokmou.com/20111117_soupe_potiron_carotte_noisette_1.jpg"
 categories:
   - "Plats"
 tags:

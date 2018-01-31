@@ -1,7 +1,7 @@
 ---
 date: "2011-12-11T14:30:00+01:00"
 title: "Crozets Savoyard"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20111211_crozet_savoyard_1.jpg"
+thumbnail: "https://images.crokmou.com/20111211_crozet_savoyard_1.jpg"
 categories:
   - "Plats"
 tags:

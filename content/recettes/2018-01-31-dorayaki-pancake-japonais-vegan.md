@@ -100,5 +100,5 @@ Voilà pour l'Histoire, passons maintenant à la réalisation. Je précise que l
 
 {{<recette>}}
 
-{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.15/i/recette-dorayaki-pancake-japonais-vegan-vegetalien-crokmou-blog-belge-cuisine-voyage-2.jpg" alt="Dorayaki, pancake Japonais à la pâte de haricots rouges, vegan" >}}
-{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.15/i/recette-dorayaki-pancake-japonais-vegan-vegetalien-crokmou-blog-belge-cuisine-voyage.jpg" alt="Dorayaki, pancake Japonais à la pâte de haricots rouges, vegan" >}}
+{{< img src="https://images.crokmou.com/recette-dorayaki-pancake-japonais-vegan-vegetalien-crokmou-blog-belge-cuisine-voyage-2.jpg" alt="Dorayaki, pancake Japonais à la pâte de haricots rouges, vegan" >}}
+{{< img src="https://images.crokmou.com/recette-dorayaki-pancake-japonais-vegan-vegetalien-crokmou-blog-belge-cuisine-voyage.jpg" alt="Dorayaki, pancake Japonais à la pâte de haricots rouges, vegan" >}}

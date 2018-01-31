@@ -1,7 +1,7 @@
 ---
 date: "2014-04-13T18:50:00+02:00"
 title: "Cake rhubarbe et fraises"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/cake-rhubarbe-fraise.jpg"
+thumbnail: "https://images.crokmou.com/cake-rhubarbe-fraise.jpg"
 categories:
   - "Desserts"
 tags:

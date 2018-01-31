@@ -1,7 +1,7 @@
 ---
 date: "2014-12-11T17:26:00+01:00"
 title: "Verrines à la mousse de marrons"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/verrine-mousse-marron-streusel-chocolat-framboise-recette-blog-crokmou.jpg"
+thumbnail: "https://images.crokmou.com/verrine-mousse-marron-streusel-chocolat-framboise-recette-blog-crokmou.jpg"
 categories:
   - "Desserts"
 tags:
@@ -77,7 +77,7 @@ slug: "verrines-a-la-mousse-de-marrons"
 
 Bonjour mes guimauves ❤ J'espère que vous avez passé une bonne semaine ! De mon côté la période des fêtes a débuté et c'est un peu la course en pâtisserie comme vous vous en doutez ! Mais malgré tout je vous ai concocté de belles petites gourmandises pour la fin d'année ! J'ai bien remarqué que depuis que j'ai posté la photo du shooting des verrines vous avez l'eau à la bouche ! Le moment tant attendu pour la recette est arrivé et croyez moi c'est trooooop gourmand ! Ces petites verrines à la mousse de marrons vous feront fondre de plaisir dans votre canap', si si, c'est un sacré remède à la détente une fois la semaine achevée. De plus c'est hyper simple à faire et assez rapide. Le mieux étant d'avoir de la bonne crème de marrons sous la main !
 
-[![verrines à la mousse de marrons](https://cdn.rawgit.com/crokmou/images/1.0.7/i/verrine-mousse-marron-streusel-chocolat-framboise-recette-blog-crokmou-2.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/verrine-mousse-marron-streusel-chocolat-framboise-recette-blog-crokmou-2.jpg) [![verrines à la mousse de marrons](https://cdn.rawgit.com/crokmou/images/1.0.7/i/verrine-mousse-marron-streusel-chocolat-framboise-recette-blog-crokmou-1.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/verrine-mousse-marron-streusel-chocolat-framboise-recette-blog-crokmou-1.jpg)
+[![verrines à la mousse de marrons](https://images.crokmou.com/verrine-mousse-marron-streusel-chocolat-framboise-recette-blog-crokmou-2.jpg)](https://images.crokmou.com/verrine-mousse-marron-streusel-chocolat-framboise-recette-blog-crokmou-2.jpg) [![verrines à la mousse de marrons](https://images.crokmou.com/verrine-mousse-marron-streusel-chocolat-framboise-recette-blog-crokmou-1.jpg)](https://images.crokmou.com/verrine-mousse-marron-streusel-chocolat-framboise-recette-blog-crokmou-1.jpg)
 
 {{< recette >}}
 

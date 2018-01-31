@@ -1,7 +1,7 @@
 ---
 date: "2011-11-25T14:05:00+01:00"
 title: "La purée verte au cresson"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20111125_puree_verte_cresson1.jpg"
+thumbnail: "https://images.crokmou.com/20111125_puree_verte_cresson1.jpg"
 categories:
   - "Plats"
 tags:

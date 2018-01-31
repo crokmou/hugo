@@ -1,7 +1,7 @@
 ---
 date: "2012-09-24T12:20:00+02:00"
 title: "Salade saucisses, croutons, fromage"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20120921_salade_saucisse_knacki_fromage_crouton_0020.jpg"
+thumbnail: "https://images.crokmou.com/20120921_salade_saucisse_knacki_fromage_crouton_0020.jpg"
 categories:
   - "Plats"
 tags:

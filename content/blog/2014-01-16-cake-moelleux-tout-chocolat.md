@@ -1,7 +1,7 @@
 ---
 date: "2014-01-16T19:08:00+01:00"
 title: "Cake moelleux tout chocolat"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/140114_cake_chocolat_moelleux.jpg"
+thumbnail: "https://images.crokmou.com/140114_cake_chocolat_moelleux.jpg"
 categories:
   - "Desserts"
 tags:

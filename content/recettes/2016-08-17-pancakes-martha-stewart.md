@@ -1,7 +1,7 @@
 ---
 date: "2016-08-17T16:29:36+02:00"
 title: "Pancakes par Martha Stewart"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/pancakes-moelleux-crokmou-blog-culinaire.jpg"
+thumbnail: "https://images.crokmou.com/pancakes-moelleux-crokmou-blog-culinaire.jpg"
 categories:
   - "Desserts"
 tags:

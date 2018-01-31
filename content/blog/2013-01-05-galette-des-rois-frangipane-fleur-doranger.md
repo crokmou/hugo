@@ -1,7 +1,7 @@
 ---
 date: "2013-01-05T21:24:00+01:00"
 title: "Galette des rois frangipane, fleur d'oranger"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20130102_galette_roi_amande_torrefie_0044.jpg"
+thumbnail: "https://images.crokmou.com/20130102_galette_roi_amande_torrefie_0044.jpg"
 categories:
   - "Desserts"
 tags:
@@ -36,7 +36,7 @@ A la maison pas de couronne dorée, j'ai donc réalisé ma propre couronne, hey 
 
 Pour ce faire, rien de bien compliqué : Trouvez un patron de couronne sur internet (Google est votre ami), à l'aide de Paint, Gimp, Photo Filtre, Photoshop ou autre logiciel de retouche/dessin, ajoutez tout ce qu'il vous plait sur votre couronne. Imprimez et collez ensuite la feuille sur du papier carton (canson pour ma part). Découpez ensuite selon les contours de la couronne, agrafez et le tour est joué ! Simple non ? De plus votre couronne sera unique en son genre !
 
-[![](https://cdn.rawgit.com/crokmou/images/1.0.7/i/20130102_galette_roi_amande_torrefie_0050-200x3001-200x300.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/20130102_galette_roi_amande_torrefie_0050-200x3001.jpg)
+[![](https://images.crokmou.com/20130102_galette_roi_amande_torrefie_0050-200x3001-200x300.jpg)](https://images.crokmou.com/20130102_galette_roi_amande_torrefie_0050-200x3001.jpg)
 
 A l'avance je vous souhaite donc une belle Epiphanie et un bon dimanche ! Des bisous mes loulous (oui ca change un peu des gourmands) !
 

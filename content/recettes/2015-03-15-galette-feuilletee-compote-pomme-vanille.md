@@ -1,7 +1,7 @@
 ---
 date: "2015-03-15T18:25:12+01:00"
 title: "Galette aux pommes vanillées"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/galette-feuillet--e-pomme-vanille.jpg"
+thumbnail: "https://images.crokmou.com/galette-feuillet--e-pomme-vanille.jpg"
 categories:
   - "Desserts"
 tags:

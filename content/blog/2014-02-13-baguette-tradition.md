@@ -1,7 +1,7 @@
 ---
 date: "2014-02-13T18:52:00+01:00"
 title: "Baguette tradition"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/070214-pain-baguette-tradition_04.jpg"
+thumbnail: "https://images.crokmou.com/070214-pain-baguette-tradition_04.jpg"
 categories:
   - "Boulangerie"
 tags:

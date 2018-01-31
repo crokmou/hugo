@@ -1,7 +1,7 @@
 ---
 date: "2014-02-27T21:47:00+01:00"
 title: "Tajine d'agneau aux pruneaux, miel et amandes"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20130928_epicurien.be_tajine_agneau_pruneau_amande.jpg"
+thumbnail: "https://images.crokmou.com/20130928_epicurien.be_tajine_agneau_pruneau_amande.jpg"
 categories:
   - "Plats"
 tags:

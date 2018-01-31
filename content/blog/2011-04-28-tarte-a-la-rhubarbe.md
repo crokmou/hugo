@@ -1,7 +1,7 @@
 ---
 date: "2011-04-28T17:15:00+02:00"
 title: "Tarte à la rhubarbe"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/Tarte-rhubarbe.jpg"
+thumbnail: "https://images.crokmou.com/Tarte-rhubarbe.jpg"
 categories:
   - "Desserts"
 tags:

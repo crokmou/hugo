@@ -1,7 +1,7 @@
 ---
 date: "2012-12-03T18:31:00+01:00"
 title: "Feuilletés boudin blanc, figue, poire"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20121203_amuse_bouche_noel_boudin_blanc_figue_poire_cannelle_thym_0017.jpg"
+thumbnail: "https://images.crokmou.com/20121203_amuse_bouche_noel_boudin_blanc_figue_poire_cannelle_thym_0017.jpg"
 categories:
   - "Apéritifs"
 tags:
@@ -21,7 +21,7 @@ description: ""
 slug: "feuilletes-boudin-blanc-figues-poires"
 ---
 
-[![](https://cdn.rawgit.com/crokmou/images/1.0.7/i/20121203_amuse_bouche_noel_boudin_blanc_figue_poire_cannelle_thym_0017_bann-300x1791-300x179.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/20121203_amuse_bouche_noel_boudin_blanc_figue_poire_cannelle_thym_0017_bann-300x1791.jpg)
+[![](https://images.crokmou.com/20121203_amuse_bouche_noel_boudin_blanc_figue_poire_cannelle_thym_0017_bann-300x1791-300x179.jpg)](https://images.crokmou.com/20121203_amuse_bouche_noel_boudin_blanc_figue_poire_cannelle_thym_0017_bann-300x1791.jpg)
 
 Bonsoir les gourmands ! Me voilà de retour avec une autre petite recette spéciale fêtes de Noël ! Je crois qu'au réveillon ce que j'aime le plus manger, ce sont les petits amuses bouche ! C'est rapide, facile à manger, et il y'en a pour tous les goûts : fromage, champignons, jambon, tomates, feuilleté, craquant, croquant, sucré/salé, moelleux... et j'en passe ! Pour ma part j'aime beaucoup les alliances sucrées/salées, et c'est ce que j'ai voulu vous faire ce soir !
 

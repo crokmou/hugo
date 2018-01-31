@@ -1,7 +1,7 @@
 ---
 date: "2012-06-26T07:55:00+02:00"
 title: "Palmiers (biscuits feuilletés)"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20120621_biscuit_feuillet--_palmier_0003.jpg"
+thumbnail: "https://images.crokmou.com/20120621_biscuit_feuillet--_palmier_0003.jpg"
 categories:
   - "Desserts"
 tags:

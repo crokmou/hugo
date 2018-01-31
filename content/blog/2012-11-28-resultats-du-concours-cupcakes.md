@@ -10,29 +10,29 @@ description: ""
 slug: "resultats-du-concours-cupcakes"
 ---
 
-[![](https://cdn.rawgit.com/crokmou/images/1.0.7/i/concours_recettes_cupcakes_crokmou_partenaire_petitplat.fr_bann-300x1501-300x150.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/concours_recettes_cupcakes_crokmou_partenaire_petitplat.fr_bann-300x1501.jpg)
+[![](https://images.crokmou.com/concours_recettes_cupcakes_crokmou_partenaire_petitplat.fr_bann-300x1501-300x150.jpg)](https://images.crokmou.com/concours_recettes_cupcakes_crokmou_partenaire_petitplat.fr_bann-300x1501.jpg)
 
 Le moment tant attendu est arrivé ! Vous allez enfin savoir qui sont les heureux gagnants (ou devrais-je dire heureuses gagnantes ?) du [Concours de recettes Cupcakes](https://crokmou.com/2012/10/concours-recette-cupcake-partenaire-petitplat.fr.html), en partenariat avec [PetitPlat](http://www.petitplat.fr/). J'ai demandé a 6 personnes en tout de choisir leurs 4 cupcakes préférés (Stephanie de [PetitPlat](http://www.petitplat.fr/), mon hom gourmand, 3 amies gourmandes et moi même). Nous avons jugé le cupcake sur sa réalisation son originalité et sa gourmandise, sachant que l'ultime préféré de Stephanie comptait pour 2 ! A la suite de cela j'ai donc determiné les 3 gagnantes du concours que voici :
 
-[![](https://cdn.rawgit.com/crokmou/images/1.0.7/i/1ere1.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/1ere1.jpg)
+[![](https://images.crokmou.com/1ere1.jpg)](https://images.crokmou.com/1ere1.jpg)
 
-[![](https://cdn.rawgit.com/crokmou/images/1.0.7/i/foret-noire1-225x3001.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/foret-noire1-225x3001.jpg)
+[![](https://images.crokmou.com/foret-noire1-225x3001.jpg)](https://images.crokmou.com/foret-noire1-225x3001.jpg)
 
 [Melie's Cooking avec son cupcake façon Foret Noire](http://meliescooking.wordpress.com/2012/11/09/cupcake-facon-foret-noire/)
 
 qui gagne son cupcake en boucles d'oreilles, réalisé par [PetitPlat](http://www.petitplat.fr/) !
 
-[![](https://cdn.rawgit.com/crokmou/images/1.0.7/i/2eme1.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/2eme1.jpg)
+[![](https://images.crokmou.com/2eme1.jpg)](https://images.crokmou.com/2eme1.jpg)
 
-[![](https://cdn.rawgit.com/crokmou/images/1.0.7/i/813524061.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/813524061.jpg)
+[![](https://images.crokmou.com/813524061.jpg)](https://images.crokmou.com/813524061.jpg)
 
 [Bake a cupcake et ses cupcakes myrtilles](http://bakeacupcake.canalblog.com/archives/2012/11/24/25658490.html)
 
 qui remporte un petit colis surprise de ma part !
 
-[![](https://cdn.rawgit.com/crokmou/images/1.0.7/i/3eme1.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/3eme1.jpg)
+[![](https://images.crokmou.com/3eme1.jpg)](https://images.crokmou.com/3eme1.jpg)
 
-[![](https://cdn.rawgit.com/crokmou/images/1.0.7/i/Diapositive1-208x3001-208x300.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/Diapositive1-208x3001.jpg)
+[![](https://images.crokmou.com/Diapositive1-208x3001-208x300.jpg)](https://images.crokmou.com/Diapositive1-208x3001.jpg)
 
 [Saveurs Végétales et ses cupcakes chataigne et épices douces](http://saveursvegetales.blogspot.com/2012/11/cupcakes-chataigne-epices-duces.html)
 
@@ -46,6 +46,6 @@ Concernant les deux premières du podium, envoyez moi un mail avec vos adresses,
 
 Une bonne soirée à tout le monde !
 
-[![](https://cdn.rawgit.com/crokmou/images/1.0.7/i/Sugared_Cupcake_Treat_by_gridlocked1.gif)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/Sugared_Cupcake_Treat_by_gridlocked1.gif)
+[![](https://images.crokmou.com/Sugared_Cupcake_Treat_by_gridlocked1.gif)](https://images.crokmou.com/Sugared_Cupcake_Treat_by_gridlocked1.gif)
 
 [**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"></span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077)○[**Twitter**](https://twitter.com/Crokmou)○

@@ -1,7 +1,7 @@
 ---
 date: "2013-02-18T09:23:00+01:00"
 title: "Milkshake lait de riz, sésame noir, banane"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20130217_milkshake_sesame_noir_banane_citron_vert_0030.jpg"
+thumbnail: "https://images.crokmou.com/20130217_milkshake_sesame_noir_banane_citron_vert_0030.jpg"
 categories:
   - "Boissons"
 tags:

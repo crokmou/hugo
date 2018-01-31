@@ -1,7 +1,7 @@
 ---
 date: "2011-11-23T17:17:00+01:00"
 title: "Tarte rustique aux pommes"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20111123_tarte_rustique_pomme_1.jpg"
+thumbnail: "https://images.crokmou.com/20111123_tarte_rustique_pomme_1.jpg"
 categories:
   - "Desserts"
 tags:

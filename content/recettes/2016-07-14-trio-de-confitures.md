@@ -1,7 +1,7 @@
 ---
 date: "2016-07-14T14:39:35+02:00"
 title: "Trio de confitures"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/trio-confiture-crokmou-blog-culinaire.jpg"
+thumbnail: "https://images.crokmou.com/trio-confiture-crokmou-blog-culinaire.jpg"
 categories:
   - "Sauces - confitures"
 tags:

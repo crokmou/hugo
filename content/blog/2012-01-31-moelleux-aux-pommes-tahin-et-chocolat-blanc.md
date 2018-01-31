@@ -1,7 +1,7 @@
 ---
 date: "2012-01-31T19:30:00+01:00"
 title: "Moelleux aux pommes, tahin et chocolat blanc"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20120125_gateau_moelleux_tahin_pomme_chocolat_blanc_1.jpg"
+thumbnail: "https://images.crokmou.com/20120125_gateau_moelleux_tahin_pomme_chocolat_blanc_1.jpg"
 categories:
   - "Desserts"
 tags:

@@ -1,7 +1,7 @@
 ---
 date: "2011-04-26T17:01:00+02:00"
 title: "Cookies au naturel"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/Cookies-au-naturel.jpg"
+thumbnail: "https://images.crokmou.com/Cookies-au-naturel.jpg"
 categories:
   - "Desserts"
 tags:

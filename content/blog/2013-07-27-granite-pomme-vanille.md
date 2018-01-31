@@ -1,7 +1,7 @@
 ---
 date: "2013-07-27T15:12:00+02:00"
 title: "Granité pomme-vanille"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20130726_granit--_pomme_vanille_0014.jpg"
+thumbnail: "https://images.crokmou.com/20130726_granit--_pomme_vanille_0014.jpg"
 categories:
   - "Desserts"
 tags:

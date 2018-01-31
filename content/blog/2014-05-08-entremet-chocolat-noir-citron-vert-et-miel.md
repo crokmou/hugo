@@ -1,7 +1,7 @@
 ---
 date: "2014-05-08T18:45:00+02:00"
 title: "Entremet chocolat noir, citron vert et miel"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/entremet-shortbread-citron-vert-miel-pin-chocolat-mousse-miel.jpg"
+thumbnail: "https://images.crokmou.com/entremet-shortbread-citron-vert-miel-pin-chocolat-mousse-miel.jpg"
 categories:
   - "Desserts"
 tags:

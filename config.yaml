@@ -67,11 +67,11 @@ menu:
       - Name: "Manger à Bruxelles"
         Identifier: "manger-a-bruxelles"
         URL: "/manger-a-bruxelles/"
-        Pre: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/pate-pesto-pistache-amande-huile-concass%C3%A9-tomate-crokmou-blog-belge-cuisine-voyage-01.jpg"
+        Pre: "/pate-pesto-pistache-amande-huile-concass%C3%A9-tomate-crokmou-blog-belge-cuisine-voyage-01.jpg"
       - Name: "Photo"
         Identifier: "photo"
         URL: "/photo/"
-        Pre: "https://cdn.rawgit.com/crokmou/images/1.0.6/i/pate-pesto-pistache-amande-huile-concass%C3%A9-tomate-crokmou-blog-belge-cuisine-voyage-01.jpg"
+        Pre: "/pate-pesto-pistache-amande-huile-concass%C3%A9-tomate-crokmou-blog-belge-cuisine-voyage-01.jpg"
   divers:
       - Name: "A propos"
         Weight: 2

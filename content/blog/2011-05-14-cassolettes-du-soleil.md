@@ -1,7 +1,7 @@
 ---
 date: "2011-05-14T13:26:00+02:00"
 title: "Cassolettes du soleil"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/Cassolettes-du-soleil.jpg"
+thumbnail: "https://images.crokmou.com/Cassolettes-du-soleil.jpg"
 categories:
   - "Plats"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Bilan 2017 Meilleur Depart 2018"
 date: "2018-01-07T17:19:32+01:00"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.9/i/fleur-montagne-neige-crokmou-blog-belge-cuisine-voyage-.jpg"
+thumbnail: "https://images.crokmou.com/fleur-montagne-neige-crokmou-blog-belge-cuisine-voyage-.jpg"
 categories:
   - "Humeur"
 tags:

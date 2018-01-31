@@ -1,7 +1,7 @@
 ---
 date: "2011-07-10T16:44:00+02:00"
 title: "Cake Vanille/Framboise"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/IMG_2718.jpg"
+thumbnail: "https://images.crokmou.com/IMG_2718.jpg"
 categories:
   - "Desserts"
 tags:

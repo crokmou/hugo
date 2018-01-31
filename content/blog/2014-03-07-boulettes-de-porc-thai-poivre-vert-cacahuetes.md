@@ -1,7 +1,7 @@
 ---
 date: "2014-03-07T15:00:00+01:00"
 title: "Boulettes de porc Thaï au poivre vert et cacahuètes"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/boulette-porc-thailandaise-poivre-vert-cacahuete.jpg"
+thumbnail: "https://images.crokmou.com/boulette-porc-thailandaise-poivre-vert-cacahuete.jpg"
 categories:
   - "Plats"
 tags:

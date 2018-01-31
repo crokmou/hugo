@@ -1,7 +1,7 @@
 ---
 date: "2014-09-25T18:12:00+02:00"
 title: "Confiture de mirabelles à l'ancienne"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/confiture-mirabelle-recette-crokmou-blog-culinaire.jpg"
+thumbnail: "https://images.crokmou.com/confiture-mirabelle-recette-crokmou-blog-culinaire.jpg"
 categories:
   - "Sauces - confitures"
 tags:

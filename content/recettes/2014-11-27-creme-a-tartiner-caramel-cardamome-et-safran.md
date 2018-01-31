@@ -1,7 +1,7 @@
 ---
 date: "2014-11-27T17:22:00+01:00"
 title: "Crème à tartiner caramel, cardamome et safran"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/creme-tartiner-caramel-cardamome-safran-recette.jpg"
+thumbnail: "https://images.crokmou.com/creme-tartiner-caramel-cardamome-safran-recette.jpg"
 categories:
   - "Sauces - confitures"
 tags:
@@ -64,4 +64,4 @@ Il y a quelques semaines, j'ai reçu un petit colis gourmand de le part de l'Age
 {{< recette >}}
 
 
-{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/creme-tartiner-caramel-cardamome-safran-recette-1.jpg" >}}
+{{< img src="https://images.crokmou.com/creme-tartiner-caramel-cardamome-safran-recette-1.jpg" >}}

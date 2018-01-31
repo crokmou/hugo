@@ -1,7 +1,7 @@
 ---
 date: "2017-12-22T18:45:11+01:00"
 title: "Biscuits vegan pour les fêtes"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.8/i/biscuit-vegan-noel-crokmou-blog-belge-cuisine-voyage-5.jpg"
+thumbnail: "https://images.crokmou.com/biscuit-vegan-noel-crokmou-blog-belge-cuisine-voyage-5.jpg"
 categories:
   - "Desserts"
 tags:
@@ -82,6 +82,6 @@ recette:
 slug: "biscuits-vegan-fetes"
 ---
 
-Konnichiwa minna ! Les fêtes approchent déjà à grands pas ! L'année dernière me semble pourtant tellement proche... c'est dingue ce que le temps passe vite vous ne trouvez pas ? Ici, comme chaque année, j'aime beaucoup offrir des petits sachets de biscuits à la famille et aux amis. Pour cette fois j'ai décidé d'innover et de partir sur ce qui se fait de mieux maintenant à la maison : une recette 100% végétale. En plus de [petites meringues](http://www.crokmou.com/2017/03/meringues-sans-oeufs-vegan-au-jus-de-pois-chiche), je vais également réaliser de petits [biscuits](https://www.crokmou.com/?s=biscuit) vegan. J'ai trouvé ma recette de base sur le blog ["Patate et Cornichon"](https://patateetcornichon.com/), et honnêtement c'est terriblement bon ! Aucun différence avec les biscuits traditionnels, ici il faut juste les faire cuire un peu plus longtemps afin d'avoir un côté vraiment croquant ! Demain je commence mes petits sachets et je vais tenter de faire macérer mon sucre dans de la vanille toute la nuit, histoire d'avoir un bel arôme demain ! Ca va être hyper gourmand je le sens ! ![Biscuits vegan pour les fêtes](https://cdn.rawgit.com/crokmou/images/1.0.8/i/biscuit-vegan-noel-crokmou-blog-belge-cuisine-voyage-2.jpg "Biscuits vegan pour les fêtes") ![Biscuits vegan pour les fêtes](https://cdn.rawgit.com/crokmou/images/1.0.8/i/biscuit-vegan-noel-crokmou-blog-belge-cuisine-voyage-6.jpg "Biscuits vegan pour les fêtes")
+Konnichiwa minna ! Les fêtes approchent déjà à grands pas ! L'année dernière me semble pourtant tellement proche... c'est dingue ce que le temps passe vite vous ne trouvez pas ? Ici, comme chaque année, j'aime beaucoup offrir des petits sachets de biscuits à la famille et aux amis. Pour cette fois j'ai décidé d'innover et de partir sur ce qui se fait de mieux maintenant à la maison : une recette 100% végétale. En plus de [petites meringues](http://www.crokmou.com/2017/03/meringues-sans-oeufs-vegan-au-jus-de-pois-chiche), je vais également réaliser de petits [biscuits](https://www.crokmou.com/?s=biscuit) vegan. J'ai trouvé ma recette de base sur le blog ["Patate et Cornichon"](https://patateetcornichon.com/), et honnêtement c'est terriblement bon ! Aucun différence avec les biscuits traditionnels, ici il faut juste les faire cuire un peu plus longtemps afin d'avoir un côté vraiment croquant ! Demain je commence mes petits sachets et je vais tenter de faire macérer mon sucre dans de la vanille toute la nuit, histoire d'avoir un bel arôme demain ! Ca va être hyper gourmand je le sens ! ![Biscuits vegan pour les fêtes](https://images.crokmou.com/biscuit-vegan-noel-crokmou-blog-belge-cuisine-voyage-2.jpg "Biscuits vegan pour les fêtes") ![Biscuits vegan pour les fêtes](https://images.crokmou.com/biscuit-vegan-noel-crokmou-blog-belge-cuisine-voyage-6.jpg "Biscuits vegan pour les fêtes")
 
 {{< recette >}}

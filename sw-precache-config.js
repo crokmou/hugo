@@ -19,9 +19,6 @@ module.exports = {
     urlPattern: /^https:\/\/cdnjs\.cloudflare\.com\//,
     handler: 'fastest'
   },{
-    urlPattern: /^https:\/\/cdn\.rawgit\.com\/crokmou\/images\//,
-    handler: 'fastest'
-  }, {
     urlPattern: /^https:\/\/crokmou\.com\//,
     handler: 'networkFirst'
   }]

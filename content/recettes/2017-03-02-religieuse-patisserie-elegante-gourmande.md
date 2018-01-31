@@ -1,7 +1,7 @@
 ---
 date: "2017-03-02T17:23:57+01:00"
 title: "Religieuse, pâtisserie Française élégante et gourmande"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/religieuse-chocolat-vanille-patisserie-crokmou-blog-culinaire-belge-2.jpg"
+thumbnail: "https://images.crokmou.com/religieuse-chocolat-vanille-patisserie-crokmou-blog-culinaire-belge-2.jpg"
 categories:
   - "Desserts"
 tags:
@@ -109,11 +109,11 @@ La **religieuse**, **pâtisserie Française** emblématique. Ces petits choux _g
 {{< recette >}}
 
 {{< img
-src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/religieuse-chocolat-vanille-patisserie-crokmou-blog-culinaire-belge-1.jpg"
+src="https://images.crokmou.com/religieuse-chocolat-vanille-patisserie-crokmou-blog-culinaire-belge-1.jpg"
 alt="Religieuse, pâtisserie Française élégante et gourmande" >}} {{< img
-src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/religieuse-chocolat-vanille-patisserie-crokmou-blog-culinaire-belge-3.jpg"
+src="https://images.crokmou.com/religieuse-chocolat-vanille-patisserie-crokmou-blog-culinaire-belge-3.jpg"
 alt="Religieuse, pâtisserie Française élégante et gourmande" >}}{{< img
-src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/religieuse-chocolat-vanille-patisserie-2-crokmou-blog-culinaire-belge-1.jpg"
+src="https://images.crokmou.com/religieuse-chocolat-vanille-patisserie-2-crokmou-blog-culinaire-belge-1.jpg"
 alt="Religieuse, pâtisserie Française élégante et gourmande" >}}
 
 _Serviette et plat à tartes sur pied par Dille & Kamille_

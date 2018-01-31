@@ -1,7 +1,7 @@
 ---
 date: "2015-04-16T17:37:50+02:00"
 title: "éclairs combava et vanille"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/--clairs-combava-vanille-recette-crokmou-blog-culinaire.jpg"
+thumbnail: "https://images.crokmou.com/--clairs-combava-vanille-recette-crokmou-blog-culinaire.jpg"
 categories:
   - "Desserts"
 tags:
@@ -87,7 +87,7 @@ recette:
   - "Hors du feu, ajouter le beurre, mélanger et verser la crème pâtissière sur une plaque préalablement recouverte de papier film"
   - "Filmer la crème pâtissière au contact et faire refroidir rapidement
 
-  ![]('https://cdn.rawgit.com/crokmou/images/1.0.7/i/--clairs-combava-vanille-recette-crokmou-blog-culinaire-2.jpg' 'éclairs combava et vanille') ![]('https://cdn.rawgit.com/crokmou/images/1.0.7/i/--clairs-combava-vanille-recette-crokmou-blog-culinaire-1.jpg' 'éclairs combava et vanille')"
+  ![]('https://images.crokmou.com/--clairs-combava-vanille-recette-crokmou-blog-culinaire-2.jpg' 'éclairs combava et vanille') ![]('https://images.crokmou.com/--clairs-combava-vanille-recette-crokmou-blog-culinaire-1.jpg' 'éclairs combava et vanille')"
 
   - "**Dressage des éclairs :** coupez vos éclairs en deux et fourrez les de crème pâtissière."
   - "Recouvrir de fondant pâtissier ou autre selon vos goûts (massepain, chocolat...)"

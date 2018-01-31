@@ -1,7 +1,7 @@
 ---
 date: "2016-06-23T15:58:36+02:00"
 title: "Makis faits maison, recette en vidéo"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/makis-vg-crokmou-blog-culinaire.jpg"
+thumbnail: "https://images.crokmou.com/makis-vg-crokmou-blog-culinaire.jpg"
 categories:
   - "Plats"
 tags:

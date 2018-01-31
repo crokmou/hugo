@@ -1,7 +1,7 @@
 ---
 date: "2013-07-21T19:39:00+02:00"
 title: "Bagel chèvre, miel et concombre"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20130719_bagel_chevre_miel_cressonnette_noix_0020.jpg"
+thumbnail: "https://images.crokmou.com/20130719_bagel_chevre_miel_cressonnette_noix_0020.jpg"
 categories:
   - "Plats"
 tags:

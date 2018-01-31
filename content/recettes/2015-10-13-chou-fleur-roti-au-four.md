@@ -1,7 +1,7 @@
 ---
 date: "2015-10-13T17:42:02+02:00"
 title: "Chou fleur rôti au four"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/chou-fleu-roti-four-recette-crokmou-blog-culinaire.jpg"
+thumbnail: "https://images.crokmou.com/chou-fleu-roti-four-recette-crokmou-blog-culinaire.jpg"
 categories:
   - "Plats"
 tags:

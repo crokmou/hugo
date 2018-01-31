@@ -1,7 +1,7 @@
 ---
 date: "2014-01-31T18:11:00+01:00"
 title: "Galettes Bretonnes sarrazin"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/300114-galette-sarrasin-bretonne-02.jpg"
+thumbnail: "https://images.crokmou.com/300114-galette-sarrasin-bretonne-02.jpg"
 categories:
   - "Plats"
 tags:

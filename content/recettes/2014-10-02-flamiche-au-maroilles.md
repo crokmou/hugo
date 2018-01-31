@@ -1,7 +1,7 @@
 ---
 date: "2014-10-02T17:44:00+02:00"
 title: "Flamiche au Maroilles du Nord"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/flamiche-maroilles-blog-culinaire-crokmou.jpg"
+thumbnail: "https://images.crokmou.com/flamiche-maroilles-blog-culinaire-crokmou.jpg"
 categories:
   - "Plats"
 tags:

@@ -1,7 +1,7 @@
 ---
 date: "2014-06-26T15:58:00+02:00"
 title: "Levain fait maison"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/levain-fait-maison-base-farine-seigle.jpg"
+thumbnail: "https://images.crokmou.com/levain-fait-maison-base-farine-seigle.jpg"
 categories:
   - "Boulangerie"
 tags:
@@ -45,9 +45,9 @@ recette_ingredients:
       - miel liquide
       - "raisin & pomme (facultatif)"
 recette:
-  - "![Levain fait maison](https://cdn.rawgit.com/crokmou/images/1.0.7/i/photo-1.jpg)**Jour 1 :** Dans un bol en verre, mélangez à l'aide d'une spatule en bois : 20g de farine de seigle, 20g d'eau et 5g de miel (rien de mieux qu'une balance de cuisine pour être précis). Recouvrez d'un torchon propre et laissez reposer 24h à température ambiante."
+  - "![Levain fait maison](https://images.crokmou.com/photo-1.jpg)**Jour 1 :** Dans un bol en verre, mélangez à l'aide d'une spatule en bois : 20g de farine de seigle, 20g d'eau et 5g de miel (rien de mieux qu'une balance de cuisine pour être précis). Recouvrez d'un torchon propre et laissez reposer 24h à température ambiante."
   - "**Jour 2 :** Dans un bol un peu plus grand, mélangez : 40g de farine de seigle, 40g d'eau et 5g de miel. Versez ensuite votre précédente préparation, et mélangez, c'est ce qu'on appelle rafraîchir le levain. Recouvrir d'un linge et laissez à nouveau poser 24h."
-  - "**Jour 3 :** Votre mixture commence à faire des petites bulles (ou grosses bulles, ici ce ![Levain fait maison](https://cdn.rawgit.com/crokmou/images/1.0.7/i/photo-2.jpg)jour là il faisait très chaud) et peut être à sentir un peu (le vinaigre, la bierre ou la banane...), c'est bon signe ! Dans un récipient encore plus grand, versez 80g de farine de seigle et 80g d'eau, incorporez la préparation de la veille, mélangez bien. Couvrez et laissez reposer 24h"
+  - "**Jour 3 :** Votre mixture commence à faire des petites bulles (ou grosses bulles, ici ce ![Levain fait maison](https://images.crokmou.com/photo-2.jpg)jour là il faisait très chaud) et peut être à sentir un peu (le vinaigre, la bierre ou la banane...), c'est bon signe ! Dans un récipient encore plus grand, versez 80g de farine de seigle et 80g d'eau, incorporez la préparation de la veille, mélangez bien. Couvrez et laissez reposer 24h"
   - "**Jour 4 :** Dans un grand saladier, mélangez 100g de farine de blé et 100g d'eau. Comme précédemment ajoutez la préparation de la veille et mélangez bien. 3/4h après avoir rafraîchi votre levain celui-ci se sentira en pleine forme et va beaucoup buller, votre levain est prêt à l'utilisation ! Vous pouvez le conserver dans un bocal en verre sur lequel vous poserez simplement le couvercle sans le fermer. Le levain est vivant et pour vivre il a besoin d'air ;)"
 slug: "levain-fait-maison"
 ---
@@ -62,7 +62,7 @@ Votre petite bête à besoin d'être nourrie tous les 2/3 jours pour être au me
 
 ##### Conserver son levain :
 
-{{< img src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/levain-fait-maison-base-farine-seigle-1.jpg" alt="levain fait maison" >}}
+{{< img src="https://images.crokmou.com/levain-fait-maison-base-farine-seigle-1.jpg" alt="levain fait maison" >}}
 
 Parfois le levain meurt. On ne sait pas toujours pourquoi ni comment mais après avoir passé tant de jours à le bichonner il serait dommage de le voir partir à tout jamais. Pour cela j'ai une petite astuce : la déshydratation ! Je vous conseille de le faire dès lors que vous voyez que votre levain se présente bien, avec cette technique vous êtes sûrs d'en avoir sur le côté au cas où le liquide viendrait à périr dans d'atroces souffrances ! Lorsque votre bête est au meilleur de sa forme et qu'elle fait plein de bulles (soit en moyenne quelques heures après le rafraîchi), prélevez 50g (en moyenne) que vous étalerez en très fine couche sur du papier sulfurisé. Laissez sécher à l'air libre jusqu'à ce que des plaques de levain se décollent d'elles même et que le tout devienne clair (signe qu'il n'y a plus d'humidité) émiettez et conservez dans une boite hermétique à l'abri de la lumière et de la chaleur. Pour l'utiliser il vous suffira de le réhydrater et de le nourrir. Le levain reprend sa forme en moyenne dans les 24/48h. Je n'ai pas encore eu l'occasion de me servir de Totor avant mon départ mais je compte bien y remédier à mon retour. Et vous, vous avez déjà tenté l'expérience ? Des avis ? J'espère que la recette vous donnera l'envie de sauter le pas, en tout cas n'hésitez pas à me faire part de votre essai (réussi ou non ;)) Des poutoux mes petites gousses d'ail ❤
 

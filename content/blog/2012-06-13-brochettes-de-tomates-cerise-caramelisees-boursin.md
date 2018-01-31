@@ -1,7 +1,7 @@
 ---
 date: "2012-06-13T16:53:00+02:00"
 title: "Brochettes de tomates cerise caramélisées, boursin"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20120605_Brochette_tomate_caramel_boursin_aperitif_olive_romarin_pistache__0059.jpg"
+thumbnail: "https://images.crokmou.com/20120605_Brochette_tomate_caramel_boursin_aperitif_olive_romarin_pistache__0059.jpg"
 categories:
   - "Apéritifs"
 tags:

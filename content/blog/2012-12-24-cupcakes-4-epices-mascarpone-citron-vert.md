@@ -1,7 +1,7 @@
 ---
 date: "2012-12-24T10:20:00+01:00"
 title: "Cupcakes 4 épices, mascarpone, citron vert"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20121216_cupcake_4_epices_topping_mascarpone_citron_vert_00321.jpg"
+thumbnail: "https://images.crokmou.com/20121216_cupcake_4_epices_topping_mascarpone_citron_vert_00321.jpg"
 categories:
   - "Desserts"
 tags:
@@ -60,6 +60,6 @@ Et chez vous cela se passe comment ?
 
 Je vous embrasse, à très bientôt !
 
-[![](https://cdn.rawgit.com/crokmou/images/1.0.7/i/20121216_cupcake_4_epices_topping_mascarpone_citron_vert_0045-200x3001-200x300.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/20121216_cupcake_4_epices_topping_mascarpone_citron_vert_0045-200x3001.jpg)
+[![](https://images.crokmou.com/20121216_cupcake_4_epices_topping_mascarpone_citron_vert_0045-200x3001-200x300.jpg)](https://images.crokmou.com/20121216_cupcake_4_epices_topping_mascarpone_citron_vert_0045-200x3001.jpg)
 
 [**○<span style="font-size: xx-small; margin: 0px; outline: 0px; padding: 0px;"><span style="font-family: Arial, Helvetica, sans-serif; margin: 0px; outline: 0px; padding: 0px;"> </span></span>Facebook**](https://www.facebook.com/pages/CroKMou/148093255259077) ○ [**Twitter**](https://twitter.com/Crokmou) ○

@@ -1,7 +1,7 @@
 ---
 title: Lasagnes aux courgettes, poivrons, chèvre
 date: "2011-04-11T22:24:00+00:00"
-thumbnail: https://cdn.rawgit.com/crokmou/images/1.0.7/i/61472002_p.jpg
+thumbnail: https://images.crokmou.com/61472002_p.jpg
 categories:
   - Plats
 tags:

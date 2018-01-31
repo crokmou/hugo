@@ -1,7 +1,7 @@
 ---
 date: "2017-02-02T16:08:05+01:00"
 title: "Tiramisu classique, la recette"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/cinemagraph-recette-tiramisu-mascarpone-cafe-crokmou-blog-cuisine-voyage-belgique-1.gif"
+thumbnail: "https://images.crokmou.com/cinemagraph-recette-tiramisu-mascarpone-cafe-crokmou-blog-cuisine-voyage-belgique-1.gif"
 categories:
   - "Desserts"
 tags:
@@ -72,7 +72,7 @@ slug: tiramisu-classique-la-recette
 {{< recette >}}
 
 {{< img
-src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/recette-tiramisu-mascarpone-cafe-crokmou-blog-cuisine-voyage-belgique-1.jpg"
+src="https://images.crokmou.com/recette-tiramisu-mascarpone-cafe-crokmou-blog-cuisine-voyage-belgique-1.jpg"
 alt="Tiramisu classique - Mascarpone, café et marsala" >}}{{< img
-src="https://cdn.rawgit.com/crokmou/images/1.0.7/i/recette-tiramisu-mascarpone-cafe-crokmou-blog-cuisine-voyage-belgique-3.jpg"
+src="https://images.crokmou.com/recette-tiramisu-mascarpone-cafe-crokmou-blog-cuisine-voyage-belgique-3.jpg"
 alt="Tiramisu classique - Mascarpone, café et marsala" >}}

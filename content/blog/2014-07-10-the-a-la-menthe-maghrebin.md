@@ -1,7 +1,7 @@
 ---
 date: "2014-07-10T21:12:00+02:00"
 title: "Thé à la menthe Maghrébin"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/the-menthe-maghrebin.jpg"
+thumbnail: "https://images.crokmou.com/the-menthe-maghrebin.jpg"
 categories:
   - "Boissons"
 tags:
@@ -26,7 +26,7 @@ Info : La théière utilisée ici comporte des trou à l'intérieur pour filtrer
 slug: "the-a-la-menthe-maghrebin"
 ---
 
-Je crois que selon moi le thé à la menthe Maghrébin, c'est un des meilleurs thé qui puisse exister ! Ce que j'aime dans cette boisson ce n'est pas seulement son goût mais c'est aussi tout le "cérémonial" derrière. On le prépare, on le sert, on le déguste selon une certaine coutume et je dois dire que je trouve ça plutôt magique ! Il y a d'ailleurs une phrase que je trouve très jolie lorsqu'on parle de cette cérémonie, le thé devant être servi en trois fois : "la première tasse est amère comme la vie, la deuxième est douce comme l'amour et la troisième est suave comme la mort". N'étant pas une pro concernant cette coutume (c'est un ami qui m'a donné la recette il y a peu mais je n'ai jamais eu l'occasion d'assister personnellement à la cérémonie du thé) je peux simplement vous dire que le thé doit être mousseux pour honoré l'invité, et pour cela il vous faudra verser le thé de très haut ! [![thé à la menthe maghrébin](https://cdn.rawgit.com/crokmou/images/1.0.7/i/the-menthe-maghrebin-1.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/the-menthe-maghrebin-1.jpg)
+Je crois que selon moi le thé à la menthe Maghrébin, c'est un des meilleurs thé qui puisse exister ! Ce que j'aime dans cette boisson ce n'est pas seulement son goût mais c'est aussi tout le "cérémonial" derrière. On le prépare, on le sert, on le déguste selon une certaine coutume et je dois dire que je trouve ça plutôt magique ! Il y a d'ailleurs une phrase que je trouve très jolie lorsqu'on parle de cette cérémonie, le thé devant être servi en trois fois : "la première tasse est amère comme la vie, la deuxième est douce comme l'amour et la troisième est suave comme la mort". N'étant pas une pro concernant cette coutume (c'est un ami qui m'a donné la recette il y a peu mais je n'ai jamais eu l'occasion d'assister personnellement à la cérémonie du thé) je peux simplement vous dire que le thé doit être mousseux pour honoré l'invité, et pour cela il vous faudra verser le thé de très haut ! [![thé à la menthe maghrébin](https://images.crokmou.com/the-menthe-maghrebin-1.jpg)](https://images.crokmou.com/the-menthe-maghrebin-1.jpg)
 
 ##### Recette
 

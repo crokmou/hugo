@@ -1,7 +1,7 @@
 ---
 date: "2013-11-12T19:10:00+01:00"
 title: "Polenta aux cèpes {Casa di Cecco}"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/casa_di_cecco_polenta_cepe_0006.jpg"
+thumbnail: "https://images.crokmou.com/casa_di_cecco_polenta_cepe_0006.jpg"
 categories:
   - "Plats"
 tags:

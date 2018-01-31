@@ -1,7 +1,7 @@
 ---
 date: "2013-05-07T16:48:00+02:00"
 title: "Napolitain confiture de lait"
-thumbnail: "https://cdn.rawgit.com/crokmou/images/1.0.7/i/20130429_napolitain_confiture_de_lait_dulce_de_leche_0027.jpg"
+thumbnail: "https://images.crokmou.com/20130429_napolitain_confiture_de_lait_dulce_de_leche_0027.jpg"
 categories:
   - "Desserts"
 tags:
@@ -42,7 +42,7 @@ _[Recipe in English :](https://lh6.googleusercontent.com/-IylE9pdElY8/UYkhPztNct
 
 <tr>
 
-<td style="text-align: center;">[![](https://cdn.rawgit.com/crokmou/images/1.0.7/i/neapolitan_cake_with_dulce_de_leche-212x3001-212x300.jpg)](https://cdn.rawgit.com/crokmou/images/1.0.7/i/neapolitan_cake_with_dulce_de_leche-212x3001.jpg)</td>
+<td style="text-align: center;">[![](https://images.crokmou.com/neapolitan_cake_with_dulce_de_leche-212x3001-212x300.jpg)](https://images.crokmou.com/neapolitan_cake_with_dulce_de_leche-212x3001.jpg)</td>
 
 </tr>
 
