@@ -4,6 +4,7 @@
 <section class="single flex flex-wrap align-items-start">
   <div class="flex-12 flex-med-9">
     <article class="single__content markdown">
+      {{ partial "organism/share.html" . }}
       <header class="single__content__header flex align-items-center">
         <a class="prev flex align-items-center{{if .NextInSection}} hoverable{{end}}" rel="xhr" href="{{with .NextInSection}}{{.Permalink}}{{end}}">
           {{ with .NextInSection }}

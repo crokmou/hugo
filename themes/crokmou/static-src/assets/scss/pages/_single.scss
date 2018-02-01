@@ -3,6 +3,7 @@
   max-width: $global-width; margin: $global-spacing / 2 auto 0; padding: $global-spacing / 2;
   &__content {
     @include tile-shadow();
+    position: relative;
     margin: 0 auto; padding: $global-spacing / 2;
     background-color: #fff;
     &__header {

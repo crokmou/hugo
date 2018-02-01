@@ -1,0 +1,36 @@
+<aside class="share">
+  {{$url := .Permalink}}
+  {{$title := "Vous ne croirez jamais ce que cet article m'a fait découvrir!"}}
+  <ul class="share__buttons">
+    <li><a
+      href="https://www.facebook.com/sharer/sharer.php?u={{$url}}&quote={{$title}}: "
+      title="Share on Facebook" target="_blank" rel="noopener nofollow">
+      <img alt="Share on Facebook"
+           src="/assets/images/svg/as-picture/socials/facebook.svg"/></a>
+    </li>
+    <li><a
+      href="https://twitter.com/intent/tweet?source={{$url}}&text={{$title}}%20{{$url}}&via=crokmou"
+      target="_blank" rel="noopener nofollow" title="Tweet">
+      <img alt="Tweet"
+           src="/assets/images/svg/as-picture/socials/twitter.svg"/></a>
+    </li>
+    <li><a
+      href="https://pinterest.com/pin/create/button/?url={{$url}}&description={{$title}}"
+      target="_blank" rel="noopener nofollow" title="Pin it" data-pin-custom="true">
+      <img alt="Pin it"
+           src="/assets/images/svg/as-picture/socials/pinterest.svg"/></a>
+    </li>
+    <li><a
+      href="https://getpocket.com/save?url={{$url}}&title={{$title}}"
+      target="_blank" rel="noopener nofollow" title="Add to Pocket">
+      <img alt="Add to Pocket"
+           src="/assets/images/svg/as-picture/socials/pocket.svg"/></a>
+    </li>
+    <li><a
+      href="mailto:?subject=&body={{$title}}%20sur:%20{{$url}}"
+      target="_blank" rel="noopener nofollow" title="Send email">
+      <img alt="Send email"
+           src="/assets/images/svg/as-picture/socials/email.svg"/></a>
+    </li>
+  </ul>
+</aside>
