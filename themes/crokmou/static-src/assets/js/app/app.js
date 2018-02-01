@@ -13,10 +13,11 @@ $(document).ready(function() {
     LazyLoad();
     Single();
     ResizeVideos();
+    returnTop();
 
     function Nav() {
       const $window = $(window);
-      const $logo   = $('[rel="logo"]');
+      const $logo   = $('[rel*="logo"]');
       const $nav    = $('[rel="nav"]');
       const $active = $nav.find('.active');
       if ($active.length) {
@@ -105,8 +106,24 @@ $(document).ready(function() {
             setTimeout(tryParse, 100)
           }
         }
-      })()
+      })();
     }
+
+    function returnTop() {
+      const $returnTop = $('[rel="js-return-top"]');
+      ScrollWindow(() => {
+        if($bodyHtml.scrollTop() >= 500) {
+          $returnTop.fadeIn();
+        } else {
+          $returnTop.fadeOut();
+        }
+      });
+      $returnTop.on('click', function() {
+        console.log('ok');
+        $bodyHtml.scrollTop(0);
+      })
+    }
+
     return {
       init: App,
       update: () => {
@@ -412,7 +429,7 @@ $(document).ready(function() {
       return false;
     }
 
-    $pageContainer.on('click', '[rel="xhr"], .pagination a', function(event) {
+    $pageContainer.on('click', '[rel*="xhr"], .pagination a', function(event) {
       event.preventDefault();
       if (window.location === this.href) {
         return;

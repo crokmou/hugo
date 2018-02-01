@@ -1,4 +1,5 @@
 .footer {
+  position: relative;
   display: block;
   padding: $global-spacing; margin-top: $global-spacing / 2;
   border-top: 8px solid $brand-primary; background: #fff;
@@ -33,6 +34,19 @@
         border-radius: 5px 5px 0 0; background-color: $white; border: 1px solid $gray-30; border-bottom: 0;
         animation: .3s ease slideIn forwards;
       }
+    }
+  }
+  &__return-top {
+    box-shadow: 0 3px 5px rgba(0,0,0,.1);
+    position: fixed; bottom: 30px; right: 30px;
+    display: none;
+    width: 40px; height: 40px;
+    border-radius: 50%; background-color: $brand-primary-dark;
+    line-height: 42px; text-align: center; color: $gray-30;
+    cursor: pointer;
+    &:hover, &:focus {
+      background-color: $brand-primary-darker;
+      color: $white;
     }
   }
   @keyframes slideIn {
