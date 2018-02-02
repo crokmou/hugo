@@ -1,20 +1,20 @@
 const sass = require('node-sass');
-const path = require('path');
 const fs = require('fs');
 
-const filesToRender = ['style', 'print', 'critical'];
+const filesToRender = ['style', 'print'];
 
 filesToRender.map((f) => {
   'use strict';
-  const file = path.resolve('./themes', 'crokmou/static-src/assets/scss/'+f+'.scss');
-  const outFile = path.resolve('./themes', 'crokmou/static/assets/'+f+'.css');
-  sass.render({
+  const file = process.cwd() + '/themes/crokmou/static-src/assets/scss/'+f+'.scss';
+  const outFile = process.cwd() + '/themes/crokmou/static/assets/'+f+'.css';
+  const result = sass.renderSync({
     file,
     outputStyle: 'compressed',
     outFile,
-  }, function(err, result) {
-    if(!err){
-      fs.writeFile(outFile, result.css);
-    }
   });
+  if(result.css) {
+    fs.writeFile(outFile, result.css, (error) => { error && console.log(error); });
+  }
 });
+
+console.log(process.cwd() + '/themes/crokmou/static/assets/');

@@ -3,7 +3,7 @@
   p, li {
     word-break: break-word;
   }
-  * + * { margin: 1.3em auto; }
+  > * + * { margin: 1.3em auto; }
   h1, h2, h3, h4, h5, h6 {
     margin: #{$goldenRatio}em 0 0.5em;
   }
