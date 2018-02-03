@@ -4,8 +4,6 @@
 
 $(document).ready(function() {
 
-  const SPRITE_URL = '/assets/images/svg/Crokmou.min.svg';
-
   const $pageContainer = $('#page-container');
   const $bodyHtml      = $('body, html');
 
