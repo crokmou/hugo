@@ -429,13 +429,11 @@ $(document).ready(function() {
       $.get(url, function(res) {
         $.each($(res), function(key, element) {
           const $this = $(this);
-          let title = '';
-
+          if ($this[0].nodeName.toUpperCase() === 'TITLE') {
+            $('head title').html($this.html());
+          }
           if ($pageContainer[0].id !== element.id) {
             return;
-          }
-          if ($this[0].nodeName.toUpperCase() === 'TITLE') {
-            title = $('head title').html($this.html());
           }
           $pageContainer.html($(element).html()).promise().done(function(res) {
             if ($(window).scrollTop() >= $('[rel="header"]').height()) {
@@ -443,6 +441,7 @@ $(document).ready(function() {
             }
             clearWindowsEvent();
             app.update();
+            try { DISQUSWIDGETS.getCount({reset: true}); } catch(e) {}
             xhr();
             GTAG.sendPageView();
           });
