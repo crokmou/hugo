@@ -1,8 +1,8 @@
 ---
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
-date: {{ .Date }}
+date: "{{ .Date }}"
 draft: true
-thumbnail: "https://cdn.rawgit.com/crokmou/images/GIT_TAG/i/"
+thumbnail: "https://images.crokmou.com/"
 categories:
   - ""
 tags:

@@ -21,5 +21,8 @@ module.exports = {
   },{
     urlPattern: /^https:\/\/crokmou\.com\//,
     handler: 'networkFirst'
+  },{
+    urlPattern: /^https:\/\/images.crokmou\.com\//,
+    handler: 'fastest'
   }]
 };

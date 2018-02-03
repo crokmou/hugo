@@ -458,7 +458,7 @@ $(document).ready(function() {
       // It won't be able to control pages unless it's located at the same level or higher than them.
       // *Don't* register service worker file in, e.g., a scripts/ sub-directory!
       // See https://github.com/slightlyoff/ServiceWorker/issues/468
-      navigator.serviceWorker.register('service-worker.js?v=3').
+      navigator.serviceWorker.register('/service-worker.js?v=4').
       then(function(reg) {
         // updatefound is fired if service-worker.js changes.
         reg.onupdatefound = function() {

@@ -28,7 +28,7 @@ fs.readdir(filesFolder, function(err, folder) {
         function(err, files) {
           files = files.filter((file) =>
               file.substr(-3) === '.md' && !/index/.test(file) &&
-              (!fileToIndex || file === fileToIndex),
+              (!fileToIndex || file === fileToIndex)
           );
           if (!files.length) {
             nbFolder -= 1;
@@ -41,7 +41,7 @@ fs.readdir(filesFolder, function(err, folder) {
               if (idx >= files.length - 1 && nbFolder >= 0) {
                 nbFolder -= 1;
               }
-              json.push(inspectFile(contents, f));
+              json.push(inspectFile(contents, f, file));
               if (!nbFolder) {
                 const browser = algolia.browseAll();
                 browser.on('result', (result) => {
@@ -121,10 +121,10 @@ function filterLengthJson(json, addedJson, deletedJson) {
   });
 }
 
-function inspectFile(content, folderName) {
+function inspectFile(content, folderName, fileName) {
   const yml          = yaml.parse(((content.match(yamlRegex) || [])[1] || ''));
   const thumbnail    = yml.thumbnail || '';
-  const slug         = yml.slug || '';
+  const slug         = yml.slug || (/[0-9]{4}-[0-9]{1,2}-[0-9]{1,2}-(.*).md/.exec(fileName) || [])[1];
   const objectID     = slug;
   const unParsedDate = yml.date;
   const date         = new Date(unParsedDate);
