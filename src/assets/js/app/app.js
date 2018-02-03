@@ -1,5 +1,5 @@
 'use strict';
-// @codekit-prepend '../../../../bower_components/lazysizes/lazysizes.js'
+// @codekit-prepend '../vendor/lazysizes.min.js'
 // @codekit-prepend 'analytics.js'
 
 $(document).ready(function() {
