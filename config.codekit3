@@ -1209,9 +1209,9 @@
 		},
 	"\/src\/assets\/manifest.json": {
 		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/manifest-min.json",
-		"oF": 1,
+		"oA": 2,
+		"oAP": "\/themes\/crokmou\/static\/assets\/manifest.json",
+		"oF": 3,
 		"oO": 0,
 		"oS": 1
 		},
