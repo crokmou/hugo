@@ -1,6 +1,6 @@
 {
   "name": "crokmou",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "description": "Blog de Crokmou.com",
   "scripts": {
     "critical": "node ./_scripts/critical.js",
@@ -91,6 +91,7 @@
     "parallelshell": "^3.0.1",
     "postcss": "^6.0.14",
     "postcss-cli": "^4.1.1",
+    "release-it": "^6.2.0",
     "remove-markdown": "^0.2.2",
     "replace-in-file": "^3.0.0",
     "sw-precache": "^5.2.0",
