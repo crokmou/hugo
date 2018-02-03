@@ -66,9 +66,9 @@
 	"\/config.yaml": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/themes\/crokmou\/static\/config.yaml",
-		"oF": 1
+		"oF": 0
 		},
 	"\/content": {
 		"ft": 65536,
@@ -151,106 +151,106 @@
 	"\/src\/assets\/images\/jpg\/logo.png": {
 		"ft": 32768,
 		"iS": 56173,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/themes\/crokmou\/static\/assets\/images\/jpg\/logo.png",
-		"oF": 1,
+		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
 	"\/src\/assets\/images\/jpg\/logo.webp": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/themes\/crokmou\/static\/assets\/images\/jpg\/logo.webp",
-		"oF": 1
+		"oF": 0
 		},
 	"\/src\/assets\/images\/manifest\/icon-128x128.png": {
 		"ft": 32768,
 		"iS": 5929,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/themes\/crokmou\/static\/assets\/images\/manifest\/icon-128x128.png",
-		"oF": 1,
+		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
 	"\/src\/assets\/images\/manifest\/icon-144x144.png": {
 		"ft": 32768,
 		"iS": 7070,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/themes\/crokmou\/static\/assets\/images\/manifest\/icon-144x144.png",
-		"oF": 1,
+		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
 	"\/src\/assets\/images\/manifest\/icon-152x152.png": {
 		"ft": 32768,
 		"iS": 7645,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/themes\/crokmou\/static\/assets\/images\/manifest\/icon-152x152.png",
-		"oF": 1,
+		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
 	"\/src\/assets\/images\/manifest\/icon-192x192.png": {
 		"ft": 32768,
 		"iS": 10718,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/themes\/crokmou\/static\/assets\/images\/manifest\/icon-192x192.png",
-		"oF": 1,
+		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
 	"\/src\/assets\/images\/manifest\/icon-384x384.png": {
 		"ft": 32768,
 		"iS": 32080,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/themes\/crokmou\/static\/assets\/images\/manifest\/icon-384x384.png",
-		"oF": 1,
+		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
 	"\/src\/assets\/images\/manifest\/icon-512x512.png": {
 		"ft": 32768,
 		"iS": 37304,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/themes\/crokmou\/static\/assets\/images\/manifest\/icon-512x512.png",
-		"oF": 1,
+		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
 	"\/src\/assets\/images\/manifest\/icon-72x72.png": {
 		"ft": 32768,
 		"iS": 2501,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/themes\/crokmou\/static\/assets\/images\/manifest\/icon-72x72.png",
-		"oF": 1,
+		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
 	"\/src\/assets\/images\/manifest\/icon-96x96.png": {
 		"ft": 32768,
 		"iS": 3775,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/themes\/crokmou\/static\/assets\/images\/manifest\/icon-96x96.png",
-		"oF": 1,
+		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -259,7 +259,7 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/themes\/crokmou\/static\/assets\/images\/svg\/as-picture\/arrow.svg",
-		"oF": 1,
+		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
@@ -269,7 +269,7 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/themes\/crokmou\/static\/assets\/images\/svg\/as-picture\/socials\/email.svg",
-		"oF": 1,
+		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
@@ -279,7 +279,7 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/themes\/crokmou\/static\/assets\/images\/svg\/as-picture\/socials\/facebook.svg",
-		"oF": 1,
+		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
@@ -289,7 +289,7 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/themes\/crokmou\/static\/assets\/images\/svg\/as-picture\/socials\/google+.svg",
-		"oF": 1,
+		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
@@ -299,7 +299,7 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/themes\/crokmou\/static\/assets\/images\/svg\/as-picture\/socials\/linkedIn.svg",
-		"oF": 1,
+		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
@@ -309,7 +309,7 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/themes\/crokmou\/static\/assets\/images\/svg\/as-picture\/socials\/pinterest.svg",
-		"oF": 1,
+		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
@@ -319,7 +319,7 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/themes\/crokmou\/static\/assets\/images\/svg\/as-picture\/socials\/pocket.svg",
-		"oF": 1,
+		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
@@ -329,7 +329,7 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/themes\/crokmou\/static\/assets\/images\/svg\/as-picture\/socials\/twitter.svg",
-		"oF": 1,
+		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
@@ -339,7 +339,7 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/themes\/crokmou\/static\/assets\/images\/svg\/as-picture\/wave.svg",
-		"oF": 1,
+		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
@@ -349,7 +349,7 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/themes\/crokmou\/static\/assets\/images\/svg\/Crokmou.min.svg",
-		"oF": 1,
+		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
@@ -366,19 +366,19 @@
 		},
 	"\/src\/assets\/js\/app\/app.js": {
 		"ft": 64,
-		"ma": 1,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/themes\/crokmou\/static\/assets\/app.js",
-		"oF": 2,
+		"oAP": "\/themes\/crokmou\/static\/assets\/js\/app\/app.js",
+		"oF": 0,
 		"sC": 0,
 		"tS": 1
 		},
 	"\/src\/assets\/manifest.json": {
 		"ft": 524288,
-		"oA": 2,
-		"oAP": "\/themes\/crokmou\/static\/assets\/manifest.json",
-		"oF": 3,
+		"oA": 1,
+		"oAP": "\/themes\/crokmou\/static\/assets\/manifest-min.json",
+		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
@@ -391,7 +391,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/_grid.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -404,7 +404,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/_markdown.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -417,7 +417,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/_reset.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -430,7 +430,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/_utils.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -443,7 +443,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/_variables.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -456,7 +456,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/atom\/_button.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -469,7 +469,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/atom\/_input.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -482,7 +482,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/atom\/_typo.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -493,9 +493,9 @@
 		"dS": 0,
 		"ft": 4,
 		"ma": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/critical.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -508,7 +508,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/molecule\/_algolia.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -521,7 +521,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/molecule\/_card.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -534,7 +534,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/molecule\/_icon.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -547,7 +547,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/molecule\/_pagination.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -560,7 +560,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/molecule\/_picture.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -573,7 +573,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/molecule\/_selectric.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -586,7 +586,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/organism\/_comment.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -599,7 +599,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/organism\/_footer.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -612,7 +612,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/organism\/_header.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -625,7 +625,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/organism\/_highlight.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -638,7 +638,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/organism\/_home-sections.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -651,7 +651,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/organism\/_newsletter.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -664,7 +664,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/organism\/_related.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -677,7 +677,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/organism\/_share.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -690,7 +690,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/organism\/_sidebar.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -703,7 +703,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/pages\/_404.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -716,7 +716,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/pages\/_decouverte.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -729,7 +729,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/pages\/_home.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -742,7 +742,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/pages\/_page.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -755,7 +755,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/pages\/_recettes.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -768,21 +768,21 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/pages\/_single.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
 	"\/src\/assets\/scss\/print.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/themes\/crokmou\/static\/assets\/print.css",
-		"oF": 3,
-		"oS": 3,
+		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/print.css",
+		"oF": 0,
+		"oS": 0,
 		"uL": 1
 		},
 	"\/src\/assets\/scss\/shortcodes\/_gallery.scss": {
@@ -794,7 +794,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/shortcodes\/_gallery.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -807,7 +807,7 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/shortcodes\/_infos.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
@@ -820,21 +820,21 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/shortcodes\/_recette.css",
-		"oF": 1,
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
 	"\/src\/assets\/scss\/style.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/themes\/crokmou\/static\/assets\/style.css",
-		"oF": 3,
-		"oS": 3,
+		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/style.css",
+		"oF": 0,
+		"oS": 0,
 		"uL": 1
 		},
 	"\/sw-precache-config.js": {
