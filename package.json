@@ -1,29 +1,17 @@
 {
   "name": "crokmou",
   "version": "2.0.0",
-  "private": true,
   "description": "Blog de Crokmou.com",
   "scripts": {
     "critical": "node ./_scripts/critical.js",
     "getSize": "node ./_scripts/getSize.js",
-    "lint:js": "eslint ./themes/crokmou/static-src/assets/js/app",
-    "fix-lint": "eslint ./themes/crokmou/static-src/assets/js/app/** --fix",
-    "clean": "rm -rf ./themes/crokmou/static ./public",
-    "babel:build": "babel ./themes/crokmou/static-src/assets/js --out-file ./themes/crokmou/static/assets/app.js --source-maps",
-    "babel:watch": "babel ./themes/crokmou/static-src/assets/js --watch --out-file ./themes/crokmou/static/assets/app.js --source-maps",
-    "sass:watch": "onchange './themes/crokmou/static-src/assets/scss/**/*.scss' -- npm run sass:build",
-    "sass:build": "node ./_scripts/compileSass.js",
-    "postsass:build": "postcss './themes/crokmou/static/assets/**/*.css' --use autoprefixer -b 'last 2 versions' -d './themes/crokmou/static/assets/'",
-    "img:build": "cp -R ./themes/crokmou/static-src/assets/images ./themes/crokmou/static/assets/images",
-    "manifest:build": "cp -R ./themes/crokmou/static-src/assets/manifest.json ./themes/crokmou/static/assets/manifest.json",
-    "statics:build": "cp ./robots.txt ./themes/crokmou/static/ && cp ./CNAME ./themes/crokmou/static/",
-    "build": "npm run clean && mkdir -p ./themes/crokmou/static/assets/ && npm run sass:build && npm run babel:build && npm run img:build && npm run manifest:build && npm run statics:build",
-    "postbuild": "hugo && npm run htmlmin && npm run precache",
+    "lint:js": "eslint ./src/assets/js/app/app.js",
+    "fix-lint": "eslint ./src/assets/js/app/app.js --fix",
+    "build": "rm -rf ./public/ && hugo && npm run htmlmin && npm run precache",
     "precache": "sw-precache --config=sw-precache-config.js --verbose",
     "htmlmin": "html-minifier --collapse-whitespace --input-dir ./public/ --output-dir ./public/ --file-ext html",
-    "htmlminhelp": "html-minifier --help",
-    "dev": "npm run build && parallelshell 'npm run sass:watch' 'npm run babel:watch' 'hugo serve'",
-    "deploy": "git checkout netlify && git pull --rebase && git merge master && git push origin netlify && git checkout master",
+    "dev": "hugo serve",
+    "deploy": "release-it -n && git checkout netlify && git pull --rebase && git merge master && git push origin netlify && git checkout master",
     "netlify": "npm run build && node ./_scripts/algolia/all.js",
     "updateImage": "cd ../images && npm run deploy && cd ../blog"
   },
@@ -34,6 +22,15 @@
     ],
     "parser": "babel-eslint",
     "rules": {
+      "max-len": [
+        "error",
+        {
+          "ignoreTrailingComments": true,
+          "ignoreStrings": true,
+          "ignoreTemplateLiterals": true,
+          "ignoreComments": true
+        }
+      ],
       "key-spacing": [
         "error",
         {
@@ -49,6 +46,7 @@
           ]
         }
       ],
+      "no-invalid-this": "off",
       "no-multi-spaces": "off",
       "require-jsdoc": "off"
     },
@@ -64,17 +62,23 @@
       "module": true,
       "localStorage": true,
       "clearInterval": true,
-      "setInterval": true
+      "setInterval": true,
+      "$": true,
+      "ga": true,
+      "setTimeout": true,
+      "IOlazy": true,
+      "algoliasearch": true,
+      "Algolia": true,
+      "PhotoSwipe": true,
+      "PhotoSwipeUI_Default": true,
+      "XMLHttpRequest": true,
+      "jQuery": true,
+      "Promise": true
     }
   },
   "devDependencies": {
     "algoliasearch": "^3.24.5",
     "autoprefixer": "^7.2.2",
-    "babel": "^6.23.0",
-    "babel-cli": "^6.26.0",
-    "babel-eslint": "^7.2.3",
-    "babel-plugin-transform-regenerator": "^6.26.0",
-    "babel-preset-es2017": "^6.24.1",
     "deep-diff": "^0.3.8",
     "dotenv": "^4.0.0",
     "eslint": "^4.1.1",

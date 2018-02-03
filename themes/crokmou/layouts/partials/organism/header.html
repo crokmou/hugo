@@ -38,7 +38,7 @@
           {{ $currentPage := . }}
           {{ range .Site.Menus.header }}
           <li>
-            <a class='{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) (eq (lower $currentPage.Section) (lower .Name)) }}active{{end}}'
+            <a data-navigo class='{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) (eq (lower $currentPage.Section) (lower .Name)) }}active{{end}}'
                rel="xhr" href="{{ .URL }}">{{ .Name }}</a>
           </li>
           {{ end }}

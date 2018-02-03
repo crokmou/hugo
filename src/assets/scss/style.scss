@@ -46,7 +46,9 @@ body {
 @import "utils";
 
 // Atoms
-@import "atom/style";
+@import "atom/input";
+@import "atom/button";
+@import "atom/typo";
 
 // Molecules
 @import "molecule/icon";
@@ -56,9 +58,29 @@ body {
 @import "molecule/picture";
 @import "molecule/selectric";
 
+// Organism
+@import "organism/header";
+@import "organism/comment";
+@import "organism/footer";
+@import "organism/sidebar";
+@import "organism/highlight";
+@import "organism/newsletter";
+@import "organism/related";
+@import "organism/home-sections";
+@import "organism/share";
+
 // Blocks
 @import "markdown";
 
-@import "organism/style";
-@import "shortcodes/style";
-@import "pages/style";
+// Shortcodes
+@import "shortcodes/gallery";
+@import "shortcodes/infos";
+@import "shortcodes/recette";
+
+// Pages
+@import "pages/page";
+@import "pages/home";
+@import "pages/decouverte";
+@import "pages/single";
+@import "pages/404";
+@import "pages/recettes";

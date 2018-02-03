@@ -36,17 +36,10 @@
   <!-- Facebook -->
   <meta property="fb:app_id" content='{{getenv "CROKMOU_CONF_FB_ID" }}'/>
 
-  <link rel="stylesheet" media="screen, projection" href='{{ "/assets/style.css" | relURL }}?v=6' />
+  <link rel="stylesheet" media="screen, projection" href='{{ "/assets/style.css" | relURL }}' />
 
-
-  <!--Start Google Analytics-->
   <script>
-    window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-    ga('create', '{{getenv "CROKMOU_CONF_KEY_GA" }}', 'auto');
-  </script>
-  <script async src='https://www.google-analytics.com/analytics.js'></script>
-  <!--End Google Analytics-->
-  <script>
+    window.CROKMOU_CONF_KEY_GA = '{{getenv "CROKMOU_CONF_KEY_GA" }}';
     window.CROKMOU_CONF_ALGOLIA_API_KEY = '{{getenv "CROKMOU_CONF_ALGOLIA_API_KEY" }}';
     window.CROKMOU_CONF_ALGOLIA_ID = '{{getenv "CROKMOU_CONF_ALGOLIA_ID" }}';
   </script>
