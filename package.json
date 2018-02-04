@@ -1,6 +1,6 @@
 {
   "name": "crokmou",
-  "version": "2.0.10",
+  "version": "2.0.11",
   "description": "Blog de Crokmou.com",
   "scripts": {
     "critical": "node ./_scripts/critical.js",
