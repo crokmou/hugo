@@ -22,8 +22,11 @@
   blockquote {
     border-left:.5em solid #eee;
     padding: 0 .7em;
-    margin-left:0;
-    max-width: 80%;
+    margin: 3em 0; max-width: 80%;
+    > * {
+      margin: 0;
+      text-transform: uppercase; font-size: 2.2em; text-align: left;
+    }
   }
   img {
     display: block;

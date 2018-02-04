@@ -6,71 +6,6 @@
     position: relative;
     margin: 0 auto; padding: $global-spacing / 2;
     background-color: #fff;
-    &__header {
-      position: relative;
-      flex-wrap: wrap;
-      margin: 35px 0;
-      overflow: hidden;
-      .next, .prev {
-        position: relative;
-        order: 1;
-        margin: 15px; width: 80px; height: 40px;
-      }
-      .prev .current { transform: rotate(180deg); }
-      .thumbnail {
-        position: absolute; top: 0;
-        width: 100%; padding-bottom: 100%; background-size: cover; margin-top: 0; transform: scale(0); transform-origin: 50% 50%;
-        border-radius: 50%;
-        transition: transform .3s cubic-bezier(0.25,0.135,0.03,2) 0s; will-change: transform;
-      }
-      .title {
-        position: relative;
-        margin: 0; width: 100%;
-        transition: transform .3s ease;
-        font-size: 5vw; font-family: $oswald; color: $black; text-transform: uppercase;
-        h1 { font-size: 1em; }
-        &__next, &__prev {
-          display: none;
-        }
-      }
-      @include respond-to(medium) {
-        flex-wrap: nowrap;
-        margin-top: 15px;
-        .prev {
-          order: 0;
-        }
-        @supports (display: grid) {
-          .title {
-            h1 {
-              margin: (100% / 3 / 1.8) auto;
-            }
-            &__next, &__prev {
-              display: inherit;
-            }
-            &__next, &__prev, &__current {
-              width: 100%; padding: 15px 0;
-              text-align: center;
-            }
-            &__next { top: 100%; }
-            &__prev { top: -100%; }
-            display: grid; grid-auto-rows: 1fr;
-            margin: -(100% / 3 * 2) auto;
-          }
-          .hoverable {
-            &.prev {
-              &:hover, &:focus {
-                ~ .title { transform: translateY(-(100% / 3)); }
-              }
-            }
-            &.next {
-              &:hover, &:focus {
-                ~ .title { transform: translateY((100% / 3)); }
-              }
-            }
-          }
-        }
-      }
-    }
     &__footer {
       display: flex;
       margin: $global-spacing / 2 * 2 -#{$global-spacing / 2} 0; padding: $global-spacing / 2 $global-spacing / 2 0;
@@ -95,18 +30,6 @@
     flex-wrap: nowrap;
     &__content {
       padding: $global-spacing;
-      &__header {
-        .prev,
-        .next {
-          min-width: 110px; height: 110px;
-          &:hover, &:focus {
-            .thumbnail { transform: scale(1); }
-          }
-        }
-        .title {
-          font-size: 1em * pow(1.33, 3);
-        }
-      }
       &__footer {
         margin: $global-spacing * 2 -#{$global-spacing} 0; padding: $global-spacing $global-spacing 0;
       }

@@ -1,0 +1,19 @@
+<header class="single-header flex align-items-center justify-center">
+  <a class="prev flex align-items-center{{if .NextInSection}} hoverable{{end}}" rel="xhr" href="{{with .NextInSection}}{{.Permalink}}{{end}}">
+    {{ with .NextInSection }}
+    <img class="current" src="/assets/images/svg/as-picture/arrow.svg" alt="">
+    <span class="thumbnail" style="background-image: url({{.Params.Thumbnail}});"></span>
+    {{ end }}
+  </a>
+  <a class="next flex align-items-center{{if .PrevInSection}} hoverable{{end}}" {{with .PrevInSection}}rel="xhr" href="{{.Permalink}}"{{end}}>
+    {{ with .PrevInSection }}
+    <img class="current" src="/assets/images/svg/as-picture/arrow.svg" alt="">
+    <span class="thumbnail" style="background-image: url({{.Params.Thumbnail}});"></span>
+    {{ end }}
+  </a>
+  <div class="title" rel="single-header-title">
+    <div class="title__prev flex align-items-center justify-center">{{with .PrevInSection}}{{.Title}}{{end}}</div>
+    <h1 class="title__current flex align-items-center justify-center">{{with .Title}}{{.}}{{end}}</h1>
+    <div class="title__next flex align-items-center justify-center">{{with .NextInSection}}{{.Title}}{{end}}</div>
+  </div>
+</header>
