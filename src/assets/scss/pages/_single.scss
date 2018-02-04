@@ -7,11 +7,14 @@
     margin: 0 auto; padding: $global-spacing / 2;
     background-color: #fff;
     &__header {
-      padding: 15px 0;
+      position: relative;
+      flex-wrap: wrap;
+      margin: 35px 0;
       overflow: hidden;
       .next, .prev {
         position: relative;
-        margin: 0 15px; width: 40px; height: 40px;
+        order: 1;
+        margin: 15px; width: 80px; height: 40px;
       }
       .prev .current { transform: rotate(180deg); }
       .thumbnail {
@@ -24,26 +27,46 @@
         position: relative;
         margin: 0; width: 100%;
         transition: transform .3s ease;
-        font-size: 5vw;
-        &__next, &__prev, &__current {
-          margin-top: 0; width: 100%;
-          text-align: center;
-        }
+        font-size: 5vw; font-family: $oswald; color: $black; text-transform: uppercase;
+        h1 { font-size: 1em; }
         &__next, &__prev {
-          position: absolute; left: 0;
+          display: none;
         }
-        &__next { top: 100%; }
-        &__prev { top: -100%; }
       }
-      .hoverable {
-        &.prev {
-          &:hover, &:focus {
-            ~ .title { transform: translateY(-100%); }
-          }
+      @include respond-to(medium) {
+        flex-wrap: nowrap;
+        margin-top: 15px;
+        .prev {
+          order: 0;
         }
-        &.next {
-          &:hover, &:focus {
-            ~ .title { transform: translateY(100%); }
+        @supports (display: grid) {
+          .title {
+            h1 {
+              margin: (100% / 3 / 1.8) auto;
+            }
+            &__next, &__prev {
+              display: inherit;
+            }
+            &__next, &__prev, &__current {
+              width: 100%; padding: 15px 0;
+              text-align: center;
+            }
+            &__next { top: 100%; }
+            &__prev { top: -100%; }
+            display: grid; grid-auto-rows: 1fr;
+            margin: -(100% / 3 * 2) auto;
+          }
+          .hoverable {
+            &.prev {
+              &:hover, &:focus {
+                ~ .title { transform: translateY(-(100% / 3)); }
+              }
+            }
+            &.next {
+              &:hover, &:focus {
+                ~ .title { transform: translateY((100% / 3)); }
+              }
+            }
           }
         }
       }

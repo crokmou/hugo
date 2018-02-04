@@ -1,40 +1,56 @@
 .recette {
   h3 { margin: 0 auto .5em; }
-  ul, li, li ul {
-    margin: 0; padding: 0;
+  ul {
+    padding: 0;
     list-style-type: none;
   }
   &__header {
     padding-bottom: $global-spacing;
     border-bottom: 1px solid $brand-primary-dark;
-    h2 { margin: 0 auto 10px; }
+    h2 {
+      margin: 20px auto 10px;
+      @include respond-to(small) {
+        margin-top: 0;
+      }
+    }
     .button {
       display: inline-block;
       margin-top: $global-spacing;
+    }
+    &__details {
+      li { margin-top: 10px; }
     }
   }
   &__duration {
     padding: $global-spacing 0;
     border-bottom: 1px solid $brand-primary-dark;
+    &__time {
+      margin: 10px -10px 0;
+      li { padding: 0 10px; }
+    }
   }
   &__ingredients, &__steps {
     padding-top: $global-spacing;
   }
   &__ingredients {
-    > ul {
-      margin-bottom: $global-spacing;
-      ul {
-        margin-left: $global-spacing / 2;
-        li {
-          list-style-type: circle;
-        }
+    &__bloc {
+      margin: 0 0 $global-spacing; padding: 0;
+      .label {
+        display: block;
+        margin-bottom: 10px;
+        font-weight: 400;
       }
+    }
+    &__ingredient {
+      margin: 0 0 0 18px; padding: 0;
+      list-style-type: circle;
     }
   }
   &__steps {
-    iframe { margin-top: $global-spacing / 2; }
-    ul { margin-left: 0; }
-    li {
+    &__list { margin: 0; }
+    &__step {
+      margin-top: $global-spacing;
+      list-style-type: none;
       center {
         display: block;
         font-size: 0;
@@ -44,14 +60,13 @@
         display: inline-block; vertical-align: middle;
         padding-top: $global-spacing / 4;
       }
+      &:first-child { margin-top: 0; }
     }
-    li + li { margin-top: $global-spacing; }
+    iframe { margin-top: $global-spacing / 2; }
     @include respond-to(medium) {
-      ul { padding-left: 1.2em; }
-      li img {
-        @include respond-to(medium) {
-          max-width: 50%; padding: $global-spacing / 4;
-        }
+      padding-left: 1.2em;
+      &__step img {
+        max-width: 50%; padding: $global-spacing / 4;
       }
     }
   }

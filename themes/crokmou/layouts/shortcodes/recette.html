@@ -15,7 +15,7 @@
       </div>
       <div class="flex-12 flex-sm-9">
         <h2 itemprop="name">{{.Page.Params.title}}</h2>
-        <ul>
+        <ul class="recette__header__details">
           {{range .Page.Params.recette_details}}
             {{range $label, $value := .}}
             <li>
@@ -28,7 +28,7 @@
     </div>
   </header>
   <div class="recette__duration flex-12">
-    <ul>
+    <ul class="recette__duration__qty">
       {{ with.Page.Params.recette_qty }}
       <li>
         <strong>Portion&nbsp;:</strong>
@@ -36,12 +36,10 @@
       </li>
       {{end}}
     </ul>
-    <ul class="flex">
+    <ul class="recette__duration__time flex flex-wrap">
       {{ range $value := .Page.Params.recette_temps }}
-        <li>
-          <strong>{{$value.label}}:</strong>
-          <meta itemprop="{{$value.schema_id}}" content="{{$value.schema_value}}">
-          {{$value.duration}}
+        <li class="flex-12 flex-sm-auto">
+          <strong>{{$value.label}}&nbsp;:</strong>&nbsp;<meta itemprop="{{$value.schema_id}}" content="{{$value.schema_value}}">{{$value.duration}}
         </li>
       {{end}}
     </ul>
@@ -49,23 +47,21 @@
   <div class="recette__ingredients flex-12 flex-med-4">
     <h3>Ingrédients</h3>
     {{ range $value := .Page.Params.recette_ingredients }}
-    <ul>
-      <li>
-        {{with $value.label}}<strong>{{ . | markdownify }}</strong>{{end}}
-        <ul>
-          {{range $value := $value.value}}
-            <li itemprop="recipeIngredient">{{$value | markdownify}}</li>
-          {{end}}
-        </ul>
-      </li>
-    </ul>
+    <article class="recette__ingredients__bloc">
+      {{with $value.label}}<label class="label">{{ . | markdownify }}</label>{{end}}
+      <ul>
+        {{range $value := $value.value}}
+          <li class="recette__ingredients__ingredient" itemprop="recipeIngredient">{{$value | markdownify}}</li>
+        {{end}}
+      </ul>
+    </article>
     {{ end }}
   </div>
-  <div class="recette__steps flex-12 flex-med-8">
+  <div class="recette__steps lex-12 flex-med-8">
     <h3>Recettes</h3>
-    <ul>
+    <ul class="recette__steps__list">
       {{range $index, $value:= .Page.Params.recette}}
-        <li itemprop="recipeInstructions">
+        <li class="recette__steps__step" itemprop="recipeInstructions">
          {{add $index 1}}) {{$value | markdownify}}
         </li>
       {{end}}

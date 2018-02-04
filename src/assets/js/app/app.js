@@ -11,7 +11,6 @@ $(document).ready(function() {
     nav();
     algolia();
     photoswipe();
-    single();
     resizeVideos();
     returnTop();
 
@@ -40,21 +39,6 @@ $(document).ready(function() {
           'px) scale(' + ((topMax && isDesktop) ? '.6' : '1') + ')',
         });
       }
-    }
-
-    function single() {
-      const $headerTitle = $('[rel="single-header-title"]');
-      const $children    = $headerTitle.children();
-      let height         = 0;
-      $children.each(function() {
-        const $this     = $(this);
-        const newHeight = $this.height();
-        if (newHeight > height) {
-          height = newHeight;
-        }
-      });
-      $children.height('100%');
-      $headerTitle.height(Math.max(height + 30, 110));
     }
 
     function resizeVideos() {

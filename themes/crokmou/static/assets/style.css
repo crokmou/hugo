@@ -1618,6 +1618,9 @@ body {
   .figure figure {
     margin: 0; }
 
+.no-js .lazyload {
+  display: none; }
+
 [data-stroke] {
   position: relative;
   display: inline-block; }
@@ -2570,7 +2573,7 @@ strong {
   margin: 1.333em 0 0.5em; }
 
 .markdown h1 {
-  margin-top: 0;
+  margin: 0;
   text-align: center; }
 
 .markdown ul, .markdown ol {
@@ -2673,8 +2676,7 @@ strong {
 .recette h3 {
   margin: 0 auto .5em; }
 
-.recette ul, .recette li, .recette li ul {
-  margin: 0;
+.recette ul {
   padding: 0;
   list-style-type: none; }
 
@@ -2682,53 +2684,67 @@ strong {
   padding-bottom: 20px;
   border-bottom: 1px solid #eeefd2; }
   .recette__header h2 {
-    margin: 0 auto 10px; }
+    margin: 20px auto 10px; }
+    @media (min-width: 560px) {
+      .recette__header h2 {
+        margin-top: 0; } }
   .recette__header .button {
     display: inline-block;
     margin-top: 20px; }
+  .recette__header__details li {
+    margin-top: 10px; }
 
 .recette__duration {
   padding: 20px 0;
   border-bottom: 1px solid #eeefd2; }
+  .recette__duration__time {
+    margin: 10px -10px 0; }
+    .recette__duration__time li {
+      padding: 0 10px; }
 
 .recette__ingredients, .recette__steps {
   padding-top: 20px; }
 
-.recette__ingredients > ul {
-  margin-bottom: 20px; }
-  .recette__ingredients > ul ul {
-    margin-left: 10px; }
-    .recette__ingredients > ul ul li {
-      list-style-type: circle; }
+.recette__ingredients__bloc {
+  margin: 0 0 20px;
+  padding: 0; }
+  .recette__ingredients__bloc .label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: 400; }
+
+.recette__ingredients__ingredient {
+  margin: 0 0 0 18px;
+  padding: 0;
+  list-style-type: circle; }
+
+.recette__steps__list {
+  margin: 0; }
+
+.recette__steps__step {
+  margin-top: 20px;
+  list-style-type: none; }
+  .recette__steps__step center {
+    display: block;
+    font-size: 0; }
+    .recette__steps__step center > * {
+      font-size: 1rem; }
+  .recette__steps__step img {
+    display: inline-block;
+    vertical-align: middle;
+    padding-top: 5px; }
+  .recette__steps__step:first-child {
+    margin-top: 0; }
 
 .recette__steps iframe {
   margin-top: 10px; }
 
-.recette__steps ul {
-  margin-left: 0; }
-
-.recette__steps li center {
-  display: block;
-  font-size: 0; }
-  .recette__steps li center > * {
-    font-size: 1rem; }
-
-.recette__steps li img {
-  display: inline-block;
-  vertical-align: middle;
-  padding-top: 5px; }
-
-.recette__steps li + li {
-  margin-top: 20px; }
-
 @media (min-width: 769px) {
-  .recette__steps ul {
-    padding-left: 1.2em; } }
-
-@media (min-width: 769px) and (min-width: 769px) {
-  .recette__steps li img {
-    max-width: 50%;
-    padding: 5px; } }
+  .recette__steps {
+    padding-left: 1.2em; }
+    .recette__steps__step img {
+      max-width: 50%;
+      padding: 5px; } }
 
 .page {
   min-height: 100%;
@@ -2778,12 +2794,15 @@ strong {
     padding: 10px;
     background-color: #fff; }
     .single__content__header {
-      padding: 15px 0;
+      position: relative;
+      flex-wrap: wrap;
+      margin: 35px 0;
       overflow: hidden; }
       .single__content__header .next, .single__content__header .prev {
         position: relative;
-        margin: 0 15px;
-        width: 40px;
+        order: 1;
+        margin: 15px;
+        width: 80px;
         height: 40px; }
       .single__content__header .prev .current {
         transform: rotate(180deg); }
@@ -2804,22 +2823,41 @@ strong {
         margin: 0;
         width: 100%;
         transition: transform .3s ease;
-        font-size: 5vw; }
-        .single__content__header .title__next, .single__content__header .title__prev, .single__content__header .title__current {
-          margin-top: 0;
-          width: 100%;
-          text-align: center; }
+        font-size: 5vw;
+        font-family: "Oswald", Palatino, "Palatino Linotype", sans-serif;
+        color: black;
+        text-transform: uppercase; }
+        .single__content__header .title h1 {
+          font-size: 1em; }
         .single__content__header .title__next, .single__content__header .title__prev {
-          position: absolute;
-          left: 0; }
-        .single__content__header .title__next {
-          top: 100%; }
-        .single__content__header .title__prev {
-          top: -100%; }
-      .single__content__header .hoverable.prev:hover ~ .title, .single__content__header .hoverable.prev:focus ~ .title {
-        transform: translateY(-100%); }
-      .single__content__header .hoverable.next:hover ~ .title, .single__content__header .hoverable.next:focus ~ .title {
-        transform: translateY(100%); }
+          display: none; }
+      @media (min-width: 769px) {
+        .single__content__header {
+          flex-wrap: nowrap;
+          margin-top: 15px; }
+          .single__content__header .prev {
+            order: 0; }
+          @supports (display: grid) {
+            .single__content__header .title {
+              display: grid;
+              grid-auto-rows: 1fr;
+              margin: -66.6666666667% auto; }
+              .single__content__header .title h1 {
+                margin: 18.5185185185% auto; }
+              .single__content__header .title__next, .single__content__header .title__prev {
+                display: inherit; }
+              .single__content__header .title__next, .single__content__header .title__prev, .single__content__header .title__current {
+                width: 100%;
+                padding: 15px 0;
+                text-align: center; }
+              .single__content__header .title__next {
+                top: 100%; }
+              .single__content__header .title__prev {
+                top: -100%; }
+            .single__content__header .hoverable.prev:hover ~ .title, .single__content__header .hoverable.prev:focus ~ .title {
+              transform: translateY(-33.3333333333%); }
+            .single__content__header .hoverable.next:hover ~ .title, .single__content__header .hoverable.next:focus ~ .title {
+              transform: translateY(33.3333333333%); } } }
     .single__content__footer {
       display: flex;
       margin: 20px -10px 0;

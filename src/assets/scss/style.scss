@@ -14,8 +14,11 @@
   }
   &, &:before, &:after { box-sizing: border-box; }
 }
+
 svg, svg * { box-sizing: content-box; }
+
 img { max-width: 100%; }
+
 body {
   background: $brand-primary-light url('/assets/images/svg/as-picture/wave.svg') repeat;
 }
@@ -32,6 +35,13 @@ body {
   &:hover [data-pin-href] { display: block; }
   figure { margin: 0; }
 }
+
+.no-js {
+  .lazyload {
+    display: none;
+  }
+}
+
 [data-stroke] {
   position: relative;
   display: inline-block;

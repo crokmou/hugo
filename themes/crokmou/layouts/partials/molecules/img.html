@@ -18,6 +18,9 @@
            data-src='{{$src}}'
            itemprop="thumbnail"
            alt='{{$alt}}'/>
+      <noscript>
+        <img src='{{$src}}' itemprop="thumbnail" alt='{{$alt}}'/>
+      </noscript>
     </a>
     {{with $caption}}<figcaption itemprop="caption description">{{.}}</figcaption>{{end}}
   </figure>
