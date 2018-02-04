@@ -6,7 +6,7 @@ categories:
   - "Humeur"
 tags:
   - "Partenariat"
-description: "Voilà, c'est décidé, les partenariats moi j'arrête là !"
+description: "Voilà, c'est décidé, les partenariats moi j'arrête là ! Ce n'est pas forcément une décision évidente à prendre, bien que en soit le Monde ne va pas s'arrêter de tourner."
 slug: "les-partenariats-j-arrete-la"
 ---
 
