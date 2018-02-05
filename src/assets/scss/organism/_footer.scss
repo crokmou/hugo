@@ -40,9 +40,9 @@
     box-shadow: 0 3px 5px rgba(0,0,0,.1);
     position: fixed; bottom: 30px; right: 30px;
     display: none;
-    width: 40px; height: 40px;
+    width: 50px; height: 50px;
     border-radius: 50%; background-color: $brand-primary-dark;
-    line-height: 42px; text-align: center; color: $gray-30;
+    line-height: 52px; text-align: center; color: $gray-30;
     cursor: pointer;
     &:hover, &:focus {
       background-color: $brand-primary-darker;

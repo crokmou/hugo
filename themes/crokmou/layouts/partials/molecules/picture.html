@@ -1,17 +1,6 @@
 {{$class := index . "class"}}
-{{$src := index . "src"}}
-{{$alt := index . "alt"}}
 {{$pb := index . "pb"}}
-{{$baseUrl := "https://images.crokmou.com/" }}
-{{$ext := replaceRE "(https://images.crokmou.com/|https://cdn.rawgit.com/crokmou/images/.*/i/|/).*.(jpe?g|JPE?G|png|PNG|gif|GIF)" "$2" $src}}
-{{$imageId := replaceRE "(https://images.crokmou.com/|https://cdn.rawgit.com/crokmou/images/.*/i/|/)(.*).(jpe?g|JPE?G|png|PNG|gif|GIF)" "$2" $src}}
-{{$src := delimit (slice $baseUrl $imageId "." $ext) ""}}
-{{$srcSvg := delimit (slice $baseUrl "/svg/" $imageId "." "svg") ""}}
-
 <picture class='picture{{ with $class }} {{ . }}{{ end }}'
          style='padding-bottom: {{ $pb }};'>
-  <img class='picture__item lazyload' data-src='{{ $src }}' alt='{{ $alt }}' src='{{$srcSvg}}'>
-  <noscript>
-    <img class='picture__item' src='{{ $src }}' alt='{{ $alt }}'>
-  </noscript>
+  {{ partial "atom/img" . }}
 </picture>

@@ -4,9 +4,7 @@
   <article class="highlight__item flex-12 flex-med-4">
     {{range (where $pages "Slug" "eq" .)}}
     <a class="link" href="{{.Permalink}}" rel="xhr">
-      <picture class="picture">
-      	<img class="picture__item" src="{{.Params.Thumbnail}}" alt="{{.Params.Title}}">
-      </picture>
+      {{ partial "molecules/picture.html" (dict "src" .Params.Thumbnail "alt" .Params.Title) }}
       <main class="link__overlay">
         <ul class="link__overlay__categories">
           {{range .Params.Categories}}<li>{{.}}</li>{{end}}
