@@ -1,6 +1,6 @@
 {
   "name": "crokmou",
-  "version": "2.0.12",
+  "version": "2.0.13",
   "description": "Blog de Crokmou.com",
   "scripts": {
     "critical": "node ./_scripts/critical.js",
@@ -13,7 +13,7 @@
     "dev": "hugo serve",
     "deploy": "release-it -n && git checkout netlify && git pull --rebase && git merge master && git push origin netlify && git checkout master",
     "netlify": "npm run build && node ./_scripts/algolia/all.js",
-    "updateImage": "cd ../images && npm run deploy && cd ../blog"
+    "updateImage": "cd ../images && npm run build && cd ../blog"
   },
   "eslintConfig": {
     "extends": [
