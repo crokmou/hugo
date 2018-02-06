@@ -36,14 +36,15 @@
   <!-- Facebook -->
   <meta property="fb:app_id" content='{{getenv "CROKMOU_CONF_FB_ID" }}'/>
 
-  <link rel="stylesheet" media="screen, projection" href='{{ "/assets/style.css" | relURL }}' />
-
   <script>
     window.CROKMOU_CONF_KEY_GA = '{{getenv "CROKMOU_CONF_KEY_GA" }}';
     window.CROKMOU_CONF_ALGOLIA_API_KEY = '{{getenv "CROKMOU_CONF_ALGOLIA_API_KEY" }}';
     window.CROKMOU_CONF_ALGOLIA_ID = '{{getenv "CROKMOU_CONF_ALGOLIA_ID" }}';
   </script>
   <script>document.documentElement.className = '';</script>
+  <style media="screen, projection">
+    REPLACE_CRITICAL
+  </style>
 </head>
 <body>
 <div id="page-container">

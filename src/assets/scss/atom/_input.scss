@@ -37,6 +37,7 @@
     }
   }
   &--search {
+    > * { width: 100%; }
     input {
       display: block;
       padding-right: 2em;
