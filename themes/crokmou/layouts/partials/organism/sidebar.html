@@ -7,7 +7,10 @@
   <article class="sidebar__section sidebar__section--{{$id}}">
     <h2 class="sidebar__section__title" data-stroke="{{$title}}">{{$title}}</h2>
     {{ with index . "thumbnail" }}
-      <div class="sidebar__section__thumbnail">{{ partial "molecules/picture.html" (dict "src" . "alt" $title "pb" "40%") }}</div>
+      <div class="sidebar__section__thumbnail">
+        {{$thumbnail := replaceRE "([^/]+$)" "p750x450/$1" .}}
+        {{ partial "molecules/picture.html" (dict "src" $thumbnail "alt" $title "pb" "40%") }}
+      </div>
     {{end}}
     {{if eq $id "breve" }}
     <ul>
@@ -32,7 +35,10 @@
         {{range (where $pages "Slug" "eq" .)}}
           <a class="link" href="{{.Permalink}}" rel="xhr">
             <h3 class="link__title">{{.Title}}</h3>
-            <div class="link__img">{{ partial "molecules/picture.html" (dict "src" .Params.Thumbnail "alt" .Title "pb" "30%") }}</div>
+            <div class="link__img">
+              {{$thumbnail := replaceRE "([^/]+$)" "p750x450/$1" .Params.Thumbnail}}
+              {{ partial "molecules/picture.html" (dict "src" $thumbnail "alt" .Title "pb" "30%") }}
+            </div>
           </a>
         {{end}}
       </li>

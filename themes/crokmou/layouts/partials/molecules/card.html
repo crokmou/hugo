@@ -9,6 +9,7 @@
 <article class="card{{ with $class }} {{ . }}{{ end }}" rel="js-card">
   <a class="card__thumbnail" href="{{$card.Permalink}}" rel="xhr">
     {{$thumbnail := index $card.Params "thumbnail"}}
+    {{$thumbnail := replaceRE "([^/]+$)" "p750x450/$1" $thumbnail}}
     {{ partial "molecules/picture.html" (dict "src" $thumbnail "alt" $card.Title "pb" "59.9%") }}
   </a>
   <div class="card__content">

@@ -5,18 +5,16 @@
           itemtype="http://schema.org/ImageObject">
     {{$src := .Get "src"}}
     {{$baseUrl := "https://images.crokmou.com/" }}
-    {{$ext := replaceRE "(https://images.crokmou.com/|https://cdn.rawgit.com/crokmou/images/.*/i/|/).*.(jpe?g|JPE?G|png|PNG|gif|GIF)" "$2" $src}}
-    {{$imageId := replaceRE "(https://images.crokmou.com/|https://cdn.rawgit.com/crokmou/images/.*/i/|/)(.*).(jpe?g|JPE?G|png|PNG|gif|GIF)" "$2" $src}}
-    {{$src := delimit (slice $baseUrl $imageId "." $ext) ""}}
-    {{$srcSvg := delimit (slice $baseUrl "svg/" $imageId ".svg") ""}}
-    <a href='{{$src}}' itemprop="contentUrl" target="_blank" rel="noopener">
+    {{$src := replaceRE "(https://images.crokmou.com/|https://cdn.rawgit.com/crokmou/images/.*/i/|/)(.*.(jpe?g|JPE?G|png|PNG|gif|GIF))" "$2" $src}}
+    {{$min := replaceRE "([^/]+$)" "p14/$1" $src}}
+    <a href='{{print $baseUrl $src}}' itemprop="contentUrl" target="_blank" rel="noopener">
       <img class="lazyload loading"
-           data-src='{{.Get "src"}}'
+           data-src='{{print $baseUrl $src}}'
            itemprop="thumbnail"
-           src="{{$srcSvg}}"
+           src="{{print $baseUrl $min}}"
            alt='{{.Get "alt"}}'/>
       <noscript>
-        <img src='{{$src}}' itemprop="thumbnail" alt='{{.Get "alt"}}'/>
+        <img src='{{ print $baseUrl $src}}' itemprop="thumbnail" alt='{{.Get "alt"}}'/>
       </noscript>
     </a>
     {{with .Get "caption"}}<figcaption itemprop="caption description">{{.}}</figcaption>{{end}}

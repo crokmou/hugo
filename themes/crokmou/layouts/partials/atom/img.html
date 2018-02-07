@@ -3,12 +3,9 @@
 {{$alt := index . "alt"}}
 {{$pb := index . "pb"}}
 {{$baseUrl := "https://images.crokmou.com/" }}
-{{$ext := replaceRE "(https://images.crokmou.com/|https://cdn.rawgit.com/crokmou/images/.*/i/|/).*.(jpe?g|JPE?G|png|PNG|gif|GIF)" "$2" $src}}
-{{$imageId := replaceRE "(https://images.crokmou.com/|https://cdn.rawgit.com/crokmou/images/.*/i/|/)(.*).(jpe?g|JPE?G|png|PNG|gif|GIF)" "$2" $src}}
-{{$src := delimit (slice $baseUrl $imageId "." $ext) ""}}
-{{$srcSvg := delimit (slice $baseUrl "svg/" $imageId ".svg") ""}}
-
-<img class='picture__item lazyload' data-src='{{ $src }}' alt='{{ $alt }}' src='{{$srcSvg}}'>
+{{$src := replaceRE "(https://images.crokmou.com/|https://cdn.rawgit.com/crokmou/images/.*/i/|/)(.*.(jpe?g|JPE?G|png|PNG|gif|GIF))" "$2" $src}}
+{{$min := replaceRE "([^/]+$)" "p14/$1" $src}}
+<img class='picture__item lazyload' data-src='{{ print $baseUrl $src }}' alt='{{ $alt }}' src='{{print $baseUrl $min}}'/>
 <noscript>
-  <img class='picture__item' src='{{ $src }}' alt='{{ $alt }}'>
+  <img class='picture__item' src='{{ print $baseUrl $src }}' alt='{{ $alt }}'/>
 </noscript>

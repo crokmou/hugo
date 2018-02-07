@@ -62,6 +62,13 @@
 		"oAP": "\/themes\/crokmou\/static\/data",
 		"oF": 0
 		},
+	"\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/themes\/crokmou\/static\/index.html",
+		"oF": 0
+		},
 	"\/layouts": {
 		"ft": 65536,
 		"oA": 1,
@@ -74,13 +81,6 @@
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/LICENSE",
 		"oF": 1
-		},
-	"\/log": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/themes\/crokmou\/static\/log",
-		"oF": 0
 		},
 	"\/node_modules": {
 		"ft": 65536,
