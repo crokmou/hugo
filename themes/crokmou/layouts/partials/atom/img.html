@@ -5,6 +5,7 @@
 {{$baseUrl := "https://images.crokmou.com/" }}
 {{$src := replaceRE "(https://images.crokmou.com/|https://cdn.rawgit.com/crokmou/images/.*/i/|/)(.*.(jpe?g|JPE?G|png|PNG|gif|GIF))" "$2" $src}}
 {{$min := replaceRE "([^/]+$)" "p14/$1" $src}}
+{{$min := replaceRE "(p[0-9]*/)(p14/)" "$2" $min}}
 <img class='picture__item lazyload' data-src='{{ print $baseUrl $src }}' alt='{{ $alt }}' src='{{print $baseUrl $min}}'/>
 <noscript>
   <img class='picture__item' src='{{ print $baseUrl $src }}' alt='{{ $alt }}'/>

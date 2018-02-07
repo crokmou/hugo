@@ -7,6 +7,7 @@
     {{$baseUrl := "https://images.crokmou.com/" }}
     {{$src := replaceRE "(https://images.crokmou.com/|https://cdn.rawgit.com/crokmou/images/.*/i/|/)(.*.(jpe?g|JPE?G|png|PNG|gif|GIF))" "$2" $src}}
     {{$min := replaceRE "([^/]+$)" "p14/$1" $src}}
+    {{$min := replaceRE "(p[0-9]*/)(p14/)" "$2" $min}}
     <a href='{{print $baseUrl $src}}' itemprop="contentUrl" target="_blank" rel="noopener">
       <img class="lazyload loading"
            data-src='{{print $baseUrl $src}}'
