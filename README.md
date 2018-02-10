@@ -2,7 +2,7 @@
 
 
 Pour démarrer le projet:
-- Ouvrir Atom
+- Ouvrir Intellij
 - Ouvrir le terminal
 - Ouvrir github-desktop
 - Fetch les modifications depuis github-desktop
