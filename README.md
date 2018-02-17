@@ -38,5 +38,5 @@ Pour mettre à jour une modification:
 
 ## Créer un nouvel article
 
-- Ouvrir un nouveau terminal (pomme + T) et taper: `cd Document/Blog`
+- Ouvrir un nouveau terminal (pomme + T) et taper: `cd Documents/Crokmou/Blog`
 - Ensuite taper: `hugo new SECTION/aaaa-mm-dd-slug-de-l-article.md` (ex: `hugo new blog/2017-01-07-mon-nouveau-blog.md` ou s'il  y a un espace dans la section, il faut les prefixer par un `\` - `hugo new carnet\ de\ voyage/2017-01-07-mon-nouveau-voyage.md`
