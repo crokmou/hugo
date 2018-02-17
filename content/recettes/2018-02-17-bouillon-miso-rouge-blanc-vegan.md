@@ -1,35 +1,48 @@
 ---
-title: "2018 02 17 Bouillon Miso Rouge Blanc Vegan"
+title: "Bouillon Japonais au Miso Rouge & Blanc (V)"
 date: "2018-02-17T17:17:25+01:00"
-draft: false
+draft: true
 thumbnail: "https://images.crokmou.com/recette-bouillon-deux-miso-vegan-crokmou-blog-belge-cuisine-voyage-01.jpg"
 categories:
-  - ""
+  - "Plats"
 tags:
-  - ""
+  - "Miso"
+  - "Légumes"
+  - "Japon"
+  - "Carotte"
 description: ""
 recette_details:
   - Catégorie:
-    - Brioche
+    - Bouillon
+    - Soupe
   - Type de cuisine:
-    - Française
+    - Japonaise
   - Régime:
     - Végétarien
+    - Vegan
+    - Sans lactose
+    - Sans oeufs
+    - Sans gluten
+    - Sans sucre
   - Saison:
+    - Automne
     - Hiver
-  - évènement:
-    - Goûter
-    - Saint-Nicolas
-recette_qty: "Pour 4 personnes"
+  - Évènement:
+    - Déjeuner
+    - Dîner
+    - En famille
+    - Entre amis
+    - En couple
+recette_qty: "Pour 2 personnes"
 recette_temps:
   - schema_id: "prepTime"
-    schema_value: "PT30M"
+    schema_value: "PT10M"
     label: "Préparation"
-    duration: "30 minutes"
+    duration: "10 minutes"
   - schema_id: "performTime"
     label: "Pose"
-    duration: "2 heures"
-    schema_value: "PT2H"
+    duration: "1 heures"
+    schema_value: "PT1H"
   - schema_id: "cookTime"
     label: "Cuisson"
     duration: "30 minutes"
@@ -46,3 +59,6 @@ recette:
   - "Step 2"
   - "Step 3"
 ---
+
+{{< img src="https://images.crokmou.com/recette-bouillon-deux-miso-vegan-crokmou-blog-belge-cuisine-voyage-02.jpg" alt="Bouillon Japonais aux deux miso. Préparation vegan" >}}
+{{< img src="https://images.crokmou.com/recette-bouillon-deux-miso-vegan-crokmou-blog-belge-cuisine-voyage-03.jpg" alt="Bouillon Japonais aux deux miso. Préparation vegan" >}}

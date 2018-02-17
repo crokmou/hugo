@@ -31,8 +31,8 @@ Pour mettre à jour une modification:
 
 ```
 {{< gallery >}}
-  {{< img src="/voyage-nord-massif-vosges-france-chateau-sch%C5%93neck-crokmou-blog-cuisine-voyage-belgique-2.jpg" >}}
-  {{< img src="/voyage-nord-massif-vosges-france-chateau-sch%C5%93neck-crokmou-blog-cuisine-voyage-belgique-1.jpg" >}}
+  {{< img src="https://images.crokmou.com/voyage-nord-massif-vosges-france-chateau-sch%C5%93neck-crokmou-blog-cuisine-voyage-belgique-2.jpg" >}}
+  {{< img src="https://images.crokmou.com/voyage-nord-massif-vosges-france-chateau-sch%C5%93neck-crokmou-blog-cuisine-voyage-belgique-1.jpg" >}}
 {{< /gallery >}}
 ```
 
