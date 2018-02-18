@@ -96,9 +96,9 @@ params:
     - id: "youtube"
       href: "https://www.youtube.com/channel/UCI2nEqc0lxItG3iNDBd9Umw"
   highlight:
-    - "mousse-chocolat-aquafaba-vegan"
-    - "racines-un-restaurant-italien-pas-comme-les-autres-bruxelles"
-    - "9hotel-sablon-piscine-sauna-coeur-de-bruxelles"
+    - "falafels-vegan-rapides-delicieux"
+    - "citytrip-a-rotterdam"
+    - "charli-boulangerie-patisserie-bruxelles"
   sidebar:
     - id: "breve"
       title: "Brèves"
@@ -107,7 +107,7 @@ params:
       articles:
         - "lentilles-corail-au-lait-de-coco-curry-recette-vegan"
         - "burgers-savoyards-vegetariens"
-        - "falafels-vegan-rapides-delicieux"
+        - "pates-fraiches-maison-a-la-betterave"
         - "brownie-vegan-gourmand-chocolate"
         - "riz-au-lait-vegetal-a-lorange"
     - id: "tips"
