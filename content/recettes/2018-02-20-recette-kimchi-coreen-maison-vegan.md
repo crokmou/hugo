@@ -100,7 +100,7 @@ Ici la réalisation du kimchi est très simple, il vous faudra juste un peu de p
 
 {{< recette >}}
 
-Le Kimchi se conserve jusqu'à 1 an. Au plus il fermente, meilleur il est. Mais bon, c'est tellement bon qu'il est rare qu'il se garde aussi longtemps.
+Le Kimchi se conserve jusqu'à 1 an. Au plus il fermente, meilleur il est. Mais bon, c'est tellement bon qu'il est rare qu'il se garde aussi longtemps. La plupart du temps il se consomme comme condiment, comme ça tout simplement avec un peu de riz ou autre... 
 N'hésitez pas à me faire part de votre expérience ! 
 
 {{< img src="https://images.crokmou.com/recette-kimchi-maison-crokmou-blog-belge-cuisine-voyage-01.jpg" alt="Faire son kimchi maison - Vegan" >}}
