@@ -46,7 +46,7 @@ fs.readdir(filesFolder, function(err, folder) {
               const browser = algolia.browseAll();
               browser.on('result', (result) => {
                 let oldContent = _.sortBy(result.hits, 'objectID');
-                let newContent = _.sortBy(json, 'objectID');
+                let newContent = _.sortBy(json.filter((j) => !!j), 'objectID');
 
                 const deletedContent = [];
                 const addedContent   = [];
@@ -126,6 +126,9 @@ function filterLengthJson(json, addedJson, deletedJson) {
 
 function inspectFile(content, folderName, fileName) {
   const yml          = yaml.parse(((content.match(yamlRegex) || [])[1] || ''));
+  if (!yml || yml.draft) {
+    return;
+  }
   const thumbnail    = yml.thumbnail || '';
   const slug         = yml.slug ||
     (/[0-9]{4}-[0-9]{1,2}-[0-9]{1,2}-(.*).md/.exec(fileName) || [])[1];
