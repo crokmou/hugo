@@ -1,6 +1,6 @@
 ---
 title: "Le Brunch Club, un Dimanche Végétarien à Bruxelles"
-date: "2018-03-05T18:00:00+01:00"
+date: "2018-03-05T17:00:00+01:00"
 thumbnail: "https://images.crokmou.com/the-brunch-club-vegetarien-bruxelles-brussels-crokmou-blog-belge-cuisine-voyage-09.jpg"
 categories:
   - "Restaurant Végétarien"
