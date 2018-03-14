@@ -96,9 +96,9 @@ params:
     - id: "youtube"
       href: "https://www.youtube.com/channel/UCI2nEqc0lxItG3iNDBd9Umw"
   highlight:
-    - "falafels-vegan-rapides-delicieux"
-    - "citytrip-a-rotterdam"
-    - "charli-boulangerie-patisserie-bruxelles"
+    - "levain-fait-maison"
+    - "pain-levain-cocotte-sans-petrissage"
+    - "bodding-au-chocolat-et-noisettes"
   sidebar:
     - id: "breve"
       title: "Brèves"

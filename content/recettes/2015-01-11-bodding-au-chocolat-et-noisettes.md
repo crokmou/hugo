@@ -1,6 +1,6 @@
 ---
 date: "2015-01-11T16:09:00+01:00"
-title: "Bodding au chocolat et noisettes"
+title: "Bodding au chocolat et noisettes (V)"
 thumbnail: "https://images.crokmou.com/bodding-chocolat-noisette-recette-blog-crokmou.jpg"
 categories:
   - "Desserts"
@@ -22,7 +22,9 @@ recette_details:
     - Française
     - Belge
   - Régime:
-    - Végétarien
+    - Sans oeufs
+    - Sans lactose
+    - Vegan
   - Saison:
     - Printemps
     - Été
@@ -52,15 +54,15 @@ recette_temps:
 recette_ingredients:
   - value:
     - 300g de pain rassis
-    - 650ml de lait
-    - 2 oeufs
+    - 650ml de lait de soja
+    - 100g de compote de pommes
     - 100g de cassonade
     - 100g de chocolat noir dessert
     - 50/100g de noisettes
 recette:
   - "Dans un saladier, coupez votre pain en morceaux et versez par dessus le lait chaud. Recouvrez d'un film alimentaire et laissez le pain se ramollir pendant environ 1 à 2h"
   - "Préchauffez votre four à 180°C"
-  - "Lorsque le pain est bien imbibé de lait, faites en de la bouillie avec vos petits doigts (bah oui faut y mettre du siens pour de la bonne cuisine). Ajoutez ensuite les oeufs, la cassonade, le chocolat préalablement fondu et les noisettes torréfiées (légèrement passées au four à 180° une dizaine de minutes) et concassées. Mélangez bien."
+  - "Lorsque le pain est bien imbibé de lait, faites en de la bouillie avec vos petits doigts (bah oui faut y mettre du siens pour de la bonne cuisine). Ajoutez ensuite la compote de pommes, la cassonade, le chocolat préalablement fondu et les noisettes torréfiées (légèrement passées au four à 180° une dizaine de minutes) et concassées. Mélangez bien."
   - "Versez votre pâte (un peu liquide encore c'est normal) dans un moule à cake préalablement beurré et fariné."
   - "Enfournez pour 1h/1h15 environ. Lorsque le pudding est cuit, le dessus doit être doré et lorsque vous enfoncez une lame de couteau dans la préparation, celui-ci doit ressortir sec."
 slug: "bodding-au-chocolat-et-noisettes"
