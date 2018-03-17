@@ -41,7 +41,7 @@ recette_details:
     - été
     - Automne
     - Hiver
-  - évènement:
+  - Évènement:
     - Goûter
     - Anniversaire
     - Pique-nique
@@ -61,8 +61,8 @@ recette_temps:
     schema_value: "PT35M"
 recette_ingredients:
   - value:
-      - 140g de [chocolat noir Inaya](http://generationcooking.com/chocolat-de-couvertures-de-grandes-origines/3232-chocolat-noir-65-inaya-1-kg.html)
-      - 60 g de [chocolat noir Barry Bio Alto El Sol](http://generationcooking.com/chocolat-de-couvertures-de-grandes-origines/3065-chocolat-bio-alto-el-sol-65-pistoles-2-kg-barry.html)
+      - 140g de chocolat noir Inaya
+      - 60 g de chocolat noir Barry Bio Alto El Sol
       - 40 g de purée d'amandes
       - 80 g de cassonade
       - 100 g de poudre d’amande
@@ -89,28 +89,28 @@ Depuis quelques temps je m’essaye peu à peu à la pâtisserie vegan : pas tou
 évident, surtout pour la pâte à choux (c’est encore un mystère pour moi…), mais
 un pas après l’autre n’est-ce pas ? Pour réaliser cette recette de **Brownie
 vegan**, j’ai utilisé les ingrédients que m’a gentiment envoyé mon partenaire
-[Génération Cooking](http://generationcooking.com/) ! Je vous ai posté une
+[Génération Cooking](https://crokmou.com/2014/02/generation-cooking/) ! Je vous ai posté une
 petite vidéo sur IG il y a quelques semaines afin de vous montrer ce que j’avais
 reçu : un joli petit lot pour me permettre de _réaliser mes pâtisseries avec du
 matériel et des ingrédients de qualité_. Pour tout vous dire j’ai notamment
-refait mon stock de
-[chocolat Barry/Callebaut](http://generationcooking.com/177-chocolats-et-cacao),
-le top pour des réalisations gourmande. J’ai longuement hésité à prendre un
-[couteau Global](http://generationcooking.com/12-couteaux-global) pour couper
+refait mon stock de chocolat Barry/Callebaut, le top pour des réalisations gourmande. J’ai longuement hésité à prendre un
+couteau Global pour couper
 efficacement mes
 [petits légumes bio](https://crokmou.com/2016/12/lheureux-nouveau-paniers-de-fruits-legumes-a-bruxelles)
 mais mon attrait pour les bannetons et les moules a pris le dessus.
-[Génération Cooking](https://crokmou.com/2014/02/generation-cooking)
-a légèrement modifié son Site Web depuis mon dernier article. Le tout est plus
+
+Génération Cooking a légèrement modifié son Site Web depuis mon dernier article. Le tout est plus
 clair, plus concis, mais on y retrouve toujours tout le matériel nécéssaire à la
 confection de plats et pâtisseries. Ce que je trouve top ? **Du matériel de pro
 à portée de main**, ce qui n’est pas toujours évident à trouver. Fini le pot de
 glucose 15 fois plus cher qu’en temps normal (oui hein il faut le dire, dans les
 magasins pour « ménagères » ils vous prennent un peu pour des patates), sur ce
 site vous trouverez vraiment tout ce qu’il vous faut. Trêve de bavardages,
-parlons de cette fameuse recette de brownie vegan. J’ai trouvé le procédé sur le
+parlons de cette fameuse recette de brownie vegan. 
+
+J’ai trouvé le procédé sur le
 blog
-[Jujube en cuisine](http://www.jujube-en-cuisine.fr/brownie-aux-noix-sans-lactose-sans-gluten-et-sans-oeufs-vegan/),
+<a href="http://www.jujube-en-cuisine.fr/brownie-aux-noix-sans-lactose-sans-gluten-et-sans-oeufs-vegan/" rel="nofollow" target="_blank">Jujube en cuisine</a>,
 une chouette petite recette que j’ai légèrement modifié ! Bon je dois l’avouer,
 mon brownie était au final trop cuit… J’ai pensé qu’il n’était pas assez cuit à
 l’intérieur, plutôt que de le sortir du four et de le laisser cuire encore un
@@ -124,4 +124,4 @@ alt="Brownie vegan" >}}
 
 *Torréfier : Faire légèrement griller au four ou à la poêle (à sec) pour développer les arômes.
 
-/ Article sponsorisé : matériel reçu /
+<p align="right">/ Article sponsorisé : matériel reçu /</p>
