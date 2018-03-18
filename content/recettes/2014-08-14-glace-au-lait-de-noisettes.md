@@ -68,5 +68,3 @@ La semaine dernière j'ai publié une petite recette de [lait de noisettes maiso
 {{< recette >}}
 
 Régalez vous bien ❤
-
-○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○

@@ -6,21 +6,14 @@ categories:
   - "Desserts"
 tags:
   - "Beurre"
-  - "Dessert"
-  - "Farine"
-  - "Gluten"
-  - "Gouter"
-  - "Lactose"
   - "Lait"
-  - "Mignardise"
   - "Oeuf"
   - "Pâtisserie de voyage"
   - "Rhum"
-  - "Sel"
   - "Sucre de canne"
   - "Vanille"
-  - "Vegetarien"
-description: ""
+  - "Végétarien"
+description: "Les cannelés Bordelais et moi, c’est une histoire d’amour. J’ai découvert cette petite pâtisserie lorsque je suis allée au restaurant Lemonnier, cela faisait parti des mignardises avec le café."
 recette_details:
   - Catégorie:
     - Mignardise
@@ -81,7 +74,8 @@ recette:
 slug: canneles-bordelais
 ---
 
-Les cannelés Bordelais et moi, c’est une histoire d’amour. J’ai découvert cette petite pâtisserie lorsque je suis allée au [restaurant Lemonnier](https://crokmou.com/2016/07/lemonnier-restaurant-eric-tristan-martin), cela faisait parti des mignardises avec le café. Ce jour là, se fût vraiment une grosse surprise pour moi. Ce petit goût de rhum me rappelait tant les cakes au chocolat de ma grand mère (malheureusement elle ne se souvient plus de la recette) ! Aujourd’hui je passe donc mon temps à zieuter les pâtisseries pour y dénicher des cannelés bordelais ! Comme quoi le souvenir des goûts et des odeurs, ça reste ! D’après ce que j’ai pu entendre, il y en a [de très bons chez Brian Joyeux](http://www.brianjoyeux.be/) (BXL), mais si vous avez d’autres adresses, n’hésitez pas à m’en faire part (où que vous soyez dans le monde d’ailleurs) ! Il y a quelques semaines, un jour où je n’avais pas spécialement envie de bouger de chez moi, je me suis dit que j’allais réaliser des cannelés. A ma grande déception, c’est une recette qui se prépare avec quelques jours d’avance ! J’ai donc pris mon mal en patience et j’ai dégusté ces bombes 3 jours après avoir réalisé la recette. Pour la liste des ingrédients et le déroulé de la préparation, j’ai jeté [un coup d’oeil sur le blog d’Edda ( Un déjeuner de Soleil )](http://www.undejeunerdesoleil.com/). Un de mes blogs chouchou d’ailleurs !   {{< img src="https://images.crokmou.com/recette-cannelés-bordelais-rhum-crokmou-blog-cuisine-voyage-1-5.jpg" alt="" >}}
+Les cannelés Bordelais et moi, c’est une histoire d’amour. J’ai découvert cette petite pâtisserie lorsque je suis allée au [restaurant Lemonnier](https://crokmou.com/2016/07/lemonnier-restaurant-eric-tristan-martin), cela faisait parti des mignardises avec le café. Ce jour là, se fût vraiment une grosse surprise pour moi. Ce petit goût de rhum me rappelait tant les cakes au chocolat de ma grand mère (malheureusement elle ne se souvient plus de la recette) ! Aujourd’hui je passe donc mon temps à zieuter les pâtisseries pour y dénicher des cannelés bordelais ! Comme quoi le souvenir des goûts et des odeurs, ça reste ! D’après ce que j’ai pu entendre, il y en a <a href="http://www.brianjoyeux.be/" rel="nofollow" target="_blank">de très bons chez Brian Joyeux</a> (BXL), mais si vous avez d’autres adresses, n’hésitez pas à m’en faire part (où que vous soyez dans le monde d’ailleurs) ! Il y a quelques semaines, un jour où je n’avais pas spécialement envie de bouger de chez moi, je me suis dit que j’allais réaliser des cannelés. A ma grande déception, c’est une recette qui se prépare avec quelques jours d’avance ! J’ai donc pris mon mal en patience et j’ai dégusté ces bombes 3 jours après avoir réalisé la recette. Pour la liste des ingrédients et le déroulé de la préparation, j’ai jeté <a href="http://www.undejeunerdesoleil.com/" rel="nofollow[un coup d’oeil sur le blog d’Edda ( Un déjeuner de Soleil )](http://www.undejeunerdesoleil.com/). Un de mes blogs chouchou d’ailleurs !   
 
+{{< img src="https://images.crokmou.com/recette-cannelés-bordelais-rhum-crokmou-blog-cuisine-voyage-1-5.jpg" alt="Cannelés Bordelais" >}}
 
 {{< recette >}}

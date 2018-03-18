@@ -65,5 +65,3 @@ Je suis un peu absente ces derniers temps mais tout passe si vite entre le boulo
 
 {{< recette >}}
 
-
-○ [Facebook](https://www.facebook.com/crokmou.blog) ○ [Twitter](https://twitter.com/Crokmou) ○
