@@ -7,7 +7,7 @@
 		"uuidString": "C085F050-16C1-43EC-B5F4-0C60B86A6C19"
 		}
 	],
-"creatorBuild": "26261",
+"creatorBuild": "26330",
 "files": {
 	"\/.env": {
 		"cB": 0,
@@ -86,7 +86,7 @@
 		"ft": 65536,
 		"oA": 1,
 		"oAP": "\/themes\/crokmou\/static\/node_modules",
-		"oF": 1
+		"oF": 0
 		},
 	"\/package-lock.json": {
 		"ft": 524288,
@@ -152,6 +152,17 @@
 		"oA": 2,
 		"oAP": "\/themes\/crokmou\/static\/assets\/images\/jpg\/logo.webp",
 		"oF": 1
+		},
+	"\/src\/assets\/images\/jpg\/logov2.png": {
+		"ft": 32768,
+		"iS": 151016,
+		"oA": 0,
+		"oAP": "\/themes\/crokmou\/static\/assets\/images\/jpg\/logov2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
 		},
 	"\/src\/assets\/images\/manifest\/icon-128x128.png": {
 		"ft": 32768,
@@ -869,7 +880,7 @@
 	"displayValue": "hugo",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-fry",
-	"lastBuiltDate": 539527389
+	"lastBuiltDate": 542303135
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -877,6 +888,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 0,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
