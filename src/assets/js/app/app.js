@@ -4,10 +4,9 @@
 
 $(document).ready(function() {
 
-  const $pageContainer = $('#page-container');
   const $bodyHtml      = $('body, html');
 
-  const app = (function app() {
+  (function app() {
     nav();
     algolia();
     photoswipe();
@@ -141,11 +140,6 @@ $(document).ready(function() {
     } catch (e) {
       setTimeout(Algolia, 300);
     }
-  }
-
-  function clearWindowsEvent() {
-    $(window).off('resize');
-    $(window).off('scroll');
   }
 
   function photoswipe() {
@@ -388,51 +382,6 @@ $(document).ready(function() {
 
     initPhotoSwipeFromDOM('.single');
   }
-
-  (function xhr() {
-    if(!(history && history.pushState)) {
-      return;
-    }
-
-    $('[rel*="xhr"], .pagination a').click(function(e) {
-      const href = $(this).attr('href');
-
-      try {
-        loadContent(href);
-        history.pushState('', 'New URL: ' + href, href);
-        e.preventDefault();
-      } catch(e) {
-        location.href = href;
-        return true;
-      }
-    });
-
-    window.onpopstate = () => loadContent(location.pathname);
-
-    function loadContent(url) {
-      $.get(url, function(res) {
-        $.each($(res), function(key, element) {
-          const $this = $(this);
-          if ($this[0].nodeName.toUpperCase() === 'TITLE') {
-            $('head title').html($this.html());
-          }
-          if ($pageContainer[0].id !== element.id) {
-            return;
-          }
-          $pageContainer.html($(element).html()).promise().done(function(res) {
-            if ($(window).scrollTop() >= $('[rel="header"]').height()) {
-              $bodyHtml.scrollTop($('[rel="header"] + *').offset().top - 60);
-            }
-            clearWindowsEvent();
-            app.update();
-            try { DISQUSWIDGETS.getCount({reset: true}); } catch(e) {}
-            xhr();
-            GTAG.sendPageView();
-          });
-        });
-      });
-    }
-  })();
 
   (function RegisterSw() {
     if ('serviceWorker' in navigator) {
