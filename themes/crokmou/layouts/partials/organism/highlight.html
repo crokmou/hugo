@@ -5,10 +5,14 @@
     {{range (where $pages "Slug" "eq" .)}}
     <a class="link" href="{{.Permalink}}" rel="xhr">
       {{$thumbnailSmall := replaceRE "([^/]+$)" "p750x450/$1" .Params.Thumbnail}}
+      {{$thumbnailLqip := replaceRE "([^/]+$)" "p14/$1" .Params.Thumbnail}}
       {{$thumbnail := replaceRE "([^/]+$)" "p750/$1" .Params.Thumbnail}}
       <picture class="picture">
-        <source class="picture__item" media="(max-width: 768px)" srcset="{{$thumbnailSmall}}">
-        <img class="picture__item" src="{{$thumbnail}}"/>
+        <source class="picture__item" media="--small" data-srcset="{{$thumbnailSmall}}">
+        <img class="picture__item lazyload" data-src="{{$thumbnail}}" src="{{$thumbnailLqip}}" alt="{{.Params.Title}}"/>
+        <noscript>
+          <img class='picture__item' src='{{ $thumbnail }}' alt='{{ .Params.Title }}'/>
+        </noscript>
       </picture>
       <main class="link__overlay">
         <ul class="link__overlay__categories">

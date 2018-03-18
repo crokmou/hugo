@@ -153,17 +153,6 @@
 		"oAP": "\/themes\/crokmou\/static\/assets\/images\/jpg\/logo.webp",
 		"oF": 1
 		},
-	"\/src\/assets\/images\/jpg\/logov2.png": {
-		"ft": 32768,
-		"iS": 151016,
-		"oA": 0,
-		"oAP": "\/themes\/crokmou\/static\/assets\/images\/jpg\/logov2.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
 	"\/src\/assets\/images\/manifest\/icon-128x128.png": {
 		"ft": 32768,
 		"iS": 5929,
@@ -880,7 +869,7 @@
 	"displayValue": "hugo",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-fry",
-	"lastBuiltDate": 542303135
+	"lastBuiltDate": 543084162
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

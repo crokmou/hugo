@@ -439,6 +439,8 @@ $(document).ready(function() {
       'https://fonts.googleapis.com/css?family=Oswald:300|Roboto:300,400,500');
     injectCss('/assets/print.css?v=1', 'print');
 
+    $('body').css('background-image', 'url(/assets/images/svg/as-picture/wave.svg)');
+
     function injectCss(href, media) {
       let element  = document.createElement('link');
       element.rel  = 'stylesheet';
