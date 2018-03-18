@@ -1,6 +1,6 @@
 {{$class := index . "class"}}
 {{$pb := index . "pb"}}
 <picture class='picture{{ with $class }} {{ . }}{{ end }}'
-         style='padding-bottom: {{ $pb }};'>
+         {{with $pb}}style='padding-bottom: {{ . }};'{{end}}>
   {{ partial "atom/img" . }}
 </picture>
