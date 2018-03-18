@@ -20,7 +20,7 @@ svg, svg * { box-sizing: content-box; }
 img { max-width: 100%; }
 
 body {
-  background-color: $brand-primary-light; background-repeat: repeat;
+  background-image: url(/assets/images/svg/as-picture/wave.svg); background-color: $brand-primary-light; background-repeat: repeat;
 }
 
 .container { max-width: 1200px; margin: 0 auto; width: 100%; }

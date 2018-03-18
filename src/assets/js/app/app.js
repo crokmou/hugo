@@ -427,29 +427,4 @@ $(document).ready(function() {
       });
     }
   })();
-
-  (function InjectCss() {
-    injectCss(
-      'https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css',
-      'screen, projection');
-    injectCss(
-      'https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css',
-      'screen, projection');
-    injectCss(
-      'https://fonts.googleapis.com/css?family=Oswald:300|Roboto:300,400,500');
-    injectCss('/assets/print.css?v=1', 'print');
-
-    $('body').css('background-image', 'url(/assets/images/svg/as-picture/wave.svg)');
-
-    function injectCss(href, media) {
-      let element  = document.createElement('link');
-      element.rel  = 'stylesheet';
-      element.href = href;
-      if (media) {
-        element.setAttribute('media', media);
-      }
-      element.type = 'text/css';
-      $('head').append($(element));
-    }
-  })();
 });
