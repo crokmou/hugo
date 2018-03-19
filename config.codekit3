@@ -104,6 +104,12 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/public": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/themes\/crokmou\/static\/public",
+		"oF": 0
+		},
 	"\/README.md": {
 		"cB": 0,
 		"cS": 0,
@@ -863,7 +869,7 @@
 	"displayValue": "hugo",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-fry",
-	"lastBuiltDate": 543092922
+	"lastBuiltDate": 543134877
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
