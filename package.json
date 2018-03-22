@@ -1,6 +1,6 @@
 {
   "name": "crokmou",
-  "version": "2.0.38",
+  "version": "2.0.39",
   "description": "Blog de Crokmou.com",
   "scripts": {
     "replaceCritical": "node ./_scripts/replaceCritical.js",
@@ -8,7 +8,7 @@
     "getSize": "node ./_scripts/getSize.js",
     "lint:js": "eslint ./src/assets/js/app/app.js",
     "fix-lint": "eslint ./src/assets/js/app/app.js --fix",
-    "build": "rm -rf ./public/ && hugo && npm run htmlmin && npm run precache && npm run replaceCritical && npm run uncss && npm run rev",
+    "build": "rm -rf ./public/ && hugo && npm run htmlmin && npm run replaceCritical && npm run uncss && npm run precache && npm run rev",
     "precache": "sw-precache --config=sw-precache-config.js --verbose",
     "htmlmin": "html-minifier --collapse-whitespace --input-dir ./public/ --output-dir ./public/ --file-ext html",
     "dev": "hugo serve",

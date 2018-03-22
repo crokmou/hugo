@@ -3,7 +3,7 @@ const dir = __dirname.replace('_scripts', 'public');
 
 const cssAndJsVersioning = new Version({
   assets: [dir+'/assets/list.css', dir+'/assets/print.css', dir+'/assets/single.css', dir+'/assets/app.js'],
-  grepFiles: [dir+'/**/*.html']
+  grepFiles: [dir+'/**/*.html', dir+'/service-worker.js']
 });
 cssAndJsVersioning.run(() => {
   const serviceWorkerVersioning = new Version({
