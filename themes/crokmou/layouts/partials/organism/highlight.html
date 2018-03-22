@@ -17,7 +17,7 @@
           {{$webpLqip := replaceRE "(.jpe?g$)" ".webp" $webpLqip}}
           {{$webp := replaceRE "(.jpe?g$)" ".webp" $webp}}
           <source class="picture__item" media="--small" data-srcset="{{$webpMin}}" type="image/webp">
-          <source class="picture__item" data-srcset='{{$webp}}' src="{{$webpLqip}}" type="image/webp">
+          <source class="picture__item" data-srcset='{{$webp}}' srcset="{{$webpLqip}}" type="image/webp">
         {{end}}
         <source class="picture__item" media="--small" data-srcset="{{$thumbnailSmall}}">
         <img class="picture__item lazyload" data-src="{{$thumbnail}}" src="{{$thumbnailLqip}}" alt="{{.Params.Title}}"/>
