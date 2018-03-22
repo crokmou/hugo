@@ -62,13 +62,6 @@
 		"oAP": "\/themes\/crokmou\/static\/data",
 		"oF": 0
 		},
-	"\/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/themes\/crokmou\/static\/index.html",
-		"oF": 0
-		},
 	"\/layouts": {
 		"ft": 65536,
 		"oA": 1,
@@ -84,7 +77,7 @@
 		},
 	"\/node_modules": {
 		"ft": 65536,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/themes\/crokmou\/static\/node_modules",
 		"oF": 0
 		},
@@ -483,6 +476,19 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/src\/assets\/scss\/list.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 0,
+		"oAP": "\/themes\/crokmou\/static\/assets\/list.css",
+		"oF": 2,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/src\/assets\/scss\/molecule\/_algolia.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -821,7 +827,7 @@
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/style.scss": {
+	"\/src\/assets\/scss\/single.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -829,7 +835,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/themes\/crokmou\/static\/assets\/style.css",
+		"oAP": "\/themes\/crokmou\/static\/assets\/single.css",
 		"oF": 3,
 		"oS": 3,
 		"uL": 1
@@ -869,7 +875,7 @@
 	"displayValue": "hugo",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-fry",
-	"lastBuiltDate": 543134877
+	"lastBuiltDate": 543403342
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

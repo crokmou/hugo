@@ -8,6 +8,17 @@
       {{$thumbnailLqip := replaceRE "([^/]+$)" "p14/$1" .Params.Thumbnail}}
       {{$thumbnail := replaceRE "([^/]+$)" "p750/$1" .Params.Thumbnail}}
       <picture class="picture">
+        {{$isJpg := replaceRE "(.*.jpe?g)" "yes" $thumbnail}}
+        {{if eq $isJpg "yes"}}
+          {{$webpMin := replaceRE "(p750x450/)" "webp/p750x450/" $thumbnailSmall}}
+          {{$webpLqip := replaceRE "(p14/)" "webp/p14/" $thumbnailLqip}}
+          {{$webp := replaceRE "(p750/)" "webp/p750/" $thumbnail}}
+          {{$webpMin := replaceRE "(.jpe?g$)" ".webp" $webpMin}}
+          {{$webpLqip := replaceRE "(.jpe?g$)" ".webp" $webpLqip}}
+          {{$webp := replaceRE "(.jpe?g$)" ".webp" $webp}}
+          <source class="picture__item" media="--small" data-srcset="{{$webpMin}}" type="image/webp">
+          <source class="picture__item" data-srcset='{{$webp}}' src="{{$webpLqip}}" type="image/webp">
+        {{end}}
         <source class="picture__item" media="--small" data-srcset="{{$thumbnailSmall}}">
         <img class="picture__item lazyload" data-src="{{$thumbnail}}" src="{{$thumbnailLqip}}" alt="{{.Params.Title}}"/>
         <noscript>

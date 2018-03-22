@@ -18,7 +18,7 @@ const sections = {
     const section = sections[s];
     penthouse({
       url:  URL + section.defaultFile, // can also use file:/// protocol for local files
-      css: ASSETS + 'style.css', // path to original css file on disk
+      css: ASSETS + (/home|list/.test(s) ? 'list.css' : 'single.css'), // path to original css file on disk
     }).then(critical => {
       fs.writeFileSync(ASSETS + 'critical_'+s + '.css', critical);
     }).catch(err => {

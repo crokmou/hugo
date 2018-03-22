@@ -20,21 +20,13 @@ svg, svg * { box-sizing: content-box; }
 img { max-width: 100%; }
 
 body {
-  background-image: url(/assets/images/svg/as-picture/wave.svg); background-color: $brand-primary-light; background-repeat: repeat;
+  background-color: $brand-primary-light; background-repeat: repeat;
+  @include respond-to(medium) {
+    background-image: url(/assets/images/svg/as-picture/wave.svg);
+  }
 }
 
 .container { max-width: 1200px; margin: 0 auto; width: 100%; }
-
-.figure {
-  position: relative;
-  [data-pin-href] {
-    display: none;
-    position: absolute; top: 15px; left: 15px;
-    border-radius: 3px;
-  }
-  &:hover [data-pin-href] { display: block; }
-  figure { margin: 0; }
-}
 
 .no-js {
   .lazyload {

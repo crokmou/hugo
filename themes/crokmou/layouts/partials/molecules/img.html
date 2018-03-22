@@ -6,7 +6,9 @@
           itemscope
           itemtype="http://schema.org/ImageObject">
     <a href="{{$src}}" itemprop="contentUrl" target="_blank" rel="noopener">
-      {{ partial "atom/img" .}}
+      <picture>
+        {{ partial "atom/img" .}}
+      </picture>
     </a>
     {{with $caption}}<figcaption itemprop="caption description">{{.}}</figcaption>{{end}}
   </figure>
