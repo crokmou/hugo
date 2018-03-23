@@ -6,7 +6,7 @@ const options = {
   csspath     : '../public/assets/',
   stylesheets : ['list.css'],
   ignoreSheets: [/fonts.googleapis/],
-  ignore      : [/global-search.*?/],
+  ignore      : [/global-search.*?/, /aa-.*?/],
   timeout     : 1000,
   htmlroot    : 'public',
   banner      : false,
