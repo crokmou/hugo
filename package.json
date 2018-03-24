@@ -87,6 +87,7 @@
     "eslint-config-google": "^0.8.0 ",
     "html-minifier": "^3.5.7",
     "node-version-assets": "^1.2.2",
+    "npm-run-all": "^4.1.2",
     "penthouse": "^1.4.0",
     "postcss": "^6.0.14",
     "postcss-cli": "^4.1.1",
