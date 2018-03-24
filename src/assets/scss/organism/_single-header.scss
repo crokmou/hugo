@@ -54,7 +54,7 @@
         &__next { top: 100%; }
         &__prev { top: -100%; }
         display: grid; grid-auto-rows: 1fr;
-        margin: -(100% / 3 * 2) auto;
+        margin: -400px auto;
       }
       .hoverable {
         &.prev {
