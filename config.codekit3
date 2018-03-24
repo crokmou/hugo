@@ -801,6 +801,19 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/src\/assets\/scss\/shortcodes\/_img.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/shortcodes\/_img.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/src\/assets\/scss\/shortcodes\/_infos.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -875,7 +888,7 @@
 	"displayValue": "hugo",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-fry",
-	"lastBuiltDate": 543481784
+	"lastBuiltDate": 543591889
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
