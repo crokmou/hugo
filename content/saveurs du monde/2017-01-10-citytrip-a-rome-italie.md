@@ -16,11 +16,12 @@ Rome est une ville bien singulière, il y a tellement de choses à découvrir, j
 
 En temps normal j'ai tendance à toujours prévoir à la seconde près mes voyages, mais là, j'ai décidé d'y aller les yeux fermés. Notre but du weekend ? Nous perdre dans les rues de Rome. Bien que nous soyons passés par tous les monuments bien connus de la ville, le fait de se balader à l'aveugle à rendu les longues heures de marche très enrichissantes. Pour nous repérer un peu (beh oui quand même), nous avions pris avec nous [La cartoville de Rome](http://www.gallimard.fr/Catalogue/GALLIMARD-LOISIRS/Cartoville/Rome4) aux Editions Gallimard, un petit livret vraiment complet. // Et pour tout vous avouer, jouer à Assassin's Creed Brotherhood est un bon moyen d'en savoir un peu plus sur les monuments visités au fur et à mesure du citytrip, si si c'est véridique ! C'est la gameuse en moi qui vous le dis //
 
-[1 - Visiter (musées, quartiers...)](#visiter) [2 - Se loger](#loger) [3 - Se restaurer](#restaurer) [4 - Accessibilité & choses utiles à savoir](#acces)
+<div id="visiter">[1 - Visiter (musées, quartiers...)]</div> 
+[2 - Se loger](#loger) [3 - Se restaurer](#restaurer) [4 - Accessibilité & choses utiles à savoir](#acces)
 
-<iframe src="https://www.youtube.com/embed/Y7M-tsuTllc?rel=0" width="800" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube.com/watch?v=-Ttt2XMLFos" width="800" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-## 1 - Visiter Rome
+<a href="#visiter">## 1 - Visiter Rome</a>
 
 Je l'ai dit plus haut et n'hésite pas à vous le dire une seconde fois, perdez- vous ! Vous tomberez sur de vrais petites perles ...
 
