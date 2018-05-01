@@ -54,3 +54,4 @@ collections:
           - {label: "Régime", name: "Régime", widget: "list", defaut: ["Végétarien"]}
           - {label: "Saison", name: "Saison", widget: "list", defaut: ["Hiver"]}
           - {label: "évènement", name: "évènement", widget: "list", defaut: ["Goûter", "Saint-Nicolas"]}
+
