@@ -16,9 +16,8 @@ recette_details:
   - Catégorie:
     - Conserve
     - Lacto-fermentation
-  - type_de_cuisine:
+  - Type de cuisine:
     - Coréenne
-    - belge
   - Régime:
     - Végétarien
     - Vegan
