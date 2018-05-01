@@ -1,0 +1,56 @@
+backend:
+  name: git-gateway
+  branch: test-netlify # Branch to update (optional; defaults to master)
+publish_mode: editorial_workflow
+collections:
+  - name: "blog" # Used in routes, e.g., /admin/collections/blog
+    label: "Blog" # Used in the UI
+    folder: "content/blog" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Date de publication", name: "date", widget: "datetime"}
+      - {label: "Image principale", name: "thumbnail", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Categories", name: "categories", widget: "list"}
+      - {label: "Tags", name: "tags", widget: "list"}
+  - name: "carnet-de-voyage" # Used in routes, e.g., /admin/collections/blog
+    label: "Carnet de voyage" # Used in the UI
+    folder: "content/carnet de voyage" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Date de publication", name: "date", widget: "datetime"}
+      - {label: "Image principale", name: "thumbnail", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Categories", name: "categories", widget: "list"}
+      - {label: "Tags", name: "tags", widget: "list"}
+  - name: "pages" # Used in routes, e.g., /admin/collections/blog
+    label: "Pages" # Used in the UI
+    folder: "content/pages" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+  - name: "recettes" # Used in routes, e.g., /admin/collections/blog
+    label: "Recettes" # Used in the UI
+    folder: "content/recettes" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Date de publication", name: "date", widget: "datetime"}
+      - {label: "Image principale", name: "thumbnail", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Categories", name: "categories", widget: "list"}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Recette qantity", name: "recette_qty", widget: "string", default: "Pour 4 personnes"}
+      - label: "Recette details"
+        name: "recette_details"
+        widget: "list"
+        fields:
+          - {label: "Catégorie", name: "Catégorie", widget: "list", defaut: ["Brioche"]}
+          - {label: "Type de cuisine", name: "Type de cuisine", widget: "list", defaut: ["Française"]}
+          - {label: "Régime", name: "Régime", widget: "list", defaut: ["Végétarien"]}
+          - {label: "Saison", name: "Saison", widget: "list", defaut: ["Hiver"]}
+          - {label: "évènement", name: "évènement", widget: "list", defaut: ["Goûter", "Saint-Nicolas"]}
