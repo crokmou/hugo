@@ -17,6 +17,7 @@ collections:
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Categories", name: "categories", widget: "list"}
       - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "carnet-de-voyage" # Used in routes, e.g., /admin/collections/blog
     label: "Carnet de voyage" # Used in the UI
     folder: "content/carnet de voyage" # The path to the folder where the documents are stored
@@ -29,6 +30,7 @@ collections:
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Categories", name: "categories", widget: "list"}
       - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
     label: "Pages" # Used in the UI
     folder: "content/pages" # The path to the folder where the documents are stored
@@ -56,3 +58,4 @@ collections:
           - {label: "Régime", name: "Régime", widget: "list"}
           - {label: "Saison", name: "Saison", widget: "list"}
           - {label: "évènement", name: "évènement", widget: "list"}
+      - {label: "Body", name: "body", widget: "markdown"}
