@@ -54,7 +54,7 @@ collections:
         widget: "object"
         fields:
           - {label: "Catégorie", name: "Catégorie", widget: "list"}
-          - {label: "Type de cuisine", name: "Type de cuisine", widget: "list"}
+          - {label: "Type de cuisine", name: "type_de_cuisine", widget: "list"}
           - {label: "Régime", name: "Régime", widget: "list"}
           - {label: "Saison", name: "Saison", widget: "list"}
           - {label: "évènement", name: "évènement", widget: "list"}
