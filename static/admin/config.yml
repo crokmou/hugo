@@ -2,6 +2,7 @@ backend:
   name: git-gateway
   branch: test-netlify # Branch to update (optional; defaults to master)
 publish_mode: editorial_workflow
+media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
@@ -54,4 +55,3 @@ collections:
           - {label: "Régime", name: "Régime", widget: "list", defaut: ["Végétarien"]}
           - {label: "Saison", name: "Saison", widget: "list", defaut: ["Hiver"]}
           - {label: "évènement", name: "évènement", widget: "list", defaut: ["Goûter", "Saint-Nicolas"]}
-
