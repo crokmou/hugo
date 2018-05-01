@@ -51,7 +51,6 @@ collections:
       - {label: "Recette qantity", name: "recette_qty", widget: "string", default: "Pour 4 personnes"}
       - label: "Recette details"
         name: "recette_details"
-        widget: "list"
         fields:
           - {label: "Catégorie", name: "Catégorie", widget: "list"}
           - {label: "Type de cuisine", name: "Type de cuisine", widget: "list"}
