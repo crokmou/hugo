@@ -1,6 +1,6 @@
 ---
 date: "2017-03-24T19:46:26+01:00"
-title: "Pâtes fraiches maison à la betterave"
+title: "Pâtes fraiches maison à la betterave (Vegan)"
 thumbnail: "https://images.crokmou.com/recette-pates-fraiches-maison-betterave-crokmou-blog-cuisine-voyage-1-8.jpg"
 categories:
   - "Plats"
@@ -22,6 +22,7 @@ recette_details:
   - Régime:
     - Végétarien
     - Sans lactose
+    - Vegan
   - Saison:
     - Printemps
     - été

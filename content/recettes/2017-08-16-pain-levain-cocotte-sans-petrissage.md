@@ -1,6 +1,6 @@
 ---
 date: "2017-08-16T17:04:16+02:00"
-title: "Pain au levain en cocotte et sans pétrissage - Recette facile"
+title: "Pain au levain en cocotte et sans pétrissage - Recette facile (Vegan)"
 thumbnail: "https://images.crokmou.com/recette-pain-levain-cocotte-crokmou-blog-cuisine-voyage-belgique-4.jpg"
 categories:
   - "Boulangerie"

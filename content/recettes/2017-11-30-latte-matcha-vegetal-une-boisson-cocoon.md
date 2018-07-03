@@ -1,6 +1,6 @@
 ---
 date: "2017-11-30T16:53:36+01:00"
-title: "Latte matcha végétal, une boisson cocoon"
+title: "Latte matcha végétal, une boisson cocoon (Vegan)"
 thumbnail: "https://images.crokmou.com/recette-latte-matcha-vegetal-vegan-crokmou-blog-belge-cuisine-voyage-07.jpg"
 categories:
   - "Boissons"

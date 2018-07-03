@@ -1,6 +1,6 @@
 ---
 date: "2017-10-18T17:38:34+02:00"
-title: "Porridge végétal aux poires et sirop d'érable"
+title: "Porridge végétal aux poires et sirop d'érable (Vegan)"
 thumbnail: "https://images.crokmou.com/porridge-poire-sirop-erable-crokmou-blog-belge-cuisine-voyage-01.jpg"
 categories:
   - "Desserts"

@@ -1,6 +1,6 @@
 ---
 date: "2017-05-11T17:30:48+02:00"
-title: "Pâte levée feuilletée, un classique (V)"
+title: "Pâte levée feuilletée, un classique (Vegan)"
 thumbnail: "https://images.crokmou.com/pâte-levée-feuilletée-plf-crokmou-blog-cuisine-voyage-1-14.jpg"
 categories:
   - "Boulangerie"

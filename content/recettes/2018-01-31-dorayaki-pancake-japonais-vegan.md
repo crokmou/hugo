@@ -1,5 +1,5 @@
 ---
-title: "Dorayaki Pancake Japonais (V)"
+title: "Dorayaki Pancake Japonais (Vegan)"
 date: "2018-01-31T16:55:08+01:00"
 thumbnail: "/recette-dorayaki-pancake-japonais-vegan-vegetalien-crokmou-blog-belge-cuisine-voyage-1.jpg"
 categories:

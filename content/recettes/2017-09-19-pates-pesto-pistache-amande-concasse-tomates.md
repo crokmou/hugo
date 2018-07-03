@@ -1,6 +1,6 @@
 ---
 date: "2017-09-19T18:45:44+02:00"
-title: "Pâtes au pesto de pistaches et d'amandes, concassé de tomates"
+title: "Pâtes au pesto de pistaches et d'amandes, concassé de tomates (Vegan)"
 thumbnail: "https://images.crokmou.com/pate-pesto-pistache-amande-huile-concassé-tomate-crokmou-blog-belge-cuisine-voyage-01.jpg"
 categories:
   - "Plats"

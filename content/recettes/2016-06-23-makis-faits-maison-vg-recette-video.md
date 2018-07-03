@@ -1,6 +1,6 @@
 ---
 date: "2016-06-23T15:58:36+02:00"
-title: "Makis faits maison, recette en vidéo"
+title: "Makis faits maison, recette en vidéo (Vegan)"
 thumbnail: "https://images.crokmou.com/makis-vg-crokmou-blog-culinaire.jpg"
 categories:
   - "Plats"
@@ -81,7 +81,7 @@ Les beaux jours reviennent doucement (*Touche du singe*) et notre envie de petit
 
 {{< recette >}}
 
-<iframe src="https://www.youtube.com/watch?v=54WGIkhnF9Y" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/54WGIkhnF9Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
 Facile non ? Une petite aprem makis en famille et tout le monde est heureux, vous verrez ! En ce qui concerne la conservation, à la maison ils sont généralement mangés le jour même au maximum le lendemain. Je ne saurais donc vous dire combien de temps cela peut tenir ni même si cela peut être congelé. Quelqu'un saura peut être m'en dire plus là dessus ?
 

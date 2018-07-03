@@ -1,6 +1,6 @@
 ---
 date: "2017-08-21T16:18:40+02:00"
-title: "Pain au levain, matcha et cranberries - Original et délicieux"
+title: "Pain au levain, matcha et cranberries (Vegan)"
 thumbnail: "https://images.crokmou.com/pain-levain-matcha-cranberries-crokmou-blog-cuisine-voyage-belgique-1.jpg"
 categories:
   - "Boulangerie"

@@ -1,5 +1,5 @@
 ---
-title: "Faire son kimchi Coréen Maison (V)"
+title: "Faire son kimchi Coréen Maison (Vegan)"
 date: "2018-02-20T18:00:00+01:00"
 thumbnail: "https://images.crokmou.com/recette-kimchi-maison-crokmou-blog-belge-cuisine-voyage-05.jpg"
 categories:

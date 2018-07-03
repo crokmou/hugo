@@ -1,5 +1,5 @@
 ---
-title: "Bouillon Japonais au Miso Rouge & Blanc (V)"
+title: "Bouillon Japonais au Miso Rouge & Blanc (Vegan)"
 date: "2018-03-14T17:30:00+00:00"
 thumbnail: "https://images.crokmou.com/recette-bouillon-deux-miso-vegan-crokmou-blog-belge-cuisine-voyage-01.jpg"
 categories:

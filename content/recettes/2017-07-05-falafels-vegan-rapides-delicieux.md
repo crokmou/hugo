@@ -1,6 +1,6 @@
 ---
 date: "2017-07-05T17:30:36+02:00"
-title: "Falafels, une recette rapide à faire et délicieuse ! - Vegan"
+title: "Falafels, une recette rapide à faire et délicieuse ! (Vegan)"
 thumbnail: "https://images.crokmou.com/recette-falafels-pois-chiches-persil-plat-crokmou-blog-cuisine-voyage-belgique.jpg"
 categories:
   - "Plats"
