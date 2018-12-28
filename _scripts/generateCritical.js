@@ -7,7 +7,7 @@ const URL = 'http://localhost:1313/';
 const ASSETS = 'themes/crokmou/static/assets/';
 
 const sections = {
-  'post'            : {defaultFile: '2018/01/dorayaki-pancake-japonais-v/index.html', files: []},
+  'post'            : {defaultFile: '2013/10/comtesse-du-barry-blanquette-veau/index.html', files: []},
   'page'            : {defaultFile: 'a-propos/index.html', files: []},
   'home'            : {defaultFile: 'index.html', files: []},
   'list'            : {defaultFile: 'carnet-de-voyage/index.html', files: []},
