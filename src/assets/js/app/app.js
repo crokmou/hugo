@@ -3,7 +3,6 @@
 // @codekit-prepend 'analytics.js'
 
 $(document).ready(function() {
-
   const $bodyHtml      = $('body, html');
 
   (function app() {
@@ -138,7 +137,7 @@ $(document).ready(function() {
         window.location = suggestion.uri;
       });
     } catch (e) {
-      setTimeout(Algolia, 300);
+      setTimeout(algolia, 300);
     }
   }
 

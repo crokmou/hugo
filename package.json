@@ -81,6 +81,7 @@
   },
   "devDependencies": {
     "algoliasearch": "^3.24.5",
+    "babel-eslint": "^10.0.1",
     "deep-diff": "^0.3.8",
     "dotenv": "^4.0.0",
     "eslint": "^4.1.1",

@@ -1,5 +1,5 @@
 {
-"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and\/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https:\/\/codekitapp.com\/",
+"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https://codekitapp.com/",
 "buildSteps": [
 	{
 		"name": "Process All Remaining Files and Folders",
@@ -7,103 +7,103 @@
 		"uuidString": "C085F050-16C1-43EC-B5F4-0C60B86A6C19"
 		}
 	],
-"creatorBuild": "26330",
+"creatorBuild": "28905",
 "files": {
-	"\/.env": {
+	"/.env": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/.env",
+		"oAP": "/themes/crokmou/static/.env",
 		"oF": 1
 		},
-	"\/.gitignore": {
+	"/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/.gitignore",
+		"oAP": "/themes/crokmou/static/.gitignore",
 		"oF": 1
 		},
-	"\/.idea": {
+	"/.idea": {
 		"ft": 65536,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/.idea",
+		"oAP": "/themes/crokmou/static/.idea",
 		"oF": 0
 		},
-	"\/.release-it.json": {
+	"/.release-it.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/.release-it-min.json",
+		"oAP": "/themes/crokmou/static/.release-it-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/_scripts": {
+	"/_scripts": {
 		"ft": 65536,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/_scripts",
+		"oAP": "/themes/crokmou/static/_scripts",
 		"oF": 0
 		},
-	"\/config.yaml": {
+	"/config.yaml": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/config.yaml",
+		"oAP": "/themes/crokmou/static/config.yaml",
 		"oF": 1
 		},
-	"\/content": {
+	"/content": {
 		"ft": 65536,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/content",
+		"oAP": "/themes/crokmou/static/content",
 		"oF": 0
 		},
-	"\/data": {
+	"/data": {
 		"ft": 65536,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/data",
+		"oAP": "/themes/crokmou/static/data",
 		"oF": 0
 		},
-	"\/layouts": {
+	"/layouts": {
 		"ft": 65536,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/layouts",
+		"oAP": "/themes/crokmou/static/layouts",
 		"oF": 0
 		},
-	"\/LICENSE": {
+	"/LICENSE": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/LICENSE",
+		"oAP": "/themes/crokmou/static/LICENSE",
 		"oF": 1
 		},
-	"\/node_modules": {
+	"/node_modules": {
 		"ft": 65536,
 		"oA": 2,
-		"oAP": "\/themes\/crokmou\/static\/node_modules",
+		"oAP": "/themes/crokmou/static/node_modules",
 		"oF": 0
 		},
-	"\/package-lock.json": {
+	"/package-lock.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/package-lock-min.json",
+		"oAP": "/themes/crokmou/static/package-lock-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/package.json": {
+	"/package.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/package-min.json",
+		"oAP": "/themes/crokmou/static/package-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/public": {
+	"/public": {
 		"ft": 65536,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/public",
+		"oAP": "/themes/crokmou/static/public",
 		"oF": 0
 		},
-	"\/README.md": {
+	"/README.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -112,7 +112,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/README.html",
+		"oAP": "/themes/crokmou/static/README.html",
 		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
@@ -121,258 +121,258 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/robots.txt": {
+	"/robots.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/robots.txt",
+		"oAP": "/themes/crokmou/static/robots.txt",
 		"oF": 1
 		},
-	"\/src\/assets\/images\/jpg\/logo.png": {
+	"/src/assets/images/jpg/logo.png": {
 		"ft": 32768,
 		"iS": 56173,
 		"oA": 2,
-		"oAP": "\/themes\/crokmou\/static\/assets\/images\/jpg\/logo.png",
+		"oAP": "/themes/crokmou/static/assets/images/jpg/logo.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/src\/assets\/images\/jpg\/logo.webp": {
+	"/src/assets/images/jpg/logo.webp": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/themes\/crokmou\/static\/assets\/images\/jpg\/logo.webp",
+		"oAP": "/themes/crokmou/static/assets/images/jpg/logo.webp",
 		"oF": 1
 		},
-	"\/src\/assets\/images\/manifest\/icon-128x128.png": {
+	"/src/assets/images/manifest/icon-128x128.png": {
 		"ft": 32768,
 		"iS": 5929,
 		"oA": 2,
-		"oAP": "\/themes\/crokmou\/static\/assets\/images\/manifest\/icon-128x128.png",
+		"oAP": "/themes/crokmou/static/assets/images/manifest/icon-128x128.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/src\/assets\/images\/manifest\/icon-144x144.png": {
+	"/src/assets/images/manifest/icon-144x144.png": {
 		"ft": 32768,
 		"iS": 7070,
 		"oA": 2,
-		"oAP": "\/themes\/crokmou\/static\/assets\/images\/manifest\/icon-144x144.png",
+		"oAP": "/themes/crokmou/static/assets/images/manifest/icon-144x144.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/src\/assets\/images\/manifest\/icon-152x152.png": {
+	"/src/assets/images/manifest/icon-152x152.png": {
 		"ft": 32768,
 		"iS": 7645,
 		"oA": 2,
-		"oAP": "\/themes\/crokmou\/static\/assets\/images\/manifest\/icon-152x152.png",
+		"oAP": "/themes/crokmou/static/assets/images/manifest/icon-152x152.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/src\/assets\/images\/manifest\/icon-192x192.png": {
+	"/src/assets/images/manifest/icon-192x192.png": {
 		"ft": 32768,
 		"iS": 10718,
 		"oA": 2,
-		"oAP": "\/themes\/crokmou\/static\/assets\/images\/manifest\/icon-192x192.png",
+		"oAP": "/themes/crokmou/static/assets/images/manifest/icon-192x192.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/src\/assets\/images\/manifest\/icon-384x384.png": {
+	"/src/assets/images/manifest/icon-384x384.png": {
 		"ft": 32768,
 		"iS": 32080,
 		"oA": 2,
-		"oAP": "\/themes\/crokmou\/static\/assets\/images\/manifest\/icon-384x384.png",
+		"oAP": "/themes/crokmou/static/assets/images/manifest/icon-384x384.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/src\/assets\/images\/manifest\/icon-512x512.png": {
+	"/src/assets/images/manifest/icon-512x512.png": {
 		"ft": 32768,
 		"iS": 37304,
 		"oA": 2,
-		"oAP": "\/themes\/crokmou\/static\/assets\/images\/manifest\/icon-512x512.png",
+		"oAP": "/themes/crokmou/static/assets/images/manifest/icon-512x512.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/src\/assets\/images\/manifest\/icon-72x72.png": {
+	"/src/assets/images/manifest/icon-72x72.png": {
 		"ft": 32768,
 		"iS": 2501,
 		"oA": 2,
-		"oAP": "\/themes\/crokmou\/static\/assets\/images\/manifest\/icon-72x72.png",
+		"oAP": "/themes/crokmou/static/assets/images/manifest/icon-72x72.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/src\/assets\/images\/manifest\/icon-96x96.png": {
+	"/src/assets/images/manifest/icon-96x96.png": {
 		"ft": 32768,
 		"iS": 3775,
 		"oA": 2,
-		"oAP": "\/themes\/crokmou\/static\/assets\/images\/manifest\/icon-96x96.png",
+		"oAP": "/themes/crokmou/static/assets/images/manifest/icon-96x96.png",
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/src\/assets\/images\/svg\/as-picture\/arrow.svg": {
+	"/src/assets/images/svg/as-picture/arrow.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/themes\/crokmou\/static\/assets\/images\/svg\/as-picture\/arrow.svg",
+		"oAP": "/themes/crokmou/static/assets/images/svg/as-picture/arrow.svg",
 		"oF": 1,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/src\/assets\/images\/svg\/as-picture\/socials\/email.svg": {
+	"/src/assets/images/svg/as-picture/socials/email.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/themes\/crokmou\/static\/assets\/images\/svg\/as-picture\/socials\/email.svg",
+		"oAP": "/themes/crokmou/static/assets/images/svg/as-picture/socials/email.svg",
 		"oF": 1,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/src\/assets\/images\/svg\/as-picture\/socials\/facebook.svg": {
+	"/src/assets/images/svg/as-picture/socials/facebook.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/themes\/crokmou\/static\/assets\/images\/svg\/as-picture\/socials\/facebook.svg",
+		"oAP": "/themes/crokmou/static/assets/images/svg/as-picture/socials/facebook.svg",
 		"oF": 1,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/src\/assets\/images\/svg\/as-picture\/socials\/google+.svg": {
+	"/src/assets/images/svg/as-picture/socials/google+.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/themes\/crokmou\/static\/assets\/images\/svg\/as-picture\/socials\/google+.svg",
+		"oAP": "/themes/crokmou/static/assets/images/svg/as-picture/socials/google+.svg",
 		"oF": 1,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/src\/assets\/images\/svg\/as-picture\/socials\/linkedIn.svg": {
+	"/src/assets/images/svg/as-picture/socials/linkedIn.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/themes\/crokmou\/static\/assets\/images\/svg\/as-picture\/socials\/linkedIn.svg",
+		"oAP": "/themes/crokmou/static/assets/images/svg/as-picture/socials/linkedIn.svg",
 		"oF": 1,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/src\/assets\/images\/svg\/as-picture\/socials\/pinterest.svg": {
+	"/src/assets/images/svg/as-picture/socials/pinterest.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/themes\/crokmou\/static\/assets\/images\/svg\/as-picture\/socials\/pinterest.svg",
+		"oAP": "/themes/crokmou/static/assets/images/svg/as-picture/socials/pinterest.svg",
 		"oF": 1,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/src\/assets\/images\/svg\/as-picture\/socials\/pocket.svg": {
+	"/src/assets/images/svg/as-picture/socials/pocket.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/themes\/crokmou\/static\/assets\/images\/svg\/as-picture\/socials\/pocket.svg",
+		"oAP": "/themes/crokmou/static/assets/images/svg/as-picture/socials/pocket.svg",
 		"oF": 1,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/src\/assets\/images\/svg\/as-picture\/socials\/twitter.svg": {
+	"/src/assets/images/svg/as-picture/socials/twitter.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/themes\/crokmou\/static\/assets\/images\/svg\/as-picture\/socials\/twitter.svg",
+		"oAP": "/themes/crokmou/static/assets/images/svg/as-picture/socials/twitter.svg",
 		"oF": 1,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/src\/assets\/images\/svg\/as-picture\/wave.svg": {
+	"/src/assets/images/svg/as-picture/wave.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/themes\/crokmou\/static\/assets\/images\/svg\/as-picture\/wave.svg",
+		"oAP": "/themes/crokmou/static/assets/images/svg/as-picture/wave.svg",
 		"oF": 1,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/src\/assets\/images\/svg\/Crokmou.min.svg": {
+	"/src/assets/images/svg/Crokmou.min.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/themes\/crokmou\/static\/assets\/images\/svg\/Crokmou.min.svg",
+		"oAP": "/themes/crokmou/static/assets/images/svg/Crokmou.min.svg",
 		"oF": 1,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/src\/assets\/js\/app\/analytics.js": {
+	"/src/assets/js/app/analytics.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/js\/app\/analytics.js",
+		"oAP": "/themes/crokmou/static/assets/js/app/analytics.js",
 		"oF": 1,
 		"sC": 0,
 		"tS": 1
 		},
-	"\/src\/assets\/js\/app\/app.js": {
+	"/src/assets/js/app/app.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/themes\/crokmou\/static\/assets\/app.js",
+		"oAP": "/themes/crokmou/static/assets/app.js",
 		"oF": 3,
 		"sC": 0,
 		"tS": 1
 		},
-	"\/src\/assets\/js\/vendor\/lazysizes.min.js": {
+	"/src/assets/js/vendor/lazysizes.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/js\/vendor\/lazysizes.min.js",
+		"oAP": "/themes/crokmou/static/assets/js/vendor/lazysizes.min.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 1
 		},
-	"\/src\/assets\/manifest.json": {
+	"/src/assets/manifest.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/themes\/crokmou\/static\/assets\/manifest.json",
+		"oAP": "/themes/crokmou/static/assets/manifest.json",
 		"oF": 3,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/src\/assets\/scss\/_grid.scss": {
+	"/src/assets/scss/_grid.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -380,12 +380,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/_grid.css",
+		"oAP": "/themes/crokmou/static/assets/scss/_grid.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/_markdown.scss": {
+	"/src/assets/scss/_markdown.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -393,12 +393,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/_markdown.css",
+		"oAP": "/themes/crokmou/static/assets/scss/_markdown.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/_reset.scss": {
+	"/src/assets/scss/_reset.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -406,12 +406,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/_reset.css",
+		"oAP": "/themes/crokmou/static/assets/scss/_reset.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/_utils.scss": {
+	"/src/assets/scss/_utils.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -419,12 +419,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/_utils.css",
+		"oAP": "/themes/crokmou/static/assets/scss/_utils.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/_variables.scss": {
+	"/src/assets/scss/_variables.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -432,12 +432,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/_variables.css",
+		"oAP": "/themes/crokmou/static/assets/scss/_variables.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/atom\/_button.scss": {
+	"/src/assets/scss/atom/_button.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -445,12 +445,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/atom\/_button.css",
+		"oAP": "/themes/crokmou/static/assets/scss/atom/_button.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/atom\/_input.scss": {
+	"/src/assets/scss/atom/_input.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -458,12 +458,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/atom\/_input.css",
+		"oAP": "/themes/crokmou/static/assets/scss/atom/_input.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/atom\/_typo.scss": {
+	"/src/assets/scss/atom/_typo.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -471,12 +471,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/atom\/_typo.css",
+		"oAP": "/themes/crokmou/static/assets/scss/atom/_typo.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/list.scss": {
+	"/src/assets/scss/list.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -484,12 +484,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/themes\/crokmou\/static\/assets\/list.css",
+		"oAP": "/themes/crokmou/static/assets/list.css",
 		"oF": 2,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/molecule\/_algolia.scss": {
+	"/src/assets/scss/molecule/_algolia.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -497,12 +497,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/molecule\/_algolia.css",
+		"oAP": "/themes/crokmou/static/assets/scss/molecule/_algolia.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/molecule\/_card.scss": {
+	"/src/assets/scss/molecule/_card.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -510,12 +510,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/molecule\/_card.css",
+		"oAP": "/themes/crokmou/static/assets/scss/molecule/_card.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/molecule\/_icon.scss": {
+	"/src/assets/scss/molecule/_icon.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -523,12 +523,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/molecule\/_icon.css",
+		"oAP": "/themes/crokmou/static/assets/scss/molecule/_icon.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/molecule\/_pagination.scss": {
+	"/src/assets/scss/molecule/_pagination.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -536,12 +536,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/molecule\/_pagination.css",
+		"oAP": "/themes/crokmou/static/assets/scss/molecule/_pagination.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/molecule\/_picture.scss": {
+	"/src/assets/scss/molecule/_picture.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -549,12 +549,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/molecule\/_picture.css",
+		"oAP": "/themes/crokmou/static/assets/scss/molecule/_picture.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/molecule\/_selectric.scss": {
+	"/src/assets/scss/molecule/_selectric.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -562,12 +562,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/molecule\/_selectric.css",
+		"oAP": "/themes/crokmou/static/assets/scss/molecule/_selectric.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/organism\/_comment.scss": {
+	"/src/assets/scss/organism/_comment.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -575,12 +575,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/organism\/_comment.css",
+		"oAP": "/themes/crokmou/static/assets/scss/organism/_comment.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/organism\/_footer.scss": {
+	"/src/assets/scss/organism/_footer.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -588,12 +588,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/organism\/_footer.css",
+		"oAP": "/themes/crokmou/static/assets/scss/organism/_footer.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/organism\/_header.scss": {
+	"/src/assets/scss/organism/_header.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -601,12 +601,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/organism\/_header.css",
+		"oAP": "/themes/crokmou/static/assets/scss/organism/_header.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/organism\/_highlight.scss": {
+	"/src/assets/scss/organism/_highlight.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -614,12 +614,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/organism\/_highlight.css",
+		"oAP": "/themes/crokmou/static/assets/scss/organism/_highlight.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/organism\/_home-sections.scss": {
+	"/src/assets/scss/organism/_home-sections.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -627,12 +627,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/organism\/_home-sections.css",
+		"oAP": "/themes/crokmou/static/assets/scss/organism/_home-sections.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/organism\/_newsletter.scss": {
+	"/src/assets/scss/organism/_newsletter.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -640,12 +640,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/organism\/_newsletter.css",
+		"oAP": "/themes/crokmou/static/assets/scss/organism/_newsletter.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/organism\/_related.scss": {
+	"/src/assets/scss/organism/_related.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -653,12 +653,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/organism\/_related.css",
+		"oAP": "/themes/crokmou/static/assets/scss/organism/_related.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/organism\/_share.scss": {
+	"/src/assets/scss/organism/_share.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -666,12 +666,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/organism\/_share.css",
+		"oAP": "/themes/crokmou/static/assets/scss/organism/_share.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/organism\/_sidebar.scss": {
+	"/src/assets/scss/organism/_sidebar.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -679,12 +679,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/organism\/_sidebar.css",
+		"oAP": "/themes/crokmou/static/assets/scss/organism/_sidebar.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/organism\/_single-header.scss": {
+	"/src/assets/scss/organism/_single-header.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -692,12 +692,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/organism\/_single-header.css",
+		"oAP": "/themes/crokmou/static/assets/scss/organism/_single-header.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/pages\/_404.scss": {
+	"/src/assets/scss/pages/_404.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -705,12 +705,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/pages\/_404.css",
+		"oAP": "/themes/crokmou/static/assets/scss/pages/_404.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/pages\/_decouverte.scss": {
+	"/src/assets/scss/pages/_decouverte.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -718,12 +718,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/pages\/_decouverte.css",
+		"oAP": "/themes/crokmou/static/assets/scss/pages/_decouverte.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/pages\/_home.scss": {
+	"/src/assets/scss/pages/_home.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -731,12 +731,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/pages\/_home.css",
+		"oAP": "/themes/crokmou/static/assets/scss/pages/_home.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/pages\/_page.scss": {
+	"/src/assets/scss/pages/_page.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -744,12 +744,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/pages\/_page.css",
+		"oAP": "/themes/crokmou/static/assets/scss/pages/_page.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/pages\/_recettes.scss": {
+	"/src/assets/scss/pages/_recettes.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -757,12 +757,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/pages\/_recettes.css",
+		"oAP": "/themes/crokmou/static/assets/scss/pages/_recettes.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/pages\/_single.scss": {
+	"/src/assets/scss/pages/_single.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -770,12 +770,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/pages\/_single.css",
+		"oAP": "/themes/crokmou/static/assets/scss/pages/_single.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/print.scss": {
+	"/src/assets/scss/print.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -783,12 +783,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/themes\/crokmou\/static\/assets\/print.css",
+		"oAP": "/themes/crokmou/static/assets/print.css",
 		"oF": 3,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/shortcodes\/_gallery.scss": {
+	"/src/assets/scss/shortcodes/_gallery.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -796,12 +796,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/shortcodes\/_gallery.css",
+		"oAP": "/themes/crokmou/static/assets/scss/shortcodes/_gallery.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/shortcodes\/_img.scss": {
+	"/src/assets/scss/shortcodes/_img.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -809,12 +809,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/shortcodes\/_img.css",
+		"oAP": "/themes/crokmou/static/assets/scss/shortcodes/_img.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/shortcodes\/_infos.scss": {
+	"/src/assets/scss/shortcodes/_infos.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -822,12 +822,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/shortcodes\/_infos.css",
+		"oAP": "/themes/crokmou/static/assets/scss/shortcodes/_infos.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/shortcodes\/_recette.scss": {
+	"/src/assets/scss/shortcodes/_recette.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -835,12 +835,12 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/assets\/scss\/shortcodes\/_recette.css",
+		"oAP": "/themes/crokmou/static/assets/scss/shortcodes/_recette.css",
 		"oF": 1,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/src\/assets\/scss\/single.scss": {
+	"/src/assets/scss/single.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -848,25 +848,25 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/themes\/crokmou\/static\/assets\/single.css",
+		"oAP": "/themes/crokmou/static/assets/single.css",
 		"oF": 3,
 		"oS": 3,
 		"uL": 1
 		},
-	"\/sw-precache-config.js": {
+	"/sw-precache-config.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/sw-precache-config.js",
+		"oAP": "/themes/crokmou/static/sw-precache-config.js",
 		"oF": 1,
 		"sC": 0,
 		"tS": 1
 		},
-	"\/themes": {
+	"/themes": {
 		"ft": 65536,
 		"oA": 1,
-		"oAP": "\/themes\/crokmou\/static\/themes",
+		"oAP": "/themes/crokmou/static/themes",
 		"oF": 0
 		}
 	},
@@ -874,7 +874,7 @@
 	{
 		"enabled": 1,
 		"name": "Hook #1",
-		"predicateDataBase64Encoded": "YnBsaXN0MDDUAQIDBAUGYmNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFgcIDxQcJicqMTU6Oz5CRktMT1VZXV9VJG51bGzTCQoLDA0OXxAXTlNDb21wb3VuZFByZWRpY2F0ZVR5cGVfEA9OU1N1YnByZWRpY2F0ZXNWJGNsYXNzEAKAAoAV0hALERNaTlMub2JqZWN0c6ESgAOAFNQLFRYXGBkaG18QEU5TUmlnaHRFeHByZXNzaW9uXxAQTlNMZWZ0RXhwcmVzc2lvbl8QE05TUHJlZGljYXRlT3BlcmF0b3KAE4AOgASAEdUdHh8gCyEiIyQlWU5TT3BlcmFuZF5OU1NlbGVjdG9yTmFtZV8QEE5TRXhwcmVzc2lvblR5cGVbTlNBcmd1bWVudHOABoAFEAOACIANXHZhbHVlRm9yS2V5OtIfCygpEAGAB9IrLC0uWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1NlbGZFeHByZXNzaW9uoy0vMFxOU0V4cHJlc3Npb25YTlNPYmplY3TSEAsyNKEzgAmADNMLHzY3ODlZTlNLZXlQYXRogAsQCoAKXWlucHV0RnVsbFBhdGjSKyw8PV8QHE5TS2V5UGF0aFNwZWNpZmllckV4cHJlc3Npb26jPC8w0issP0BeTlNNdXRhYmxlQXJyYXmjP0EwV05TQXJyYXnSKyxDRF8QE05TS2V5UGF0aEV4cHJlc3Npb26kQ0UvMF8QFE5TRnVuY3Rpb25FeHByZXNzaW9u00cfC0hJSl8QD05TQ29uc3RhbnRWYWx1ZYAPEACAEFRodWdv0issTU5fEBlOU0NvbnN0YW50VmFsdWVFeHByZXNzaW9uo00vMNQLUFFSU0koVFpOU01vZGlmaWVyV05TRmxhZ3NeTlNPcGVyYXRvclR5cGWAEhBj0issVldfEBVOU0luUHJlZGljYXRlT3BlcmF0b3KjVlgwXxATTlNQcmVkaWNhdGVPcGVyYXRvctIrLFpbXxAVTlNDb21wYXJpc29uUHJlZGljYXRlo1pcMFtOU1ByZWRpY2F0ZdIrLEFeokEw0issYGFfEBNOU0NvbXBvdW5kUHJlZGljYXRlo2BcMF8QD05TS2V5ZWRBcmNoaXZlctFkZVRyb290gAEACAARABoAIwAtADIANwBQAFYAXQB3AIkAkACSAJQAlgCbAKYAqACqAKwAtQDJANwA8gD0APYA+AD6AQUBDwEeATEBPQE\/AUEBQwFFAUcBVAFZAVsBXQFiAW0BdgGJAY0BmgGjAagBqgGsAa4BtQG\/AcEBwwHFAdMB2AH3AfsCAAIPAhMCGwIgAjYCOwJSAlkCawJtAm8CcQJ2AnsClwKbAqQCrwK3AsYCyALKAs8C5wLrAwEDBgMeAyIDLgMzAzYDOwNRA1UDZwNqA28AAAAAAAACAQAAAAAAAABmAAAAAAAAAAAAAAAAAAADcQ==",
+		"predicateDataBase64Encoded": "YnBsaXN0MDDUAQIDBAUGYmNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFgcIDxQcJicqMTU6Oz5CRktMT1VZXV9VJG51bGzTCQoLDA0OXxAXTlNDb21wb3VuZFByZWRpY2F0ZVR5cGVfEA9OU1N1YnByZWRpY2F0ZXNWJGNsYXNzEAKAAoAV0hALERNaTlMub2JqZWN0c6ESgAOAFNQLFRYXGBkaG18QEU5TUmlnaHRFeHByZXNzaW9uXxAQTlNMZWZ0RXhwcmVzc2lvbl8QE05TUHJlZGljYXRlT3BlcmF0b3KAE4AOgASAEdUdHh8gCyEiIyQlWU5TT3BlcmFuZF5OU1NlbGVjdG9yTmFtZV8QEE5TRXhwcmVzc2lvblR5cGVbTlNBcmd1bWVudHOABoAFEAOACIANXHZhbHVlRm9yS2V5OtIfCygpEAGAB9IrLC0uWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1NlbGZFeHByZXNzaW9uoy0vMFxOU0V4cHJlc3Npb25YTlNPYmplY3TSEAsyNKEzgAmADNMLHzY3ODlZTlNLZXlQYXRogAsQCoAKXWlucHV0RnVsbFBhdGjSKyw8PV8QHE5TS2V5UGF0aFNwZWNpZmllckV4cHJlc3Npb26jPC8w0issP0BeTlNNdXRhYmxlQXJyYXmjP0EwV05TQXJyYXnSKyxDRF8QE05TS2V5UGF0aEV4cHJlc3Npb26kQ0UvMF8QFE5TRnVuY3Rpb25FeHByZXNzaW9u00cfC0hJSl8QD05TQ29uc3RhbnRWYWx1ZYAPEACAEFRodWdv0issTU5fEBlOU0NvbnN0YW50VmFsdWVFeHByZXNzaW9uo00vMNQLUFFSU0koVFpOU01vZGlmaWVyV05TRmxhZ3NeTlNPcGVyYXRvclR5cGWAEhBj0issVldfEBVOU0luUHJlZGljYXRlT3BlcmF0b3KjVlgwXxATTlNQcmVkaWNhdGVPcGVyYXRvctIrLFpbXxAVTlNDb21wYXJpc29uUHJlZGljYXRlo1pcMFtOU1ByZWRpY2F0ZdIrLEFeokEw0issYGFfEBNOU0NvbXBvdW5kUHJlZGljYXRlo2BcMF8QD05TS2V5ZWRBcmNoaXZlctFkZVRyb290gAEACAARABoAIwAtADIANwBQAFYAXQB3AIkAkACSAJQAlgCbAKYAqACqAKwAtQDJANwA8gD0APYA+AD6AQUBDwEeATEBPQE/AUEBQwFFAUcBVAFZAVsBXQFiAW0BdgGJAY0BmgGjAagBqgGsAa4BtQG/AcEBwwHFAdMB2AH3AfsCAAIPAhMCGwIgAjYCOwJSAlkCawJtAm8CcQJ2AnsClwKbAqQCrwK3AsYCyALKAs8C5wLrAwEDBgMeAyIDLgMzAzYDOwNRA1UDZwNqA28AAAAAAAACAQAAAAAAAABmAAAAAAAAAAAAAAAAAAADcQ==",
 		"runOrder": 0,
 		"scriptSourceString": "",
 		"scriptType": 1,
@@ -888,148 +888,102 @@
 	"displayValue": "hugo",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-fry",
-	"lastBuiltDate": 543591889
+	"iconImageWasSetByUser": 0,
+	"lastBuiltDate": 567692766.69244504
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 0,
-	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
 	"autoprefixerEnableIEGrid": 0,
+	"babel7PresetType": 1,
+	"babelAllowRCFiles": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
-	"babelConfigFileHandlingType": 0,
+	"babelConfigType": 0,
 	"babelCustomPluginsList": "",
 	"babelCustomPresetsList": "",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
 	"babelNoComments": 0,
 	"babelPlugins": {
+		"arrow-functions": {
+			"active": 0
+			},
 		"async-generator-functions": {
 			"active": 1
 			},
 		"async-to-generator": {
 			"active": 1
 			},
-		"async-to-module-method": {
+		"block-scoped-functions": {
+			"active": 0
+			},
+		"block-scoping": {
 			"active": 0
 			},
 		"class-properties": {
 			"active": 0
 			},
+		"classes": {
+			"active": 0
+			},
+		"computed-properties": {
+			"active": 0
+			},
 		"decorators": {
 			"active": 0
 			},
-		"decorators-legacy": {
+		"destructuring": {
 			"active": 0
 			},
 		"do-expressions": {
 			"active": 0
 			},
-		"es2015-arrow-functions": {
+		"dotall-regex": {
 			"active": 0
 			},
-		"es2015-block-scoped-functions": {
-			"active": 0
-			},
-		"es2015-block-scoping": {
-			"active": 0
-			},
-		"es2015-classes": {
-			"active": 0
-			},
-		"es2015-computed-properties": {
-			"active": 0
-			},
-		"es2015-constants": {
-			"active": 0
-			},
-		"es2015-destructuring": {
-			"active": 0
-			},
-		"es2015-duplicate-keys": {
-			"active": 0
-			},
-		"es2015-for-of": {
-			"active": 0
-			},
-		"es2015-function-name": {
-			"active": 0
-			},
-		"es2015-literals": {
-			"active": 0
-			},
-		"es2015-modules-amd": {
-			"active": 0
-			},
-		"es2015-modules-commonjs": {
-			"active": 0
-			},
-		"es2015-modules-systemjs": {
-			"active": 0
-			},
-		"es2015-modules-umd": {
-			"active": 0
-			},
-		"es2015-object-super": {
-			"active": 0
-			},
-		"es2015-parameters": {
-			"active": 0
-			},
-		"es2015-shorthand-properties": {
-			"active": 0
-			},
-		"es2015-spread": {
-			"active": 0
-			},
-		"es2015-sticky-regex": {
-			"active": 0
-			},
-		"es2015-template-literals": {
-			"active": 0
-			},
-		"es2015-typeof-symbol": {
-			"active": 0
-			},
-		"es2015-unicode-regex": {
-			"active": 0
-			},
-		"es3-member-expression-literals": {
-			"active": 0
-			},
-		"es3-property-literals": {
-			"active": 0
-			},
-		"es5-property-mutators": {
-			"active": 0
-			},
-		"eval": {
+		"duplicate-keys": {
 			"active": 0
 			},
 		"exponentiation-operator": {
 			"active": 0
 			},
-		"export-extensions": {
+		"export-default-from": {
+			"active": 0
+			},
+		"export-namespace-from": {
 			"active": 0
 			},
 		"external-helpers": {
 			"active": 0
 			},
-		"flow-comments": {
+		"flow-strip-types": {
 			"active": 0
 			},
-		"flow-strip-types": {
+		"for-of": {
 			"active": 0
 			},
 		"function-bind": {
 			"active": 0
 			},
-		"inline-environment-variables": {
+		"function-name": {
+			"active": 0
+			},
+		"function-sent": {
+			"active": 0
+			},
+		"instanceof": {
 			"active": 0
 			},
 		"jscript": {
+			"active": 0
+			},
+		"literals": {
+			"active": 0
+			},
+		"logical-assignment-operators": {
 			"active": 0
 			},
 		"member-expression-literals": {
@@ -1041,7 +995,28 @@
 		"minify-booleans": {
 			"active": 0
 			},
+		"modules-amd": {
+			"active": 0
+			},
+		"modules-commonjs": {
+			"active": 0
+			},
+		"modules-systemjs": {
+			"active": 0
+			},
+		"modules-umd": {
+			"active": 0
+			},
+		"new-target": {
+			"active": 0
+			},
 		"node-env-inline": {
+			"active": 0
+			},
+		"nullish-coalescing-operator": {
+			"active": 0
+			},
+		"numeric-separator": {
 			"active": 0
 			},
 		"object-assign": {
@@ -1053,7 +1028,25 @@
 		"object-set-prototype-of-to-assign": {
 			"active": 0
 			},
+		"object-super": {
+			"active": 0
+			},
+		"optional-catch-binding": {
+			"active": 0
+			},
+		"optional-chaining": {
+			"active": 0
+			},
+		"parameters": {
+			"active": 0
+			},
+		"pipeline-operator": {
+			"active": 0
+			},
 		"property-literals": {
+			"active": 0
+			},
+		"property-mutators": {
 			"active": 0
 			},
 		"proto-to-assign": {
@@ -1089,53 +1082,46 @@
 		"remove-debugger": {
 			"active": 0
 			},
+		"reserved-words": {
+			"active": 0
+			},
 		"runtime": {
+			"active": 0
+			},
+		"shorthand-properties": {
 			"active": 0
 			},
 		"simplify-comparison-operators": {
 			"active": 0
 			},
+		"spread": {
+			"active": 0
+			},
+		"sticky-regex": {
+			"active": 0
+			},
 		"strict-mode": {
 			"active": 0
 			},
-		"syntax-async-generators": {
+		"template-literals": {
 			"active": 0
 			},
-		"syntax-class-properties": {
+		"throw-expressions": {
 			"active": 0
 			},
-		"syntax-decorators": {
-			"active": 0
-			},
-		"syntax-do-expressions": {
-			"active": 0
-			},
-		"syntax-export-extensions": {
-			"active": 0
-			},
-		"syntax-flow": {
-			"active": 0
-			},
-		"syntax-function-bind": {
-			"active": 0
-			},
-		"syntax-function-sent": {
-			"active": 0
-			},
-		"syntax-jsx": {
-			"active": 0
-			},
-		"syntax-object-rest-spread": {
-			"active": 0
-			},
-		"undeclared-variables-check": {
+		"typeof-symbol": {
 			"active": 0
 			},
 		"undefined-to-void": {
 			"active": 0
+			},
+		"unicode-property-regex": {
+			"active": 0
+			},
+		"unicode-regex": {
+			"active": 0
 			}
 		},
-	"babelPresetType": 193,
 	"babelRetainLines": 0,
 	"bowerAbbreviatedPath": "bower_components",
 	"bowerAutoCreateInfoFile": 1,
@@ -1144,8 +1130,9 @@
 	"bowerSaveDevDependencies": 0,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
+	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
 	"buildFolderActive": 1,
-	"buildFolderName": "themes\/crokmou\/static",
+	"buildFolderName": "themes/crokmou/static",
 	"cleanBuild": 1,
 	"coffeeLintFlags2": {
 		"arrow_spacing": {
@@ -1501,6 +1488,10 @@
 			"active": 0,
 			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
+		"max-classes-per-file": {
+			"active": 0,
+			"optionString": "1"
+			},
 		"max-depth": {
 			"active": 0,
 			"optionString": "{'max': 4}"
@@ -1512,6 +1503,10 @@
 		"max-lines": {
 			"active": 0,
 			"optionString": "{'max': 300, 'skipBlankLines': true, 'skipComments': true}"
+			},
+		"max-lines-per-function": {
+			"active": 0,
+			"optionString": "{'max': 50, 'skipBlankLines': true, 'skipComments': true, 'IIFEs': false}"
 			},
 		"max-nested-callbacks": {
 			"active": 0,
@@ -1557,6 +1552,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-async-promise-executor": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-await-in-loop": {
 			"active": 0,
 			"optionString": ""
@@ -1575,10 +1574,6 @@
 			},
 		"no-case-declarations": {
 			"active": 1,
-			"optionString": ""
-			},
-		"no-catch-shadow": {
-			"active": 0,
 			"optionString": ""
 			},
 		"no-class-assign": {
@@ -1777,9 +1772,13 @@
 			"active": 0,
 			"optionString": "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
 			},
+		"no-misleading-character-class": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-mixed-operators": {
 			"active": 0,
-			"optionString": "{'groups': [['+', '-', '*', '\/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
+			"optionString": "{'groups': [['+', '-', '*', '/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
 			},
 		"no-mixed-requires": {
 			"active": 0,
@@ -2133,6 +2132,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"prefer-object-spread": {
+			"active": 0,
+			"optionString": ""
+			},
 		"prefer-promise-reject-errors": {
 			"active": 0,
 			"optionString": "{'allowEmptyReject': false}"
@@ -2161,6 +2164,10 @@
 			"active": 0,
 			"optionString": "'always'"
 			},
+		"require-atomic-updates": {
+			"active": 0,
+			"optionString": ""
+			},
 		"require-await": {
 			"active": 0,
 			"optionString": ""
@@ -2168,6 +2175,10 @@
 		"require-jsdoc": {
 			"active": 0,
 			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
+			},
+		"require-unicode-regexp": {
+			"active": 0,
+			"optionString": ""
 			},
 		"require-yield": {
 			"active": 1,
@@ -2223,7 +2234,7 @@
 			},
 		"spaced-comment": {
 			"active": 0,
-			"optionString": "'always', {'line': {'markers': ['\/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
+			"optionString": "'always', {'line': {'markers': ['/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
 			},
 		"strict": {
 			"active": 1,
@@ -2283,7 +2294,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerAddress": "http://localhost:8888",
 	"gitIgnoreBuildFolder": 0,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "$",
@@ -2678,7 +2689,6 @@
 		"escapeHTMLCharacters": 0,
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
-		"outputStyle": 0,
 		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
@@ -2691,12 +2701,13 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "\/min",
+		"autoOutputPathRelativePath": "/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
@@ -2728,19 +2739,19 @@
 		"allowInsecureImports": 0,
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "less",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
-		"disableJavascript": 0,
+		"enableJavascript": 0,
 		"ieCompatibility": 1,
+		"mathStyle": 0,
 		"outputStyle": 0,
-		"relativeURLS": 0,
+		"rewriteURLStyle": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"strictImports": 0,
-		"strictMath": 0,
 		"strictUnits": 0
 		},
 	"languageDefaultsMARKDOWN": {
@@ -2796,7 +2807,7 @@
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
@@ -2825,7 +2836,7 @@
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "stylus",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
@@ -2849,36 +2860,70 @@
 	"languageDefaultsTS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "\/js",
+		"autoOutputPathRelativePath": "/js",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"createDeclarationFile": 0,
 		"createSourceMap": 0,
-		"jsxMode": 0,
 		"minifyOutput": 0,
 		"moduleResolutionType": 0,
 		"moduleType": 2,
-		"noImplicitAny": 0,
-		"preserveConstEnums": 0,
 		"removeComments": 0,
-		"suppressImplicitAnyIndexErrors": 0,
 		"targetECMAVersion": 0
 		},
 	"languageDefaultsUserDefined": [
 		],
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules, public, themes, _scripts, archetypes, content, data, layouts",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, /storage/framework/sessions, node_modules, public, themes, _scripts, archetypes, content, data, layouts",
 	"sourceFolderName": "src",
 	"susyVersion": 3,
+	"tsAllowSyntheticDefaultImports": 0,
+	"tsAllowUnreachableCode": 0,
+	"tsAllowUnusedLabels": 0,
+	"tsAlwaysStrict": 0,
+	"tsDownlevelIteration": 0,
+	"tsEmitBOM": 0,
+	"tsEmitDecoratorMetadata": 0,
+	"tsESModuleInterop": 0,
+	"tsForceConsistentCasingInFileNames": 0,
+	"tsImportHelpers": 0,
+	"tsIsolatedModules": 0,
+	"tsJSXFactory": "React.createElement",
+	"tsKeyofStringsOnly": 0,
+	"tsNoEmitHelpers": 0,
+	"tsNoFallthroughCasesInSwitch": 0,
+	"tsNoImplicitAny": 0,
+	"tsNoImplicitReturns": 0,
+	"tsNoImplicitThis": 0,
+	"tsNoImplicitUseStrict": 0,
+	"tsNoLib": 0,
+	"tsNoResolve": 0,
+	"tsNoStrictGenericChecks": 0,
+	"tsNoUnusedLocals": 0,
+	"tsNoUnusedParameters": 0,
+	"tsPreserveConstEnums": 0,
+	"tsPreserveSymlinks": 0,
+	"tsResolveJsonModule": 0,
+	"tsSkipLibCheck": 0,
+	"tsStrictFunctionTypes": 0,
+	"tsStrictNullChecks": 0,
+	"tsStrictPropertyInitialization": 0,
+	"tsStripInternal": 0,
+	"tsSuppressExcessPropertyErrors": 0,
+	"tsSuppressImplicitAnyIndexErrors": 0,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
-		"ascii-only": {
+		"arguments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"ascii_only": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"bare-returns": {
+		"bare_returns": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -2886,11 +2931,11 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"bracketize": {
+		"braces": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"cascade": {
+		"collapse_vars": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -2914,6 +2959,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"directives": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"drop_console": {
 			"active": 0,
 			"flagValue": -1
@@ -2930,7 +2979,15 @@
 			"active": 1,
 			"flagValue": -1
 			},
+		"expression": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_props": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -2938,20 +2995,32 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"if_return": {
+		"html5_comments": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"indent-level": {
+		"ie8": {
 			"active": 0,
-			"flagValue": 4
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
 			},
 		"indent-start": {
 			"active": 0,
 			"flagValue": 0
 			},
-		"inline-script": {
+		"indent_level": {
 			"active": 0,
+			"flagValue": 4
+			},
+		"inline": {
+			"active": 1,
+			"flagValue": 3
+			},
+		"inline_script": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"join_vars": {
@@ -2966,6 +3035,14 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"keep_infinity": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_quoted_props": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"loops": {
 			"active": 1,
 			"flagValue": -1
@@ -2974,12 +3051,20 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"max-line-len": {
+		"max_line_len": {
 			"active": 1,
 			"flagValue": 32000
 			},
 		"negate_iife": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"passes": {
+			"active": 1,
+			"flagValue": 1
+			},
+		"preserve_line": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"properties": {
@@ -2990,11 +3075,19 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"quote-keys": {
+		"quote_keys": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"screw-ie8": {
+		"quote_style": {
+			"active": 1,
+			"flagValue": 0
+			},
+		"reduce_funcs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"reduce_vars": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -3006,23 +3099,51 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"sort": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"space-colon": {
+		"shebang": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"support-ie8": {
-			"active": 0,
+		"side_effects": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"switches": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"toplevel": {
 			"active": 0,
 			"flagValue": -1
 			},
+		"typeofs": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_comps": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_Function": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_math": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_regexp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_undefined": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -3034,13 +3155,21 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"webkit": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"width": {
 			"active": 1,
 			"flagValue": 80
+			},
+		"wrap_iife": {
+			"active": 0,
+			"flagValue": -1
 			}
 		},
 	"uglifyReservedNamesString": "$",
-	"websiteRelativeRoot": "\/themes\/crokmou\/static"
+	"websiteRelativeRoot": "/themes/crokmou/static"
 	},
 "settingsFileVersion": "3"
 }
