@@ -1,3 +1,0 @@
----
-pageTitle: "Saveurs du Monde"
----

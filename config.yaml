@@ -8,9 +8,8 @@ sectionPagesMenu: "main"
 RemovePathAccents: true
 permalinks:
   blog: /:year/:month/:slug/
-  recettes: /:year/:month/:slug/
-  saveurs du monde: /:year/:month/:slug/
   restaurants: /:year/:month/:slug/
+  recettes: /:year/:month/:slug/
   carnet de voyage: /:year/:month/:slug/
   pages: /:slug/
 
@@ -26,18 +25,14 @@ menu:
         Weight: 1
         Identifier: "carnet-de-voyage"
         URL: "/carnet-de-voyage/"
-      - Name: "Recettes"
-        Weight: 3
-        Identifier: "recettes"
-        URL: "/recettes/"
       - Name: "Restaurants"
         Weight: 4
         Identifier: "restaurants"
         URL: "/restaurants/"
-      - Name: "Saveurs du monde"
-        Weight: 2
-        Identifier: "saveurs-du-monde"
-        URL: "/saveurs-du-monde/"
+      - Name: "Recettes"
+        Weight: 3
+        Identifier: "recettes"
+        URL: "/recettes/"
       - Name: "A propos"
         Weight: 6
         Identifier: "a-propos"
@@ -51,18 +46,14 @@ menu:
         Weight: 1
         Identifier: "carnet-de-voyage"
         URL: "/carnet-de-voyage/"
-      - Name: "Recettes"
-        Weight: 3
-        Identifier: "recettes"
-        URL: "/recettes/"
       - Name: "Restaurants"
         Weight: 4
         Identifier: "restaurants"
         URL: "/restaurants/"
-      - Name: "Saveurs du monde"
-        Weight: 2
-        Identifier: "saveurs-du-monde"
-        URL: "/saveurs-du-monde/"
+      - Name: "Recettes"
+        Weight: 3
+        Identifier: "recettes"
+        URL: "/recettes/"
   sections:
       - Name: "Manger à Bruxelles"
         Identifier: "manger-a-bruxelles"
