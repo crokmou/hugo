@@ -1,7 +1,7 @@
 ---
-title: "2020 03 06 Pvt Coree Du Sud Seoul"
+title: "Je pars en Corée du Sud pour un an - PVT"
 date: "2020-03-06T13:01:14+09:00"
-draft: true
+draft: "false"
 thumbnail: "https://images.crokmou.com/korea-seoul-city-temple-hanbok.jpg"
 categories:
   - "Lifestyle"
@@ -11,7 +11,8 @@ tags:
   - "PVT"
   - "Working holiday visa"
   - "Coréen"
-description: ""
+description: "J'avais visité Séoul lors d'un précédent voyage, bien qu'au premier abord les gens m'ont semblés froids, j'ai adoré l'atmosphère de cette capitale aux milles facettes.
+C'est donc tout naturellement que j'ai débarqué à Séoul le 17 Novembre 2019 pour un an!"
 slug: "pvt-coree-du-sud-seoul-nouvelle-vie"
 ---
 ## Comme un retour
@@ -35,7 +36,7 @@ Le visa Vacances-Travail (ou PVT ou encore Working Holiday Visa), était tout si
 J'avais donc l'occasion de partir 1 an, 1 an... en Corée du Sud
 
 J'avais visité Séoul lors d'un précédent voyage, bien qu'au premier abord les gens m'ont semblés froids, j'ai adoré l'atmosphère de cette capitale aux milles facettes.
-C'est donc tout naturellement que j'ai débarqué à Séoul le 17 Novembre 2019!
+C'est donc tout naturellement que j'ai débarqué à Séoul le 17 Novembre 2019 pour un an!
 
 
 # Une autre culture, des rencontres, une nouvelle vie
