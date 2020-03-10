@@ -12,7 +12,7 @@ tags:
   - "Working holiday visa"
   - "Coréen"
 description: "J'avais visité Séoul lors d'un précédent voyage, bien qu'au premier abord les gens m'ont semblés froids, j'ai adoré l'atmosphère de cette capitale aux milles facettes.
-C'est donc tout naturellement que j'ai débarqué à Séoul le 17 Novembre 2019 pour un an!"
+C'est donc tout naturellement que j'ai débarqué à Séoul le 17 Novembre 2019 pour un pvt d'un an!"
 slug: "pvt-coree-du-sud-seoul-nouvelle-vie"
 ---
 ## Comme un retour
