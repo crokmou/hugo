@@ -15,7 +15,7 @@ C'est donc tout naturellement que j'ai débarqué à Séoul le 17 Novembre 2019 
 slug: "pvt-coree-du-sud-seoul-nouvelle-vie"
 ---
 
-Ca fait un bail n'est-ce pas? Voilà bientôt _2 ans que je n'ai pas donné de mes nouvelles par ici_, deux ans que peut être vous vous demandez si "Crokmou" reviendra un jour. Avant de vous expliquer la suite, le pourquoi et le comment, je tiens à m'excuser pour cette absence et ce retour innatendu!
+Ca fait un bail n'est-ce pas? Voilà bientôt _2 ans que je n'ai pas donné de mes nouvelles par ici_, deux ans que peut être vous vous demandez si "Crokmou" reviendra un jour. Avant de vous expliquer la suite, le pourquoi et le comment, je tiens à m'excuser pour cette absence et ce retour inattendu!
 
 J'ai de nombreuses fois voulu reprendre ce blog, parfois même créer autre chose, recommencer à zero. Et puis comme à mon habitude, à force d'avoir trop de choix, je n'ai finalement rien fait.
 **Me voilà aujourd'hui, à nouveau présente pour vous raconter mes histoires**, vous faire découvrir de nouvelles recettes et j'espère, à nouveau, passer de bons moments en votre compagnie.
