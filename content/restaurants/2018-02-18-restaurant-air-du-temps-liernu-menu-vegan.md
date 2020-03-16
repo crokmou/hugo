@@ -11,13 +11,13 @@ tags:
   - "Sang Hoon Degeimbre"
   - "Gastronomique"
   - "Restaurant étoilé"
-description: "Au mois de Février, pour la Saint-Valentin, **mon amoureux m'a offert un déjeuner à l'Air du Temps****. *Restaurant Gastronomique réputé, tenu par le Chef Sang Hoon Degeimbre* - je vous en avais déjà parlé dans [mon article sur San Bol](https://crokmou.com/2017/09/san-bol-experience-culinaire-vegan-bruxelles/)..."
+description: "Au mois de Février, pour la Saint-Valentin, **on m'a offert un déjeuner à l'Air du Temps****. *Restaurant Gastronomique réputé, tenu par le Chef Sang Hoon Degeimbre* - je vous en avais déjà parlé dans [mon article sur San Bol](https://crokmou.com/2017/09/san-bol-experience-culinaire-vegan-bruxelles/)..."
 ---
 
-Au mois de Février, pour la Saint-Valentin, **mon amoureux m'a offert un déjeuner à l'Air du Temps****. *Restaurant Gastronomique réputé, tenu par le Chef Sang Hoon Degeimbre* - je vous en avais déjà parlé dans [mon article sur San Bol](https://crokmou.com/2017/09/san-bol-experience-culinaire-vegan-bruxelles/) - c'est un lieu que je rêvais de découvrir depuis des années !
+Au mois de Février, pour la Saint-Valentin, **on m'a offert un déjeuner à l'Air du Temps****. *Restaurant Gastronomique réputé, tenu par le Chef Sang Hoon Degeimbre* - je vous en avais déjà parlé dans [mon article sur San Bol](https://crokmou.com/2017/09/san-bol-experience-culinaire-vegan-bruxelles/) - c'est un lieu que je rêvais de découvrir depuis des années !
 Je vous l'ai certainement déjà dit mais j'admire beaucoup le Chef San, accessible, posé et talentueux, c'est vraiment agréable de pouvoir discuter avec lui ! Et puis il faut dire que sa cuisine, c'est une tuerie. *Après avoir goûté ses plats au salon Culinaria, au W Food Festival mais aussi dans son restaurant de bols, j'avais donc hâte de découvrir la cuisine de son restaurant étoilé*.
 
-Nous y sommes allés un Dimanche midi, le **repas dans un gastronomique étant souvent très long**, on s'est dit que ce serait plus sympa pour en profiter au maximum. Quelques semaines à l'avance nous avions donc réservé **notre repas vegan** - à specifier directement par mail ou téléphone c'est mieux -. Le Chef et sa brigade étant des férus de légumes, nous étions donc certains d'en prendre plein les papilles.
+La personne qui m'a invité et moi même, sommes allés chez San un Dimanche midi, le **repas dans un gastronomique étant souvent très long**, on s'est dit que ce serait plus sympa pour en profiter au maximum. Quelques semaines à l'avance nous avions donc réservé **notre repas vegan** - à specifier directement par mail ou téléphone c'est mieux -. Le Chef et sa brigade étant des férus de légumes, nous étions donc certains d'en prendre plein les papilles.
 
 {{< img src="https://images.crokmou.com/restaurant-air-du-temps-liernu-menu-vegan-crokmou-blog-belge-cuisine-voyage-22.jpg" >}}
 {{< gallery >}}
@@ -75,6 +75,6 @@ Si vous voulez profiter d'un weekend au vert, le restaurant compte aussi 5 chamb
 
 Et pour les plus petits budgets, je vous invite grandement à faire un tour au San Bol (ou Sans Sablon), pour un petit aperçu de la cuisine de San.
 
-J'ai vraiment été ravie de pouvoir découvrir ce restraurant, et je remercie encore mon amoureux pour l'invitation mais aussi le Chef et sa brigade pour l'effort fait avec ce menu 100% végétal ! 
+J'ai vraiment été ravie de pouvoir découvrir ce restraurant, et je remercie encore cette personne pour l'invitation mais aussi le Chef et sa brigade pour l'effort fait avec ce menu 100% végétal ! 
 {{< img src="https://images.crokmou.com/restaurant-air-du-temps-liernu-menu-vegan-crokmou-blog-belge-cuisine-voyage-19.jpg" >}}
 {{< img src="https://images.crokmou.com/restaurant-air-du-temps-liernu-menu-vegan-crokmou-blog-belge-cuisine-voyage-21.jpg" >}}
