@@ -1,10 +1,9 @@
 ---
 title: "2020 03 30 Yaksik Yakbap Gateau Riz Dessert Coreen"
 date: "2020-03-30T16:59:58+09:00"
-draft: true
-thumbnail: "https://images.crokmou.com/"
+thumbnail: "https://images.crokmou.com/recette-kimchi-maison-crokmou-blog-belge-cuisine-voyage-05.jpg"
 categories:
-  - ""
+  - "-Desserts"
 tags:
   - ""
 description: ""
