@@ -43,21 +43,22 @@ recette_temps:
     duration: "10 jours"
     schema_value: "P10D"
 recette_ingredients:
-  - label : "Saumure"
+  - label : "Caramel"
     value:
-        - "150g de sel (de Maldon)"
-        - 800g d'eau      
-  - label: "Kimchi rouge"
+        - 60g de sucre brun
+        - "2 tbsp d'eau"      
+  - label: "Riz"
     value:
-        - "1/2 chou chinois"
-        - 90g de daïkon
-        - 2 càs de cébettes émincées
-        - 2 càs d'oignons émincés
-        - "1/4 de pomme"
-        - "1/4 de poire"
-        - 2 gousses d'ail
-        - "3 à 4 cm de gingembre (voir photo des ingrédients)"
-        - "4 càs de piment en poudre (dans les épiceries Coréennes) ou du Gochujang"
+        - "570g de riz gluant, appelé aussi sweet rice"
+        - "2 cup d'eau"
+        - "1/2 cup de sucre brun"
+        - "2 tbsp d'huile"
+        - "2 tbsp de sauce soja"
+        - "1 tbsp d'huil de sésame"
+        - "1/2 tsp de cannelle"
+        - "Jujube (facultatif)"
+        - 200g de marron en boite
+        - 2 tbsp de pignons de pin
         - 2 càs d'eau chaude
         - 5g de sel
   - label: "Kimchi blanc"
