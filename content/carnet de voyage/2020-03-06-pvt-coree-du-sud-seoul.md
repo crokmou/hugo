@@ -1,7 +1,7 @@
 ---
 title: "Je pars en Corée du Sud pour un an - PVT"
 date: "2020-03-16T14:50:14+09:00"
-thumbnail: "https://images.crokmou.com/korea-seoul-city-temple-hanbok.jpg"
+thumbnail: "https://images.crokmou.com/Korea-PVT-dessert-coreen-nouvel-an-yaksik-yakbab-2.jpg"
 categories:
   - "Lifestyle"
 tags:
