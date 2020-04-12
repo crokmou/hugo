@@ -1,7 +1,7 @@
 ---
 title: "Yaksik Yakbap Gateau Riz Dessert Coreen"
 date: "2020-03-30T17:24:55+09:00"
-thumbnail: "https://images.crokmou.com/Korea-PVT-dessert-coreen-nouvel-an-yaksik-yakbab-약식-약밥-2.JPEG"
+thumbnail: "https://images.crokmou.com/Korea-PVT-dessert-coreen-nouvel-an-yaksik-yakbab-2.JPG"
 categories:
   - "Desserts"
 tags:
