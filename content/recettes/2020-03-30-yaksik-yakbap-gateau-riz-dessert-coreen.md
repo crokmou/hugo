@@ -1,16 +1,28 @@
 ---
-title: "Yaksik Yakbap Gateau Riz Dessert Coreen"
+title: "Le Yaksik 약식 ou Yakbap 약밥, gâteau de riz Coréen (Vegan)"
 date: "2020-03-30T17:24:55+09:00"
 thumbnail: "https://images.crokmou.com/Korea-PVT-dessert-coreen-nouvel-an-yaksik-yakbab-2.jpg"
 categories:
   - "Desserts"
 tags:
   - "riz"
+  - "arachide"
+  - "riz gluant"
+  - "sweet rice"
+  - "sucre brun"
+  - "sirop de riz"
+  - "sirop d'agave"
+  - "marron"
+  - "pignon de pin"
+  - "huile de sésame"
+  - "huile végétale"
+  - "cannelle"
+  - "raisin"
 description: "vggvhbhjbb"
 recette_details:
   - Catégorie:
-    - Conserve
-    - Lacto-fermentation
+    - Desserts
+    - Cake
   - Type de cuisine:
     - Coréenne 
   - Régime:
@@ -18,7 +30,6 @@ recette_details:
     - Vegan
     - Sans lactose
     - Sans oeufs
-    - Sans sucre
   - Saison:
     - Automne
     - Hiver
@@ -26,8 +37,9 @@ recette_details:
     - Printemps
   - Évènement:
     - Déjeuner
-    - Dîner
+    - Goûter
     - Brunch
+    - Nouvel An Coréen
     - En couple
     - Entre amis
     - En famille
