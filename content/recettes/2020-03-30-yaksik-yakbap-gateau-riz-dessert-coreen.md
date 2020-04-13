@@ -18,7 +18,7 @@ tags:
   - "huile végétale"
   - "cannelle"
   - "raisin"
-description: "vggvhbhjbb"
+description: "Le **Yaksik 약식 ou le Yakbap 약밥** est un gâteau de riz Coréen, cuit à la vapeur et réalisé pour diverses grandes occasions! Il se compose de riz vapeur sucré et de fruits secs. 약 signifiant médicine et 식 cérémonie ou 밥 aliments/repas, ce gâteau fait donc partit des aliments dit médicinaux"
 recette_details:
   - Catégorie:
     - Desserts
@@ -100,5 +100,19 @@ recette:
   - "Après les dix jours, garder au frigo ou déguster."
 ---
 
+Bonjour les gourmands! J'espère que vous allez bien malgré la situation actuelle. J'ai cru voir sur <a href="https://www.instagram.com/crokmou.veg/" target="_blank">Instagram</a> que beaucoup d'entre vous cuisinent et s'essayent à de nouvelles recettes, notamment celle du <a href="https://crokmou.com/2014/06/levain-fait-maison/" target="_blank">levain!</a>! Chouette d'apprendre de nouvelles choses non? J'espère de tout coeur que vos pains seront réussis! 
+Revenons à l'article d'aujourd'hui, après quelques péripéties dûes à mon ordinateur, il m'est enfin possible de vous écrire! Je sais que vous êtes avant tout de grands fan de cuisine, j'ai donc décidé de vous poster **une recette**, plutôt simple mais délicieuse, venant tout droit de mon nouveau pays d'adoption: la **Corée du Sud**.
 
-vggvhbhjbb
+Le **Yaksik 약식 ou le Yakbap 약밥** est un gâteau de riz Coréen, cuit à la vapeur et réalisé pour diverses grandes occasions notamment: *le nouveau an Coréen Seollal/설날 (courant du mois de Janvier); le jour de la première pleine lune Daeboreum/대보름; mais aussi durant les mariages ou fêtes importantes.*
+약 signifiant médicine et 식/cérémonie ou 밥/aliments mais aussi repas, ce gâteau fait donc partit des aliments dit "médicinaux". Les Coréens croient très fort au pouvoir des aliments pour le bon équilibre du corps, c'est pourquoi ce genre l'on retrouve énormément de fruits secs, de plantes, racines et diverses bonnes choses sur les marchés!
+
+Ca change de nos gros gâteaux pleins de crème n'est-ce pas? Autant vous dire qu'ici les desserts c'est autre chose. La Corée ne dispose pas de la place nécéssaire pour l'agriculture ou l'élevage en général, de ce fait beaucoup de produits sont importés. C'est pourquoi ils utilisent la plupart du temps les ressources de proximité pour la pâtisserie traditionnelle comme: le riz, les haricots rouges, les épices, le soja, le tofu...
+
+{{< gallery >}}
+  {{< img src="https://images.crokmou.com/Korea-market-medicine-food-dried_9111.JPG" >}}
+  {{< img src="https://images.crokmou.com/voyage-nord-massif-vosges-france-chateau-sch%C5%93neck-crokmou-blog-cuisine-voyage-belgique-1.jpg" >}}
+{{< /gallery >}}
+
+La recette reste assez simple et plutôt abordable même en France. Il va peut être falloir chercher un peu pour le riz gluant (pas la farine hein) mais dans l'ensemble tous les ingrédients sont accessibles sans trop de problèmes!
+
+{{< recette >}}
