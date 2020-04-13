@@ -1,6 +1,6 @@
 ---
 title: "Le Yaksik 약식 ou Yakbap 약밥, gâteau de riz Coréen (Vegan)"
-date: "2020-03-30T17:24:55+09:00"
+date: "2020-04-13T12:20:55+01:00"
 thumbnail: "https://images.crokmou.com/Korea-PVT-dessert-coreen-nouvel-an-yaksik-yakbab-2.jpg"
 categories:
   - "Desserts"
@@ -61,7 +61,7 @@ recette_temps:
 recette_ingredients:   
   - label: "Riz"
     value:
-        - "570g de riz gluant, appelé aussi sweet rice"
+        - "570g de riz gluant cru, appelé aussi sweet rice"
         - "480ml d'eau"
         - "8 jujubes sèches ou 5 dattes couépes en morceaux"
         - "140g de marrons décortiqués et cuits puis coupés en morceaux"
