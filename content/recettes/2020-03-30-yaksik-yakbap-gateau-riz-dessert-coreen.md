@@ -113,3 +113,6 @@ La recette reste assez simple et plutôt abordable même en France. Il va peut �
 Pour la réalisation, il est préférabe d'avoir **un cuiseur à riz** mais on peut tout aussi bien réaliser ce gâteau avec une **cuisson vapeur** (un peu comme le couscous)
 
 {{< recette >}}
+
+J'espère que cette recette vous plaira, et si vous avez l'occasion de la réaliser, n'hésitez pas à me le dire (ou me taguer sur les réseaux sociaux)!
+Laissez moi un petit commentaire si vous souhaitez d'autres recettes typiques de ce genre, je serais ravie de les partager avec vous!
