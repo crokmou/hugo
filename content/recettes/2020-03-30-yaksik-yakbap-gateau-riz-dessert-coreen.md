@@ -1,6 +1,6 @@
 ---
 title: "Le Yaksik 약식 ou Yakbap 약밥, gâteau de riz Coréen (Vegan)"
-date: "2020-04-13T12:20:55+01:00"
+date: "2020-04-13T12:20:55+09:00"
 thumbnail: "https://images.crokmou.com/Korea-PVT-dessert-coreen-nouvel-an-yaksik-yakbab-2.jpg"
 categories:
   - "Desserts"
@@ -68,7 +68,7 @@ recette_ingredients:
       - "2 tbsp de pignons de pin"
       - "25g de raisins secs"
       - "25g de cranberries séchées"
-  - label : "Assaissonement"
+  - label : "Assaisonnement"
     value:
       - "90g de sucre brun"
       - "15ml d'huile neutre"
@@ -79,22 +79,23 @@ recette_ingredients:
       - "1 pincée de sel fin"
 recette:
   - "**Au cuiseur à riz** : Mettre le riz dans le bol du cuiseur et ajouter de l'eau du robinet; Il faut laver le riz. Pour cela ajouter de l'eau sur le riz, mélangez bien à l'aide de vos mains et jetez l'eau sale ou alors gardez la pour faire un délicieux bouillon. Répétez l'opération deux fois"
-  - "Une fois le riz bien lavé, ajouter les 480ml d'eau et les ingrédients de l'assaissonement. Mélangez bien"
-  - "Ajoutez ensuite les fruits secs, les marrons, les pignons de pin ainsi que les dattes ou jujube. Faites en sorte que cela soit reparti de manière égale dans le bol du cuiseur à riz"
-  - "Séléctionner le mode multi vapeur ou alors mettre tout simplement 40minutes"
+  - "Une fois le riz bien lavé, ajouter les 480ml d'eau et les ingrédients de l'assaisonnement. Mélangez bien"
+  - "Ajoutez ensuite les fruits secs, les marrons, les pignons de pin ainsi que les dattes ou jujube. Faites en sorte que cela soit reparti de manière équitable dans le bol du cuiseur à riz"
+  - "Séléctionnez le mode multi vapeur 만능찜 ou alors mettez tout simplement 40minutes"
   - "Lorsque le tout est bien cuit, mélangez délicatement à l'aide d'une cuillère à riz. Déposez ensuite votre riz dans un moule carré préalablement filmé. Tassez le riz ppuis laissez refroidir 30 minutes"
-  - "Déguster avec un bon petit thé!"
-  - "**Cuisson vapeur** : Laver le riz comme précédemment écrit."
+  - "Dégustez avec un bon petit thé!"
+  - "**Cuisson vapeur** : Lavez le riz comme précédemment écrit."
   - "Préparez votre cuiseur vapeur: posez un linge en cotton fin ou une étamine afin d'y déposer par dessus le riz péralablement lavé."
   - "Ajoutez l'eau dans le bac du cuiseur vapeur et laissez cuire le riz pendant 30 minutes environ"
-  - "Préparez l'assaissonement et les fruits secs"
-  - "Lorsque le riz est cuit, transférez dans un bol et ajouter l'assaissonement et les fruits secs. Bien mélanger à l'aide d'une spatule"
-  - "Remettre à cuire sur l'étamine dans le cuiseur vapeur pendant 30 minutes environ"
+  - "Préparez l'assaisoㅜnement et les fruits secs"
+  - "Lorsque le riz est cuit, transférez dans un bol et ajouter l'assaisoㅜnement et les fruits secs. Bien mélanger à l'aide d'une spatule"
+  - "Remettez à cuire sur l'étamine dans le cuiseur vapeur pendant 30 minutes environ"
   - "Lorsque le gâteau est cuit, déposez ensuite votre riz dans le moule filmé comme expliqué dans le point n°5"
 slug: "yaksik-yakbap-gateau-riz-vegan-coreen"
 ---
 
 Bonjour les gourmands! J'espère que vous allez bien malgré la situation actuelle. J'ai cru voir sur <a href="https://www.instagram.com/crokmou.veg/" target="_blank">Instagram</a> que beaucoup d'entre vous cuisinent et s'essayent à de nouvelles recettes, notamment celle du <a href="https://crokmou.com/2014/06/levain-fait-maison/" target="_blank">levain</a>! Chouette d'apprendre de nouvelles choses non? J'espère de tout coeur que vos pains seront réussis! 
+
 Revenons à l'article d'aujourd'hui, après quelques péripéties dûes à mon ordinateur, il m'est enfin possible de vous écrire! Je sais que vous êtes avant tout de grands fan de cuisine, j'ai donc décidé de vous poster **une recette**, plutôt simple mais délicieuse, venant tout droit de mon nouveau pays d'adoption: la **Corée du Sud**.
 
 {{< img src="https://images.crokmou.com/Korea-PVT-dessert-coreen-nouvel-an-yaksik-yakbab-1.jpg" alt="Le Yaksik 약식 ou Yakbap 약밥, gâteau de riz Coréen (Vegan)" >}}
@@ -111,7 +112,7 @@ Ca change de nos gros gâteaux pleins de crème n'est-ce pas? Autant vous dire q
 {{< /gallery >}}
 
 La recette reste assez simple et plutôt abordable même en France. Il va peut être falloir chercher un peu pour le riz gluant (pas la farine hein) mais dans l'ensemble tous les ingrédients sont accessibles sans trop de problèmes!
-Pour la réalisation, il est préférabe d'avoir **un cuiseur à riz** mais on peut tout aussi bien réaliser ce gâteau avec une **cuisson vapeur** (un peu comme le couscous)
+Pour la réalisation, il est préférable d'avoir **un cuiseur à riz** mais on peut tout aussi bien réaliser ce gâteau avec une **cuisson vapeur** (un peu comme le couscous)
 
 {{< recette >}}
 
