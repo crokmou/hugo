@@ -57,40 +57,41 @@ recette_temps:
   - schema_id: "performTime"
     label: "Pose"
     duration: "20 minutes"
-    schema_value: "P20M"
+    schema_value: "PT20M"
 recette_ingredients:   
   - label: "Riz"
     value:
-        - "570g de riz gluant cru, appelé aussi sweet rice"
-        - "480ml d'eau"
-        - "8 jujubes sèches ou 5 dattes couépes en morceaux"
-        - "140g de marrons décortiqués et cuits puis coupés en morceaux"
-        - 2 tbsp de pignons de pin
-        - 25g de raisins secs
-        - 25g de cranberries séchées
+      - "570g de riz gluant cru, appelé aussi sweet rice"
+      - "480ml d'eau"
+      - "8 jujubes sèches ou 5 dattes couépes en morceaux"
+      - "140g de marrons décortiqués et cuits puis coupés en morceaux"
+      - "2 tbsp de pignons de pin"
+      - "25g de raisins secs"
+      - "25g de cranberries séchées"
   - label : "Assaissonement"
     value:
-        - "90g de sucre brun"
-        - "15ml d'huile neutre"
-        - "15ml de sauce soja"
-        - "15ml d'huile de sésame"
-        - "3g  de cannelle"
-        - "30g de sirop d'agave ou de riz"
-        - "1 pincée de sel fin"
+      - "90g de sucre brun"
+      - "15ml d'huile neutre"
+      - "15ml de sauce soja"
+      - "15ml d'huile de sésame"
+      - "3g de cannelle"
+      - "30g de sirop d'agave ou de riz"
+      - "1 pincée de sel fin"
 recette:
-  - "**Au cuiseur à riz** : Mettre le riz dans le bol du cuiseur et ajouter de l'eau du robinet: Il faut laver le riz. Pour cela ajouter de l'eau sur le riz, mélangez bien à l'aide de vos mains et jetez l'eau "sale" (ou alors gardez la pour faire un délicieux bouillon). Répétez l'opération deux fois"
+  - "**Au cuiseur à riz** : Mettre le riz dans le bol du cuiseur et ajouter de l'eau du robinet; Il faut laver le riz. Pour cela ajouter de l'eau sur le riz, mélangez bien à l'aide de vos mains et jetez l'eau sale ou alors gardez la pour faire un délicieux bouillon. Répétez l'opération deux fois"
   - "Une fois le riz bien lavé, ajouter les 480ml d'eau et les ingrédients de l'assaissonement. Mélangez bien"
   - "Ajoutez ensuite les fruits secs, les marrons, les pignons de pin ainsi que les dattes ou jujube. Faites en sorte que cela soit reparti de manière égale dans le bol du cuiseur à riz"
-  - "Séléctionner le mode multi vapeur 만능찜 ou alors mettre tout simplement 35/40minutes"
-  - "Lorsque le tout est bien cuit, mélangez délicatement à l'aide d'une cuillère à riz. Déposez ensuite votre riz dans un moule carré préalablement filmé. Tassez le riz ppuis laissez refroidir 20/30 minutes"
+  - "Séléctionner le mode multi vapeur ou alors mettre tout simplement 40minutes"
+  - "Lorsque le tout est bien cuit, mélangez délicatement à l'aide d'une cuillère à riz. Déposez ensuite votre riz dans un moule carré préalablement filmé. Tassez le riz ppuis laissez refroidir 30 minutes"
   - "Déguster avec un bon petit thé!"
   - "**Cuisson vapeur** : Laver le riz comme précédemment écrit."
   - "Préparez votre cuiseur vapeur: posez un linge en cotton fin ou une étamine afin d'y déposer par dessus le riz péralablement lavé."
   - "Ajoutez l'eau dans le bac du cuiseur vapeur et laissez cuire le riz pendant 30 minutes environ"
   - "Préparez l'assaissonement et les fruits secs"
   - "Lorsque le riz est cuit, transférez dans un bol et ajouter l'assaissonement et les fruits secs. Bien mélanger à l'aide d'une spatule"
-  - "Remettre à cuire sur l'étamine dans le cuiseur vapeur pendant 20/30 minutes environ"
-  - "Lorsque le gâteau est cuit, déposez ensuite votre riz dans le moule filmé comme expliqué dans le point n°5
+  - "Remettre à cuire sur l'étamine dans le cuiseur vapeur pendant 30 minutes environ"
+  - "Lorsque le gâteau est cuit, déposez ensuite votre riz dans le moule filmé comme expliqué dans le point n°5"
+slug: "yaksik-yakbap-gateau-riz-vegan-coreen"
 ---
 
 Bonjour les gourmands! J'espère que vous allez bien malgré la situation actuelle. J'ai cru voir sur <a href="https://www.instagram.com/crokmou.veg/" target="_blank">Instagram</a> que beaucoup d'entre vous cuisinent et s'essayent à de nouvelles recettes, notamment celle du <a href="https://crokmou.com/2014/06/levain-fait-maison/" target="_blank">levain</a>! Chouette d'apprendre de nouvelles choses non? J'espère de tout coeur que vos pains seront réussis! 
