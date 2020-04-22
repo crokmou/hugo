@@ -41,4 +41,4 @@ Pour mettre à jour une modification:
 - Ouvrir un nouveau terminal (pomme + T) et taper: `cd Documents/Crokmou/Blog`
 - Ensuite taper: `hugo new SECTION/aaaa-mm-dd-slug-de-l-article.md` (ex: `hugo new blog/2017-01-07-mon-nouveau-blog.md` ou s'il  y a un espace dans la section, il faut les prefixer par un `\` - `hugo new carnet\ de\ voyage/2017-01-07-mon-nouveau-voyage.md`
 
-hugo new recettes/2020-03-30-yaksik-yakbap-gateau-riz-dessert-coreen.md
+hugo new carnet\ de\ voyage/2020-04-18-visite-temple-bouddhiste-jogyesa-조계사-seoul-dyastie-joseon.md
