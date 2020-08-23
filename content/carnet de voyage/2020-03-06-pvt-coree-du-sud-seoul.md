@@ -52,7 +52,7 @@ _La République de Corée reste très conservative, mais elle s'ouvre malgré to
 
 
 {{< gallery >}}
-{{< img src="https://images.crokmou.com/korea-visit-seoul-changement-garde-temple.jpg" alt="korea-visit-seoul-changement-garde-temple" >}}{{< img src="https://images.crokmou.com/korea-seoul-night-city-market.jpg" alt="korea-seoul-market-night-street" >}}{{< img src="https://images.crokmou.com/Seoul-2019-0737.jpg" alt="korea-seoul-temple-decoration-buddhisme" >}}
+{{< img src="https://images.crokmou.com/korea-visit-seoul-changement-garde-temple.jpg" alt="korea-visit-seoul-changement-garde-temple" >}}{{< img src="https://images.crokmou.com/korea-seoul-night-city-market.jpg" alt="korea-seoul-market-night-street" >}}{{< img src="https://images.crokmou.com/Temple-jogyesa-seoul-bouddhisme-5.jpg" alt="korea-seoul-temple-decoration-buddhisme" >}}
 {{< /gallery >}}
 
 
