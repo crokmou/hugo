@@ -54,9 +54,9 @@ recette_ingredients:
   - value:
     - 500g de farine
     - 100g de sucre non raffiné
-    - 2g de sel
+    - 4g de sel
     - 300g de lait de soja non sucré
-    - 42g de levure de boulanger
+    - 21g de levure de boulanger
     - 80g de beurre de cacao (ou matière grasse végétale)
     - 80g de pépites de chocolat
     - lait + sucre pour dorure
