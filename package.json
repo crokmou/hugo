@@ -98,7 +98,7 @@
     "sw-precache": "^5.2.0",
     "to-markdown": "^3.1.0",
     "uncss": "^0.16.2",
-    "underscore": "^1.8.3",
+    "underscore": "^1.12.1",
     "yamljs": "^0.3.0"
   }
 }
